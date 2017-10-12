@@ -69,7 +69,7 @@ my $progress_bar = Term::ProgressBar->new(scalar @$pgPMIDs);
 
 for my $i (0..$#{ $pgPMID }) {
 
-  my $pub       =   $dbcoll->find_one( { PMID => qr/^$pgPMID->[$i]$/ } );
+  my $pub       =   $dbcoll->find_one( { PMID => qr/^$pgPMIDs->[$i]$/ } );
 
   foreach (keys %$pub) {
     if ($pub->{$_} !~ /\w/)     { delete $pub->{$_} }
