@@ -21,8 +21,8 @@ authors: Jiang L, Huang J, Higgs BW, Hu Z, Xiao Z, Yao X, Conley S, Zhong H, Liu
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '22030'
+  term_label: lung and bronchus
 contact:
   email: oliver_67@yahoo.com
   name: Yihonng Yao

@@ -19,8 +19,8 @@ authors: Mei Y, Bi WL, Greenwald NF, Agar NY, Beroukhim R, Dunn GP, Dunn IF.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31010'
+  term_label: brain
 contact:
   email: idunn@partners.org
   name: Ian F. Dunn

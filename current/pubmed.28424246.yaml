@@ -20,8 +20,8 @@ authors: Moffitt AB, Ondrejka SL, McKinney M, Rempel RE, Goodlad JR, Teh CH, Lep
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '33042'
+  term_label: nhl - extranodal
 contact:
   email: sandeep.dave@duke.edu
   name: Sandeep S. Dave

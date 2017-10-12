@@ -30,8 +30,8 @@ authors: Emmanuel C, Chiew YE, George J, Etemadmoghadam D, Anglesio MS, Sharma R
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: anna.defazio@sydney.edu.au
   name: ~

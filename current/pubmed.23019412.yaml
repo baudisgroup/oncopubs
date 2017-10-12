@@ -23,8 +23,8 @@ authors: Nord KH, Paulsson K, Veerla S, Wejde J, Brosjï¿½ O, Mandahl N, Merte
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '24000'
+  term_label: soft tissue including heart
 contact:
   email: Karolin.Hansen_Nord@med.lu.se
   name: Karolin Hansen

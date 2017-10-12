@@ -20,8 +20,8 @@ authors: Kim KT, Lee HW, Lee HO, Song HJ, Jeong da E, Shin S, Kim H, Shin Y, Nam
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '29020'
+  term_label: kidney and renal pelvis
 contact:
   email: woongyang.park@samsung.com
   name: Woong-Yang Park

@@ -30,8 +30,8 @@ authors: Lesurf R, Griffith OL, Griffith M, Hundal J, Trani L, Watson MA, Aft R,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: elaine.mardis@nationwidechildrens.org
   name: Elaine Mardis

@@ -5,8 +5,8 @@ authors: Menke J, Pauli S, Sigler M, Kï¿½hnle I, Shoukier M, Zoll B, Ganster 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: menke-j@t-online.de
   name: ~

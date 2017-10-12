@@ -22,8 +22,8 @@ authors: Krijgsman O, Israeli D, van Essen HF, Eijk PP, Berens ML, Mellink CH, N
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

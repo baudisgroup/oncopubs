@@ -21,8 +21,8 @@ authors: Ashktorab H, Daremipouran M, Devaney J, Varma S, Rahi H, Lee E, Shokran
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21049'
+  term_label: large intestine, nos
 contact:
   email: hashktorab@howard.edu
   name: Hassan Ashktorab

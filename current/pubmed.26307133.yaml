@@ -21,8 +21,8 @@ authors: Wilson MA, Zhao F, Khare S, Roszik J, Woodman SE, D'Andrea K, Wubbenhor
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '25010'
+  term_label: melanoma of the skin
 contact:
   email: knathans@exchange.upenn.edu
   name: Katherine Nathanson

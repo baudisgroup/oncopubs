@@ -21,8 +21,8 @@ authors: McCormick A, Earp E, Elliot K, Cuthbert G, O'Donnell R, Wilson BT, Sutt
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '27040'
+  term_label: ovary
 contact:
   email: richard.edmondson@manchester.ac.uk
   name: Richard J. Edmondson

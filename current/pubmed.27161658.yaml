@@ -24,8 +24,8 @@ authors: Wang Y, Miller S, Roulston D, Bixby D and Shao L
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '35011'
+  term_label: acute lymphocytic leukemia
 contact:
   email: linashao@med.umich.edu
   name: Lin Shao

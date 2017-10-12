@@ -27,8 +27,8 @@ authors: Pï¿½cuchet N, Vieira T, Rabbe N, Antoine M, Blons H, Cadranel J, Lau
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '24000'
+  term_label: soft tissue including heart
 contact:
   email: marie.wislez@aphp.fr
   name: Marie Wislez

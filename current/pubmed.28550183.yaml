@@ -24,8 +24,8 @@ authors: Mikulasova A, Wardell CP, Murison A, Boyle EM, Jackson GH, Smetana J, K
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '34000'
+  term_label: myeloma
 contact:
   email: bwalker2@uams.edu
   name: Brian A. Walker

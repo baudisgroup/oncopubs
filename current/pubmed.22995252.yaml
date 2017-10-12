@@ -40,8 +40,8 @@ cancertypes:
   term_label: Large Intestine, NOS
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21049'
+  term_label: large intestine, nos
 - samples_arraymap: 84
   samples_progenetix: ~
   term_id: snmi:M-81403

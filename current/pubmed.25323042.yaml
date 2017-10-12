@@ -20,8 +20,8 @@ authors: Maffei M, Mongera S, Terpstra L, Donadini A, Voorham QJ, Meijer GA, Gia
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21048'
+  term_label: sigmoid colon
 contact:
   email: d.sie@vumc.nl
   name: Daoud Sie

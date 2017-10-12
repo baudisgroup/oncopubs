@@ -17,8 +17,8 @@ authors: Kiyohara Y, Yoshikawa S, Otsuka M, Kondou R, Iizuka A, Nonomura C, Ohsh
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '25010'
+  term_label: melanoma of the skin
 contact:
   email: ~
   name: ~

@@ -39,8 +39,8 @@ authors: Shi J, Hua X, Zhu B, Ravichandran S, Wang M, Nguyen C, Brodie SA, Palle
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '22030'
+  term_label: lung and bronchus
 contact:
   email: landim@mail.nih.gov
   name: Maria Teresa Landi

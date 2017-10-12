@@ -24,8 +24,8 @@ authors: Hijiya N, Tsukamoto Y, Nakada C, Tung Nguyen L, Kai T, Matsuura K, Shib
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21100'
+  term_label: pancreas
 contact:
   email: hijiya@oita-u.ac.jp
   name: Naoki Hijiya

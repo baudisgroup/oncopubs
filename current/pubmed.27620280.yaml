@@ -24,8 +24,8 @@ authors: Lips EH, Debipersad R, Scheerman CE, Mulder L, Sonke GS, van der Kolk L
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: e.lips@nki.nl
   name: EH Lips

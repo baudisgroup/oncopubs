@@ -50,8 +50,8 @@ cancertypes:
   term_label: Cervix Uteri
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '27010'
+  term_label: cervix uteri
 - samples_arraymap: 6
   samples_progenetix: ~
   term_id: snmi:M-80703

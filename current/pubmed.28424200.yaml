@@ -27,8 +27,8 @@ authors: Avigdor B, Beierl K, Gocke CD, Zabransky D, Cravero K, Kyker-Snowman K,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: bpark2@jhmi.edu
   name: Ben H. Park

@@ -28,8 +28,8 @@ authors: Kanojia D, Nagata Y, Garg M, Lee DH, Sato A, Yoshida K, Sato Y, Sanada 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: csidk@nus.edu.sg
   name: Deepika Kanojia

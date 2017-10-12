@@ -18,8 +18,8 @@ authors: Holley T, Lenkiewicz E, Evers L, Tembe W, Ruiz C, Gsponer JR, Rentsch C
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: barrett.michael@mayo.edu
   name: Michael Thomas Barrett

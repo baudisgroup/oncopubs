@@ -21,8 +21,8 @@ authors: Kï¿½hn L, Svenson U, Ljungberg B, Roos G.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '29020'
+  term_label: kidney and renal pelvis
 contact:
   email: linda.kohn@medbio.umu.se
   name: Linda Kohn

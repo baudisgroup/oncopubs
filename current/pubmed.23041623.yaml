@@ -20,8 +20,8 @@ authors: McKee CM, Xu D, Cao Y, Kabraji S, Allen D, Kersemans V, Beech J, Smart 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '28010'
+  term_label: prostate
 contact:
   email: ~
   name: Igor Jurisica

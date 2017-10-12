@@ -22,8 +22,8 @@ authors: Baca SC, Prandi D, Lawrence MS, Mosquera JM, Romanel A, Drier Y, Park K
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '28010'
+  term_label: prostate
 contact:
   email: levi_garraway@dfci.harvard.edu
   name: Levi A. Garraway

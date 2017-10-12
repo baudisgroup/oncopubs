@@ -32,8 +32,8 @@ authors: Weigelt B, Ng CK, Shen R, Popova T, Schizas M, Natrajan R, Mariani O, S
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: ~
   name: Charlotte KY Ng

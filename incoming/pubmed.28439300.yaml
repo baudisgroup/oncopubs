@@ -28,8 +28,8 @@ authors: Ogawa H, Iwamoto A, Tanahashi T, Okada R, Yamamoto K, Nishiumi S, Yoshi
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20050'
+  term_label: Gum and Other Mouth
 contact:
   email: ~
   name: Jingzhou Hu

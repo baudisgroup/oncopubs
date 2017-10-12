@@ -6,8 +6,8 @@ authors: Ito Y, Maeda D, Yoshida M, Yoshida A, Kudo-Asabe Y, Nanjyo H, Izumi C, 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: maeda-tky@umin.ac.jp
   name: Daichi Maeda

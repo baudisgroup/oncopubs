@@ -23,8 +23,8 @@ authors: Paï¿½no T, Sarasquete ME, Paiva B, Krzeminski P, San-Segundo L, Corc
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '34000'
+  term_label: myeloma
 contact:
   email: tpaino@usal.es
   name: Teresa Pano

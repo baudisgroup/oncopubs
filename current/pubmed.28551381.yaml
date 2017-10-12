@@ -20,8 +20,8 @@ authors: Viel A, Bruselles A, Meccia E, Fornasarig M, Quaia M, Canzonieri V, Pol
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21049'
+  term_label: large intestine, nos
 contact:
   email: margherita.bignami@gmail.com
   name: Margherita Bignami

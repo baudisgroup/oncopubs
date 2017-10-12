@@ -49,8 +49,8 @@ cancertypes:
   term_label: Soft Tissue including Heart
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '24000'
+  term_label: soft tissue including heart
 - samples_arraymap: 20
   samples_progenetix: ~
   term_id: snmi:M-88003

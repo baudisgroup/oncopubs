@@ -30,8 +30,8 @@ authors: Peng S, Dhurv H, Armstrong B, Salhia B, Legendre C, Kiefer J, Parks J, 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31010'
+  term_label: brain
 contact:
   email: mberens@tgen.org
   name: Michael E. Berens

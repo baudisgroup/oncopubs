@@ -23,8 +23,8 @@ authors: Chapuy B, Roemer MG, Stewart C, Tan Y, Abo RP, Zhang L, Dunford AJ, Mer
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: Bjoern_Chapuy@dfci.harvard.edu
   name: Bjrn Chapuy

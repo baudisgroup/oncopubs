@@ -48,8 +48,8 @@ authors: Snyder A, Nathanson T, Funt SA, Ahuja A, Buros Novik J, Hellmann MD, Ch
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '29010'
+  term_label: urinary bladder
 contact:
   email: snyderca@mskcc.org
   name: Alexandra Snyder

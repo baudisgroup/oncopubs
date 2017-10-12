@@ -54,8 +54,8 @@ cancertypes:
   term_label: invalid
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '29020'
+  term_label: kidney and renal pelvis
 - samples_arraymap: 26
   samples_progenetix: ~
   term_id: snmi:M-00000

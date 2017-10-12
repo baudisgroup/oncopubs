@@ -23,8 +23,8 @@ authors: Chen G, Chakravarti N, Aardalen K, Lazar AJ, Tetzlaff MT, Wubbenhorst B
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: gchen2@mdanderson.org
   name: Guo Chen

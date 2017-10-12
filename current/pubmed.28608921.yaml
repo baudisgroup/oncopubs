@@ -29,8 +29,8 @@ authors: Dai W, Ko JMY, Choi SSA, Yu Z, Ning L, Zheng H, Gopalan V, Chan KT, Lee
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21010'
+  term_label: Esophagus
 contact:
   email: ~
   name: Maria Li Lung

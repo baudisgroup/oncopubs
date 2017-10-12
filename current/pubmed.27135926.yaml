@@ -29,8 +29,8 @@ authors: Nik-Zainal S, Davies H, Staaf J, Ramakrishna M, Glodzik D, Zou X, Marti
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: mrs@sanger.ac.uk
   name: Michael R Stratton

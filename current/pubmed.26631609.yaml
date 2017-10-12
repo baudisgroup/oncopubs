@@ -23,8 +23,8 @@ authors: Mitani Y, Liu B, Rao PH, Borra VJ, Zafereo M, Weber RS, Kies M, Lozano 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20030'
+  term_label: salivary gland
 contact:
   email: anaggar@mdanderson.org
   name: Adel K. El-Naggar

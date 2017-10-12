@@ -23,8 +23,8 @@ authors: Lim CH, Cho YK, Kim SW, Choi MG, Rhee JK, Chung YJ, Lee SH and Kim TM
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21020'
+  term_label: stomach
 contact:
   email: tmkim@catholic.ac.kr
   name: Tae-Min Kim

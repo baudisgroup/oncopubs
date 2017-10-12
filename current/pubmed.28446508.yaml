@@ -29,8 +29,8 @@ authors: Pierobon M, Ramos C, Wong S, Hodge KA, Aldrich J, Byron SA, Anthony SP,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: epetrico@gmu.edu
   name: Emanuel F. Petricoin

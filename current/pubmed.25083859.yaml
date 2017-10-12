@@ -28,8 +28,8 @@ authors: Vollebergh MA, Klijn C, Schouten PC, Wesseling J, Israeli D, Ylstra B, 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: s.linn@nki.nl
   name: Sabine C. Linn

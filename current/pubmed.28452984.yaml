@@ -24,8 +24,8 @@ authors: Togasaki E, Takeda J, Yoshida K, Shiozawa Y, Takeuchi M, Oshima M, Sara
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '35022'
+  term_label: Chronic Myeloid Leukemia
 contact:
   email: chiaki-nakaseko@faculty.chiba-u.jp
   name: C Nakaseko

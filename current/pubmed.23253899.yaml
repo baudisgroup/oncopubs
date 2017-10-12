@@ -29,8 +29,8 @@ authors: Sahlberg KK, Hongisto V, Edgren H, Mï¿½kelï¿½ R, Hellstrï¿½m K
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: kristine.kleivi@rr-research.no
   name: ~

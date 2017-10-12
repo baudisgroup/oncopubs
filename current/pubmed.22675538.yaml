@@ -32,8 +32,8 @@ authors: Corver WE, Ruano D, Weijers K, den Hartog WC, van Nieuwenhuizen MP, de 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '32010'
+  term_label: thyroid
 contact:
   email: w.e.corver@lumc.nl
   name: W E Corver

@@ -23,8 +23,8 @@ authors: Dickman CT, Towle R, Saini R, Garnis C.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20080'
+  term_label: oropharynx
 contact:
   email: cdickman@bccrc.ca
   name: Christopher Trevor Daniel Dickman

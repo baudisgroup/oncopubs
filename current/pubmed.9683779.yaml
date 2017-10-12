@@ -5,8 +5,8 @@ authors: Verdorfer I, Culig Z, Hobisch A, Bartsch G, Hittmair A, Duba HC, and Er
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: ~
   name: ~

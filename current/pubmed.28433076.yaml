@@ -22,8 +22,8 @@ authors: Wang L, Busam KJ, Benayed R, Cimera R, Wang J, Denley R, Rao M, Aryeequ
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '25010'
+  term_label: melanoma of the skin
 contact:
   email: wangl1@mskcc.org
   name: Lu Wang

@@ -57,8 +57,8 @@ cancertypes:
   term_label: invalid
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 - samples_arraymap: 11
   samples_progenetix: ~
   term_id: snmi:M-00000

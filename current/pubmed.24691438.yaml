@@ -20,8 +20,8 @@ authors: Liu Q, Tomei S, Ascierto ML, De Giorgi V, Bedognetti D, Dai C, Uccellin
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: liuqiuzhen@126.gov
   name: 01186.020.62789410

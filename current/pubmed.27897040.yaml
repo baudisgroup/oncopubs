@@ -13,8 +13,8 @@ authors: Lianos GD, Glantzounis GK, Bali CD, Katsios C, Roukos DH.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21020'
+  term_label: stomach
 contact:
   email: droukos@uoi.gr
   name: Dimitrios H Roukos

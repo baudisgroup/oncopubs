@@ -25,8 +25,8 @@ authors: Theissen J, Oberthuer A, Hombach A, Volland R, Hertwig F, Fischer M, Sp
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

@@ -22,8 +22,8 @@ authors: Terragna C, Remondini D, Martello M, Zamagni E, Pantani L, Patriarca F,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '34000'
+  term_label: myeloma
 contact:
   email: carolina.terragna@unibo.it
   name: Carolina Terragna

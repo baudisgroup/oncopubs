@@ -24,8 +24,8 @@ authors: Messina M, Chiaretti S, Wang J, Fedullo AL, Peragine N, Gianfelici V, P
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '35011'
+  term_label: acute lymphocytic leukemia
 contact:
   email: messina@bce.uniroma1.it
   name: Monica Messina

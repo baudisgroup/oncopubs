@@ -28,8 +28,8 @@ authors: Mouradov D, Sloggett C, Jorissen RN, Love CG, Li S, Burgess AW, Arango 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: John.Mariadason@ludwig.edu.au
   name: 61-3-9345-2885

@@ -30,8 +30,8 @@ authors: Silveira SM, da Cunha IW, Marchi FA, Busso AF, Lopes A and Rogatto SR
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: sara_martorelli@yahoo.com.brl
   name: ~

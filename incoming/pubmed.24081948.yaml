@@ -33,8 +33,8 @@ cancertypes:
   term_label: Acute Lymphocytic Leukemia
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 - samples_arraymap: 40
   samples_progenetix: ~
   term_id: snmi:M-98353

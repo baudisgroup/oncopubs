@@ -44,8 +44,8 @@ cancertypes:
   term_label: Lung and Bronchus
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '22030'
+  term_label: lung and bronchus
 - samples_arraymap: 179
   samples_progenetix: ~
   term_id: snmi:M-80463

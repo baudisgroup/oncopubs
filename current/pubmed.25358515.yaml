@@ -22,8 +22,8 @@ authors: Polzer B, Medoro G, Pasch S, Fontana F, Zorzino L, Pestka A, Andergasse
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: zbigniew.czyz@klinik.uni-regensburg.de
   name: Zbigniew Tadeusz Czyz

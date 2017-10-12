@@ -30,8 +30,8 @@ authors: Grasso CS, Wu YM, Robinson DR, Cao X, Dhanasekaran SM, Khan AP, Quist M
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '28010'
+  term_label: prostate
 contact:
   email: tomlinss@med.umich.edu
   name: Scott Tomlins

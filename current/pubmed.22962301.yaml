@@ -52,8 +52,8 @@ cancertypes:
   term_label: Other Endocrine including Thymus
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '32020'
+  term_label: other endocrine including thymus
 - samples_arraymap: 1
   samples_progenetix: ~
   term_id: snmi:M-86801

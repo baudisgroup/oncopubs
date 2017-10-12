@@ -23,8 +23,8 @@ authors: Oh T, Kim N, Moon Y, Kim MS, Hoehn BD, Park CH, Kim TS, Kim NK, Chung H
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21049'
+  term_label: large intestine, nos
 contact:
   email: genomictree1@ korea.com
   name: Sungwhan An

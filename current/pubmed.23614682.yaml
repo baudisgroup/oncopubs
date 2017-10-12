@@ -52,8 +52,8 @@ cancertypes:
   term_label: invalid
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '35023'
+  term_label: other myeloid/monocytic leukemia
 - samples_arraymap: 30
   samples_progenetix: ~
   term_id: snmi:M-00000

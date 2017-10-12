@@ -22,8 +22,8 @@ authors: Yi Y, Tian Z, Ju H, Ren G, Hu J.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20050'
+  term_label: Gum and Other Mouth
 contact:
   email: ~
   name: Jingzhou Hu

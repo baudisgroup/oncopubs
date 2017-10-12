@@ -23,8 +23,8 @@ authors: Chen S, Fritchie K, Wei S, Ali N, Curless K, Shen T, Brini AT, Latif F,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '23000'
+  term_label: Bones and Joints
 contact:
   email: chen251@iupui.edu
   name: Shaoxiong Chen

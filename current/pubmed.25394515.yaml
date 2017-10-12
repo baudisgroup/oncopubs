@@ -18,8 +18,8 @@ authors: Haan JC, Labots M, Rausch C, Koopman M, Tol J, Mekenkamp LJ, van de Wie
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21049'
+  term_label: large intestine, nos
 contact:
   email: GA.Meijer@vumc.nl
   name: Gerrit A. Meijer

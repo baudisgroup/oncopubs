@@ -26,8 +26,8 @@ authors: Sucker A, Zhao F, Real B, Heeke C, Bielefeld N, MaÎ²en S, Horn S, Mol
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: klaus.griewank@uk-essen.de
   name: Klaus Georg Griewank

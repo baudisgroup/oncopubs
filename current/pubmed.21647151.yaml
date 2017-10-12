@@ -21,8 +21,8 @@ authors: Loudin MG, Wang J, Leung HC, Gurusiddappa S, Meyer J, Condos G, Morriso
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '35011'
+  term_label: acute lymphocytic leukemia
 contact:
   email: exleung@txccc.org
   name: Hon-chiu Eastwood Leung

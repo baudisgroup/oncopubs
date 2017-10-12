@@ -21,8 +21,8 @@ authors: Stï¿½lberg K, Crona J, Razmara M, Taslica D, Skogseid B and Stï¿½
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '27040'
+  term_label: ovary
 contact:
   email: karin.stalberg@kbh.uu.se
   name: Karin Stalberg

@@ -18,8 +18,8 @@ authors: Joo KM, Kim J, Jin J, Kim M, Seol HJ, Muradov J, Yang H, Choi YL, Park 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31010'
+  term_label: brain
 contact:
   email: nsnam@skku.edu
   name: DH Nam

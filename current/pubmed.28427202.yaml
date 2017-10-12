@@ -24,8 +24,8 @@ authors: Kim JY, Lee E, Park K, Park WY, Jung HH, Ahn JS, Im YH, Park YH.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: yhparkhmo@skku.edu
   name: Yeon Hee Park

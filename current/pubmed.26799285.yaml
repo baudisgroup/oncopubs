@@ -24,8 +24,8 @@ authors: Litviakov NV, Cherdyntseva NV, Tsyganov MM, Slonimskaya EM, Ibragimova 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '26000'
+  term_label: breast
 contact:
   email: nvch@oncology.tomsk.ru
   name: Nadezhda V. Cherdyntseva

@@ -32,8 +32,8 @@ cancertypes:
   term_label: invalid
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21020'
+  term_label: stomach
 - samples_arraymap: 95
   samples_progenetix: ~
   term_id: snmi:M-00000

@@ -29,8 +29,8 @@ authors: Wyatt AW, Mo F, Wang K, McConeghy B, Brahmbhatt S, Jong L, Mitchell DM,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '28010'
+  term_label: prostate
 contact:
   email: moc.ertnecetatsorp@ttaywa
   name: ~

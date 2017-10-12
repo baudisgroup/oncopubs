@@ -29,8 +29,8 @@ authors: Baughn LB, Biegel JA, South ST, Smolarek TA, Volkert S, Carroll AJ, Hee
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: hirsc003@umn.edu
   name: Betsy Hirsch

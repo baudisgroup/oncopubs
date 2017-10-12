@@ -25,8 +25,8 @@ authors: Bidinotto LT, Torrieri R, Mackay A, Almeida GC, Viana-Pereira M, Cruvin
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31010'
+  term_label: brain
 contact:
   email: ruireis.hcb@gmail.com
   name: Rui Manuel Reis

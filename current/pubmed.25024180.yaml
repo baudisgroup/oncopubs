@@ -23,8 +23,8 @@ authors: Hieronymus H, Schultz N, Gopalan A, Carver BS, Chang MT, Xiao Y, Heguy 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: sawyersc@mskcc.org
   name: ~

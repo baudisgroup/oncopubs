@@ -22,8 +22,8 @@ authors: Castagnola P, Zoppoli G, Gandolfo S, Monticone M, Malacarne D, Cirmena 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20050'
+  term_label: gum and other mouth
 contact:
   email: patrizio.castagnola@istge.it
   name: Patrizio Castagnola

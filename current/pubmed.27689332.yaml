@@ -20,8 +20,8 @@ authors: Zhao J, Xu W, He M, Zhang Z, Zeng S, Ma C, Sun Y, Xu C.
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '29010'
+  term_label: urinary bladder
 contact:
   email: xuchuanliang@vip.126.com
   name: Chuanliang Xu

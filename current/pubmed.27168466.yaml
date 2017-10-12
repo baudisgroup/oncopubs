@@ -24,8 +24,8 @@ authors: Ryan SL, Matheson E, Grossmann V, Sinclair P, Bashton M, Schwab C, Towe
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

@@ -34,8 +34,8 @@ authors: Ferreira EN, Barros BD, de Souza JE, Almeida RV, Torrezan GT, Garcia S,
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '24000'
+  term_label: soft tissue including heart
 contact:
   email: dirce.carraro@cipe.accamargo.org.br
   name: Dirce Maria Carraro

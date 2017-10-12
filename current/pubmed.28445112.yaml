@@ -38,8 +38,8 @@ authors: Jamal-Hanjani M, Wilson GA, McGranahan N, Birkbak NJ, Watkins TBK, Veer
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '22030'
+  term_label: lung and bronchus
 contact:
   email: charles.swanton@ crick.ac.uk
   name: Charles Swanton

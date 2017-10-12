@@ -21,8 +21,8 @@ authors: Havelange V, Pepermans X, Ameye G, Thï¿½ate I, Callet-Bauchu E, Bari
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: helene.antoine-poirel@uclouvain.be
   name: Helen A Poirel

@@ -22,8 +22,8 @@ authors: Nagai K, Nakahata S, Shimosaki S, Tamura T, Kondo Y, Baba T, Taki T, Ta
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20050'
+  term_label: gum and other mouth
 contact:
   email: kmorishi@med.miyazaki-u.ac.jp
   name: Kazuhiro Morishita

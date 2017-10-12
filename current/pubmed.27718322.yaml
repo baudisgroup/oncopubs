@@ -12,8 +12,8 @@ authors: Fiset PO, Fontebasso AM, De Jay N, Gayden T, Nikbakht H, Majewski J, Ja
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31010'
+  term_label: brain
 contact:
   email: steffen.albrecht@hotmail.com
   name: Steffen Albrecht

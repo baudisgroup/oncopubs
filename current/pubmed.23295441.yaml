@@ -34,8 +34,8 @@ authors: Sia D, Hoshida Y, Villanueva A, Roayaie S, Ferrer J, Tabak B, Peix J, S
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21072'
+  term_label: intrahepatic bile duct
 contact:
   email: yujin.hoshida@mssm.edu
   name: Yujin Hoshida

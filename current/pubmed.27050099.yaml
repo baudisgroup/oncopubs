@@ -14,8 +14,8 @@ authors: Lee JK, Phillips JW, Smith BA, Park JW, Stoyanova T, McCaffrey EF, Baer
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '28010'
+  term_label: prostate
 contact:
   email: ~
   name: John Lee

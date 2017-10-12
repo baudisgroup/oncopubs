@@ -35,8 +35,8 @@ cancertypes:
   term_label: Chronic Lymphocytic Leukemia
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '35012'
+  term_label: chronic lymphocytic leukemia
 - samples_arraymap: 54
   samples_progenetix: ~
   term_id: snmi:M-98233

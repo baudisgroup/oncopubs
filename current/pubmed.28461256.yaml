@@ -27,8 +27,8 @@ authors: Reck M, Blais N, Juhasz E, Gorbunova V, Jones CM, Urban L, Orlov S, Bar
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '22030'
+  term_label: lung and bronchus
 contact:
   email: m.reck@lungenclinic.de
   name: Martin Reck

@@ -24,8 +24,8 @@ authors: Vanni I, Coco S, Bonfiglio S, Cittaro D, Genova C, Biello F, Mora M, Ro
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '22030'
+  term_label: lung and bronchus
 contact:
   email: simona.coco@hsanmartino.it
   name: Simona Coco

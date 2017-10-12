@@ -27,8 +27,8 @@ authors: Bi WL, Horowtiz P, Greenwald N, Abedalthagafi M, Agarwalla PK, Gibson W
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31040'
+  term_label: cranial nerves other nervous system
 contact:
   email: ' rameen_beroukhim@dfci.harvard.edu'
   name: Rameen Beroukhim

@@ -32,8 +32,8 @@ authors: Johns AL, McKay SH, Humphris JL, Pinese M, Chantrill LA, Mead RS, Tucke
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '21100'
+  term_label: pancreas
 contact:
   email: andrew.biankin@glasgow.ac.uk
   name: Andrew V. Biankin

@@ -78,8 +78,8 @@ cancertypes:
   term_label: NHL - Extranodal
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 - samples_arraymap: 13
   samples_progenetix: ~
   term_id: snmi:M-96713
