@@ -20,8 +20,8 @@ authors: Lee CH, Liu CM, Wen CC, Chang SM and Hwu HG
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: chlee124@nhri.org.tw
   name: ~

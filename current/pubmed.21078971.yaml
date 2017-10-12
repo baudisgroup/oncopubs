@@ -18,8 +18,8 @@ authors: Nord KH, Magnusson L, Isaksson M, Nilsson J, Lilljebjï¿½rn H, Domans
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '24000'
+  term_label: soft tissue including heart
 contact:
   email: ~
   name: Karolin H Nord

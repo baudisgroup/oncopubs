@@ -44,8 +44,8 @@ cancertypes:
   term_label: Nasopharynx
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '20060'
+  term_label: nasopharynx
 - samples_arraymap: 4
   samples_progenetix: ~
   term_id: snmi:M-80723

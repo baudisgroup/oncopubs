@@ -66,8 +66,8 @@ cancertypes:
   term_label: Brain
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '31010'
+  term_label: brain
 - samples_arraymap: 10
   samples_progenetix: ~
   term_id: snmi:M-90643

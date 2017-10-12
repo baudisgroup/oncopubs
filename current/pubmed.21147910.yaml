@@ -24,8 +24,8 @@ authors: Robbins CM, Tembe WA, Baker A, Sinari S, Moses TY, Beckstrom-Sternberg 
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: jcarpten@tgen.org
   name: ~
