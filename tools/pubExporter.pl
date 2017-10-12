@@ -67,7 +67,7 @@ my $pgga4ghbs   =   MongoDB::MongoClient->new()->get_database('progenetix_ga4gh'
 
 my $progress_bar = Term::ProgressBar->new(scalar @$pgPMIDs);
 
-for my $i (0..$#{ $pgPMID }) {
+for my $i (0..$#{ $pgPMIDs }) {
 
   my $pub       =   $dbcoll->find_one( { PMID => qr/^$pgPMIDs->[$i]$/ } );
 
