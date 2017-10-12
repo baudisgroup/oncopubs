@@ -15,6 +15,23 @@ abstract: A number of genetic abnormalities have been detected in multiple myelo
   techniques and expression analyses have to be performed.
 authors: Tchinda J, Volpert S, Kropff M, Berdel WE, Kienast J, Meinhardt F and Horst
   J.
+cancertypes:
+- term_id: ncit:C3996
+  term_label: ~
+- term_id: ncit:C9349
+  term_label: Plasmacytoma
+- term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- term_id: pgx:icdom:9765_1
+  term_label: Monoclonal gammopathy of undetermined significance
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
+- term_id: snmi:M-97651
+  term_label: Monoclonal gammopathy of undetermined significance
 contact:
   email: ~
   name: ~

@@ -18,6 +18,17 @@ abstract: Mycosis fungoides MF , the most common cutaneous T-cell lymphoma, is a
   requirements of these cutaneous T-cell lymphomas may be distinct.
 authors: van Doorn R, van Kester MS, Dijkman R, Vermeer MH, Mulder AA, Szuhai K, Knijnenburg
   J, Boer JM, Willemze R and Tensen CP.
+cancertypes:
+- term_id: ncit:C3246
+  term_label: Mycosis Fungoides
+- term_id: pgx:icdom:9700_3
+  term_label: Mycosis fungoides
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97003
+  term_label: Mycosis fungoides
 contact:
   email: ~
   name: ~

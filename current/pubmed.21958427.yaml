@@ -6,6 +6,7 @@ abstract: Inherited mutations in the BRCA2 gene greatly increase the risk of dev
   with respect to phenotype and clinical staging of the disease.
 authors: Stefansson OA, Jonasson JG, Olafsdottir K, Bjarnason H, Th Johannsson O,
   Bodvarsdottir SK, Valgeirsdottir S and Eyfjord JE.
+cancertypes: []
 contact:
   email: jorunne@hi.is
   name: Jorunn Eyfjord

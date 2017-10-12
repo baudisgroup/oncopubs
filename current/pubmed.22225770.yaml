@@ -15,6 +15,7 @@ abstract: Copy number variations CNVs have been shown to contribute substantiall
 authors: Yang XR, Brown K, Landi MT, Ghiorzo P, Badenas C, Xu M, Hayward NK, Calista
   D, Landi G, Bruno W, Bianchi-Scarra G, Aguilera P, Puig S, Goldstein AM and Tucker
   MA.
+cancertypes: []
 contact:
   email: ~
   name: Xiaohong Yang

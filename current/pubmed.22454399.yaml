@@ -21,6 +21,19 @@ abstract: In this study, we genetically characterized parathyroid adenomas with 
   with specific genomic features.
 authors: Sulaiman L, Nilsson IL, Juhlin CC, Haglund F, Hï¿½ï¿½g A, Larsson C and Hashemi
   J
+cancertypes:
+- term_id: ncit:C27380
+  term_label: Thyroid Gland Adenocarcinoma
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: catharina.larsson@ki.se
   name: ~

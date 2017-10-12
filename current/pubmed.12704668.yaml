@@ -21,6 +21,17 @@ abstract: 'Using comparative genomic hybridization CGH , we present a genome-wid
   thus cytogenetically and phenotypically highly characteristic of fetal-embryonal
   hepatoblastoma.'
 authors: Scheil S, Hagen S, Bruderlein S, Leuschner I, Behnisch W and Moller P.
+cancertypes:
+- term_id: ncit:C3728
+  term_label: Hepatoblastoma
+- term_id: pgx:icdom:8970_3
+  term_label: Hepatoblastoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-89703
+  term_label: Hepatoblastoma
 contact:
   email: stefanie.scheil@medizin.uni-ulm.de
   name: Stefanie Scheil

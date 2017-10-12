@@ -12,6 +12,33 @@ abstract: Brain tumors are the most common solid tumors of childhood, and pilocy
   target and as a diagnostic tool.
 authors: Jones DT, Kocialkowski S, Liu L, Pearson DM, Backlund LM, Ichimura K and
   Collins VP.
+cancertypes:
+- term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.5
+  term_label: ventricle
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:icdot:C72.3
+  term_label: Optic chiasm
+- term_id: pgx:icdot:C75.3
+  term_label: pineal gland
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
 contact:
   email: davidjones@cantab.net
   name: David Jones

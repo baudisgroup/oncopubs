@@ -21,6 +21,27 @@ abstract: 'This investigation aimed to identify patterns of copy number change i
   not to show loss of 17p. These data reveal a genetically heterogeneous picture of
   tumor progression, with a small number of changes associated with advanced disease.'
 authors: Alcock HE, Stephenson TJ, Royds JA and Hammond DW.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: d.w.hammond@sheffield.ac.uk
   name: David W. Hammond

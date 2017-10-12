@@ -22,6 +22,17 @@ authors: Braggio E, Keats JJ, Leleu X, Van Wier S, Jimenez-Zepeda VH, Valdez R, 
   RF, Price-Troska T, Henderson K, Sacco A, Azab F, Greipp P, Gertz M, Hayman S, Rajkumar
   SV, Carpten J, Chesi M, Barrett M, Stewart AK, Dogan A, Bergsagel PL, Ghobrial IM
   and Fonseca R.
+cancertypes:
+- term_id: ncit:C80307
+  term_label: Waldenstrom Macroglobulinemia
+- term_id: pgx:icdom:9761_3
+  term_label: Waldenstrom macroglobulinemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: snmi:M-97613
+  term_label: Waldenstrom macroglobulinemia
 contact:
   email: fonseca.rafael@mayo.edu
   name: Rafael Fonseca

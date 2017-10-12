@@ -14,6 +14,7 @@ abstract: DNA copy number losses at chromosome arm 14q are the most frequently o
   20 28, 71 at 14q11.1-q12 and D14S258 17 27, 63 at 14q23-q24, suggesting that these
   are two tumor suppressor loci.
 authors: El-Rifai W, Sarlomo-Rikala M, Andersson LC, Miettinen M and Knuutila S.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

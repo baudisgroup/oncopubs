@@ -20,6 +20,9 @@ abstract: Cell lines have been developed for modeling cancer and cancer progress
   of the oral mucosa, and give insight into the selection of model cell lines and
   the interpretation of data from those lines.
 authors: Dickman CT, Towle R, Saini R, Garnis C.
+cancertypes:
+- term_id: seer:20080
+  term_label: oropharynx
 contact:
   email: cdickman@bccrc.ca
   name: Christopher Trevor Daniel Dickman

@@ -23,6 +23,27 @@ authors: Lee W, Jiang Z, Liu J, Haverty PM, Guan Y, Stinson J, Yue P, Zhang Y, P
   KP, Bhatt D, Ha C, Johnson S, Kennemer MI, Mohan S, Nazarenko I, Watanabe C, Sparks
   AB, Shames DS, Gentleman R, de Sauvage FJ, Stern H, Pandita A, Ballinger DG, Drmanac
   R, Modrusan Z, Seshagiri S and Zhang Z.
+cancertypes:
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: zemin@gene.com
   name: Zemin Zhang

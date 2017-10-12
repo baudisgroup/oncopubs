@@ -18,6 +18,7 @@ abstract: Diamond-Blackfan anemia DBA is a congenital BM failure syndrome charac
   a component of the initial genetic evaluation in cases of suspected DBA.
 authors: Farrar JE, Vlachos A, Atsidaftos E, Carlson-Donohoe H, Markello TC, Arceci
   RJ, Ellis SR, Lipton JM and Bodine DM.
+cancertypes: []
 contact:
   email: ~
   name: Jason Farrar

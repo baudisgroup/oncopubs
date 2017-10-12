@@ -21,6 +21,7 @@ abstract: Pancreatic ductal adenocarcinoma PDAC is characterised pathologically 
   as a tumour suppressor in this disease.
 authors: Harada T, Baril P, Gangeswaran R, Kelly G, Chelala C, Bhakta V, Caulee K,
   Mahon PC and Lemoine NR.
+cancertypes: []
 contact:
   email: ~
   name: Nick R. Lemoine

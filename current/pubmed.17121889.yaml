@@ -7,6 +7,7 @@ abstract: This study aims to determine the effect of loss of breast cancer metas
 authors: Hicks DG, Yoder BJ, Short S, Tarr S, Prescott N, Crowe JP, Dawson AE, Budd
   GT, Sizemore S, Cicek M, Choueiri TK, Tubbs RR, Gaile D, Nowak N, Accavitti-Loper
   MA, Frost AR, Welch DR and Casey G.
+cancertypes: []
 contact:
   email: caseyg@ccf.org
   name: Graham Casey

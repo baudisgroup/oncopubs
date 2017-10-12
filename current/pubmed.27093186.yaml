@@ -18,6 +18,9 @@ authors: Jiang L, Huang J, Higgs BW, Hu Z, Xiao Z, Yao X, Conley S, Zhong H, Liu
   Y, Czapiga M, Oganesyan V, Fu H, Niu Y, Zhang W, Streicher K, Tice D, Zhao H, Zhu
   M, Xu L, Herbst R, Su X, Gu Y, Li S, Huang L, Gu J, Han B, Jallal B, Shen H and
   Yao Y
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: oliver_67@yahoo.com
   name: Yihonng Yao

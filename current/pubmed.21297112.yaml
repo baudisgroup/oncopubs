@@ -10,6 +10,7 @@ abstract: Tumor suppressor genes are often located in frequently deleted chromos
 authors: Melcher R, Hartmann E, Zopf W, Herterich S, Wilke P, Muller L, Rosler E,
   Kudlich T, Al-Taie O, Rosenwald A, Katzenberger T, Scholtka B, Seibold S, Rogoll
   D, Scheppach W, Scheurlen M and Luhrs H.
+cancertypes: []
 contact:
   email: ~
   name: Ralph Melcher

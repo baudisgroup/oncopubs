@@ -19,6 +19,17 @@ abstract: Recent advances in genome-wide single-nucleotide polymorphism SNP anal
   of potential pathogenic and clinical relevance in AML.
 authors: Bullinger L, Kronke J, Schon C, Radtke I, Urlbauer K, Botzenhardt U, Gaidzik
   V, Cario A, Senger C, Schlenk RF, Downing JR, Holzmann K, Dohner K and Dohner H.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: ~

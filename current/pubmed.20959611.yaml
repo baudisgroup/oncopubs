@@ -17,6 +17,7 @@ abstract: Microarray technologies provide high-resolution maps of chromosome imb
 authors: Killian JK, Walker RL, Suuriniemi M, Jones L, Scurci S, Singh P, Cornelison
   R, Harmon S, Boisvert N, Zhu J, Wang Y, Bilke S, Davis S, Giaccone G, Smith WI Jr
   and Meltzer PS.
+cancertypes: []
 contact:
   email: pmeltzer@mail.nih.gov
   name: Paul Meltzer

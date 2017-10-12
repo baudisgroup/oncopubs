@@ -14,6 +14,25 @@ abstract: Compared with HIV-negative individuals, HIV-positive individuals have 
   reported to be commonest alteration in cervical cancer, which suggests a common
   molecular pathway for these two HPV-associated anogenital neoplasias.
 authors: Haga T, Kim SH, Jensen RH, Darragh T and Palefsky JM.
+cancertypes:
+- term_id: ncit:C89476
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8077_2
+  term_label: Squamous intraepithelial neoplasia, grade III
+- term_id: pgx:icdot:C21
+  term_label: anal canal and anus
+- term_id: pgx:seer:21060
+  term_label: Anus, Anal Canal and Anorectum
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80772
+  term_label: Squamous intraepithelial neoplasia, grade III
 contact:
   email: ~
   name: NA Palefsky

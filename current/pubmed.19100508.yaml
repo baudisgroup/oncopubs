@@ -17,6 +17,7 @@ abstract: It is important to estimate the biological characteristics of tumors, 
   method in aCGH analysis.
 authors: Nakao M, Kawauchi S, Furuya T, Uchiyama T, Adachi J, Okada T, Ikemoto K,
   Oga A and Sasaki K.
+cancertypes: []
 contact:
   email: kohsuke@yamaguchi-u.ac.jp
   name: Kohsuke Sasaki

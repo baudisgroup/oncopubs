@@ -16,6 +16,65 @@ abstract: Comparative genomic hybridization CGH is a molecular cytogenetic techn
   imbalances affecting oncogenes and tumor suppressor genes involved in tumor progression
   and metastatic spread.
 authors: Nagel H, Schulten HJ, Gunawan B, Brinck U and Fuzesi L.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: ncit:C3766
+  term_label: Clear Cell Adenocarcinoma
+- term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- term_id: ncit:C3778
+  term_label: ~
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- term_id: pgx:icdom:8523_3
+  term_label: Infiltrating duct mixed with other types of carcinoma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
+- term_id: snmi:M-85233
+  term_label: Infiltrating duct mixed with other types of carcinoma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: ~
   name: H Nagel

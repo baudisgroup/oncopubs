@@ -19,6 +19,7 @@ abstract: There is a clear genetic component to prostate cancer susceptibility. 
   some unique genetic changes when compared with sporadic prostate tumors.
 authors: Verhagen PC, Zhu XL, Rohr LR, Cannon-Albright LA, Tavtigian SV, Skolnick
   MH and Brothman AR.
+cancertypes: []
 contact:
   email: brothman@pathology.arizona.edu
   name: Arthur Brothman

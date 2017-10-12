@@ -16,6 +16,7 @@ abstract: 'Non-invasive and invasive papillary transitional cell carcinomas of s
   pTa grade 2: 4.1 pT1 grade 2: 8.6 aberrations per tumour . These data show characteristic
   chromosomal aberrations associated with invasion in superficial bladder cancer.'
 authors: Simon R, Burger H, Brinkschmidt C, Bocker W, Hertle L and Terpe HJ.
+cancertypes: []
 contact:
   email: terpe@uni-muenster.de
   name: Hans Joachim Terpe

@@ -2,6 +2,7 @@
 abstract: Comparative Genomic Hybridization CGH is a novel cytogenetic method that
   allows the comprehensive analysis of a tumor genome for DNA gains and losses.
 authors: Bockmuhl U, Petersen I, Schwendel A and Dietel M.
+cancertypes: []
 contact:
   email: iver.petersen@charite.de
   name: Iver Petersen

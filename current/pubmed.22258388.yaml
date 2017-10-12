@@ -6,6 +6,7 @@ abstract: Frequent genetic variants may be associated with GCA. Existing studies
   the Spanish population.
 authors: Enjuanes A, Benavente Y, Hernandez-Rodriguez J, Queralt C, Yague J, Jares
   P, de Sanjose S, Campo E and Cid MC.
+cancertypes: []
 contact:
   email: ~
   name: Maria Cid

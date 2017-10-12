@@ -16,6 +16,7 @@ abstract: Histopathological differentiation between dermatofibrosarcoma protuber
   be useful for distinguishing DFSP from DF in most cases.
 authors: Nishio J, Iwasaki H, Ohjimi Y, Ishiguro M, Isayama T, Naito M, Iwashita A
   and Kikuchi M.
+cancertypes: []
 contact:
   email: ~
   name: NA Nishio

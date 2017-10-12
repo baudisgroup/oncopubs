@@ -17,6 +17,7 @@ abstract: Array comparative genomic hybridization aCGH provides a genome-wide te
   new candidate genes that neighbor known genes based on the whole-genomic variation
   because it detects significant chromosomal regions, not independent probes.
 authors: Kim KY, Kim J, Kim HJ, Nam W and Cha IH.
+cancertypes: []
 contact:
   email: cha8764@yuhs.ac
   name: In-Ho Cha

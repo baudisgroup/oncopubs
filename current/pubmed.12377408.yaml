@@ -19,6 +19,7 @@ abstract: Prostate cancer CaP is a multifocal heterogenous disease. A major chal
   and DOP-PCR amplification provides a more complete repertoire of aberrations as
   well as a better phenotype-genotype correlation in prostate tumors.
 authors: Beheshti B, Vukovic B, Marrano P, Squire JA and Park PC.
+cancertypes: []
 contact:
   email: jsquireinsp@gmail.com
   name: Jeremy Squire

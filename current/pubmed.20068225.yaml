@@ -20,6 +20,17 @@ abstract: Philadelphia chromosome-negative myeloproliferative neoplasms MPNs inc
 authors: Thoennissen NH, Krug UO, Lee DH, Kawamata N, Iwanski GB, Lasho T, Weiss T,
   Nowak D, Koren-Michowitz M, Kato M, Sanada M, Shih LY, Nagler A, Raynaud SD, Muller-Tidow
   C, Mesa R, Haferlach T, Gilliland DG, Tefferi A, Ogawa S and Koeffler HP.
+cancertypes:
+- term_id: ncit:C4345
+  term_label: Myeloproliferative Neoplasm
+- term_id: pgx:icdom:9960_3
+  term_label: Myeloproliferative neoplasm, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99603
+  term_label: Myeloproliferative neoplasm, NOS
 contact:
   email: nils.thoennissen@cshs.org
   name: Nils Thoennissen

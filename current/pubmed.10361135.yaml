@@ -28,6 +28,17 @@ abstract: Mantle cell lymphomas MCLs are characterized by 11q13 chromosomal tran
 authors: Bea S, Ribas M, Hernandez JM, Bosch F, Pinyol M, Hernandez L, Garcia JL,
   Flores T, Gonzalez M, Lopez-Guillermo A, Piris MA, Cardesa A, Montserrat E, Miro
   R and Campo E.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: ecampo@clinic.ub.es
   name: Elias Campo

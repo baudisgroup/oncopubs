@@ -17,6 +17,21 @@ abstract: Colorectal cancer CRC is one of the most common malignancies worldwide
   isolation of candidate oncogenes and tumor suppressor genes.
 authors: He QJ, Zeng WF, Sham JS, Xie D, Yang XW, Lin HL, Zhan WH, Lin F, Zeng SD,
   Nie D, Ma LF, Li CJ, Lu S and Guan XY.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: xyguan@hkucc.hku.hk
   name: Xin-Yuan Guan

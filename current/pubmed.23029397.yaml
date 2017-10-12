@@ -18,6 +18,7 @@ abstract: 'BACKGROUND: Glioblastoma multiforme GBM displays multiple amplicons a
   of other potentially relevant genes.'
 authors: Crespo I, Tao H, Nieto AB, Rebelo O, Domingues P, Vital AL, Patino Mdel C,
   Barbosa M, Lopes MC, Oliveira CR, Orfao A and Tabernero MD.
+cancertypes: []
 contact:
   email: ~
   name: ~

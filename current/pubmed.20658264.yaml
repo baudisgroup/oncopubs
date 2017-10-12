@@ -21,6 +21,23 @@ abstract: The identification of lobular carcinoma in situ LCIS in a patients spe
   along separate pathways.
 authors: Tran-Thanh D, Arneson NC, Pintilie M, Deliallisi A, Warren KS, Bane A and
   Done SJ.
+cancertypes:
+- term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- term_id: ncit:C4018
+  term_label: Lobular Breast Carcinoma In Situ
+- term_id: pgx:icdom:8520_2
+  term_label: Lobular carcinoma in situ, NOS
+- term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85202
+  term_label: Lobular carcinoma in situ, NOS
+- term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
 contact:
   email: ~
   name: Danh Tran-Thanh

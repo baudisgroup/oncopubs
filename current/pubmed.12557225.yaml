@@ -22,6 +22,17 @@ abstract: 'S zary syndrome SS is a rare form of erythrodermic cutaneous T-cell l
   translocations provides the basis for further studies.'
 authors: Mao X, Lillington DM, Czepulkowski B, Russell-Jones R, Young BD and Whittaker
   S.
+cancertypes:
+- term_id: ncit:C3366
+  term_label: Sezary Syndrome
+- term_id: pgx:icdom:9701_3
+  term_label: Sezary syndrome
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97013
+  term_label: Sezary syndrome
 contact:
   email: mxmayo@yahoo.co.uk
   name: Xin Mao

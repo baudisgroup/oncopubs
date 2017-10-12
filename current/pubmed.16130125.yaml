@@ -17,6 +17,7 @@ abstract: Small-cell lung cancer SCLC is a highly aggressive lung neoplasm, whic
   most frequent copy number gain in SCLC cell lines.
 authors: Coe BP, Lee EH, Chi B, Girard L, Minna JD, Gazdar AF, Lam S, MacAulay C and
   Lam WL.
+cancertypes: []
 contact:
   email: bcoe@bccrc.ca
   name: Bradley P. Coe

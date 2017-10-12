@@ -27,6 +27,23 @@ abstract: 'About 10 of colorectal carcinoma patients develop pulmonary metastase
   Loss of 4q is potentially a supplementary factor contributing to the dissemination
   of this disease.'
 authors: Jiang JK, Chen YJ, Lin CH, Yu IT and Lin JK.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ccpan@vghtpe.gov.tw
   name: Yann-Jang Chen

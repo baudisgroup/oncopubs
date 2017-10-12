@@ -17,6 +17,17 @@ abstract: In the majority of colorectal cancers CRCs under clinical suspicion fo
   genes involved in CRC predisposition.
 authors: Venkatachalam R, Verwiel ET, Kamping EJ, Hoenselaar E, Gorgens H, Schackert
   HK, van Krieken JH, Ligtenberg MJ, Hoogerbrugge N, van Kessel AG and Kuiper RP.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: r.kuiper@antrg.umcn.nl
   name: Roland Kuiper

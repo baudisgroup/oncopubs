@@ -20,6 +20,19 @@ abstract: Similar to other malignancies, urothelial carcinoma (UC) is characteri
   that these circuits may reflect distinct pathways of tumor development.
 authors: Lindgren D, Sjï¿½dahl G, Lauss M, Staaf J, Chebil G, Lï¿½vgren K, Gudjonsson
   S, Liedberg F, Patschan O, Mï¿½nsson W, Fernï¿½ M and Hï¿½glund M
+cancertypes:
+- term_id: ncit:C9106
+  term_label: Urethral Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C68.0
+  term_label: other urinary organs
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: mattias.hoglund@med.lu.se
   name: ~

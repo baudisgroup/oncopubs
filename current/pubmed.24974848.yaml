@@ -16,6 +16,9 @@ authors: Petrini I, Meltzer PS, Kim IK, Lucchi M, Park KS, Fontanini G, Gao J, Z
   PA, Calabrese F, Favaretto A, Rea F, Rodriguez-Canales J, Walker RL, Pineda M, Zhu
   YJ, Lau C, Killian KJ, Bilke S, Voeller D, Dakshanamurthy S, Wang Y and Giaccone
   G
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

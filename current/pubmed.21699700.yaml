@@ -18,6 +18,9 @@ abstract: ' BACKGROUND: Epidermal Growth Factor (EGF) is a key regulatory growth
 authors: Llorens F, Hummel M, Pastor X, Ferrer A, Pluvinet R, Vivancos A, Castillo
   E, Iraola S, Mosquera AM, Gonzï¿½lez E, Lozano J, Ingham M, Dohm JC, Noguera M,
   Kofler R, del Rï¿½o JA, Bayï¿½s M, Himmelbauer H, Sumoy L.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: LSumoy@imppc.org
   name: Lauro Sumoy

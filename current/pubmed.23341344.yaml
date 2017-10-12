@@ -18,6 +18,7 @@ abstract: T-cell acute lymphoblastic leukemia T-ALL is an aggressive and heterog
   associated with poor prognosis in early T-ALL.
 authors: Grossmann V, Haferlach C, Weissmann S, Roller A, Schindela S, Poetzinger
   F, Stadler K, Bellos F, Kern W, Haferlach T, Schnittger S and Kohlmann A.
+cancertypes: []
 contact:
   email: ~
   name: ~

@@ -5,6 +5,7 @@ abstract: To screen for genomic imbalances in patients with acute leukaemia usin
   approach increases abnormality detection rate.
 authors: McGrattan P, Campbell S, Cuthbert R, Jones FG, McMullin MF and Humphreys
   M.
+cancertypes: []
 contact:
   email: peter.mcgrattan@belfasttrust.hscni.net
   name: Peter McGrattan

@@ -23,6 +23,19 @@ abstract: Alveolar soft part sarcoma (ASPS) is a soft tissue sarcoma with poor p
   of ASPS.  ï¿½2014 AACR.
 authors: Selvarajah S, Pyne S, Chen E, Sompallae R, Ligon AH, Nielsen GP, Dranoff
   G, Stack E, Loda M and Flavin R
+cancertypes:
+- term_id: ncit:C3750
+  term_label: ~
+- term_id: pgx:icdom:9581_3
+  term_label: Alveolar soft part sarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-95813
+  term_label: Alveolar soft part sarcoma
 contact:
   email: flavinrichard@gmail.com
   name: (01) 416 2992

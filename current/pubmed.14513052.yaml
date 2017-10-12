@@ -17,6 +17,25 @@ abstract: Comparative genomic hybridization CGH studies have demonstrated a high
 authors: Garcia JL, Hernandez JM, Gutierrez NC, Flores T, Gonzalez D, Calasanz MJ,
   Martinez-Climent JA, Piris MA, Lopez-Capitan C, Gonzalez MB, Odero MD and San Miguel
   JF.
+cancertypes:
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:C8644
+  term_label: B Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdom:9826_3
+  term_label: Burkitt cell leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+- term_id: snmi:M-98263
+  term_label: Burkitt cell leukemia
 contact:
   email: ~
   name: ~

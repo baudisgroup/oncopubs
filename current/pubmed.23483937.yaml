@@ -23,6 +23,19 @@ abstract: Uterine Leiomyomas (ULs) are the most common benign tumours affecting 
   genes associated with cellular proliferation in ULs.
 authors: Cirilo PD, Marchi FA, Barros Filho Mde C, Rocha RM, Domingues MA, Jurisica
   I, Pontes A and Rogatto SR
+cancertypes:
+- term_id: ncit:C3434
+  term_label: Uterine Corpus Leiomyoma
+- term_id: pgx:icdom:8890_0
+  term_label: Leiomyoma, NOS
+- term_id: pgx:icdot:C55.9
+  term_label: Uterus, NOS
+- term_id: pgx:seer:27020
+  term_label: Corpus Uteri
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-88900
+  term_label: Leiomyoma, NOS
 contact:
   email: rogatto@fmb.unesp.br
   name: ~

@@ -17,6 +17,45 @@ abstract: Li-Fraumeni syndrome LFS represents an inherited tumor syndrome that i
 authors: Rieber J, Remke M, Hartmann C, Korshunov A, Burkhardt B, Sturm D, Mechtersheimer
   G, Wittmann A, Greil J, Blattmann C, Witt O, Behnisch W, Halatsch ME, Orakcioglu
   B, von Deimling A, Lichter P, Kulozik A and Pfister S.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:C3808
+  term_label: Rhabdoid Tumor
+- term_id: ncit:C4715
+  term_label: Choroid Plexus Carcinoma
+- term_id: pgx:icdom:8963_3
+  term_label: Malignant rhabdoid tumor
+- term_id: pgx:icdom:9390_3
+  term_label: Choroid plexus carcinoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:icdot:C72.0
+  term_label: Spinal cord
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-89633
+  term_label: Malignant rhabdoid tumor
+- term_id: snmi:M-93903
+  term_label: Choroid plexus carcinoma
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: s.p   ster@dkfz.de
   name: Stefan Pfister

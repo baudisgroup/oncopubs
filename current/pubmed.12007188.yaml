@@ -18,6 +18,7 @@ abstract: To account for the accumulation of genomic alterations required for tu
   tumors not expressing p27 or in tumors with detectable RB1. These results suggest
   that cyclin D1 plays an alternative role in the regulation of genomic stability.
 authors: Lung JC, Chu JS, Yu JC, Yue CT, Lo YL, Shen CY and Wu CW.
+cancertypes: []
 contact:
   email: bmcys@ccvax.sinica.edu.tw
   name: J.C. Lung

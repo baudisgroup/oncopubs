@@ -13,6 +13,7 @@ abstract: Mutations in BRCA1 and BRCA2 genes confer a high risk of breast and ov
   changes at the level of the DNA sequence.
 authors: Lasa A, Ramon y Cajal T, Llort G, Suela J, Cigudosa JC, Cornet M, Alonso
   C, Barnadas A and Baiget M.
+cancertypes: []
 contact:
   email: mbaiget@santpau.cat
   name: Montserrat Baiget

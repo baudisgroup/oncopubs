@@ -24,6 +24,7 @@ abstract: The MALT1 gene was identified through its involvement in t 11 18 q21 q
 authors: Sanchez-Izquierdo D, Buchonnet G, Siebert R, Gascoyne RD, Climent J, Karran
   L, Marin M, Blesa D, Horsman D, Rosenwald A, Staudt LM, Albertson DG, Du MQ, Ye
   H, Marynen P, Garcia-Conde J, Pinkel D, Dyer MJ and Martinez-Climent JA.
+cancertypes: []
 contact:
   email: mjsd1@leicester.ac.uk
   name: Martin Dyer

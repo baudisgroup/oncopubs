@@ -19,6 +19,21 @@ abstract: Hemangioblastomas HBs of the central nervous system are benign tumors 
   shows similarities to both the RCCs and PHEOs.
 authors: Sprenger SH, Gijtenbeek JM, Wesseling P, Sciot R, van Calenbergh F, Lammens
   M and Jeuken JW.
+cancertypes:
+- term_id: ncit:C3801
+  term_label: Hemangioblastoma
+- term_id: pgx:icdom:9161_1
+  term_label: Hemangioblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C72.0
+  term_label: Spinal cord
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-91611
+  term_label: Hemangioblastoma
 contact:
   email: j.jeuken@pathol.umcn.nl
   name: Judith Jeuken

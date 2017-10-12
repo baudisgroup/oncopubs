@@ -13,6 +13,17 @@ abstract: Multiple myeloma MM develops from a premalignant plasma cell prolifera
   crisis, our results suggest that high-risk MM patients use this novel way of cancer
   evolution.
 authors: Magrangeas F, Avet-Loiseau H, Munshi NC and Minvielle S.
+cancertypes:
+- term_id: ncit:C3242
+  term_label: Plasma Cell Myeloma
+- term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
 contact:
   email: ~
   name: ~

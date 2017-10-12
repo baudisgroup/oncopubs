@@ -15,6 +15,21 @@ abstract: We analyzed 25 ovarian borderline tumors 13 serous and 12 mucinous tum
   that the borderline ovarian tumor is a distinct entity. Genes in chromosome 8 may
   be critical for the development and the differentiation of borderline serous tumors.
 authors: Hu J, Khanna V, Jones MM and Surti U.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8442_1
+  term_label: Serous cystadenoma, borderline malignancy
+- term_id: pgx:icdom:8472_1
+  term_label: Mucinous cystic tumor of borderline malignancy
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-84421
+  term_label: Serous cystadenoma, borderline malignancy
+- term_id: snmi:M-84721
+  term_label: Mucinous cystic tumor of borderline malignancy
 contact:
   email: ~
   name: Jie Hu

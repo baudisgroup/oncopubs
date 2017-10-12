@@ -19,6 +19,7 @@ abstract: Compromised quality of formalin-fixed paraffin-embedded FFPE -derived 
   array seems less suitable for the analysis of FFPE material.
 authors: Nasri S, Anjomshoaa A, Song S, Guilford P, McNoe L, Black M, Phillips V,
   Reeve A and Humar B.
+cancertypes: []
 contact:
   email: bostjan.humar@otago.ac.nz
   name: Bostjan Humar

@@ -18,8 +18,8 @@ abstract: 'BACKGROUND: The purpose of this study was to identify genome-wide sin
   Cancer 2014. c 2014 American Cancer Society.'
 authors: Ashktorab H, Daremipouran M, Devaney J, Varma S, Rahi H, Lee E, Shokrani
   B, Schwartz R, Nickerson ML and Brim H.
-cancertype:
-  term_id: seer:21049
+cancertypes:
+- term_id: seer:21049
   term_label: large intestine, nos
 contact:
   email: hashktorab@howard.edu

@@ -19,6 +19,7 @@ abstract: Array-based comparative genomic hybridization aCGH using bacterial art
   use for a quality check of various cells before using them for any kind of biological
   investigation or clinical application.
 authors: Saito S, Morita K, Kohara A, Masui T, Sasao M, Ohgushi H and Hirano T.
+cancertypes: []
 contact:
   email: hirano-takashi@aist.go.jp
   name: Takashi Hirano

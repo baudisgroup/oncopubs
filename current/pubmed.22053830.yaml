@@ -9,6 +9,27 @@ abstract: Although synovial sarcoma is the 3rd most commonly occurring mesenchym
   to compare these with metaphase high-resolution CGH HR-CGH results.
 authors: Balogh Z, Szemlaky Z, Szendroi M, Antal I, Papai Z, Fonyad L, Papp G, Changchien
   YC, and Sapi Z.
+cancertypes:
+- term_id: ncit:C3400
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9040_3
+  term_label: Synovial sarcoma, NOS
+- term_id: pgx:icdom:9041_3
+  term_label: Synovial sarcoma, spindle cell
+- term_id: pgx:icdom:9043_3
+  term_label: Synovial sarcoma, biphasic
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-90403
+  term_label: Synovial sarcoma, NOS
+- term_id: snmi:M-90413
+  term_label: Synovial sarcoma, spindle cell
+- term_id: snmi:M-90433
+  term_label: Synovial sarcoma, biphasic
 contact:
   email: zsapi@freemail.hu
   name: Zoltan Sapi

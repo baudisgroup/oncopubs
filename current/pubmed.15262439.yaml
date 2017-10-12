@@ -12,6 +12,17 @@ abstract: Breast cancer is the second leading cause of death in women older than
   in 1p, 8p, 16p, 19q, and Xp. CGH provides data for better understanding of molecular
   events in this neoplasia.
 authors: Valladares A, Salamanca F, Madrigal-Bujaidar E and Arenas D.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: ~
   name: ~

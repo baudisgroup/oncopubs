@@ -23,6 +23,7 @@ abstract: Prostate cancer-associated stroma (CAS) plays an active role in malign
 authors: Bianchi-Frias D, Basom R, Delrow JJ, Coleman IM, Dakhova O, Qu X, Fang M,
   Franco OE, Ericson NG, Bielas JH, Hayward SW, True L, Morrissey C, Brown L, Bhowmick
   NA, Rowley D, Ittmann M and Nelson PS
+cancertypes: []
 contact:
   email: pnelson@fhcrc.org
   name: Peter S. Nelson

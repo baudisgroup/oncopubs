@@ -15,6 +15,17 @@ abstract: Gastrointestinal stromal tumors GISTs with neurogenic differentiation,
   feature of these tumors.
 authors: Debiec-Rychter M, Pauwels P, Lasota J, Franke S, De Vos R, De Wever I, Hagemeijer
   A and Sciot R.
+cancertypes:
+- term_id: ncit:C27940
+  term_label: ~
+- term_id: pgx:icdom:8936_1
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. Autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89361
+  term_label: Gastrointestinal stromal tumor, NOS
 contact:
   email: maria.debiec-rychter@med.kuleuven.ac.be
   name: Maria Debiec-Rychter

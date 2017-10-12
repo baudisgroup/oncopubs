@@ -17,6 +17,17 @@ abstract: Comparative genomic hybridization CGH was used to screen for genomic i
   to the discovery of novel genes important in pancreatic carcinogenesis.
 authors: Mahlamaki EH, Hoglund M, Gorunova L, Karhu R, Dawiskiba S, Andren-Sandberg
   A, Kallioniemi OP and Johansson B.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: eija.mahlamaki@uta.fi
   name: Eija Mahlam  ki

@@ -6,6 +6,17 @@ abstract: Neurofibromatosis type 1 NF1 is a tumor predisposition syndrome with a
 authors: Pasmant E, Sabbagh A, Masliah-Planchon J, Ortonne N, Laurendeau I, Melin
   L, Ferkal S, Hernandez L, Leroy K, Valeyrie-Allanore L, Parfait B, Vidaud D, Bieche
   I, Lantieri L, Wolkenstein P and Vidaud M.
+cancertypes:
+- term_id: ncit:C3272
+  term_label: Neurofibroma
+- term_id: pgx:icdom:9540_0
+  term_label: Neurofibroma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95400
+  term_label: Neurofibroma, NOS
 contact:
   email: ~
   name: Eric Pasmant

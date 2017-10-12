@@ -14,6 +14,7 @@ abstract: Comparative genomic hybridization CGH was applied to screen the geneti
   relatively different aspect of genomic aberrations.
 authors: Mahdy E, Yoshihiro S, Zech L, Wester K, Pan Y, Busch C, Dohner H, Kallioniemi
   O, Bergerheim U and Malmstrom PU.
+cancertypes: []
 contact:
   email: Per-Uno.Malmstrom@kirurgi.uu.se
   name: Per-Uno Malmstrom

@@ -21,6 +21,29 @@ abstract: While much information has been reported on the genetic alterations in
   into the underlying tumorigenesis in the Oriental population.
 authors: Fung LF, Wong N, Tang N, Lau A, Wong V, Pang CP, Suen M, King W and Johnson
   PJ.
+cancertypes:
+- term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C66718
+  term_label: ~
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
+- term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
 contact:
   email: ~
   name: ~

@@ -20,6 +20,7 @@ abstract: Adenoid cystic carcinoma ACC is a rare but distinctive tumor. Oligonuc
   KDR , whose products can be responsive to specific therapies.
 authors: Bernheim A, Toujani S, Saulnier P, Robert T, Casiraghi O, Validire P, Temam
   S, Menard P, Dessen P and Fouret P.
+cancertypes: []
 contact:
   email: pierre.fouret@igr.fr
   name: Pierre Fouret

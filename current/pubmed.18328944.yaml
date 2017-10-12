@@ -20,6 +20,7 @@ abstract: 'Chromosomal imbalances resulting in altered gene dosage play a role i
   series of genes in the critical 5p15.33 region may be used as novel biomarkers for
   the early detection and classification of lung cancer.'
 authors: Kang JU, Koo SH, Kwon KC, Park JW and Kim JM.
+cancertypes: []
 contact:
   email: ~
   name: Sun Hoe Koo

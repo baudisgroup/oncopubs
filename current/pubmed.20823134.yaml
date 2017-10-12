@@ -4,6 +4,29 @@ abstract: Knowledge about the genetic lesions that occur in Burkitts lymphoma, b
 authors: Scholtysik R, Kreuz M, Klapper W, Burkhardt B, Feller AC, Hummel M, Loeffler
   M, Rosolowski M, Schwaenen C, Spang R, Stein H, Thorns C, Trumper L, Vater I, Wessendorf
   S, Zenz T, Siebert R and Kuppers R.
+cancertypes:
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
 contact:
   email: ~
   name: ~

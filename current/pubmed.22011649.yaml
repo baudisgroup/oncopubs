@@ -23,6 +23,37 @@ abstract: 'INTRODUCTION: Non-small cell lung cancer NSCLC is characterized by a 
 authors: Micke P, Edlund K, Holmberg L, Kultima HG, Mansouri L, Ekman S, Bergqvist
   M, Scheibenflug L, Lamberg K, Myrdal G, Berglund A, Andersson A, Lambe M, Nyberg
   F, Thomas A, Isaksson A and Botling J.
+cancertypes:
+- term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: ncit:C4450
+  term_label: Large Cell Lung Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8012_3
+  term_label: Large cell carcinoma, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80123
+  term_label: Large cell carcinoma, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

@@ -15,6 +15,7 @@ authors: Stransky N, Egloff AM, Tward AD, Kostic AD, Cibulskis K, Sivachenko A, 
   M, Romkes M, Weissfeld JL, Seethala RR, Wang L, Rangel-Escare  o C, Fernandez-Lopez
   JC, Hidalgo-Miranda A, Melendez-Zajgla J, Winckler W, Ardlie K, Gabriel SB, Meyerson
   M, Lander ES, Getz G, Golub TR, Garraway LA and Grandis JR.
+cancertypes: []
 contact:
   email: ~
   name: ~

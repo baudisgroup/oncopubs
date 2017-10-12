@@ -19,6 +19,23 @@ abstract: Colorectal carcinomas are characterized by frequent recurrent gains an
   results in shortened survival times in colorectal cancer patients. 1p loss and 8p
   loss were shown to be independent predictors of poor prognosis.
 authors: De Angelis PM, Stokke T, Beigi M, Mjaland O and Clausen OP.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: a.p.de@labmed.uio.no
   name: Paula M. De Angelis

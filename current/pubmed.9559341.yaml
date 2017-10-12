@@ -13,6 +13,17 @@ abstract: We used comparative genomic hybridization CGH to screen for DNA copy n
   non-Hodgkins lymphoma.
 authors: Monni O, Oinonen R, Elonen E, Franssila K, Teerenhovi L, Joensuu H and Knuutila
   S.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

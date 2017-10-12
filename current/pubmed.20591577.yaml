@@ -18,6 +18,43 @@ abstract: Astrocytic tumors are the most frequent primary brain neoplasms. They 
   -15q possibly contributed to the pathogenesis of these tumors. Our data was the
   first report on the chromosomal aberrations of astrocytic tumors of Chinese patients.
 authors: Jin S, Sun C, Yu S, Wang Q, Wu W, Sun Y, Zhao W and An T.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- term_id: ncit:C4320
+  term_label: Protoplasmic Astrocytoma
+- term_id: ncit:C4322
+  term_label: Fibrillary Astrocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- term_id: pgx:icdom:9410_3
+  term_label: Protoplasmic astrocytoma
+- term_id: pgx:icdom:9420_3
+  term_label: Fibrillary astrocytoma
+- term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- term_id: snmi:M-94103
+  term_label: Protoplasmic astrocytoma
+- term_id: snmi:M-94203
+  term_label: Fibrillary astrocytoma
+- term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ~
   name: Shizhu Yu

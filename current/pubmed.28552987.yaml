@@ -45,6 +45,9 @@ abstract: Inhibition of programmed death-ligand 1 (PD-L1) with atezolizumab can 
 authors: Snyder A, Nathanson T, Funt SA, Ahuja A, Buros Novik J, Hellmann MD, Chang
   E, Aksoy BA, Al-Ahmadie H, Yusko E, Vignali M, Benzeno S, Boyd M, Moran M, Iyer
   G, Robins HS, Mardis ER, Merghoub T, Hammerbacher J, Rosenberg JE, Bajorin DF.
+cancertypes:
+- term_id: seer:29010
+  term_label: urinary bladder
 contact:
   email: snyderca@mskcc.org
   name: Alexandra Snyder

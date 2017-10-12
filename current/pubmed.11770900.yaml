@@ -16,6 +16,29 @@ abstract: We correlate chromosomal changes in medulloblastomas with histologic s
   and large cell anaplastic histology.
 authors: Eberhart CG, Kratz JE, Schuster A, Goldthwaite P, Cohen KJ, Perlman EJ and
   Burger PC.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: ceberha@jhmi.edu
   name: Charles Eberhart

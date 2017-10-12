@@ -5,6 +5,7 @@ abstract: Patients with stage IV neuroblastoma over the age of 500 days without 
   The goal of this study is to develop a DNA copy number-based prognostic profile
   for these patients.
 authors: Bilke S, Chen QR, Wei JS and Khan J.
+cancertypes: []
 contact:
   email: khanjav@mail.nih.gov
   name: Javed Khan

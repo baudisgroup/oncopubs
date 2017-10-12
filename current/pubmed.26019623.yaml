@@ -17,6 +17,7 @@ abstract: 'Lung cancer is a serious health problem, since it is one of the leadi
   lung cancer.'
 authors: Al Zeyadi M, Dimova I, Ranchich V, Rukova B, Nesheva D, Hamude Z, Georgiev
   S, Petrov D and Toncheva D
+cancertypes: []
 contact:
   email: dragatoncheva@gmail.com
   name: Draga Toncheva

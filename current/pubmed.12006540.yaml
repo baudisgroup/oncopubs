@@ -3,6 +3,7 @@ abstract: Histological and other markers alone cannot predict the risk of diseas
   progression in node-negative breast cancer. Several genomic aberrations have been
   linked to clinical outcome in breast cancer.
 authors: Dellas A, Torhorst J, Schultheiss E, Mihatsch MJ and Moch H.
+cancertypes: []
 contact:
   email: a.dellas@unibas.ch
   name: Athanassios Dellas

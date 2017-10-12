@@ -24,6 +24,7 @@ abstract: Accurate cancer risk assessment of low-dose radiation poses many chall
 authors: Ishida Y, Takabatake T, Kakinuma S, Doi K, Yamauchi K, Kaminishi M, Kito
   S, Ohta Y, Amasaki Y, Moritake H, Kokubo T, Nishimura M, Nishikawa T, Hino O and
   Shimada Y.
+cancertypes: []
 contact:
   email: giacconeg@mail.nih.gov
   name: Giuseppe Giaccone

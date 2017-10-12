@@ -28,6 +28,7 @@ abstract: Early detection and treatment of non-invasive neoplasms can effectivel
   of non-invasive neoplasms, may progress to invasive carcinomas, whereas those of
   stable cluster may not.
 authors: Vo DT, Nakayama T, Yamamoto H, Mukaisho K, Hattori T and Sugihara H
+cancertypes: []
 contact:
   email: sugihara@belle.shiga-med.ac.jp
   name: Hiroyuki Sugihara

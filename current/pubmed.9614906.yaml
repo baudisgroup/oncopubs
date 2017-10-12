@@ -11,6 +11,7 @@ abstract: Comparative genomic hybridization CGH was used to examine gains and lo
   failed to demonstrate loss on chromosome 22, CGH identified an area of amplification
   at 17q22-23.
 authors: Khan J, Parsa NZ, Harada T, Meltzer PS and Carter NP.
+cancertypes: []
 contact:
   email: khanjav@mail.nih.gov
   name: Javed Khan

@@ -12,6 +12,43 @@ authors: Jaiswal BS, Janakiraman V, Kljavin NM, Chaudhuri S, Stern HM, Wang W, K
   Z, Dbouk HA, Peters BA, Waring P, Dela Vega T, Kenski DM, Bowman KK, Lorenzo M,
   Li H, Wu J, Modrusan Z, Stinson J, Eby M, Yue P, Kaminker JS, de Sauvage FJ, Backer
   JM and Seshagiri S.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: ~
   name: ~

@@ -18,6 +18,17 @@ abstract: Medullary thyroid carcinoma MTC is a malignant tumor of the calcitonin
   primary MTC tumors, consolidating its use as a model for studying MTC.
 authors: Marsh DJ, Theodosopoulos G, Martin-Schulte K, Richardson AL, Philips J, Roher
   HD, Delbridge L and Robinson BG.
+cancertypes:
+- term_id: ncit:C66718
+  term_label: ~
+- term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
 contact:
   email: dmarsh@med.usyd.edu.au
   name: Deborah J. Marsh

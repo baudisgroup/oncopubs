@@ -21,6 +21,27 @@ authors: Mestre-Escorihuela C, Rubio-Moscardo F, Richter JA, Siebert R, Climent 
   Fresquet V, Beltran E, Agirre X, Marugan I, Marin M, Rosenwald A, Sugimoto KJ, Wheat
   LM, Karran EL, Garcia JF, Sanchez L, Prosper F, Staudt LM, Pinkel D, Dyer MJ and
   Martinez-Climent JA.
+cancertypes:
+- term_id: ncit:C27824
+  term_label: ~
+- term_id: ncit:C8644
+  term_label: B Acute Lymphoblastic Leukemia
+- term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9826_3
+  term_label: Burkitt cell leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-98263
+  term_label: Burkitt cell leukemia
 contact:
   email: jamcliment@unav.es
   name: Jose Martinez-Climent

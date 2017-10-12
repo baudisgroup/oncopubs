@@ -7,6 +7,17 @@ abstract: Proto-oncogene MYC, mapped to chromosomal band 8q24 and the genes for 
   HCCs of various clinical and pathological stages. Chromosome 7 involvement is reported
   to be less frequent.
 authors: Rao UN, Gollin SM, Beaves S, Cieply K, Nalesnik M and Michalopoulos GK.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: ~

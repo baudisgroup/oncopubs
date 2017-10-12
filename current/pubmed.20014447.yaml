@@ -3,6 +3,17 @@ abstract: Cell lines are invaluable model systems for the investigation of cance
   Knowledge of the molecular alterations that exist within cell models is required
   to define the mechanisms governing cellular phenotypes.
 authors: Tsui IF and Garnis C.
+cancertypes:
+- term_id: ncit:C4648
+  term_label: Tongue Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C01
+  term_label: tongue
+- term_id: pgx:seer:20020
+  term_label: Tongue
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: itsui@bccrc.ca
   name: Ivy Tsui

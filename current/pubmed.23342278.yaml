@@ -14,6 +14,7 @@ abstract: Peripheral T-cell lymphoma, not otherwise specified PTCL, NOS with gen
   existence of multiple subclones was associated with a poor prognosis P 0.0279 .
 authors: Yoshida N, Umino A, Liu F, Arita K, Karube K, Tsuzuki S, Ohshima K and Seto
   M.
+cancertypes: []
 contact:
   email: ~
   name: ~

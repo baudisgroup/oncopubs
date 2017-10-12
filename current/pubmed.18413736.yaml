@@ -24,6 +24,17 @@ abstract: This study was designed to identify highly recurrent genetic alteratio
 authors: Vermeer MH, van Doorn R, Dijkman R, Mao X, Whittaker S, van Voorst Vader
   PC, Gerritsen MJ, Geerts ML, Gellrich S, Soderberg O, Leuchowius KJ, Landegren U,
   Out-Luiting JJ, Knijnenburg J, Ijszenga M, Szuhai K, Willemze R and Tensen CP.
+cancertypes:
+- term_id: ncit:C3366
+  term_label: Sezary Syndrome
+- term_id: pgx:icdom:9701_3
+  term_label: Sezary syndrome
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97013
+  term_label: Sezary syndrome
 contact:
   email: c.p.tensen@lumc.nl
   name: Cornelis P. Tensen

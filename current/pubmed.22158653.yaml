@@ -19,6 +19,9 @@ abstract: Progression of primary prostate cancer to castration-resistant prostat
   challenge.
 authors: Friedlander TW, Roy R, Tomlins SA, Ngo VT, Kobayashi Y, Azameera A, Rubin
   MA, Pienta KJ, Chinnaiyan A, Ittmann MM, Ryan CJ, Paris PL.
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: terence.friedlander@ucsf.edu
   name: Terence W. Friedlander

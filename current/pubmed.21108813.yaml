@@ -5,6 +5,7 @@ abstract: Different cell subpopulations in a single tumor may show diverse capac
   in experimental and analytical techniques, tumor heterogeneity has rarely been studied
   in detail.
 authors: Li J, Wang K, Jensen TD, Li S, Bolund L and Wiuf C.
+cancertypes: []
 contact:
   email: ~
   name: Carsten Wiuf

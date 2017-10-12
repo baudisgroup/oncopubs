@@ -24,6 +24,29 @@ abstract: Putative natural killer NK cell lymphoma leukemia is a rare group of r
   that may be useful in defining their positions in current lymphoma classification
   schemes, which are increasingly focusing on phenotypic and genotypic correlations.
 authors: Siu LL, Wong KF, Chan JK and Kwong YL.
+cancertypes:
+- term_id: ncit:C4684
+  term_label: Nasal Type Extranodal NK/T-Cell Lymphoma
+- term_id: ncit:C8647
+  term_label: Aggressive NK-Cell Leukemia
+- term_id: pgx:icdom:9719_3
+  term_label: NK/T-cell lymphoma, nasal and nasal-type
+- term_id: pgx:icdom:9948_3
+  term_label: Aggressive NK-cell leukemia
+- term_id: pgx:icdot:C30
+  term_label: nasal cavity including nasal cartilage
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: pgx:seer:35043
+  term_label: Aleukemic, subleukemic and NOS
+- term_id: snmi:M-97193
+  term_label: NK/T-cell lymphoma, nasal and nasal-type
+- term_id: snmi:M-99483
+  term_label: Aggressive NK-cell leukemia
 contact:
   email: ~
   name: ~

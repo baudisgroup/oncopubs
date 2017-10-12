@@ -7,6 +7,17 @@ abstract: Cytogenetic evaluation is a key component of the diagnosis and prognos
 authors: Kolquist KA, Schultz RA, Slovak ML, McDaniel LD, Brown TC, Tubbs RR, Cook
   JR, Theil KS, Cawich V, Valentin C, Minier S, Neill NJ, Byerly S, Morton SA, Sahoo
   T, Ballif BC and Shaffer LG.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: lisa.shaffer@perkinelmer.com
   name: Lisa Shaffer

@@ -17,6 +17,7 @@ abstract: Gain of chromosome 18q and translocation t 14 18 are frequently found 
   PMAIP1 MALT1 and BCL2, respectively.
 authors: Galteland E, Sivertsen EA, Svendsrud DH, Smedshammer L, Kresse SH, Meza-Zepeda
   LA, Myklebost O, Suo Z, Mu D, Deangelis PM and Stokke T.
+cancertypes: []
 contact:
   email: trond.stokke@dnr.uio.no
   name: Trond Stokke

@@ -26,6 +26,7 @@ abstract: 'Glioblastoma is classified into two subtypes on the basis of clinical
   which may benefit from different therapeutic strategies.'
 authors: Maher EA, Brennan C, Wen PY, Durso L, Ligon KL, Richardson A, Khatry D, Feng
   B, Sinha R, Louis DN, Quackenbush J, Black PM, Chin L and DePinho RA.
+cancertypes: []
 contact:
   email: ron_depinho@dfci.harvard.edu
   name: Ronald A. DePinho

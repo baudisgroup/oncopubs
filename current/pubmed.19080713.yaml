@@ -4,6 +4,7 @@ abstract: To detect DNA copy number abnormality and LOH and explore the profile 
   squamous cell carcinoma using SNP array.
 authors: Zhang X, Zhu ZH, Lin P, Yang H, Fu JH, Zhang LJ, Long H, Wen J, Huang XP,
   Fang Y and Rong TH.
+cancertypes: []
 contact:
   email: ~
   name: ~

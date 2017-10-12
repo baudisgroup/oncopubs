@@ -25,6 +25,7 @@ abstract: MiRNAs regulate gene expression at a post-transcriptional level and th
 authors: Bray I, Bryan K, Prenter S, Buckley PG, Foley NH, Murphy DM, Alcock L, Mestdagh
   P, Vandesompele J, Speleman F, London WB, McGrady PW, Higgins DG, OMeara A, OSullivan
   M and Stallings RL.
+cancertypes: []
 contact:
   email: Stallings@uthscsa.edu
   name: Raymond  L. Stallings

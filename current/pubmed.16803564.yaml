@@ -20,6 +20,33 @@ abstract: 'Post-transplant lymphoproliferative disorders PTLD are a major compli
   uniparental disomy may be a potential mechanism in B-cell lymphomagenesis.'
 authors: Rinaldi A, Kwee I, Poretti G, Mensah A, Pruneri G, Capello D, Rossi D, Zucca
   E, Ponzoni M, Catapano C, Tibiletti MG, Paulli M, Gaidano G and Bertoni F.
+cancertypes:
+- term_id: ncit:C27824
+  term_label: ~
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
 contact:
   email: frbertoni@mac.com
   name: Francesco Bertoni

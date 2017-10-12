@@ -6,6 +6,17 @@ abstract: Small lymphocytic lymphoma SLL is morphologically and immunologically 
   CGH analyses in order to find out whether these two entities contain the same DNA
   copy number changes.
 authors: Autio K, Aalto Y, Franssila K, Elonen E, Joensuu H, and Knuutila S.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: ~
   name: NA Knuutila

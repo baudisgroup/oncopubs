@@ -13,6 +13,7 @@ abstract: 'Comparative genomic hybridization CGH was used to analyse 34 follicul
   we propose the inclusion of CGH in the evaluation of FL at diagnosis.'
 authors: Avet-Loiseau H, Vigier M, Moreau A, Mellerin MP, Gaillard F, Harousseau JL,
   Bataille R, and Milpied N.
+cancertypes: []
 contact:
   email: havetloiseau@chu-nantes.fr
   name: H. Avet-Loiseau

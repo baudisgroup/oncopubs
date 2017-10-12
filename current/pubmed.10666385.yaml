@@ -29,6 +29,7 @@ abstract: 'To characterize cytogenetic alterations found in Barretts adenocarcin
   surveillance of Barretts patients, namely sampling error.'
 authors: Walch AK, Zitzelsberger HF, Bruch J, Keller G, Angermeier D, Aubele MM, Mueller
   J, Stein H, Braselmann H, Siewert JR, Hofler H and Werner M.
+cancertypes: []
 contact:
   email: zitzelsberger@gsf.de
   name: Horst Zitzelsberger

@@ -4,6 +4,21 @@ abstract: Cytogenetic aberrations are of prognostic significance in childhood ac
   understanding and classification of these diseases.
 authors: Kristensen TD, Wesenberg F, Jonsson OG, Carlsen NT, Forestier E, Kirchhoff
   M, Lundsteen C and Schmiegelow K.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: kschmiegelow@rh.dk
   name: Kjeld Schmiegelow

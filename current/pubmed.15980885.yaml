@@ -17,6 +17,7 @@ abstract: The question of whether any genetic differences exist between primary 
   this currently intractable disease. Our experiments also confirmed the power of
   subtractive CGH and CGH-array analysis for identifying cancer-related genes.
 authors: Tanami H, Tsuda H, Okabe S, Iwai T, Sugihara K, Imoto I and Inazawa J.
+cancertypes: []
 contact:
   email: ~
   name: J. Inazawa

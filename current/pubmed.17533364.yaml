@@ -27,6 +27,17 @@ abstract: Identifying genes, whose expression is consistently altered by chromos
 authors: Lastowska M, Viprey V, Santibanez-Koref M, Wappler I, Peters H, Cullinane
   C, Roberts P, Hall AG, Tweddle DA, Pearson AD, Lewis I, Burchill SA and Jackson
   MS.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: m.s.jackson@ncl.ac.uk
   name: M.S. Jackson

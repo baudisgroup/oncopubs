@@ -29,6 +29,7 @@ abstract: 'Intrahepatic cholangiocarcinomas (ICC) are relatively rare malignant 
   and its downstream pathways, which may have a potential effect on targeted therapies.'
 authors: Dalmasso C, Carpentier W, Guettier C, Camilleri-Broï¿½t S, Borelli WV, Campos
   Dos Santos CR, Castaing D, Duclos-Vallï¿½e JC and Broï¿½t P
+cancertypes: []
 contact:
   email: philippe.broet@inserm.fr
   name: Philippe BroÃ«t

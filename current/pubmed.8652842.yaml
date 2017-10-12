@@ -18,6 +18,41 @@ abstract: We studied DNA copy number changes in diffuse large B-cell lymphoma us
   which strongly suggests that, in addition to translocation, gene amplification is
   another mechanism for the overexpression of the BCL2 protein.
 authors: Monni O, Joensuu H, Franssila K and Knuutila S.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9679_3
+  term_label: Mediastinal large B-cell lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:icdot:C38
+  term_label: mediastinum
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C48
+  term_label: retroperitoneum and peritoneum
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96793
+  term_label: Mediastinal large B-cell lymphoma
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

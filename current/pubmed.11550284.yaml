@@ -21,6 +21,7 @@ abstract: Ewing tumors are characterized by reciprocal translocations involving 
 authors: Ozaki T, Paulussen M, Poremba C, Brinkschmidt C, Rerin J, Ahrens S, Hoffmann
   C, Hillmann A, Wai D, Schaefer KL, Boecker W, Juergens H, Winkelmann W and Dockhorn-Dworniczak
   B.
+cancertypes: []
 contact:
   email: ~
   name: B. Dockhorn-Dworniczak

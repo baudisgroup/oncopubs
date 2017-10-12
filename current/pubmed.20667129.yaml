@@ -11,6 +11,7 @@ abstract: HER2 gene copy status, and concomitant administration of trastuzumab H
   number status in cases remaining unresolved by traditional methods.
 authors: Gunn S, Yeh IT, Lytvak I, Tirtorahardjo B, Dzidic N, Zadeh S, Kim J, McCaskill
   C, Lim L, Gorre M and Mohammed M.
+cancertypes: []
 contact:
   email: gunn@uthscsa.edu
   name: Shelly Gunn

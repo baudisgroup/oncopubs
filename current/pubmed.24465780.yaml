@@ -21,6 +21,39 @@ abstract: "BACKGROUND: Disseminated cancer cells (DCCs) and circulating tumor ce
   conditions may be recruited from a pool of genomically less advanced cells, which
   display a stable subset of specific genomic alterations."
 authors: CzyÅ¼ ZT, Hoffmann M, Schlimok G, Polzer B, Klein CA.
+cancertypes:
+- term_id: ncit:C3513
+  term_label: Esophageal Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: zbigniew.czyz@klinik.uni-regensburg.de
   name: Zbigniew Tadeusz Czyz

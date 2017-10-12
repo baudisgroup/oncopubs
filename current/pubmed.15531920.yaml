@@ -29,6 +29,7 @@ abstract: 'Microsatellite-stable, near-diploid MSI-CIN- colorectal carcinomas ha
   also suggest that the MSI-CIN- group is itself heterogeneous.'
 authors: Jones AM, Douglas EJ, Halford SE, Fiegler H, Gorman PA, Roylance RR, Carter
   NP and Tomlinson IP.
+cancertypes: []
 contact:
   email: ian.tomlinson@cancer.org.uk
   name: Ian P. M. Tomlinson

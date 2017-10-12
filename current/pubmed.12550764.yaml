@@ -19,6 +19,17 @@ abstract: Rhabdomyosarcomas RMS are soft tissue sarcomas resembling developing s
   characteristic of the alveolar subtype of RMS.
 authors: Gordon A, McManus A, Anderson J, Fisher C, Abe S, Nojima T, Pritchard-Jones
   K and Shipley J.
+cancertypes:
+- term_id: ncit:C4258
+  term_label: Pleomorphic Rhabdomyosarcoma
+- term_id: pgx:icdom:8901_3
+  term_label: Pleomorphic rhabdomyosarcoma, adult type
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89013
+  term_label: Pleomorphic rhabdomyosarcoma, adult type
 contact:
   email: janet.shipley@icr.ac.uk
   name: Janet Shipley

@@ -20,6 +20,21 @@ abstract: Comparative genomic hybridization was used to analyze 41 adult fibrosa
   12q22 correlated significantly P 0.028 with a poor overall survival rate.
 authors: Schmidt H, Taubert H, Wurl P, Kappler M, Lange H, Bartel F, Bache M, Holzhausen
   HJ and Hinze R.
+cancertypes:
+- term_id: ncit:C3043
+  term_label: Fibrosarcoma
+- term_id: pgx:icdom:8810_3
+  term_label: Fibrosarcoma, NOS
+- term_id: pgx:icdot:C48
+  term_label: retroperitoneum and peritoneum
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:21110
+  term_label: Retroperitoneum
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88103
+  term_label: Fibrosarcoma, NOS
 contact:
   email: ~
   name: ~

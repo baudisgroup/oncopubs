@@ -20,6 +20,7 @@ abstract: To search for disease-related copy number variations CNVs in families 
   role of the relaxin peptides in spermatogenesis and warrant further studies.
 authors: Edsgard D, Scheel M, Hansen NT, Ralfkiaer U, Jensen TS, Skakkebaek NE, Brunak
   S, Gupta R, Rajpert-De Meyts E and Ottesen AM.
+cancertypes: []
 contact:
   email: ~
   name: Daniel Edsgard

@@ -2,6 +2,17 @@
 abstract: To investigate the pathologic, clinical, and genetic features of renal medullary
   carcinomas RMCs in search of clues to their pathogenesis.
 authors: Swartz MA, Karth J, Schneider DT, Rodriguez R, Beckwith JB and Perlman EJ.
+cancertypes:
+- term_id: ncit:C6194
+  term_label: Carcinoma of the Collecting Ducts of Bellini
+- term_id: pgx:icdom:8319_3
+  term_label: Collecting duct carcinoma
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83193
+  term_label: Collecting duct carcinoma
 contact:
   email: eperlman@childrensmemorial.org
   name: Elizabeth J. Perlman

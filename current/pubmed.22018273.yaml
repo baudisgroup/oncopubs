@@ -7,6 +7,17 @@ abstract: We report on a pediatric case of mixed phenotype acute leukemia with m
   by array comparative genomic hybridization in combination with multicolor fluorescence
   in situ hybridization and cytogenetic analyses.
 authors: Tassano E, Tavella E, Micalizzi C, Scuderi F, Cuoco C and Morerio C.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: Cristina Morerio

@@ -20,6 +20,7 @@ abstract: Array comparative genomic hybridization aCGH provides a method to quan
   could be useful in stratifying patient groups according to likelihood of relapse
   for adjuvant treatment after surgical resection.
 authors: Sung JS, Park KH and Kim YH.
+cancertypes: []
 contact:
   email: yhk0215@korea.ac.kr
   name: Yeul Hong Kim

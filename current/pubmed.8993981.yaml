@@ -12,6 +12,17 @@ abstract: Comparative genomic hybridization CGH was used to evaluate and map gen
   of new loci involved in liver cancer pathogenesis.
 authors: Marchio A, Meddeb M, Pineau P, Danglot G, Tiollais P, Bernheim A and Dejean
   A.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: NA Marchio

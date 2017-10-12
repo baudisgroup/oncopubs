@@ -12,6 +12,17 @@ abstract: Alveolar soft part sarcoma ASPS is a rare, histologically distinctive 
   of ASPS.
 authors: Kiuru-Kuhlefelt S, El-Rifai W, Sarlomo-Rikala M, Knuutila S and Miettinen
   M.
+cancertypes:
+- term_id: ncit:C3750
+  term_label: ~
+- term_id: pgx:icdom:9581_3
+  term_label: Alveolar soft part sarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-95813
+  term_label: Alveolar soft part sarcoma
 contact:
   email: wael.el-rifai@Vanderbilt.Edu
   name: W. El-Rifai

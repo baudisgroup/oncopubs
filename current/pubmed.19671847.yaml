@@ -6,6 +6,7 @@ abstract: In cases of multiple non-small cell lung cancer, clinicians must decid
   ability to assess tumor clonality.
 authors: Girard N, Ostrovnaya I, Lau C, Park B, Ladanyi M, Finley D, Deshpande C,
   Rusch V, Orlow I, Travis WD, Pao W and Begg CB.
+cancertypes: []
 contact:
   email: beggc@mskcc.org
   name: Colin Begg

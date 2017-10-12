@@ -19,6 +19,19 @@ abstract: 'Intrachromosomal amplification of chromosome 21 (iAMP21) defines a di
 authors: Rand V, Parker H, Russell LJ, Schwab C, Ensor H, Irving J, Jones L, Masic
   D, Minto L, Morrison H, Ryan S, Robinson H, Sinclair P, Moorman AV, Strefford JC,
   Harrison CJ.
+cancertypes:
+- term_id: ncit:C8644
+  term_label: Precursor B Lymphoblastic Leukemia
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: seer:35011
+  term_label: acute lymphocytic leukemia
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
 contact:
   email: vikki.rand@newcastle.ac.uk
   name: Vikki Rand

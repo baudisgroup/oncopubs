@@ -16,6 +16,19 @@ abstract: Grade II astrocytoma is defined as a low-grade tumor, yet patients hav
   The comparatively large number of cases in this study allows us to suggest that
   these tumors are genetically subgrouped.
 authors: Hirose Y, Aldape KD, Chang S, Lamborn K, Berger MS and Feuerstein BG.
+cancertypes:
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
 contact:
   email: bfeuerstein@email.arizona.edu
   name: Burt G. Feuerstein

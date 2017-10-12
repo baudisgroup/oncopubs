@@ -16,6 +16,17 @@ abstract: Malignant mesothelioma MM is an aggressive neoplasm associated with as
   for constitutive activation of YAP, which induces deregulation of MM cell proliferation.
 authors: Murakami H, Mizuno T, Taniguchi T, Fujii M, Ishiguro F, Fukui T, Akatsuka
   S, Horio Y, Hida T, Kondo Y, Toyokuni S, Osada H and Sekido Y.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: ~
   name: Yoshitaka Sekido

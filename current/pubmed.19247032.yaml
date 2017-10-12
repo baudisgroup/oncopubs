@@ -4,6 +4,32 @@ abstract: To determine whether intraductal papillary mucinous neoplasms of the p
   .
 authors: Fritz S, Fernandez-del Castillo C, Mino-Kenudson M, Crippa S, Deshpande V,
   Lauwers GY, Warshaw AL, Thayer SP and Iafrate AJ.
+cancertypes:
+- term_id: ncit:C5726
+  term_label: Pancreatic Intraductal Papillary-Mucinous Neoplasm with an Associated
+    Invasive Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8453_0
+  term_label: Intraductal papillary-mucinous adenoma
+- term_id: pgx:icdom:8453_1
+  term_label: Intraductal papillary-mucinous tumor with moderate dysplasia
+- term_id: pgx:icdom:8453_2
+  term_label: Intraductal papillary-mucinous carcinoma, non-invasive
+- term_id: pgx:icdom:8453_3
+  term_label: Intraductal papillary-mucinous carcinoma, invasive
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-84530
+  term_label: Intraductal papillary-mucinous adenoma
+- term_id: snmi:M-84531
+  term_label: Intraductal papillary-mucinous tumor with moderate dysplasia
+- term_id: snmi:M-84532
+  term_label: Intraductal papillary-mucinous carcinoma, non-invasive
+- term_id: snmi:M-84533
+  term_label: Intraductal papillary-mucinous carcinoma, invasive
 contact:
   email: aiafrate@partners.org
   name: A. John Iafrate

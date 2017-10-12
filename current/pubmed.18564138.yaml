@@ -21,6 +21,39 @@ abstract: Colorectal carcinoma CRC remains the major cause of cancer death in hu
 authors: Kurashina K, Yamashita Y, Ueno T, Koinuma K, Ohashi J, Horie H, Miyakura
   Y, Hamada T, Haruta H, Hatanaka H, Soda M, Choi YL, Takada S, Yasuda Y, Nagai H
   and Mano H.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: ncit:C9383
+  term_label: Rectal Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:21041
+  term_label: Cecum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
 contact:
   email: hmano@jichi.ac.jp
   name: Hiroyuki Mano

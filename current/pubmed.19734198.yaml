@@ -19,6 +19,7 @@ abstract: The tyrosine kinase TK family is an important regulator of signaling p
   understanding of the GC genome.
 authors: Kubo T, Kuroda Y, Shimizu H, Kokubu A, Okada N, Hosoda F, Arai Y, Nakamura
   Y, Taniguchi H, Yanagihara K, Imoto I, Inazawa J, Hirohashi S and Shibata T.
+cancertypes: []
 contact:
   email: tashibat@ncc.go.jp
   name: Tatsuhiro Shibata

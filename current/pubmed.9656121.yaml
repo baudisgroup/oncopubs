@@ -19,6 +19,17 @@ abstract: Primary fallopian tube carcinoma PFTC is a rare and highly aggressive 
   DNA.
 authors: Heselmeyer K, Hellstrom AC, Blegen H, Schrock E, Silfversward C, Shah K,
   Auer G and Ried T.
+cancertypes:
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C57
+  term_label: other female genital
+- term_id: pgx:seer:27070
+  term_label: Other Female Genital Organs
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: ~
   name: ~

@@ -26,6 +26,9 @@ abstract: It is well documented that among subgroups of B-cell acute lymphoblast
   Elsevier Inc.
 authors: Baughn LB, Biegel JA, South ST, Smolarek TA, Volkert S, Carroll AJ, Heerema
   NA, Rabin KR, Zweidler-McKay PA, Loh M and Hirsch B
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: hirsc003@umn.edu
   name: Betsy Hirsch

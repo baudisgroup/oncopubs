@@ -26,6 +26,9 @@ abstract: About 20% of breast cancers are characterized by amplification and ove
 authors: Sahlberg KK, Hongisto V, Edgren H, Mï¿½kelï¿½ R, Hellstrï¿½m K, Due EU, Moen
   Vollan HK, Sahlberg N, Wolf M, Bï¿½rresen-Dale AL, Perï¿½lï¿½ M and Kallioniemi
   O
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: kristine.kleivi@rr-research.no
   name: ~

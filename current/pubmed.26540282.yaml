@@ -19,6 +19,9 @@ abstract: 'Oral potentially malignant disorders (OPMDs) characterized by the pre
   or broad CNAs may predict cancer development in non-dysplastic OPMDs.'
 authors: Castagnola P, Zoppoli G, Gandolfo S, Monticone M, Malacarne D, Cirmena G,
   Brown D, Aiello C, Maffei M, Marino R, Giaretti W, Pentenero M.
+cancertypes:
+- term_id: seer:20050
+  term_label: gum and other mouth
 contact:
   email: patrizio.castagnola@istge.it
   name: Patrizio Castagnola

@@ -8,6 +8,19 @@ abstract: 'We report oligo-array comparative genomic hybridization findings in a
   of this phyllodes tumor of the breast with a sarcomatous stromal component warrants
   further investigation of similar cases.'
 authors: Lee J, Wang J, Torbenson M, Lu Y, Liu QZ and Li S.
+cancertypes:
+- term_id: ncit:C4504
+  term_label: Malignant Breast Phyllodes Tumor
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9020_3
+  term_label: Phyllodes tumor, malignant
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-90203
+  term_label: Phyllodes tumor, malignant
 contact:
   email: shibo-li@ouhsc.edu
   name: Shibo Li

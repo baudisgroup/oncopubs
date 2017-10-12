@@ -7,6 +7,7 @@ abstract: It has been postulated that ionizing radiation induces breast cancers 
   paraffin-embedded FFPE tissues of breast cancer by using microarray-comparative
   genomic hybridization aCGH .
 authors: Oikawa M, Yoshiura KI, Kondo H, Miura S, Nagayasu T and Nakashima M.
+cancertypes: []
 contact:
   email: ~
   name: Masahiro Nakashima

@@ -21,6 +21,9 @@ authors: Messina M, Chiaretti S, Wang J, Fedullo AL, Peragine N, Gianfelici V, P
   A, Brugnoletti F, Di Giacomo F, Pauselli S, Holmes AB, Puzzolo MC, Ceglie G, Apicella
   V, Mancini M, Te Kronnie G, Testi AM, Vitale A, Vignetti M, Guarini A, Rabadan R,
   Foï¿½ R.
+cancertypes:
+- term_id: seer:35011
+  term_label: acute lymphocytic leukemia
 contact:
   email: messina@bce.uniroma1.it
   name: Monica Messina

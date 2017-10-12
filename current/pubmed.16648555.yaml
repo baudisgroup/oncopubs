@@ -24,6 +24,7 @@ abstract: Chromosome rearrangement, a hallmark of cancer, has profound effects o
 authors: Bussey KJ, Chin K, Lababidi S, Reimers M, Reinhold WC, Kuo WL, Gwadry F,
   Ajay, Kouros-Mehr H, Fridlyand J, Jain A, Collins C, Nishizuka S, Tonon G, Roschke
   A, Gehlhaus K, Kirsch I, Scudiero DA, Gray JW and Weinstein JN.
+cancertypes: []
 contact:
   email: weinstein@dtpax2.ncifcrf.gov
   name: John N. Weinstein

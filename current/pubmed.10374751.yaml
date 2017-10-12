@@ -16,6 +16,23 @@ abstract: In contrast to astrocytic tumors, approximately two thirds of anaplast
   subgroups of HG-OTs with prognostic and possibly therapeutic relevance.
 authors: Jeuken JW, Sprenger SH, Wesseling P, Macville MV, von Deimling A, Teepen
   HL, van Overbeeke JJ and Boerman RH.
+cancertypes:
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
 contact:
   email: j.jeuken@pathol.umcn.nl
   name: Judith Jeuken

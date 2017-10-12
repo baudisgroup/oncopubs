@@ -2,6 +2,17 @@
 abstract: To investigate chromosomal gains and losses in association with human papillomavirus
   status in the vulvar squamous cell carcinomas VSCC .
 authors: Ouyang L, Zhang SL and Wang X.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C51.9
+  term_label: vulva, nos
+- term_id: pgx:seer:27060
+  term_label: Vulva
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

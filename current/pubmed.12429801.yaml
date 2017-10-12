@@ -26,6 +26,7 @@ abstract: Frequent chromosome 1 abnormalities detected in human hepatocellular c
   should provide basis for further molecular investigation in hepatocarcinogenesis
   on genes residing on these chromosomal regions.
 authors: Leung TH, Wong N, Lai PB, Chan A, To KF, Liew CT, Lau WY and Johnson PJ.
+cancertypes: []
 contact:
   email: natwong@cuhk.edu.hk
   name: Nathalie Wong

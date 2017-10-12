@@ -20,6 +20,27 @@ abstract: Leiomyosarcoma LMS is a soft tissue tumor with a significant degree of
 authors: Beck AH, Lee CH, Witten DM, Gleason BC, Edris B, Espinosa I, Zhu S, Li R,
   Montgomery KD, Marinelli RJ, Tibshirani R, Hastie T, Jablons DM, Rubin BP, Fletcher
   CD, West RB and van de Rijn M.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
 contact:
   email: ~
   name: ~

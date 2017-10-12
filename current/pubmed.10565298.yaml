@@ -17,6 +17,21 @@ abstract: The t X 18 p11.2 q11.2 SYT SSX1 or SSX2 is represented in more than 95
   improved or impaired metastasis-free survival.
 authors: Skytting BT, Szymanska J, Aalto Y, Lushnikova T, Blomqvist C, Elomaa I, Larsson
   O and Knuutila S.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9041_3
+  term_label: Synovial sarcoma, spindle cell
+- term_id: pgx:icdom:9043_3
+  term_label: Synovial sarcoma, biphasic
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-90413
+  term_label: Synovial sarcoma, spindle cell
+- term_id: snmi:M-90433
+  term_label: Synovial sarcoma, biphasic
 contact:
   email: ~
   name: ~

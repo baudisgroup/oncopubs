@@ -9,6 +9,21 @@ abstract: Hemangioblastomas HBs occur sporadically or as a manifestation of von 
   genetic background.
 authors: Gijtenbeek JM, Jacobs B, Sprenger SH, Eleveld MJ, van Kessel AG, Kros JM,
   Sciot R, van Calenbergh F, Wesseling P and Jeuken JW.
+cancertypes:
+- term_id: ncit:C3801
+  term_label: Hemangioblastoma
+- term_id: pgx:icdom:9161_1
+  term_label: Hemangioblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C72.0
+  term_label: Spinal cord
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-91611
+  term_label: Hemangioblastoma
 contact:
   email: j.gijtenbeek@czzoneu.azn.nl
   name: Johanna M. M. Gijtenbeek

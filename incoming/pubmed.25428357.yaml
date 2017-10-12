@@ -17,6 +17,7 @@ abstract: Somatic copy number aberrations (CNA) represent a mutation type encoun
   genome patterns.  ï¿½ The Author(s) 2014. Published by Oxford University Press on
   behalf of Nucleic Acids Research.
 authors: Cai H, Gupta S, Rath P, Ai N and Baudis M
+cancertypes: []
 contact:
   email: ~
   name: ~

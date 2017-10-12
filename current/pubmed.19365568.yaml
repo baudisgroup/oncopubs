@@ -10,6 +10,19 @@ abstract: Although paediatric high grade gliomas resemble their adult counterpar
 authors: Bax DA, Little SE, Gaspar N, Perryman L, Marshall L, Viana-Pereira M, Jones
   TA, Williams RD, Grigoriadis A, Vassal G, Workman P, Sheer D, Reis RM, Pearson AD,
   Hargrave D and Jones C.
+cancertypes:
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:None
+  term_label: ~
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
 contact:
   email: chris.jones@icr.ac.uk
   name: Chris Jones

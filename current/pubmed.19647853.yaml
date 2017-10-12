@@ -21,6 +21,17 @@ abstract: Splenic marginal zone B-cell lymphoma is characterized by high genetic
 authors: Novara F, Arcaini L, Merli M, Passamonti F, Zibellini S, Rizzi S, Rattotti
   S, Rumi E, Pascutto C, Vetro A, Astori C, Boveri E, Lucioni M, Paulli M, Zuffardi
   O and Lazzarino M.
+cancertypes:
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
 contact:
   email: ~
   name: ~

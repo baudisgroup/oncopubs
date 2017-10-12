@@ -4,6 +4,7 @@ abstract: DNA sequence amplifications are involved in the progression of many tu
   was to detect new loci of DNA amplifications in prostate cancer.
 authors: El Gedaily A, Bubendorf L, Willi N, Fu W, Richter J, Moch H, Mihatsch MJ,
   Sauter G and Gasser TC.
+cancertypes: []
 contact:
   email: thomas.gasser@ksli.ch
   name: Thomas C. Gasser

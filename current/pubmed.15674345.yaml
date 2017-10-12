@@ -17,6 +17,7 @@ abstract: Structural chromosomal aberrations are common in epithelial tumors. He
   adenocarcinomas and squamous cell carcinomas.
 authors: Hermsen M, Snijders A, Guervos MA, Taenzer S, Koerner U, Baak J, Pinkel D,
   Albertson D, van Diest P, Meijer G and Schrock E.
+cancertypes: []
 contact:
   email: mhermsen@hca.es
   name: Mario A.J.A. Hermsen

@@ -19,6 +19,17 @@ abstract: The epithelial to mesenchymal transition EMT of malignant hepatocytes 
   of therapeutic drug efficacy during liver cancer progression in preclinical studies.
 authors: van Zijl F, Mall S, Machat G, Pirker C, Zeillinger R, Weinhaeusel A, Bilban
   M, Berger W and Mikulits W.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: Wolfgang Mikulits

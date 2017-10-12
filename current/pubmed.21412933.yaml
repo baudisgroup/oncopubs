@@ -22,6 +22,7 @@ abstract: Birt-Hogg-Dub syndrome BHDS , caused by germline mutations in the foll
   of BHDS in patients who are FLCN mutation-negative by DNA sequencing.
 authors: Benhammou JN, Vocke CD, Santani A, Schmidt LS, Baba M, Seyama K, Wu X, Korolevich
   S, Nathanson KL, Stolle CA and Linehan WM.
+cancertypes: []
 contact:
   email: ~
   name: Laura Schmidt

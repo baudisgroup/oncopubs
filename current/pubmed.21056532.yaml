@@ -3,6 +3,17 @@ abstract: Cytogenetic abnormalities occur at an early stage of bladder urothelia
   carcinomas BUC , and their frequency increases as the cancer becomes more advanced.
 authors: Larre S, Camparo P, Comperat E, Gil Diez De Medina S, Traxer O, Roupret M,
   Sebe P, Cancel-Tassin G, Sighar K, Lozach F and Cussenot O.
+cancertypes:
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~
   name: Stephane Larre

@@ -18,6 +18,17 @@ abstract: Juvenile myelomonocytic leukaemia JMML is a unique myeloproliferative 
   of JMML and other myeloid malignancies.
 authors: Ripperger T, Tauscher M, Praulich I, Pabst B, Teigler-Schlegel A, Yeoh A,
   Gohring G, Schlegelberger B, Flotho C, Niemeyer CM and Steinemann D.
+cancertypes:
+- term_id: ncit:C9233
+  term_label: Juvenile Myelomonocytic Leukemia
+- term_id: pgx:icdom:9946_3
+  term_label: Juvenile myelomonocytic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: snmi:M-99463
+  term_label: Juvenile myelomonocytic leukemia
 contact:
   email: steinemann.doris@mh-hannover.de
   name: Doris Steinemann

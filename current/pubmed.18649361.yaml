@@ -20,6 +20,17 @@ abstract: We tried to establish models that predict systemic recurrence in breas
   the recurrence and nonrecurrence.
 authors: Hwang KT, Han W, Cho J, Lee JW, Ko E, Kim EK, Jung SY, Jeong EM, Bae JY,
   Kang JJ, Yang SJ, Kim SW and Noh DY.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: dynoh@plaza.snu.ac.kr
   name: Dong-Young Noh

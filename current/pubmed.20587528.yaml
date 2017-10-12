@@ -14,6 +14,27 @@ abstract: Development of mesothelioma is linked mainly to asbestos exposure, but
   in mesothelioma, rather than a discrete, local coordination of gene inactivation.
 authors: Christensen BC, Houseman EA, Poage GM, Godleski JJ, Bueno R, Sugarbaker DJ,
   Wiencke JK, Nelson HH, Marsit CJ and Kelsey KT.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: ~
   name: Karl Kelsey

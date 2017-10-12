@@ -4,6 +4,7 @@ abstract: In a cancer cell the number of copies of a locus may vary due to ampli
   We focus on the disparity of CNAs in tumour samples, which were compared to those
   in blood in order to identify the directional loss of heterozygosity.
 authors: Kaveh F, Edvardsen H, Borresen-Dale AL, Kristensen VN and Solvang HK.
+cancertypes: []
 contact:
   email: ~
   name: Vessela Kristensen

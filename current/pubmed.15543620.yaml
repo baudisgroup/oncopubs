@@ -20,6 +20,7 @@ abstract: Several chromosomal regions are recurrently amplified or deleted in lu
   of the RB1-CCND1 pathway in lung tumorigenesis.
 authors: Wikman H, Nymark P, Vayrynen A, Jarmalaite S, Kallioniemi A, Salmenkivi K,
   Vainio-Siukola K, Husgafvel-Pursiainen K, Knuutila S, Wolf M and Anttila S.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

@@ -24,6 +24,7 @@ abstract: Partial gain of chromosome arm 17q is an abundant aberrancy in various
 authors: Buganim Y, Goldstein I, Lipson D, Milyavsky M, Polak-Charcon S, Mardoukh
   C, Solomon H, Kalo E, Madar S, Brosh R, Perelman M, Navon R, Goldfinger N, Barshack
   I, Yakhini Z and Rotter V.
+cancertypes: []
 contact:
   email: varda.rotter@weizmann.ac.il
   name: Varda Rotter

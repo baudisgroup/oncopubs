@@ -27,6 +27,27 @@ abstract: 'BACKGROUND: The number of circulating tumor cells CTCs in metastatic 
   manner.'
 authors: Magbanua MJ, Sosa EV, Scott JH, Simko J, Collins C, Pinkel D, Ryan CJ and
   Park JW.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

@@ -2,6 +2,7 @@
 abstract: ~
 authors: Mestre C, Rubio-Moscardo F, Rosenwald A, Climent J, Dyer MJS, Staudt L, Pinkel
   D, Siebert R, and Martinez-Climent JA.
+cancertypes: []
 contact:
   email: jamcliment@unav.es
   name: Jose A. Martinez-Climent

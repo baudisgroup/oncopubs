@@ -27,6 +27,17 @@ abstract: Hepatosplenic T-cell lymphoma HSTL is an aggressive lymphoma cytogenet
 authors: Finalet Ferreiro J, Rouhigharabaei L, Urbankova H, van der Krogt JA, Michaux
   L, Shetty S, Krenacs L, Tousseyn T, De Paepe P, Uyttebroeck A, Verhoef G, Taghon
   T, Vandenberghe P, Cools J and Wlodarska I.
+cancertypes:
+- term_id: ncit:C8459
+  term_label: Hepatosplenic T-Cell Lymphoma
+- term_id: pgx:icdom:9716_3
+  term_label: Hepatosplenic T-cell lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97163
+  term_label: Hepatosplenic T-cell lymphoma
 contact:
   email: ~
   name: ~

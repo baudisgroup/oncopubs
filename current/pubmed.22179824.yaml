@@ -16,6 +16,17 @@ abstract: Though prostate cancer is often indolent, it is nonetheless a leading 
   underlie cell invasiveness in a subset of prostate cancers, and indicate a possible
   novel role of altered chromatin remodeling in prostate tumorigenesis.
 authors: Huang S, Gulzar ZG, Salari K, Lapointe J, Brooks JD and Pollack JR.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: pollack1@stanford.edu
   name: Jonathan Pollack

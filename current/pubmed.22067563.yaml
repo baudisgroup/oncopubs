@@ -24,6 +24,17 @@ abstract: The clinicopathological heterogeneity of glioblastoma GBM and the vari
   therapy.
 authors: Wakimoto H, Mohapatra G, Kanai R, Curry WT Jr, Yip S, Nitta M, Patel AP,
   Barnard ZR, Stemmer-Rachamimov AO, Louis DN, Martuza RL and Rabkin SD.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ~
   name: Hiroaki Wakimoto

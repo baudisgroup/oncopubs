@@ -15,6 +15,7 @@ abstract: The diagnosis and classification of many cancers depends in part on th
   it should be of broad utility in the diagnosis and classification of various types
   of lymphomas, leukemias, and solid tumors.
 authors: Greisman HA, Hoffman NG and Yi HS.
+cancertypes: []
 contact:
   email: ~
   name: Harvey Greisman

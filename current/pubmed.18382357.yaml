@@ -22,6 +22,7 @@ abstract: 'Carcinosarcomas are malignant tumors with a mixture of carcinomatous 
   carcinomatous and sarcomatous areas.'
 authors: Pardo J, Aisa G, Alava E, Sola JJ, Panizo A, Rodriguez-Spiteri N, Garcia
   JL and Torre W.
+cancertypes: []
 contact:
   email: jpardo@unav.es
   name: J. Pardo

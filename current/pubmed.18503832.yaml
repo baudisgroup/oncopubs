@@ -17,6 +17,17 @@ abstract: Soft tissue malignant myoepithelioma STMM is a particularly rare tumor
   alterations of salivary gland myoepithelial carcinomas and ductal carcinomas of
   breast with myoepithelial differentiation.
 authors: Balogh Z, Deak L, and Sapi Z.
+cancertypes:
+- term_id: ncit:C7596
+  term_label: ~
+- term_id: pgx:icdom:8982_3
+  term_label: Malignant myoepithelioma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89823
+  term_label: Malignant myoepithelioma
 contact:
   email: zsapi@freemail.hu
   name: Zoltan Sapi

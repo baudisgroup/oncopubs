@@ -21,6 +21,21 @@ abstract: Whole genome-scale integrated analyses of exon array and array-compara
   warrant further investigation using clinical samples and integrated analyses.
 authors: Furuta K, Arao T, Sakai K, Kimura H, Nagai T, Tamura D, Aomatsu K, Kudo K,
   Kaneda H, Fujita Y, Matsumoto K, Yamada Y, Yanagihara K, Sekijima M and Nishio K.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Kazuto Nishio

@@ -21,6 +21,9 @@ abstract: Melanoma often recurs after a latency period of several years, present
 authors: Zhao F, Sucker A, Horn S, Heeke C, Bielefeld N, Schrï¿½rs B, Bicker A, Lindemann
   M, Roesch A, Gaudernack G, Stiller M, Becker JC, Lennerz V, Wï¿½lfel T, Schadendorf
   D, Griewank K, Paschen A.
+cancertypes:
+- term_id: seer:25010
+  term_label: melanoma of the skin
 contact:
   email: klaus.griewank@uk-essen.de
   name: Klaus Georg Griewank

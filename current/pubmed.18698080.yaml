@@ -11,6 +11,17 @@ authors: Salaverria I, Zettl A, Bea S, Hartmann EM, Dave SS, Wright GW, Boerma E
   Kluin PM, Ott G, Chan WC, Weisenburger DD, Lopez-Guillermo A, Gascoyne RD, Delabie
   J, Rimsza LM, Braziel RM, Jaffe ES, Staudt LM, Muller-Hermelink HK, Campo E and
   Rosenwald A.
+cancertypes:
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
 contact:
   email: Rosenwald@mail.uni-wuerzburg.de
   name: Andreas Rosenwald

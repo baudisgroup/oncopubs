@@ -19,6 +19,7 @@ abstract: MicroRNA miRNA deregulation contributes to cancer pathogenesis. Howeve
   in this tumor.
 authors: Li C, Kim SW, Rai D, Bolla AR, Adhvaryu S, Kinney MC, Robetorye RS and Aguiar
   RC.
+cancertypes: []
 contact:
   email: aguiarr@uthscsa.edu
   name: Ricardo Aguiar

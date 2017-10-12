@@ -16,6 +16,17 @@ abstract: Medulloblastoma MB is one of the most aggressive pediatric brain tumor
   variants and indicate a genotype-phenotype correlation.
 authors: Coco S, Valdora F, Bonassi S, Scaruffi P, Stigliani S, Oberthuer A, Berthold
   F, Andolfo I, Servidei T, Riccardi R, Basso E, Iolascon A and Tonini GP.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
 contact:
   email: ~
   name: Gian Paolo Tonini

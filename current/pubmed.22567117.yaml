@@ -21,6 +21,33 @@ abstract: Dense genotype data can be used to detect chromosome fragments inherit
   is freely available and can be used online at the FounderTracker website.
 authors: Letouzï¿½ E, Sow A, Petel F, Rosati R, Figueiredo BC, Burnichon N, Gimenez-Roqueplo
   AP, Lalli E and de Reyniï¿½s A
+cancertypes:
+- term_id: ncit:C3308
+  term_label: Paraganglioma
+- term_id: ncit:C3326
+  term_label: Adrenal Gland Pheochromocytoma
+- term_id: ncit:C9325
+  term_label: Adrenal Cortex Carcinoma
+- term_id: pgx:icdom:8370_3
+  term_label: Adrenal cortical carcinoma
+- term_id: pgx:icdom:8680_1
+  term_label: Paraganglioma, NOS
+- term_id: pgx:icdom:8700_0
+  term_label: Pheochromocytoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- term_id: 'pgx:seer:'
+  term_label: ''
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-83703
+  term_label: Adrenal cortical carcinoma
+- term_id: snmi:M-86801
+  term_label: Paraganglioma, NOS
+- term_id: snmi:M-87000
+  term_label: Pheochromocytoma, NOS
 contact:
   email: LetouzeE@ligue-cancer.net
   name: Eric Letouze

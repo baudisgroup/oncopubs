@@ -6,6 +6,17 @@ abstract: Cell lines play an important role for studying tumor biology and novel
 authors: Gottschling S, Jauch A, Kuner R, Herpel E, Mueller-Decker K, Schnabel PA,
   Xu EC, Muley T, Sultmann H, Bender C, Granzow M, Efferth T, Hoffmann H, Dienemann
   H, Herth FJ and Meister M.
+cancertypes:
+- term_id: ncit:C65151
+  term_label: ~
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
 contact:
   email: ~
   name: Sandra Gottschling

@@ -27,6 +27,7 @@ abstract: Genome-wide screening for chromosomal imbalances using comparative gen
   for widespread application in tumor and clinical genetics.
 authors: Wessendorf S, Fritz B, Wrobel G, Nessling M, Lampel S, Goettel D, Kuepper
   M, Joos S, Hopman T, Kokocinski F, Dohner H, Bentz M, Schwaenen C and Lichter P.
+cancertypes: []
 contact:
   email: ~
   name: ~

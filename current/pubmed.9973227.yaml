@@ -35,6 +35,7 @@ abstract: 'Incidence rates have risen rapidly for esophageal and gastric cardia 
   of cancers.'
 authors: van Dekken H, Geelen E, Dinjens WN, Wijnhoven BP, Tilanus HW, Tanke HJ and
   Rosenberg C.
+cancertypes: []
 contact:
   email: ~
   name: H. van Dekken

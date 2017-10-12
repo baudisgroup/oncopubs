@@ -5,6 +5,7 @@ abstract: Patients treated with opioid drugs for cancer pain experience differen
   may control individual response to opioid drugs in cancer patients.
 authors: Galvan A, Skorpen F, Klepstad P, Knudsen AK, Fladvad T, Falvella FS, Pigni
   A, Brunelli C, Caraceni A, Kaasa S and Dragani TA.
+cancertypes: []
 contact:
   email: tommaso.dragani@istitutotumori.mi.it
   name: Tommaso Dragani

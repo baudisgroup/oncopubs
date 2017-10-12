@@ -19,6 +19,17 @@ abstract: We performed a genome wide screening for genomic alterations on a seri
   tumors.
 authors: Weber T, Weber RG, Kaulich K, Actor B, Meyer-Puttlitz B, Lampel S, Buschges
   R, Weigel R, Deckert-Schluter M, Schmiedek P, Reifenberger G and Lichter P.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

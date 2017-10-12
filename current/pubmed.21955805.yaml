@@ -10,6 +10,7 @@ abstract: Deletion of ATM detected by fluorescent in situ hybridization FISH in 
   deletion at 11q22.3.
 authors: Gardiner A, Parker H, Glide S, Mould S, Robinson H, Tracy I, Stankovic T,
   Oscier D and Strefford J.
+cancertypes: []
 contact:
   email: ~
   name: Anne Gardiner

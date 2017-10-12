@@ -8,6 +8,17 @@ abstract: A major challenge in the interpretation of genomic profiling data gene
   chromosomal regions which demonstrate copy number alterations, providing a mechanistic
   approach to identify the driver genes.
 authors: Hawthorn L, Luce J, Stein L and Rothschild J.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: lhawthorn@mcg.edu
   name: Lesleyann Hawthorn

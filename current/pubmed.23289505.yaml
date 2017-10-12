@@ -12,6 +12,7 @@ abstract: There is a clinical need for routinely available genomic biomarker tes
   cases.
 authors: Gunn S, Reveles X, Weldon K, Barrera A, Ishaque M, Taylor D, McCaskill C,
   Kim J, Shah R, Mohammed M, Barry T, Kaiser B, Patnaik A and Tolcher A.
+cancertypes: []
 contact:
   email: ~
   name: ~

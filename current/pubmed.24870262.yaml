@@ -21,6 +21,17 @@ abstract: Intratumoural heterogeneity ITH leads to regional biases of the mutati
   setting. Copyright c 2014 Pathological Society of Great Britain and Ireland. Published
   by John Wiley amp Sons, Ltd.
 authors: Kim TM, Jung SH, Baek IP, Lee SH, Choi YJ, Lee JY, Chung YJ and Lee SH.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

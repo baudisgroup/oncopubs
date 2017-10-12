@@ -9,6 +9,19 @@ abstract: Urothelial carcinoma UC is characterized by nonrandom chromosomal aber
   genes for genomic amplifications.
 authors: Heidenblad M, Lindgren D, Jonson T, Liedberg F, Veerla S, Chebil G, Gudjonsson
   S, Borg A, Mansson W and Hoglund M.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8130_1
+  term_label: Papillary transitional cell neoplasm of low malignant potential
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:icdot:C68.0
+  term_label: other urinary organs
+- term_id: pgx:seer:29040
+  term_label: Other Urinary Organs
+- term_id: snmi:M-81301
+  term_label: Papillary transitional cell neoplasm of low malignant potential
 contact:
   email: ~
   name: ~

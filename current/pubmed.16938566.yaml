@@ -19,6 +19,17 @@ abstract: 'Leiomyosarcoma LMS is a rare malignant mesenchymal tumor of smooth mu
   genes and oncogenes therein. The list of altered genes in the minimal common regions
   is available as at our web site http: www.helsinki.fi cmg microarray_data .'
 authors: Larramendy ML, Kaur S, Svarvar C, Bohling T and Knuutila S.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

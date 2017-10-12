@@ -18,6 +18,17 @@ abstract: Childhood neuroblastoma, an embryonal neoplasm of sympathetic nervous 
   could aid in our understanding of the predisposition to and pathogenesis of familial
   neuroblastoma and potentially sporadic tumors as well.
 authors: Altura RA, Maris JM, Li H, Boyett JM, Brodeur GM, and Look AT.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: ~

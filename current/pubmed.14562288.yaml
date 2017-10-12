@@ -19,6 +19,31 @@ abstract: The histological transformation from a follicular lymphoma FL to a dif
   on 9q, was found in 4 of the 5 DLBL that transformed from FL grade 1 or 2.
 authors: Boonstra R, Bosga-Bouwer A, Mastik M, Haralambieva E, Conradie J, van den
   Berg E, van den Berg A and Poppema S.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9691_3
+  term_label: Follicular lymphoma, grade 2
+- term_id: pgx:icdom:9695_3
+  term_label: Follicular lymphoma, grade 1
+- term_id: pgx:icdom:9698_3
+  term_label: Follicular lymphoma, grade 3
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96913
+  term_label: Follicular lymphoma, grade 2
+- term_id: snmi:M-96953
+  term_label: Follicular lymphoma, grade 1
+- term_id: snmi:M-96983
+  term_label: Follicular lymphoma, grade 3
 contact:
   email: ~
   name: ~

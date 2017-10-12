@@ -16,6 +16,39 @@ abstract: Abnormalities of chromosome 7q are common in myeloid malignancies, but
 authors: Ernst T, Chase AJ, Score J, Hidalgo-Curtis CE, Bryant C, Jones AV, Waghorn
   K, Zoi K, Ross FM, Reiter A, Hochhaus A, Drexler HG, Duncombe A, Cervantes F, Oscier
   D, Boultwood J, Grand FH and Cross NC.
+cancertypes:
+- term_id: ncit:C3178
+  term_label: Chronic Myelomonocytic Leukemia
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:C3519
+  term_label: Atypical Chronic Myeloid Leukemia, BCR-ABL1 Negative
+- term_id: ncit:C4563
+  term_label: Chronic Eosinophilic Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9876_3
+  term_label: Atypical chronic myeloid leukemia, BCR/ABL negative
+- term_id: pgx:icdom:9945_3
+  term_label: Chronic myelomonocytic leukemia, NOS
+- term_id: pgx:icdom:9964_3
+  term_label: Chronic eosinophilic leukemia, NOS
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: pgx:seer:35043
+  term_label: Aleukemic, subleukemic and NOS
+- term_id: snmi:M-98763
+  term_label: Atypical chronic myeloid leukemia, BCR/ABL negative
+- term_id: snmi:M-99453
+  term_label: Chronic myelomonocytic leukemia, NOS
+- term_id: snmi:M-99643
+  term_label: Chronic eosinophilic leukemia, NOS
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: ~
   name: Nicholas Cross

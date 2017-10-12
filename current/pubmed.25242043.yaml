@@ -11,6 +11,21 @@ abstract: The casein kinase 1A1 gene (CSNK1A1) is a putative tumor suppressor ge
   a central role in the biology of del(5q) MDS and is a promising therapeutic target.
 authors: Schneider RK, Ademï¿½ V, Heckl D, Jï¿½rï¿½s M, Mallo M, Lord AM, Chu LP,
   McConkey ME, Kramann R, Mullally A, Bejar R, Solï¿½ F, Ebert BL.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:null
+  term_label: ~
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:null
+  term_label: 'null'
+- term_id: seer:35023
+  term_label: other myeloid/monocytic leukemia
+- term_id: snmi:M-null
+  term_label: ~
 contact:
   email: vera.adema@gmail.com
   name: Vera Adema

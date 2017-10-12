@@ -18,6 +18,17 @@ abstract: Fusion kinases FK like BCR ABL1 mediate leukemic transformation and re
   of ETV6 ABL1.
 authors: Baeumler J, Szuhai K, Falkenburg JH, van Schie ML, Ottmann OG, and Nijmeijer
   BA.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: b.a.nijmeijer@lumc.nl
   name: Bart A Nijmeijer

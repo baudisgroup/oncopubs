@@ -15,6 +15,17 @@ abstract: Cytogenetic analysis of a lumbar soft tissue Ewing sarcoma ES in a 7-m
   in soft tissue tumors, which are less common than their bone-involving counterparts.
 authors: Rougemont A. L., Bouron-Dal Soglio D., Patey-Mariaud de Serre N., Fetni R.,
   Fan L., Barrette S. and Fournet J. C.
+cancertypes:
+- term_id: ncit:C4817
+  term_label: Ewing Sarcoma
+- term_id: pgx:icdom:9260_3
+  term_label: Ewing sarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-92603
+  term_label: Ewing sarcoma
 contact:
   email: ~
   name: Anne-Laure Rougemont

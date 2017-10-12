@@ -21,6 +21,17 @@ abstract: Neuroblastoma, a tumour derived from the peripheral sympathetic nervou
 authors: Janoueix-Lerosey I, Lequin D, Brugieres L, Ribeiro A, de Pontual L, Combaret
   V, Raynal V, Puisieux A, Schleiermacher G, Pierron G, Valteau-Couanet D, Frebourg
   T, Michon J, Lyonnet S, Amiel J and Delattre O.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: olivier.delattre@curie.fr
   name: Olivier Delattre

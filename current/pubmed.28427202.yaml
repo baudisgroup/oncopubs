@@ -21,6 +21,9 @@ abstract: 'Breast cancer (BC) has been genetically profiled through large-scale 
   of PIK3CA altered the expression of other genes and pathways including CALM1 and
   may be a potential predictive marker of PI3K inhibitor effectiveness.'
 authors: Kim JY, Lee E, Park K, Park WY, Jung HH, Ahn JS, Im YH, Park YH.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: yhparkhmo@skku.edu
   name: Yeon Hee Park

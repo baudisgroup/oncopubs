@@ -17,6 +17,19 @@ abstract: Olfactory neuroblastoma is an unusual neuroectodermal malignancy, whic
   gains in 20q and 13q may be important in the progression of this cancer, and that
   these regions possibly harbor genes with functional relevance in olfactory neuroblastoma.
 authors: Guled M, Myllykangas S, Frierson HF Jr, Mills SE, Knuutila S and Stelow EB.
+cancertypes:
+- term_id: ncit:C3789
+  term_label: Olfactory Neuroblastoma
+- term_id: pgx:icdom:9522_3
+  term_label: Olfactory neuroblastoma
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95223
+  term_label: Olfactory neuroblastoma
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

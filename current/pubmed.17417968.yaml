@@ -7,6 +7,25 @@ abstract: Typical medullary breast carcinoma MBC has recently been recognized to
 authors: Vincent-Salomon A, Gruel N, Lucchesi C, MacGrogan G, Dendale R, Sigal-Zafrani
   B, Longy M, Raynal V, Pierron G, de Mascarel I, Taris C, Stoppa-Lyonnet D, Pierga
   JY, Salmon R, Sastre-Garau X, Fourquet A, Delattre O, de Cremoux P and Aurias A.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C66718
+  term_label: ~
+- term_id: ncit:C9119
+  term_label: Medullary Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
 contact:
   email: anne.salomon@curie.net
   name: Anne Vincent-Salomon

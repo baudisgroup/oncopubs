@@ -8,6 +8,37 @@ abstract: We present a strategy for detection of loss-of-heterozygosity and alle
   both minute and gross allelic imbalances in heterogeneous tumor samples.
 authors: Staaf J, Lindgren D, Vallon-Christersson J, Isaksson A, Goransson H, Juliusson
   G, Rosenquist R, Hoglund M, Borg A and Ringner M.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C7355
+  term_label: Renal Pelvis Urothelial Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C65
+  term_label: renal pelvis, ureter
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: ~
   name: Markus Ringn     r

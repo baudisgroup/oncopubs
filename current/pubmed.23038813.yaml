@@ -21,6 +21,21 @@ abstract: The breast tumor microenvironment plays an active role in tumorigenesi
   not shared between specimens. These data, therefore, support a model in which the
   tumor microenvironment is genetically stable.
 authors: Rummel S, Valente AL, Kane JL, Shriver CD and Ellsworth RE.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: ~
   name: ~

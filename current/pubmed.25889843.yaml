@@ -25,6 +25,7 @@ abstract: "Malignant mesothelioma (MM) arises from mesothelial cells that line t
   pleural MM as well as potential strategies for therapy and prevention."
 authors: Alakus H, Yost SE, Woo B, French R, Lin GY, Jepsen K, Frazer KA, Lowy AM
   and Harismendy O
+cancertypes: []
 contact:
   email: oharismendy@ucsd.edu
   name: O Harismendy

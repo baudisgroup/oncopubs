@@ -23,6 +23,19 @@ authors: Buczkowicz P, Hoeman C, Rakopoulos P, Pajovic S, Letourneau L, Dzamba M
   Chan J, Lafay-Cousin L, Dunn S, Hukin J, Dunham C, Scheinemann K, Michaud J, Zelcer
   S, Ramsay D, Cain J, Brennan C, Souweidane MM, Jones C, Allis CD, Brudno M, Becher
   O and Hawkins C.
+cancertypes:
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- term_id: pgx:icdot:C71.9
+  term_label: brain, nos
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
 contact:
   email: cynthia.hawkins@sickkids.ca
   name: Cynthia Hawkins

@@ -14,6 +14,7 @@ abstract: Large-cell neuroendocrine carcinoma LCNEC and small-cell lung cancer S
   had a gain of 3q. Gains of 6p occurred more frequently in LCNEC. Deletions of 10q,
   16q, and 17p were less frequent in LCNEC than in SCLC.
 authors: Ullmann R, Petzmann S, Sharma A, Cagle PT and Popper HH.
+cancertypes: []
 contact:
   email: popper@uni-graz.at
   name: Helmut H. Popper

@@ -23,6 +23,7 @@ abstract: By convention, a contralateral breast cancer (CBC) is treated as a new
   required to confirm the frequency of CBCs representing metastatic events.
 authors: Alkner S, Tang MH, Brueffer C, Dahlgren M, Chen Y, Olsson E, Winter C, Baker
   S, Ehinger A, Rydï¿½n L, Saal LH, Fernï¿½ M and Gruvberger-Saal SK
+cancertypes: []
 contact:
   email: Sofia.Gruvberger@med.lu.se
   name: Sofia K Gruvberger-Saal

@@ -10,6 +10,7 @@ abstract: We analyzed 72 primary and 25 recurrent glioblastoma multiforme GBM sa
   there is more than one class of primary GBM.
 authors: Mohapatra G, Bollen AW, Kim DH, Lamborn K, Moore DH, Prados MD and Feuerstein
   BG.
+cancertypes: []
 contact:
   email: bfeuerstein@email.arizona.edu
   name: Burt G. Feuerstein

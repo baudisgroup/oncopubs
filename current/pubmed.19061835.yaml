@@ -13,6 +13,17 @@ abstract: von Hippel-Lindau VHL tumor suppressor loss results in hypoxia-inducib
   selecting targeted therapies.
 authors: Gordan JD, Lal P, Dondeti VR, Letrero R, Parekh KN, Oquendo CE, Greenberg
   RA, Flaherty KT, Rathmell WK, Keith B, Simon MC and Nathanson KL.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
 contact:
   email: celeste2@mail.med.upenn.edu
   name: Celeste Simon

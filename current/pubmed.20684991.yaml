@@ -10,6 +10,17 @@ abstract: To ascertain genomic alterations associated with Imatinib resistance i
 authors: Joha S, Dauphin V, Lepretre F, Corm S, Nicolini FE, Roumier C, Nibourel O,
   Grardel N, Maguer-Satta V, Idziorek T, Figeac M, Lai JL, Quesnel B, Etienne G, Guilhot
   F, Lippert E, Preudhomme C and Roche-Lestienne C.
+cancertypes:
+- term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia BCR-ABL1 Positive
+- term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
 contact:
   email: ~
   name: Sami Joha

@@ -20,6 +20,17 @@ abstract: In contrast to other subtypes of lymphoproliferative malignancies, the
   remains to be determined.
 authors: Dierlamm J, Stefanova M, Wlodarska I, Michaux L, Hinz K, Penas EM, Maes B,
   Hagemeijer A, De Wolf-Peeters C and Hossfeld DK.
+cancertypes:
+- term_id: ncit:C7402
+  term_label: Hairy Cell Leukemia
+- term_id: pgx:icdom:9940_3
+  term_label: Hairy cell leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35013
+  term_label: Other Lymphocytic Leukemia
+- term_id: snmi:M-99403
+  term_label: Hairy cell leukemia
 contact:
   email: ~
   name: ~

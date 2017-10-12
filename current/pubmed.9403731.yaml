@@ -19,6 +19,19 @@ abstract: Unexpectedly aggressive clinical course of some grade II astrocytomas 
   in characterization of grade II astrocytomas.
 authors: Sallinen SL, Sallinen P, Haapasalo H, Kononen J, Karhu R, Helen P and Isola
   J.
+cancertypes:
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
 contact:
   email: ~
   name: Satu-Leena Salinen

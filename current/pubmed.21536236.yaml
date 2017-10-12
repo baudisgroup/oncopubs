@@ -15,6 +15,7 @@ abstract: 'Recurrent deletions of 5q in myeloid malignancies encompass two separ
   that the proximal boundary of the common deleted region may lie within the KDM3B
   gene.'
 authors: MacKinnon RN, Kannourakis G, Wall M and Campbell LJ.
+cancertypes: []
 contact:
   email: ~
   name: Ruth MacKinnon

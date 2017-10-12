@@ -24,6 +24,19 @@ authors: Ramkissoon LA, Horowitz PM, Craig JM, Ramkissoon SH, Rich BE, Schumache
   L, Tabori U, Hawkins C, Packer RJ, Hill DA, Pomeroy SL, Eberhart CG, Dunn IF, Goumnerova
   L, Getz G, Chan JA, Santagata S, Hahn WC, Stiles CD, Ligon AH, Kieran MW, Beroukhim
   R, Ligon KL.
+cancertypes:
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: seer:31010
+  term_label: brain
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
 contact:
   email: ' rameen_beroukhim@dfci.harvard.edu'
   name: Rameen Beroukhim

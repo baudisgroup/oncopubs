@@ -10,6 +10,7 @@ abstract: To identify somatic mutations in pediatric diffuse intrinsic pontine g
 authors: Wu G, Broniscer A, McEachron TA, Lu C, Paugh BS, Becksfort J, Qu C, Ding
   L, Huether R, Parker M, Zhang J, Gajjar A, Dyer MA, Mullighan CG, Gilbertson RJ,
   Mardis ER, Wilson RK, Downing JR, Ellison DW, Zhang J and Baker SJ
+cancertypes: []
 contact:
   email: suzanne.baker@stjude.org
   name: Suzanne J Baker

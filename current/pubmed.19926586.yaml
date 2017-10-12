@@ -15,6 +15,7 @@ abstract: Interdigitating dendritic cell sarcoma IDCS is a rare tumor derived fr
   by chromosomal imbalances.
 authors: Fraser CR, Wang W, Gomez M, Zhang T, Mathew S, Furman RR, Knowles DM, Orazi
   A and Tam W.
+cancertypes: []
 contact:
   email: ~
   name: Wayne Tam

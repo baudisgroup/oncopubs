@@ -6,6 +6,7 @@ abstract: Glioblastoma spheroid cultures are enriched in tumor stem-like cells a
 authors: Ernst A, Hofmann S, Ahmadi R, Becker N, Korshunov A, Engel F, Hartmann C,
   Felsberg J, Sabel M, Peterziel H, Durchdewald M, Hess J, Barbus S, Campos B, Starzinski-Powitz
   A, Unterberg A, Reifenberger G, Lichter P, Herold-Mende C and Radlwimmer B.
+cancertypes: []
 contact:
   email: b.radlwimmer@dkfz-heidelberg.de
   name: Bernhard Radlwimmer

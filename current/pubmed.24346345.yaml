@@ -22,6 +22,9 @@ abstract: Chromosomal instability is central to the process of carcinogenesis. T
   a biomarker of lung cancer risk.
 authors: Nakachi I, Rice JL, Coldren CD, Edwards MG, Stearman RS, Glidewell SC, Varella-Garcia
   M, Franklin WA, Keith RL, Lewis MT, Gao B, Merrick DT, Miller YE, Geraci MW.
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: ichiro.nakachi@ucdenver.edu
   name: Ichiro Nakachi

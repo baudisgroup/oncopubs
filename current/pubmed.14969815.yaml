@@ -14,6 +14,17 @@ abstract: Tumors of different metastatic behavior possibly differ in genomic con
   marker for metastatic behavior.
 authors: Hannen EJ, Macville MV, Wienk SM, Slootweg PJ, Manni JJ, Hanselaar AG and
   de Wilde PC.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C01
+  term_label: tongue
+- term_id: pgx:seer:20020
+  term_label: Tongue
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: merryn.macville@gen.unimaas.nl
   name: Merryn V. E. Macville

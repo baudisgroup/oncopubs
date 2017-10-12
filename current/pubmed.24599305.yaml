@@ -22,6 +22,9 @@ abstract: Approximately 50% of patients with primary colorectal carcinoma develo
   lesions separately for optimized therapy, rather than to extrapolate from primary
   tumor data.
 authors: Lee SY, Haq F, Kim D, Jun C, Jo HJ, Ahn SM, Lee WS.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: smahn@amc.seoul.kr
   name: ~

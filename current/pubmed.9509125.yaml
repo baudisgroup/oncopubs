@@ -16,6 +16,7 @@ abstract: 'Cytogenetic studies have demonstrated that oral squamous cell carcino
   reliably detected by CGH analysis.'
 authors: Hermsen MA, Joenje H, Arwert F, Braakhuis BJ, Baak JP, Westerveld A and Slater
   R.
+cancertypes: []
 contact:
   email: mhermsen@hca.es
   name: Mario A.J.A. Hermsen

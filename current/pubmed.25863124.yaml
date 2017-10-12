@@ -21,6 +21,7 @@ abstract: "Small cell lung cancer (SCLC) is the most aggressive type of lung can
 authors: Iwakawa R, Kohno T, Totoki Y, Shibata T, Tsuchihara K, Mimaki S, Tsuta K,
   Natita Y, Nishikawa R, Noguchi M, Harris CC, Roble AI, Yamaguchi R, Imoto S, Miyano
   S, Totsuka H, Yoshida T and Yokota J
+cancertypes: []
 contact:
   email: jyokota@ncc.go.jp
   name: J Yokota

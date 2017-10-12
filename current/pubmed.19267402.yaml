@@ -17,6 +17,21 @@ abstract: Oral cancer develops and progresses by accumulation of genetic alterat
   novel information about the interactions between genetic alterations and predicted
   their probable order of occurrence.
 authors: Pathare S, Schaffer AA, Beerenwinkel N and Mahimkar M.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C01
+  term_label: tongue
+- term_id: pgx:icdot:C04
+  term_label: floor of mouth
+- term_id: pgx:seer:20020
+  term_label: Tongue
+- term_id: pgx:seer:20040
+  term_label: Floor of Mouth
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: moritz.gerstung@bsse.ethz.ch
   name: Moritz Gerstung

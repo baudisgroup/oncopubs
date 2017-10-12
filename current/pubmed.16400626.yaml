@@ -22,6 +22,17 @@ abstract: Desmoplastic medulloblastoma DMB is a malignant cerebellar tumour comp
   origin of their different tissue components.
 authors: Ehrbrecht A, Muller U, Wolter M, Hoischen A, Koch A, Radlwimmer B, Actor
   B, Mincheva A, Pietsch T, Lichter P, Reifenberger G and Weber RG.
+cancertypes:
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

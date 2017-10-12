@@ -15,6 +15,25 @@ abstract: Hepatic adenoma HA and focal nodular hyperplasia FNH are two common no
   of cancerous HCC, suggesting an interesting relationship along the tumorigenesis
   pathway of HA and HCC.
 authors: Chen YJ, Chen PJ, Lee MC, Yeh SH, Hsu MT and Lin CH.
+cancertypes:
+- term_id: ncit:C3758
+  term_label: Hepatocellular Adenoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8170_0
+  term_label: Liver cell adenoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81700
+  term_label: Liver cell adenoma
 contact:
   email: linch@ym.edu.tw
   name: Chi-Hung Lin

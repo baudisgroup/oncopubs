@@ -13,6 +13,17 @@ abstract: Comparative genomic hybridization was used to search for previously un
   were rare and were most commonly observed at 6cen-q22 17 and 9p 17 .
 authors: Larramendy ML, Tarkkanen M, Valle J, Kivioja AH, Ervasti H, Karaharju E,
   Salmivalli T, Elomaa I and Knuutila S.
+cancertypes:
+- term_id: ncit:C2946
+  term_label: Chondrosarcoma
+- term_id: pgx:icdom:9220_3
+  term_label: Chondrosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-92203
+  term_label: Chondrosarcoma, NOS
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

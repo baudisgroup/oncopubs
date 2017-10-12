@@ -19,6 +19,17 @@ abstract: TEL AML1 gene fusion that results from a cryptic t 12 21 is the most c
   are commonly encountered in childhood ALL with TEL AML1 gene fusion, which are envisaged
   to play significant roles in disease progression.
 authors: Ma SK, Wan TS, Cheuk AT, Fung LF, Chan GC, Chan SY, Ha SY and Chan LC.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: ~
   name: ~

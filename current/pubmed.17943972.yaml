@@ -16,6 +16,7 @@ abstract: Germ cell tumors GCTs are the most common solid malignancy in young ad
   GCTs may drive genomic evolution.
 authors: Korkola JE, Heck S, Olshen AB, Reuter VE, Bosl GJ, Houldsworth J and Chaganti
   RS.
+cancertypes: []
 contact:
   email: chagantr@mskcc.org
   name: Raju S.K. Chaganti

@@ -19,6 +19,7 @@ abstract: The acute phase of chronic myeloid leukemia CML is accompanied by seco
   preferentially amplified genomic regions. The resultant amplifications could harbor
   gene s driving disease progression.
 authors: Gribble SM, Reid AG, Roberts I, Grace C, Green AR and Nacheva EP.
+cancertypes: []
 contact:
   email: enacheva@ucl.ac.uk
   name: E.P. Nacheva

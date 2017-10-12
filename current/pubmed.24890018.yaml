@@ -19,6 +19,9 @@ abstract: Oral squamous cell carcinoma (OSCC) is the sixth most common cancer wo
   treatment for oral dysplasia and OSCC.
 authors: Nagai K, Nakahata S, Shimosaki S, Tamura T, Kondo Y, Baba T, Taki T, Taniwaki
   M, Kurosawa G, Sudo Y, Okada S, Sakoda S, Morishita K.
+cancertypes:
+- term_id: seer:20050
+  term_label: gum and other mouth
 contact:
   email: kmorishi@med.miyazaki-u.ac.jp
   name: Kazuhiro Morishita

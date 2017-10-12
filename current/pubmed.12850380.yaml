@@ -16,6 +16,33 @@ abstract: Little is known about the extent of intratumoral genetic heterogeneity
   of matched pairs. These findings are of specific importance in view of establishing
   prognostic markers.
 authors: Tremmel SC, Gotte K, Popp S, Weber S, Hormann K, Bartram CR and Jauch A.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:icdot:C13
+  term_label: hypopharynx
+- term_id: pgx:icdot:C14.0
+  term_label: pharynx, NOS
+- term_id: pgx:icdot:C32
+  term_label: larynx
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: pgx:seer:20090
+  term_label: Hypopharynx
+- term_id: pgx:seer:20100
+  term_label: Other Oral Cavity and Pharynx
+- term_id: pgx:seer:22020
+  term_label: Larynx
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: Anna_Jauch@med.uni-heidelberg.de
   name: Anna Jauch

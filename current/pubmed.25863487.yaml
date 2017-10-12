@@ -23,6 +23,7 @@ abstract: Somatic gene copy number variation contributes to tumor progression. U
   by CGH array can be useful to identify additional prognostic variables.
 authors: Passon N, Bregant E, Sponziello M, Dima M, Rosignolo F, Durante C, Celano
   M, Russo D, Filetti S and Damante G
+cancertypes: []
 contact:
   email: giuseppe.damante@uniud.it
   name: Giuseppe Damante

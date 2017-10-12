@@ -23,6 +23,7 @@ abstract: According to the present view, metastasis marks the end in a sequence 
 authors: Schmidt-Kittler O, Ragg T, Daskalakis A, Granzow M, Ahr A, Blankenstein TJ,
   Kaufmann M, Diebold J, Arnholdt H, Muller P, Bischoff J, Harich D, Schlimok G, Riethmuller
   G, Eils R and Klein CA.
+cancertypes: []
 contact:
   email: christoph.klein@ifi.uni-muenchen.de
   name: Christoph Klein

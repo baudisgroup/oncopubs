@@ -17,6 +17,29 @@ abstract: Genomic aberrations are of predominant importance to the biology and c
   for the identification of patients with aggressive CLL and short survival.
 authors: Ouillette P, Collins R, Shakhan S, Li J, Peres E, Kujawski L, Talpaz M, Kaminski
   M, Li C, Shedden K and Malek SN.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: smalek@med.umich.edu
   name: Sami Malek

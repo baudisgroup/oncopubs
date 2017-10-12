@@ -26,6 +26,9 @@ authors: Wyatt AW, Mo F, Wang K, McConeghy B, Brahmbhatt S, Jong L, Mitchell DM,
   RL, Haegert A, Li E, Liew J, Yeung J, Shrestha R, Lapuk AV, McPherson A, Shukin
   R, Bell RH, Anderson S, Bishop J, Hurtado-Coll A, Xiao H, Chinnaiyan AM, Mehra R,
   Lin D, Wang Y, Fazli L, Gleave ME, Volik SV and Collins CC
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: moc.ertnecetatsorp@ttaywa
   name: ~

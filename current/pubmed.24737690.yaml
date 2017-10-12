@@ -22,6 +22,9 @@ abstract: 'The prognostic relevance of chromosome 17 gain in neuroblastoma is st
   profile.  ï¿½ 2014 Wiley Periodicals, Inc.'
 authors: Theissen J, Oberthuer A, Hombach A, Volland R, Hertwig F, Fischer M, Spitz
   R, Zapatka M, Brors B, Ortmann M, Simon T, Hero B and Berthold F
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

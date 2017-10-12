@@ -15,6 +15,17 @@ abstract: In an attempt to define genomic copy number changes associated with th
   thought. Further investigation of these regions may lead to the identification of
   other genes responsible for basal cell carcinoma formation.
 authors: Ashton KJ, Weinstein SR, Maguire DJ, and Griffiths LR.
+cancertypes:
+- term_id: ncit:C9359
+  term_label: Skin Pigmented Basal Cell Carcinoma
+- term_id: pgx:icdom:8090_3
+  term_label: Basal cell carcinoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-80903
+  term_label: Basal cell carcinoma, NOS
 contact:
   email: ~
   name: ~

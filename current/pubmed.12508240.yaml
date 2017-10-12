@@ -20,6 +20,17 @@ abstract: Forty-nine primary retinoblastoma Rb tumors were analyzed by the use o
   classification of retinoblastoma represents a reliable measure of prognosis.
 authors: Lillington DM, Kingston JE, Coen PG, Price E, Hungerford J, Domizio P, Young
   BD and Onadim Z.
+cancertypes:
+- term_id: ncit:C7541
+  term_label: Retinoblastoma
+- term_id: pgx:icdom:9510_3
+  term_label: Retinoblastoma, NOS
+- term_id: pgx:icdot:C69.2
+  term_label: retina
+- term_id: pgx:seer:30000
+  term_label: Eye and Orbit
+- term_id: snmi:M-95103
+  term_label: Retinoblastoma, NOS
 contact:
   email: d.lillington@cancer.org.uk
   name: D. Lillington

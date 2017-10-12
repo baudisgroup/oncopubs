@@ -23,6 +23,17 @@ abstract: Gastrointestinal stromal tumors GIST are rare in the vermiform appendi
   stromal tumors.
 authors: Agaimy A, Pelz AF, Wieacker P, Roessner A, Wunsch PH, and Schneider-Stock
   R.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8936_0
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: pgx:icdot:C18.1
+  term_label: appendix
+- term_id: pgx:seer:21042
+  term_label: Appendix
+- term_id: snmi:M-89360
+  term_label: Gastrointestinal stromal tumor, benign
 contact:
   email: abbas.agaimy@klinikum-nuernberg.de
   name: Abbas Agaimy

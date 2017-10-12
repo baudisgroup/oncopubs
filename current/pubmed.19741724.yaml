@@ -3,6 +3,17 @@ abstract: ~
 authors: Gunnarsson R, Isaksson A, Mansouri M, Goransson H, Jansson M, Cahill N, Rasmussen
   M, Staaf J, Lundin J, Norin S, Buhl AM, Smedby KE, Hjalgrim H, Karlsson K, Jurlander
   J, Juliusson G, and Rosenquist R.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: rebeqa.gunnarsson@med.lu.se
   name: rebeqa Gunnarsson

@@ -3,6 +3,17 @@ abstract: Hepatocellular carcinoma HCC is highly malignant and prone to recur af
   surgical treatment. Differentiation between a true relapse of HCC and a second primary
   tumor is of clinical importance. However, no convenient method is currently available.
 authors: Chen YJ, Yeh SH, Chen JT, Wu CC, Hsu MT, Tsai SF, Chen PJ and Lin CH.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: linch@ym.edu.tw
   name: Chi-Hung Lin

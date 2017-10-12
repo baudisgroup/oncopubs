@@ -22,6 +22,7 @@ abstract: The coding region determinant binding protein CRD-BP was isolated by v
   CRD-BP alone, the corresponding odds were 6.4 and 3, respectively.
 authors: Ioannidis P, Mahaira L, Papadopoulou A, Teixeira MR, Heim S, Andersen JA,
   Evangelou E, Dafni U, Pandis N and Trangas T.
+cancertypes: []
 contact:
   email: sverre.heim@labmed.uio.no
   name: Sverre Heim

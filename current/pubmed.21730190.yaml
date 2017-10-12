@@ -20,6 +20,33 @@ abstract: Cancers frequently arise as a result of an acquired genomic instabilit
 authors: Ruiz C, Lenkiewicz E, Evers L, Holley T, Robeson A, Kiefer J, Demeure MJ,
   Hollingsworth MA, Shen M, Prunkard D, Rabinovitch PS, Zellweger T, Mousses S, Trent
   JM, Carpten JD, Bubendorf L, Von Hoff D and Barrett MT.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- term_id: ncit:C9325
+  term_label: Adrenal Cortex Carcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8370_3
+  term_label: Adrenal cortical carcinoma
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-83703
+  term_label: Adrenal cortical carcinoma
 contact:
   email: ~
   name: Michael Barrett

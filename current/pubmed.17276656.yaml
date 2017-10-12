@@ -12,6 +12,17 @@ abstract: Many recent technologies have been designed to supplant conventional m
   Calculation of these metrics is automated through the development of a Java-based
   application, amp quot ResCalc, amp quot which is applicable to any array CGH platform.
 authors: Coe BP, Ylstra B, Carvalho B, Meijer GA, Macaulay C and Lam WL.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: bcoe@bccrc.ca
   name: Bradley Coe

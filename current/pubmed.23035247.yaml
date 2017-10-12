@@ -19,6 +19,17 @@ authors: Sos ML, Dietlein F, Peifer M, Schottle J, Balke-Want H, Muller C, Koker
   Richters A, Heynck S, Malchers F, Heuckmann JM, Seidel D, Eyers PA, Ullrich RT,
   Antonchick AP, Vintonyak VV, Schneider PM, Ninomiya T, Waldmann H, Buttner R, Rauh
   D, Heukamp LC and Thomas RK.
+cancertypes:
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
 contact:
   email: ~
   name: ~

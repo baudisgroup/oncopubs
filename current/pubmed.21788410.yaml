@@ -13,6 +13,17 @@ abstract: The transcription factor E2A is essential for lymphocyte development. 
 authors: Steininger A, Mï¿½bs M, Ullmann R, Kï¿½chert K, Kreher S, Lamprecht B, Anagnostopoulos
   I, Hummel M, Richter J, Beyer M, Janz M, Klemke CD, Stein H, Doerken B, Sterry W,
   Schrock E, Mathas S and Assaf C
+cancertypes:
+- term_id: ncit:C3366
+  term_label: Sezary Syndrome
+- term_id: pgx:icdom:9701_3
+  term_label: Sezary syndrome
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97013
+  term_label: Sezary syndrome
 contact:
   email: stephan.mathas@charite.de
   name: Stephan Mathas

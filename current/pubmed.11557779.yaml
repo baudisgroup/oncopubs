@@ -15,6 +15,7 @@ abstract: Comparative genomic hybridization CGH , fluorescence in situ hybridiza
   such mutations are less common in oligodendrogliomas than they are in astrocytomas.
 authors: Burger PC, Minn AY, Smith JS, Borell TJ, Jedlicka AE, Huntley BK, Goldthwaite
   PT, Jenkins RB and Feuerstein BG.
+cancertypes: []
 contact:
   email: pburger@jhmi.edu
   name: Peter C. Burger

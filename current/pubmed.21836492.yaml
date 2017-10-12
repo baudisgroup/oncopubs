@@ -23,6 +23,23 @@ abstract: We report on the highly unusual case of a 75-year-old woman who develo
   illustrate the ability of molecular analyses to resolve lineage in complex neoplasms
   and illustrate the phenotypic plasticity of cancer cells.
 authors: Jalas JR, Vemula S, Bezrookove V, Leboit PE, Simko JP and Bastian BC.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: bastian@cc.ucsf.edu
   name: Boris Bastian

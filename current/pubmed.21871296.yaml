@@ -5,6 +5,7 @@ abstract: Non-small cell lung cancer NSCLC is one of the most aggressive tumors,
   value for individual prognostication.
 authors: Danner BC, Hellms T, Jung K, Gunawan B, Didilis V, Fuzesi L and Schondube
   FA.
+cancertypes: []
 contact:
   email: ~
   name: Bernhard Danner

@@ -17,6 +17,7 @@ abstract: Human carcinoma in situ of the breast already demonstrates genomic cha
   to the invasive stage of breast carcinoma.
 authors: Robanus-Maandag EC, Bosch CA, Kristel PM, Hart AA, Faneyte IF, Nederlof PM,
   Peterse JL and van de Vijver MJ.
+cancertypes: []
 contact:
   email: m.vd.vijver@nki.nl
   name: Marc J. van de Vijver

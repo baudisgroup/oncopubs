@@ -16,6 +16,19 @@ abstract: Recent high-throughput sequencing and microarray studies have characte
   CLL pathogenesis in a subset of patients.
 authors: Ojha J, Ayres J, Secreto C, Tschumper R, Rabe K, Van Dyke D, Slager S, Shanafelt
   T, Fonseca R, Kay NE, Braggio E.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: seer:35012
+  term_label: chronic lymphocytic leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: braggio.esteban@mayo.edu
   name: Esteban Braggio

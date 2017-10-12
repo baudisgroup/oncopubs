@@ -23,6 +23,7 @@ abstract: 'Due to problems with primary tumor cell culture, conventional cytogen
   with 8p loss exhibited five times the number of alterations as did cases without
   8p loss.'
 authors: Cher ML, MacGrogan D, Bookstein R, Brown JA, Jenkins RB and Jensen RH.
+cancertypes: []
 contact:
   email: rjensen@cc.ucsf.edu
   name: Ronald H. Jensen

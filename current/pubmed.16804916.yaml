@@ -17,6 +17,7 @@ abstract: 'Gain of chromosome 17 is the most prevalent genetic abnormality ident
   suppmat.'
 authors: Chen QR, Bilke S, Wei JS, Greer BT, Steinberg SM, Westermann F, Schwab M
   and Khan J.
+cancertypes: []
 contact:
   email: khanjav@mail.nih.gov
   name: Javed Khan

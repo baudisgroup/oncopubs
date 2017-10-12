@@ -7,6 +7,17 @@ abstract: Using high-resolution array-CGH, we identified unique duplications of 
   genomic rearrangements in searches for cancer-susceptibility genes.
 authors: Yang XR, Ng D, Alcorta DA, Liebsch NJ, Sheridan E, Li S, Goldstein AM, Parry
   DM and Kelley MJ.
+cancertypes:
+- term_id: ncit:C2947
+  term_label: Chordoma
+- term_id: pgx:icdom:9370_3
+  term_label: Chordoma, NOS
+- term_id: pgx:icdot:C72.0
+  term_label: Spinal cord
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-93703
+  term_label: Chordoma, NOS
 contact:
   email: parryd@mail.nih.gov
   name: Dilys M Parry

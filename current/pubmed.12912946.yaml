@@ -6,6 +6,7 @@ abstract: 'There is evidence that specific genetic events are involved in the in
   in 22 cervical ACs of clinical stage IB. IHC was performed in all of the samples
   to determine HER-2 neu expression HercepTest .'
 authors: Dellas A, Torhorst J, Gaudenz R, Mihatsch MJ and Moch H.
+cancertypes: []
 contact:
   email: a.dellas@unibas.ch
   name: Athanassios Dellas

@@ -15,6 +15,9 @@ abstract: Hibernomas are benign tumors with morphological features resembling br
   of hibernoma.
 authors: Nord KH, Magnusson L, Isaksson M, Nilsson J, Lilljebjï¿½rn H, Domanski HA,
   Kindblom LG, Mandahl N, Mertens F.
+cancertypes:
+- term_id: seer:24000
+  term_label: soft tissue including heart
 contact:
   email: ~
   name: Karolin H Nord

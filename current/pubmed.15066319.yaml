@@ -14,6 +14,7 @@ abstract: Although genomic DNA microarray array comparative genomic hybridizatio
   of the DNA sequences. Array CGH is shown to be a promising tool for screening to
   identify unknown genes involved in tumorigenesis in prostate cancer.
 authors: Yano S, Matsuyama H, Matsuda K, Matsumoto H, Yoshihiro S and Naito K.
+cancertypes: []
 contact:
   email: katsunai@po.cc.yamaguchi-u.ac.jp
   name: Katsusuke Naito

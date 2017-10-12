@@ -17,6 +17,7 @@ abstract: Central neurocytomas are rare central nervous system neoplasms. Since 
   data support that MYCN oncogene gain overexpression accompanied by reduced expression
   of BIN1 tumor suppressor may contribute to central neurocytoma tumorigenesis.
 authors: Korshunov A, Sycheva R and Golanov A.
+cancertypes: []
 contact:
   email: akorshunov@nsi.ru
   name: Andrey Korshunov

@@ -14,6 +14,17 @@ authors: Mullighan CG, Collins-Underwood JR, Phillips LA, Loudin MG, Liu W, Zhan
   J, Ma J, Coustan-Smith E, Harvey RC, Willman CL, Mikhail FM, Meyer J, Carroll AJ,
   Williams RT, Cheng J, Heerema NA, Basso G, Pession A, Pui CH, Raimondi SC, Hunger
   SP, Downing JR, Carroll WL and Rabin KR.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: ~
   name: Charles Mullighan

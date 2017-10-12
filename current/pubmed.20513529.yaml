@@ -14,6 +14,7 @@ abstract: There are few reliable markers to distinguish tumors with aggressive c
   bladder cancer.
 authors: Eguchi S, Yamamoto Y, Sakano S, Chochi Y, Nakao M, Kawauchi S, Furuya T,
   Oga A, Matsuyama H and Sasaki K.
+cancertypes: []
 contact:
   email: kohsuke@yamaguchi-u.ac.jp
   name: Kohsuke Sasaki

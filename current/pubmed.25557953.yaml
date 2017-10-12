@@ -37,6 +37,7 @@ authors: Cornella H, Alsinet C, Sayols S, Zhang Z, Hao K, Cabellos L, Hoshida Y,
   A, Thung S, Ward SC, Rodriguez-Carunchio L, Vila-Casadesï¿½s M, Imbeaud S, Lachenmayer
   A, Quaglia A, Nagorney DM, Minguez B, Carrilho F, Roberts LR, Waxman S, Mazzaferro
   V, Schwartz M, Esteller M, Heaton ND, Zucman-Rossi J and Llovet JM
+cancertypes: []
 contact:
   email: jmllovet@clinic.cat
   name: Josep M Llovet

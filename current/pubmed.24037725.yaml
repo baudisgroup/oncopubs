@@ -18,6 +18,19 @@ authors: Bouska A, McKeithan TW, Deffenbacher KE, Lachel C, Wright GW, Iqbal J, 
   LM, Zhang W, Kucuk C, Rinaldi A, Bertoni F, Fitzgibbon J, Fu K, Weisenburger DD,
   Greiner TC, Dave BJ, Gascoyne RD, Rosenwald A, Ott G, Campo E, Rimsza LM, Delabie
   J, Jaffe ES, Braziel RM, Connors JM, Staudt LM and Chan WC
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: jchan@unmc.edu
   name: (402) 559-7689

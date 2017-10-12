@@ -2,6 +2,9 @@
 abstract: ~
 authors: Nishio J, Iwasaki H, Ishiguro M, Ohjimi Y, Yo S, Isayama T, Naito M, and
   Kikuchi M.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: iwasaki@fukuoka-u.ac.jp
   name: Hiroshi Iwasaki

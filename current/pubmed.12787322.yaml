@@ -14,6 +14,19 @@ abstract: The atypical teratoid rhabdoid tumour AT RT is an uncommon tumour of t
   underlie this tumour phenotype and warrants the further definition of the cytogenetic
   spectrum for this rare tumour.
 authors: Wharton SB, Wardle C, Ironside JW, Wallace WH, Royds JA and Hammond DW.
+cancertypes:
+- term_id: ncit:C6906
+  term_label: Atypical Teratoid/Rhabdoid Tumor
+- term_id: pgx:icdom:9508_3
+  term_label: Atypical teratoid/rhabdoid tumor
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-95083
+  term_label: Atypical teratoid/rhabdoid tumor
 contact:
   email: ~
   name: ~

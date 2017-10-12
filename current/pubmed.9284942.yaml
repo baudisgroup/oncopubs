@@ -17,6 +17,17 @@ abstract: In this study we have applied the technique of comparative genomic hyb
   involvement of two specific 1p regions in the etiology of Wilms tumor.
 authors: Steenman M, Redeker B, de Meulemeester M, Wiesmeijer K, Voute PA, Westerveld
   A, Slater R and Mannens M.
+cancertypes:
+- term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
 contact:
   email: marja.steenman@nantes.inserm.fr
   name: M. Steenman

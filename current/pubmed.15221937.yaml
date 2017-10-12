@@ -26,6 +26,7 @@ abstract: Array-based comparative genomic hybridization aCGH allows the identifi
   in Barretts carcinogenesis.
 authors: Albrecht B, Hausmann M, Zitzelsberger H, Stein H, Siewert JR, Hopt U, Langer
   R, Hofler H, Werner M and Walch A.
+cancertypes: []
 contact:
   email: axel.walch@helmholtz-muenchen.de
   name: Axel Walch

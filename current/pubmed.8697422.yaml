@@ -19,6 +19,17 @@ abstract: Comparative genomic hybridization CGH was carried out on 15 primary te
   of these tumors.
 authors: Mostert MM, van de Pol M, Olde Weghuis D, Suijkerbuijk RF, Geurts van Kessel
   A, van Echten J, Oosterhuis JW and Looijenga LH.
+cancertypes:
+- term_id: ncit:C2996
+  term_label: Dysgerminoma
+- term_id: pgx:icdom:9060_3
+  term_label: Dysgerminoma
+- term_id: pgx:icdot:C62
+  term_label: testis
+- term_id: pgx:seer:28020
+  term_label: Testis
+- term_id: snmi:M-90603
+  term_label: Dysgerminoma
 contact:
   email: l.looijenga@erasmusmc.nl
   name: Leendert Looijenga

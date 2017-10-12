@@ -20,6 +20,7 @@ abstract: Cytogenetic methods, including G-banded chromosome analysis and fluore
   rearrangements, copy number aberrations, and CN-LOH.
 authors: Xu X, Johnson EB, Leverton L, Arthur A, Watson Q, Chang FL, Raca G and Laffin
   JJ.
+cancertypes: []
 contact:
   email: ~
   name: ~

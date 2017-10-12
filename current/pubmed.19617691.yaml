@@ -23,6 +23,7 @@ abstract: Chemotherapy resistance remains a major obstacle to successful treatme
   disease would greatly help in the choice of chemotherapy in the clinic, and thus
   improve treatment of women with ovarian cancer.
 authors: Osterberg L, Levan K, Partheen K, Staaf J, Sundfeldt K and Horvath G.
+cancertypes: []
 contact:
   email: lovisa.osterberg@gu.se
   name: Lovisa Osterberg

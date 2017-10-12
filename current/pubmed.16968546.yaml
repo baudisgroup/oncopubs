@@ -6,6 +6,29 @@ abstract: Medulloblastoma is the most common malignant brain tumor of childhood.
   of biologically significant genes from gene expression microarray profiles of medulloblastoma.
 authors: De Bortoli M, Castellino RC, Lu XY, Deyo J, Sturla LM, Adesina AM, Perlaky
   L, Pomeroy SL, Lau CC, Man TK, Rao PH and Kim JY.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: jyhkim@txccc.org
   name: John Y.H. Kim

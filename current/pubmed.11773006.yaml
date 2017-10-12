@@ -3,6 +3,30 @@ abstract: To identify chromosomal gains and losses in lymphoid tumors of the orb
   and to examine whether such abnormalities are related to orbital presentation, disease
   severity, or risk for recurrent disease.
 authors: Ness GO, Lybaek H, Arnes J and Rodahl E.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C69.9
+  term_label: eye, nos
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: ~
   name: ~

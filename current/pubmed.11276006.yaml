@@ -15,6 +15,23 @@ abstract: 'Liver cell adenomas LCAs are rare tumours which may be difficult to d
   HCC. Detection of one or more of the six most frequent aberrations in HCC supports
   the diagnosis of carcinoma and makes LCA unlikely.'
 authors: Wilkens L, Bredt M, Flemming P, Becker T, Klempnauer J and Kreipe HH.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: ncit:C3758
+  term_label: Hepatocellular Adenoma
+- term_id: pgx:icdom:8170_0
+  term_label: Liver cell adenoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81700
+  term_label: Liver cell adenoma
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ludwig.wilkens@pathology.unibe.ch
   name: Ludwig Wilkens

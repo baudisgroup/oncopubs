@@ -18,6 +18,7 @@ abstract: 'This study was undertaken to identify recurrent genetic alterations o
   showing reproducibility of such a classifier.'
 authors: Laharanne E, Oumouhou N, Bonnet F, Carlotti M, Gentil C, Chevret E, Jouary
   T, Longy M, Vergier B, Beylot-Barry M and Merlio JP.
+cancertypes: []
 contact:
   email: ~
   name: ~

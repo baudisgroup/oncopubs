@@ -26,6 +26,17 @@ abstract: Cell lines of human T-cell acute lymphoblastic leukemias T-ALL have ga
   combination allowed a distinct improvement of the definition of the complex karyotypes
   of drug-resistant cell lines.
 authors: Weise A, Liehr T, Efferth T, Kuechler A and Gebhart E.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: ~
   name: E. Gebhart

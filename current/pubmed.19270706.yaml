@@ -17,6 +17,29 @@ authors: Northcott PA, Nakahara Y, Wu X, Feuk L, Ellison DW, Croul S, Mack S, Ko
   PN, Peacock J, Dubuc A, Ra YS, Zilberberg K, McLeod J, Scherer SW, Sunil Rao J,
   Eberhart CG, Grajkowska W, Gillespie Y, Lach B, Grundy R, Pollack IF, Hamilton RL,
   Van Meter T, Carlotti CG, Boop F, Bigner D, Gilbertson RJ, Rutka JT and Taylor MD.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: mdtaylor@sickkids.ca
   name: Michael D. Taylor

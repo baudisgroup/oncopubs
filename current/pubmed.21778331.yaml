@@ -23,6 +23,7 @@ abstract: It has been reported that large genomic deletions in the MLH1 and MSH2
 authors: Perez-Cabornero L, Borras Flores E, Infante Sanz M, Velasco Sampedro E, Acedo
   Becares A, Lastra Aras E, Cuevas Gonzalez J, Pineda Riu M, Ramon y Cajal Asensio
   T, Capella Munar G, Miner Pino C and Duran Dominguez M.
+cancertypes: []
 contact:
   email: ~
   name: Mercedes Dominguez

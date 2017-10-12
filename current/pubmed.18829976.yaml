@@ -5,6 +5,21 @@ abstract: This study aimed to identify the oncogenes at 20q involved in colorect
 authors: Carvalho B, Postma C, Mongera S, Hopmans E, Diskin S, van de Wiel MA, van
   Criekinge W, Thas O, Matthai A, Cuesta MA, Terhaar Sive Droste JS, Craanen M, Schrock
   E, Ylstra B and Meijer GA.
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ga.meijer@vumc. nl
   name: GA Meijer

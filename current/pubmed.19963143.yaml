@@ -16,6 +16,7 @@ abstract: Amplified MYCN, common in neuroblastomas, can be detected as double mi
   possible from hsr and may be induced, not only by HU, but by other cytostatics as
   well.
 authors: Prochazka P, Hrabeta J, Vicha A and Eckschlager T.
+cancertypes: []
 contact:
   email: proch.pavel@gmail.com
   name: Pavel Prochazka

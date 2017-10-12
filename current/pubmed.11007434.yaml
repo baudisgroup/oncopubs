@@ -30,6 +30,7 @@ abstract: 'There is evidence that breast cancer is a heterogeneous disease pheno
   www.esacp.org acp 2000 20-1 aubele. htm.'
 authors: Aubele M, Cummings M, Walsch A, Zitzelsberger H, Nahrig J, Hofler H, and
   Werner M.
+cancertypes: []
 contact:
   email: aubele@gsf.de
   name: Michaela Aubele

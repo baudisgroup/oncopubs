@@ -17,6 +17,7 @@ abstract: 'Early T1 stage adenocarcinoma of the esophagus or gastroesophageal ju
   for the aggressive behavior of early esophageal and gastroesophageal junction adenocarcinoma.'
 authors: van Dekken H, Wink JC, Vissers KJ, van Marion R, Koppert LB, Tilanus HW,
   Siersema PD, Tanke HJ, Szuhai K and Hop WC.
+cancertypes: []
 contact:
   email: ~
   name: H. van Dekken

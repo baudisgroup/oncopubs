@@ -25,6 +25,19 @@ abstract: Topoisomerase IIalpha is a nuclear enzyme that regulates the tertiary 
   mechanism underlying these changes.
 authors: Coss A, Tosetto M, Fox EJ, Sapetto-Rebow B, Gorman S, Kennedy BN, Lloyd AT,
   Hyland JM, ODonoghue DP, Sheahan K, Leahy DT, Mulcahy HE and OSullivan JN.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: jacintha.osullivan@ucd.ie
   name: Jacintha N. O Sullivan

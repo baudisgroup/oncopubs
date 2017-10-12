@@ -2,6 +2,27 @@
 abstract: The underlying genetic alterations for squamous cell carcinoma SCC and adenocarcinoma
   AC carcinogenesis are largely unknown.
 authors: Kang JU, Koo SH, Kwon KC, Park JW and Kim JM.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

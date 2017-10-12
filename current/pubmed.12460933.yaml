@@ -21,6 +21,7 @@ abstract: 'In approximately 70 of the families with a high frequency of early-on
   to the BRCA1 class. The resulting accuracy on the validation set is 84 .'
 authors: Wessels LF, van Welsem T, Hart AA, vant Veer LJ, Reinders MJ and Nederlof
   PM.
+cancertypes: []
 contact:
   email: nederlof@nki.nl
   name: Petra M. Nederlof

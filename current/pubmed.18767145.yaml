@@ -20,6 +20,7 @@ abstract: Chronic myeloid leukemia CML is a myeloproliferative disorder characte
   frequency in disease progression.
 authors: Deluche L, Joha S, Corm S, Daudignon A, Geffroy S, Quief S, Villenet C, Kerckaert
   JP, Lai JL, Preudhomme C and Roche-Lestienne C.
+cancertypes: []
 contact:
   email: c-roche-lestienne@chru-lille.fr
   name: Catherine Roche-Lestienne

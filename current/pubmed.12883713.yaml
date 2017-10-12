@@ -16,6 +16,7 @@ abstract: 'DNA copy number changes were analyzed by comparative genomic hybridiz
   in ESCC affecting chromosomes sites that harbor genes known to participate in tumorigenesis
   and progression of several human malignant neoplasms.'
 authors: Noguchi T, Kimura Y, Takeno S, Chujo M, Uchida Y, Mueller W and Gabbert HE.
+cancertypes: []
 contact:
   email: tnoguc@oita-med.ac.jp
   name: T. Nogushi

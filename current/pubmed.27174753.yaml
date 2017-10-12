@@ -15,6 +15,9 @@ abstract: Cancer development is presumed to be an evolutionary process that is i
   the types of mutations that occur.
 authors: Fei SS, Mitchell AD, Heskett MB, Vocke CD, Ricketts CJ, Peto M, Wang NJ,
   Sï¿½nmez K, Linehan WM and Spellman PT
+cancertypes:
+- term_id: seer:29020
+  term_label: kidney and renal pelvis
 contact:
   email: spellmap@ohsu.edu
   name: Paul T. Spellman

@@ -21,6 +21,19 @@ abstract: "In the study of tumour genetics, formalin fixed, paraffin embedded (F
   data interpretation when using WGA FFPE tumour-derived DNA in determining genomic
   alterations less than 10â\x80\x8AMb."
 authors: Liang CW, Lee YS, Marino-Enriquez A, Tsui K and Huang SH
+cancertypes:
+- term_id: ncit:C53999
+  term_label: Malignant Gastrointestinal Stromal Tumor
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: liangcherwei@gmail.com
   name: ~

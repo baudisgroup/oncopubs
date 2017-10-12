@@ -26,6 +26,7 @@ abstract: Infiltrating lobular breast cancer ILBC is a clinically and biological
 authors: Christgen M, Bruchhardt H, Hadamitzky C, Rudolph C, Steinemann D, Gadzicki
   D, Hasemeier B, Romermann D, Focken T, Krech T, Ballmaier M, Schlegelberger B, Kreipe
   H and Lehmann U.
+cancertypes: []
 contact:
   email: Christgen.Matthias@MH-Hannover.de
   name: Matthias Christgen

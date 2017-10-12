@@ -18,6 +18,17 @@ abstract: 'Unlike the case with some other solid tumors, whole genome array scre
   utility as a prognostic biomarker.'
 authors: Tomioka N, Morita K, Kobayashi N, Tada M, Itoh T, Saitoh S, Kondo M, Takahashi
   N, Kataoka A, Nakanishi K, Takahashi M, Kamiyama T, Ozaki M, Hirano T and Todo S.
+cancertypes:
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Nobumoto Tomioka

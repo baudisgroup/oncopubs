@@ -18,6 +18,17 @@ abstract: Parasympathetic paragangliomas PGLs represent neuroendocrine tumors ar
   11 may be an important event in their tumorigenesis, particularly in familial paragangliomas.
 authors: Dannenberg H, de Krijger RR, Zhao J, Speel EJ, Saremaslani P, Dinjens WN,
   Mooi WJ, Roth J, Heitz PU and Komminoth P.
+cancertypes:
+- term_id: ncit:C4217
+  term_label: ~
+- term_id: pgx:icdom:8682_1
+  term_label: Parasympathetic paraganglioma
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. Autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-86821
+  term_label: Parasympathetic paraganglioma
 contact:
   email: h.dannenberg@azr.nl
   name: Hilde Dannenberg

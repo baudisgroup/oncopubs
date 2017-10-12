@@ -17,6 +17,17 @@ abstract: We studied marginal zone B-cell lymphomas of the gastrointestinal trac
   evolution and progression of extranodal marginal zone B-cell lymphoma.
 authors: Flossbach L, Holzmann K, Mattfeldt T, Buck M, Lanz K, Held M, Moller P and
   Barth TF.
+cancertypes:
+- term_id: ncit:C8863
+  term_label: Nodal Marginal Zone Lymphoma
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: ~
   name: ~

@@ -25,6 +25,7 @@ abstract: Genomic copy number aberrations CNAs in gastric cancer have already be
 authors: Kuroda A, Tsukamoto Y, Nguyen LT, Noguchi T, Takeuchi I, Uchida M, Uchida
   T, Hijiya N, Nakada C, Okimoto T, Kodama M, Murakami K, Matsuura K, Seto M, Ito
   H, Fujioka T and Moriyama M.
+cancertypes: []
 contact:
   email: ~
   name: Yoshiyuki Tsukamoto

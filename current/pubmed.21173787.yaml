@@ -16,6 +16,7 @@ abstract: To identify transcriptional profiles predictive of the clinical benefi
   gastric cancer patients.
 authors: Kim HK, Choi IJ, Kim CG, Kim HS, Oshima A, Yamada Y, Arao T, Nishio K, Michalowski
   A and Green JE.
+cancertypes: []
 contact:
   email: ~
   name: Jeffery Green

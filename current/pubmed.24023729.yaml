@@ -26,6 +26,17 @@ abstract: 'OVARIAN CARCINOMAS CONSIST OF AT LEAST FIVE DISTINCT DISEASES: high-g
 authors: Anglesio MS, Wiegand KC, Melnyk N, Chow C, Salamanca C, Prentice LM, Senz
   J, Yang W, Spillman MA, Cochrane DR, Shumansky K, Shah SP, Kalloger SE and Huntsman
   DG
+cancertypes:
+- term_id: ncit:C7700
+  term_label: Ovarian Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: dhuntsma@bccancer.bc.ca
   name: David G Huntsman

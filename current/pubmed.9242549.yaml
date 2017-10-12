@@ -16,6 +16,7 @@ abstract: Gene activation by translocation between an oncogene and an immunoglob
   of the BCL2 gene is an important mechanism for BCL2 protein overexpression in diffuse
   large B-cell lymphoma.
 authors: Monni O, Joensuu H, Franssila K, Klefstrom J, Alitalo K and Knuutila S.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

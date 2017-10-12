@@ -5,6 +5,17 @@ abstract: Local lymph node and blood metastasis could occur at early stage of es
   was to analyze the genetic changes in primary lesion and lymph node metastases of
   ESCC, to screen for and locate ESCC metastasis-related genes.
 authors: Qin YR, Wang LD, Dora K, Guan XY, Zhuang ZH, Fan ZM, Deng W and Cao SH.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

@@ -19,6 +19,7 @@ abstract: Gastric cancer is the second common malignant neoplasia in Japan, and 
 authors: Nakamura Y, Migita T, Hosoda F, Okada N, Gotoh M, Arai Y, Fukushima M, Ohki
   M, Miyata S, Takeuchi K, Imoto I, Katai H, Yamaguchi T, Inazawa J, Hirohashi S,
   Ishikawa Y and Shibata T.
+cancertypes: []
 contact:
   email: tashibat@ncc.go.jp
   name: Tatsuhiro Shibata

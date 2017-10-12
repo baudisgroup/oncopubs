@@ -24,6 +24,17 @@ abstract: The identification of genetic aberrations may help understand the mech
   targets of therapy.
 authors: Chen M, Ye Y, Yang H, Tamboli P, Matin S, Tannir NM, Wood CG, Gu J and Wu
   X.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
 contact:
   email: xwu@mdanderson.org
   name: Xifeng Wu

@@ -29,6 +29,7 @@ authors: Schwartzentruber J, Korshunov A, Liu XY, Jones DT, Pfaff E, Jacob K, St
   AE, Zapatka M, Guha A, Malkin D, Felsberg J, Reifenberger G, von Deimling A, Ichimura
   K, Collins VP, Witt H, Milde T, Witt O, Zhang C, Castelo-Branco P, Lichter P, Faury
   D, Tabori U, Plass C, Majewski J, Pfister SM and Jabado N
+cancertypes: []
 contact:
   email: stefan.pfister@dkfz.de
   name: Stefan M. Pfister

@@ -24,6 +24,9 @@ abstract: 'Although most human cancers display a single histology, there are unu
 authors: Avigdor B, Beierl K, Gocke CD, Zabransky D, Cravero K, Kyker-Snowman K, Button
   B, Chu D, Croessmann S, Cochran RL, Connolly R, Park BH, Cimino-Mathews A, Wheelan
   SJ.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: bpark2@jhmi.edu
   name: Ben H. Park

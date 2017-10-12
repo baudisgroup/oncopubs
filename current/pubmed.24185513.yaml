@@ -18,6 +18,31 @@ authors: Chan-On W, Nairismï¿½gi ML, Ong CK, Lim WK, Dima S, Pairojkul C, Lim
   SP, Tan IB, Duda D, Nastase A, Myint SS, Wong BH, Gan A, Rajasegaran V, Ng CC, Nagarajan
   S, Jusakul A, Zhang S, Vohra P, Yu W, Huang D, Sithithaworn P, Yongvanit P, Wongkham
   S, Khuntikeo N, Bhudhisawasdi V, Popescu I, Rozen SG, Tan P and Teh BT
+cancertypes:
+- term_id: ncit:C35417
+  term_label: Intrahepatic Cholangiocarcinoma
+- term_id: ncit:C4436
+  term_label: Cholangiocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8160_3
+  term_label: Cholangiocarcinoma
+- term_id: pgx:icdot:C22.1
+  term_label: intrahepatic bile ducts
+- term_id: pgx:icdot:C24
+  term_label: extrahepatic and unspecified bile ducts
+- term_id: pgx:seer:21090
+  term_label: other biliary
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81603
+  term_label: Cholangiocarcinoma
 contact:
   email: ~
   name: ~

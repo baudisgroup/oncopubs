@@ -19,6 +19,22 @@ abstract: The genetic basis of MALT lymphoma is largely unknown. Characteristic 
 authors: Chanudet E, Ye H, Ferry J, Bacon CM, Adam P, Muller-Hermelink HK, Radford
   J, Pileri SA, Ichimura K, Collins VP, Hamoudi RA, Nicholson AG, Wotherspoon AC,
   Isaacson PG and Du MQ.
+cancertypes:
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C69.0
+  term_label: orbit and lacrimal gland, excl. retina, eye, nos
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: ~
   name: ~

@@ -23,6 +23,17 @@ abstract: High hyperdiploid acute lymphoblastic leukemia ALL is one of the most 
   the heterogeneous pattern of secondary genetic events.
 authors: Paulsson K, Forestier E, Lilljebjorn H, Heldrup J, Behrendtz M, Young BD
   and Johansson B.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: kajsa.paulsson@cancer.org.uk
   name: Kajsa Paulsson

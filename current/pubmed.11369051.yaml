@@ -18,6 +18,23 @@ abstract: The overall pattern of chromosomal changes detected by spectral karyot
   cytogenetic analytical methods suggests that it will be easier to detect recurrent
   subtype-dependent aberrations in NSCLC.
 authors: Luk C, Tsao MS, Bayani J, Shepherd F and Squire JA.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: NA Squire

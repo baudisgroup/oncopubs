@@ -20,6 +20,7 @@ abstract: Anaplastic lymphoma kinase ALK -positive anaplastic large cell lymphom
   survival.
 authors: Youssif C, Goldenbogen J, Hamoudi R, Carreras J, Viskaduraki M, Cui YX, Bacon
   CM, Burke GA and Turner SD.
+cancertypes: []
 contact:
   email: ~
   name: Suzanne D Turner

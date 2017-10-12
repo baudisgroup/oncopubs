@@ -19,6 +19,9 @@ abstract: 'Mucinous tubular and spindle cell carcinoma (MTSC) of the kidney is a
   We support modifying the definition of MTSC to include those with higher nucleolar
   grade. This article is protected by copyright. All rights reserved.'
 authors: Sadimin ET, Chen YB, Wang L, Argani P, Epstein JI.
+cancertypes:
+- term_id: seer:29020
+  term_label: kidney and renal pelvis
 contact:
   email: jepstein@jhmi.edu
   name: J L Epstein

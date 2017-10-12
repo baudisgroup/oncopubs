@@ -18,6 +18,7 @@ abstract: 'About 10-20 of all breast carcinomas show a basal-like phenotype, whi
   for BRCA1 deficiency in hereditary and sporadic breast tumors.'
 authors: Joosse SA, Brandwijk KI, Mulder L, Wesseling J, Hannemann J and Nederlof
   PM.
+cancertypes: []
 contact:
   email: simon@in-silico.net
   name: Simon Joosse

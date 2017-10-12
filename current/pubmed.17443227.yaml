@@ -19,6 +19,37 @@ abstract: Gross cytogenetic anomalies are traditionally being used as diagnostic
   simultaneously to trigger ALL development.
 authors: Kuiper RP, Schoenmakers EF, van Reijmersdal SV, Hehir-Kwa JY, van Kessel
   AG, van Leeuwen FN and Hoogerbrugge PM.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: p.hoogerbrugge@cukz.umcn.nl
   name: P.M. Hoogerbrugge

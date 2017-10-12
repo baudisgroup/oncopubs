@@ -19,6 +19,27 @@ abstract: Many studies have shown that primary prostate cancers are multifocal a
 authors: Liu W, Laitinen S, Khan S, Vihinen M, Kowalski J, Yu G, Chen L, Ewing CM,
   Eisenberger MA, Carducci MA, Nelson WG, Yegnasubramanian S, Luo J, Wang Y, Xu J,
   Isaacs WB, Visakorpi T and Bova GS.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

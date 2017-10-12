@@ -25,6 +25,9 @@ authors: Karpathakis A, Dibra H, Pipinikas C, Feber A, Morris T, Francis J, Oukr
   D, Mandair D, Pericleous M, Mohmaduvesh M, Serra S, Ogunbiyi O, Novelli M, Luong
   T, Asa SL, Kulke M, Toumpanakis C, Meyer T, Caplin M, Meyerson M, Beck S, Thirlwell
   C.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: christina.thirlwell@ucl.ac.uk
   name: Christina Thirlwell

@@ -13,6 +13,41 @@ abstract: We discovered a high-level amplicon involving the chr19q13.41 microRNA
 authors: Li M, Lee KF, Lu Y, Clarke I, Shih D, Eberhart C, Collins VP, Van Meter T,
   Picard D, Zhou L, Boutros PC, Modena P, Liang ML, Scherer SW, Bouffet E, Rutka JT,
   Pomeroy SL, Lau CC, Taylor MD, Gajjar A, Dirks PB, Hawkins CE and Huang A.
+cancertypes:
+- term_id: ncit:C4915
+  term_label: Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: ncit:C66808
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9392_3
+  term_label: Ependymoma, anaplastic
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdom:9501_3
+  term_label: Medulloepithelioma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-93923
+  term_label: Ependymoma, anaplastic
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: snmi:M-95013
+  term_label: Medulloepithelioma, NOS
 contact:
   email: ~
   name: ~

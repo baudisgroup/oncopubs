@@ -11,6 +11,17 @@ abstract: Breast cancer is the most commonly diagnosed cancer in women worldwide
   of seven of the most commonly used breast cancer model cell lines at unprecedented
   resolution using a newly developed whole-genome tiling path genomic DNA array.
 authors: Shadeo A and Lam WL.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: ashadeo@bccrc.ca
   name: Ashleen Shadeo

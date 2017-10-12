@@ -17,6 +17,7 @@ abstract: Women with contralateral breast cancer (CBC) have significantly worse 
   true CBCs and subsequent metastases.
 authors: Klevebring D, Lindberg J, Rockberg J, Hilliges C, Hall P, Sandberg M and
   Czene K
+cancertypes: []
 contact:
   email: daniel.klevebring@ki.se
   name: Daniel Klevebring

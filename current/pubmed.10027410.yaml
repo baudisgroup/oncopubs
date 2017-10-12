@@ -18,6 +18,23 @@ abstract: To screen pancreatic carcinomas for chromosomal aberrations we have ap
   six of nine pancreatic cancer cell lines and correlated with increased expression.
 authors: Ghadimi BM, Schrock E, Walker RL, Wangsa D, Jauho A, Meltzer PS and Ried
   T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: B. Ghadimi

@@ -6,6 +6,17 @@ abstract: Multiple genetic alterations are responsible for development and progr
   with development and progression of this type of cancer.
 authors: Gumus-Akay G, Unal AE, Elhan AH, Bayar S, Karadayt K, Sunguroglu A, Kadikiran
   A and Tukun A.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: guvemg@yahoo.com
   name: Guvem Gumus-Akay

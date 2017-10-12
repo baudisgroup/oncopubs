@@ -20,6 +20,7 @@ abstract: Oligonucleotide array comparative genomic hybridization aCGH was appli
   to novel amplified regions, the oligonucleotide array results describe novel targets
   for amplicons at 8p11 SFRP1 , 11p12 LRRC4C , and 19q13.2 CEACAM6 .
 authors: Vauhkonen H, Vauhkonen M, Sipponen P and Knuutila S.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

@@ -15,6 +15,19 @@ abstract: Copy number abnormalities CNAs in tumor cells are presumed to affect e
   an efficient and comprehensive survey of genes which potentially serve as the drivers
   for the CNAs in GBM.
 authors: Lo KC, Rossi MR, LaDuca J, Hicks DG, Turpaz Y, Hawthorn L and Cowell JK.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: jcowell@mcg.edu
   name: John C. Cowell

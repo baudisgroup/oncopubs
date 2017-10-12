@@ -20,6 +20,17 @@ abstract: Proliferation and survival of Hodgkin and Reed Sternberg HRS cells, th
   in cHL pathogenesis.
 authors: Schmitz R, Hansmann ML, Bohle V, Martin-Subero JI, Hartmann S, Mechtersheimer
   G, Klapper W, Vater I, Giefing M, Gesk S, Stanelle J, Siebert R and Kuppers R.
+cancertypes:
+- term_id: ncit:C9357
+  term_label: Hodgkin Lymphoma
+- term_id: pgx:icdom:9650_3
+  term_label: Hodgkin lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- term_id: snmi:M-96503
+  term_label: Hodgkin lymphoma, NOS
 contact:
   email: ralf.kueppers@uk-essen.de
   name: Ralf Kueppers

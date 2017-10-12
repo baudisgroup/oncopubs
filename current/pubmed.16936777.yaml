@@ -25,6 +25,59 @@ abstract: 'A series of studies have been published that evaluate the chromosomal
 authors: Jong K, Marchiori E, van der Vaart A, Chin SF, Carvalho B, Tijssen M, Eijk
   PP, van den Ijssel P, Grabsch H, Quirke P, Oudejans JJ, Meijer GA, Caldas C and
   Ylstra B
+cancertypes:
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: ncit:C7541
+  term_label: Retinoblastoma
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:9510_3
+  term_label: Retinoblastoma, NOS
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C09
+  term_label: Tonsil
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C69.2
+  term_label: retina
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:30000
+  term_label: Eye and Orbit
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-95103
+  term_label: Retinoblastoma, NOS
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: b.ylstra@vumc.nl
   name: ~

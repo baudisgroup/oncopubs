@@ -21,6 +21,21 @@ abstract: Comparative genomic hybridization CGH is a technique that permits dete
   for screening patients with acute lymphoblastic leukemia.
 authors: Kowalczyk JR, Babicz M, Gaworczyk A, Lejman M, Winnicka D, Styka B and Jaszczuk
   I.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: ~
   name: Jerzy Kowalczyk

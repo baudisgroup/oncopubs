@@ -15,6 +15,9 @@ abstract: 'We applied single nucleotide polymorphism arrays (SNP-A) to study kar
   characterized by UPD9p. SNP-A-based detection of cryptic lesions in MDS/MPD-U may
   help explain the clinical heterogeneity of this disorder.'
 authors: Gondek LP, Dunbar AJ, Szpurka H, McDevitt MA, Maciejewski JP.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: maciejj@ccf.org
   name: JP Maciejewski

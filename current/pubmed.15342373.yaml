@@ -17,6 +17,7 @@ abstract: Diffuse large B-cell lymphoma DLBCL is the most common type of non-Hod
   to clinically distinct subgroups.
 authors: Tagawa H, Tsuzuki S, Suzuki R, Karnan S, Ota A, Kameoka Y, Suguro M, Matsuo
   K, Yamaguchi M, Okamoto M, Morishima Y, Nakamura S and Seto M.
+cancertypes: []
 contact:
   email: mseto@aichi-cc.jp
   name: Masao Seto

@@ -6,6 +6,7 @@ abstract: Accurate staging of rectal tumors is essential for making the correct 
   searched for candidate genes on these specific chromosomes.
 authors: Lips EH, van Eijk R, de Graaf EJ, Oosting J, de Miranda NF, Karsten T, van
   de Velde CJ, Eilers PH, Tollenaar RA, van Wezel T and Morreau H.
+cancertypes: []
 contact:
   email: j.morreau@Lumc.nl
   name: Hans Morreau

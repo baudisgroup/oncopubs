@@ -17,6 +17,7 @@ abstract: 'To assess the putative correlation between comparative genomic hybrid
   involved and the implications of these findings await further studies.'
 authors: Bruchim I, Israeli O, Mahmud SM, Aviram-Goldring A, Rienstein S, Friedman
   E, Ben-Baruch G and Gotlieb WH.
+cancertypes: []
 contact:
   email: walter.gotlieb@mcgill.ca
   name: Walter H. Gotlieb

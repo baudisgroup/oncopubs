@@ -18,6 +18,31 @@ abstract: Astrocytic, oligodendroglial and mixed gliomas are the commonest gliom
   but are distinct from the 1p abnormalities in oligodendrogliomas.
 authors: Ichimura K, Vogazianou AP, Liu L, Pearson DM, Bï¿½cklund LM, Plant K, Baird
   K, Langford CF, Gregory SG, Collins VP.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: ncit:C9477
+  term_label: Anaplastic Astrocytoma
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ki212@cam.ac.uk
   name: Koichi Ichimura

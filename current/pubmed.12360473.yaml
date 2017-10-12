@@ -7,6 +7,7 @@ abstract: Current models of colorectal adenoma to carcinoma progression do not f
   a genome-wide analysis of chromosomal aberrations.
 authors: Hermsen M, Postma C, Baak J, Weiss M, Rapallo A, Sciutto A, Roemen G, Arends
   JW, Williams R, Giaretti W, De Goeij A and Meijer G.
+cancertypes: []
 contact:
   email: mhermsen@hca.es
   name: Mario A.J.A. Hermsen

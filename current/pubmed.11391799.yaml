@@ -20,6 +20,7 @@ abstract: 'Comparative genomic hybridization analysis was performed on 67 non-sm
   tumor aggressiveness in NSCLCs.'
 authors: Pei J, Balsara BR, Li W, Litwin S, Gabrielson E, Feder M, Jen J and Testa
   JR.
+cancertypes: []
 contact:
   email: jr_testa@fccc.edu
   name: Joseph R. Testa

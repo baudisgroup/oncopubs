@@ -19,6 +19,7 @@ abstract: Ovarian cancer is a heterogeneous disease displaying complex genomic a
 authors: Gorringe KL, George J, Anglesio MS, Ramakrishna M, Etemadmoghadam D, Cowin
   P, Sridhar A, Williams LH, Boyle SE, Yanaihara N, Okamoto A, Urashima M, Smyth GK,
   Campbell IG and Bowtell DD.
+cancertypes: []
 contact:
   email: ian.campbell@petermac.org
   name: Ian Campbell

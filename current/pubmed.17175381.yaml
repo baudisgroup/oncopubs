@@ -15,6 +15,17 @@ abstract: Wilms tumor WT is one of the most common solid tumors in childhood. It
   our findings suggest that WT is an additional childhood tumor where MYCN gain might
   play an important role in tumor development.
 authors: Schaub R, Burger A, Bausch D, Niggli FK, Schafer BW and Betts DR.
+cancertypes:
+- term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
 contact:
   email: david.betts@kispi.unizh.ch
   name: David A. Betts

@@ -15,6 +15,23 @@ abstract: Squamous cell carcinomas of the anus are rare neoplasias that account 
   of which eight were positive for HPV 16.
 authors: Heselmeyer K, du Manoir S, Blegen H, Friberg B, Svensson C, Schrock E, Veldman
   T, Shah K, Auer G and Ried T.
+cancertypes:
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C21
+  term_label: anal canal and anus
+- term_id: pgx:seer:21060
+  term_label: Anus, Anal Canal and Anorectum
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

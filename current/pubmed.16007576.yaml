@@ -22,6 +22,7 @@ abstract: TP53 mutations play an important role in the development of several ca
   The pattern of genomic imbalances associated with mutant TP53 is non-random, with
   loss of chromosome arm 5q being particularly closely associated with TP53 mutations.
 authors: Kleivi K, Diep CB, Pandis N, Heim S, Teixeira MR and Lothe RA.
+cancertypes: []
 contact:
   email: ragnhild.a.lothe@rr-research.no
   name: Ragnhild Lothe

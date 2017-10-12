@@ -17,6 +17,7 @@ abstract: Breast cancer is a widespread disease in Japan and across the world. B
   to detect DNA copy number abnormalities, and has revealed that breast cancer cell
   lines have substantial heterogeneity.
 authors: Saito S, Morita K and Hirano T.
+cancertypes: []
 contact:
   email: hirano-takashi@aist.go.jp
   name: Takashi Hirano

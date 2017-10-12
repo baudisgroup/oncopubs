@@ -26,6 +26,9 @@ authors: Pierobon M, Ramos C, Wong S, Hodge KA, Aldrich J, Byron SA, Anthony SP,
   NJ, Northfelt DW, Jahanzeb M, Vocila L, Wulfkuhle JD, Gambara G, Gallagher RI, Dunetz
   B, Hoke N, Dong T, Craig DW, Cristofanilli M, Leyland Jones B, Liotta L, O'Shaughnessy
   JA, Carpten JD, Petricoin EF.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: epetrico@gmu.edu
   name: Emanuel F. Petricoin

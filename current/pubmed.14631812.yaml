@@ -9,6 +9,7 @@ abstract: Comparative genomic hybridisation CGH allows to detect genetic abnorma
   with 2p13-16 and supports a role of CGH as a sensitive method in prognosis for patients
   with DLBCL.
 authors: Husek K, Petovska P and Prochazkova D.
+cancertypes: []
 contact:
   email: ~
   name: ~

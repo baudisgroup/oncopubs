@@ -11,6 +11,7 @@ abstract: 'We used comparative genomic hybridization to analyze 17 tumor samples
   and or selection of specific mutations.'
 authors: Bentz M, Bergerheim US, Li C, Joos S, Werner CA, Baudis M, Gnarra J, Merino
   MJ, Zbar B, Linehan WM and Lichter P.
+cancertypes: []
 contact:
   email: martin.bentz@medizin.uni-ulm.de
   name: Martin Bentz

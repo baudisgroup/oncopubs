@@ -15,6 +15,17 @@ abstract: Near-haploid chromosome numbers have been found in less than 1 of cyto
   chondrosarcoma subtype and, although commonly found in chondrosarcoma, binucleated
   cells did not seem to be involved in these events.
 authors: Olsson L, Paulsson K, Bovee JV and Nord KH.
+cancertypes:
+- term_id: ncit:C2946
+  term_label: Chondrosarcoma
+- term_id: pgx:icdom:9220_3
+  term_label: Chondrosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-92203
+  term_label: Chondrosarcoma, NOS
 contact:
   email: ~
   name: Karolin Nord

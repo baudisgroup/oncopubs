@@ -16,6 +16,7 @@ abstract: Chromosomal aberrations are a hallmark of acute lymphoblastic leukaemi
 authors: Mullighan CG, Goorha S, Radtke I, Miller CB, Coustan-Smith E, Dalton JD,
   Girtman K, Mathew S, Ma J, Pounds SB, Su X, Pui CH, Relling MV, Evans WE, Shurtleff
   SA and Downing JR.
+cancertypes: []
 contact:
   email: james.downing@stjude.org
   name: James Downing

@@ -7,6 +7,7 @@ abstract: Diffuse large B-cell lymphomas DLBCLs are the most common type of non-
 authors: Robledo C, Garcia JL, Caballero D, Conde E, Arranz R, Flores T, Grande C,
   Rodriguez J, Garcia E, Saez AI, Gonzalez M, Gutierrez NC, Piris MA and Hernandez
   JM.
+cancertypes: []
 contact:
   email: jmhr@usal.es
   name: Jesus M. Hernandez

@@ -6,6 +6,7 @@ abstract: Male breast cancer MBC is a rare disease and little is known about its
   by aCGH and compare them with a female breast cancer dataset.
 authors: Tommasi S, Mangia A, Iannelli G, Chiarappa P, Rossi E, Ottini L, Mottolese
   M, Zoli W, Zuffardi O and Paradiso A.
+cancertypes: []
 contact:
   email: ~
   name: Anita Mangia

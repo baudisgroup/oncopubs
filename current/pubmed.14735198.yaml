@@ -18,6 +18,23 @@ abstract: 'The genetic alterations that underlie the progression of follicular t
   into anaplastic cancers and to the progressive FTC -- amp gt PDTC -- amp gt ATC
   pathway.'
 authors: Rodrigues RF, Roque L, Rosa-Santos J, Cid O and Soares J.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8021_3
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-80213
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: L. Roque

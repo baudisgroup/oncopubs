@@ -8,6 +8,7 @@ abstract: The differentiation of biologically and clinically different malignant
   certain genomic alterations can be classified by array CGH data.
 authors: Takeuchi I, Tagawa H, Tsujikawa A, Nakagawa M, Katayama-Suguro M, Guo Y and
   Seto M.
+cancertypes: []
 contact:
   email: ~
   name: ~

@@ -4,6 +4,23 @@ abstract: This study was conducted to determine whether comparative genomic hybr
   currently in use.
 authors: Metzger AK, Mohapatra G, Minn YA, Bollen AW, Lamborn K, Waldman FM, Wilson
   CB and Feuerstein BG.
+cancertypes:
+- term_id: ncit:C3329
+  term_label: Pituitary Gland Adenoma
+- term_id: ncit:C3342
+  term_label: Prolactin-Producing Pituitary Gland Adenoma
+- term_id: pgx:icdom:8271_0
+  term_label: Prolactinoma
+- term_id: pgx:icdom:8272_0
+  term_label: Pituitary adenoma, NOS
+- term_id: pgx:icdot:C75.1
+  term_label: pituitary gland
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-82710
+  term_label: Prolactinoma
+- term_id: snmi:M-82720
+  term_label: Pituitary adenoma, NOS
 contact:
   email: bfeuerstein@email.arizona.edu
   name: Burt G. Feuerstein

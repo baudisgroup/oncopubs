@@ -26,6 +26,7 @@ abstract: 'Although ductal carcinoma in situ DCIS of the breast is accepted as a
   additional DNA losses on several regions.'
 authors: Aubele M, Mattis A, Zitzelsberger H, Walch A, Kremer M, Welzl G, Hofler H,
   and Werner M.
+cancertypes: []
 contact:
   email: zitzelsberger@gsf.de
   name: Horst Zitzelsberger

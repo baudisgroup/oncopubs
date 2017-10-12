@@ -16,6 +16,7 @@ abstract: Genomic abnormalities at 348 loci encoding genes that may contribute t
   to activation of PI3K signaling in SqCas of the lung.
 authors: Massion PP, Kuo WL, Stokoe D, Olshen AB, Treseler PA, Chin K, Chen C, Polikoff
   D, Jain AN, Pinkel D, Albertson DG, Jablons DM and Gray JW.
+cancertypes: []
 contact:
   email: jwgray@lbl.gov
   name: Joe W. Gray

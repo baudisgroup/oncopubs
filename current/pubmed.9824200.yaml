@@ -15,6 +15,17 @@ abstract: 'No data on the chromosomal constitution of spermatocytic seminomas ar
   first report on the chromosomal constitution of spermatocytic seminomas.'
 authors: Rosenberg C, Mostert MC, Schut TB, van de Pol M, van Echten J, de Jong B,
   Raap AK, Tanke H, Oosterhuis JW and Looijenga LH.
+cancertypes:
+- term_id: ncit:C39921
+  term_label: ~
+- term_id: pgx:icdom:9063_3
+  term_label: Spermatocytic seminoma
+- term_id: pgx:icdot:C62
+  term_label: testis
+- term_id: pgx:seer:28020
+  term_label: Testis
+- term_id: snmi:M-90633
+  term_label: Spermatocytic seminoma
 contact:
   email: c.rosenberg@lumc.nl
   name: Clara Rosenberg

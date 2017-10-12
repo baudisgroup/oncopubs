@@ -17,6 +17,7 @@ abstract: Array CGH was used to identify recurrent copy number alterations RCNA 
   are altered differentially when compared to the sporadic group.
 authors: Leunen K, Gevaert O, Daemen A, Vanspauwen V, Michils G, De Moor B, Moerman
   P, Vergote I and Legius E.
+cancertypes: []
 contact:
   email: karin.leunen@uz.kuleuven.ac.be
   name: Karin Leunen

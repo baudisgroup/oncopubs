@@ -17,6 +17,17 @@ abstract: Desmoid tumors are benign neoplasms of the fibromatosis group. Data on
   genomic changes at a significantly higher frequency.
 authors: Brandal P, Micci F, Bjerkehagen B, Eknaes M, Larramendy M, Lothe RA, Knuutila
   S and Heim S.
+cancertypes:
+- term_id: ncit:C3740
+  term_label: ~
+- term_id: pgx:icdom:8823_0
+  term_label: Desmoplastic fibroma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88230
+  term_label: Desmoplastic fibroma
 contact:
   email: sverre.heim@labmed.uio.no
   name: Sverre Heim

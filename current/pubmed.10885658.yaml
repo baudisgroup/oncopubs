@@ -20,6 +20,7 @@ abstract: 'Metastases account for approximately 50 of the malignant tumors in th
   for classification of metastases with unknown origin.'
 authors: Petersen I, Hidalgo A, Petersen S, Schluns K, Schewe C, Pacyna-Gengelbach
   M, Goeze A, Krebber B, Knosel T, Kaufmann O, Szymas J and von Deimling A.
+cancertypes: []
 contact:
   email: ~
   name: NA Petersen

@@ -2,6 +2,17 @@
 abstract: A 68-year-old man with metastatic follicular thyroid carcinoma had T3 hyperthyroidism.
 authors: Rosario F, Marques AR, Roque L, Rodrigues R, Ferreira TC, Limbert E, Sobrinho
   L and Leite V.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8335_3
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-83353
+  term_label: Follicular carcinoma, minimally invasive
 contact:
   email: francisrosario@netcabo.pt
   name: Francisco Rosario

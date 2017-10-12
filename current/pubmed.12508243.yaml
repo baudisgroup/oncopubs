@@ -19,6 +19,17 @@ abstract: 'Sinonasal mucosal melanomas are the most frequent mucosal melanomas a
   gains.'
 authors: van Dijk M, Sprenger S, Rombout P, Marres H, Kaanders J, Jeuken J and Ruiter
   D.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C30
+  term_label: nasal cavity including nasal cartilage
+- term_id: pgx:seer:22010
+  term_label: Nose, Nasal Cavity and Middle Ear
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: m.vandijk@pathol.azn.nl
   name: Marcory van Dijk

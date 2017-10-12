@@ -20,6 +20,9 @@ abstract: Histologically it is nearly impossible to distinguish the dedifferenti
   of these two lesions.
 authors: Chen S, Fritchie K, Wei S, Ali N, Curless K, Shen T, Brini AT, Latif F, Sumathi
   V, Siegal GP, Cheng L.
+cancertypes:
+- term_id: seer:23000
+  term_label: Bones and Joints
 contact:
   email: chen251@iupui.edu
   name: Shaoxiong Chen

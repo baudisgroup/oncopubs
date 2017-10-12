@@ -21,6 +21,7 @@ abstract: Natural killer NK -cell malignancies are among the most aggressive lym
 authors: Iqbal J, Kucuk C, Deleeuw RJ, Srivastava G, Tam W, Geng H, Klinkebiel D,
   Christman JK, Patel K, Cao K, Shen L, Dybkaer K, Tsui IF, Ali H, Shimizu N, Au WY,
   Lam WL and Chan WC.
+cancertypes: []
 contact:
   email: jchan@unmc.edu
   name: W.C. Chan

@@ -11,6 +11,7 @@ abstract: We used comparative genomic hybridization to analyze 10 primary tumor 
   imbalances in the development and progression of this type of tumors.
 authors: Rigola MA, Fuster C, Casadevall C, Bernues M, Caballin MR, Gelabert A, Egozcue
   J and Miro R.
+cancertypes: []
 contact:
   email: mariaangels.rigola@uab.es
   name: Maria Angels Rigola

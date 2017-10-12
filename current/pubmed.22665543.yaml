@@ -5,6 +5,7 @@ abstract: To compare the mutational and copy number profiles of primary and meta
 authors: Vakiani E., Janakiraman M., Shen R., Sinha R., Zeng Z., Shia J., Cercek A.,
   Kemeny N., DAngelica M., Viale A., Heguy A., Paty P., Chan T. A., Saltz L. B., Weiser
   M. and Solit D. B.
+cancertypes: []
 contact:
   email: ~
   name: David Solit

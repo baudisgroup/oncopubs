@@ -18,6 +18,17 @@ abstract: Normal karyotype NK is the most common cytogenetic group in acute myel
   to further characterize the molecular lesions found at time of AK AML relapse.
 authors: Wang ES, Sait SN, Gold D, Mashtare T, Starostik P, Ford LA, Wetzler M, Nowak
   NJ and Deeb G.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: Eunice.wang@roswellpark.org
   name: Eunice Wang

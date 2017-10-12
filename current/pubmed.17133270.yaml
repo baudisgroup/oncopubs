@@ -22,6 +22,7 @@ abstract: 'We analysed the molecular genetic profiles of breast cancer samples b
 authors: Pierga JY, Reis-Filho JS, Cleator SJ, Dexter T, Mackay A, Simpson P, Fenwick
   K, Iravani M, Salter J, Hills M, Jones C, Ashworth A, Smith IE, Powles T and Dowsett
   M.
+cancertypes: []
 contact:
   email: Mitch.Dowsett@icr.ac.uk
   name: M. Dowsett

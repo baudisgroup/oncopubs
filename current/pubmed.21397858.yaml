@@ -11,6 +11,17 @@ abstract: We screened 124 genes that are amplified in human hepatocellular carci
   for patients most likely to respond to anti-FGF19 therapy.
 authors: Sawey ET, Chanrion M, Cai C, Wu G, Zhang J, Zender L, Zhao A, Busuttil RW,
   Yee H, Stein L, French DM, Finn RS, Lowe SW and Powers S.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: ~

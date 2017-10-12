@@ -15,6 +15,7 @@ abstract: A major challenge facing DNA copy number CN studies of tumors is that 
 authors: Wang Y, Carlton VE, Karlin-Neumann G, Sapolsky R, Zhang L, Moorhead M, Wang
   ZC, Richardson AL, Warren R, Walther A, Bondy M, Sahin A, Krahe R, Tuna M, Thompson
   PA, Spellman PT, Gray JW, Mills GB and Faham M.
+cancertypes: []
 contact:
   email: malek_faham@affymetrix.com
   name: Malek Faham

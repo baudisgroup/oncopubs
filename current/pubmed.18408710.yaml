@@ -14,6 +14,7 @@ abstract: The Philadelphia chromosome, a chromosomal abnormality that encodes BC
   of Ikaros function are an important event in the development of BCR-ABL1 ALL.
 authors: Mullighan CG, Miller CB, Radtke I, Phillips LA, Dalton J, Ma J, White D,
   Hughes TP, Le Beau MM, Pui CH, Relling MV, Shurtleff SA and Downing JR.
+cancertypes: []
 contact:
   email: james.downing@stjude.org
   name: James Downing

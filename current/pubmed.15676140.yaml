@@ -17,6 +17,17 @@ abstract: To clarify the correlation of genomic alterations with clinical and hi
   and that 6p and 1q gains may be a prognostic factor.
 authors: Namiki T, Yanagawa S, Izumo T, Ishikawa M, Tachibana M, Kawakami Y, Yokozeki
   H, Nishioka K and Kaneko Y.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: kaneko@cancer-c.pref.saitama.jp
   name: Yasuhiko Kaneko

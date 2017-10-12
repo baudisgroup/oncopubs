@@ -16,6 +16,17 @@ abstract: Primary acantholytic squamous cell carcinoma ASCC of the breast is a r
   a possible therapeutic target for individual cases of this aggressive tumor type.
 authors: Aulmann S, Schnabel PA, Helmchen B, Dienemann H, Drings P, Otto HF, and Sinn
   HP.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8075_3
+  term_label: Squamous cell carcinoma, adenoid
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-80753
+  term_label: Squamous cell carcinoma, adenoid
 contact:
   email: ~
   name: ~

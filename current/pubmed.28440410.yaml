@@ -19,6 +19,9 @@ abstract: Oral cancer is a serious disease caused by environmental factors and/o
   identified and confirmed a novel mutation in the NOTCH3 gene, which may decrease
   the stability of NOTCH3, and may thus prove to be helpful in cancer prognosis.
 authors: Yi Y, Tian Z, Ju H, Ren G, Hu J.
+cancertypes:
+- term_id: seer:20050
+  term_label: Gum and Other Mouth
 contact:
   email: ~
   name: Jingzhou Hu

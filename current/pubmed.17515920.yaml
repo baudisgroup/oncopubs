@@ -18,6 +18,37 @@ authors: Maser RS, Choudhury B, Campbell PJ, Feng B, Wong KK, Protopopov A, ONei
   S, Edkins S, Stevens C, Brennan C, Martin ES, Wiedemeyer R, Kabbarah O, Nogueira
   C, Histen G, Aster J, Mansour M, Duke V, Foroni L, Fielding AK, Goldstone AH, Rowe
   JM, Wang YA, Look AT, Stratton MR, Chin L, Futreal PA and DePinho RA.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: ron_depinho@dfci.harvard.edu
   name: Ronald A. DePinho

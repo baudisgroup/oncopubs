@@ -18,6 +18,47 @@ abstract: 'Testicular germ cell tumours of adults and adolescents TGCT include s
   array array.html.'
 authors: McIntyre A, Summersgill B, Lu YJ, Missiaglia E, Kitazawa S, Oosterhuis JW,
   Looijenga LH and Shipley J.
+cancertypes:
+- term_id: ncit:C2996
+  term_label: Dysgerminoma
+- term_id: ncit:C3011
+  term_label: Yolk Sac Tumor
+- term_id: ncit:C3752
+  term_label: Embryonal Carcinoma
+- term_id: ncit:C4286
+  term_label: Immature Teratoma
+- term_id: ncit:C9010
+  term_label: Mixed Teratoma and Seminoma
+- term_id: ncit:C9309
+  term_label: Seminoma
+- term_id: pgx:icdom:9060_3
+  term_label: Dysgerminoma
+- term_id: pgx:icdom:9061_3
+  term_label: Seminoma, NOS
+- term_id: pgx:icdom:9070_3
+  term_label: Embryonal carcinoma, NOS
+- term_id: pgx:icdom:9071_3
+  term_label: Yolk sac tumor
+- term_id: pgx:icdom:9080_3
+  term_label: Teratoma, malignant, NOS
+- term_id: pgx:icdom:9085_3
+  term_label: Mixed germ cell tumor
+- term_id: pgx:icdot:C62
+  term_label: testis
+- term_id: pgx:seer:28020
+  term_label: Testis
+- term_id: snmi:M-90603
+  term_label: Dysgerminoma
+- term_id: snmi:M-90613
+  term_label: Seminoma, NOS
+- term_id: snmi:M-90703
+  term_label: Embryonal carcinoma, NOS
+- term_id: snmi:M-90713
+  term_label: Yolk sac tumor
+- term_id: snmi:M-90803
+  term_label: Teratoma, malignant, NOS
+- term_id: snmi:M-90853
+  term_label: Mixed germ cell tumor
 contact:
   email: janet.shipley@icr.ac.uk
   name: Janet Shipley

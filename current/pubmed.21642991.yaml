@@ -11,6 +11,17 @@ abstract: Malignant pleural mesotheliomas MPMs often show CDKN2A and NF2 inactiv
 authors: Bott M, Brevet M, Taylor BS, Shimizu S, Ito T, Wang L, Creaney J, Lake RA,
   Zakowski MF, Reva B, Sander C, Delsite R, Powell S, Zhou Q, Shen R, Olshen A, Rusch
   V and Ladanyi M.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: ~
   name: ~

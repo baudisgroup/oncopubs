@@ -19,6 +19,7 @@ abstract: Comparative genomic hybridization CGH reveals DNA sequence copy number
   such common changes may form the basis for a molecular cytogenetic classification
   of breast cancer.
 authors: Tirkkonen M, Tanner M, Karhu R, Kallioniemi A, Isola J and Kallioniemi OP.
+cancertypes: []
 contact:
   email: mika.tirkkonen@uta.fi
   name: Mika Tirkkonen

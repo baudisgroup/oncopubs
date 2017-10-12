@@ -12,6 +12,23 @@ abstract: We compared whole genomic changes in cell lines generated from esophag
   known different etiology and may lead to the identification of genes important for
   disease specific pathogenesis.
 authors: Su M, Chin SF, Li XY, Edwards P, Caldas C and Fitzgerald RC.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: Esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: minsu@stu.edu.cn
   name: Min Su

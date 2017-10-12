@@ -14,6 +14,53 @@ abstract: Comparative genomic hybridization CGH was used to investigate changes 
   genes. Wiley-Liss, Inc.
 authors: Stumpf E, Aalto Y, Hoog A, Kjellman M, Otonkoski T, Knuutila S and Andersson
   LC.
+cancertypes:
+- term_id: ncit:C27720
+  term_label: Pancreatic Neuroendocrine Tumor
+- term_id: ncit:C2915
+  term_label: Carcinoid Tumor
+- term_id: ncit:C3379
+  term_label: ~
+- term_id: ncit:C95597
+  term_label: Pancreatic Glucagonoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8150_1
+  term_label: Pancreatic endocrine tumor, NOS (C25._)
+- term_id: pgx:icdom:8151_1
+  term_label: ~
+- term_id: pgx:icdom:8151_3
+  term_label: Insulinoma, malignant
+- term_id: pgx:icdom:8152_1
+  term_label: Glucagonoma, NOS
+- term_id: pgx:icdom:8152_3
+  term_label: Glucagonoma, malignant
+- term_id: pgx:icdom:8155_3
+  term_label: Vipoma, malignant
+- term_id: pgx:icdom:8156_1
+  term_label: Somatostatinoma, NOS
+- term_id: pgx:icdom:8240_3
+  term_label: Carcinoid tumor, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-81501
+  term_label: Pancreatic endocrine tumor, NOS (C25._)
+- term_id: snmi:M-81511
+  term_label: ~
+- term_id: snmi:M-81513
+  term_label: Insulinoma, malignant
+- term_id: snmi:M-81521
+  term_label: Glucagonoma, NOS
+- term_id: snmi:M-81523
+  term_label: Glucagonoma, malignant
+- term_id: snmi:M-81553
+  term_label: Vipoma, malignant
+- term_id: snmi:M-81561
+  term_label: Somatostatinoma, NOS
+- term_id: snmi:M-82403
+  term_label: Carcinoid tumor, NOS
 contact:
   email: ~
   name: ~

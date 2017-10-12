@@ -18,6 +18,9 @@ abstract: Monoclonal gammopathy of undetermined significance (MGUS) is a benign 
 authors: Mikulasova A, Smetana J, Wayhelova M, Janyskova H, Sandecka V, Kufova Z,
   Almasi M, Jarkovsky J, Gregora E, Kessler P, Wrobel M, Walker BA, Wardell CP, Morgan
   GJ, Hajek R, Kuglik P.
+cancertypes:
+- term_id: seer:34000
+  term_label: myeloma
 contact:
   email: aneta.mikulas@seznam.cz
   name: Aneta Mikulasova

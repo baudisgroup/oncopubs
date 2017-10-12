@@ -15,6 +15,31 @@ abstract: Conventional cytogenetic analyses and comparative genomic hybridizatio
   and reveal a recurrent pattern of copy number changes in MM.
 authors: Lindholm PM, Salmenkivi K, Vauhkonen H, Nicholson AG, Anttila S, Kinnula
   VL and Knuutila S.
+cancertypes:
+- term_id: ncit:C4282
+  term_label: Biphasic Mesothelioma
+- term_id: ncit:C6747
+  term_label: Desmoplastic Mesothelioma
+- term_id: ncit:C7985
+  term_label: Epithelioid Mesothelioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9051_3
+  term_label: Fibrous mesothelioma, malignant
+- term_id: pgx:icdom:9052_3
+  term_label: Epithelioid mesothelioma, malignant
+- term_id: pgx:icdom:9053_3
+  term_label: Mesothelioma, biphasic, malignant
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90513
+  term_label: Fibrous mesothelioma, malignant
+- term_id: snmi:M-90523
+  term_label: Epithelioid mesothelioma, malignant
+- term_id: snmi:M-90533
+  term_label: Mesothelioma, biphasic, malignant
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

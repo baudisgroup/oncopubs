@@ -21,6 +21,7 @@ abstract: Despite the use of PSA, Gleason score, and T-category as prognosticato
 authors: Zafarana G, Ishkanian AS, Malloff CA, Locke JA, Sykes J, Thoms J, Lam WL,
   Squire JA, Yoshimoto M, Ramnarine VR, Meng A, Ahmed O, Jurisca I, Milosevic M, Pintilie
   M, van der Kwast T and Bristow RG.
+cancertypes: []
 contact:
   email: ~
   name: Robert Bristow

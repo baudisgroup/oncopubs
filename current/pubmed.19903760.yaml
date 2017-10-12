@@ -18,6 +18,7 @@ abstract: 'Cancer progression in humans is difficult to infer because we do not 
 authors: Navin N, Krasnitz A, Rodgers L, Cook K, Meth J, Kendall J, Riggs M, Eberling
   Y, Troge J, Grubor V, Levy D, Lundin P, Maner S, Zetterberg A, Hicks J and Wigler
   M.
+cancertypes: []
 contact:
   email: wigler@cshl.edu
   name: Michael Wigler

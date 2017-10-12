@@ -23,6 +23,29 @@ abstract: Neoplasms of the vulva and vagina account for less than 5 of all femal
   11q13-23, 2q22-35, and 19q13, as well as in the centromeres and pericentromeric
   bands of chromosomes 3, 8, 9, 13, 14, and 22.
 authors: Micci F, Teixeira MR, Scheistroen M, Abeler VM and Heim S.
+cancertypes:
+- term_id: ncit:C27093
+  term_label: Stage 0 Squamous Cell Carcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8070_2
+  term_label: Squamous cell carcinoma in situ, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C51.9
+  term_label: vulva, nos
+- term_id: pgx:seer:27060
+  term_label: Vulva
+- term_id: snmi:M-80702
+  term_label: Squamous cell carcinoma in situ, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: sverre.heim@labmed.uio.no
   name: Sverre Heim

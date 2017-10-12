@@ -36,6 +36,9 @@ authors: Shi J, Hua X, Zhu B, Ravichandran S, Wang M, Nguyen C, Brodie SA, Palle
   A, Bennett H, Luke BT, Song L, Duan J, Liu P, Kohno T, Chen Q, Meerzaman D, Marconett
   C, Laird-Offringa I, Mills I, Caporaso NE, Gail MH, Pesatori AC, Consonni D, Bertazzi
   PA, Chanock SJ, Landi MT.
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: landim@mail.nih.gov
   name: Maria Teresa Landi

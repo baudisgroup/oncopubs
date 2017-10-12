@@ -1,6 +1,17 @@
 ---
 abstract: ~
 authors: Schaefer IM, Gunawan B, Fuzesi L, Blech M, Frasunek J, and Loertzer H.
+cancertypes:
+- term_id: ncit:C3308
+  term_label: Paraganglioma
+- term_id: pgx:icdom:8680_1
+  term_label: Paraganglioma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-86801
+  term_label: Paraganglioma, NOS
 contact:
   email: ~
   name: Inga-Marie Schaefer

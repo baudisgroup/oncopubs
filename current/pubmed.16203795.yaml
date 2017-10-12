@@ -5,6 +5,19 @@ abstract: Bladder carcinogenesis is believed to follow alternative pathways of d
   cancer clinical phenotype.
 authors: Blaveri E, Brewer JL, Roydasgupta R, Fridlyand J, DeVries S, Koppie T, Pejavar
   S, Mehta K, Carroll P, Simko JP and Waldman FM.
+cancertypes:
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~
   name: ~

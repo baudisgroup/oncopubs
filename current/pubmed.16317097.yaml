@@ -18,6 +18,7 @@ abstract: To identify, in high-resolution regions of DNA, the copy number change
   studies, may reveal target genes important in DLBCL clinical behavior.
 authors: Chen W, Houldsworth J, Olshen AB, Nanjangud G, Chaganti S, Venkatraman ES,
   Halaas J, Teruya-Feldstein J, Zelenetz AD and Chaganti RS.
+cancertypes: []
 contact:
   email: ~
   name: ~

@@ -8,6 +8,7 @@ abstract: A combination of molecular cytogenetic and expression array analysis h
   context of specific chromosomal changes.
 authors: Squire JA, Bayani J, Luk C, Unwin L, Tokunaga J, MacMillan C, Irish J, Brown
   D, Gullane P and Kamel-Reid S.
+cancertypes: []
 contact:
   email: jsquireinsp@gmail.com
   name: Jeremy Squire

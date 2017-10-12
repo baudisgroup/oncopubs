@@ -19,6 +19,17 @@ abstract: In a study population of 45 patients who were previously enrolled in a
 authors: Koh Y, Kim DY, Park SH, Jung SH, Park E, Kim HJ, Sohn SK, Joo YD, Kim SJ,
   Shin HJ, Kim SH, Song HS, Chung J, Kim I, Yoon SS, Kim BK, Shin SH, Chung YJ and
   Park S.
+cancertypes:
+- term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia BCR-ABL1 Positive
+- term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
 contact:
   email: yejun@catholic.ac.kr
   name: Yeun-Jun Chung

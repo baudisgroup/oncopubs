@@ -17,6 +17,27 @@ abstract: The Affymetrix cytogenetic 2.7M whole-genome microarray Cyto2.7M detec
   samples where only limited DNA is available.
 authors: Bodker JS, Gyrup C, Johansen P, Schmitz A, Madsen J, Johnsen HE, Bogsted
   M, Dybkaer K and Nyegaard M.
+cancertypes:
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: ~
   name: ~

@@ -3,6 +3,7 @@ abstract: To use comparative genomic hybridization CGH to analyzefrozen tissuesf
   adenomyosis cases to discover and map genomic regions for chromosomal gains and
   losses.
 authors: Wang PH, Shyong WY, Lin CH, Chen YJ, Li YF, Chao HT and Yuan CC.
+cancertypes: []
 contact:
   email: phwang@vghtpe.gov.tw
   name: P. H. Wang

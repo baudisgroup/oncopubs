@@ -19,6 +19,9 @@ abstract: Spitzoid neoplasms are a distinct group of melanocytic tumors. Genetic
   fusions in melanocytic tumors.
 authors: Wang L, Busam KJ, Benayed R, Cimera R, Wang J, Denley R, Rao M, Aryeequaye
   R, Mullaney K, Cao L, Ladanyi M, Hameed M.
+cancertypes:
+- term_id: seer:25010
+  term_label: melanoma of the skin
 contact:
   email: wangl1@mskcc.org
   name: Lu Wang

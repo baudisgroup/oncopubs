@@ -20,6 +20,109 @@ abstract: Application of array comparative genomic hybridization aCGH has allowe
   use in diagnosis and follow-up in patients with hematological neoplasms.
 authors: Shao L, Kang SH, Li J, Hixson P, Taylor J, Yatsenko SA, Shaw CA, Milosavljevic
   A, Chang CC, Cheung SW and Patel A.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C27824
+  term_label: ~
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+- term_id: ncit:C3178
+  term_label: Chronic Myelomonocytic Leukemia
+- term_id: ncit:C3208
+  term_label: Lymphoma
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:C3407
+  term_label: Essential Thrombocythemia
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C4345
+  term_label: Myeloproliferative Neoplasm
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:C7204
+  term_label: T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: ncit:C9349
+  term_label: Plasmacytoma
+- term_id: pgx:icdom:9590_3
+  term_label: Malignant lymphoma, NOS
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdom:9702_3
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: pgx:icdom:9945_3
+  term_label: Chronic myelomonocytic leukemia, NOS
+- term_id: pgx:icdom:9960_3
+  term_label: Myeloproliferative neoplasm, NOS
+- term_id: pgx:icdom:9962_3
+  term_label: Essential thrombocythemia
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33041XOR33042
+  term_label: NA
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-95903
+  term_label: Malignant lymphoma, NOS
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+- term_id: snmi:M-97023
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: snmi:M-99453
+  term_label: Chronic myelomonocytic leukemia, NOS
+- term_id: snmi:M-99603
+  term_label: Myeloproliferative neoplasm, NOS
+- term_id: snmi:M-99623
+  term_label: Essential thrombocythemia
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: ankitap@bcm.tmc.edu
   name: Ankita Patel

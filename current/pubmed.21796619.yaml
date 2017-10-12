@@ -23,6 +23,7 @@ abstract: Neuroblastoma is an aggressive embryonal tumor that accounts for 15 of
 authors: Fieuw A, Kumps C, Schramm A, Pattyn F, Menten B, Antonacci F, Sudmant P,
   Schulte JH, Roy NV, Vergult S, Buckley PG, Paepe AD, Noguera R, Versteeg R, Stallings
   R, Eggert A, Vandesompele J, Preter KD and Speleman F.
+cancertypes: []
 contact:
   email: franki.speleman@rug.ac.be
   name: Frank Speleman

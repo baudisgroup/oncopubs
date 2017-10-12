@@ -23,6 +23,7 @@ abstract: Gliomas are the most frequent primary brain tumors and comprise a grou
   classification.
 authors: Roerig P, Nessling M, Radlwimmer B, Joos S, Wrobel G, Schwaenen C, Reifenberger
   G and Lichter P.
+cancertypes: []
 contact:
   email: reifenberger@med.uni-duesseldorf.de
   name: Guido Reifenberger

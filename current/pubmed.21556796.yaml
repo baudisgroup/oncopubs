@@ -6,6 +6,7 @@ abstract: The prognosis of lung cancer remains poor and clinically applicable pr
   CNAs at a gene level. The aim of this study was to identify genes whose CNAs are
   associated with survival of patients with lung adenocarcinoma.
 authors: Zhao Y, Li Y, Wang S, Lu H, Chen J, Zhang Z, Jin Y and Zhu ZZ.
+cancertypes: []
 contact:
   email: ~
   name: Shengfa Wang

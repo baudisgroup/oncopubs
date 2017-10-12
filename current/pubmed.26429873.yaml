@@ -20,6 +20,7 @@ abstract: Although recurrent gene fusions such as JAZF1-JJAZ1 are considered dri
   as the gene fusions.
 authors: Choi YJ, Jung SH, Kim MS, Baek IP, Rhee JK, Lee SH, Hur SY, Kim TM, Chung
   YJ and Lee SH
+cancertypes: []
 contact:
   email: yejun@catholic.ac.kr
   name: Yeun-Jun Chung

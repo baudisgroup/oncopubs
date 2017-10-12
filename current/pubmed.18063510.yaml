@@ -4,6 +4,17 @@ abstract: Cervical cancer remains a health problem among women worldwide. Deline
   as well as for identifying genetic markers for early identification of patients
   at high risk for a poor outcome.
 authors: Huang KF, Lee WY, Huang SC, Lin YS, Kang CY, Liou CP and Tzeng CC.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: tzeng-tainan@yahoo.com.tw
   name: Ching-Cherng Tzeng

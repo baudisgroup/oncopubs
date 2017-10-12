@@ -20,6 +20,23 @@ abstract: Nine pineal parenchymal tumors were studied by comparative genomic hyb
   imbalances in higher-grade pineal parenchymal tumors mainly affect gains of 12q
   and losses of chromosome 22.
 authors: Rickert CH, Simon R, Bergmann M, Dockhorn-Dworniczak B and Paulus W.
+cancertypes:
+- term_id: ncit:C6966
+  term_label: Pineocytoma
+- term_id: ncit:C6967
+  term_label: Pineal Parenchymal Tumor of Intermediate Differentiation
+- term_id: pgx:icdom:9361_1
+  term_label: Pineocytoma
+- term_id: pgx:icdom:9362_3
+  term_label: Pineoblastoma
+- term_id: pgx:icdot:C75.3
+  term_label: pineal gland
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-93611
+  term_label: Pineocytoma
+- term_id: snmi:M-93623
+  term_label: Pineoblastoma
 contact:
   email: christian.rickert@rch.org.au
   name: Christian Rickert

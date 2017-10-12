@@ -20,6 +20,9 @@ abstract: Inflammatory leiomyosarcoma (ILMS) is a soft tissue tumor that morphol
   disomy for some chromosomes, notably 5 and 20, as well as distorted gene expression
   achieved through massive loss of other chromosomes are essential features of ILMS.
 authors: Nord KH, Paulsson K, Veerla S, Wejde J, Brosjï¿½ O, Mandahl N, Mertens F.
+cancertypes:
+- term_id: seer:24000
+  term_label: soft tissue including heart
 contact:
   email: Karolin.Hansen_Nord@med.lu.se
   name: Karolin Hansen

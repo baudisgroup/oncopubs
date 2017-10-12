@@ -21,6 +21,7 @@ abstract: Copy number alterations are frequently found in colorectal cancer CRC 
   an additional mechanism of PI3 kinase pathway activation in CRC.
 authors: Day E, Poulogiannis G, McCaughan F, Mulholland S, Arends MJ, Ibrahim AE and
   Dear PH.
+cancertypes: []
 contact:
   email: ~
   name: ~

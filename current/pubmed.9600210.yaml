@@ -21,6 +21,17 @@ abstract: AWe report on two siblings brother and sister who developed cerebral P
   suggesting substantial genomic instability, probably as a consequence of p53 inactivation.
 authors: Reifenberger J, Janssen G, Weber RG, Bostrom J, Engelbrecht V, Lichter P,
   Borchard F, Gobel U, Lenard HG and Reifenberger G.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
 contact:
   email: ~
   name: ~

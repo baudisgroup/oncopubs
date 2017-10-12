@@ -13,6 +13,63 @@ authors: Neve RM, Chin K, Fridlyand J, Yeh J, Baehner FL, Fevr T, Clark L, Bayan
   N, Coppe JP, Tong F, Speed T, Spellman PT, DeVries S, Lapuk A, Wang NJ, Kuo WL,
   Stilwell JL, Pinkel D, Albertson DG, Waldman FM, McCormick F, Dickson RB, Johnson
   MD, Lippman M, Ethier S, Gazdar A and Gray JW.
+cancertypes:
+- term_id: ncit:C27949
+  term_label: ~
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: ncit:C4001
+  term_label: Inflammatory Breast Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4872
+  term_label: Breast Carcinoma
+- term_id: ncit:C5160
+  term_label: Mixed Lobular and Ductal Breast Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8021_3
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8524_3
+  term_label: Infiltrating lobular mixed with other types of carcinoma
+- term_id: pgx:icdom:8530_3
+  term_label: Inflammatory carcinoma
+- term_id: pgx:icdom:8575_3
+  term_label: Metaplastic carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-80213
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85243
+  term_label: Infiltrating lobular mixed with other types of carcinoma
+- term_id: snmi:M-85303
+  term_label: Inflammatory carcinoma
+- term_id: snmi:M-85753
+  term_label: Metaplastic carcinoma, NOS
 contact:
   email: jwgray@lbl.gov
   name: Joe W. Gray

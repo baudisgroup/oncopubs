@@ -15,6 +15,17 @@ abstract: 'In this study, we examined nine cases of advanced Japanese prostate c
   8 and 12 may play an important role in prostate carcinogenesis. The genes on the
   SRO regions were also discussed in relation to oncogenes and bone metastases.'
 authors: Kasahara K, Taguchi T, Yamasaki I, Kamada M, Yuri K and Shuin T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: kasahara@kochi-ms.ac.jp
   name: K. Kasahara

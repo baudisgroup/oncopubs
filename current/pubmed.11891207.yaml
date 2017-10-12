@@ -20,6 +20,23 @@ abstract: We studied 49 choroid plexus tumors by comparative genomic hybridizati
   of 9p and loss of 10q seem to be correlated with a more favorable prognosis in choroid
   plexus carcinomas.
 authors: Rickert CH, Wiestler OD and Paulus W.
+cancertypes:
+- term_id: ncit:C4715
+  term_label: Choroid Plexus Carcinoma
+- term_id: ncit:C53686
+  term_label: ~
+- term_id: pgx:icdom:9390_1
+  term_label: Atypical choroid plexus papilloma
+- term_id: pgx:icdom:9390_3
+  term_label: Choroid plexus carcinoma
+- term_id: pgx:icdot:C71.5
+  term_label: ventricle
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93901
+  term_label: Atypical choroid plexus papilloma
+- term_id: snmi:M-93903
+  term_label: Choroid plexus carcinoma
 contact:
   email: christian.rickert@rch.org.au
   name: Christian Rickert

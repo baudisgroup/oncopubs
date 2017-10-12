@@ -20,6 +20,17 @@ abstract: Resistance to the HER-2 targeting drug trastuzumab can be observed cli
   resistance.
 authors: Rennstam K, Jonsson G, Tanner M, Bendahl PO, Staaf J, Kapanen AI, Karhu R,
   Baldetorp B, Borg A and Isola J.
+cancertypes:
+- term_id: ncit:C4189
+  term_label: Secretory Breast Carcinoma
+- term_id: pgx:icdom:8502_3
+  term_label: Secretory carcinoma of breast
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85023
+  term_label: Secretory carcinoma of breast
 contact:
   email: ~
   name: ~

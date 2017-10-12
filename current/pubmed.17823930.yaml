@@ -19,6 +19,17 @@ abstract: Isolated deletions of the long arm of chromosome 5, del 5q , are obser
   low blast count.
 authors: Evers C, Beier M, Poelitz A, Hildebrandt B, Servan K, Drechsler M, Germing
   U, Royer HD and Royer-Pokora B.
+cancertypes:
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: royer@uni-duesseldorf.de
   name: Brigitte Royer-Pokora

@@ -12,6 +12,17 @@ abstract: We analyzed 19 chromophobe renal cell carcinomas by means of comparati
   types of kidney cancer.
 authors: Speicher MR, Schoell B, du Manoir S, Schrock E, Ried T, Cremer T, Storkel
   S, Kovacs A and Kovacs G.
+cancertypes:
+- term_id: ncit:C4146
+  term_label: Chromophobe Renal Cell Carcinoma
+- term_id: pgx:icdom:8317_3
+  term_label: Renal cell carcinoma, chromophobe type
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83173
+  term_label: Renal cell carcinoma, chromophobe type
 contact:
   email: ~
   name: ~

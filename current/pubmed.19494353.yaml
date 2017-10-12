@@ -20,6 +20,27 @@ authors: Tosello V, Mansour MR, Barnes K, Paganin M, Sulis ML, Jenkinson S, Alle
   CG, Gale RE, Linch DC, Palomero T, Real P, Murty V, Yao X, Richards SM, Goldstone
   A, Rowe J, Basso G, Wiernik PH, Paietta E, Pieters R, Horstmann M, Meijerink JP
   and Ferrando AA.
+cancertypes:
+- term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: af2196@columbia.edu
   name: Adolfo Ferrando

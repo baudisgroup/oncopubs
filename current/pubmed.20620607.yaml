@@ -2,6 +2,21 @@
 abstract: ~
 authors: Schaefer IM, Martinez R, Enders C, Loertzer H, Bruck W, Rohde V, Fuzesi L,
   and Gutenberg A.
+cancertypes:
+- term_id: ncit:C3326
+  term_label: Adrenal Gland Pheochromocytoma
+- term_id: pgx:icdom:8700_0
+  term_label: Pheochromocytoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-87000
+  term_label: Pheochromocytoma, NOS
 contact:
   email: agutenberg@med.uni-goettingen.de
   name: Angelika Gutenberg

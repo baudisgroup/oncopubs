@@ -15,6 +15,21 @@ abstract: Thymic neuroendocrine carcinoid tumors are a rare neoplasm of the ante
   of thymic neuroendocrine tumors, which is different from that of foregut carcinoid
   tumors.
 authors: Pan CC, Jong YJ and Chen YJ.
+cancertypes:
+- term_id: ncit:C3773
+  term_label: Neuroendocrine Carcinoma
+- term_id: pgx:icdom:8246_3
+  term_label: Neuroendocrine carcinoma, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:icdot:C37
+  term_label: thymus
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-82463
+  term_label: Neuroendocrine carcinoma, NOS
 contact:
   email: ccpan@vghtpe.gov.tw
   name: Yann-Jang Chen

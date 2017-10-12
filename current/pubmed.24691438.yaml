@@ -17,6 +17,9 @@ abstract: In multiple forms of cancer, constitutive activation of type I IFN sig
 authors: Liu Q, Tomei S, Ascierto ML, De Giorgi V, Bedognetti D, Dai C, Uccellini
   L, Spivey T, Pos Z, Thomas J, Reinboth J, Murtas D, Zhang Q, Chouchane L, Weiss
   GR, Slingluff CL, Lee PP, Rosenberg SA, Alter H, Yao K, Wang E and Marincola FM
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: liuqiuzhen@126.gov
   name: 01186.020.62789410

@@ -15,6 +15,17 @@ abstract: Elastofibroma is a rare, benign, slow-growing degenerative pseudotumor
   may contain genes involved in the development of at least some elastofibromas.
 authors: Nishio JN, Iwasaki H, Ohjimi Y, Ishiguro M, Koga T, Isayama T, Naito M and
   Kikuchi M.
+cancertypes:
+- term_id: ncit:C4245
+  term_label: ~
+- term_id: pgx:icdom:8820_0
+  term_label: Elastofibroma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88200
+  term_label: Elastofibroma
 contact:
   email: iwasaki@fukuoka-u.ac.jp
   name: H. Iwasaki

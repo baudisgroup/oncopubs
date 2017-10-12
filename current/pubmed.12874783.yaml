@@ -29,6 +29,17 @@ abstract: Oncocytic cells are characterized by a greatly increased number of mit
   that follicular tumors composed of oncocytes should be regarded as a distinct subset.
 authors: Dettori T, Frau DV, Lai ML, Mariotti S, Uccheddu A, Daniele GM, Tallini G,
   Faa G and Vanni R.
+cancertypes:
+- term_id: ncit:C3679
+  term_label: Oxyphilic Adenocarcinoma
+- term_id: pgx:icdom:8290_3
+  term_label: Oxyphilic adenocarcinoma
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-82903
+  term_label: Oxyphilic adenocarcinoma
 contact:
   email: vanni@unica.it
   name: Roberta Vanni

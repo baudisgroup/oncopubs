@@ -17,6 +17,7 @@ abstract: Array-based comparative genomic hybridization CGH-array has a powerful
   leads to loss of ADAM23 function, which may be a factor in gastric carcinogenesis.
 authors: Takada H, Imoto I, Tsuda H, Nakanishi Y, Ichikura T, Mochizuki H, Mitsufuji
   S, Hosoda F, Hirohashi S, Ohki M and Inazawa J.
+cancertypes: []
 contact:
   email: johinaz.cgen@mri.tmd.ac.jp
   name: Johji Inazawa

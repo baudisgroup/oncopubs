@@ -12,6 +12,7 @@ abstract: Using comparative genomic hybridization CGH , array CGH, fluorescence 
   by cytogenetic analysis to be different from that present in the primary tumor,
   and was associated with a more aggressive nature of the tumor.
 authors: Ness GO, Lybaek H, Arnes J and Rodahl E.
+cancertypes: []
 contact:
   email: ~
   name: E. Rodahl

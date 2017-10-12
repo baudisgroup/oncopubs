@@ -26,6 +26,7 @@ authors: Walter MJ, Shen D, Ding L, Shao J, Koboldt DC, Chen K, Larson DE, McLel
   MD, Dooling D, Abbott R, Fulton R, Magrini V, Schmidt H, Kalicki-Veizer J, O'Laughlin
   M, Fan X, Grillot M, Witowski S, Heath S, Frater JL, Eades W, Tomasson M, Westervelt
   P, DiPersio JF, Link DC, Mardis ER, Ley TJ, Wilson RK and Graubert TA
+cancertypes: []
 contact:
   email: graubert@wustl.edu
   name: Timothy A Graubert

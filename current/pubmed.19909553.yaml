@@ -8,6 +8,7 @@ abstract: Plasmablastic lymphoma PL is a subtype of diffuse large B-cell lymphom
   comparative genomic hybridization.
 authors: Chang CC, Zhou X, Taylor JJ, Huang WT, Ren X, Monzon F, Feng Y, Rao PH, Lu
   XY, Fabio F, Hilsenbeck S, Creighton CJ, Jaffe ES and Lau CC.
+cancertypes: []
 contact:
   email: jeffchang@tmhs.org
   name: Chung-Che Chang

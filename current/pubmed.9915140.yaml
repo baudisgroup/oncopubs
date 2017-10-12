@@ -2,6 +2,23 @@
 abstract: It has been established that comparative genomic hybridization CGH on Papanicolaou-stained
   cervical smears can be used to identify chromosomal imbalances.
 authors: Aubele M, Zitzelsberger H, Schenck U, Walch A, Hofler H, and Werner M.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80701
+  term_label: ~
 contact:
   email: aubele@gsf.de
   name: Michaela Aubele

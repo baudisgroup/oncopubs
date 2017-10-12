@@ -25,6 +25,7 @@ abstract: 'Ovarian carcinomas exhibit extensive heterogeneity, and their etiolog
   but does not exclude the possibility that HGOSC may derive from LMP tumours.'
 authors: Birch AH, Arcand SL, Oros KK, Rahimi K, Watters AK, Provencher D, Greenwood
   CM, Mes-Masson AM and Tonin PN.
+cancertypes: []
 contact:
   email: ~
   name: Patricia Tonin

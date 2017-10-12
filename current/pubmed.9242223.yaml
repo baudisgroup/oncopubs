@@ -4,6 +4,17 @@ abstract: Cytogenetic changes in osteochondroma samples were studied by comparat
   or chromosomal aberrations 9 patients were observed in any of the patients.
 authors: Larramendy ML, Valle J, Tarkkanen M, Kivioja AH, Karaharju E, Salmivalli
   T, Elomaa I and Knuutila S.
+cancertypes:
+- term_id: ncit:C3295
+  term_label: ~
+- term_id: pgx:icdom:9210_0
+  term_label: Osteochondroma
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- term_id: snmi:M-92100
+  term_label: Osteochondroma
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

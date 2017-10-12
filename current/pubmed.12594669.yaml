@@ -3,6 +3,17 @@ abstract: The purpose of this study was to review surgical experience with gastr
   stromal tumours GISTs at a single tertiary university hospital, and to identify
   morphological and genetic prognostic markers of tumour progression.
 authors: Langer C, Gunawan B, Schuler P, Huber W, Fuzesi L and Becker H.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: langer@med.uni-goettingen.de
   name: C. Langer

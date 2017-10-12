@@ -21,6 +21,9 @@ authors: Togasaki E, Takeda J, Yoshida K, Shiozawa Y, Takeuchi M, Oshima M, Sara
   Y, Usui N, Takahashi N, Fujisawa S, Shiraishi Y, Chiba K, Tanaka H, Kiyoi H, Ohnishi
   K, Ohtake S, Asou N, Kobayashi Y, Miyazaki Y, Miyano S, Ogawa S, Matsumura I, Nakaseko
   C, Naoe T.
+cancertypes:
+- term_id: seer:35022
+  term_label: Chronic Myeloid Leukemia
 contact:
   email: chiaki-nakaseko@faculty.chiba-u.jp
   name: C Nakaseko

@@ -16,6 +16,7 @@ abstract: 'Typical and atypical carcinoids TC, ATC and small SCLC and large cell
   amount of aberrations and worst prognosis. There was no unbalanced aberration common
   in all types of neuroendocrine tumors of the lung.'
 authors: Ullmann R, Schwendel A, Klemen H, Wolf G, Petersen I and Popper HH.
+cancertypes: []
 contact:
   email: popper@uni-graz.at
   name: Helmut H. Popper

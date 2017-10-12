@@ -18,6 +18,17 @@ abstract: Embryonal tumors with abundant neuropil and true rosettes ETANTR compr
   the hypothesis of a distinct tumor entity.
 authors: Pfister S, Remke M, Castoldi M, Bai AH, Muckenthaler MU, Kulozik A, von Deimling
   A, Pscherer A, Lichter P and Korshunov A.
+cancertypes:
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
 contact:
   email: s.p   ster@dkfz.de
   name: Stefan Pfister

@@ -4,6 +4,7 @@ abstract: The genetic basis underlying prostate cancer development and progressi
   regions important for progression in clinically localized prostate cancer removed
   by radical prostatectomy.
 authors: Fu W, Bubendorf L, Willi N, Moch H, Mihatsch MJ, Sauter G and Gasser TC.
+cancertypes: []
 contact:
   email: thomas.gasser@ksli.ch
   name: Thomas C. Gasser

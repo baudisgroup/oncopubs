@@ -19,6 +19,7 @@ abstract: Comparative genomic hybridization was applied to 51 primary esophageal
   used to predict the likelihood of a poor or favorable outcome in cases of ESCC.
 authors: Ueno T, Tangoku A, Yoshino S, Abe T, Toshimitsu H, Furuya T, Kawauchi S,
   Oga A, Oka M and Sasaki K.
+cancertypes: []
 contact:
   email: kohsuke@yamaguchi-u.ac.jp
   name: Kohsuke Sasaki

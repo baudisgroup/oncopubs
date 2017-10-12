@@ -27,6 +27,7 @@ abstract: DNA copy number changes represent molecular fingerprints of solid tumo
   CRCs and may be involved in the differential response of CIN- and MIN-type tumor
   cells to adjuvant therapy, such as 5-fluorouracil.
 authors: Lassmann S, Weis R, Makowiec F, Roth J, Danciu M, Hopt U and Werner M.
+cancertypes: []
 contact:
   email: silke.lassmann@uniklinik-freiburg.de
   name: Silke Lassmann

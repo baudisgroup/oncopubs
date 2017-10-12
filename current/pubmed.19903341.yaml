@@ -7,6 +7,19 @@ abstract: We describe a method for automatic detection of absolute segmental cop
   well even for poor-quality data, low tumor content, and highly rearranged tumor
   genomes.
 authors: Popova T, Maniï¿½ E, Stoppa-Lyonnet D, Rigaill G, Barillot E, Stern MH.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: seer:26000
+  term_label: breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: tatiana.popova@curie.fr
   name: Tatiana Popova

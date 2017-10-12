@@ -24,6 +24,57 @@ abstract: A total of 127 adult de novo acute myelocytic leukemia AML patients we
 authors: Casas S, Aventin A, Fuentes F, Vallespi T, Granada I, Carrio A, Angel Martinez-Climent
   J, Sole F, Teixido M, Bernues M, Duarte J, Maria Hernandez J, Brunet S, Dolors Coll
   M and Sierra J.
+cancertypes:
+- term_id: ncit:C27080
+  term_label: ~
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C3171
+  term_label: Acute Myeloid Leukemia
+- term_id: ncit:C3249
+  term_label: Acute Myeloid Leukemia without Maturation
+- term_id: ncit:C3250
+  term_label: Acute Myeloid Leukemia with Maturation
+- term_id: ncit:C7171
+  term_label: Acute Monoblastic Leukemia
+- term_id: ncit:C7463
+  term_label: Acute Myelomonocytic Leukemia
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9867_3
+  term_label: Acute myelomonocytic leukemia
+- term_id: pgx:icdom:9872_3
+  term_label: Acute myeloid leukemia, minimal differentiation
+- term_id: pgx:icdom:9873_3
+  term_label: Acute myeloid leukemia without maturation
+- term_id: pgx:icdom:9874_3
+  term_label: Acute myeloid leukemia with maturation
+- term_id: pgx:icdom:9891_3
+  term_label: Acute monocytic leukemia
+- term_id: pgx:icdom:9984_3
+  term_label: Refractory anemia with excess blasts in transformation
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: pgx:seer:35031
+  term_label: Acute Monocytic Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-98673
+  term_label: Acute myelomonocytic leukemia
+- term_id: snmi:M-98723
+  term_label: Acute myeloid leukemia, minimal differentiation
+- term_id: snmi:M-98733
+  term_label: Acute myeloid leukemia without maturation
+- term_id: snmi:M-98743
+  term_label: Acute myeloid leukemia with maturation
+- term_id: snmi:M-98913
+  term_label: Acute monocytic leukemia
+- term_id: snmi:M-99843
+  term_label: Refractory anemia with excess blasts in transformation
 contact:
   email: aaventin@hsp.santpau.es
   name: A. Aventin

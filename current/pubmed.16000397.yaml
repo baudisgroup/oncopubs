@@ -18,6 +18,17 @@ abstract: Hepatocellular carcinoma HCC is one of the major malignancies worldwid
   with gene expression data to identify novel oncogenes and tumor suppressor genes.
 authors: Patil MA, Gutgemann I, Zhang J, Ho C, Cheung ST, Ginzinger D, Li R, Dykema
   KJ, So S, Fan ST, Kakar S, Furge KA, Buttner R and Chen X.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: chenx@pharmacy.ucsf.edu
   name: X. chen

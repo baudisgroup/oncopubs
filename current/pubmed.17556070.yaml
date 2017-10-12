@@ -22,6 +22,17 @@ abstract: Juvenile nasopharyngeal angiofibroma JNA is a rare benign tumor, mostl
   for a potentially increased risk of recurrence after surgical removal in this entity.
 authors: Heinrich UR, Brieger J, Gosepath J, Wierzbicka M, Sokolov M, Roth Y, Szyfter
   W, Bittinger F and Mann WJ.
+cancertypes:
+- term_id: ncit:C3799
+  term_label: Angiofibroma
+- term_id: pgx:icdom:9160_0
+  term_label: Angiofibroma, NOS
+- term_id: pgx:icdot:C11
+  term_label: nasopharynx
+- term_id: pgx:seer:20060
+  term_label: Nasopharynx
+- term_id: snmi:M-91600
+  term_label: Angiofibroma, NOS
 contact:
   email: heinrich@hno.klinik.uni-mainz.de
   name: Ulf-Ruediger Heinrich

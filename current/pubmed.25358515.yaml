@@ -19,6 +19,9 @@ authors: Polzer B, Medoro G, Pasch S, Fontana F, Zorzino L, Pestka A, Andergasse
   U, Meier-Stiegen F, Czyz ZT, Alberter B, Treitschke S, Schamberger T, Sergio M,
   Bregola G, Doffini A, Gianni S, Calanca A, Signorini G, Bolognesi C, Hartmann A,
   Fasching PA, Sandri MT, Rack B, Fehm T, Giorgini G, Manaresi N, Klein CA.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: zbigniew.czyz@klinik.uni-regensburg.de
   name: Zbigniew Tadeusz Czyz

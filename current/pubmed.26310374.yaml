@@ -20,6 +20,7 @@ abstract: We analyzed the genome of a rhabdoid glioblastoma (R-GBM) tumor, a ver
   entity among the larger group of GBMs.  Copyright ï¿½ 2015 The Authors. Published
   by Elsevier Inc. All rights reserved.
 authors: Koh Y, Park I, Sun CH, Lee S, Yun H, Park CK, Park SH, Park JK and Lee SH
+cancertypes: []
 contact:
   email: hongseok.yun@samsung.com
   name: Hongseok Yun

@@ -18,6 +18,17 @@ abstract: About 40 of patients with myelodysplastic syndromes MDSs present with 
   and prognostic impact.
 authors: Thiel A, Beier M, Ingenhag D, Servan K, Hein M, Moeller V, Betz B, Hildebrandt
   B, Evers C, Germing U and Royer-Pokora B.
+cancertypes:
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: royer@uni-duesseldorf.de
   name: Brigitte Royer-Pokora

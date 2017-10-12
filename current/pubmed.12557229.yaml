@@ -17,6 +17,29 @@ abstract: 'The underlying genetic events associated with follicular thyroid tumo
   and 15q26-qter. The identification of these regions provides a basis for further
   molecular studies.'
 authors: Roque L, Rodrigues R, Pinto A, Moura-Nunes V and Soares J.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: ncit:C3502
+  term_label: Thyroid Gland Follicular Adenoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8330_0
+  term_label: Follicular adenoma
+- term_id: pgx:icdom:8335_3
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-83300
+  term_label: Follicular adenoma
+- term_id: snmi:M-83353
+  term_label: Follicular carcinoma, minimally invasive
 contact:
   email: lroque@ipolisboa.min-saude.pt
   name: Lucia Roque

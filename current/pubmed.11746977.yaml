@@ -18,6 +18,57 @@ abstract: Endocrine pancreatic tumors EPTs are neoplasms with malignant potentia
   loci may harbor genes contributing to the progression of EPT.
 authors: Zhao J, Moch H, Scheidweiler AF, Baer A, Schaffer AA, Speel EJ, Roth J, Heitz
   PU and Komminoth P.
+cancertypes:
+- term_id: ncit:C27720
+  term_label: Pancreatic Neuroendocrine Tumor
+- term_id: ncit:C3050
+  term_label: ~
+- term_id: ncit:C3770
+  term_label: Pancreatic Neuroendocrine Carcinoma
+- term_id: ncit:C95597
+  term_label: Pancreatic Glucagonoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8150_1
+  term_label: Pancreatic endocrine tumor, NOS (C25._)
+- term_id: pgx:icdom:8150_3
+  term_label: Pancreatic endocrine tumor, malignant
+- term_id: pgx:icdom:8151_1
+  term_label: ~
+- term_id: pgx:icdom:8151_3
+  term_label: Insulinoma, malignant
+- term_id: pgx:icdom:8152_1
+  term_label: Glucagonoma, NOS
+- term_id: pgx:icdom:8152_3
+  term_label: Glucagonoma, malignant
+- term_id: pgx:icdom:8153_1
+  term_label: Gastrinoma, NOS
+- term_id: pgx:icdom:8153_3
+  term_label: Gastrinoma, malignant
+- term_id: pgx:icdom:8155_3
+  term_label: Vipoma, malignant
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-81501
+  term_label: Pancreatic endocrine tumor, NOS (C25._)
+- term_id: snmi:M-81503
+  term_label: Pancreatic endocrine tumor, malignant
+- term_id: snmi:M-81511
+  term_label: ~
+- term_id: snmi:M-81513
+  term_label: Insulinoma, malignant
+- term_id: snmi:M-81521
+  term_label: Glucagonoma, NOS
+- term_id: snmi:M-81523
+  term_label: Glucagonoma, malignant
+- term_id: snmi:M-81531
+  term_label: Gastrinoma, NOS
+- term_id: snmi:M-81533
+  term_label: Gastrinoma, malignant
+- term_id: snmi:M-81553
+  term_label: Vipoma, malignant
 contact:
   email: ~
   name: NA Zhao

@@ -18,6 +18,23 @@ abstract: Meningioma is a common tumor of the meninges covering the central nerv
   loss of both 1p and 3p may contribute to meningioma tumorigenesis. This may represent
   genetic changes that are alternative to deletions on chromosome 22.
 authors: Carlson KM, Bruder C, Nordenskjold M and Dumanski JP.
+cancertypes:
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: ncit:C4073
+  term_label: ~
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdom:9530_3
+  term_label: Meningioma, malignant
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
+- term_id: snmi:M-95303
+  term_label: Meningioma, malignant
 contact:
   email: ~
   name: ~

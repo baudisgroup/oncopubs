@@ -18,6 +18,42 @@ abstract: To investigate genetic alterations in primary cutaneous B-cell lymphom
   amplification of BCL2 in 5 of 29 cases. These findings suggest that there are complex
   but consistent genetic alterations associated with the pathogenesis of PCBCLs.
 authors: Mao X, Lillington D, Child F, Russell-Jones R, Young B and Whittaker S.
+cancertypes:
+- term_id: ncit:C27824
+  term_label: ~
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9680_3
+  term_label: Diffuse large B-cell lymphoma, NOS
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone lymphoma, NOS
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-96803
+  term_label: Diffuse large B-cell lymphoma, NOS
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+- term_id: snmi:M-96993
+  term_label: Marginal zone lymphoma, NOS
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: mxmayo@yahoo.co.uk
   name: Xin Mao

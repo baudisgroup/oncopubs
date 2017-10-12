@@ -15,6 +15,9 @@ abstract: Frequent discrepancies between preclinical and clinical results of ant
   molecular and functional heterogeneity of GBMs.
 authors: Joo KM, Kim J, Jin J, Kim M, Seol HJ, Muradov J, Yang H, Choi YL, Park WY,
   Kong DS, Lee JI, Ko YH, Woo HG, Lee J, Kim S, Nam DH.
+cancertypes:
+- term_id: seer:31010
+  term_label: brain
 contact:
   email: nsnam@skku.edu
   name: DH Nam

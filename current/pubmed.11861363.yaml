@@ -12,6 +12,7 @@ abstract: Array-based comparative genomic hybridization CGH uses multiple genomi
   their genetic profiles.
 authors: Wilhelm M, Veltman JA, Olshen AB, Jain AN, Moore DH, Presti JC Jr, Kovacs
   G and Waldman FM.
+cancertypes: []
 contact:
   email: waldman@cc.ucsf.edu
   name: Frederic M. Waldman

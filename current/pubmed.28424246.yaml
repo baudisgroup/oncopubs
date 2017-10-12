@@ -17,6 +17,9 @@ authors: Moffitt AB, Ondrejka SL, McKinney M, Rempel RE, Goodlad JR, Teh CH, Lep
   Yu J, Naresh K, Villa D, Gascoyne RD, Said J, Czader MB, Chadburn A, Richards KL,
   Rajagopalan D, Davis NS, Smith EC, Palus BC, Tzeng TJ, Healy JA, Lugar PL, Datta
   J, Love C, Levy S, Dunson DB, Zhuang Y, Hsi ED, Dave SS.
+cancertypes:
+- term_id: seer:33042
+  term_label: nhl - extranodal
 contact:
   email: sandeep.dave@duke.edu
   name: Sandeep S. Dave

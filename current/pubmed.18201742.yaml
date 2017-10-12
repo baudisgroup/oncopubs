@@ -17,6 +17,17 @@ abstract: To compare the differences in DNA aberrations between arsenic-exposed 
   the chromosome abnormality in TCC, and 17p loss plays an important role in arsenic-induced
   urinary carcinogenesis.
 authors: Hsu LI, Chiu AW, Pu YS, Wang YH, Huan SK, Hsiao CH, Hsieh FI and Chen CJ.
+cancertypes:
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: hsu277@yahoo.com.tw
   name: Chien-Jen Chen

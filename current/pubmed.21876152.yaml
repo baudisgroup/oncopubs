@@ -14,6 +14,19 @@ abstract: The PI3K pathway is frequently activated in cancer; therefore, conside
   the identification of cancer lesions that confer resistance to PI3K pathway-targeted
   drugs.
 authors: Ilic N, Utermark T, Widlund HR, Roberts TM.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:null
+  term_label: ~
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:null
+  term_label: 'null'
+- term_id: seer:26000
+  term_label: breast
+- term_id: snmi:M-null
+  term_label: ~
 contact:
   email: nina_ilic@dfci.harvard.edu
   name: Nina Ilic

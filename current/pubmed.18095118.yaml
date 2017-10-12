@@ -16,6 +16,27 @@ abstract: Medulloblastoma MB is the most frequent infratentorial malignant brain
   with the prognosis.
 authors: Kagawa N, Maruno M, Suzuki T, Hashiba T, Hashimoto N, Izumoto S and Yoshimine
   T.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
 contact:
   email: ~
   name: ~

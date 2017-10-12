@@ -17,6 +17,9 @@ abstract: Oral squamous cell cancer of the oral cavity and oropharynx (OSCC) is 
   models to predict survival in patients with HPV-negative OSCC.
 authors: Chen C, Zhang Y, Loomis MM, Upton MP, Lohavanichbutr P, Houck JR, Doody DR,
   Mendez E, Futran N, Schwartz SM, Wang P.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: cchen@fredhutch.org
   name: Chu Chen

@@ -27,6 +27,27 @@ authors: Vazquez-Mena O, Medina-Martinez I, Juarez-Torres E, Barron V, Espinosa 
   Villegas-Sepulveda N, Gomez-Laguna L, Nieto-Martinez K, Orozco L, Roman-Basaure
   E, Munoz Cortez S, Borges Ibanez M, Venegas-Vega C, Guardado-Estrada M, Rangel-Lopez
   A, Kofman S and Berumen J.
+cancertypes:
+- term_id: ncit:C4028
+  term_label: Cervical Squamous Cell Carcinoma, Not Otherwise Specified
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

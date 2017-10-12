@@ -17,6 +17,7 @@ abstract: 'Genetic alterations in the early stages of cancer have a close correl
   chromosomal region might be of interest for the study of the pathophysiology of
   stage I SCC, as potential targets for therapeutic measures.'
 authors: Kang J
+cancertypes: []
 contact:
   email: jukang@kornu.ac.kr
   name: Jiun Kang

@@ -21,6 +21,7 @@ abstract: Five osteosarcoma OS cell lines, 37 OS tumors and 9 corresponding non-
   of genetic abnormalities in OS.
 authors: Yen CC, Chen WM, Chen TH, Chen WY, Chen PC, Chiou HJ, Hung GY, Wu HT, Wei
   CJ, Shiau CY, Wu YC, Chao TC, Tzeng CH, Chen PM, Lin CH, Chen YJ and Fletcher JA.
+cancertypes: []
 contact:
   email: jfletcher@partners.org
   name: Jonathan A. Fletcher

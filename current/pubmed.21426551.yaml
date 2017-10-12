@@ -9,6 +9,7 @@ abstract: DNA methylation in the SHOX2 locus was previously used to reliably det
 authors: Schneider KU, Dietrich D, Fleischhacker M, Leschber G, Merk J, Schaper F,
   Stapert HR, Vossenaar ER, Weickmann S, Liebenberg V, Kneip C, Seegebarth A, Erdogan
   F, Rappold G and Schmidt B.
+cancertypes: []
 contact:
   email: ~
   name: Dimo Dietrich

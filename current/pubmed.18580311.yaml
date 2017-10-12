@@ -16,6 +16,21 @@ abstract: Benign metastasizing leiomyoma is a rare lesion characterized by benig
   leiomyomas may comprise a heterogeneous group of tumors in terms of their malignant
   potential and pathogenetic mechanism.
 authors: Lee HJ, Choi J and Kim KR.
+cancertypes:
+- term_id: ncit:C3157
+  term_label: Leiomyoma
+- term_id: pgx:icdom:8890_0
+  term_label: Leiomyoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C55.9
+  term_label: uterus, nos
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:27030
+  term_label: Uterus, NOS
+- term_id: snmi:M-88900
+  term_label: Leiomyoma, NOS
 contact:
   email: krkim@amc.seoul.kr
   name: Kyu-Rae Kim

@@ -17,6 +17,19 @@ authors: Russnes HG, Vollan HK, Lingjaerde OC, Krasnitz A, Lundin P, Naume B, S�
   T, Borgen E, Rye IH, Langerï¿½d A, Chin SF, Teschendorff AE, Stephens PJ, Mï¿½nï¿½r
   S, Schlichting E, Baumbusch LO, Kï¿½resen R, Stratton MP, Wigler M, Caldas C, Zetterberg
   A, Hicks J and Bï¿½rresen-Dale AL
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: seer:26000
+  term_label: breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: a.l.borresen-dale@medisin.uio.no
   name: Anne-Lise Boerresen-Dale

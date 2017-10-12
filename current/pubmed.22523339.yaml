@@ -10,6 +10,17 @@ abstract: Spindle cell lesions of the breast represent an interesting diagnostic
   of breast that did not show any typical known molecular features.
 authors: Takano EA, Rogers TM, Young RJ, Rayoo M, Kostos P, Ferguson R, Campbell IG,
   Debiec-Rychter M and Fox SB.
+cancertypes:
+- term_id: ncit:C4683
+  term_label: Dermatofibrosarcoma Protuberans
+- term_id: pgx:icdom:8832_3
+  term_label: Dermatofibrosarcoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-88323
+  term_label: Dermatofibrosarcoma, NOS
 contact:
   email: elena.takano@petermac.org
   name: Elena Takano

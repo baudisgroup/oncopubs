@@ -19,6 +19,17 @@ abstract: Primary cutaneous CD30 anaplastic large cell lymphoma C-ALCL represent
   the molecular basis for further investigation of this disease.
 authors: Mao X, Orchard G, Lillington DM, Russell-Jones R, Young BD and Whittaker
   S.
+cancertypes:
+- term_id: ncit:C3721
+  term_label: Lymphomatoid Papulosis
+- term_id: pgx:icdom:9718_3
+  term_label: Anaplastic large cell lymphoma, cutaneous type
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97183
+  term_label: Anaplastic large cell lymphoma, cutaneous type
 contact:
   email: mxmayo@yahoo.co.uk
   name: Xin Mao

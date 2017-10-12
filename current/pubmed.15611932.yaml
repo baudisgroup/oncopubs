@@ -14,6 +14,7 @@ abstract: Gastric cancer GC frequently displays changes in DNA copy number, but 
   oncogenes included dual-specificity tyrosine- Y -phosphorylation-regulated kinase
   2 DYRK2 and protein tyrosine kinase 7 PTK7 .
 authors: Gorringe KL, Boussioutas A and Bowtell DD.
+cancertypes: []
 contact:
   email: d.bowtell@petermac.org
   name: David.D.L. Bowtell

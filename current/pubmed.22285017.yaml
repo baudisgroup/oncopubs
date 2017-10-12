@@ -29,6 +29,17 @@ abstract: Chronic lymphocytic leukemia CLL is a clinically heterogeneous disease
   reliable prognostic tool for CLL patients.
 authors: Zhang L., Znoyko I., Costa L. J., Conlin L. K., Daber R. D., Self S. E. and
   Wolff D. J.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: ~
   name: ~

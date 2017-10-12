@@ -15,6 +15,17 @@ abstract: The molecular basis of malignant mesothelioma is poorly known. We exam
   due to genetic evolution in tumor cell lines.
 authors: Kivipensas P, Bjorkqvist AM, Karhu R, Pelin K, Linnainmaa K, Tammilehto L,
   Mattson K, Kallioniemi QP and Knuutila S.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

@@ -25,6 +25,19 @@ abstract: This study aimed to assess independent effects of EBV and cigarette sm
   capsid antigen immunoglobulin A, anti-EBV DNase, and long-term heavy cigarette smoking
   are independent nasopharyngeal carcinoma risk predictors.
 authors: Hsu WL, Chen JY, Chien YC, Liu MY, You SL, Hsu MM, Yang CS, Chen CJ.
+cancertypes:
+- term_id: ncit:C7992
+  term_label: Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+- term_id: pgx:icdom:8072_3
+  term_label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
+- term_id: pgx:icdot:C11
+  term_label: nasopharynx
+- term_id: pgx:seer:20060
+  term_label: Nasopharynx
+- term_id: seer:20060
+  term_label: nasopharynx
+- term_id: snmi:M-80723
+  term_label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
 contact:
   email: chlee41@hotmail.com
   name: Chia Huei Lee

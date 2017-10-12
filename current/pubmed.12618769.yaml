@@ -18,6 +18,7 @@ abstract: DNA amplifications are important mechanisms for proto-oncogene activat
   previously assumed.
 authors: Wessendorf S, Schwaenen C, Kohlhammer H, Kienle D, Wrobel G, Barth TF, Nessling
   M, Moller P, Dohner H, Lichter P and Bentz M.
+cancertypes: []
 contact:
   email: martin.bentz@medizin.uni-ulm.de
   name: Martin Bentz

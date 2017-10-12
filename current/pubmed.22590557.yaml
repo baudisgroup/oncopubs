@@ -26,6 +26,27 @@ abstract: Lung adenocarcinoma (LAD) has extreme genetic variation among patients
 authors: Wilkerson MD, Yin X, Walter V, Zhao N, Cabanski CR, Hayward MC, Miller CR,
   Socinski MA, Parsons AM, Thorne LB, Haithcock BE, Veeramachaneni NK, Funkhouser
   WK, Randell SH, Bernard PS, Perou CM, Hayes DN.
+cancertypes:
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:22030
+  term_label: lung and bronchus
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: mwilkers@med.unc.edu
   name: Matthew D Wilkerson

@@ -22,6 +22,27 @@ abstract: Cancer genomes frequently contain somatic copy number alterations SCNA
 authors: Valsesia A, Rimoldi D, Martinet D, Ibberson M, Benaglio P, Quadroni M, Waridel
   P, Gaillard M, Pidoux M, Rapin B, Rivolta C, Xenarios I, Simpson AJ, Antonarakis
   SE, Beckmann JS, Jongeneel CV, Iseli C and Stevenson BJ.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: ~
   name: Christian Iseli

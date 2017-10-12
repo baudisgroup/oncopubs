@@ -21,6 +21,9 @@ abstract: The presence of multiple primary tumors (MPT) in a single patient has 
 authors: Vanni I, Coco S, Bonfiglio S, Cittaro D, Genova C, Biello F, Mora M, Rossella
   V, Dal Bello MG, Truini A, Banelli B, Lazarevic D, Alama A, Rijavec E, Barletta
   G, Grossi F.
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: simona.coco@hsanmartino.it
   name: Simona Coco

@@ -20,6 +20,7 @@ abstract: 'The International Neuroblastoma Pathology Classification (INPC) has a
   for patients with UH and single copy of MYCN.  ï¿½ 2015 The Authors. Cancer Science
   published by Wiley Publishing Asia Pty Ltd on behalf of Japanese Cancer Association.'
 authors: Nakazawa A, Haga C, Ohira M, Okita H, Kamijo T and Nakagawara A
+cancertypes: []
 contact:
   email: nakagawa-a@ncchd.go.jp
   name: Akira Nakagawara

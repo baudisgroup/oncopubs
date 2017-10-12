@@ -3,6 +3,7 @@ abstract: Accurate detection of recurrent chromosomal abnormalities is critical 
   assign patients to risk-based therapeutic regimens for pediatric acute lymphoblastic
   leukemia ALL .
 authors: Rabin KR, Man TK, Yu A, Folsom MR, Zhao YJ, Rao PH, Plon SE and Naeem RC.
+cancertypes: []
 contact:
   email: ~
   name: ~

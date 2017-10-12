@@ -22,6 +22,9 @@ abstract: Cervical carcinoma is the second most common malignancy among women in
   in the clinical aspect.
 authors: Grozdanov P, Hadjidekova S, Dimova I, Nikolova I, Toncheva D, Ganchev G,
   Zlatkov V, Galabov AS.
+cancertypes:
+- term_id: seer:27010
+  term_label: cervix uteri
 contact:
   email: grozdanov@microbio.bas.bg
   name: Petar Grozdanov

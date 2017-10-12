@@ -20,6 +20,261 @@ authors: Beroukhim R, Mermel CH, Porter D, Wei G, Raychaudhuri S, Donovan J, Bar
   S, Rustgi AK, Antonescu CR, Ladanyi M, Letai A, Garraway LA, Loda M, Beer DG, True
   LD, Okamoto A, Pomeroy SL, Singer S, Golub TR, Lander ES, Getz G, Sellers WR and
   Meyerson M.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+- term_id: ncit:C3194
+  term_label: Liposarcoma
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:C3269
+  term_label: Schwannoma
+- term_id: ncit:C3400
+  term_label: ~
+- term_id: ncit:C34774
+  term_label: ~
+- term_id: ncit:C3704
+  term_label: Dedifferentiated Liposarcoma
+- term_id: ncit:C3769
+  term_label: ~
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: ncit:C46008
+  term_label: Thyroid Gland Squamous Cell Carcinoma
+- term_id: ncit:C4908
+  term_label: Ovarian Carcinoma
+- term_id: ncit:C53999
+  term_label: Malignant Gastrointestinal Stromal Tumor
+- term_id: ncit:C6287
+  term_label: Endometrial Endometrioid Adenocarcinoma
+- term_id: ncit:C65151
+  term_label: ~
+- term_id: ncit:C6970
+  term_label: ~
+- term_id: ncit:C9298
+  term_label: Acute Undifferentiated Leukemia
+- term_id: ncit:C9306
+  term_label: Soft Tissue Sarcoma
+- term_id: ncit:C9384
+  term_label: Kidney Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdom:8380_3
+  term_label: Endometrioid adenocarcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdom:8800_3
+  term_label: Sarcoma, NOS
+- term_id: pgx:icdom:8850_3
+  term_label: Liposarcoma, NOS
+- term_id: pgx:icdom:8858_3
+  term_label: Dedifferentiated liposarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdom:9040_3
+  term_label: Synovial sarcoma, NOS
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdom:9560_0
+  term_label: Neurilemoma, NOS
+- term_id: pgx:icdom:9801_3
+  term_label: Acute leukemia, NOS
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9860_3
+  term_label: Myeloid leukemia, NOS
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C54.1
+  term_label: Endometrium
+- term_id: pgx:icdot:C55.9
+  term_label: uterus, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:27030
+  term_label: Uterus, NOS
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: pgx:seer:35041
+  term_label: Other Acute Leukemia
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
+- term_id: snmi:M-83803
+  term_label: Endometrioid adenocarcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
+- term_id: snmi:M-88003
+  term_label: Sarcoma, NOS
+- term_id: snmi:M-88503
+  term_label: Liposarcoma, NOS
+- term_id: snmi:M-88583
+  term_label: Dedifferentiated liposarcoma
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: snmi:M-90403
+  term_label: Synovial sarcoma, NOS
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
+- term_id: snmi:M-95600
+  term_label: Neurilemoma, NOS
+- term_id: snmi:M-98013
+  term_label: Acute leukemia, NOS
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98603
+  term_label: Myeloid leukemia, NOS
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: ~
   name: ~

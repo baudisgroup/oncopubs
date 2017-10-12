@@ -22,6 +22,19 @@ abstract: "About 50% of children with neuroblastoma (NB) show a metastatic disea
   \ Copyright Â© 2012 UICC."
 authors: Coco S, Theissen J, Scaruffi P, Stigliani S, Moretti S, Oberthuer A, Valdora
   F, Fischer M, Gallo F, Hero B, Bonassi S, Berthold F and Tonini GP
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: simona.coco@istge.it
   name: ~

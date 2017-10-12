@@ -21,6 +21,7 @@ abstract: Comparative genomic hybridization CGH is a molecular cytogenetic techn
   genetic characterization of these tumours.
 authors: Vranova V, Necesalova E, Kuglik P, Cejpek P, Pesakova M, Budinska E, Relichova
   J and Veselska R.
+cancertypes: []
 contact:
   email: veselska@sci.muni.cz
   name: Renata Veselska

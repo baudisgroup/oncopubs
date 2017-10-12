@@ -20,6 +20,19 @@ abstract: Tumour suppressor genes encode a broad class of molecules whose mutati
   process targeting different genes acting in the same pathway.
 authors: Scuoppo C, Miething C, Lindqvist L, Reyes J, Ruse C, Appelmann I, Yoon S,
   Krasnitz A, Teruya-Feldstein J, Pappin D, Pelletier J and Lowe SW
+cancertypes:
+- term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
 contact:
   email: gro.ccksm@sewol
   name: ~

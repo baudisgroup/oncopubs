@@ -20,6 +20,18 @@ abstract: Approximately 70 of gastric mucosa-associated lymphoid tissue MALT lym
   role in the development of H. pylori independency.
 authors: Fukuhara N, Nakamura T, Nakagawa M, Tagawa H, Takeuchi I, Yatabe Y, Morishima
   Y, Nakamura S and Seto M.
+cancertypes:
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: mseto@aichi-cc.jp
   name: Masao Seto

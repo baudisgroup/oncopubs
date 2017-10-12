@@ -22,6 +22,7 @@ abstract: 'In defining the genetic profiles in cancer, cytogenetically aberrant 
   leading to carcinogenesis in colorectal cancer.'
 authors: Knutsen T, Padilla-Nash HM, Wangsa D, Barenboim-Stapleton L, Camps J, McNeil
   N, Difilippantonio MJ and Ried T.
+cancertypes: []
 contact:
   email: knutsent@mail.nih.gov
   name: Turid Knutsen

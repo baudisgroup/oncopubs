@@ -13,6 +13,29 @@ abstract: We describe a family of three sisters affected by malignant mesothelio
   in the development of MM and in inducing greater genetic susceptibility to the carcinogenic
   effects of asbestos.
 authors: Musti M, Cavone D, Aalto Y, Scattone A, Serio G and Knuutila S.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: ncit:C7985
+  term_label: Epithelioid Mesothelioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdom:9052_3
+  term_label: Epithelioid mesothelioma, malignant
+- term_id: pgx:icdom:9053_3
+  term_label: Mesothelioma, biphasic, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
+- term_id: snmi:M-90523
+  term_label: Epithelioid mesothelioma, malignant
+- term_id: snmi:M-90533
+  term_label: Mesothelioma, biphasic, malignant
 contact:
   email: d.cavone@medlav.uniba.it
   name: Domenica Cavone

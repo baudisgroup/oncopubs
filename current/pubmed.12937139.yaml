@@ -24,6 +24,7 @@ abstract: Amplification of chromosomal regions leads to an increase of DNA copy 
   defined by mCGH.
 authors: Schraml P, Schwerdtfeger G, Burkhalter F, Raggi A, Schmidt D, Ruffalo T,
   King W, Wilber K, Mihatsch MJ and Moch H.
+cancertypes: []
 contact:
   email: peter.schraml@unibas.ch
   name: Peter Schraml

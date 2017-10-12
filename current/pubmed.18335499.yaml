@@ -24,6 +24,17 @@ abstract: 'Analysis of recurrent DNA amplification can lead to the identificatio
   www.interscience.wiley.com jpages 1045-2257 suppmat.'
 authors: Haverty PM, Fridlyand J, Li L, Getz G, Beroukhim R, Lohr S, Wu TD, Cavet
   G, Zhang Z and Chant J.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: ~
   name: Zemin Zang

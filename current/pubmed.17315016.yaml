@@ -2,6 +2,17 @@
 abstract: ~
 authors: Kuchinskaya E, Nordgren A, Heyman M, Schoumans J, Corcoran M, Staaf J, Borg
   A, Soderhall S, Grander D, Nordenskjold M, and Blennow E.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: Ekaterina.Kuchinskaya@ki.se
   name: Ekaterina Kuchinskaya

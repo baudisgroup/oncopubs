@@ -19,6 +19,7 @@ abstract: 'Large genomic rearrangements are estimated to account for approximate
   underlying molecular causes of these mutational events in the BRCA1 2 genes.'
 authors: del Valle J, Feliubadalo L, Nadal M, Teule A, Miro R, Cuesta R, Tornero E,
   Menendez M, Darder E, Brunet J, Capella G, Blanco I and Lazaro C.
+cancertypes: []
 contact:
   email: clazaro@iconcologia.net
   name: Conxi La zaro

@@ -22,6 +22,17 @@ abstract: Genetic changes during tumorigenesis are usually acquired sequentially
   with malignant melanomas P 0.0002 and provides a genetic approach to predict outcome
   in malignant melanomas.
 authors: Hirsch D, Kemmerling R, Davis S, Camps J, Meltzer PS, Ried T and Gaiser T.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: ~
   name: ~

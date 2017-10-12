@@ -5,6 +5,7 @@ abstract: The epidermal growth factor receptor EGFR and its downstream factors K
   the mutational status of EGFR, KRAS, and BRAF in primary tumors with the one in
   corresponding lymph node metastases.
 authors: Schmid K, Oehl N, Wrba F, Pirker R, Pirker C and Filipits M.
+cancertypes: []
 contact:
   email: katharina.schmid@meduniwien.ac.at
   name: Katharina Schmid

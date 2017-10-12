@@ -16,6 +16,49 @@ abstract: Myelodysplastic syndromes MDSs pose an important diagnostic and treatm
   use of aCGH in the clinical workup of MDS patients.
 authors: Starczynowski DT, Vercauteren S, Telenius A, Sung S, Tohyama K, Brooks-Wilson
   A, Spinelli JJ, Eaves CJ, Eaves AC, Horsman DE, Lam WL and Karsan A.
+cancertypes:
+- term_id: ncit:C2872
+  term_label: Refractory Anemia
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:C4036
+  term_label: Myelodysplastic Syndrome with Ring Sideroblasts
+- term_id: ncit:C6867
+  term_label: Myelodysplastic Syndrome with Isolated del(5q)
+- term_id: ncit:C7506
+  term_label: Myelodysplastic Syndrome with Excess Blasts
+- term_id: ncit:C8574
+  term_label: Myelodysplastic Syndrome with Multilineage Dysplasia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9980_3
+  term_label: Refractory anemia
+- term_id: pgx:icdom:9982_3
+  term_label: Refractory anemia with sideroblasts
+- term_id: pgx:icdom:9983_3
+  term_label: Refractory anemia with excess blasts
+- term_id: pgx:icdom:9985_3
+  term_label: Refractory cytopenia with multilineage dysplasia
+- term_id: pgx:icdom:9986_3
+  term_label: Myelodysplastic syndrome with 5q deletion (5q-) syndrome
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99803
+  term_label: Refractory anemia
+- term_id: snmi:M-99823
+  term_label: Refractory anemia with sideroblasts
+- term_id: snmi:M-99833
+  term_label: Refractory anemia with excess blasts
+- term_id: snmi:M-99853
+  term_label: Refractory cytopenia with multilineage dysplasia
+- term_id: snmi:M-99863
+  term_label: Myelodysplastic syndrome with 5q deletion (5q-) syndrome
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: akarsan@bccrc.ca
   name: Aly Karsan

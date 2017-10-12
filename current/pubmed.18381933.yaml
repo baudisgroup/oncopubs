@@ -4,6 +4,7 @@ abstract: To gain insight into genomic and transcriptomic subtypes of ductal car
 authors: Vincent-Salomon A, Lucchesi C, Gruel N, Raynal V, Pierron G, Goudefroye R,
   Reyal F, Radvanyi F, Salmon R, Thiery JP, Sastre-Garau X, Sigal-Zafrani B, Fourquet
   A and Delattre O.
+cancertypes: []
 contact:
   email: olivier.delattre@curie.fr
   name: Olivier Delattre

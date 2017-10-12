@@ -17,6 +17,17 @@ abstract: 'Neuroblastoma behavior is variable and outcome partially depends on g
   factors suggest an important role for this chromosome in the development of neuroblastoma.'
 authors: Plantaz D, Mohapatra G, Matthay KK, Pellarin M, Seeger RC and Feuerstein
   BG.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: bfeuerstein@email.arizona.edu
   name: Burt Feuerstein

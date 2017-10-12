@@ -31,6 +31,9 @@ abstract: Genome-wide profiling of rare tumors is crucial for improvement of dia
 authors: Ferreira EN, Barros BD, de Souza JE, Almeida RV, Torrezan GT, Garcia S, Krepischi
   AC, Mello CA, Cunha IW, Pinto CA, Soares FA, Dias-Neto E, Lopes A, de Souza SJ,
   Carraro DM.
+cancertypes:
+- term_id: seer:24000
+  term_label: soft tissue including heart
 contact:
   email: dirce.carraro@cipe.accamargo.org.br
   name: Dirce Maria Carraro

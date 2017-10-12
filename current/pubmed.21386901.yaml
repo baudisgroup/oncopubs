@@ -18,6 +18,17 @@ abstract: Identifying oral cancer lesions associated with high risk of relapse a
   markers for prognosis and treatment decisions in oral cancers.
 authors: Ambatipudi S, Gerstung M, Gowda R, Pai P, Borges AM, Schaffer AA, Beerenwinkel
   N, and Mahimkar MB.
+cancertypes:
+- term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: mmahimkar@actrec.gov.in
   name: Manoj Mahimkar

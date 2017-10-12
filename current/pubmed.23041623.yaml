@@ -17,6 +17,9 @@ abstract: Prostate adenocarcinoma (CaP) patients are classified into low-, inter
 authors: McKee CM, Xu D, Cao Y, Kabraji S, Allen D, Kersemans V, Beech J, Smart S,
   Hamdy F, Ishkanian A, Sykes J, Pintile M, Milosevic M, van der Kwast T, Zafarana
   G, Ramnarine VR, Jurisica I, Mallof C, Lam W, Bristow RG, Muschel RJ.
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: ~
   name: Igor Jurisica

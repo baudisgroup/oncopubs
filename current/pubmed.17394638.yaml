@@ -7,6 +7,7 @@ abstract: Currently, two main technologies are used for screening of DNA copy nu
   on a significant set of human patient samples.
 authors: Wicker N, Carles A, Mills IG, Wolf M, Veerakumarasivam A, Edgren H, Boileau
   F, Wasylyk B, Schalken JA, Neal DE, Kallioniemi O and Poch O.
+cancertypes: []
 contact:
   email: wicker@igbmc.u-strasbg.fr
   name: Nicolas Wicker

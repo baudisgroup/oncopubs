@@ -21,6 +21,7 @@ abstract: MicroRNAs have been implicated as important mediators of cancer cell h
   threshold in cancer cells.
 authors: Xie Y, Tobin LA, Camps J, Wangsa D, Yang J, Rao M, Witasp E, Awad KS, Yoo
   N, Ried T and Kwong KF.
+cancertypes: []
 contact:
   email: ~
   name: King Kwong

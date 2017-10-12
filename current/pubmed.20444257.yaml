@@ -7,6 +7,17 @@ abstract: Neuroblastoma has successfully served as a model system for the identi
   for neuroblastoma.
 authors: Wolf M, Korja M, Karhu R, Edgren H, Kilpinen S, Ojala K, Mousses S, Kallioniemi
   A and Haapasalo H.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: Maija Wolf

@@ -16,6 +16,17 @@ abstract: Ideopathic myelofibrosis IMF is a chronic myeloproliferative disorder 
   in 50 of patients and suggests that genes on 9p may play a crucial role in the pathogenesis
   of IMF.
 authors: Al-Assar O, Ul-Hassan A, Brown R, Wilson GA, Hammond DW, and Reilly JT.
+cancertypes:
+- term_id: ncit:C2862
+  term_label: Primary Myelofibrosis
+- term_id: pgx:icdom:9961_3
+  term_label: Primary myelofibrosis
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99613
+  term_label: Primary myelofibrosis
 contact:
   email: j.t.reilly@sheffield.ac.uk
   name: J. T. Reilly

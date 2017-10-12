@@ -20,6 +20,7 @@ abstract: Identification of target genes for genetic rearrangements in prostate 
   and gains of often large chromosomal regions.
 authors: Wolf M, Mousses S, Hautaniemi S, Karhu R, Huusko P, Allinen M, Elkahloun
   A, Monni O, Chen Y, Kallioniemi A and Kallioniemi OP.
+cancertypes: []
 contact:
   email: olli.kallioniemi@helsinki.fi
   name: Olli Kallioniemi

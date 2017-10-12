@@ -31,6 +31,7 @@ abstract: Glioblastoma multiforme GBM is an extremely malignant brain tumor. To 
   GBM.
 authors: Yin D, Ogawa S, Kawamata N, Tunici P, Finocchiaro G, Eoli M, Ruckert C, Huynh
   T, Liu G, Kato M, Sanada M, Jauch A, Dugas M, Black KL and Koeffler HP.
+cancertypes: []
 contact:
   email: Dong.Yin@cshs.org
   name: Dong Yin

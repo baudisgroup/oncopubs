@@ -21,6 +21,7 @@ abstract: 'Aneuploidy in papillary thyroid carcinomas PTCs is considered a marke
   therapies in this type of cancer.'
 authors: Rodrigues R, Roque L, Espadinha C, Pinto A, Domingues R, Dinis J, Catarino
   A, Pereira T and Leite V.
+cancertypes: []
 contact:
   email: lroque@ipolisboa.min-saude.pt
   name: Lucia Roque

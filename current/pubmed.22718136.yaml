@@ -7,6 +7,7 @@ abstract: Head and neck squamous cell carcinoma HNSCC is a tumour type that gene
   repeat sequences in these tumours.
 authors: Martinez JG, Perez-Escuredo J, Castro-Santos P, Marcos CA, Pendas JL, Fraga
   MF and Hermsen MA.
+cancertypes: []
 contact:
   email: mhermsen@hca.es
   name: Mario Hermsen

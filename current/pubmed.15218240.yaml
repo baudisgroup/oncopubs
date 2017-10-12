@@ -12,6 +12,29 @@ abstract: We analyzed genetic changes in condylomas four cases , vulvar intraepi
   changes in condylomas and nearly any changes in VIN I-II.
 authors: Bryndorf T, Kirchhoff M, Larsen J, Andreasson B, Bjerregaard B, Westh H,
   Rose H and Lundsteen C.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C89476
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8077_2
+  term_label: Squamous intraepithelial neoplasia, grade III
+- term_id: pgx:icdot:C51.9
+  term_label: vulva, nos
+- term_id: pgx:seer:27060
+  term_label: Vulva
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-80772
+  term_label: Squamous intraepithelial neoplasia, grade III
 contact:
   email: thue.bryndorf@dadlnet.dk
   name: T. Bryndorf

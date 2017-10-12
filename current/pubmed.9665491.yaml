@@ -26,6 +26,29 @@ abstract: 'Biopsies routinely performed for the histopathological diagnosis of o
   in designing therapeutic strategies.'
 authors: Weber RG, Scheer M, Born IA, Joos S, Cobbers JM, Hofele C, Reifenberger G,
   Zoller JE and Lichter P.
+cancertypes:
+- term_id: ncit:C27093
+  term_label: Stage 0 Squamous Cell Carcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8070_2
+  term_label: Squamous cell carcinoma in situ, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80702
+  term_label: Squamous cell carcinoma in situ, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

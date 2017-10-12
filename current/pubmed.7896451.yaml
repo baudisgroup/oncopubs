@@ -17,6 +17,7 @@ abstract: Comparative genomic hybridization CGH is a recent molecular cytogeneti
   tumors and cell lines provides a basis for future attempts to more finely map these
   genetic changes.
 authors: Kim DH, Mohapatra G, Bollen A, Waldman FM and Feuerstein BG.
+cancertypes: []
 contact:
   email: bfeuerstein@email.arizona.edu
   name: Burt G. Feuerstein

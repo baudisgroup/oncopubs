@@ -20,6 +20,7 @@ abstract: 'The World Health Organization-European Organization for Research and 
   be confirmed on a larger series.'
 authors: Belaud-Rotureau MA, Marietta V, Vergier B, Mainhaguiet G, Turmo M, Idrissi
   Y, Ferrer J, Beylot-Barry M, Dubus P and Merlio JP.
+cancertypes: []
 contact:
   email: MA.Belaud-Rotureau@histo.u-bordeaux2.fr
   name: Marc-Antoine Belaud-Rotureau

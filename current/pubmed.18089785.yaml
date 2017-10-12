@@ -22,6 +22,7 @@ abstract: Basal and luminal are two molecular subtypes of breast cancer with opp
 authors: Adelaide J, Finetti P, Bekhouche I, Repellini L, Geneix J, Sircoulomb F,
   Charafe-Jauffret E, Cervera N, Desplans J, Parzy D, Schoenmakers E, Viens P, Jacquemier
   J, Birnbaum D, Bertucci F, and Chaffanet M.
+cancertypes: []
 contact:
   email: ~
   name: ~

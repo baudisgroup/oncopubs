@@ -15,6 +15,17 @@ abstract: Hepatocellular carcinoma HCC is one of the most frequently occurring m
   of males in HCC and its significance may lead to further studies for better understanding
   of carcinogenesis in HCC.
 authors: Park SJ, Jeong SY and Kim HJ.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: genetics@kornet.net
   name: H. J. Kim

@@ -22,6 +22,19 @@ abstract: Prostate cancer remains the most common male malignancy in Western cou
   genetic copy number changes.
 authors: Pettus JA, Cowley BC, Maxwell T, Milash B, Stephenson RA, Rohr LR, Hoff C
   and Brothman AR.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

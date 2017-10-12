@@ -7,6 +7,7 @@ abstract: Malignant peripheral nerve sheath tumors MPNSTs are rare and highly ag
   genomic hybridization array CGH .
 authors: Kresse SH, Skarn M, Ohnstad HO, Namlos HM, Bjerkehagen B, Myklebost O and
   Meza-Zepeda LA.
+cancertypes: []
 contact:
   email: leonardm@radium.uio.no
   name: Leonardo A. Meza-Zepeda

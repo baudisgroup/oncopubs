@@ -18,6 +18,17 @@ abstract: To identify genomic abnormalities characteristic of pancreatic ductal 
   gene copy number, is likely to be associated with the development of PDAC.
 authors: Harada T, Chelala C, Bhakta V, Chaplin T, Caulee K, Baril P, Young BD and
   Lemoine NR.
+cancertypes:
+- term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: nick.lemoine@cancer.org.uk
   name: Nicholas R. Lemoine

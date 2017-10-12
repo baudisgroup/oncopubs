@@ -8,6 +8,7 @@ abstract: Chronic myelogenous leukemia CML results from the neoplastic transform
   understood.
 authors: Nacheva EP, Brazma D, Virgili A, Howard-Reeves J, Chanalaris A, Gancheva
   K, Apostolova M, Valganon M, Mazzullo H and Grace C.
+cancertypes: []
 contact:
   email: e.nacheva@ucl.ac.uk
   name: Elisabeth Nacheva

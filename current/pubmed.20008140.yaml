@@ -18,6 +18,21 @@ abstract: Angiosarcomas AS are rare vascular malignancies that arise either de n
 authors: Manner J, Radlwimmer B, Hohenberger P, Mossinger K, Kuffer S, Sauer C, Belharazem
   D, Zettl A, Coindre JM, Hallermann C, Hartmann JT, Katenkamp D, Katenkamp K, Schoffski
   P, Sciot R, Wozniak A, Lichter P, Marx A and Strobel P.
+cancertypes:
+- term_id: ncit:C3088
+  term_label: Angiosarcoma
+- term_id: pgx:icdom:9120_3
+  term_label: Hemangiosarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-91203
+  term_label: Hemangiosarcoma
 contact:
   email: philipp.stroebel@umm.de
   name: Philipp Stro bel

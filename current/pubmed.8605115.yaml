@@ -13,6 +13,7 @@ abstract: Comparative genomic hybridization CGH allows detection of chromosomal 
   picture regarding the genomic alterations is discussed in detail.
 authors: Joos S, Bergerheim US, Pan Y, Matsuyama H, Bentz M, du Manoir S and Lichter
   P.
+cancertypes: []
 contact:
   email: s.joos@dkfz.de
   name: Stefan Joos

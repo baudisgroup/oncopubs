@@ -17,6 +17,7 @@ abstract: 'Risk assessment of esophageal squamous cell carcinoma ESCC is current
   be a candidate prognostic factor.'
 authors: Shi ZZ, Liang JW, Zhan T, Wang BS, Lin DC, Liu SG, Hao JJ, Yang H, Zhang
   Y, Zhan QM, Zhang KT and Wang MR.
+cancertypes: []
 contact:
   email: ~
   name: Kai-Tai Zhang

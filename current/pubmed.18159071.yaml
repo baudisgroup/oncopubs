@@ -5,6 +5,7 @@ abstract: To distinguish new primary breast cancers from true recurrences, pange
 authors: Bollet MA, Servant N, Neuvial P, Decraene C, Lebigot I, Meyniel JP, De Rycke
   Y, Savignoni A, Rigaill G, Hupe P, Fourquet A, Sigal-Zafrani B, Barillot E and Thiery
   JP.
+cancertypes: []
 contact:
   email: marc.bollet@curie.net
   name: Marc A. Bollet

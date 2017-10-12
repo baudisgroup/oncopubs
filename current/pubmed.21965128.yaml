@@ -19,6 +19,17 @@ abstract: In this study, we established and analyzed a novel human myeloid leuke
 authors: Gotou M, Hanamura I, Nagoshi H, Wakabayashi M, Sakamoto N, Tsunekawa N, Horio
   T, Goto M, Mizuno S, Takahashi M, Suganuma K, Yamamoto H, Hiramatsu A, Watarai M,
   Shikami M, Imamura A, Mihara H, Taki T, Miwa H, Taniwaki M and Nitta M.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: Ichiro Hanamura

@@ -23,6 +23,29 @@ abstract: Solitary fibrous tumor SFT presenting in the pleura and other soft tis
   showed no DNA copy number changes on CGH. This suggests that HPC is genetically
   different from SFT.
 authors: Miettinen MM, el-Rifai W, Sarlomo-Rikala M, Andersson LC and Knuutila S.
+cancertypes:
+- term_id: ncit:C3087
+  term_label: ~
+- term_id: ncit:C7634
+  term_label: Solitary Fibrous Tumor
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8815_0
+  term_label: Solitary fibrous tumor
+- term_id: pgx:icdom:8815_3
+  term_label: Solitary fibrous tumor, malignant
+- term_id: pgx:icdom:9150_1
+  term_label: Hemangiopericytoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88150
+  term_label: Solitary fibrous tumor
+- term_id: snmi:M-88153
+  term_label: Solitary fibrous tumor, malignant
+- term_id: snmi:M-91501
+  term_label: Hemangiopericytoma, NOS
 contact:
   email: wael.el-rifai@Vanderbilt.Edu
   name: W. El-Rifai

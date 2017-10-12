@@ -21,6 +21,17 @@ authors: Pasmant E, Sabbagh A, Spurlock G, Laurendeau I, Grillo E, Hamel MJ, Mar
   L, Barbarot S, Leheup B, Rodriguez D, Lacombe D, Dollfus H, Pasquier L, Isidor B,
   Ferkal S, Soulier J, Sanson M, Dieux-Coeslier A, Bieche I, Parfait B, Vidaud M,
   Wolkenstein P, Upadhyaya M and Vidaud D.
+cancertypes:
+- term_id: ncit:C3272
+  term_label: Neurofibroma
+- term_id: pgx:icdom:9540_0
+  term_label: Neurofibroma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95400
+  term_label: Neurofibroma, NOS
 contact:
   email: ~
   name: Eric Pasmant

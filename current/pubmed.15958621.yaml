@@ -22,6 +22,17 @@ abstract: The management of Wilms tumors consists of a combination of surgery, c
   more responsive and are more likely to be eliminated by chemotherapeutic treatment.
 authors: Schlomm T, Gunawan B, Schulten HJ, Sander B, Thangavelu K, Graf N, Leuschner
   I, Ringert RH and Fuzesi L.
+cancertypes:
+- term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
 contact:
   email: fuezesi@med.uni-goettingen.de
   name: Laszlo Fuzesi

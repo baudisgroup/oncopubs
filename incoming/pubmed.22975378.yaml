@@ -13,6 +13,29 @@ abstract: Diffuse large B cell lymphoma (DLBCL) is a clinically and biologically
 authors: Monti S, Chapuy B, Takeyama K, Rodig SJ, Hao Y, Yeda KT, Inguilizian H, Mermel
   C, Currie T, Dogan A, Kutok JL, Beroukhim R, Neuberg D, Habermann TM, Getz G, Kung
   AL, Golub TR and Shipp MA
+cancertypes:
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: Margaret_Shipp@dfci.harvard.edu
   name: 1-617-632-3874

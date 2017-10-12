@@ -20,6 +20,17 @@ abstract: Small cell lung cancer SCLC is a major cause of cancer related morbidi
   and secondly to identify the affected genes.
 authors: Ashman JN, Brigham J, Cowen ME, Bahia H, Greenman J, Lind M, and Cawkwell
   L.
+cancertypes:
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
 contact:
   email: L.Cawkwell@hull.ac.uk
   name: L. Cawkwell

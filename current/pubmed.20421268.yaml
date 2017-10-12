@@ -7,6 +7,7 @@ abstract: Aberrant activation of tyrosine kinases, caused by either mutation or 
   neoplasms.
 authors: Ernst T, Chase A, Zoi K, Waghorn K, Hidalgo-Curtis C, Score J, Jones A, Grand
   F, Reiter A, Hochhaus A and Cross NC.
+cancertypes: []
 contact:
   email: ncpc@soton.ac.uk
   name: Nicholas Cross C. P.

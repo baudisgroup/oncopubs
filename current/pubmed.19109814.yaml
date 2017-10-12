@@ -6,6 +6,7 @@ abstract: Multiple myeloma MM is a neoplasm of malignant plasma cells that often
   artificial chromosome BAC array-comparative genomic hybridization CGH allows more
   sensitive detection of chromosomal abnormalities.
 authors: Lennon PA, Zhuang Y, Pierson D, Zhang X, Williams C, Perez C and Lin P.
+cancertypes: []
 contact:
   email: peilin@mdanderson.org
   name: Pei Lin

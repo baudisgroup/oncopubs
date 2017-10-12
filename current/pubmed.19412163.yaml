@@ -26,6 +26,56 @@ authors: Kato M, Sanada M, Kato I, Sato Y, Takita J, Takeuchi K, Niwa A, Chen Y,
   K, Nomoto J, Asakura Y, Muto S, Tamura A, Iio M, Akatsuka Y, Hayashi Y, Mori H,
   Igarashi T, Kurokawa M, Chiba S, Mori S, Ishikawa Y, Okamoto K, Tobinai K, Nakagama
   H, Nakahata T, Yoshino T, Kobayashi Y and Ogawa S.
+cancertypes:
+- term_id: ncit:C27824
+  term_label: ~
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:C8863
+  term_label: Nodal Marginal Zone Lymphoma
+- term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- term_id: ncit:C9357
+  term_label: Hodgkin Lymphoma
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9650_3
+  term_label: Hodgkin lymphoma, NOS
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-96503
+  term_label: Hodgkin lymphoma, NOS
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: sogawa-tky@umin.net
   name: Seishi Ogawa

@@ -6,6 +6,17 @@ abstract: Lung cancer causes approximately 1.2 million deaths per year worldwide
 authors: Gallegos Ruiz MI, Floor K, Roepman P, Rodriguez JA, Meijer GA, Mooi WJ, Jassem
   E, Niklinski J, Muley T, van Zandwijk N, Smit EF, Beebe K, Neckers L, Ylstra B and
   Giaccone G.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
 contact:
   email: giacconeg@mail.nih.gov
   name: Giuseppe Giaccone

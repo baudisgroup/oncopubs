@@ -19,6 +19,7 @@ abstract: Oligo-array comparative genomic hybridization CGH and gene-expression 
   neoplasms.
 authors: Karube K, Nakagawa M, Tsuzuki S, Takeuchi I, Honma K, Nakashima Y, Shimizu
   N, Ko YH, Morishima Y, Ohshima K, Nakamura S and Seto M.
+cancertypes: []
 contact:
   email: mseto@aichi-cc.jp
   name: Masao Seto

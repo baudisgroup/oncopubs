@@ -20,6 +20,17 @@ abstract: 'Chromosomal analysis of acute lymphoblastic leukemia ALL is often dif
   in ALL.'
 authors: Wong N, Chen SJ, Cao Q, Su XY, Niu C, Wu QW, Leung TW, Wickham N, Johnson
   PJ and Chen Z.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: natwong@cuhk.edu.hk
   name: Nathalie Wong

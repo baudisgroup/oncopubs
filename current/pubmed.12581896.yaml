@@ -20,6 +20,7 @@ abstract: Neuroblastoma is characterized by several distinct genetic alterations
   involve chromosome fragments replicating early in the S-phase.
 authors: Schleiermacher G, Janoueix-Lerosey I, Combaret V, Derre J, Couturier J, Aurias
   A and Delattre O.
+cancertypes: []
 contact:
   email: olivier.delattre@curie.fr
   name: Olivier Delattre

@@ -23,6 +23,23 @@ abstract: Salivary gland myoepithelial tumors are relatively uncommon tumors wit
   involved in the malignant phenotype of salivary gland myoepitheliomas.
 authors: Vekony H, Roser K, Loning T, Ylstra B, Meijer GA, van Wieringen WN, van de
   Wiel MA, Carvalho B, Kok K, Leemans CR, van der Waal I and Bloemena E.
+cancertypes:
+- term_id: ncit:C35700
+  term_label: Salivary Gland Myoepithelial Carcinoma
+- term_id: ncit:C35701
+  term_label: Salivary Gland Epithelial Myoepithelial Carcinoma
+- term_id: pgx:icdom:8562_3
+  term_label: Epithelial-myoepithelial carcinoma
+- term_id: pgx:icdom:8982_0
+  term_label: Myoepithelioma
+- term_id: pgx:icdot:C08.9
+  term_label: salivary gland, NOS
+- term_id: pgx:seer:20030
+  term_label: Salivary Gland
+- term_id: snmi:M-85623
+  term_label: Epithelial-myoepithelial carcinoma
+- term_id: snmi:M-89820
+  term_label: Myoepithelioma
 contact:
   email: ~
   name: ~

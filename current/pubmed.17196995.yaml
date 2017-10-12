@@ -19,6 +19,7 @@ abstract: In order to identify small regions of the genome whose specific copy n
   one-third of human colorectal carcinomas.
 authors: Bartos JD, Gaile DP, McQuaid DE, Conroy JM, Darbary H, Nowak NJ, Block A,
   Petrelli NJ, Mittelman A, Stoler DL and Anderson GR.
+cancertypes: []
 contact:
   email: garth.anderson@roswellpark.org
   name: Garth R. Anderson

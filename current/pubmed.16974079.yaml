@@ -22,6 +22,23 @@ abstract: The aim of the present study was to investigate chromosomal alteration
   The results of the CGH analysis identify specific chromosomal regions affected by
   copy number changes, appropriate objects for further genetic studies.
 authors: Levan K, Partheen K, Osterberg L, Helou K and Horvath G.
+cancertypes:
+- term_id: ncit:C3769
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8380_3
+  term_label: Endometrioid adenocarcinoma, NOS
+- term_id: pgx:icdom:8442_1
+  term_label: Serous cystadenoma, borderline malignancy
+- term_id: pgx:icdot:C55.9
+  term_label: Uterus, NOS
+- term_id: pgx:seer:27020
+  term_label: Corpus Uteri
+- term_id: snmi:M-83803
+  term_label: Endometrioid adenocarcinoma, NOS
+- term_id: snmi:M-84421
+  term_label: Serous cystadenoma, borderline malignancy
 contact:
   email: gyorgy.horvath@oncology.gu.se
   name: Gyorgy Horvath

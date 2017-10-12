@@ -27,6 +27,9 @@ abstract: Testicular germ cell tumors (TGCTs) account for 1-2% of all tumors in 
   and non-seminomatous tumors. These findings suggest the presence of de novo germline
   structural alterations and TGCT predisposition.
 authors: Silveira SM, da Cunha IW, Marchi FA, Busso AF, Lopes A and Rogatto SR
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: sara_martorelli@yahoo.com.brl
   name: ~

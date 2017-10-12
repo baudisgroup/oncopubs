@@ -26,6 +26,9 @@ abstract: "Esophageal squamous cell carcinoma (ESCC) is one of the most lethal c
   ESCC metastasis."
 authors: Dai W, Ko JMY, Choi SSA, Yu Z, Ning L, Zheng H, Gopalan V, Chan KT, Lee NP,
   Chan KW, Law SY, Lam AK, Lung ML.
+cancertypes:
+- term_id: seer:21010
+  term_label: Esophagus
 contact:
   email: ~
   name: Maria Li Lung

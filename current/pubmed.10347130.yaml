@@ -19,6 +19,17 @@ abstract: To elucidate cytogenetic alterations underlying human hepatocellular c
   to both HCV-positive and HBV-positive tumors, the process of carcinogenesis may
   be to some extent different between these two types of tumors.
 authors: Kusano N, Shiraishi K, Kubo K, Oga A, Okita K and Sasaki K.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: 2byouri@po.cc.yamaguchi-u.ac.jp
   name: Noriyoshi Kusano

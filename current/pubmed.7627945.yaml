@@ -17,6 +17,17 @@ abstract: Comparative genomic hybridization CGH represents a new technique for g
   These data suggest that CGH may prove a useful adjunct to conventional cytogenetic
   and molecular analysis of hematologic malignancies.
 authors: Nacheva E, Grace C, Holloway TL and Green AR.
+cancertypes:
+- term_id: ncit:C7171
+  term_label: Acute Monoblastic Leukemia
+- term_id: pgx:icdom:9891_3
+  term_label: Acute monocytic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35031
+  term_label: Acute Monocytic Leukemia
+- term_id: snmi:M-98913
+  term_label: Acute monocytic leukemia
 contact:
   email: ~
   name: ~

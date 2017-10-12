@@ -24,6 +24,7 @@ abstract: "Carcinoma of the oral tongue (OTSCC) is the most common malignancy of
 authors: Vettore AL, Ramnarayanan K, Poore G, Lim K, Ong CK, Huang KK, Leong HS, Chong
   FT, Lim TK, Lim WK, Cutcutache I, Mcpherson JR, Suzuki Y, Zhang S, Skanthakumar
   T, Wang W, Tan DS, Cho BC, Teh BT, Rozen S, Tan P and Iyer NG
+cancertypes: []
 contact:
   email: teh.bin.tean@singhealth.com.sg
   name: Bin Tean Teh

@@ -8,6 +8,7 @@ abstract: Multiple chromosome rearrangements MCRs are found in 5-10 of newly dia
   CGH to investigate further the resulting chromosome imbalances and rearrangements
   in AML and MDS bone marrow cells with MCRs.
 authors: Lindvall C, Nordenskjold M, Porwit A, Bjorkholm M and Blennow E.
+cancertypes: []
 contact:
   email: elisabeth.blennow@cmm.ki.se
   name: Elisabeth Blennow

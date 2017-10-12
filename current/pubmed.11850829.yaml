@@ -15,6 +15,27 @@ abstract: By using comparative genomic hybridization CGH , we characterized the 
   besides the two hits of the VHL gene.
 authors: Lui WO, Chen J, Glasker S, Bender BU, Madura C, Khoo SK, Kort E, Larsson
   C, Neumann HP and Teh BT.
+cancertypes:
+- term_id: ncit:C3326
+  term_label: Adrenal Gland Pheochromocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8700_0
+  term_label: Pheochromocytoma, NOS
+- term_id: pgx:icdom:9535_3
+  term_label: ~
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:icdot:C74
+  term_label: adrenal glands
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-87000
+  term_label: Pheochromocytoma, NOS
+- term_id: snmi:M-95353
+  term_label: ~
 contact:
   email: ~
   name: ~

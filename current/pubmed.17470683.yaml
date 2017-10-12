@@ -5,6 +5,19 @@ abstract: The prognosis of patients with esophageal carcinoma is poor. To identi
   genomic hybridization aCGH .
 authors: Hirasaki S, Noguchi T, Mimori K, Onuki J, Morita K, Inoue H, Sugihara K,
   Mori M and Hirano T.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: mmori@beppu.kyushu-u.ac.jp
   name: Masaki Mori

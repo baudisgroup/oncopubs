@@ -19,6 +19,17 @@ abstract: The cellular origin of the sarcomatous component of gliosarcomas is co
   itself.
 authors: Boerman RH, Anderl K, Herath J, Borell T, Johnson N, Schaeffer-Klein J, Kirchhof
   A, Raap AK, Scheithauer BW and Jenkins RB.
+cancertypes:
+- term_id: ncit:C3796
+  term_label: Gliosarcoma
+- term_id: pgx:icdom:9442_3
+  term_label: Gliosarcoma
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94423
+  term_label: Gliosarcoma
 contact:
   email: rjenkins@mayo.edu
   name: Robert B. Jenkins

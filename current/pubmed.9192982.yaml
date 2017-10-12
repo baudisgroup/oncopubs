@@ -18,6 +18,7 @@ abstract: Comparative genomic hybridization was applied to detect and map change
   ovarian carcinomas with different histological phenotypes suggests that various
   pathways may lead to tumorigenesis and or progression in these subgroups.
 authors: Tapper J, Butzow R, Wahlstrom T, Seppala M and Knuutila S.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

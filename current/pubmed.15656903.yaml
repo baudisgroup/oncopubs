@@ -8,6 +8,7 @@ abstract: Conventional Comparative Genomic Hybridization CGH has been widely use
   alterations and not gene amplifications.
 authors: Melendez B, Martinez-Delgado B, Cuadros M, Fernandez V, Diaz-Uriarte R and
   Benitez J.
+cancertypes: []
 contact:
   email: jbenitez@cnio.es
   name: Javier Benitez

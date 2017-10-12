@@ -3,6 +3,19 @@ abstract: ~
 authors: Pospisilova H, Baens M, Michaux L, Stul M, Van Hummelen P, Van Loo P, Vermeesch
   J, Jarosova M, Zemanova Z, Michalova K, Van den Berghe I, Alexander HD, Hagemeijer
   A, Vandenberghe P, Cools J, De Wolf-Peeters C, Marynen P and Wlodarska I
+cancertypes:
+- term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
 contact:
   email: Iwona.Wlodarska@uz.kuleuven.ac.be
   name: ~

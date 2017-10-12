@@ -25,6 +25,17 @@ abstract: 'PURPOSE: Class 1 phosphatidylinositol 3-kinase PI3K plays a major rol
 authors: Spoerke JM, OBrien C, Huw L, Koeppen H, Fridlyand J, Brachmann RK, Haverty
   PM, Pandita A, Mohan S, Sampath D, Friedman LS, Ross L, Hampton GM, Amler LC, Shames
   DS and Lackner MR.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
 contact:
   email: ~
   name: ~

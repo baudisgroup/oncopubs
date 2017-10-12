@@ -8,6 +8,7 @@ abstract: Excision repair cross-complementation group 1 ERCC1 is a protein invol
 authors: Friboulet L, Barrios-Gonzales D, Commo F, Olaussen KA, Vagner S, Adam J,
   Goubar A, Dorvault N, Lazar V, Job B, Besse B, Validire P, Girard P, Lacroix L,
   Hasmats J, Dufour F, Andre F and Soria JC.
+cancertypes: []
 contact:
   email: ~
   name: Jean-Charles Soria

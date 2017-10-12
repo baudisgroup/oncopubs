@@ -15,6 +15,7 @@ abstract: 'Comparative genomic hybridization CGH , using oligo arrays with eithe
   of both clinical diagnostics and genomic research in MPNs.'
 authors: Tefferi A, Sirhan S, Sun Y, Lasho T, Finke CM, Weisberger J, Bale S, Compton
   J, LeDuc CA, Pardanani A, Thorland EC, Shevchenko Y, Grodman M and Chung WK.
+cancertypes: []
 contact:
   email: tefferi.ayalew@mayo.edu
   name: Ayalew Tefferi

@@ -20,6 +20,7 @@ abstract: 'Comparative genomic hybridization was used to map copy number abnorma
   activation of telomerase during the development of cutaneous malignant melanoma.'
 authors: Pirker C, Holzmann K, Spiegl-Kreinecker S, Elbling L, Thallinger C, Pehamberger
   H, Micksche M and Berger W.
+cancertypes: []
 contact:
   email: walter.berger@univie.ac.at
   name: Walter Berger

@@ -19,6 +19,17 @@ abstract: Acute promyelocytic leukemia APL is characterized by the generation of
   fusion are necessary.
 authors: Chen H, Pan J, Yao L, Wu L, Zhu J, Wang W, Liu C, Han Q, Du G, Cen J, Xue
   Y, Wu D, Sun M and Chen S.
+cancertypes:
+- term_id: ncit:C3182
+  term_label: Acute Promyelocytic Leukemia with PML-RARA
+- term_id: pgx:icdom:9866_3
+  term_label: Acute promyelocytic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98663
+  term_label: Acute promyelocytic leukemia
 contact:
   email: ~
   name: Miao Sun

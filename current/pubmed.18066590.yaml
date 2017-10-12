@@ -24,6 +24,17 @@ abstract: 'We attempted to investigate the clinicopathological correlation of re
   oncocytic variant of papillary RCC, and granular variant of clear cell RCC.'
 authors: Hes O, Michal M, Sima R, Vanecek T, Brunelli M, Martignoni G, Kuroda N, Alvarado
   Cabrero I, Perez-Montiel D, Hora M, Urge T, Dvorak M, Jarosova M and Yang X.
+cancertypes:
+- term_id: ncit:C3759
+  term_label: ~
+- term_id: pgx:icdom:8290_0
+  term_label: Oxyphilic adenoma
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-82900
+  term_label: Oxyphilic adenoma
 contact:
   email: hes@medima.cz
   name: Ondrej Hes

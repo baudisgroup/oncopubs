@@ -18,6 +18,7 @@ abstract: Cutaneous squamous cell carcinoma SCC occurs commonly and can metastas
 authors: Sekulic A, Kim SY, Hostetter G, Savage S, Einspahr JG, Prasad A, Sagerman
   P, Curiel-Lewandrowski C, Krouse R, Bowden GT, Warneke J, Alberts DS, Pittelkow
   MR, DiCaudo D, Nickoloff BJ, Trent JM and Bittner M.
+cancertypes: []
 contact:
   email: mbittner@tgen.org
   name: Michael Bittner

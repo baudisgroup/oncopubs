@@ -21,6 +21,7 @@ abstract: Gastric cancer is one of the most common cancers. Molecular events in 
   play an important role in the development and progression of gastric cancer. Moreover,
   some genes on 20q and 18q might be target genes of gastric cancer.
 authors: Kimura Y, Noguchi T, Kawahara K, Kashima K, Daa T and Yokoyama S.
+cancertypes: []
 contact:
   email: kimuray@med.oita-u.ac.jp
   name: Yasuhiko Kimura

@@ -4,6 +4,17 @@ abstract: Malignant primitive neuroectodermal tumor PNET originating from the ov
   is to demonstrate the chromosomal abnormalities in a case of peripheral primitive
   neuroectodermal tumor PPNET arising from the ovary of a girl.
 authors: Chow SN, Lin MC, Shen J, Wang S, Jong YJ and Chien CH.
+cancertypes:
+- term_id: ncit:C9341
+  term_label: Peripheral Primitive Neuroectodermal Tumor
+- term_id: pgx:icdom:9364_3
+  term_label: Peripheral neuroectodermal tumor
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-93643
+  term_label: Peripheral neuroectodermal tumor
 contact:
   email: ~
   name: ~

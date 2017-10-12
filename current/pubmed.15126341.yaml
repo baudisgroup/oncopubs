@@ -23,6 +23,7 @@ abstract: Pancreatic carcinomas display highly complex chromosomal abnormalities
   to contain genes important in pancreatic tumorigenesis.
 authors: Heidenblad M, Schoenmakers EF, Jonson T, Gorunova L, Veltman JA, van Kessel
   AG and Hoglund M.
+cancertypes: []
 contact:
   email: markus.heidenblad@klingen.lu.se
   name: Markus Heidenblad

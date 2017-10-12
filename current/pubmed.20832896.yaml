@@ -21,6 +21,7 @@ abstract: The epidemiological relationship between squamous cell lung cancer SCC
 authors: Boelens MC, Gustafson AM, Postma DS, Kok K, van der Vries G, van der Vlies
   P, Spira A, Lenburg ME, Geerlings M, Sietsma H, Timens W, van den Berg A and Groen
   HJ.
+cancertypes: []
 contact:
   email: h.j.m.groen@long.umcg.nl
   name: Harry Groen

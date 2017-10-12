@@ -22,6 +22,7 @@ abstract: Cancer is a highly heterogeneous disease in terms of the genetic profi
   application in cancer because Bcl-2 is associated with apoptosis evasion and chemoresistance.
 authors: Olejniczak ET, Van Sant C, Anderson MG, Wang G, Tahir SK, Sauter G, Lesniewski
   R and Semizarov D.
+cancertypes: []
 contact:
   email: dimitri.semizarov@abbott.com
   name: Dimitri Semizarov

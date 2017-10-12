@@ -19,6 +19,7 @@ abstract: Glioblastoma GBM remains a highly lethal neoplasm, refractory to curre
   behavior in GBM. Loss of 19q may be a marker of long-term survival.
 authors: Burton EC, Lamborn KR, Feuerstein BG, Prados M, Scott J, Forsyth P, Passe
   S, Jenkins RB and Aldape KD.
+cancertypes: []
 contact:
   email: kaldape@mdanderson.org
   name: K. Aldape

@@ -19,6 +19,23 @@ abstract: Metaphase M- and array A- Comparative Genomic Hybridization CGH were u
 authors: Matteucci C, Barba G, Varasano E, Vitale A, Mancini M, Testoni N, Cuneo A,
   Rege-Cambrin G, Elia L, La Starza R, Pierini V, Brandimarte L, Vignetti M, Foa R
   and Mecucci C.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: crimecux@unipg.it
   name: Cristina Mecucci

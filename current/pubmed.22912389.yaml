@@ -9,6 +9,27 @@ authors: Wang ZC, Birkbak NJ, Culhane A, Drapkin RI, Fatima A, Tian R, Schwede M
   Alsop K, Daniels KE, Piao H, Liu J, Etemadmoghadam D, Miron A, Salvesen HB, Mitchell
   G, Defazio A, Quackenbush J, Berkowitz RS, Iglehart JD, Bowtell DD and Matulonis
   UA.
+cancertypes:
+- term_id: ncit:C3778
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
 contact:
   email: ~
   name: Dirk Iglehart

@@ -23,6 +23,7 @@ abstract: Rectal cancer response to chemoradiation CRT varies from no response t
   CNAs can help identify rectal cancer patients more likely to develop a pCR to CRT.
 authors: Chen Z, Liu Z, Li W, Qu K, Deng X, Varma MG, Fichera A, Pigazzi A and Garcia-Aguilar
   J.
+cancertypes: []
 contact:
   email: ~
   name: Julio Garcia-Aguilar

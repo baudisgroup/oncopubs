@@ -4,6 +4,17 @@ abstract: Little is known about the genetic changes associated with DNA ploidy i
   chromosomal regions of DNA sequence copy number aberrations DSCNAs that might harbor
   genes associated with DNA aneuploidy in GC.
 authors: Oga A, Kong G, Ishii Y, Izumi H, Park CY and Sasaki K.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
 contact:
   email: oga@po.cc.yamaguchi-u.ac.jp
   name: Atsunori Oga

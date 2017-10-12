@@ -4,6 +4,7 @@ abstract: Patients with advanced gastroesophageal cancer have poor survival with
   target, but the optimal HER2 testing strategy is not yet defined.
 authors: Tafe LJ, Janjigian YY, Zaidinski M, Hedvat CV, Hameed MR, Tang LH, Hicks
   JB, Shah MA and Barbashina V.
+cancertypes: []
 contact:
   email: ~
   name: Violetta Barbashina

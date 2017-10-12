@@ -11,6 +11,23 @@ abstract: Comparative genomic hybridization CGH was utilized to investigate gene
   first study showing specific alterations in choriocarcinomas by CGH, and illustrates
   the utility of this technique in elucidating genetic changes in gynecological tumors.
 authors: Ahmed MN, Kim K, Haddad B, Berchuck A, and Qumsiyeh MB.
+cancertypes:
+- term_id: ncit:C2948
+  term_label: Choriocarcinoma
+- term_id: ncit:C3110
+  term_label: ~
+- term_id: pgx:icdom:9100_0
+  term_label: Hydatidiform mole, NOS
+- term_id: pgx:icdom:9100_3
+  term_label: Choriocarcinoma, NOS
+- term_id: pgx:icdot:C58.9
+  term_label: placenta
+- term_id: pgx:seer:27070
+  term_label: Other Female Genital Organs
+- term_id: snmi:M-91000
+  term_label: Hydatidiform mole, NOS
+- term_id: snmi:M-91003
+  term_label: Choriocarcinoma, NOS
 contact:
   email: ~
   name: ~

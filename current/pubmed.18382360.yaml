@@ -23,6 +23,7 @@ abstract: Comparative genomic hybridization and fluorescence in situ hybridizati
   independent synchronous tumors in a same patient.
 authors: Prat E, Del Rey J, Camps J, Ponsa I, Lloreta J, Egozcue J, Gelabert A, Campillo
   M and Miro R.
+cancertypes: []
 contact:
   email: eprat@imim.es
   name: Esther Prat

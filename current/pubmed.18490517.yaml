@@ -17,6 +17,17 @@ abstract: Despite advances in the curative treatment of acute myeloid leukemia A
   mutation is a common event associated with relapse of AML.
 authors: Raghavan M, Smith LL, Lillington DM, Chaplin T, Kakkas I, Molloy G, Chelala
   C, Cazier JB, Cavenagh JD, Fitzgibbon J, Lister TA and Young BD.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: manoj.raghavan@cancer.org.uk
   name: Manoj Raghavan

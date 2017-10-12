@@ -14,6 +14,7 @@ abstract: Most cancer cells are characterized by aneuploidy, an abnormal number 
 authors: Solomon DA, Kim T, Diaz-Martinez LA, Fair J, Elkahloun AG, Harris BT, Toretsky
   JA, Rosenberg SA, Shukla N, Ladanyi M, Samuels Y, James CD, Yu H, Kim JS and Waldman
   T.
+cancertypes: []
 contact:
   email: ~
   name: ~

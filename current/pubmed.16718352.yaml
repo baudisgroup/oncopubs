@@ -16,6 +16,19 @@ abstract: Ependymoblastomas are very rare and highly malignant embryonal tumours
   months . Our CGH data suggest that ependymoblastomas show distinct and fairly consistent
   chromosomal aberrations.
 authors: Rickert CH and Hasselblatt M.
+cancertypes:
+- term_id: ncit:C4915
+  term_label: Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
+- term_id: pgx:icdom:9392_3
+  term_label: Ependymoma, anaplastic
+- term_id: pgx:icdot:C71.6
+  term_label: Cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93923
+  term_label: Ependymoma, anaplastic
 contact:
   email: christian.rickert@rch.org.au
   name: Christian Rickert

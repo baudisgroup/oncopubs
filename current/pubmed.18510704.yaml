@@ -13,6 +13,17 @@ abstract: B-cell lymphomas leukemias with simultaneous t 14 18 q32 q21 and MYC r
   located at chromosome 12p12.1.
 authors: Bostrom H, Leuchowius KJ, Hallbook H, Nordgren A, Thorn I, Thorselius M,
   Rosenquist R, Soderberg O and Sundstrom C.
+cancertypes:
+- term_id: ncit:C8644
+  term_label: B Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9826_3
+  term_label: Burkitt cell leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98263
+  term_label: Burkitt cell leukemia
 contact:
   email: hans.bostrom@genpat.uu.se
   name: Hans Bostrom

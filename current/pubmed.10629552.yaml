@@ -17,6 +17,7 @@ abstract: Invasive breast cancer shows a wide range of morphological differentia
   various evolutionary genetic pathways exist.
 authors: Buerger H, Otterbach F, Simon R, Schafer KL, Poremba C, Diallo R, Brinkschmidt
   C, Dockhorn-Dworniczak B and Boecker W.
+cancertypes: []
 contact:
   email: Werner.Boecker@uni-muenster.de
   name: Werner Boecker

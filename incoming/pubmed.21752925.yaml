@@ -20,6 +20,9 @@ abstract: DNA amplification, particularly of chromosomes 8 and 11, occurs freque
   of regions with key roles in breast tumorigenesis, particularly in subsets of breast
   cancers.
 authors: Guenthoer J, Diede SJ, Tanaka H, Chai X, Hsu L, Tapscott SJ, Porter PL.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: pporter@fhcrc.org
   name: ~

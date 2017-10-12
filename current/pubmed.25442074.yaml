@@ -27,6 +27,7 @@ abstract: Cytogenetic alterations are strong outcome prognosticators in uveal me
 authors: Minca EC, Tubbs RR, Portier BP, Wang Z, Lanigan C, Aronow ME, Triozzi PL,
   Singh A, Cook JR, Saunthararajah Y, Plesec TP, Schoenfield L, Cawich V, Sulpizio
   S and Schultz RA
+cancertypes: []
 contact:
   email: Roger.Schultz@PerkinElmer.com
   name: Roger Schultz

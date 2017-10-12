@@ -14,6 +14,7 @@ abstract: Endometrial carcinoma shows various histological types that differ in 
   pattern of genetic changes observed in uterine serous and endometrioid carcinomas
   suggests different pathways of carcinogenesis in these tumor types.
 authors: Pere H, Tapper J, Wahlstrom T, Knuutila S and Butzow R.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

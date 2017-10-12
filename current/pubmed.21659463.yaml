@@ -24,6 +24,7 @@ abstract: Pediatric glioblastoma pGBM , although rare, is one of the leading cau
 authors: Bielen A, Perryman L, Box GM, Valenti M, de Haven Brandon A, Martins V, Jury
   A, Popov S, Gowan S, Jeay S, Raynaud FI, Hofmann F, Hargrave D, Eccles SA and Jones
   C.
+cancertypes: []
 contact:
   email: ~
   name: ~

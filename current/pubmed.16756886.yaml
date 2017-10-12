@@ -21,6 +21,23 @@ abstract: Different subtypes of neuroblastoma NB carry associated genetic aberra
   criteria.
 authors: Noguera Salva R, Piqueras Franco M, Ruiz Sauri A, Llombart-Bosch A, Castel
   Sanchez V and Navarro Fos S.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: ncit:C3790
+  term_label: Ganglioneuroblastoma
+- term_id: pgx:icdom:9490_3
+  term_label: Ganglioneuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-94903
+  term_label: Ganglioneuroblastoma
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: rosa.noguera@uv.es
   name: Rosa Noguera Salva

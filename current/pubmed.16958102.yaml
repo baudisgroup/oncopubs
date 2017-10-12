@@ -20,6 +20,7 @@ abstract: 'The study of genomic alterations in neuroblastoma is of particular im
   since five patients showed a homozygous loss of this sequence.'
 authors: Spitz R, Oberthuer A, Zapatka M, Brors B, Hero B, Ernestus K, Oestreich J,
   Fischer M, Simon T and Berthold F.
+cancertypes: []
 contact:
   email: ruediger.spitz@uk-koeln.de
   name: Ruediger Spitz

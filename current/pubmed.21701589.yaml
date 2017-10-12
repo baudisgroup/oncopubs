@@ -24,6 +24,7 @@ abstract: It is well established that genomic alterations play an essential role
   findings could provide important insights into cancer pathways and mechanisms of
   resistance to anti-cancer therapies.
 authors: Chang H, Jackson DG, Kayne PS, Ross-Macdonald PB, Ryseck RP and Siemers NO.
+cancertypes: []
 contact:
   email: ~
   name: Han Chang

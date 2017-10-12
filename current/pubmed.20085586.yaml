@@ -23,6 +23,7 @@ abstract: Improved methods for predicting chemoresponsiveness involving the iden
   be further verified in a large cohort study.
 authors: Kim JC, Kim SY, Cho DH, Roh SA, Choi EY, Jo YK, Jung SH, Na YS, Kim TW and
   Kim YS.
+cancertypes: []
 contact:
   email: ~
   name: Yong Kim

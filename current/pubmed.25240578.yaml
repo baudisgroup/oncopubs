@@ -17,6 +17,7 @@ abstract: Pancreatic ductal adenocarcinoma PDAC is nearly uniformly lethal, with
   detection and minimal residual disease testing in FPC patients.
 authors: Norris AL, Roberts NJ, Jones S, Wheelan SJ, Papadopoulos N, Vogelstein B,
   Kinzler KW, Hruban RH, Klein AP and Eshleman JR.
+cancertypes: []
 contact:
   email: ~
   name: ~

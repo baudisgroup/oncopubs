@@ -12,6 +12,17 @@ abstract: The large cell LC subtype is a recently described histologic variant o
   amplification of N-myc and anonymous oncogenes at chromosome bands 2q12-22 and 17p11.
   These genomic abnormalities are uncommon in other subtypes of Mb.
 authors: Reardon DA, Jenkins JJ, Sublett JE, Burger PC and Kun LK.
+cancertypes:
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: reardd@mail.mmc.org
   name: David A. Reardon

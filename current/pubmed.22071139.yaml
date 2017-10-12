@@ -9,6 +9,17 @@ abstract: Older patients with AML have a worse outcome compared to young patient
   an indicator of a worse prognosis.
 authors: Koren-Michowitz M, Sato-Otsubo A, Nagler A, Haferlach T, Ogawa S and Koeffler
   HP.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: Maya Koren-Michowitz

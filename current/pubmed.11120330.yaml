@@ -12,6 +12,29 @@ abstract: 'Comparative genomic hybridization CGH has been applied to detect recu
   in this study provide candidate regions involved in gastric tumorigenesis.'
 authors: Guan XY, Fu SB, Xia JC, Fang Y, Sham JS, Du BD, Zhou H, Lu S, Wang BQ, Lin
   YZ, Liang Q, Li XM, Du B, Ning XM, Du JR, Li P and Trent JM.
+cancertypes:
+- term_id: ncit:C27825
+  term_label: ~
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3774
+  term_label: Signet Ring Cell Carcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8481_3
+  term_label: Mucin-producing adenocarcinoma
+- term_id: pgx:icdom:8490_3
+  term_label: Signet ring cell carcinoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-84813
+  term_label: Mucin-producing adenocarcinoma
+- term_id: snmi:M-84903
+  term_label: Signet ring cell carcinoma
 contact:
   email: ~
   name: ~

@@ -23,6 +23,17 @@ abstract: Several ETS transcription factors are involved in the pathogenesis of 
   repressor ETV3 and the androgen respondent ELK4.
 authors: Mesquita B, Lopes P, Rodrigues A, Pereira D, Afonso M, Leal C, Henrique R,
   Lind GE, Jeronimo C, Lothe RA and Teixeira MR.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: mteixeir@ipoporto.min-saude.pt
   name: Manuel R. Teixeira

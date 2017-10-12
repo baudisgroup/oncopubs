@@ -17,6 +17,7 @@ abstract: Gastric cancer is one of the most frequent malignancies in the world. 
   by DNA chromosomal aberrations.
 authors: Carvalho B, Buffart TE, Reis RM, Mons T, Moutinho C, Silva P, van Grieken
   NC, Grabsch H, van de Velde CJ, Ylstra B, Meijer GA and Carneiro F.
+cancertypes: []
 contact:
   email: b.carvalho@vumc.nl
   name: Beatriz Carvalho

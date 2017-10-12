@@ -15,6 +15,7 @@ abstract: A catalogue of molecular aberrations that cause ovarian cancer is crit
   that homologous recombination is defective in about half of the tumours analysed,
   and that NOTCH and FOXM1 signalling are involved in serous ovarian cancer pathophysiology.
 authors: The Cancer Genome Atlas Research Network
+cancertypes: []
 contact:
   email: spellmap@ohsu.edu
   name: Paul T. Spellman

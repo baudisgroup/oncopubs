@@ -26,6 +26,23 @@ abstract: 'Large congenital melanocytic nevi CMN are at an increased risk of dev
   cases.'
 authors: Bastian BC, Xiong J, Frieden IJ, Williams ML, Chou P, Busam K, Pinkel D and
   LeBoit PE.
+cancertypes:
+- term_id: ncit:C3074
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8720_0
+  term_label: Pigmented nevus, NOS
+- term_id: pgx:icdom:8761_0
+  term_label: Small congenital nevus
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87200
+  term_label: Pigmented nevus, NOS
+- term_id: snmi:M-87610
+  term_label: Small congenital nevus
 contact:
   email: bastian@cc.ucsf.edu
   name: Boris C. Bastian

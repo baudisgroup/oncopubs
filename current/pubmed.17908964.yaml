@@ -5,6 +5,7 @@ abstract: This study was designed to elucidate the role of amplification at 8q24
 authors: Guan Y, Kuo WL, Stilwell JL, Takano H, Lapuk AV, Fridlyand J, Mao JH, Yu
   M, Miller MA, Santos JL, Kalloger SE, Carlson JW, Ginzinger DG, Celniker SE, Mills
   GB, Huntsman DG and Gray JW.
+cancertypes: []
 contact:
   email: jwgray@lbl.gov
   name: Joe W. Gray

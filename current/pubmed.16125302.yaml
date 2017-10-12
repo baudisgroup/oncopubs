@@ -27,6 +27,23 @@ abstract: To identify chromosome alterations in Chinese bladder cancer, forty-si
   in the development and progression of Chinese bladder cancer.
 authors: Qin SL, Chen XJ, Xu X, Shou JZ, Bi XG, Ji L, Han YL, Cai Y, Wei F, Ma JH,
   Wu M, Zhan QM and Wang MR.
+cancertypes:
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: ncit:C4116
+  term_label: Stage 0 Transitional Cell Carcinoma
+- term_id: pgx:icdom:8120_2
+  term_label: Transitional cell carcinoma in situ
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81202
+  term_label: Transitional cell carcinoma in situ
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: wangmr04@126.com
   name: Ming-Rong Wang

@@ -26,6 +26,17 @@ abstract: Activating B-RAF V600E also known as BRAF kinase mutations occur in 7 
   reactivation of the MAPK pathway, suggesting additional therapeutic strategies.
 authors: Nazarian R, Shi H, Wang Q, Kong X, Koya RC, Lee H, Chen Z, Lee MK, Attar
   N, Sazegar H, Chodon T, Nelson SF, McArthur G, Sosman JA, Ribas A and Lo RS.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: ~
   name: Roger Lo

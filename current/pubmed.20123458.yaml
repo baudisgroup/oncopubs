@@ -12,6 +12,29 @@ abstract: Desmoplastic fibroma DF is a rare neoplasm of bone, showing infiltrati
   events and the histologic features of this case might represent the malignant transformation
   of DF.
 authors: Min HS, Kang HG, Lee JH, Lee GK and Ro JY.
+cancertypes:
+- term_id: ncit:C3740
+  term_label: ~
+- term_id: ncit:C4247
+  term_label: Undifferentiated Pleomorphic Sarcoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- term_id: pgx:icdom:8823_0
+  term_label: Desmoplastic fibroma
+- term_id: pgx:icdom:8830_3
+  term_label: Malignant fibrous histiocytoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
+- term_id: snmi:M-88230
+  term_label: Desmoplastic fibroma
+- term_id: snmi:M-88303
+  term_label: Malignant fibrous histiocytoma
 contact:
   email: jaero@tmhs.org
   name: Jae Ro

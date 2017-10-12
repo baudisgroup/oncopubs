@@ -22,6 +22,37 @@ abstract: Array comparative genomic hybridization aCGH is a powerful tool for de
   gliomas from FFPE tissues.
 authors: Mohapatra G, Engler DA, Starbuck KD, Kim JC, Bernay DC, Scangas GA, Rousseau
   A, Batchelor TT, Betensky RA and Louis DN.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
 contact:
   email: ~
   name: Gayatry Mohapatra

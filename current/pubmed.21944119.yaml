@@ -4,6 +4,7 @@ abstract: We identified regions of DNA copy number changes that are significantl
   cell carcinoma.
 authors: Sanjmyatav J, Junker K, Matthes S, Muehr M, Sava D, Sternal M, Wessendorf
   S, Kreuz M, Gajda M, Wunderlich H and Schwaenen C.
+cancertypes: []
 contact:
   email: ~
   name: Jimsgene Sanjmyatav

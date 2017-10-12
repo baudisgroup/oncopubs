@@ -11,6 +11,17 @@ abstract: Intrahepatic cholangiocarcinoma ICC arises from epithelial cells in th
   26 , 8p 26 , 9p 26 , and 17p 26 . Chromosomal aberrations identified in this study
   provide candidate regions involved in the tumorigenesis and progression of ICC.
 authors: Uhm KO, Park YN, Lee JY, Yoon DS and Park SH.
+cancertypes:
+- term_id: ncit:C27813
+  term_label: Bile Duct Adenocarcinoma
+- term_id: pgx:icdom:8160_3
+  term_label: Cholangiocarcinoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81603
+  term_label: Cholangiocarcinoma
 contact:
   email: parksh@korea.ac.kr
   name: Sun-Hwa Park

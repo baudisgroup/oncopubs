@@ -20,6 +20,53 @@ authors: Rausch T, Jones DT, Zapatka M, Stutz AM, Zichner T, Weischenfeldt J, Ja
   DM, Wasserman J, Jabado N, Fontebasso A, Bullinger L, Rucker FG, Dohner K, Dohner
   H, Koster J, Molenaar JJ, Versteeg R, Kool M, Tabori U, Malkin D, Korshunov A, Taylor
   MD, Lichter P, Pfister SM and Korbel JO.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C3359
+  term_label: Rhabdomyosarcoma
+- term_id: ncit:C3808
+  term_label: Rhabdoid Tumor
+- term_id: ncit:C9325
+  term_label: Adrenal Cortex Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8370_3
+  term_label: Adrenal cortical carcinoma
+- term_id: pgx:icdom:8900_3
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: pgx:icdom:8963_3
+  term_label: Malignant rhabdoid tumor
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-83703
+  term_label: Adrenal cortical carcinoma
+- term_id: snmi:M-89003
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: snmi:M-89633
+  term_label: Malignant rhabdoid tumor
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
 contact:
   email: ~
   name: ~

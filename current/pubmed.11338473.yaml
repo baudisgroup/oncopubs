@@ -13,6 +13,7 @@ abstract: Classification of preinvasive breast disease could be better founded u
   and apoptosis. These data may be used to refine existing classification schemes.
 authors: Buerger H, Mommers EC, Littmann R, Diallo R, Brinkschmidt C, Poremba C, Dockhorn-Dworniczak
   B, van Diest PJ and Bocker W.
+cancertypes: []
 contact:
   email: Werner.Boecker@uni-muenster.de
   name: Werner Boecker

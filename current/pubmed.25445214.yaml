@@ -22,6 +22,7 @@ abstract: PCR-based detection of minimal residual disease (MRD) in neuroblastoma
 authors: van Wezel EM, Zwijnenburg D, Zappeij-Kannegieter L, Bus E, van Noesel MM,
   Molenaar JJ, Versteeg R, Fiocco M, Caron HN, van der Schoot CE, Koster J and Tytgat
   GA
+cancertypes: []
 contact:
   email: ' g.a.tytgat@amc.uva.nl'
   name: GA Tytgat

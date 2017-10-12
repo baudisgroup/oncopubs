@@ -21,6 +21,7 @@ abstract: The expression of apurinic apyrimidinic exonuclease 1 APEX1 in tumors 
   osteosarcoma.
 authors: Yang J, Yang D, Cogdell D, Du X, Li H, Pang Y, Sun Y, Hu L, Sun B, Trent
   J, Chen K and Zhang W.
+cancertypes: []
 contact:
   email: wzhang@mdanderson.org
   name: Wei Zhang

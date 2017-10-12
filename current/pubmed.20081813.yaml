@@ -24,6 +24,7 @@ abstract: 'Recently, initial studies describing the use of multicolor fluorescen
   tool.'
 authors: Gaiser T, Kutzner H, Palmedo G, Siegelin MD, Wiesner T, Bruckner T, Hartschuh
   W, Enk AH and Becker MR.
+cancertypes: []
 contact:
   email: gaisert@mail.nih.gov
   name: Timo Gaiser

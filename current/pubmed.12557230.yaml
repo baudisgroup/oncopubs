@@ -18,6 +18,7 @@ abstract: Prostate cancer is one of the most commonly diagnosed cancers and the 
   regions identified in this study may be useful for distinguishing between organ-confined
   and locally advanced prostate tumors.
 authors: Chu LW, Troncoso P, Johnston DA and Liang JC.
+cancertypes: []
 contact:
   email: jliang@mdanderson.org
   name: Jan C. Liang

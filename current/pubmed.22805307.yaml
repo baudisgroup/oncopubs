@@ -17,6 +17,27 @@ abstract: The pituitary tumor transforming gene PTTG1 is a recently discovered o
   offer a novel therapeutic target of pathologic significance in this disease.
 authors: Wondergem B, Zhang Z, Huang D, Ong CK, Koeman J, Hof DV, Petillo D, Ooi A,
   Anema J, Lane B, Kahnoski RJ, Furge KA and Teh BT.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

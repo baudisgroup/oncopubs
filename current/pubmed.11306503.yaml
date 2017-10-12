@@ -24,6 +24,25 @@ abstract: 'The incidence of adenocarcinoma in Barretts esophagus has been increa
   might provide useful biomarkers for disease progression.'
 authors: Riegman PH, Vissers KJ, Alers JC, Geelen E, Hop WC, Tilanus HW and van Dekken
   H.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: H. van Dekken

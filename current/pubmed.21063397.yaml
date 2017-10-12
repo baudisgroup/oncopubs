@@ -4,6 +4,17 @@ abstract: The aim of this study is to find a novel molecular target based on chr
   a cancer testis antigen, LY6K, which is located on chromosome 8q24.3.
 authors: Matsuda R, Enokida H, Chiyomaru T, Kikkawa N, Sugimoto T, Kawakami K, Tatarano
   S, Yoshino H, Toki K, Uchida Y, Kawahara K, Nishiyama K, Seki N and Nakagawa M.
+cancertypes:
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~
   name: H Enokida

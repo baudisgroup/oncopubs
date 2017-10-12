@@ -12,6 +12,27 @@ abstract: Recent studies have shown a genetic influence on gene expression varia
   on DNA methylation. Furthermore, we showed that tissue types are important contributors
   of DNA methylation states.
 authors: Yang HH, Hu N, Wang C, Ding T, Dunn BK, Goldstein AM, Taylor PR and Lee MP.
+cancertypes:
+- term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ptaylor@mail.nih.gov
   name: Philip Taylor

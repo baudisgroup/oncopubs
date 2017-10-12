@@ -17,6 +17,7 @@ abstract: Genetic abnormalities were detected by comparative genomic hybridizati
 authors: Suehiro Y, Sakamoto M, Umayahara K, Iwabuchi H, Sakamoto H, Tanaka N, Takeshima
   N, Yamauchi K, Hasumi K, Akiya T, Sakunaga H, Muroya T, Numa F, Kato H, Tenjin Y
   and Sugishita T.
+cancertypes: []
 contact:
   email: ysuehiro@mail.goo.ne.jp
   name: Y. Suehiro

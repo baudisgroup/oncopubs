@@ -23,6 +23,19 @@ abstract: Many hereditary nonpolyposis colorectal cancers CRCs cannot be explain
   part, underlie the cancer risk in these families.
 authors: Middeldorp A, van Eijk R, Oosting J, Forte GI, van Puijenbroek M, van Nieuwenhuizen
   M, Corver WE, Ruano D, Caldes T, Wijnen J, Morreau H and van Wezel T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Tom van Wezel

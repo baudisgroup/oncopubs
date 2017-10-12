@@ -22,6 +22,7 @@ abstract: "Whole exome sequencing (WES) and RNA sequencing (RNA-Seq) are two mai
   \ Copyright Â© 2015 Elsevier Inc. All rights reserved."
 authors: O'Brien TD, Jia P, Xia J, Saxena U, Jin H, Vuong H, Kim P, Wang Q, Aryee
   MJ, Mino-Kenudson M, Engelman JA, Le LP, Iafrate AJ, Heist RS, Pao W and Zhao Z
+cancertypes: []
 contact:
   email: zhongming.zhao@vanderbilt.edu
   name: Zhongming Zhao

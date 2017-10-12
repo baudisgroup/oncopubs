@@ -15,6 +15,9 @@ abstract: Formalin fixed paraffin embedded (FFPE) tissues are a vast resource of
 authors: Holley T, Lenkiewicz E, Evers L, Tembe W, Ruiz C, Gsponer JR, Rentsch CA,
   Bubendorf L, Stapleton M, Amorese D, Legendre C, Cunliffe HE, McCullough AE, Pockaj
   B, Craig D, Carpten J, Von Hoff D, Iacobuzio-Donahue C, Barrett MT.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: barrett.michael@mayo.edu
   name: Michael Thomas Barrett

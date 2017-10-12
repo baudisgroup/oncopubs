@@ -5,6 +5,17 @@ abstract: Checkpoint kinase 2 CHEK2 is a moderate penetrance breast cancer risk 
   tumors of CHEK2 1100delC-mutation carriers.
 authors: Muranen TA, Greco D, Fagerholm R, Kilpivaara O, Kampjarvi K, Aittomaki K,
   Blomqvist C, Heikkila P, Borg A and Nevanlinna H.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: Heli.Nevanlinna@hus.fi
   name: Heli Nevanlinna

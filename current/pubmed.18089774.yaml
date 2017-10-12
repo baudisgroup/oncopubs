@@ -17,6 +17,7 @@ abstract: CpG island promoter hypermethylation of tumor suppressor genes is a co
   candidate genes in human cancer that might aid our understanding of the biology
   of the disease and be of potential translational use.
 authors: Jacinto FV, Ballestar E, Ropero S and Esteller M.
+cancertypes: []
 contact:
   email: mesteller@cnio.es
   name: Manel Esteller

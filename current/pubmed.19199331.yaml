@@ -20,6 +20,17 @@ abstract: Myxoinflammatory fibroblastic sarcoma MIFS is a low-grade malignant ne
   amplicon in 3p was seen in an IMFH.
 authors: Hallor KH, Sciot R, Staaf J, Heidenblad M, Rydholm A, Bauer HC, Astrom K,
   Domanski HA, Meis JM, Kindblom LG, Panagopoulos I, Mandahl N and Mertens F.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
 contact:
   email: Karolin.Hansen_Hallor@med.lu.se
   name: Karolin Hallor

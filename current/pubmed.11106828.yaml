@@ -11,6 +11,17 @@ abstract: Supernumerary rings in the context of a simple karyotype characterize 
   assumed to be composed of material from these respective chromosomes.
 authors: Mezzelani A, Sozzi G, Nessling M, Riva C, Della Torre G, Testi MA, Azzarelli
   A, Pierotti MA, Lichter P and Pilotti S.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
 contact:
   email: pilotti@istitutotumori.mi.it
   name: Silvana Pilotti

@@ -18,6 +18,25 @@ abstract: Twenty-five cases of B-cell precursor acute lymphoblastic leukaemia AL
   on chromosome translocation deletion events.
 authors: Lo KC, Chalker J, Strehl S, Neat M, Smith O, Dastugue N, Kearney L, Izraeli
   S, Kempski H and Cowell JK.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3170
+  term_label: Acute Megakaryoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9910_3
+  term_label: Acute megakaryoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-99103
+  term_label: Acute megakaryoblastic leukemia
 contact:
   email: jcowell@mcg.edu
   name: John K. Cowell

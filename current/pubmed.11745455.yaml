@@ -18,6 +18,7 @@ abstract: Comparative genomic hybridization CGH was used to screen for changes i
   metastases.
 authors: Aragane H, Sakakura C, Nakanishi M, Yasuoka R, Fujita Y, Taniguchi H, Hagiwara
   A, Yamaguchi T, Abe T, Inazawa J, and Yamagishi H.
+cancertypes: []
 contact:
   email: arakin@1surg.kpu-m.ac.jp
   name: Hideki Aragane

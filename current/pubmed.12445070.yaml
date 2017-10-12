@@ -3,6 +3,7 @@ abstract: Breast cancer has a high incidence and associated mortality rate, yet 
   is known of the sequence of genetic events that underlie the clinical course.
 authors: Hislop RG, Pratt N, Stocks SC, Steel CM, Sales M, Goudie D, Robertson A and
   Thompson AM.
+cancertypes: []
 contact:
   email: a.m.thompson@dundee.ac.uk
   name: A.M. Thompson

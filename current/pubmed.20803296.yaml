@@ -21,6 +21,7 @@ abstract: Dihydropyrimidine dehydrogenase DPD is the initial enzyme acting in th
 authors: van Kuilenburg AB, Meijer J, Mul AN, Meinsma R, Schmid V, Dobritzsch D, Hennekam
   RC, Mannens MM, Kiechle M, Etienne-Grimaldi MC, Klumpen HJ, Maring JG, Derleyn VA,
   Maartense E, Milano G, Vijzelaar R and Gross E.
+cancertypes: []
 contact:
   email: a.b.vanKuilenburg@amc.uva.nl
   name: Andre Kuilenburg

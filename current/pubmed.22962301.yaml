@@ -21,6 +21,27 @@ abstract: Germline mutations in the RET, SDHA, SDHAF2, SDHB, SDHC, SDHD, MAX, TM
 authors: Burnichon N, Buffet A, Parfait B, Letouzï¿½ E, Laurendeau I, Loriot C, Pasmant
   E, Abermil N, Valeyrie-Allanore L, Bertherat J, Amar L, Vidaud D, Favier J, Gimenez-Roqueplo
   AP.
+cancertypes:
+- term_id: ncit:C3308
+  term_label: Paraganglioma
+- term_id: ncit:C3326
+  term_label: Adrenal Gland Pheochromocytoma
+- term_id: pgx:icdom:8680_1
+  term_label: Paraganglioma, NOS
+- term_id: pgx:icdom:8700_0
+  term_label: Pheochromocytoma, NOS
+- term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- term_id: 'pgx:seer:'
+  term_label: ''
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: seer:32020
+  term_label: other endocrine including thymus
+- term_id: snmi:M-86801
+  term_label: Paraganglioma, NOS
+- term_id: snmi:M-87000
+  term_label: Pheochromocytoma, NOS
 contact:
   email: nelly.burnichon@inserm.fr
   name: Nelly Burnichon

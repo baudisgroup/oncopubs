@@ -16,6 +16,17 @@ abstract: Brain tumors are the most common solid tumors of childhood, accounting
   on 6q as their sole abnormalities. This is the first genomewide study to show this
   nonrandom pattern of genetic alteration in pilocytic astrocytomas.
 authors: Jones DT, Ichimura K, Liu L, Pearson DM, Plant K and Collins VP.
+cancertypes:
+- term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
 contact:
   email: davidjones@cantab.net
   name: David T. W. Jones

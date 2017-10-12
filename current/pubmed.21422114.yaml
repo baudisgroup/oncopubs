@@ -25,6 +25,39 @@ abstract: 'BACKGROUND: Alterations of the short arm of chromosome 12 12p occur i
   for prognostication in acute myeloid leukemia.'
 authors: Haferlach C, Bacher U, Kohlmann A, Schindela S, Alpermann T, Kern W, Schnittger
   S and Haferlach T.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C2862
+  term_label: Primary Myelofibrosis
+- term_id: ncit:C3178
+  term_label: Chronic Myelomonocytic Leukemia
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9945_3
+  term_label: Chronic myelomonocytic leukemia, NOS
+- term_id: pgx:icdom:9961_3
+  term_label: Primary myelofibrosis
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-99453
+  term_label: Chronic myelomonocytic leukemia, NOS
+- term_id: snmi:M-99613
+  term_label: Primary myelofibrosis
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: ~
   name: ~

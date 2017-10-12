@@ -5,6 +5,7 @@ abstract: The formation of fusion genes plays roles in both oncogenesis and evol
   copy number variant.
 authors: Chase A, Ernst T, Fiebig A, Collins A, Grand F, Erben P, Reiter A, Schreiber
   S and Cross NC.
+cancertypes: []
 contact:
   email: achase@soton.ac.uk
   name: Andrew Chase

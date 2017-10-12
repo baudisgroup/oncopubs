@@ -25,6 +25,7 @@ abstract: Testicular germ cell tumors of adolescents and adults TGCTs can be cla
 authors: de Jong J, Stoop H, Gillis AJ, Hersmus R, van Gurp RJ, van de Geijn GJ, van
   Drunen E, Beverloo HB, Schneider DT, Sherlock JK, Baeten J, Kitazawa S, van Zoelen
   EJ, van Roozendaal K, Oosterhuis JW and Looijenga LH.
+cancertypes: []
 contact:
   email: l.looijenga@erasmusmc.nl
   name: Leendert Looijenga

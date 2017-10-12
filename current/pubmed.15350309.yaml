@@ -8,6 +8,17 @@ abstract: There are very few studies reporting DNA copy number changes in fibroa
   reports on fibroadenomas.
 authors: Cavalli LR, Cornelio DA, Lima RS, Urban CA, Rone JD, Cavalli IJ and Haddad
   BR.
+cancertypes:
+- term_id: ncit:C3744
+  term_label: Breast Fibroadenoma
+- term_id: pgx:icdom:9010_0
+  term_label: Fibroadenoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-90100
+  term_label: Fibroadenoma, NOS
 contact:
   email: ~
   name: ~

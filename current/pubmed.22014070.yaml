@@ -9,6 +9,17 @@ abstract: Metastatic progression due to development or enrichment of therapy-res
   during chemotherapy.
 authors: Hjortland GO, Meza-Zepeda LA, Beiske K, Ree AH, Tveito S, Hoifodt H, Bohler
   PJ, Hole KH, Myklebost O, Fodstad O, Smeland S and Hovig E.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Geir Olav Hjortland

@@ -18,6 +18,23 @@ abstract: 'Twenty-six gastric carcinoma and matching normal tissue DNAs, which h
   carried out on 9 of the gastric carcinomas identified loss of chromosome 22 in 5
   of these tumors.'
 authors: Sud R, Wells D, Talbot IC and Delhanty JD.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
 contact:
   email: ~
   name: ~

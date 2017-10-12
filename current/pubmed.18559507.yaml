@@ -20,6 +20,19 @@ abstract: Recurrent genomic amplifications and deletions are frequently observed
   genes in regions of recurrent chromosomal aberration.
 authors: Hou Q, Wu YH, Grabsch H, Zhu Y, Leong SH, Ganesan K, Cross D, Tan LK, Tao
   J, Gopalakrishnan V, Tang BL, Kon OL and Tan P
+cancertypes:
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: gmstanp@nus.edu.sg
   name: '65-6-436-8345 '

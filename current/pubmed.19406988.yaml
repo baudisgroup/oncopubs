@@ -19,6 +19,19 @@ abstract: Precursor T-cell acute lymphoblastic leukemia T-ALL in children repres
 authors: Remke M, Pfister S, Kox C, Toedt G, Becker N, Benner A, Werft W, Breit S,
   Liu S, Engel F, Wittmann A, Zimmermann M, Stanulla M, Schrappe M, Ludwig WD, Bartram
   CR, Radlwimmer B, Muckenthaler MU, Lichter P and Kulozik AE.
+cancertypes:
+- term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: m.macleod@dkfz.de
   name: Peter Lichter

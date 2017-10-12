@@ -19,6 +19,17 @@ abstract: We describe amplification of the MYCC oncogene in a medulloblastoma wi
   which helps to ascertain the presence of gene amplification even without prior knowledge
   of the gene to be tested.
 authors: Jay V, Squire J, Bayani J, Alkhani AM, Rutka JT and Zielenska M.
+cancertypes:
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: vjay@sickkids.on.ca
   name: V. Jay

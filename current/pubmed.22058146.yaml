@@ -13,6 +13,7 @@ abstract: Oncomirs are microRNAs miRNA that acts as oncogenes or tumor suppresso
   utility as biomarkers or targets for drug development.
 authors: Li N, Kaur S, Greshock J, Lassus H, Zhong X, Wang Y, Leminen A, Shao Z, Hu
   X, Liang S, Katsaros D, Huang Q, Butzow R, Weber BL, Coukos G and Zhang L.
+cancertypes: []
 contact:
   email: linzhang@mail.med.upenn.edu
   name: Lin Zhang

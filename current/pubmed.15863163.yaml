@@ -5,6 +5,23 @@ abstract: Endometrial stromal sarcomas ESS are very rare neoplasms constituting 
   chromosomal aberrations with eventual correlation with histologic grades.
 authors: Halbwedl I, Ullmann R, Kremser ML, Man YG, Isadi-Moud N, Lax S, Denk H, Popper
   HH, Tavassoli FA and Moinfar F.
+cancertypes:
+- term_id: ncit:C4263
+  term_label: Low Grade Endometrioid Stromal Sarcoma
+- term_id: ncit:C8973
+  term_label: Endometrioid Stromal Sarcoma
+- term_id: pgx:icdom:8930_3
+  term_label: Endometrial stromal sarcoma, NOS
+- term_id: pgx:icdom:8931_3
+  term_label: Endometrial stromal sarcoma, low grade
+- term_id: pgx:icdot:C55.9
+  term_label: uterus, nos
+- term_id: pgx:seer:27030
+  term_label: Uterus, NOS
+- term_id: snmi:M-89303
+  term_label: Endometrial stromal sarcoma, NOS
+- term_id: snmi:M-89313
+  term_label: Endometrial stromal sarcoma, low grade
 contact:
   email: ~
   name: Farid Moinfar

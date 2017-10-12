@@ -24,6 +24,7 @@ abstract: Comparative genomic hybridization CGH was used to study genomic imbala
   from the oncogenetic and clinical aspects and in comparison with other reports.
 authors: Liehr T, Ries J, Wolff E, Fiedler W, Dahse R, Ernst G, Steininger H, Koscielny
   S, Girod S and Gebhart E.
+cancertypes: []
 contact:
   email: Thomas.Liehr@mti.uni-jena.de
   name: Thomas Liehr

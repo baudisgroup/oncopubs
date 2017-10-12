@@ -18,6 +18,17 @@ authors: Schwaenen C, Viardot A, Berger H, Barth TF, Bentink S, Dohner H, Enz M,
   AC, Hansmann ML, Hummel M, Kestler HA, Klapper W, Kreuz M, Lenze D, Loeffler M,
   Moller P, Muller-Hermelink HK, Ott G, Rosolowski M, Rosenwald A, Ruf S, Siebert
   R, Spang R, Stein H, Truemper L, Lichter P, Bentz M and Wessendorf S.
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: m.macleod@dkfz.de
   name: Peter Lichter

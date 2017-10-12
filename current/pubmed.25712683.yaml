@@ -25,6 +25,7 @@ abstract: "Although novel agents targeting the androgen-androgen receptor (AR) a
 authors: Azad AA, Volik SV, Wyatt AW, Haegert A, Le Bihan S, Bell RH, Anderson SA,
   McConeghy B, Shukin R, Bazov J, Youngren J, Paris P, Thomas G, Small EJ, Wang Y,
   Gleave ME, Collins CC and Chi KN
+cancertypes: []
 contact:
   email: kchi@bccancer.bc.ca
   name: Kim N. Chi

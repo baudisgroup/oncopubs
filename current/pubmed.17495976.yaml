@@ -16,6 +16,37 @@ abstract: Single-nucleotide polymorphism SNP array analysis was performed using 
   FL.
 authors: Fitzgibbon J, Iqbal S, Davies A, Oshea D, Carlotti E, Chaplin T, Matthews
   J, Raghavan M, Norton A, Lister TA and Young BD.
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: jude.   tzgibbon@cancer.org.uk
   name: Jude Fitzgibbon

@@ -3,6 +3,7 @@ abstract: Carcinoma of the prostate CaP is a serious health problem. The altered
   mechanisms that lead to this disease are poorly understood.
 authors: Watson SK, Woolcock BW, Fee JN, Bainbridge TC, Webber D, Kinahan TJ, Lam
   WL and Vielkind JR.
+cancertypes: []
 contact:
   email: jvielkin@bccrc.ca
   name: Juergen Vielkind

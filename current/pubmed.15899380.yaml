@@ -14,6 +14,17 @@ abstract: In order to characterize the chromosomal alterations in ameloblastomas
   in ameloblastomas, possibly being a predisposing factor to ameloblastoma tumorigenesis.
 authors: Toida M, Balazs M, Treszl A, Rakosy Z, Kato K, Yamazaki Y, Matsui T, Suwa
   T, Hatakeyama D, Makita H, Mori S, Yamashita T, Shibata T and Adany R.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9310_3
+  term_label: Ameloblastoma, malignant
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: snmi:M-93103
+  term_label: Ameloblastoma, malignant
 contact:
   email: toida@cc.gifu-u.ac.jp
   name: Makoto Toida

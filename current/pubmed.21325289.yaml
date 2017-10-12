@@ -6,6 +6,7 @@ abstract: Malignant peripheral nerve sheath tumors MPNST are highly aggressive s
 authors: Yu J, Deshmukh H, Payton JE, Dunham C, Scheithauer BW, Tihan T, Prayson RA,
   Guha A, Bridge JA, Ferner RE, Lindberg GM, Gutmann RJ, Emnett RJ, Salavaggione L,
   Gutmann DH, Nagarajan R, Watson MA and Perry A.
+cancertypes: []
 contact:
   email: Arie.Perry@ucsf.edu
   name: Arie Perry

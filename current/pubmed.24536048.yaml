@@ -23,6 +23,7 @@ abstract: 'BACKGROUND: Tumor recurrence remains the major clinical complication 
   risks for relapse.'
 authors: Domingues PH, Sousa P, Otero A, Goncalves JM, Ruiz L, de Oliveira C, Lopes
   MC, Orfao A and Tabernero MD.
+cancertypes: []
 contact:
   email: ~
   name: ~

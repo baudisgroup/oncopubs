@@ -15,6 +15,7 @@ abstract: Glioblastoma is the most common and aggressive primary brain cancer. R
   of the cancer cells to effect sustained tumor growth and malignant progression.
 authors: Tso CL, Shintaku P, Chen J, Liu Q, Liu J, Chen Z, Yoshimoto K, Mischel PS,
   Cloughesy TF, Liau LM and Nelson SF.
+cancertypes: []
 contact:
   email: snelson@ucla.edu
   name: Stanley F. Nelson

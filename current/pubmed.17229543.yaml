@@ -19,6 +19,7 @@ abstract: To identify DNA copy number changes that had a direct influence on mRN
   cdc16 domain family, member 1 TBC1D1 .
 authors: Yang S, Jeung HC, Jeong HJ, Choi YH, Kim JE, Jung JJ, Rha SY, Yang WI and
   Chung HC.
+cancertypes: []
 contact:
   email: unchung8@yumc.yonsei.ac.kr
   name: Hyun Cheol Chung

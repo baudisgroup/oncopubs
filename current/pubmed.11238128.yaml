@@ -22,6 +22,17 @@ abstract: 'Single-cell polymerase chain reaction PCR has been used as a tool to 
   lymphoma entity.'
 authors: Franke S, Wlodarska I, Maes B, Vandenberghe P, Delabie J, Hagemeijer A and
   De Wolf-Peeters C.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9659_3
+  term_label: Hodgkin lymphoma, nodular lymphocyte predominance
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- term_id: snmi:M-96593
+  term_label: Hodgkin lymphoma, nodular lymphocyte predominance
 contact:
   email: ~
   name: ~

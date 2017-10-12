@@ -24,6 +24,7 @@ authors: Lohr JG, Stojanov P, Lawrence MS, Auclair D, Chapuy B, Sougnez C, Cruz-
   A, Melendez-Zajgla J, Hern  ndez-Lemus E, Schwarz-Cruz y Celis A, Imaz-Rosshandler
   I, Ojesina AI, Jung J, Pedamallu CS, Lander ES, Habermann TM, Cerhan JR, Shipp MA,
   Getz G and Golub TR.
+cancertypes: []
 contact:
   email: ~
   name: ~

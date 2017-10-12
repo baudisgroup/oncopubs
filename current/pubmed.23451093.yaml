@@ -15,6 +15,17 @@ authors: Walter V, Yin X, Wilkerson MD, Cabanski CR, Zhao N, Du Y, Ang MK, Haywa
   MC, Salazar AH, Hoadley KA, Fritchie K, Sailey CJ, Weissler MC, Shockley WW, Zanation
   AM, Hackman T, Thorne LB, Funkhouser WD, Muldrew KL, Olshan AF, Randell SH, Wright
   FA, Shores CG and Hayes DN.
+cancertypes:
+- term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C10
+  term_label: oropharynx
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

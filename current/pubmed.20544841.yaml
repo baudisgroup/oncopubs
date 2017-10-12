@@ -17,6 +17,7 @@ abstract: A multiplatform approach, including conventional cytogenetic technique
 authors: Cheung KJ, Delaney A, Ben-Neriah S, Schein J, Lee T, Shah SP, Cheung D, Johnson
   NA, Mungall AJ, Telenius A, Lai B, Boyle M, Connors JM, Gascoyne RD, Marra MA and
   Horsman DE.
+cancertypes: []
 contact:
   email: kjcheungjr@bccancer.bc.ca
   name: K-John Cheung

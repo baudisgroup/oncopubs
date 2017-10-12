@@ -21,6 +21,9 @@ abstract: Neoadjuvant chemotherapy (NAC) is intensively used for the treatment o
   deletion MDR gene loci can be used as predictive marker for tumor response to NAC.
 authors: Litviakov NV, Cherdyntseva NV, Tsyganov MM, Slonimskaya EM, Ibragimova MK,
   Kazantseva PV, Kzhyshkowska J, Choinzonov EL.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: nvch@oncology.tomsk.ru
   name: Nadezhda V. Cherdyntseva

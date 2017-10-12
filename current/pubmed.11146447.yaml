@@ -21,6 +21,7 @@ abstract: The median survival for human malignant glioma patients treated with n
   growth rate, suggesting that cyclins activating cdc2, the dominant G2 M phase kinase,
   may play a role in glioma tumorigenes.
 authors: Weber RG, Rieger J, Naumann U, Lichter P and Weller M.
+cancertypes: []
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

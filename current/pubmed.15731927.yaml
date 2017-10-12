@@ -16,6 +16,29 @@ abstract: Merkel cell carcinoma was diagnosed in a 79-year-old Caucasian woman. 
   altered field was the reason for the development of the tonsillar cancer thus, it
   can be regarded pathogenetically as a second field tumour.
 authors: Nagy J, Feher LZ, Sonkodi I, Lesznyak J, Ivanyi B and Puskas LG.
+cancertypes:
+- term_id: ncit:C3692
+  term_label: Undifferentiated Carcinoma
+- term_id: ncit:C9231
+  term_label: Merkel Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8021_3
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: pgx:icdom:8247_3
+  term_label: Merkel cell carcinoma
+- term_id: pgx:icdot:C00.0
+  term_label: lip
+- term_id: pgx:icdot:C09
+  term_label: tonsil
+- term_id: pgx:seer:20010
+  term_label: Lip
+- term_id: pgx:seer:20070
+  term_label: Tonsil
+- term_id: snmi:M-80213
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: snmi:M-82473
+  term_label: Merkel cell carcinoma
 contact:
   email: ~
   name: ~

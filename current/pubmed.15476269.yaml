@@ -15,6 +15,17 @@ abstract: We performed comparative genomic hybridization CGH on 8 formalin-fixed
   9 seems to be restricted to SS and point to an important role for this aberration
   in the development of this tumour type.
 authors: Verdorfer I, Rogatsch H, Tzankov A, Steiner H and Mikuz G.
+cancertypes:
+- term_id: ncit:C39921
+  term_label: ~
+- term_id: pgx:icdom:9063_3
+  term_label: Spermatocytic seminoma
+- term_id: pgx:icdot:C62
+  term_label: testis
+- term_id: pgx:seer:28020
+  term_label: Testis
+- term_id: snmi:M-90633
+  term_label: Spermatocytic seminoma
 contact:
   email: Gregor.Mikuz@uibk.ac.at
   name: Gregor Mikuz

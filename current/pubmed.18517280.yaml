@@ -3,6 +3,29 @@ abstract: Deletion of the short arm of chromosome 3 3p deletion is a cytogenetic
   generally associated with clear cell renal cell carcinoma, the most aggressive form
   of renal epithelial tumor.
 authors: Gayrard N, Cacheux V, Iborra F, Mourad G and Argiles A.
+cancertypes:
+- term_id: ncit:C3759
+  term_label: ~
+- term_id: ncit:C3766
+  term_label: Clear Cell Adenocarcinoma
+- term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: pgx:icdom:8290_0
+  term_label: Oxyphilic adenoma
+- term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: snmi:M-82900
+  term_label: Oxyphilic adenoma
+- term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
 contact:
   email: nathalie.gayrard@montp.inserm.fr
   name: Nathalie Gayrard

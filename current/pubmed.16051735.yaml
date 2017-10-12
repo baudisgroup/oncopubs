@@ -21,6 +21,7 @@ abstract: Deletions of chromosome 8p are a recurrent event in B-cell non-Hodgkin
 authors: Rubio-Moscardo F, Blesa D, Mestre C, Siebert R, Balasas T, Benito A, Rosenwald
   A, Climent J, Martinez JI, Schilhabel M, Karran EL, Gesk S, Esteller M, deLeeuw
   R, Staudt LM, Fernandez-Luna JL, Pinkel D, Dyer MJ and Martinez-Climent JA.
+cancertypes: []
 contact:
   email: jamcliment@unav.es
   name: Jose A. Martinez-Climent

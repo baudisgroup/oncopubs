@@ -16,6 +16,7 @@ abstract: To identify oncogene amplification involved in ovarian carcinogenesis,
   gene amplification in human ovarian cancer.
 authors: Mayr D, Kanitz V, Anderegg B, Luthardt B, Engel J, Lohrs U, Amann G and Diebold
   J.
+cancertypes: []
 contact:
   email: doris.mayr@lrz.uni-muenchen.de
   name: Doris Mayr

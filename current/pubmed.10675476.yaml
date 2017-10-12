@@ -13,6 +13,31 @@ abstract: Comparative genomic hybridization CGH is a well established technique 
   information from 10 highly aberrant AML cases was obtained and confirmed by FISH
   on metaphase of the corresponding AML case.
 authors: Heller A, Chudoba I, Bleck C, Senger G, Claussen U and Liehr T.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C3250
+  term_label: Acute Myeloid Leukemia with Maturation
+- term_id: ncit:C34774
+  term_label: ~
+- term_id: pgx:icdom:9860_3
+  term_label: Myeloid leukemia, NOS
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9874_3
+  term_label: Acute myeloid leukemia with maturation
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-98603
+  term_label: Myeloid leukemia, NOS
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-98743
+  term_label: Acute myeloid leukemia with maturation
 contact:
   email: Thomas.Liehr@mti.uni-jena.de
   name: Thomas Liehr

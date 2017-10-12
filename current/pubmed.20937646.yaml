@@ -7,6 +7,7 @@ abstract: Tumors with homologous recombination deficiency HRD , such as BRCA1-as
   response.
 authors: Lips EH, Mulder L, Hannemann J, Laddach N, Vrancken Peeters MT, van de Vijver
   MJ, Wesseling J, Nederlof PM and Rodenhuis S.
+cancertypes: []
 contact:
   email: s.rodenhuis@nki.nl
   name: Sjoerd Rodenhuis

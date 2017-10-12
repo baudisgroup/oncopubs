@@ -23,6 +23,7 @@ abstract: A comparative genomic hybridization CGH approach provides identificati
   involved genes.
 authors: Bridge JA, Liu J, Weibolt V, Baker KS, Perry D, Kruger R, Qualman S, Barr
   F, Sorensen P, Triche T and Suijkerbuijk R.
+cancertypes: []
 contact:
   email: ~
   name: NA Bridge

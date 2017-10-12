@@ -22,6 +22,7 @@ abstract: 'Distinction of adrenocortical carcinoma from benign adrenocortical le
   tumors, and that genetic aberrations might provide useful markers for a better diagnostic
   differentiation.'
 authors: Dohna M, Reincke M, Mincheva A, Allolio B, Solinas-Toldo S and Lichter P.
+cancertypes: []
 contact:
   email: m.macleod@dkfz.de
   name: Peter Lichter

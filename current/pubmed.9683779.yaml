@@ -2,6 +2,9 @@
 abstract: ~
 authors: Verdorfer I, Culig Z, Hobisch A, Bartsch G, Hittmair A, Duba HC, and Erdel
   M.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: ~
   name: ~

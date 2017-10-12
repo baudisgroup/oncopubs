@@ -27,6 +27,27 @@ abstract: Esophageal squamous cell carcinoma SCC remains the leading cause of ca
   SCC and GCA.
 authors: Wang LD, Qin YR, Fan ZM, Kwong D, Guan XY, Tsao GS, Sham J, Li JL and Feng
   XS.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ldwang@zzu.edu.cn
   name: L.D. Wang

@@ -20,6 +20,7 @@ abstract: Bladder cancer is a common disease characterized by multiple recurrenc
   relevant AIs.
 authors: Koed K, Wiuf C, Christensen LL, Wikman FP, Zieger K, Moller K, von der Maase
   H and Orntoft TF.
+cancertypes: []
 contact:
   email: orntoft@kba.sks.au.dk
   name: Torben F. Orntoft

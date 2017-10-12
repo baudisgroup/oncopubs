@@ -18,6 +18,17 @@ abstract: Blue nevi are benign dermal melanocytic proliferations that can someti
   necessary to determine which aberrations are most informative for classification
   of these lesions.
 authors: Maize JC Jr, McCalmont TH, Carlson JA, Busam KJ, Kutzner H and Bastian BC.
+cancertypes:
+- term_id: ncit:C3074
+  term_label: ~
+- term_id: pgx:icdom:8720_0
+  term_label: Pigmented nevus, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87200
+  term_label: Pigmented nevus, NOS
 contact:
   email: jmaizejr@ameripath.com
   name: John C. Maize

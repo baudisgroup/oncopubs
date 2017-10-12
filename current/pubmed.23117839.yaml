@@ -19,6 +19,9 @@ abstract: Array Comparative Genomic Hybridization (aCGH) is a widely used techni
   or microarrays with a higher probe density.
 authors: Krijgsman O, Israeli D, van Essen HF, Eijk PP, Berens ML, Mellink CH, Nieuwint
   AW, Weiss MM, Steenbergen RD, Meijer GA and Ylstra B
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

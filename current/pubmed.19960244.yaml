@@ -20,6 +20,17 @@ authors: Waddell N, Arnold J, Cocciardi S, da Silva L, Marsh A, Riley J, Johnsto
   CN, Orloff M, Assie G, Eng C, Reid L, Keith P, Yan M, Fox S, Devilee P, Godwin AK,
   Hogervorst FB, Couch F, Grimmond S, Flanagan JM, Khanna K, Simpson PT, Lakhani SR
   and Chenevix-Trench G.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: georgia.trench@qimr.edu.au
   name: Georgia Chenevix-Trench

@@ -23,6 +23,25 @@ abstract: 'Primary diffuse large B-cell lymphomas of different immune-privileged
   apoptosis pathways.'
 authors: Booman M, Szuhai K, Rosenwald A, Hartmann E, Kluin-Nelemans H, de Jong D,
   Schuuring E and Kluin P.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C62
+  term_label: testis
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: ~
   name: ~

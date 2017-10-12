@@ -28,6 +28,21 @@ authors: Merino DM, Shlien A, Villani A, Pienkowska M, Mack S, Ramaswamy V, Shih
   Tatevossian R, Novokmet A, Choufani S, Dvir R, Ben-Arush M, Harris BT, Hwang EI,
   Lulla R, Pfister SM, Achatz MI, Jabado N, Finlay JL, Weksberg R, Bouffet E, Hawkins
   C, Taylor MD, Tabori U, Ellison DW, Gilbertson RJ, Malkin D.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:null
+  term_label: ~
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:null
+  term_label: 'null'
+- term_id: seer:31010
+  term_label: brain
+- term_id: snmi:M-null
+  term_label: ~
 contact:
   email: diana.merino@utoronto.ca
   name: Diana M Merino

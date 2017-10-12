@@ -6,6 +6,7 @@ abstract: Gastric cancer samples obtained by histologic macrodissection contain 
   cells from the same biopsies using laser-capture microdissection LCM were evaluated
   for their potential experimental biases.
 authors: Kim HK, Kim J, Korolevich S, Choi IJ, Kim CH, Munroe DJ and Green JE.
+cancertypes: []
 contact:
   email: ~
   name: Jeffrey Green

@@ -15,6 +15,7 @@ abstract: Lung carcinomas are represented by non-small-cell lung carcinomas NSCL
   as opposed to high-grade NE lung carcinomas suggest the existence of distinct tumorigenic
   pathways between these two major classes of lung tumors.
 authors: Michelland S, Gazzeri S, Brambilla E and Robert-Nicoud M.
+cancertypes: []
 contact:
   email: ~
   name: Sylvie Michelland

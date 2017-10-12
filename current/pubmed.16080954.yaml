@@ -12,6 +12,17 @@ abstract: Leiomyosarcomas LMS account for 10-20 of all soft tissue sarcomas. We 
   indicate that loss of 10q and gain of 5p are associated with an aggressive behavior
   of LMS. A larger series of cases is needed to confirm these results.
 authors: Hu J, Rao UN, Jasani S, Khanna V, Yaw K and Surti U.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
 contact:
   email: usurti@mail.magee.edu
   name: Urvashi Surti

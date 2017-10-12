@@ -20,6 +20,51 @@ abstract: The differential diagnosis of mesothelioma, primary adenocarcinomas an
   mesothelioma and lung carcinoma in a large proportion of the abnormal cases.
 authors: Bjorkqvist AM, Tammilehto L, Nordling S, Nurminen M, Anttila S, Mattson K
   and Knuutila S.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: ncit:C3780
+  term_label: Large Cell Carcinoma
+- term_id: ncit:C7985
+  term_label: Epithelioid Mesothelioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8012_3
+  term_label: Large cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdom:9052_3
+  term_label: Epithelioid mesothelioma, malignant
+- term_id: pgx:icdom:9053_3
+  term_label: Mesothelioma, biphasic, malignant
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-80123
+  term_label: Large cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
+- term_id: snmi:M-90523
+  term_label: Epithelioid mesothelioma, malignant
+- term_id: snmi:M-90533
+  term_label: Mesothelioma, biphasic, malignant
 contact:
   email: ~
   name: NA Knuutila

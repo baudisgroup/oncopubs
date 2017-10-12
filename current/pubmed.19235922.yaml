@@ -23,6 +23,7 @@ abstract: Rhabdomyosarcomas RMS are the most common pediatric soft tissue sarcom
   data from primary tumors.
 authors: Missiaglia E, Selfe J, Hamdi M, Williamson D, Schaaf G, Fang C, Koster J,
   Summersgill B, Messahel B, Versteeg R, Pritchard-Jones K, Kool M and Shipley J.
+cancertypes: []
 contact:
   email: janet.shipley@icr.ac.uk
   name: Janet Shipley

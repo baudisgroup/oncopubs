@@ -16,6 +16,7 @@ abstract: 'HER3 activating mutations have been shown in preclinical models to be
 authors: Bidard FC, Ng CK, Cottu P, Piscuoglio S, Escalup L, Sakr RA, Reyal F, Mariani
   P, Lim R, Wang L, Norton L, Servois V, Sigal B, Vincent-Salomon A, Weigelt B, Pierga
   JY and Reis-Filho JS
+cancertypes: []
 contact:
   email: fcbidard@curie.fr
   name: Francois-Clement Bidard

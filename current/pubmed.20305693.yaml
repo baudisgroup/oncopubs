@@ -19,6 +19,7 @@ abstract: 'Sporadic adrenocortical tumours are common, but their pathogenesis is
   and therapeutic targets.'
 authors: Szabo PM, Tamasi V, Molnar V, Andrasfalvy M, Tombol Z, Farkas R, Kovesdi
   K, Patocs A, Toth M, Szalai C, Falus A, Racz K and Igaz P.
+cancertypes: []
 contact:
   email: ~
   name: P Igaz

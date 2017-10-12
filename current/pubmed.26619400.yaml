@@ -24,6 +24,7 @@ abstract: Cancer is a disease of genome instability and genomic alterations; now
   heterogeneity.
 authors: Cao W, Wu W, Yan M, Tian F, Ma C, Zhang Q, Li X, Han P, Liu Z, Gu J and Biddle
   FG
+cancertypes: []
 contact:
   email: caoweiyu@hotmal.com
   name: W Cao

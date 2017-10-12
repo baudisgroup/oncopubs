@@ -25,6 +25,7 @@ abstract: "Chromosomal abnormalities are important in the diagnosis and prognosi
   Society."
 authors: Gronseth CM, McElhone SE, Storer BE, Kroeger KA, Sandhu V, Fero ML, Appelbaum
   FR, Estey EH and Fang M
+cancertypes: []
 contact:
   email: mfang@fhcrc.org
   name: Min Fang

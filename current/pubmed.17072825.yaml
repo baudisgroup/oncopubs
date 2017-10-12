@@ -23,6 +23,27 @@ abstract: Urothelial neoplasms in patients 19 years of age or younger are rare, 
   genetic instability in most cases.
 authors: Wild PJ, Giedl J, Stoehr R, Junker K, Boehm S, van Oers JM, Zwarthoff EC,
   Blaszyk H, Fine SW, Humphrey PA, Dehner LP, Amin MB, Epstein JI and Hartmann A.
+cancertypes:
+- term_id: ncit:C4122
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8130_1
+  term_label: Papillary transitional cell neoplasm of low malignant potential
+- term_id: pgx:icdom:8130_2
+  term_label: Papillary transitional cell carcinoma,  non-invasive
+- term_id: pgx:icdom:8130_3
+  term_label: Papillary transitional cell carcinoma
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81301
+  term_label: Papillary transitional cell neoplasm of low malignant potential
+- term_id: snmi:M-81302
+  term_label: Papillary transitional cell carcinoma,  non-invasive
+- term_id: snmi:M-81303
+  term_label: Papillary transitional cell carcinoma
 contact:
   email: amdt.hartmann@klinik.uni-r.de
   name: A. Hartmann

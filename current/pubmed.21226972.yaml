@@ -9,6 +9,17 @@ abstract: Infection with H. pylori is important in the etiology of gastric cance
   to support the African enigma hypothesis at the biological level.
 authors: Buffart TE, Louw M, van Grieken NC, Tijssen M, Carvalho B, Ylstra B, Grabsch
   H, Mulder CJ, van de Velde CJ, van der Merwe SW and Meijer GA.
+cancertypes:
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ga.meijer@vumc.nl
   name: Gerrit Meijer

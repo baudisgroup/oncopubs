@@ -6,6 +6,17 @@ abstract: The majority of cardiac atrial neoplasms represent benign myxomas. Rar
   and appropriate treatment of these neoplasms. Molecular investigation is critical
   to begin to catalogue genomic changes that correlate with these malignancies.
 authors: Schell AJ, Xu Y, Baetz T, Harrison K, Ropchan G, LeBrun D and Feilotter H.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C38.0
+  term_label: heart
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: feilotth@kgh.kari.net
   name: Harriet Feilotter

@@ -29,6 +29,9 @@ abstract: Metaplastic breast carcinoma is a rare and aggressive histologic type 
   cancers, and were not associated with a specific molecular or histologic subtype.
 authors: Weigelt B, Ng CK, Shen R, Popova T, Schizas M, Natrajan R, Mariani O, Stern
   MH, Norton L, Vincent-Salomon A, Reis-Filho JS.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: ~
   name: Charlotte KY Ng

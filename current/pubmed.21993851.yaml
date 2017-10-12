@@ -4,6 +4,7 @@ abstract: Gastric cancer is a leading cause of cancer-related mortality, and che
   in several cancer types, might represent a novel therapeutic target in gastric cancer.
 authors: Yan B, Yau EX, Samanta S, Ong CW, Yong KJ, Ng LK, Bhattacharya B, Lim KH,
   Soong R, Yeoh KG, Deng N, Tan P, Lam Y and Salto-Tellez M.
+cancertypes: []
 contact:
   email: ~
   name: Benedict Yan

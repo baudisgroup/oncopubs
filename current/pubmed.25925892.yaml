@@ -24,6 +24,7 @@ abstract: Malignant peripheral nerve sheath tumors (MPNSTs) occur at increased f
 authors: Hirbe A, Dahiya SM, Miller C, Li T, Fulton R, Zhang X, McDonald S, DeSchryver
   K, Duncavage E, Walrath J, Reilly KM, Abel HJ, Pekmezci M, Perry A, Ley TJ and Gutmann
   DH
+cancertypes: []
 contact:
   email: gutmannd@neuro.wustl.edu
   name: DH Guthmann

@@ -19,6 +19,7 @@ abstract: All colorectal cancer cell lines except RKO displayed active Î²-cate
   of chromosomal instability, Wnt signaling, and epigenetics.
 authors: Abdel-Rahman WM, Lotsari-Salomaa JE, Kaur S, Niskakoski A, Knuutila S, Jï¿½rvinen
   H, Mecklin JP and Peltomï¿½ki P
+cancertypes: []
 contact:
   email: whassan@sharjah.ac.ae
   name: Wael M. Abdel-Rahman

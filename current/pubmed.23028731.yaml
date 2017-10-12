@@ -16,6 +16,19 @@ abstract: Splenic marginal zone lymphoma (SMZL) is an indolent B-cell lymphoprol
   of 7q deletion.
 authors: Watkins AJ, Hamoudi RA, Zeng N, Yan Q, Huang Y, Liu H, Zhang J, Braggio E,
   Fonseca R, de Leval L, Isaacson PG, Wotherspoon A, McPhail ED, Dogan A and Du MQ
+cancertypes:
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
 contact:
   email: ~
   name: ~

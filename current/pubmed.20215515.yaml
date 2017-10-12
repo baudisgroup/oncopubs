@@ -10,6 +10,619 @@ abstract: In a genome-wide screen of 684 cancer cell lines, we identified homozy
 authors: Rothenberg SM, Mohapatra G, Rivera MN, Winokur D, Greninger P, Nitta M, Sadow
   PM, Sooriyakumar G, Brannigan BW, Ulman MJ, Perera RM, Wang R, Tam A, Ma XJ, Erlander
   M, Sgroi DC, Rocco JW, Lingen MW, Cohen EE, Louis DN, Settleman J and Haber DA.
+cancertypes:
+- term_id: ncit:C27380
+  term_label: Thyroid Gland Adenocarcinoma
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:C2923
+  term_label: Bronchioloalveolar Carcinoma
+- term_id: ncit:C2924
+  term_label: Ductal Breast Carcinoma In Situ
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: ncit:C2946
+  term_label: Chondrosarcoma
+- term_id: ncit:C2948
+  term_label: Choriocarcinoma
+- term_id: ncit:C3043
+  term_label: Fibrosarcoma
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C3084
+  term_label: Hemangioendothelioma
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: ncit:C3157
+  term_label: Leiomyoma
+- term_id: ncit:C3161
+  term_label: Leukemia
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3171
+  term_label: Acute Myeloid Leukemia
+- term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia BCR-ABL1 Positive
+- term_id: ncit:C3182
+  term_label: Acute Promyelocytic Leukemia with PML-RARA
+- term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- term_id: ncit:C3208
+  term_label: Lymphoma
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: ncit:C3242
+  term_label: Plasma Cell Myeloma
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C3359
+  term_label: Rhabdomyosarcoma
+- term_id: ncit:C3468
+  term_label: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+- term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- term_id: ncit:C3502
+  term_label: Thyroid Gland Follicular Adenoma
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: ncit:C3513
+  term_label: Esophageal Carcinoma
+- term_id: ncit:C3720
+  term_label: Anaplastic Large Cell Lymphoma
+- term_id: ncit:C3727
+  term_label: Adenosquamous Carcinoma
+- term_id: ncit:C3739
+  term_label: Benign Fibrous Histiocytoma
+- term_id: ncit:C3770
+  term_label: Pancreatic Neuroendocrine Carcinoma
+- term_id: ncit:C3774
+  term_label: Signet Ring Cell Carcinoma
+- term_id: ncit:C3808
+  term_label: Rhabdoid Tumor
+- term_id: ncit:C38661
+  term_label: Composite Lymphoma
+- term_id: ncit:C3878
+  term_label: Thyroid Gland Undifferentiated (Anaplastic) Carcinoma
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- term_id: ncit:C4025
+  term_label: Esophageal Adenocarcinoma
+- term_id: ncit:C4028
+  term_label: Cervical Squamous Cell Carcinoma, Not Otherwise Specified
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- term_id: ncit:C4041
+  term_label: Floor of Mouth Squamous Cell Carcinoma
+- term_id: ncit:C4130
+  term_label: ~
+- term_id: ncit:C4160
+  term_label: ~
+- term_id: ncit:C4199
+  term_label: Epithelial-Myoepithelial Carcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: ncit:C4450
+  term_label: Large Cell Lung Carcinoma
+- term_id: ncit:C4452
+  term_label: Lung Giant Cell Carcinoma
+- term_id: ncit:C45509
+  term_label: Fetal Lung Adenocarcinoma
+- term_id: ncit:C45544
+  term_label: Lung mucoepidermoid carcinoma
+- term_id: ncit:C4648
+  term_label: Tongue Squamous Cell Carcinoma
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: ncit:C4673
+  term_label: Acute Biphenotypic Leukemia
+- term_id: ncit:C4817
+  term_label: Ewing Sarcoma
+- term_id: ncit:C4819
+  term_label: Skin Squamous Cell Carcinoma
+- term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- term_id: ncit:C4872
+  term_label: Breast Carcinoma
+- term_id: ncit:C4878
+  term_label: Lung Carcinoma
+- term_id: ncit:C4908
+  term_label: Ovarian Carcinoma
+- term_id: ncit:C4912
+  term_label: Bladder Carcinoma
+- term_id: ncit:C5228
+  term_label: Ovarian Cystadenocarcinoma
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: ncit:C5474
+  term_label: Gastric Adenosquamous Carcinoma
+- term_id: ncit:C5650
+  term_label: Papillary Lung Adenocarcinoma
+- term_id: ncit:C66759
+  term_label: ~
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: ncit:C7355
+  term_label: Renal Pelvis Urothelial Carcinoma
+- term_id: ncit:C7359
+  term_label: Endometrial Adenocarcinoma
+- term_id: ncit:C7700
+  term_label: Ovarian Adenocarcinoma
+- term_id: ncit:C8054
+  term_label: Thyroid Gland Follicular Carcinoma
+- term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- term_id: ncit:C8591
+  term_label: Testicular Germ Cell Tumor
+- term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- term_id: ncit:C9145
+  term_label: Osteosarcoma
+- term_id: ncit:C9166
+  term_label: Gallbladder Adenocarcinoma
+- term_id: ncit:C9306
+  term_label: Soft Tissue Sarcoma
+- term_id: ncit:C9357
+  term_label: Hodgkin Lymphoma
+- term_id: ncit:C9383
+  term_label: Rectal Adenocarcinoma
+- term_id: ncit:C9384
+  term_label: Kidney Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8012_3
+  term_label: Large cell carcinoma, NOS
+- term_id: pgx:icdom:8021_3
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: pgx:icdom:8031_3
+  term_label: Giant cell carcinoma
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8150_3
+  term_label: Pancreatic endocrine tumor, malignant
+- term_id: pgx:icdom:8161_3
+  term_label: Bile duct cystadenocarcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdom:8254_3
+  term_label: Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
+- term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdom:8330_0
+  term_label: Follicular adenoma
+- term_id: pgx:icdom:8333_0
+  term_label: Microfollicular adenoma, NOS
+- term_id: pgx:icdom:8333_3
+  term_label: Fetal adenocarcinoma
+- term_id: pgx:icdom:8335_3
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: pgx:icdom:8382_3
+  term_label: Endometrioid adenocarcinoma, secretory variant
+- term_id: pgx:icdom:8430_3
+  term_label: Mucoepidermoid carcinoma
+- term_id: pgx:icdom:8440_3
+  term_label: Cystadenocarcinoma, NOS
+- term_id: pgx:icdom:8490_3
+  term_label: Signet ring cell carcinoma
+- term_id: pgx:icdom:8500_2
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8560_3
+  term_label: Adenosquamous carcinoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdom:8800_3
+  term_label: Sarcoma, NOS
+- term_id: pgx:icdom:8802_3
+  term_label: Giant cell sarcoma
+- term_id: pgx:icdom:8810_3
+  term_label: Fibrosarcoma, NOS
+- term_id: pgx:icdom:8830_0
+  term_label: Benign fibrous histiocytoma
+- term_id: pgx:icdom:8890_0
+  term_label: Leiomyoma, NOS
+- term_id: pgx:icdom:8891_0
+  term_label: Epithelioid leiomyoma
+- term_id: pgx:icdom:8900_3
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- term_id: pgx:icdom:8963_3
+  term_label: Malignant rhabdoid tumor
+- term_id: pgx:icdom:8982_0
+  term_label: Myoepithelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdom:9065_3
+  term_label: Germ cell tumor, nonseminomatous
+- term_id: pgx:icdom:9100_3
+  term_label: Choriocarcinoma, NOS
+- term_id: pgx:icdom:9130_3
+  term_label: Hemangioendothelioma, malignant
+- term_id: pgx:icdom:9180_3
+  term_label: Osteosarcoma, NOS
+- term_id: pgx:icdom:9220_3
+  term_label: Chondrosarcoma, NOS
+- term_id: pgx:icdom:9260_3
+  term_label: Ewing sarcoma
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdom:9590_3
+  term_label: Malignant lymphoma, NOS
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9596_3
+  term_label: Composite Hodgkin and non-Hodgkin lymphoma
+- term_id: pgx:icdom:9650_3
+  term_label: Hodgkin lymphoma, NOS
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdom:9714_3
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- term_id: pgx:icdom:9800_3
+  term_label: Leukemia, NOS
+- term_id: pgx:icdom:9805_3
+  term_label: Acute biphenotypic leukemia
+- term_id: pgx:icdom:9827_3
+  term_label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdom:9860_3
+  term_label: Myeloid leukemia, NOS
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: pgx:icdom:9866_3
+  term_label: Acute promyelocytic leukemia
+- term_id: pgx:icdot:C01
+  term_label: tongue
+- term_id: pgx:icdot:C04
+  term_label: floor of mouth
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:icdot:C23
+  term_label: gallbladder
+- term_id: pgx:icdot:C24
+  term_label: extrahepatic and unspecified bile ducts
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C41.9
+  term_label: bone, NOS
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, nos
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C51.0
+  term_label: vagina and labia
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:icdot:C55.9
+  term_label: uterus, nos
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C62
+  term_label: testis
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:icdot:C65
+  term_label: renal pelvis, ureter
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:icdot:C74
+  term_label: adrenal glands
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: 'pgx:seer:'
+  term_label: ''
+- term_id: pgx:seer:20020
+  term_label: Tongue
+- term_id: pgx:seer:20040
+  term_label: Floor of Mouth
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: pgx:seer:21080
+  term_label: Gallbladder
+- term_id: pgx:seer:21090
+  term_label: other biliary
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: pgx:seer:27030
+  term_label: Uterus, NOS
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: pgx:seer:27060
+  term_label: Vulva
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:28020
+  term_label: Testis
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: pgx:seer:35041
+  term_label: Other Acute Leukemia
+- term_id: pgx:seer:35043
+  term_label: Aleukemic, subleukemic and NOS
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-80123
+  term_label: Large cell carcinoma, NOS
+- term_id: snmi:M-80213
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: snmi:M-80313
+  term_label: Giant cell carcinoma
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81503
+  term_label: Pancreatic endocrine tumor, malignant
+- term_id: snmi:M-81613
+  term_label: Bile duct cystadenocarcinoma
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: snmi:M-82543
+  term_label: Bronchiolo-alveolar carcinoma, mixed mucinous and non-mucinous
+- term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
+- term_id: snmi:M-83300
+  term_label: Follicular adenoma
+- term_id: snmi:M-83330
+  term_label: Microfollicular adenoma, NOS
+- term_id: snmi:M-83333
+  term_label: Fetal adenocarcinoma
+- term_id: snmi:M-83353
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: snmi:M-83823
+  term_label: Endometrioid adenocarcinoma, secretory variant
+- term_id: snmi:M-84303
+  term_label: Mucoepidermoid carcinoma
+- term_id: snmi:M-84403
+  term_label: Cystadenocarcinoma, NOS
+- term_id: snmi:M-84903
+  term_label: Signet ring cell carcinoma
+- term_id: snmi:M-85002
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85603
+  term_label: Adenosquamous carcinoma
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
+- term_id: snmi:M-88003
+  term_label: Sarcoma, NOS
+- term_id: snmi:M-88023
+  term_label: Giant cell sarcoma
+- term_id: snmi:M-88103
+  term_label: Fibrosarcoma, NOS
+- term_id: snmi:M-88300
+  term_label: Benign fibrous histiocytoma
+- term_id: snmi:M-88900
+  term_label: Leiomyoma, NOS
+- term_id: snmi:M-88910
+  term_label: Epithelioid leiomyoma
+- term_id: snmi:M-89003
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
+- term_id: snmi:M-89633
+  term_label: Malignant rhabdoid tumor
+- term_id: snmi:M-89820
+  term_label: Myoepithelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
+- term_id: snmi:M-90653
+  term_label: Germ cell tumor, nonseminomatous
+- term_id: snmi:M-91003
+  term_label: Choriocarcinoma, NOS
+- term_id: snmi:M-91303
+  term_label: Hemangioendothelioma, malignant
+- term_id: snmi:M-91803
+  term_label: Osteosarcoma, NOS
+- term_id: snmi:M-92203
+  term_label: Chondrosarcoma, NOS
+- term_id: snmi:M-92603
+  term_label: Ewing sarcoma
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
+- term_id: snmi:M-95903
+  term_label: Malignant lymphoma, NOS
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-95963
+  term_label: Composite Hodgkin and non-Hodgkin lymphoma
+- term_id: snmi:M-96503
+  term_label: Hodgkin lymphoma, NOS
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: snmi:M-97143
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
+- term_id: snmi:M-98003
+  term_label: Leukemia, NOS
+- term_id: snmi:M-98053
+  term_label: Acute biphenotypic leukemia
+- term_id: snmi:M-98273
+  term_label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: snmi:M-98603
+  term_label: Myeloid leukemia, NOS
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: snmi:M-98663
+  term_label: Acute promyelocytic leukemia
 contact:
   email: ~
   name: ~

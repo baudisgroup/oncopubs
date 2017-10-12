@@ -16,6 +16,7 @@ authors: Cairo S, Armengol C, De Reynies A, Wei Y, Thomas E, Renard CA, Goga A, 
   G, Michiels JF, Hofman P, Arbez-Gindre F, Jouan H, Rousselet-Chapeau MC, Berrebi
   D, Marcellin L, Plenat F, Zachar D, Joubert M, Selves J, Pasquier D, Bioulac-Sage
   P, Grotzer M, Childs M, Fabre M and Buendia MA.
+cancertypes: []
 contact:
   email: mbuendia@pasteur.fr
   name: Marie-Annick Buendia

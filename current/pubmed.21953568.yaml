@@ -18,6 +18,7 @@ abstract: Myeloproliferative neoplasms MPN include polycythemia vera PV , essent
   can be detected by means of high-resolution SNP array analysis of granulocyte DNA.
 authors: Rumi E, Harutyunyan A, Elena C, Pietra D, Klampfl T, Bagienski K, Berg T,
   Casetti I, Pascutto C, Passamonti F, Kralovics R and Cazzola M.
+cancertypes: []
 contact:
   email: ~
   name: Elisa Rumi

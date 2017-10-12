@@ -5,6 +5,17 @@ abstract: Cancer genomes display characteristic patterns of chromosomal imbalanc
   chromosomal regions are of increasing importance in the diagnostic work-up of tumors.
 authors: Kumps C, Van Roy N, Heyrman L, Goossens D, Del-Favero J, Noguera R, Vandesompele
   J, Speleman F and De Preter K.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: Katleen De Preter

@@ -16,6 +16,17 @@ abstract: Borderline tumors of the ovary comprise 10-20 of all epithelial ovaria
   borderline ovarian tumors that may have the potential to progress and develop malignancy.
 authors: Osterberg L, Akeson M, Levan K, Partheen K, Zetterqvist BM, Brannstrom M
   and Horvath G.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8442_1
+  term_label: Serous cystadenoma, borderline malignancy
+- term_id: pgx:icdot:C56.9
+  term_label: Ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-84421
+  term_label: Serous cystadenoma, borderline malignancy
 contact:
   email: ~
   name: ~

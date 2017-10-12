@@ -16,6 +16,7 @@ abstract: Matching molecularly targeted therapies with cancer subtype-specific g
 authors: Sekulic A, Liang WS, Tembe W, Izatt T, Kruglyak S, Kiefer JA, Cuyugan L,
   Zismann V, Legendre C, Pittelkow MR, Gohmann JJ, De Castro FR, Trent J, Carpten
   J, Craig DW and McDaniel TK
+cancertypes: []
 contact:
   email: Sekulic.aleksandar@mayo.edu
   name: Aleksandar Sekulic

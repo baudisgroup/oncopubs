@@ -24,6 +24,7 @@ abstract: BACKGROUND:Colorectal cancer CRC is with approximately 1 million cases
 authors: Timmermann B, Kerick M, Roehr C, Fischer A, Isau M, Boerno ST, Wunderlich
   A, Barmeyer C, Seemann P, Koenig J, Lappe M, Kuss AW, Garshasbi M, Bertram L, Trappe
   K, Werber M, Herrmann BG, Zatloukal K, Lehrach H and Schweiger MR.
+cancertypes: []
 contact:
   email: ~
   name: ~

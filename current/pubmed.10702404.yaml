@@ -22,6 +22,23 @@ abstract: DNA copy number changes were investigated in 69 samples of schistosoma
   that these tumors have different genetic pathways.
 authors: El-Rifai W, Kamel D, Larramendy ML, Shoman S, Gad Y, Baithun S, El-Awady
   M, Eissa S, Khaled H, Soloneski S, Sheaff M and Knuutila S.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: wael.el-rifai@Vanderbilt.Edu
   name: W. El-Rifai

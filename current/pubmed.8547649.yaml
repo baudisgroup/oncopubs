@@ -23,6 +23,7 @@ abstract: Comparative genomic hybridization CGH analysis of DNA extracted from a
   features of the disease.
 authors: Houldsworth J, Mathew S, Rao PH, Dyomina K, Louie DC, Parsa N, Offit K and
   Chaganti RS.
+cancertypes: []
 contact:
   email: chagantr@mskcc.org
   name: Raju S.K. Chaganti

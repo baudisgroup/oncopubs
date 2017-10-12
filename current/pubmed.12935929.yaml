@@ -18,6 +18,23 @@ abstract: Cytogenetic and molecular cytogenetic analysis of 79 childhood acute l
   in 70 of cases no such cases were registered in the other group P amp lt 0.01 .
 authors: Jarosova M, Holzerova M, Mihal V, Lakoma I, Divoky V, Blazek B, Pospisilova
   D, Hajduch M, Novak Z, Dusek L, Koptikova J, Poulsen TS and Indrak K.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
 contact:
   email: marie.jarosova@fnol.cz
   name: Marie Jarosova

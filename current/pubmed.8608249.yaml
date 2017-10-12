@@ -11,6 +11,17 @@ abstract: Primary mediastinal thymic B-cell lymphoma is a high-grade non-Hodgkin
   associated with this lymphoma.
 authors: Joos S, Otano-Joos MI, Ziegler S, Bruderlein S, du Manoir S, Bentz M, Moller
   P and Lichter P.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9679_3
+  term_label: Mediastinal large B-cell lymphoma
+- term_id: pgx:icdot:C38
+  term_label: mediastinum
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96793
+  term_label: Mediastinal large B-cell lymphoma
 contact:
   email: s.joos@dkfz.de
   name: Stefan Joos

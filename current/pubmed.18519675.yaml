@@ -21,6 +21,29 @@ abstract: We applied whole-genome single-nucleotide polymorphism arrays to defin
   involved in EAC development.
 authors: Nancarrow DJ, Handoko HY, Smithers BM, Gotley DC, Drew PA, Watson DI, Clouston
   AD, Hayward NK and Whiteman DC.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C4025
+  term_label: Esophageal Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: derek.nancarrow@qimr.edu.au
   name: Derek Nancarrow

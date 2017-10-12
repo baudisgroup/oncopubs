@@ -21,6 +21,21 @@ abstract: 'In contrast to low-grade B-cell lymphomas originating in the gastroin
   with this tumor entity.'
 authors: Barth TF, Dohner H, Werner CA, Stilgenbauer S, Schlotter M, Pawlita M, Lichter
   P, Moller P and Bentz M.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C17
+  term_label: Small intestine
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: thomas.barth@medizin.uni-ulm.de
   name: Thomas Barth

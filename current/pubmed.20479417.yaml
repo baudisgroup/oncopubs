@@ -6,6 +6,29 @@ abstract: Medulloblastoma MB is the most common malignant brain tumor in childre
 authors: Korshunov A, Remke M, Werft W, Benner A, Ryzhova M, Witt H, Sturm D, Wittmann
   A, Schottler A, Felsberg J, Reifenberger G, Rutkowski S, Scheurlen W, Kulozik AE,
   von Deimling A, Lichter P and Pfister SM.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: s.p   ster@dkfz.de
   name: Stefan Pfister

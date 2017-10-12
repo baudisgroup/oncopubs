@@ -15,6 +15,7 @@ abstract: Aberrant expression of RNA-binding proteins has profound implications 
   other solid malignancies.
 authors: Qian J, Hassanein M, Hoeksema MD, Harris BK, Zou Y, Chen H, Lu P, Eisenberg
   R, Wang J, Espinosa A, Ji X, Harris FT, Rahman SM and Massion PP
+cancertypes: []
 contact:
   email: pierre.massion@vanderbilt.edu
   name: Pierre Massion

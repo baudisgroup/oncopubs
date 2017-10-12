@@ -26,6 +26,7 @@ authors: Link DC, Schuettpelz LG, Shen D, Wang J, Walter MJ, Kulkarni S, Payton 
   RH, Fulton LL, Delehaunty KD, Fronick CC, Appelbaum EL, Schmidt H, Abbott R, O'Laughlin
   M, Chen K, McLellan MD, Varghese N, Nagarajan R, Heath S, Graubert TA, Ding L, Ley
   TJ, Zambetti GP, Wilson RK and Mardis ER
+cancertypes: []
 contact:
   email: rwilson@wustl.edu
   name: Richard K Wilson

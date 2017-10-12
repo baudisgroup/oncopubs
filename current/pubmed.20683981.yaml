@@ -20,6 +20,7 @@ abstract: Array comparative genomic hybridization has increasingly become the st
 authors: Cottrell CE, Prior TW, Pyatt R, Astbury C, Reshmi S, Bartholomew D, Atkin
   J, Manickam K, Thrush DL, Pastore M, Mendell J, Tsao CY, Al-Dahhak R, Newmeyer A
   and Gastier-Foster JM.
+cancertypes: []
 contact:
   email: gastierj@chi.osu.edu
   name: Julie Gastier-Foster

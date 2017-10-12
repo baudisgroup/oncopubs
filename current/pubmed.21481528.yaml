@@ -17,6 +17,17 @@ abstract: One of the most common characteristic profiles of cancer is intratumor
   related to CSC-like molecules, as evidenced by accumulated genetic, transcriptional
   and gene products alterations in SP.
 authors: Choi YP, Shim HS, Gao MQ, Kang S and Cho NH.
+cancertypes:
+- term_id: ncit:C3776
+  term_label: ~
+- term_id: pgx:icdom:8470_3
+  term_label: Mucinous cystadenocarcinoma, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-84703
+  term_label: Mucinous cystadenocarcinoma, NOS
 contact:
   email: ~
   name: Nam Hoon Cho

@@ -20,6 +20,7 @@ abstract: Genomic analyses aimed at the detection of high-level DNA amplificatio
   genes in pancreatic cancer.
 authors: Holzmann K, Kohlhammer H, Schwaenen C, Wessendorf S, Kestler HA, Schwoerer
   A, Rau B, Radlwimmer B, Dohner H, Lichter P, Gress T and Bentz M.
+cancertypes: []
 contact:
   email: karlheinz.holzmann@medizin.uni-ulm.de
   name: Karlheinz Holzmann

@@ -10,6 +10,21 @@ abstract: Very little is known about genetic abnormalities involved in the devel
   abnormality was gain of 9q34.1-qter, which was present in three cases two adult
   and one paediatric .
 authors: Sanoudou D, Tingby O, Ferguson-Smith MA, Collins VP and Coleman N.
+cancertypes:
+- term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
 contact:
   email: ~
   name: Nicholas Coleman

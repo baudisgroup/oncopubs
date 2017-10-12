@@ -24,6 +24,7 @@ abstract: 'For a better understanding of genetic alterations in head and neck sq
   different subgroups of HNSCC.'
 authors: Huang Q, Yu GP, McCormick SA, Mo J, Datta B, Mahimkar M, Lazarus P, Schaffer
   AA, Desper R and Schantz SP.
+cancertypes: []
 contact:
   email: sschantz@nyee.edu
   name: Stimson P. Schantz

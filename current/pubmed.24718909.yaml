@@ -26,6 +26,7 @@ abstract: Circulating tumor cells (CTC) have been found in patients with metasta
   of systemic metastasis.  ï¿½ 2014 The American Association for Clinical Chemistry.
 authors: Chiu CG, Nakamura Y, Chong KK, Huang SK, Kawas NP, Triche T, Elashoff D,
   Kiyohara E, Irie RF, Morton DL and Hoon DS
+cancertypes: []
 contact:
   email: hoon@jwci.org
   name: Hoon, DS

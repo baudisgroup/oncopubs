@@ -16,6 +16,39 @@ abstract: 'To model the cytogenetic evolution in gastrointestinal stromal tumour
   understanding of the heterogeneous site-dependent biological behaviour of GISTs.'
 authors: Gunawan B, von Heydebreck A, Sander B, Schulten HJ, Haller F, Langer C, Armbrust
   T, Bollmann M, Gasparov S, Kovac D and Fuzesi L.
+cancertypes:
+- term_id: ncit:C27940
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8936_0
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: pgx:icdom:8936_1
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: Rectum
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-89360
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: snmi:M-89361
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: bastian.gunawan@med.uni-goettingen.de
   name: Bastian Gunawan

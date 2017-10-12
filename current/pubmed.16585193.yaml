@@ -22,6 +22,21 @@ abstract: Although neuroblastoma is characterized by numerous recurrent, large-s
   function for this gene.
 authors: Stallings RL, Nair P, Maris JM, Catchpoole D, McDermott M, OMeara A and Breatnach
   F.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: Stallings@uthscsa.edu
   name: Raymond L. Stallings

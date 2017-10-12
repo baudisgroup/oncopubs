@@ -19,6 +19,7 @@ abstract: Gastric adenocarcinoma is a malignant tumor with a high incidence and 
   a basis for searching new putative oncogenes and tumor suppressor genes involved
   in the development or progression of gastric adenocarcinoma.
 authors: Nessling M, Solinas-Toldo S, Wilgenbus KK, Borchard F and Lichter P.
+cancertypes: []
 contact:
   email: m.macleod@dkfz.de
   name: Peter Lichter

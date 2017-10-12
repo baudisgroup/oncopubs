@@ -15,6 +15,25 @@ abstract: Gastric cancer GCA displays a variety of genomic aberrations, includin
   suggest that DNA copy number changes may also occur in gastric cancers that show
   genomic stability in microsatellite analysis.
 authors: Vauhkonen H, Vauhkonen M, Sajantila A, Sipponen P and Knuutila S.
+cancertypes:
+- term_id: ncit:C9157
+  term_label: Gastric Intestinal Type Adenocarcinoma
+- term_id: ncit:C9159
+  term_label: Diffuse Gastric Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdom:8145_3
+  term_label: Carcinoma, diffuse type
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
+- term_id: snmi:M-81453
+  term_label: Carcinoma, diffuse type
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

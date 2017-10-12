@@ -23,6 +23,17 @@ authors: Mosca L, Musto P, Todoerti K, Barbieri M, Agnelli L, Fabris S, Tuana G,
   M, Bonaparte E, Sirchia SM, Grieco V, Bianchino G, DAuria F, Statuto T, Mazzoccoli
   C, De Luca L, Petrucci MT, Morabito F, Offidani M, Di Raimondo F, Falcone A, Caravita
   T, Omede P, Boccadoro M, Palumbo A and Neri A.
+cancertypes:
+- term_id: ncit:C3180
+  term_label: Plasma Cell Leukemia
+- term_id: pgx:icdom:9733_3
+  term_label: Plasma cell leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35043
+  term_label: Aleukemic, subleukemic and NOS
+- term_id: snmi:M-97333
+  term_label: Plasma cell leukemia
 contact:
   email: ~
   name: ~

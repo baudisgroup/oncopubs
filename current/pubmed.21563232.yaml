@@ -22,6 +22,7 @@ abstract: Identification and characterization of underlying genetic aberrations 
 authors: Huang J, Zhang L, Greshock J, Colligon TA, Wang Y, Ward R, Katsaros D, Lassus
   H, Butzow R, Godwin AK, Testa JR, Nathanson KL, Gimotty PA, Coukos G, Weber BL and
   Degenhardt Y.
+cancertypes: []
 contact:
   email: ~
   name: Yan Degenhardt

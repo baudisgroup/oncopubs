@@ -23,6 +23,17 @@ abstract: 'PURPOSE: Studies aimed at predicting individual responsiveness to pre
   cohorts.'
 authors: Kim JC, Ha YJ, Roh SA, Cho DH, Choi EY, Kim TW, Kim JH, Kang TW, Kim SY and
   Kim YS.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: ~
   name: ~

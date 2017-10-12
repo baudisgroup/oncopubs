@@ -23,6 +23,17 @@ abstract: Invasive micropapillary carcinoma IMC of the breast is a rare variant 
   pattern.
 authors: Thor AD, Eng C, Devries S, Paterakos M, Watkin WG, Edgerton S, Moore DH 2nd,
   Etzell J and Waldman FM.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8507_2
+  term_label: Intraductal micropapillary carcinoma
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85072
+  term_label: Intraductal micropapillary carcinoma
 contact:
   email: waldman@cc.ucsf.edu
   name: Frederic M. Waldman

@@ -5,6 +5,7 @@ abstract: In breast cancer, the basal-like subtype has high levels of genomic in
   genomic aberrations, as shown by a previously described micro-deletion event in
   the PTEN gene in the Basal-like SUM149 breast cancer cell line.
 authors: Chao HH, He X, Parker JS, Zhao W and Perou CM.
+cancertypes: []
 contact:
   email: ~
   name: ~

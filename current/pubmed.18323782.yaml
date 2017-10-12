@@ -15,6 +15,7 @@ abstract: Primary melanoma can recur at the excision site if not excised with a 
   cells provide a plausible explanation for the tendency of certain melanoma types
   to recur locally despite apparently having undergone complete excision.
 authors: North JP, Kageshita T, Pinkel D, LeBoit PE and Bastian BC.
+cancertypes: []
 contact:
   email: bastian@cc.ucsf.edu
   name: Boris C. Bastian

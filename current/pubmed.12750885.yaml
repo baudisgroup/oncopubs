@@ -16,6 +16,17 @@ abstract: 'We report the case of a 58-year-old man who presented with a squamous
   cell-cycle regulators revealed altered expression of checkpoint proteins, pointing
   to a complex disturbance in cell-cycle regulation.'
 authors: Schwerer MJ, Hemmer J, Kraft K, Maier H, Moller P and Barth TF.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C32
+  term_label: larynx
+- term_id: pgx:seer:22020
+  term_label: Larynx
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: thomas.barth@medizin.uni-ulm.de
   name: Thomas F. E. Barth

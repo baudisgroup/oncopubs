@@ -14,6 +14,17 @@ abstract: Molecular profiling of human cancer is complicated by both stromal con
   that is available for molecular profiling of human cancer and enable a more accurate
   diagnosis of genetic alterations in patient samples.
 authors: Boyd ZS, Raja R, Johnson S, Eberhard DA and Lackner MR.
+cancertypes:
+- term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Mark Lackner

@@ -17,6 +17,9 @@ abstract: Intratumoral heterogeneity hampers the success of marker-based antican
   success of precision medicine.
 authors: Kim KT, Lee HW, Lee HO, Song HJ, Jeong da E, Shin S, Kim H, Shin Y, Nam DH,
   Jeong BC, Kirsch DG, Joo KM, Park WY.
+cancertypes:
+- term_id: seer:29020
+  term_label: kidney and renal pelvis
 contact:
   email: woongyang.park@samsung.com
   name: Woong-Yang Park

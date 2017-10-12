@@ -15,6 +15,17 @@ abstract: Langerhans cell histiocytosis LCH is a disorder of unknown etiology th
   that the deleted chromosomal segments may contain genes important in LCH initiation
   and progression.
 authors: Murakami I, Gogusev J, Fournet JC, Glorion C and Jaubert F.
+cancertypes:
+- term_id: ncit:C3107
+  term_label: Langerhans Cell Histiocytosis
+- term_id: pgx:icdom:9751_1
+  term_label: Langerhans cell histiocytosis, NOS
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-97511
+  term_label: Langerhans cell histiocytosis, NOS
 contact:
   email: ~
   name: ~

@@ -17,6 +17,7 @@ abstract: Aggressive adult T-cell leukemia lymphoma ATLL such as acute and lymph
   subtypes, and thus may develop tumors via distinct genetic pathways.
 authors: Oshiro A, Tagawa H, Ohshima K, Karube K, Uike N, Tashiro Y, Utsunomiya A,
   Masuda M, Takasu N, Nakamura S, Morishima Y and Seto M.
+cancertypes: []
 contact:
   email: mseto@aichi-cc.jp
   name: Masao Seto

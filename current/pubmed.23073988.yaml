@@ -15,6 +15,7 @@ abstract: Translocations affecting chromosome subband 6p25.3 containing the IRF4
 authors: Salaverria I, Martin-Guerrero I, Burkhardt B, Kreuz M, Zenz T, Oschlies I,
   Arnold N, Baudis M, Bens S, Garcia-Orad A, Lisfeld J, Schwaenen C, Szczepanowski
   M, Wessendorf S, Pfreundschuh M, Trumper L, Klapper W and Siebert R.
+cancertypes: []
 contact:
   email: ISALAVER@clinic.ub.es
   name: Itziar Salaverria

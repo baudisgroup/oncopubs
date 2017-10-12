@@ -25,6 +25,9 @@ abstract: Lymph-node metastasis (LNM) predict high recurrence rates in breast ca
   to guide adjuvant systemic chemotherapy in breast cancer patients.
 authors: Vollebergh MA, Klijn C, Schouten PC, Wesseling J, Israeli D, Ylstra B, Wessels
   LF, Jonkers J, Linn SC.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: s.linn@nki.nl
   name: Sabine C. Linn

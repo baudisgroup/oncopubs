@@ -18,6 +18,17 @@ abstract: Splenic marginal zone lymphoma SMZL is a rare non-Hodgkins lymphoma th
   characterized by the presence of deletions in chromosome 7q31-32.
 authors: Boonstra R, Bosga-Bouwer A, van Imhoff GW, Krause V, Palmer M, Coupland RW,
   Dabbagh L, van den Berg E, van den Berg A and Poppema S.
+cancertypes:
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
 contact:
   email: ~
   name: ~

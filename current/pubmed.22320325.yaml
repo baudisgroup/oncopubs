@@ -22,6 +22,21 @@ abstract: The development of oral squamous cell carcinoma OSCC is a multistep pr
   the p53 system.
 authors: Kondo Y, Nagai K, Nakahata S, Saito Y, Ichikawa T, Suekane A, Taki T, Iwakawa
   R, Enari M, Taniwaki M, Yokota J, Sakoda S and Morishita K.
+cancertypes:
+- term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

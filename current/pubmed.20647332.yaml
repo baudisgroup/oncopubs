@@ -19,6 +19,7 @@ abstract: Barretts esophagus BE is a premalignant intermediate to esophageal ade
   and a potential biomarker of cancer risk.
 authors: Lai LA, Kostadinov R, Barrett MT, Peiffer DA, Pokholok D, Odze R, Sanchez
   CA, Maley CC, Reid BJ, Gunderson KL and Rabinovitch PS.
+cancertypes: []
 contact:
   email: ~
   name: Peter Rabinovitch

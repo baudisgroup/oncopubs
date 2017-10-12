@@ -23,6 +23,9 @@ abstract: To assess the possible existence of unbalanced chromosomal abnormaliti
   novel oncogenes or tumor suppressor genes. Clarifying the role of these genes will
   contribute to the understanding of leukemogenic network of AML-M5.
 authors: Zhang R, Lee JY, Wang X, Xu W, Hu X, Lu X, Niu Y, Tang R, Li S and Li Y
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: liyan2@medmail.com.cn
   name: ~

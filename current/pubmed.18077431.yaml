@@ -22,6 +22,53 @@ authors: Beroukhim R, Getz G, Nghiemphu L, Barretina J, Hsueh T, Linhart D, Viva
   S, Prensner J, Debiasi RM, Demichelis F, Hatton C, Rubin MA, Garraway LA, Nelson
   SF, Liau L, Mischel PS, Cloughesy TF, Meyerson M, Golub TA, Lander ES, Mellinghoff
   IK and Sellers WR.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: ncit:C4326
+  term_label: Anaplastic Oligodendroglioma
+- term_id: ncit:C9477
+  term_label: Anaplastic Astrocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
 contact:
   email: lander@broad.mit.edu
   name: Eric S. Lander

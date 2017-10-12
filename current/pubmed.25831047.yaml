@@ -17,6 +17,7 @@ abstract: Although ductal carcinoma in situ (DCIS) precedes invasive ductal carc
   DCIS at genomic level and should really be considered IDC. Finally, the data suggest
   that PR-negativity could be used to predict aggressive breast cancer genotypes.
 authors: Kim SY, Jung SH, Kim MS, Baek IP, Lee SH, Kim TM, Chung YJ and Lee SH
+cancertypes: []
 contact:
   email: ~
   name: ~

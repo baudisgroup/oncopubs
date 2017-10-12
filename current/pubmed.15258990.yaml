@@ -22,6 +22,7 @@ abstract: 'Analysis of cell lineage is based on the use of genetic markers inher
   consistent with the notion that the latter subgroup may derive from signet ring
   cell carcinoma and the former from tubular adenocarcinoma.'
 authors: Peng DF, Sugihara H, Mukaisho K, Ling ZQ and Hattori T.
+cancertypes: []
 contact:
   email: ~
   name: H. Sugihara

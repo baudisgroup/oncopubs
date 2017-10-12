@@ -5,6 +5,7 @@ abstract: High-resolution array comparative genomic hybridization aCGH is a meth
   leukemia CLL .
 authors: OMalley DP, Giudice C, Chang AS, Chang D, Barry TS, Hibbard MK, Chen R and
   Chen ST.
+cancertypes: []
 contact:
   email: ~
   name: Dennis O       Malley

@@ -8,6 +8,7 @@ abstract: 'Since multiple lung cancer treatment strategies differ, it is essenti
   we also examined synchronous double lung cancer clinical data.'
 authors: Arai J, Tsuchiya T, Oikawa M, Mochinaga K, Hayashi T, Yoshiura KI, Tsukamoto
   K, Yamasaki N, Matsumoto K, Miyazaki T and Nagayasu T.
+cancertypes: []
 contact:
   email: nagayasu@nagasaki-u.ac.jp
   name: Takeshi Nagayasu

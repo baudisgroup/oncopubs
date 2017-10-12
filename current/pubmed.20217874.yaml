@@ -20,6 +20,21 @@ abstract: Although genomic copy number aberrations CNAs of gastric carcinoma at 
 authors: Uchida M, Tsukamoto Y, Uchida T, Ishikawa Y, Nagai T, Hijiya N, Nguyen LT,
   Nakada C, Kuroda A, Okimoto T, Kodama M, Murakami K, Noguchi T, Matsuura K, Tanigawa
   M, Seto M, Ito H, Fujioka T, Takeuchi I and Moriyama M.
+cancertypes:
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_2
+  term_label: Adenocarcinoma in situ, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81402
+  term_label: Adenocarcinoma in situ, NOS
 contact:
   email: ~
   name: Yoshiyuki Tsukamoto

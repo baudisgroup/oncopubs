@@ -22,6 +22,17 @@ abstract: 'To identify genetic events that characterize cancer progression, we c
   into the genetic underpinnings of breast cancer progression.'
 authors: Kadota M, Sato M, Duncan B, Ooshima A, Yang HH, Diaz-Meyer N, Gere S, Kageyama
   S, Fukuoka J, Nagata T, Tsukada K, Dunn BK, Wakefield LM and Lee MP.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: leemax@mail.nih.gov
   name: Maxwell Lee

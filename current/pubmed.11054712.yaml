@@ -26,6 +26,17 @@ abstract: Gastric carcinogenesis is strongly associated with Helicobacter pylori
   clarification.
 authors: van Grieken NC, Weiss MM, Meijer GA, Hermsen MA, Scholte GH, Lindeman J,
   Craanen ME, Bloemena E, Meuwissen SG, Baak JP and Kuipers EJ.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: kuipers@azvu.nl
   name: Ernst J. Kuipers

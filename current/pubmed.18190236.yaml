@@ -24,6 +24,49 @@ abstract: 'The efficient detection of chromosomal aberrations in childhood acute
   AL.'
 authors: Vranova V, Mentzlova D, Oltova A, Linkova V, Zezulkova D, Filkova H, Mendelova
   D, Sterba J and Kuglik P.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:C3250
+  term_label: Acute Myeloid Leukemia with Maturation
+- term_id: ncit:C7171
+  term_label: Acute Monoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9833_3
+  term_label: Prolymphocytic leukemia, B-cell type
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdom:9874_3
+  term_label: Acute myeloid leukemia with maturation
+- term_id: pgx:icdom:9891_3
+  term_label: Acute monocytic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: pgx:seer:35013
+  term_label: Other Lymphocytic Leukemia
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35031
+  term_label: Acute Monocytic Leukemia
+- term_id: snmi:M-98333
+  term_label: Prolymphocytic leukemia, B-cell type
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: snmi:M-98743
+  term_label: Acute myeloid leukemia with maturation
+- term_id: snmi:M-98913
+  term_label: Acute monocytic leukemia
 contact:
   email: vlavra@yahoo.com
   name: Vladimira Vranova

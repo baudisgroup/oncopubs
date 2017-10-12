@@ -23,6 +23,7 @@ abstract: Adenoid cystic carcinoma AdCC is a rare form of triple-negative and ba
 authors: Wetterskog D, Lopez-Garcia MA, Lambros MB, AHern R, Geyer FC, Milanezi F,
   Cabral MC, Natrajan R, Gauthier A, Shiu KK, Orr N, Shousha S, Gatalica Z, Mackay
   A, Palacios J, Reis-Filho JS and Weigelt B.
+cancertypes: []
 contact:
   email: ~
   name: Britta Weigelt

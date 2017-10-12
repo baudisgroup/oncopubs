@@ -16,6 +16,27 @@ abstract: Prostate cancer is significantly more common in Western men than in As
 authors: Mao X, Yu Y, Boyd LK, Ren G, Lin D, Chaplin T, Kudahetti SC, Stankiewicz
   E, Xue L, Beltran L, Gupta M, Oliver RT, Lemoine NR, Berney DM, Young BD and Lu
   YJ.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: yong@icr.ac.uk
   name: Yong-Jie Lu

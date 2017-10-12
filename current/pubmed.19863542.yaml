@@ -18,6 +18,27 @@ abstract: Little is known about genomic aberrations in peripheral T cell lymphom
 authors: Hartmann S, Gesk S, Scholtysik R, Kreuz M, Bug S, Vater I, Doring C, Cogliatti
   S, Parrens M, Merlio JP, Kwiecinska A, Porwit A, Piccaluga PP, Pileri S, Hoefler
   G, Kuppers R, Siebert R and Hansmann ML.
+cancertypes:
+- term_id: ncit:C7204
+  term_label: T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9702_3
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-97023
+  term_label: Mature T-cell lymphoma, NOS
 contact:
   email: ~
   name: Sylvia Hartmann

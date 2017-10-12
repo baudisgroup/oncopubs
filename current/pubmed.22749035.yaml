@@ -18,6 +18,17 @@ abstract: Myeloproliferative neoplasms MPNs result from genetically altered hema
   of JAK2, the oncogenic property of HMGA2, and disrupted pathways, such as alteration
   in DJ-1 expression, resulting from the impact of EFCAB6 abrogation.
 authors: Martin SE, Sausen M, Joseph A, Kingham BF and Martin ES.
+cancertypes:
+- term_id: ncit:C4345
+  term_label: Myeloproliferative Neoplasm
+- term_id: pgx:icdom:9960_3
+  term_label: Myeloproliferative neoplasm, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99603
+  term_label: Myeloproliferative neoplasm, NOS
 contact:
   email: ~
   name: S. Eric Martin

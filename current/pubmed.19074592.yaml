@@ -19,6 +19,7 @@ abstract: Chromosome gains and losses used for risk stratification in chronic ly
   at target loci.
 authors: Sargent R, Jones D, Abruzzo LV, Yao H, Bonderover J, Cisneros M, Wierda WG,
   Keating MJ and Luthra R.
+cancertypes: []
 contact:
   email: rluthra@mdanderson.org
   name: Rajyalakshmi Luthra

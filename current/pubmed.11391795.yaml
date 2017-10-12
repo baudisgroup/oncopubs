@@ -22,6 +22,17 @@ abstract: T-cell prolymphocytic leukemia T-PLL is a rare malignant proliferation
   commonly found in other lymphoid malignancies.
 authors: Soulier J, Pierron G, Vecchione D, Garand R, Brizard F, Sigaux F, Stern MH
   and Aurias A.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9834_3
+  term_label: Prolymphocytic leukemia, T-cell type
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:35013
+  term_label: Other Lymphocytic Leukemia
+- term_id: snmi:M-98343
+  term_label: Prolymphocytic leukemia, T-cell type
 contact:
   email: jsoulier@chu-stlouis.fr
   name: Jean Soulier

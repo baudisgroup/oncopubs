@@ -10,6 +10,7 @@ abstract: We present a general method for rigorously identifying correlations be
   and also are applicable to the analysis of array-based expression data.
 authors: Jain AN, Chin K, Borresen-Dale AL, Erikstein BK, Eynstein Lonning P, Kaaresen
   R and Gray JW.
+cancertypes: []
 contact:
   email: jwgray@lbl.gov
   name: Joe W. Gray

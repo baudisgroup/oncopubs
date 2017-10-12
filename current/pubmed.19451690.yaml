@@ -26,6 +26,17 @@ authors: Sos ML, Michel K, Zander T, Weiss J, Frommolt P, Peifer M, Li D, Ullric
   Tolosi L, Rahnenfuhrer J, Verhaak R, Chiang D, Getz G, Hellmich M, Wolf J, Girard
   L, Peyton M, Weir BA, Chen TH, Greulich H, Barretina J, Shapiro GI, Garraway LA,
   Gazdar AF, Minna JD, Meyerson M, Wong KK and Thomas RK.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
 contact:
   email: roman.thomas@uni-koeln.de
   name: Roman Thomas

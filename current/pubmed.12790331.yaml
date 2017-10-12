@@ -20,6 +20,7 @@ abstract: 'The prognosis of renal cell carcinoma RCC varies dependent on histolo
   for a tumor typing especially when morphology is equivocal. Therefore, genetic analyses
   represent a powerful diagnostic and prognostic tool for RCC.'
 authors: Junker K, Weirich G, Amin MB, Moravek P, Hindermann W and Schubert J.
+cancertypes: []
 contact:
   email: kerstin.junker@med.uni-jena.de
   name: Kerstin Junker

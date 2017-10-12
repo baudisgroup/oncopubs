@@ -22,6 +22,23 @@ abstract: Nineteen benign World Health Organization WHO grade I MI , 21 atypical
   progression is proposed.
 authors: Weber RG, Bostrom J, Wolter M, Baudis M, Collins VP, Reifenberger G and Lichter
   P.
+cancertypes:
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: ncit:C4073
+  term_label: ~
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdom:9530_3
+  term_label: Meningioma, malignant
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
+- term_id: snmi:M-95303
+  term_label: Meningioma, malignant
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

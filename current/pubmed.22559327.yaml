@@ -4,6 +4,23 @@ abstract: To elucidate gene expression associated with copy number changes, we p
   tissues.
 authors: Cheng L, Wang P, Yang S, Yang Y, Zhang Q, Zhang W, Xiao H, Gao H and Zhang
   Q.
+cancertypes:
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:C65192
+  term_label: ~
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8211_3
+  term_label: Tubular adenocarcinoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-82113
+  term_label: Tubular adenocarcinoma
 contact:
   email: qingzh1987@yahoo.cn
   name: Qinghua Zhang

@@ -21,6 +21,27 @@ authors: Sturm D, Witt H, Hovestadt V, Khuong-Quang DA, Jones DT, Konermann C, P
   M, Klekner A, Bognar L, Morrissy S, Cavalli F, Taylor MD, van Sluis P, Koster J,
   Versteeg R, Volckmann R, Mikkelsen T, Aldape K, Reifenberger G, Collins VP, Majewski
   J, Korshunov A, Lichter P, Plass C, Jabado N and Pfister SM.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: Cerebrum
+- term_id: pgx:icdot:C71.5
+  term_label: Ventricle
+- term_id: pgx:icdot:C71.6
+  term_label: Cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ~
   name: ~

@@ -21,6 +21,9 @@ abstract: Advanced prostate cancer can progress to systemic metastatic tumors, w
 authors: Robbins CM, Tembe WA, Baker A, Sinari S, Moses TY, Beckstrom-Sternberg S,
   Beckstrom-Sternberg J, Barrett M, Long J, Chinnaiyan A, Lowey J, Suh E, Pearson
   JV, Craig DW, Agus DB, Pienta KJ and Carpten JD
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: jcarpten@tgen.org
   name: ~

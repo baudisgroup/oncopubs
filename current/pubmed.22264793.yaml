@@ -13,6 +13,17 @@ abstract: Constitutive NF-kappaB activation has causative roles in adult T cell 
 authors: Yamagishi M, Nakano K, Miyake A, Yamochi T, Kagami Y, Tsutsumi A, Matsuda
   Y, Sato-Otsubo A, Muto S, Utsunomiya A, Yamaguchi K, Uchimaru K, Ogawa S and Watanabe
   T.
+cancertypes:
+- term_id: ncit:C3468
+  term_label: Mature T-Cell and NK-Cell Non-Hodgkin Lymphoma
+- term_id: pgx:icdom:9827_3
+  term_label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35043
+  term_label: Aleukemic, subleukemic and NOS
+- term_id: snmi:M-98273
+  term_label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
 contact:
   email: ~
   name: ~

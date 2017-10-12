@@ -19,6 +19,29 @@ authors: Peï¿½a-Llopis S, Vega-Rubï¿½n-de-Celis S, Liao A, Leng N, Pavï¿
   S, Lotan Y, Margulis V, Sagalowsky AI, Summerour PB, Kabbani W, Wong SW, Grishin
   N, Laurent M, Xie XJ, Haudenschild CD, Ross MT, Bentley DR, Kapur P and Brugarolas
   J
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:29020
+  term_label: kidney and renal pelvis
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
 contact:
   email: james.brugarolas@utsouthwestern.edu
   name: Brugarolas, J

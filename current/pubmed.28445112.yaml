@@ -35,6 +35,9 @@ authors: Jamal-Hanjani M, Wilson GA, McGranahan N, Birkbak NJ, Watkins TBK, Veer
   Lowe HL, Hartley JA, Iles N, Bell H, Ngai Y, Shaw JA, Herrero J, Szallasi Z, Schwarz
   RF, Stewart A, Quezada SA, Le Quesne J, Van Loo P, Dive C, Hackshaw A, Swanton C,
   TRACERx Consortium.
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: charles.swanton@ crick.ac.uk
   name: Charles Swanton

@@ -5,6 +5,17 @@ abstract: Intra-tumour genetic heterogeneity has been reported in both leukaemia
   unknown.
 authors: Cooke SL, Temple J, Macarthur S, Zahra MA, Tan LT, Crawford RA, Ng CK, Jimenez-Linan
   M, Sala E and Brenton JD.
+cancertypes:
+- term_id: ncit:C4028
+  term_label: Cervical Squamous Cell Carcinoma, Not Otherwise Specified
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: james.brenton@cancer.org.uk
   name: James Brenton

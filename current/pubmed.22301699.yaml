@@ -22,6 +22,42 @@ abstract: Lymphoplasmacytic lymphomas and marginal zone lymphomas of nodal, extr
   therapeutic approaches.
 authors: Braggio E, Dogan A, Keats JJ, Chng WJ, Huang G, Matthews JM, Maurer MJ, Law
   ME, Bosler DS, Barrett M, Lossos IS, Witzig TE and Fonseca R
+cancertypes:
+- term_id: ncit:C3898
+  term_label: Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: ncit:C5264
+  term_label: Bronchial Mucosa-Associated Lymphoid Tissue Lymphoma
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: pgx:icdom:9671_3
+  term_label: Malignant lymphoma, lymphoplasmacytic
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdot:C08.9
+  term_label: salivary gland, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-96713
+  term_label: Malignant lymphoma, lymphoplasmacytic
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: ahmet.dogan@mayo.edu
   name: 1 507 538 4907

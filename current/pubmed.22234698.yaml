@@ -20,6 +20,17 @@ authors: Kuhn MW, Radtke I, Bullinger L, Goorha S, Cheng J, Edelmann J, Gohlke J
   Su X, Paschka P, Pounds S, Krauter J, Ganser A, Quessar A, Ribeiro R, Gaidzik VI,
   Shurtleff SA, Kronke J, Holzmann K, Ma J, Schlenk RF, Rubnitz JE, Dohner K, Dohner
   H and Downing JR.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: Hartmut Dohner

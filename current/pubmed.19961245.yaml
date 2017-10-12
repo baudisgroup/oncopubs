@@ -4,6 +4,17 @@ abstract: -Renal epithelial neoplasms have characteristic chromosomal imbalances
   polymorphism microarrays can be performed on formalin-fixed, paraffin-embedded tissue.
 authors: Monzon FA, Alvarez K, Gatalica Z, Bridge JA, Nelson M, Kim HJ and Hagenkord
   JM.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
 contact:
   email: famonzon@tmhs.org
   name: Federico Monzon

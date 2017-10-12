@@ -2,6 +2,7 @@
 abstract: Japanese and German breast cancer cases differ substantially in the frequency
   of egfr amplification.
 authors: Packeisen J, Nakachi K, Boecker W, Brandt B and Buerger H.
+cancertypes: []
 contact:
   email: burgerh@uni-muenster.de
   name: Horst Buerger

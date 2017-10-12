@@ -22,6 +22,17 @@ abstract: The search for oncogenes is becoming increasingly important in cancer 
 authors: Medina PP, Castillo SD, Blanco S, Sanz-Garcia M, Largo C, Alvarez S, Yokota
   J, Gonzalez-Neira A, Benitez J, Clevers HC, Cigudosa JC, Lazo PA and Sanchez-Cespedes
   M.
+cancertypes:
+- term_id: ncit:C4878
+  term_label: Lung Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: mscespedes@iconcologia.net
   name: Montse Sanchez-Cespedes

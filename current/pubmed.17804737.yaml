@@ -20,6 +20,17 @@ abstract: Integrative analysis of genomic aberrations in the context of trancrip
 authors: Kim JH, Dhanasekaran SM, Mehra R, Tomlins SA, Gu W, Yu J, Kumar-Sinha C,
   Cao X, Dash A, Wang L, Ghosh D, Shedden K, Montie JE, Rubin MA, Pienta KJ, Shah
   RB and Chinnaiyan AM.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: arul@umich.edu
   name: Arul M. Chinnaiyan

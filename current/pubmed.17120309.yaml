@@ -3,6 +3,17 @@ abstract: Frequent beta-catenin mutations have been detected in juvenile angiofi
   but the tumor pathogenesis remains unknown.
 authors: Schick B, Wemmert S, Bechtel U, Nicolai P, Hofmann T, Golabek W and Urbschat
   S.
+cancertypes:
+- term_id: ncit:C3799
+  term_label: Angiofibroma
+- term_id: pgx:icdom:9160_0
+  term_label: Angiofibroma, NOS
+- term_id: pgx:icdot:C30
+  term_label: nasal cavity including nasal cartilage
+- term_id: pgx:seer:22010
+  term_label: Nose, Nasal Cavity and Middle Ear
+- term_id: snmi:M-91600
+  term_label: Angiofibroma, NOS
 contact:
   email: bernhard.schick@hno.imed.uni-erlangen.de
   name: Bernhard Schick

@@ -21,6 +21,7 @@ abstract: 'Comparative genomic hybridization CGH was used to screen 54 advanced 
   parameters can be applied for the analysis of our CGH results.'
 authors: Knosel T, Petersen S, Schwabe H, Schluns K, Stein U, Schlag PM, Dietel M
   and Petersen I.
+cancertypes: []
 contact:
   email: ~
   name: NA Petersen

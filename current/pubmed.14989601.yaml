@@ -24,6 +24,33 @@ abstract: Loss of genetic material from the short arm of chromosome 1 and the lo
   of other abnormalities in the same experiment without the need for extensive chromosome
   or LOH analysis.
 authors: Cowell JK, Barnett GH and Nowak NJ.
+cancertypes:
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C3903
+  term_label: Mixed Glioma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: ncit:C4326
+  term_label: Anaplastic Oligodendroglioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
 contact:
   email: jcowell@mcg.edu
   name: John K. Cowell

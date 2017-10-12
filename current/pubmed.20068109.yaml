@@ -6,6 +6,17 @@ abstract: Several prognostic gene expression profiles have been identified in br
   progression and are also associated with changes in gene expression.
 authors: Horlings HM, Lai C, Nuyten DS, Halfwerk H, Kristel P, van Beers E, Joosse
   SA, Klijn C, Nederlof PM, Reinders MJ, Wessels LF and van de Vijver MJ.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: m.vd.vijver@nki.nl
   name: Marc van de Vijver

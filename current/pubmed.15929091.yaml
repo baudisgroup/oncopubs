@@ -19,6 +19,7 @@ abstract: 'Genomic alterations influencing the expression and or activity of tum
   this article can be found on the Genes, Chromosomes, and Cancer website at http:
   www.interscience.wiley.com jpages 1045-2257 suppmat index.html.'
 authors: Gysin S, Rickert P, Kastury K and McMahon M.
+cancertypes: []
 contact:
   email: mcmahon@cc.ucsf.edu
   name: M. McMahon

@@ -12,6 +12,33 @@ abstract: The DNA copy number changes were investigated in 13 malignant, 3 borde
   be involved in the regulation of differentiation or proliferation of such mesenchymal
   cells.
 authors: el-Rifai W, Sarlomo-Rikala M, Miettinen M, Knuutila S and Andersson LC.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8936_0
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: pgx:seer:21048
+  term_label: Sigmoid Colon
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89360
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: wael.el-rifai@Vanderbilt.Edu
   name: W. El-Rifai

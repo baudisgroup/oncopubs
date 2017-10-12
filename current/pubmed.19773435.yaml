@@ -23,6 +23,7 @@ abstract: IER3 formerly IEX-1 encodes a 27-kDa glycoprotein that regulates death
   involvement of IER3 in the pathobiology of MDS.
 authors: Steensma DP, Neiger JD, Porcher JC, Keats JJ, Bergsagel PL, Dennis TR, Knudson
   RA, Jenkins RB, Santana-Davila R, Kumar R and Ketterling RP.
+cancertypes: []
 contact:
   email: ~
   name: David P Steensma

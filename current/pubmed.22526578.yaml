@@ -20,6 +20,7 @@ abstract: Currently there is a lack of objective markers that can reliably diffe
   of changes associated with different tumour types. Further research with a larger
   sample and better quality DNA will clarify these findings.
 authors: Qureshi AA, Collins VP and Jani P.
+cancertypes: []
 contact:
   email: aa_qur@yahoo.co.uk
   name: Abdul Qureshi

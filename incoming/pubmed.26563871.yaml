@@ -22,6 +22,9 @@ abstract: "Recommendations by the International Society of Urologic Pathology an
   data set on prostate cancer to date, we demonstrate molecular support for this new
   five-tiered system."
 authors: Rubin MA, Girelli G, Demichelis F.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

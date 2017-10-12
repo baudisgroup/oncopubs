@@ -16,6 +16,23 @@ abstract: Medulloblastomas are highly malignant primitive neuroectodermal tumors
   previous CGH studies on medulloblastomas.
 authors: Gilhuis HJ, Anderl KL, Boerman RH, Jeuken JM, James CD, Raffel C, Scheithauer
   BW and Jenkins RB.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
 contact:
   email: ~
   name: ~

@@ -19,6 +19,7 @@ abstract: 'Three different cancers predominantly occur at the gastro-oesophageal
   the adenocarcinoma phenotype than the squamous origin of the epithelium.'
 authors: Weiss MM, Kuipers EJ, Hermsen MA, van Grieken NC, Offerhaus J, Baak JP, Meuwissen
   SG and Meijer GA.
+cancertypes: []
 contact:
   email: ga.meijer@vumc.nl
   name: Gerrit A. Meijer

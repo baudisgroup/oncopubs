@@ -3,6 +3,7 @@ abstract: To evaluate the clinical relevance of genomic aberrations in primary c
   large B-cell lymphoma PCLBCL .
 authors: Dijkman R, Tensen CP, Jordanova ES, Knijnenburg J, Hoefnagel JJ, Mulder AA,
   Rosenberg C, Raap AK, Willemze R, Szuhai K and Vermeer MH.
+cancertypes: []
 contact:
   email: ~
   name: ~

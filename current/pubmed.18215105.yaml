@@ -9,6 +9,17 @@ authors: Cloughesy TF, Yoshimoto K, Nghiemphu P, Brown K, Dang J, Zhu S, Hsueh T
   Chen Y, Wang W, Youngkin D, Liau L, Martin N, Becker D, Bergsneider M, Lai A, Green
   R, Oglesby T, Koleto M, Trent J, Horvath S, Mischel PS, Mellinghoff IK and Sawyers
   CL.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: sawyersc@mskcc. org
   name: Charles Sawyers

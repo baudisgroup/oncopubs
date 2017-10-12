@@ -18,6 +18,9 @@ abstract: Recent evidence indicates that melanoma comprises distinct types of tu
   article is protected by copyright. All rights reserved.
 authors: Gandolfi G, Longo C, Moscarella E, Zalaudek I, Sancisi V, Raucci M, Manzotti
   G, Gugnoni M, Piana S, Argenziano G and Ciarrocchi A
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: 'Alessia.Ciarrocchi@asmn.re.it '
   name: Alessia Ciarrocchi

@@ -27,6 +27,9 @@ authors: Emmanuel C, Chiew YE, George J, Etemadmoghadam D, Anglesio MS, Sharma R
   R, MacConaill L, Palescandolo E, Hunter SM, Campbell I, Dobrovic A, Wong SQ, Do
   H, Clarke CL, Harnett PR, Bowtell DD, deFazio A, Australian Ovarian Cancer Study
   (AOCS).
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: anna.defazio@sydney.edu.au
   name: ~

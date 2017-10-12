@@ -19,6 +19,7 @@ abstract: 'Both ulcerative colitis UC -related and sporadic colorectal cancers a
   may follow multiple pathways.'
 authors: Aust DE, Willenbucher RF, Terdiman JP, Ferrell LD, Chang CG, Moore DHn, Molinaro-Clark
   A, Baretton GB, Loehrs U, and Waldman FM.
+cancertypes: []
 contact:
   email: waldman@cc.ucsf.edu
   name: Frederic M. Waldman

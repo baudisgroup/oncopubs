@@ -4,6 +4,25 @@ abstract: It is unclear whether genomic derangement precedes the histological de
   aim of this study was to determine if chromosomal alterations occur early in the
   progression pathway of UC-related neoplasia.
 authors: Willenbucher RF, Zelman SJ, Ferrell LD, Moore DH 2nd and Waldman FM.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: waldman@cc.ucsf.edu
   name: Frederic M. Waldman

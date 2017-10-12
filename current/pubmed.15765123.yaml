@@ -28,6 +28,17 @@ abstract: Administration of doxorubicin has been shown to prolong survival of pa
   genes in the acquired doxorubicin-resistance behavior of HCC cells.
 authors: Pang E, Hu Y, Chan KY, Lai PB, Squire JA, Macgregor PF, Beheshti B, Albert
   M, Leung TW and Wong N.
+cancertypes:
+- term_id: ncit:C3758
+  term_label: Hepatocellular Adenoma
+- term_id: pgx:icdom:8170_0
+  term_label: Liver cell adenoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81700
+  term_label: Liver cell adenoma
 contact:
   email: ~
   name: ~

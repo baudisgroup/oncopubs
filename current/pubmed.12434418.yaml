@@ -22,6 +22,25 @@ abstract: The diagnosis of salivary gland myoepithelioma, an entity with heterog
   alterations were acquired in the course of tumour progression and points to the
   relevance of genetic changes not resolved by CGH.
 authors: Hungermann D, Roeser K, Buerger H, Jakel T, Loning T and Herbst H.
+cancertypes:
+- term_id: ncit:C40392
+  term_label: ~
+- term_id: ncit:C7596
+  term_label: ~
+- term_id: pgx:icdom:8982_0
+  term_label: Myoepithelioma
+- term_id: pgx:icdom:8982_3
+  term_label: Malignant myoepithelioma
+- term_id: pgx:icdot:C07
+  term_label: parotid gland
+- term_id: pgx:icdot:C08.9
+  term_label: salivary gland, NOS
+- term_id: pgx:seer:20030
+  term_label: Salivary Gland
+- term_id: snmi:M-89820
+  term_label: Myoepithelioma
+- term_id: snmi:M-89823
+  term_label: Malignant myoepithelioma
 contact:
   email: herbsth@uni-muenster.de
   name: Hermann Herbst

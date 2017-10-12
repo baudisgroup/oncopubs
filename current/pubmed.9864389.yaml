@@ -10,6 +10,7 @@ abstract: In order to investigate genomic imbalances, comparative genomic hybrid
   p53 mutation status.
 authors: Hinze R, Schagdarsurengin U, Taubert H, Meye A, Wurl P, Holzhausen HJ, Rath
   FW and Schmidt H.
+cancertypes: []
 contact:
   email: axel.meye@uniklinikum-dresden.de
   name: Axel Meye

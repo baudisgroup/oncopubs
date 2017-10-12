@@ -18,6 +18,7 @@ abstract: 'Wilms tumor 1 WT1 mutations have recently been identified in approxim
 authors: Hollink IH, van den Heuvel-Eibrink MM, Zimmermann M, Balgobind BV, Arentsen-Peters
   ST, Alders M, Willasch A, Kaspers GJ, Trka J, Baruchel A, de Graaf SS, Creutzig
   U, Pieters R, Reinhardt D and Zwaan CM.
+cancertypes: []
 contact:
   email: ~
   name: ~

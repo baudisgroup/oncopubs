@@ -15,6 +15,17 @@ abstract: Our aim was to map and compare genomic imbalances in human papillomavi
   number of cases in each subgroup was limited.
 authors: Dahlgren L, Mellin H, Wangsa D, Heselmeyer-Haddad K, Bjornestal L, Lindholm
   J, Munck-Wikland E, Auer G, Ried T and Dalianis T.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C09
+  term_label: tonsil
+- term_id: pgx:seer:20070
+  term_label: Tonsil
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: Liselotte.Dahlgren@cck.ki.se
   name: Liselotte Dahlgren

@@ -21,6 +21,7 @@ abstract: The extent to which metastatic tumors further evolve by accumulating a
   metastasis arises with little accumulation of somatic mutations and copy number
   alterations in this patient.
 authors: Lee JY, Yoon JK, Kim B, Kim S, Kim MA, Lim H, Bang D and Song YS
+cancertypes: []
 contact:
   email: yssong@snu.ac.kr
   name: Yong-Sang Song

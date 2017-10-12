@@ -27,6 +27,9 @@ abstract: Phaeochromocytomas (PCCs) and paragangliomas (PGLs) are rare neural cr
   and genetic origins of PCC/PGL tumours.
 authors: Flynn A, Benn D, Clifton-Bligh R, Robinson B, Trainer AH, James P, Hogg A,
   Waldeck K, George J, Li J, Fox SB, Gill AJ, McArthur G, Hicks RJ, Tothill RW.
+cancertypes:
+- term_id: seer:31040
+  term_label: cranial nerves other nervous system
 contact:
   email: richard.tothill@petermac.org
   name: Richard W Tothill

@@ -17,6 +17,53 @@ abstract: Breast cancer is the most common malignancy among women and accounts f
   q22, 17p, 18p, and Xq result in an aggressive form of breast cancer and that these
   patients are predisposed to succumb to breast cancer.
 authors: Karlsson E, Danielsson A, Delle U, Olsson B, Karlsson P and Helou K.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4188
+  term_label: ~
+- term_id: ncit:C65192
+  term_label: ~
+- term_id: ncit:C66718
+  term_label: ~
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8211_3
+  term_label: Tubular adenocarcinoma
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8501_3
+  term_label: Comedocarcinoma, NOS
+- term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-82113
+  term_label: Tubular adenocarcinoma
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85013
+  term_label: Comedocarcinoma, NOS
+- term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
+- term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
 contact:
   email: ~
   name: ~

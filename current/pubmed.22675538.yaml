@@ -29,6 +29,9 @@ abstract: ' BACKGROUND: Recurrent non-medullary thyroid carcinoma (NMTC) is a ra
 authors: Corver WE, Ruano D, Weijers K, den Hartog WC, van Nieuwenhuizen MP, de Miranda
   N, van Eijk R, Middeldorp A, Jordanova ES, Oosting J, Kapiteijn E, Hovens G, Smit
   J, van Wezel T, Morreau H.
+cancertypes:
+- term_id: seer:32010
+  term_label: thyroid
 contact:
   email: w.e.corver@lumc.nl
   name: W E Corver

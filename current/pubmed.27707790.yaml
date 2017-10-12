@@ -24,6 +24,9 @@ abstract: Pituitary adenomas are the second most common primary brain tumor, yet
 authors: Bi WL, Horowtiz P, Greenwald N, Abedalthagafi M, Agarwalla PK, Gibson WJ,
   Mei Y, Schumacher SE, Ben-David U, Chevalier A, Carter SL, Tiao G, Brastianos PK,
   Ligon AH, Ducar M, MacConaill LE, Laws ER, Santagata S, Beroukhim R, Dunn IF.
+cancertypes:
+- term_id: seer:31040
+  term_label: cranial nerves other nervous system
 contact:
   email: ' rameen_beroukhim@dfci.harvard.edu'
   name: Rameen Beroukhim

@@ -2,6 +2,21 @@
 abstract: ~
 authors: Thariat J, Peyrottes I, Chibon F, Benchetrit M, Saada E, Gastaud L, Dassonville
   O, Iannessi A and Thyss A.
+cancertypes:
+- term_id: ncit:C3088
+  term_label: Angiosarcoma
+- term_id: pgx:icdom:9120_3
+  term_label: Hemangiosarcoma
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-91203
+  term_label: Hemangiosarcoma
 contact:
   email: ~
   name: ~

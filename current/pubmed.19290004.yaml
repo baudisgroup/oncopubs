@@ -18,6 +18,23 @@ abstract: Soft tissue sarcoma STS diagnostics and prognostics are challenging, p
   for refined prognostic determination in high-grade, genetically complex STS.
 authors: Carneiro A, Francis P, Bendahl PO, Fernebro J, Akerman M, Fletcher C, Rydholm
   A, Borg A and Nilbert M.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: ncit:C7059
+  term_label: Mesenchymal Cell Neoplasm
+- term_id: pgx:icdom:8805_3
+  term_label: Undifferentiated sarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88053
+  term_label: Undifferentiated sarcoma
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
 contact:
   email: Ana.Carneiro@med.lu.se
   name: Ana Carneiro

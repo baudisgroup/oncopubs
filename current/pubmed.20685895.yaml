@@ -23,6 +23,17 @@ abstract: Intimal sarcoma IS is a rare, malignant, and aggressive tumor that sho
 authors: Dewaele B, Floris G, Finalet-Ferreiro J, Fletcher CD, Coindre JM, Guillou
   L, Hogendoorn PC, Wozniak A, Vanspauwen V, Schoffski P, Marynen P, Vandenberghe
   P, Sciot R and Debiec-Rychter M.
+cancertypes:
+- term_id: ncit:C9306
+  term_label: Soft Tissue Sarcoma
+- term_id: pgx:icdom:8800_3
+  term_label: Sarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88003
+  term_label: Sarcoma, NOS
 contact:
   email: ~
   name: ~

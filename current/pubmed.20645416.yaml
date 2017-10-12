@@ -19,6 +19,25 @@ abstract: Deletion of the long arm of one chromosome 20 del 20q is a well-recogn
   prove to be a marker of a specific subset of AML MDS with a significant erythroid
   component.
 authors: Mackinnon RN, Selan C, Wall M, Baker E, Nandurkar H and Campbell LJ.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C4036
+  term_label: Myelodysplastic Syndrome with Ring Sideroblasts
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9982_3
+  term_label: Refractory anemia with sideroblasts
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-99823
+  term_label: Refractory anemia with sideroblasts
 contact:
   email: ~
   name: Ruth MacKinnon

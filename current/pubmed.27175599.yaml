@@ -20,6 +20,9 @@ abstract: Mutation profiles and intratumoral heterogeneity are not well understo
   profiling of gastric adenomas, our study provides clues on the chronological sequence
   of somatic mutations and their clonal architectures in early gastric carcinogenesis.
 authors: Lim CH, Cho YK, Kim SW, Choi MG, Rhee JK, Chung YJ, Lee SH and Kim TM
+cancertypes:
+- term_id: seer:21020
+  term_label: stomach
 contact:
   email: tmkim@catholic.ac.kr
   name: Tae-Min Kim

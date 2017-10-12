@@ -23,6 +23,35 @@ authors: Bea S, Vald  s-Mas R, Navarro A, Salaverria I, Mart  n-Garcia D, Jares 
   A, Forcada P, Munta  ola A, Hartmann EM, Calasanz MJ, Rosenwald A, Ott G, Hern  ndez-Rivas
   JM, Klapper W, Siebert R, Wiestner A, Wilson WH, Colomer D, Lopez-Guillermo A, L  pez-Ot  n
   C, Puente XS and Campo E.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: sbea@clinic.ub.es
   name: Silvia Bea

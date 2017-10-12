@@ -3,6 +3,17 @@ abstract: To identify chromosomal gains and losses in sporadic parathyroid adeno
   PAs .
 authors: Garcia JL, Tardio JC, Gutierrez NC, Gonzalez MB, Polo JR, Hernandez JM and
   Menarguez J.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C75.0
+  term_label: parathyroid gland
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: ~
   name: ~

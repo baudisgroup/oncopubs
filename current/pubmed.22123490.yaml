@@ -14,6 +14,7 @@ abstract: Coamplification of multiple segments of chromosome 2, including an MYC
   of different chromosomal regions including the MYCN locus. The model comprises massive
   fragmentation of chromosomes and random rejoining of the fragments.
 authors: Kitada K, Aida S and Aikawa S.
+cancertypes: []
 contact:
   email: ~
   name: Kunio Kitada

@@ -19,6 +19,27 @@ abstract: African American AA men have a higher incidence and significantly high
   from white men. This difference may in part explain the more aggressive clinical
   behavior of prostate cancer in AA men.
 authors: Castro P, Creighton CJ, Ozen M, Berel D, Mims MP and Ittmann M.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: mittmann@bcm.tmc.edu
   name: Michael Ittmann

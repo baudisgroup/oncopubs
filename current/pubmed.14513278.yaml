@@ -12,6 +12,29 @@ abstract: According to the 1999 World Health Organisation classification of lung
   30 . In conclusion, the CGH results support the classification of typical carcinoid
   tumors as a separate entity in clear distinction from the NE carcinomas.
 authors: Johnen G, Krismann M, Jaworska M and Muller KM.
+cancertypes:
+- term_id: ncit:C2915
+  term_label: Carcinoid Tumor
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: ncit:C6875
+  term_label: Large Cell Neuroendocrine Carcinoma
+- term_id: pgx:icdom:8013_3
+  term_label: Large cell neuroendocrine carcinoma
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdom:8240_3
+  term_label: Carcinoid tumor, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80133
+  term_label: Large cell neuroendocrine carcinoma
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
+- term_id: snmi:M-82403
+  term_label: Carcinoid tumor, NOS
 contact:
   email: georg.johnen@ruhr-uni-bochum.de
   name: Georg Johnen

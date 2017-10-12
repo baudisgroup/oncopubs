@@ -21,6 +21,9 @@ abstract: The progression from precursor lesions of pancreatic cancer, including
 authors: Hijiya N, Tsukamoto Y, Nakada C, Tung Nguyen L, Kai T, Matsuura K, Shibata
   K, Inomata M, Uchida T, Tokunaga A, Amada K, Shirao K, Yamada Y, Mori H, Takeuchi
   I, Seto M, Aoki M, Takekawa M, Moriyama M.
+cancertypes:
+- term_id: seer:21100
+  term_label: pancreas
 contact:
   email: hijiya@oita-u.ac.jp
   name: Naoki Hijiya

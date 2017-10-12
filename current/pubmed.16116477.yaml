@@ -22,6 +22,7 @@ abstract: DNA amplifications and deletions frequently contribute to the developm
   of transcriptional repression.
 authors: Kim YH, Girard L, Giacomini CP, Wang P, Hernandez-Boussard T, Tibshirani
   R, Minna JD and Pollack JR.
+cancertypes: []
 contact:
   email: pollack1@stanford.edu
   name: Jonathan R Pollack

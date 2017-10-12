@@ -11,6 +11,17 @@ abstract: The transition of ductal carcinoma in situ DCIS to invasive carcinoma 
 authors: Hu M, Yao J, Carroll DK, Weremowicz S, Chen H, Carrasco D, Richardson A,
   Violette S, Nikolskaya T, Nikolsky Y, Bauerlein EL, Hahn WC, Gelman RS, Allred C,
   Bissell MJ, Schnitt S and Polyak K.
+cancertypes:
+- term_id: ncit:C2924
+  term_label: Ductal Breast Carcinoma In Situ
+- term_id: pgx:icdom:8500_2
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85002
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
 contact:
   email: kornelia_polyak@dfci.harvard.edu
   name: Kornelia Polyak

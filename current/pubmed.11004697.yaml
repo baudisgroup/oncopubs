@@ -42,6 +42,25 @@ abstract: The worldwide incidence of hepatocellular carcinoma HCC is approximate
   as CDH1 or TP53, might be associated with hepatocellular carcinogenesis.
 authors: Zondervan PE, Wink J, Alers JC, IJzermans JN, Schalm SW, de Man RA and van
   Dekken H.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: H. van Dekken

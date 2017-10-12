@@ -18,6 +18,7 @@ abstract: 'Esophageal cancer is the third most prevalent gastrointestinal malign
   aberrations that may be involved in either the genesis or progression of this malignancy.'
 authors: Pack SD, Karkera JD, Zhuang Z, Pak ED, Balan KV, Hwu P, Park WS, Pham T,
   Ault DO, Glaser M, Liotta L, Detera-Wadleigh SD and Wadleigh RG.
+cancertypes: []
 contact:
   email: packs@ninds.nih.gov
   name: Svetlana Pack

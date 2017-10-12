@@ -5,6 +5,27 @@ abstract: Neuroblastomas are characterized by chromosomal alterations with biolo
   copy number change using the Affymetrix 10K single nucleotide polymorphism SNP array.
 authors: George RE, Attiyeh EF, Li S, Moreau LA, Neuberg D, Li C, Fox EA, Meyerson
   M, Diller L, Fortina P, Look AT and Maris JM.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: rani_george@dfci.harvard.edu
   name: Rani E. George

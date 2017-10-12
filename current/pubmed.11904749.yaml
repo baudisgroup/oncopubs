@@ -15,6 +15,25 @@ abstract: 'Seven granular cell tumours GCT were studied by comparative genomic h
   chromosomal imbalances but rather a degenerative phenomenon of cells of various
   origin showing DNA copy number changes akin to the underlying tumour.'
 authors: Rickert CH and Paulus W.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9582_0
+  term_label: Granular cell tumor of the sellar region
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:icdot:C75.1
+  term_label: pituitary gland
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-95820
+  term_label: Granular cell tumor of the sellar region
 contact:
   email: ~
   name: ~

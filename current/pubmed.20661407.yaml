@@ -17,6 +17,7 @@ abstract: Melanocytic neoplasms with spitzoid features including spitz nevi, spi
   aberrations, possibly a single aberrant locus, may be present in spitz tumors, but
   their presence may predict more aggressive behavior.
 authors: Ali L, Helm T, Cheney R, Conroy J, Sait S, Guitart J and Gerami P.
+cancertypes: []
 contact:
   email: ~
   name: Pedram Gerami

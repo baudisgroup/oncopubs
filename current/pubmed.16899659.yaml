@@ -22,6 +22,7 @@ abstract: 'Array-CGH is a powerful tool for the detection of chromosomal aberrat
   amounts, fragmented gDNA, and Phi29 whole-genome pre-amplified DNA.'
 authors: Peiffer DA, Le JM, Steemers FJ, Chang W, Jenniges T, Garcia F, Haden K, Li
   J, Shaw CA, Belmont J, Cheung SW, Shen RM, Barker DL and Gunderson KL.
+cancertypes: []
 contact:
   email: hsolvang@rr-research.no
   name: Hiroko Solvang

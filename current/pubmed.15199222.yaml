@@ -19,6 +19,7 @@ abstract: The pancreatic adenocarcinoma genome harbors multiple amplifications a
 authors: Aguirre AJ, Brennan C, Bailey G, Sinha R, Feng B, Leo C, Zhang Y, Zhang J,
   Gans JD, Bardeesy N, Cauwels C, Cordon-Cardo C, Redston MS, DePinho RA, and Chin
   L.
+cancertypes: []
 contact:
   email: lynda_chin@dfci.harvard.edu
   name: Lynda Chin

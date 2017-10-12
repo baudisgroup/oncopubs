@@ -15,6 +15,17 @@ abstract: Comparative genomic hybridization CGH analyses were performed on 27 hu
   areas most probably contain genes important for the initiation and progression of
   mesothelioma.
 authors: Bjorkqvist AM, Tammilehto L, Anttila S, Mattson K and Knuutila S.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: ~
   name: NA Knuutila

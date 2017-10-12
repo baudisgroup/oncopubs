@@ -14,6 +14,7 @@ abstract: We aimed to directly align a chromosomal CGH cCGH pattern with the gen
   and cCGH data drastically improves the resolution of the method to less than 2 Mb.
 authors: Kowalska A, Brunner B, Bozsaky E, Chen QR, Stock C, Lorch T, Khan J and Ambros
   PF.
+cancertypes: []
 contact:
   email: peter.ambros@ccri.at
   name: Peter Ambros

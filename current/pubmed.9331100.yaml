@@ -28,6 +28,7 @@ abstract: 'In a separate study F. Courjal et al., Cancer Res., 57: 4360-4367, 19
   may therefore prove to be complex, and it should be interesting to see how many
   breast tumor subtypes will be defined in the end.'
 authors: Courjal F and Theillet C.
+cancertypes: []
 contact:
   email: theillet@valdorel.fnclcc.fr
   name: Charles Theillet

@@ -24,6 +24,7 @@ abstract: 'The diagnosis and management of uterine smooth muscle tumors with unc
 authors: Croce S, Ribeiro A, Brulard C, Noel JC, Amant F, Stoeckle E, Devouassoux-Shisheborah
   M, Floquet A, Arnould L, Guyon F, Mishellany F, Garbay D, Cuppens T, Zikan M, Leroux
   A, Frouin E, Duvillard P, Terrier P, Farre I, Valo I, MacGrogan GM and Chibon F
+cancertypes: []
 contact:
   email: ~
   name: F Chibon

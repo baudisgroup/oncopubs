@@ -17,6 +17,7 @@ authors: Stachler MD, Taylor-Weiner A, Peng S, McKenna A, Agoston AT, Odze RD, D
   JM, Nason KS, Loda M, Leshchiner I, Stewart C, Stojanov P, Seepo S, Lawrence MS,
   Ferrer-Torres D, Lin J, Chang AC, Gabriel SB, Lander ES, Beer DG, Getz G, Carter
   SL and Bass AJ
+cancertypes: []
 contact:
   email: ~
   name: Adam J Bass

@@ -19,6 +19,7 @@ abstract: T cell non-Hodgkins lymphomas are a heterogeneous group of lymphomas w
   disease, overexpression of P53, and higher proliferative index.
 authors: Renedo M, Martinez-Delgado B, Arranz E, Garcia M, Urioste M, Martinez-Ramirez
   A, Rivas C, Cigudosa JC and Benitez I.
+cancertypes: []
 contact:
   email: jbenitez@cnio.es
   name: Javier Benitez

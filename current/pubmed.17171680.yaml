@@ -23,6 +23,7 @@ abstract: 'The identification of specific oncogenes and tumor suppressor genes i
   jpages 1045-2257 suppmat.'
 authors: Chen W, Salto-Tellez M, Palanisamy N, Ganesan K, Hou Q, Tan LK, Sii LH, Ito
   K, Tan B, Wu J, Tay A, Tan KC, Ang E, Tan BK, Tan PH, Ito Y and Tan P.
+cancertypes: []
 contact:
   email: cmrtan@nccs.com.sg
   name: Patrick Tan

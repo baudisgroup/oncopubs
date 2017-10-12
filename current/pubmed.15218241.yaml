@@ -17,6 +17,23 @@ abstract: Neuroblastoma, one of the most common tumors of childhood, presents at
   is discussed.
 authors: Stallings RL, Carty P, McArdle L, Mullarkey M, McDermott M, OMeara A, Ryan
   E, Catchpoole D and Breatnach F.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: ncit:C3790
+  term_label: Ganglioneuroblastoma
+- term_id: pgx:icdom:9490_3
+  term_label: Ganglioneuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-94903
+  term_label: Ganglioneuroblastoma
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: R.L. Stallings

@@ -11,6 +11,17 @@ abstract: Myxoinflammatory fibroblastic sarcoma MIFS is a rare low-grade sarcoma
   7 and disclosed DNA aneuploidy.
 authors: Baumhoer D, Glatz K, Schulten HJ, Fuzesi L, Fricker R, Kettelhack C, Hasenboehler
   P, Oberholzer M and Jundt G.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
 contact:
   email: dbaumhoer@mac.com
   name: Daniela Baumhoer

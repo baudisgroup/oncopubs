@@ -22,6 +22,7 @@ abstract: 'Invasive breast carcinomas are characterized by a complex pattern of 
   as markers for a genetic classification of invasive breast cancer.'
 authors: Richard F, Pacyna-Gengelbach M, Schluns K, Fleige B, Winzer KJ, Szymas J,
   Dietel M, Petersen I and Schwendel A.
+cancertypes: []
 contact:
   email: iver.petersen@charite.de
   name: Iver Petersen

@@ -24,6 +24,17 @@ abstract: In vitro data show that the adenomatous polyposis coli APC protein ass
   be essentially an in vitro phenomenon.
 authors: Sieber OM, Heinimann K, Gorman P, Lamlum H, Crabtree M, Simpson CA, Davies
   D, Neale K, Hodgson SV, Roylance RR, Phillips RK, Bodmer WF and Tomlinson IP.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: ian.tomlinson@cancer.org.uk
   name: Ian P. M. Tomlinson

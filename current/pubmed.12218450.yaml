@@ -19,6 +19,23 @@ abstract: Helicobacter pylori and Epstein-Barr virus EBV both have been associat
   that these infectious agents exert different influences in the development of gastric
   carcinoma.
 authors: Chan WY, Liu Y, Li CY, Ng EK, Chow JH, Li KK and Chung SC.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
 contact:
   email: ~
   name: Wing Y. Chan

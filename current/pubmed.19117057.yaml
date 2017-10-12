@@ -21,6 +21,7 @@ abstract: We analyzed MET protein and copy number in NSCLC with or without EGFR 
 authors: Kubo T, Yamamoto H, Lockwood WW, Valencia I, Soh J, Peyton M, Jida M, Otani
   H, Fujii T, Ouchida M, Takigawa N, Kiura K, Shimizu K, Date H, Minna JD, Varella-Garcia
   M, Lam WL, Gazdar AF and Toyooka S.
+cancertypes: []
 contact:
   email: toyooka@md.okayama-u.ac.jp
   name: Shinichi Toyooka

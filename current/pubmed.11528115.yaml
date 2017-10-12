@@ -19,6 +19,23 @@ abstract: Comparative genomic hybridization CGH has been applied to characterize
   with high tumor grade. Furthermore, loss of chromosome 4 correlated positively with
   high tumor stage.
 authors: Reutzel D, Mende M, Naumann S, Storkel S, Brenner W, Zabel B and Decker J.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
 contact:
   email: Decker.Jochen@bioscientia.de
   name: Jochen Decker

@@ -4,6 +4,7 @@ abstract: ECRG4 C2ORF40 is a potential tumor suppressor gene TSG recently identi
   never been explored in breast cancer.
 authors: Sabatier R, Finetti P, Adelaide J, Guille A, Borg JP, Chaffanet M, Lane L,
   Birnbaum D and Bertucci F.
+cancertypes: []
 contact:
   email: bertuccif@marseille.fnclcc.fr
   name: Francois Bertucci

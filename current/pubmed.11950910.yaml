@@ -17,6 +17,17 @@ abstract: We performed a comparative genomic hybridization study on 25 lung aden
   in breast cancer.
 authors: Lindstrom I, Nordling S, Nissen AM, Tammilehto L, Mattson K and Knuutila
   S.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

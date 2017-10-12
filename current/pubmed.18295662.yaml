@@ -14,6 +14,7 @@ abstract: Uveal melanoma UM is the most common primary intraocular tumor in the 
   but we could not confirm the previously reported gain of 18q11.2 and 21q11.2 as
   poor prognostic factors in UM.
 authors: Mensink HW, Kilic E, Vaarwater J, Douben H, Paridaens D and de Klein A.
+cancertypes: []
 contact:
   email: a.deklein@erasmusmc.nl
   name: Annelies de Klein

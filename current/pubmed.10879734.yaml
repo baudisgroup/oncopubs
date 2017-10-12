@@ -16,6 +16,17 @@ abstract: Although there seems to be a common stem cell for the two epithelial c
   may be a good model for the delineation of genes important in breast tumorigenesis.
 authors: Jones C, Foschini MP, Chaggar R, Lu YJ, Wells D, Shipley JM, Eusebi V and
   Lakhani SR.
+cancertypes:
+- term_id: ncit:C4199
+  term_label: Epithelial-Myoepithelial Carcinoma
+- term_id: pgx:icdom:8562_3
+  term_label: Epithelial-myoepithelial carcinoma
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85623
+  term_label: Epithelial-myoepithelial carcinoma
 contact:
   email: s.lakhani@uq.edu.au
   name: Sunil R. Lakhani

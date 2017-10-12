@@ -19,6 +19,17 @@ abstract: Two metachronous anaplastic oligoastrocytomas with different cerebral 
   might be associated with the unusually extended relapse-free time of the patient
   remains to be elucidated.
 authors: Martinez R, Schackert HK, Kirsch M, Paulus W, Joos S and Schackert G.
+cancertypes:
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
 contact:
   email: voelter.martinez@t-online.de
   name: R. Martinez

@@ -13,6 +13,7 @@ abstract: We have developed a protocol for degenerate oligonucleotide-primed-pol
   context of clinical trials.
 authors: Daigo Y, Chin SF, Gorringe KL, Bobrow LG, Ponder BA, Pharoah PD and Caldas
   C.
+cancertypes: []
 contact:
   email: ~
   name: C. Caldas

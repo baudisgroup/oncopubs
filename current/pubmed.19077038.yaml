@@ -14,6 +14,17 @@ abstract: Meningiomas are recognized as the most common late complication follow
   aberrations in the pediatric setting of meningioma.
 authors: Brassesco MS, Valera ET, Neder L, Castro-Gamero AM, de Oliveira FM, Santos
   AC, Scrideli CA, Oliveira RS, Machado HR and Tone LG.
+cancertypes:
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
 contact:
   email: ~
   name: Maria Sol Brassesco

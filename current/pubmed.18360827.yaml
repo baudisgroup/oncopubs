@@ -20,6 +20,7 @@ abstract: Thymomas and thymic carcinomas are peculiar epithelial tumors of the a
   functional tests to evaluate new therapeutic targets.
 authors: Ehemann V, Kern MA, Breinig M, Schnabel PA, Gunawan B, Schulten HJ, Schlaeger
   C, Radlwimmer B, Steger CM, Dienemann H, Lichter P, Schirmacher P and Rieker RJ.
+cancertypes: []
 contact:
   email: michael.kern@med.uni-heidelberg.de
   name: Michael Kern

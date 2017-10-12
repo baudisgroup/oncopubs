@@ -16,6 +16,7 @@ abstract: Comparative genomic hybridization CGH can reveal important disease gen
 authors: Mattison J, Kool J, Uren AG, de Ridder J, Wessels L, Jonkers J, Bignell GR,
   Butler A, Rust AG, Brosch M, Wilson CH, van der Weyden L, Largaespada DA, Stratton
   MR, Futreal PA, van Lohuizen M, Berns A, Collier LS, Hubbard T and Adams DJ.
+cancertypes: []
 contact:
   email: da1@sanger.ac.uk
   name: David Adams

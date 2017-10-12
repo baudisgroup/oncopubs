@@ -17,6 +17,17 @@ abstract: To ascertain if a carcinoma-like component within a fibroblastic menin
   not solely the characteristic alterations of a benign meningioma but had already
   progressed to an atypical meningioma.
 authors: Heimberger AB, Wiltshire RN, Bronec R, McLendon RE and Cummings TJ.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9532_3
+  term_label: ~
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95323
+  term_label: ~
 contact:
   email: aheimber@mdanderson.org
   name: A.B. Heimberger

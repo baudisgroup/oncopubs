@@ -21,6 +21,17 @@ abstract: Comparative genomic hybridisation CGH is a technique which identifies 
   as shown in tumours such as in this study for ATC.
 authors: Wilkens L, Benten D, Tchinda J, Brabant G, Potter E, Dralle H and von Wasielewski
   R.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8021_3
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-80213
+  term_label: Carcinoma, anaplastic, NOS
 contact:
   email: ~
   name: NA Wilkens

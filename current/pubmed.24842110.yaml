@@ -22,6 +22,9 @@ abstract: 'INTRODUCTION: Synovial sarcoma (SynSa) is an aggressive mesenchymal t
   This article is part of a Directed Issue entitled: Rare Cancers.'
 authors: Przybyl J, Sciot R, Wozniak A, Schï¿½ffski P, Vanspauwen V, Samson I, Siedlecki
   JA, Rutkowski P, Debiec-Rychter M.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: maria.debiec-rychter@med.kuleuven.be
   name: ~

@@ -25,6 +25,35 @@ abstract: Diffuse intrinsic pontine glioma DIPG is one of the most frequent mali
 authors: Puget S, Philippe C, Bax DA, Job B, Varlet P, Junier MP, Andreiuolo F, Carvalho
   D, Reis R, Guerrini-Rousseau L, Roujeau T, Dessen P, Richon C, Lazar V, Le Teuff
   G, Sainte-Rose C, Geoerger B, Vassal G, Jones C and Grill J.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: Cerebrum
+- term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- term_id: pgx:icdot:C71.9
+  term_label: brain, nos
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ~
   name: ~

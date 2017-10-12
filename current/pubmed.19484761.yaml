@@ -21,6 +21,7 @@ abstract: Adult T-cell leukemia lymphoma ATLL is a malignant tumor caused by lat
   patient with acute-type ATLL may contribute to leukemogenesis.
 authors: Nakahata S, Saito Y, Hamasaki M, Hidaka T, Arai Y, Taki T, Taniwaki M and
   Morishita K.
+cancertypes: []
 contact:
   email: kmorishi@med.miyazaki-u.ac.jp
   name: Kazuhiro Morishita

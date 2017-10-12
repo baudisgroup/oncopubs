@@ -8,6 +8,7 @@ abstract: Diagnosing malignancy of adrenocortical tumors ACT and predicting prog
 authors: Barreau O, de Reynies A, Wilmot-Roussel H, Guillaud-Bataille M, Auzan C,
   Rene-Corail F, Tissier F, Dousset B, Bertagna X, Bertherat J, Clauser E and Assie
   G.
+cancertypes: []
 contact:
   email: ~
   name: Jerome Bertherat

@@ -18,6 +18,17 @@ abstract: Several lines of evidences suggest that T cell histiocyte-rich B-cell 
   LPHL.
 authors: Franke S, Wlodarska I, Maes B, Vandenberghe P, Achten R, Hagemeijer A and
   De Wolf-Peeters C.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: anne.hagemeijer@med.kuleuven.ac.be
   name: Anne Hagemeijer

@@ -18,6 +18,17 @@ abstract: Rhabdomyosarcoma, the most common pediatric soft tissue sarcoma, likel
   the involvement of genes encoding cell adhesion, cytoskeletal signaling, and transcriptional
   and cell cycle components in RMS tumorigenesis.
 authors: Goldstein M, Meller I, Issakov J and Orr-Urtreger A.
+cancertypes:
+- term_id: ncit:C3359
+  term_label: Rhabdomyosarcoma
+- term_id: pgx:icdom:8900_3
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89003
+  term_label: Rhabdomyosarcoma, NOS
 contact:
   email: aviorr@tasmc.health.gov.il
   name: Avi Orr-Urtreger

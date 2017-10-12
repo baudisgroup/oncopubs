@@ -16,6 +16,7 @@ abstract: 'We analyzed DNA sequence copy number aberrations DSCNAs in 17 primary
   be a group of DSCNs associated with dominant genetic pathways of leading to advanced
   OSCCs.'
 authors: Oga A, Kong G, Tae K, Lee Y and Sasaki K.
+cancertypes: []
 contact:
   email: oga@po.cc.yamaguchi-u.ac.jp
   name: Atsunori Oga

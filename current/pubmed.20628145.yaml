@@ -19,6 +19,39 @@ abstract: Classical Hodgkin lymphoma (cHL) and mediastinal large B-cell lymphoma
   and JAK2 as complementary rational therapeutic targets.
 authors: Green MR, Monti S, Rodig SJ, Juszczynski P, Currie T, O'Donnell E, Chapuy
   B, Takeyama K, Neuberg D, Golub TR, Kutok JL, Shipp MA.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:C9357
+  term_label: Hodgkin Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9650_3
+  term_label: Hodgkin lymphoma, NOS
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:33011
+  term_label: hodgkin - nodal
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96503
+  term_label: Hodgkin lymphoma, NOS
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: michaelr_green@dfci.harvard.edu
   name: Michael Richard Green

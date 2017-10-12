@@ -24,6 +24,17 @@ abstract: 'Therapy-related acute leukemia t-AML , is a severe complication of cy
   found in p-AML.'
 authors: Itzhar N, Dessen P, Toujani S, Auger N, Preudhomme C, Richon C, Lazar V,
   Saada V, Bennaceur A, Bourhis JH, de Botton S and Bernheim A.
+cancertypes:
+- term_id: ncit:C8252
+  term_label: ~
+- term_id: pgx:icdom:9920_3
+  term_label: Therapy related myeloid neoplasm
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-99203
+  term_label: Therapy related myeloid neoplasm
 contact:
   email: bernheim@infobiogen.fr
   name: Alain Bernheim

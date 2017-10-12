@@ -24,6 +24,9 @@ abstract: "Pulmonary sarcomatoid carcinoma (SC) is a rare disease with poor prog
   MET exon 14 alterations."
 authors: Pï¿½cuchet N, Vieira T, Rabbe N, Antoine M, Blons H, Cadranel J, Laurent-Puig
   P, Wislez M.
+cancertypes:
+- term_id: seer:24000
+  term_label: soft tissue including heart
 contact:
   email: marie.wislez@aphp.fr
   name: Marie Wislez

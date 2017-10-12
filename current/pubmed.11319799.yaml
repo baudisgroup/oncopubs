@@ -15,6 +15,17 @@ abstract: Genomic alterations were analyzed in 21 uterine leiomyosarcomas ULMSs 
   leiomyosarcomas. Our findings indicate that the pathogenesis of uterine leiomyosarcomas
   and extra-uterine leiomyosarcomas follows the same genetic pathways.
 authors: Hu J, Khanna V, Jones M and Surti U.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdot:C55.9
+  term_label: uterus, nos
+- term_id: pgx:seer:27030
+  term_label: Uterus, NOS
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
 contact:
   email: ~
   name: ~

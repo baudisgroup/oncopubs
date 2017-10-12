@@ -10,6 +10,7 @@ abstract: 'Alterations of DNA copy number are believed to be important indicator
   10. The significance of these genetic groups to therapeutics needs further study.'
 authors: Misra A, Pellarin M, Nigro J, Smirnov I, Moore D, Lamborn KR, Pinkel D, Albertson
   DG and Feuerstein BG.
+cancertypes: []
 contact:
   email: bfeuerstein@email.arizona.edu
   name: Burt G. Feuerstein

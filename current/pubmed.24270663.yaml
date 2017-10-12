@@ -20,6 +20,19 @@ abstract: Recurrent metastatic melanoma provides a unique opportunity to analyze
 authors: Pos Z, Spivey TL, Liu H, Sommariva M, Chen J, Wunderlich JR, Parisi G, Tomei
   S, Ayotte BD, Stroncek DF, Malek JA, Robbins PF, Rivoltini L, Maio M, Chouchane
   L, Wang E and Marincola FM
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: fmarincola@sidra.org
   name: (+974) 4404-1888

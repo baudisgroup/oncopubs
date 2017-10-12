@@ -21,6 +21,9 @@ abstract: Chromosomal abnormalities are important for the risk stratification of
   analysis detects cytogenetically undetectable clinically significant aberrations
   and should be routinely applied at diagnosis of ALL.  Published by Elsevier Inc.
 authors: Wang Y, Miller S, Roulston D, Bixby D and Shao L
+cancertypes:
+- term_id: seer:35011
+  term_label: acute lymphocytic leukemia
 contact:
   email: linashao@med.umich.edu
   name: Lin Shao

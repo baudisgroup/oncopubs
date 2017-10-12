@@ -25,6 +25,7 @@ abstract: 'Chromosomal information on germ cell tumors of the infantile testis, 
   its own specific pathogenesis.'
 authors: Mostert M, Rosenberg C, Stoop H, Schuyer M, Timmer A, Oosterhuis W and Looijenga
   L.
+cancertypes: []
 contact:
   email: l.looijenga@erasmusmc.nl
   name: Leendert Looijenga

@@ -10,6 +10,17 @@ abstract: Eighty sporadic Wilms tumor samples were analyzed by comparative genom
   have not been previously implicated in Wilms tumorigenesis and may contain novel
   genes relevant to the development and or progression of this disease.
 authors: Getman ME, Houseal TW, Miller GA, Grundy PE, Cowell JK and Landes GM.
+cancertypes:
+- term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
 contact:
   email: ~
   name: ~

@@ -19,6 +19,19 @@ abstract: T-cell prolymphocytic leukemia T-PLL is a rare aggressive lymphoma der
   dosage effect as a pathogenic mechanism in T-PLL.
 authors: Durig J, Bug S, Klein-Hitpass L, Boes T, Jons T, Martin-Subero JI, Harder
   L, Baudis M, Duhrsen U and Siebert R.
+cancertypes:
+- term_id: ncit:C4752
+  term_label: T-Cell Prolymphocytic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9834_3
+  term_label: Prolymphocytic leukemia, T-cell type
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35013
+  term_label: Other Lymphocytic Leukemia
+- term_id: snmi:M-98343
+  term_label: Prolymphocytic leukemia, T-cell type
 contact:
   email: sbug@medgen.uni-kiel.de
   name: Stefanie Bug

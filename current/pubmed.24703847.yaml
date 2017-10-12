@@ -15,6 +15,7 @@ authors: Chen X, Bahrami A, Pappo A, Easton J, Dalton J, Hedlund E, Ellison D, S
   S, Wu G, Wei L, Parker M, Rusch M, Nagahawatte P, Wu J, Mao S, Boggs K, Mulder H,
   Yergeau D, Lu C, Ding L, Edmonson M, Qu C, Wang J, Li Y, Navid F, Daw NC, Mardis
   ER, Wilson RK, Downing JR, Zhang J and Dyer MA.
+cancertypes: []
 contact:
   email: michael.dyer@stjude.org
   name: Michael A. Dyer

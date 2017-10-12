@@ -18,6 +18,9 @@ abstract: Cell lines provide a powerful model to study cancer and here we descri
   Copy number changes and clonal evolution were assessed by SNP arrays.
 authors: McCormick A, Earp E, Elliot K, Cuthbert G, O'Donnell R, Wilson BT, Sutton
   R, Leeson C, Thomas HD, Blair H, Fordham S, Lunec J, Allan J, Edmondson RJ.
+cancertypes:
+- term_id: seer:27040
+  term_label: ovary
 contact:
   email: richard.edmondson@manchester.ac.uk
   name: Richard J. Edmondson

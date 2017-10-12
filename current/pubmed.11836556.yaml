@@ -12,6 +12,7 @@ abstract: We have applied the method of genomic microarray to investigate amplif
   Highest frequencies of gain of novel oncogenes were detected on MYCL1 66.7 , TERC
   46.7 , ESR 46.7 , PIK3CA 40 , LAMC2 33.3 , and CSE1L 33.3 .
 authors: Hui AB, Lo KW, Teo PM, To KF and Huang DP.
+cancertypes: []
 contact:
   email: b677750@mailserv.cuhk.edu.hk
   name: D.P. Huang

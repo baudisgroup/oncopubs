@@ -20,6 +20,17 @@ abstract: In order to approach the genetic mechanisms behind initiation and prog
   several candidate locations for tumor suppressor genes and oncogenes that are potentially
   involved in the establishment and progression of papillary thyroid carcinogenesis.
 authors: Kjellman P, Lagercrantz S, Hoog A, Wallin G, Larsson C and Zedenius J.
+cancertypes:
+- term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
 contact:
   email: petra.kjellman@ks.se
   name: Petra Kjellman

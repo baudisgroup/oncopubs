@@ -16,6 +16,17 @@ abstract: In a case of a 67-year-old man with two different early stages of a pr
   reflects the genomic instability in the tumour cells and indicates a amp quot genetic
   chaos amp quot even in earlier stages of malignant mesotheliomas.
 authors: Simon F, Johnen G, Krismann M and Muller KM.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: simon-franky@t-online.de
   name: F. Simon

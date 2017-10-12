@@ -16,6 +16,17 @@ abstract: 'Pleuropulmonary blastoma PPB is a rare, aggressive dysontogenetic tum
   rhabdomyosarcoma.'
 authors: Roque L, Rodrigues R, Martins C, Ribeiro C, Ribeiro MJ, Martins AG, Oliveira
   P and Fonseca I.
+cancertypes:
+- term_id: ncit:C5669
+  term_label: Pleuropulmonary Blastoma
+- term_id: pgx:icdom:8973_3
+  term_label: Pleuropulmonary blastoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-89733
+  term_label: Pleuropulmonary blastoma
 contact:
   email: ~
   name: ~

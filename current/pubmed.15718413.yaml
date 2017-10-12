@@ -20,6 +20,17 @@ abstract: To identify recurrent genomic changes in mantle cell lymphoma MCL , we
   1p21, 9q21-q22, 9p21.3-P16 INK4a, and 17p13.1-TP53 may be clinically useful in MCL.
 authors: Rubio-Moscardo F, Climent J, Siebert R, Piris MA, Martin-Subero JI, Nielander
   I, Garcia-Conde J, Dyer MJ, Terol MJ, Pinkel D and Martinez-Climent JA.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: jamcliment@unav.es
   name: Jose Martinez-Climent

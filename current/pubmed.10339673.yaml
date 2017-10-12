@@ -12,6 +12,7 @@ abstract: Anaplastic thyroid cancer ATC is one of the malignant tumors with the 
 authors: Komoike Y, Tamaki Y, Sakita I, Tomita N, Ohue M, Sekimoto M, Miyazaki M,
   Kadota M, Masuda N, Ooka M, Ohnishi T, Nakano Y, Kozaki T, Kobayashi T, Matsuura
   N, Ikeda T, Horii A and Monden M.
+cancertypes: []
 contact:
   email: ~
   name: ~

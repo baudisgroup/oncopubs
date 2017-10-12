@@ -27,6 +27,9 @@ abstract: 'To elucidate molecular features associated with disproportionate surv
   be a preferred, more efficacious management.'
 authors: Peng S, Dhurv H, Armstrong B, Salhia B, Legendre C, Kiefer J, Parks J, Virk
   S, Sloan AE, Ostrom QT, Barnholtz-Sloan JS, Tran NL, Berens ME.
+cancertypes:
+- term_id: seer:31010
+  term_label: brain
 contact:
   email: mberens@tgen.org
   name: Michael E. Berens

@@ -11,6 +11,7 @@ abstract: Comparative genomic hybridization CGH is a powerful new technique for 
   for analyzing the genes in colon cancer.
 authors: Nakao K, Shibusawa M, Tsunoda A, Yoshizawa H, Murakami M, Kusano M, Uesugi
   N and Sasaki K.
+cancertypes: []
 contact:
   email: knakao@cc.ucsf.edu
   name: Kentaro Nakao

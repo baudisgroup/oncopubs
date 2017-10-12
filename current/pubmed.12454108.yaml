@@ -3,6 +3,7 @@ abstract: To evaluate the clinical relevance of genomic aberrations in follicula
   lymphomas FLs .
 authors: Viardot A, Moller P, Hogel J, Werner K, Mechtersheimer G, Ho AD, Ott G, Barth
   TF, Siebert R, Gesk S, Schlegelberger B, Dohner H and Bentz M.
+cancertypes: []
 contact:
   email: martin.bentz@medizin.uni-ulm.de
   name: Martin Bentz

@@ -22,6 +22,7 @@ abstract: In an era where mutational profiles inform treatment options, it is cr
 authors: Ledgerwood LG, Kumar D, Eterovic AK, Wick J, Chen K, Zhao H, Tazi L, Manna
   P, Kerley S, Joshi R, Wang L, Chiosea SI, Garnett JD, Tsue TT, Chien J, Mills GB,
   Grandis JR and Thomas SM
+cancertypes: []
 contact:
   email: sthomas7@kumc.edu
   name: KS  Elenitoba-Johnson

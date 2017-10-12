@@ -18,6 +18,7 @@ abstract: Genomic technologies, such as array comparative genomic hybridization 
 authors: Hostetter G, Kim SY, Savage S, Gooden GC, Barrett M, Zhang J, Alla L, Watanabe
   A, Einspahr J, Prasad A, Nickoloff BJ, Carpten J, Trent J, Alberts D and Bittner
   M.
+cancertypes: []
 contact:
   email: ghostetter@tgen.org
   name: Galen Hostetter

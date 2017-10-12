@@ -9,6 +9,9 @@ abstract: A cerebellar pilocytic astrocytoma (PA) in a child recurred first with
   suggest that other genes may influence tumor morphology.
 authors: Fiset PO, Fontebasso AM, De Jay N, Gayden T, Nikbakht H, Majewski J, Jabado
   N, Albrecht S.
+cancertypes:
+- term_id: seer:31010
+  term_label: brain
 contact:
   email: steffen.albrecht@hotmail.com
   name: Steffen Albrecht

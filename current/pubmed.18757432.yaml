@@ -24,6 +24,7 @@ abstract: The 8p11-12 chromosome region is one of the regions most frequently am
   DUSP22.
 authors: Bernard-Pierrot I, Gruel N, Stransky N, Vincent-Salomon A, Reyal F, Raynal
   V, Vallot C, Pierron G, Radvanyi F and Delattre O.
+cancertypes: []
 contact:
   email: olivier.delattre@curie.fr
   name: Olivier Delattre

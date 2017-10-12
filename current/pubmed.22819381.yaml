@@ -19,6 +19,17 @@ abstract: Primary cutaneous gamma-delta T-cell lymphoma PCGD-TCL , which origina
 authors: Yamamoto-Sugitani M, Kuroda J, Shimura Y, Nagoshi H, Chinen Y, Ohshiro M,
   Mizutani S, Kiyota M, Nakayama R, Kobayashi T, Uchiyama H, Matsumoto Y, Horiike
   S and Taniwaki M.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:NA
+  term_label: ~
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-NA
+  term_label: ~
 contact:
   email: ~
   name: ~

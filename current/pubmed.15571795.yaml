@@ -22,6 +22,7 @@ abstract: We have established a method for using a cDNA array platform in combin
   tumor tissues.
 authors: Tsuda H, Birrer MJ, Ito YM, Ohashi Y, Lin M, Lee C, Wong WH, Rao PH, Lau
   CC, Berkowitz RS, Wong KK and Mok SC.
+cancertypes: []
 contact:
   email: ~
   name: S.C. Mok

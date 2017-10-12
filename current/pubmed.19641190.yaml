@@ -20,6 +20,17 @@ authors: Russell LJ, Capasso M, Vater I, Akasaka T, Bernard OA, Calasanz MJ, Cha
   O, Irving J, Kearney L, Nguyen-Khac F, Machado L, Minto L, Majid A, Moorman AV,
   Morrison H, Rand V, Strefford JC, Schwab C, Tonnies H, Dyer MJ, Siebert R and Harrison
   CJ.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: christine.harrison@ncl.ac.uk
   name: Christine Harrison

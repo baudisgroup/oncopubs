@@ -22,6 +22,17 @@ abstract: 'Triple-negative breast cancer TNBC is defined by a lack of expression
   1045-2257 suppmat.'
 authors: Han W, Jung EM, Cho J, Lee JW, Hwang KT, Yang SJ, Kang JJ, Bae JY, Jeon YK,
   Park IA, Nicolau M, Jeffrey SS and Noh DY.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: dynoh@plaza.snu.ac.kr
   name: Dong-Young Noh

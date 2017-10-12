@@ -11,6 +11,17 @@ abstract: We applied the technique of comparative genomic hybridization CGH to a
   types of tumors. These regions, therefore, may harbor genes that play a role in
   the etiology of BWS-associated tumors in general.
 authors: Steenman M, Tomlinson G, Westerveld A and Mannens M.
+cancertypes:
+- term_id: ncit:C3728
+  term_label: Hepatoblastoma
+- term_id: pgx:icdom:8970_3
+  term_label: Hepatoblastoma
+- term_id: pgx:icdot:C22
+  term_label: Liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-89703
+  term_label: Hepatoblastoma
 contact:
   email: m.a.mannens@amc.uva.nl
   name: M. Mannens

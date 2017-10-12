@@ -22,6 +22,23 @@ abstract: The application of comparative genomic hybridization CGH has led to th
   GC and that the majority of advanced cancers derive from early cancers through the
   accumulation of various sideline changes in addition to stemline changes.
 authors: Peng DF, Sugihara H, Mukaisho K, Tsubosa Y and Hattori T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3774
+  term_label: Signet Ring Cell Carcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8490_3
+  term_label: Signet ring cell carcinoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-84903
+  term_label: Signet ring cell carcinoma
 contact:
   email: sugihara@belle.shiga-med.ac.jp
   name: Hiroyuki Sugihara

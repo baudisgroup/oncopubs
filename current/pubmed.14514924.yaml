@@ -7,6 +7,29 @@ abstract: Gastric cancer is one of the most frequent malignancies in the world, 
   relevant to designing focused prevention strategies.
 authors: Weiss MM, Kuipers EJ, Postma C, Snijders AM, Stolte M, Vieth M, Pinkel D,
   Meuwissen SG, Albertson D and Meijer GA.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: ~
   name: G. A. Meijer

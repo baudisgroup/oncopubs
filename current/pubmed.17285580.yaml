@@ -21,6 +21,29 @@ abstract: 'Deletions on chromosomes 1p and 19q are associated with favorable pro
   unfavorable genomic aberrations identified.'
 authors: Trost D, Ehrler M, Fimmers R, Felsberg J, Sabel MC, Kirsch L, Schramm J,
   Wiestler OD, Reifenberger G and Weber RG.
+cancertypes:
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

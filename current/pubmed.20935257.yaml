@@ -8,6 +8,7 @@ abstract: Chromosomal translocations in hematological malignancies often result 
   a chimeric fusion transcript has not been reported previously in human leukemia.
 authors: Such E, Cervera J, Valencia A, Barragan E, Ibanez M, Luna I, Fuster O, Perez-Sirvent
   ML, Senent L, Sempere A, Martinez J, Martin-Aragones G and Sanz MA.
+cancertypes: []
 contact:
   email: msanz@uv.es
   name: Miguel Sanz

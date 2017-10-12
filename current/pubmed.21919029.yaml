@@ -3,6 +3,7 @@ abstract: Castration-resistant prostate cancer CRPC represents a therapeutic cha
   for current medications.
 authors: Vainio P, Wolf M, Edgren H, He T, Kohonen P, Mpindi JP, Smit F, Verhaegh
   G, Schalken J, Perala M, Iljin K and Kallioniemi O.
+cancertypes: []
 contact:
   email: olli.kallioniemi@helsinki.fi
   name: Olli Kallioniemi

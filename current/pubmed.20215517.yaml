@@ -21,6 +21,7 @@ abstract: Because topoisomerase 1 TOP1 is critical for the relaxation of DNA sup
   within intron 1 of the TOP1 gene associated with a quadruplex-prone region.
 authors: Reinhold WC, Mergny JL, Liu H, Ryan M, Pfister TD, Kinders R, Parchment R,
   Doroshow J, Weinstein JN and Pommier Y.
+cancertypes: []
 contact:
   email: wcr@mail.nih.gov
   name: William Reinhold

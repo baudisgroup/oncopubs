@@ -19,6 +19,7 @@ abstract: Little is known about the prognostic impact of chromosome aberrations 
   prognostic parameters.
 authors: Seute A, Sinn HP, Schlenk RF, Emig R, Wallwiener D, Grischke EM, Hohaus S,
   Dohner H, Haas R and Bentz M.
+cancertypes: []
 contact:
   email: martin.bentz@medizin.uni-ulm.de
   name: Martin Bentz

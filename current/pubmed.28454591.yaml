@@ -29,6 +29,9 @@ authors: Johns AL, McKay SH, Humphris JL, Pinese M, Chantrill LA, Mead RS, Tucke
   N, Kassahn KS, Samra JS, Miller DK, Chang DK, Pajic M, Australian Pancreatic Cancer
   Genome Initiative, Pearson JV, Grimmond SM, Waddell N, Zeps N, Gill AJ, Biankin
   AV.
+cancertypes:
+- term_id: seer:21100
+  term_label: pancreas
 contact:
   email: andrew.biankin@glasgow.ac.uk
   name: Andrew V. Biankin

@@ -19,6 +19,19 @@ abstract: Squamous cell carcinoma (SCC) of the lung is a frequent and aggressive
   SCC.
 authors: Hussenet T, Dali S, Exinger J, Monga B, Jost B, Dembelï¿½ D, Martinet N,
   Thibault C, Huelsken J, Brambilla E and du Manoir S
+cancertypes:
+- term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: hussenet@igbmc.fr
   name: ~

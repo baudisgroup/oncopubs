@@ -20,6 +20,17 @@ abstract: We analyzed, by the latest high-resolution SNP arrays, 19 Normal Karyo
   mutations of AML.
 authors: Barresi V, Romano A, Musso N, Capizzi C, Consoli C, Martelli MP, Palumbo
   G, Di Raimondo F and Condorelli DF.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: Daniele Condorelli

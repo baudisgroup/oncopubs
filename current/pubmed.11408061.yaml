@@ -7,6 +7,7 @@ abstract: 'Fourteen malignant gastrointestinal stromal tumors GISTs , characteri
   were frequent on the long arm of chromosome 1, as were losses of DNA copy number
   detected in chromosomes 13, 14, 15 and 22.'
 authors: Derre J, Lagace R, Terrier P, Sastre X and Aurias A.
+cancertypes: []
 contact:
   email: alain.aurias@curie.fr
   name: Alain Aurias

@@ -18,6 +18,17 @@ abstract: Pediatric acute lymphoblastic leukemia ALL comprises genetically disti
   novel pathways involved in B-progenitor ALL pathogenesis.
 authors: Bungaro S, DellOrto MC, Zangrando A, Basso D, Gorletta T, Lo Nigro L, Leszl
   A, Young BD, Basso G, Bicciato S, Biondi A, te Kronnie G and Cazzaniga G.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: abiondi.unimib@gmail.com
   name: Andrea Biondi

@@ -6,6 +6,17 @@ abstract: Until recently, chromosomal translocations and fusion genes have been 
   underlying genomic rearrangements.
 authors: Edgren H, Murumagi A, Kangaspeska S, Nicorici D, Hongisto V, Kleivi K, Rye
   IH, Nyberg S, Wolf M, Borresen-Dale AL and Kallioniemi O.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: olli.kallioniemi@helsinki.fi
   name: Olli Kallioniemi

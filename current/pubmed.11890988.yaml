@@ -13,6 +13,7 @@ abstract: Ovarian cancer is one of the most frequent gynecological malignancies 
   identified in this study provide candidate regions that may contain oncogenes or
   tumor suppressor genes involved in the development and progression of ovarian cancer.
 authors: Sham JS, Tang TC, Fang Y, Sun L, Qin LX, Wu QL, Xie D and Guan XY.
+cancertypes: []
 contact:
   email: xyguan@hkucc.hku.hk
   name: Xin-Yuan Guan

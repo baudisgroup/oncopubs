@@ -23,6 +23,7 @@ abstract: Tumor grade is an established indicator of breast cancer outcome, alth
   if it is to have a major impact on management of patients with breast cancer.
 authors: Jones C, Ford E, Gillett C, Ryder K, Merrett S, Reis-Filho JS, Fulford LG,
   Hanby A and Lakhani SR.
+cancertypes: []
 contact:
   email: s.lakhani@uq.edu.au
   name: Sunil R. Lakhani

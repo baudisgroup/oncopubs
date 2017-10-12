@@ -25,6 +25,9 @@ abstract: Helicobacter pylori infection is associated with risk for chronic gast
   carcinogenesis. In particular, CagL-Glu59 has the possible association with GC.
 authors: Ogawa H, Iwamoto A, Tanahashi T, Okada R, Yamamoto K, Nishiumi S, Yoshida
   M, Azuma T.
+cancertypes:
+- term_id: seer:20050
+  term_label: Gum and Other Mouth
 contact:
   email: ~
   name: Jingzhou Hu

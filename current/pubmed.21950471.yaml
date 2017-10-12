@@ -5,6 +5,7 @@ abstract: Field cancerization is an accepted model for oral carcinogenesis. So f
   flow cytometry hr DNA-FCM and array-Comparative Genomic Hybridization a-CGH .
 authors: Pentenero M, Donadini A, Di Nallo E, Maffei M, Marino R, Familiari U, Castagnola
   P, Gandolfo S and Giaretti W.
+cancertypes: []
 contact:
   email: ~
   name: Monica Pentenero

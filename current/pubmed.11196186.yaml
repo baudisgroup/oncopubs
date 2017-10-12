@@ -18,6 +18,7 @@ abstract: Bladder cancer is often characterized by a multifocal growth pattern. 
   migration of tumor cells carrying specific chromosomal aberrations.
 authors: Simon R, Eltze E, Schafer KL, Burger H, Semjonow A, Hertle L, Dockhorn-Dworniczak
   B, Terpe HJ and Bocker W.
+cancertypes: []
 contact:
   email: ronald_simon_de@yahoo.de
   name: Ronald Simon

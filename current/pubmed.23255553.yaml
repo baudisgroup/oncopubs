@@ -19,6 +19,17 @@ authors: Salaverria I, Royo C, Carvajal-Cuenca A, Clot G, Navarro A, Valera A, S
   JY, Woroniecka R, Rymkiewicz G, Klapper W, Hartmann EM, Sujobert P, Wlodarska I,
   Ferry JA, Gaulard P, Ott G, Rosenwald A, Lopez-Guillermo A, Quintanilla-Martinez
   L, Harris NL, Jaffe ES, Siebert R, Campo E and Bea S.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: ~
   name: ~

@@ -22,6 +22,17 @@ abstract: Human colorectal cancer CRC is one of the better-understood systems fo
   with CNAs found in one species only.
 authors: Tang J, Le S, Sun L, Yan X, Zhang M, Macleod J, Leroy B, Northrup N, Ellis
   A, Yeatman TJ, Liang Y, Zwick ME and Zhao S.
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: szhao@bmb.uga.edu
   name: Shaying Zhao

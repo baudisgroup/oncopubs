@@ -17,6 +17,7 @@ abstract: We hypothesized that analysis of single nucleotide polymorphism arrays
 authors: Traina F, Visconte V, Jankowska AM, Makishima H, OKeefe CL, Elson P, Han
   Y, Hsieh FH, Sekeres MA, Mali RS, Kalaycio M, Lichtin AE, Advani AS, Duong HK, Copelan
   E, Kapur R, Olalla Saad ST, Maciejewski JP and Tiu RV.
+cancertypes: []
 contact:
   email: tiur@ccf.org
   name: Ramon Tiu

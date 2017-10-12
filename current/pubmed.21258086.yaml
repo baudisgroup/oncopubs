@@ -20,6 +20,7 @@ abstract: Common fragile sites cFS represent chromosomal regions that are prone 
   by inducing extra replication rounds, and provide new insights into the highly recombinogenic
   nature of cFS in the human cancer genome.
 authors: Blumrich A, Zapatka M, Brueckner LM, Zheglo D, Schwab M and Savelyeva L.
+cancertypes: []
 contact:
   email: ~
   name: Larissa Savelyeva

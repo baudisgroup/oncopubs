@@ -19,6 +19,23 @@ abstract: Angioimmunoblastic T-cell lymphoma AILT is a histopathologically well-
   between AILT and PTCL-u.
 authors: Thorns C, Bastian B, Pinkel D, Roydasgupta R, Fridlyand J, Merz H, Krokowski
   M, Bernd HW and Feller AC.
+cancertypes:
+- term_id: ncit:C7204
+  term_label: T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: ncit:C7528
+  term_label: Angioimmunoblastic T-Cell Lymphoma
+- term_id: pgx:icdom:9702_3
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: pgx:icdom:9705_3
+  term_label: Angioimmunoblastic T-cell lymphoma
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-97023
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: snmi:M-97053
+  term_label: Angioimmunoblastic T-cell lymphoma
 contact:
   email: thorns@patho.uni-luebeck.de
   name: Christoph Thorns

@@ -16,6 +16,9 @@ abstract: Meningiomas, derived from arachnoid cap cells, are the most common int
   especially as tools to investigate the signaling pathways of, and subsequent resistance
   to, therapeutics currently in clinical trials.
 authors: Mei Y, Bi WL, Greenwald NF, Agar NY, Beroukhim R, Dunn GP, Dunn IF.
+cancertypes:
+- term_id: seer:31010
+  term_label: brain
 contact:
   email: idunn@partners.org
   name: Ian F. Dunn

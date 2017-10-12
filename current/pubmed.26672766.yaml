@@ -22,6 +22,7 @@ abstract: Multifocal tumors developed either as independent tumors or as intrahe
   that is frequently inactivated in human HCC.
 authors: Shi JY, Xing Q, Duan M, Wang ZC, Yang LX, Zhao YJ, Wang XY, Liu Y, Deng M,
   Ding ZB, Ke AW, Zhou J, Fan J, Cao Y, Wang J, Xi R and Gao Q
+cancertypes: []
 contact:
   email: gao.qiang@zs-hospital.sh.cn
   name: Qiang Gao

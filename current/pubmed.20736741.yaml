@@ -8,6 +8,7 @@ abstract: Chromosomal imbalances are commonly seen in cancer and inherited genet
   of virtual karyotyping of FFPE tissues with Affymetrix SNP arrays.
 authors: Alvarez K, Kash SF, Lyons-Weiler MA, Kim HJ, Peterson LE, Mathai B, Hagenkord
   JM, and Monzon FA.
+cancertypes: []
 contact:
   email: famonzon@tmhs.org
   name: Federico Monzon

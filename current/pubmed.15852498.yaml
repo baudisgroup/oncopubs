@@ -24,6 +24,29 @@ abstract: 'It was recently shown by flow and static cytometry that a large sub-g
   chromosome losses, in which the tumours display a common follicular architecture.'
 authors: Castro P, Eknaes M, Teixeira MR, Danielsen HE, Soares P, Lothe RA and Sobrinho-Simoes
   M.
+cancertypes:
+- term_id: ncit:C3502
+  term_label: Thyroid Gland Follicular Adenoma
+- term_id: ncit:C4160
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8330_0
+  term_label: Follicular adenoma
+- term_id: pgx:icdom:8333_0
+  term_label: Microfollicular adenoma, NOS
+- term_id: pgx:icdom:8335_3
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-83300
+  term_label: Follicular adenoma
+- term_id: snmi:M-83330
+  term_label: Microfollicular adenoma, NOS
+- term_id: snmi:M-83353
+  term_label: Follicular carcinoma, minimally invasive
 contact:
   email: sobrinho.simoes@ipatimup.pt
   name: Manuel Sobrinho-Simoes

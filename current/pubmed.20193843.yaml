@@ -21,6 +21,7 @@ abstract: Stable cell lines obtained by spontaneous immortalization might repres
   model for various studies.
 authors: Soucek K, Gajduskova P, Brazdova M, Hyzdalova M, Koci L, Vydra D, Trojanec
   R, Pernicova Z, Lentvorska L, Hajduch M, Hofmanova J and Kozubik A.
+cancertypes: []
 contact:
   email: ksoucek@ibp.cz
   name: Karel Soucek

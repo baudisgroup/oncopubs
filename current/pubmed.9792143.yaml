@@ -18,6 +18,7 @@ abstract: DNA copy number changes were compared in 29 histologically benign foll
   few losses and frequent gains, especially those of chromosome 7. A loss of chromosome
   22 is common in widely invasive follicular carcinoma.
 authors: Hemmer S, Wasenius VM, Knuutila S, Joensuu H and Franssila K.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

@@ -12,6 +12,7 @@ abstract: Germ-line mutations in the BRCA1 and BRCA2 genes confer a predispositi
   main pathway in tumor progression of both inherited and sporadic ovarian carcinomas.
 authors: Tapper J, Sarantaus L, Vahteristo P, Nevanlinna H, Hemmer S, Seppala M, Knuutila
   S and Butzow R.
+cancertypes: []
 contact:
   email: ralf.butzow@huch.fi
   name: Ralf Butzow

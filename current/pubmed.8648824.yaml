@@ -2,6 +2,7 @@
 abstract: To compare comparative genomic hybridization CGH with restriction fragment
   length polymorphism RFLP analysis in renal cell carcinoma RCC .
 authors: Presti JC Jr, Moch H, Reuter VE, Cordon-Cardo C and Waldman FM.
+cancertypes: []
 contact:
   email: waldman@cc.ucsf.edu
   name: Frederic M. Waldman

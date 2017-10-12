@@ -19,6 +19,7 @@ abstract: Several tumour suppressor genes TSG have been identified as a result o
   cHL.
 authors: Giefing M, Arnemann J, Martin-Subero JI, Nielander I, Bug S, Hartmann S,
   Arnold N, Tiacci E, Frank M, Hansmann ML, Kuppers R and Siebert R.
+cancertypes: []
 contact:
   email: rsiebert@medgen.uni-kiel.de
   name: Reiner Siebert

@@ -19,6 +19,7 @@ abstract: Amplification of chromosomal region 11q13, containing the cell cycle r
   11q13 includes many potential target genes in addition to CCND1.
 authors: Holm K, Staaf J, Jonsson G, Vallon-Christersson J, Gunnarsson H, Arason A,
   Magnusson L, Barkardottir RB, Hegardt C, Ringner M and Borg A.
+cancertypes: []
 contact:
   email: karolina.holm@med.lu.se
   name: Karolina Holm

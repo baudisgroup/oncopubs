@@ -13,6 +13,7 @@ abstract: "Testicular germ cell tumours (TGCTs) are the most common cancer in yo
 authors: Litchfield K, Summersgill B, Yost S, Sultana R, Labreche K, Dudakia D, Renwick
   A, Seal S, Al-Saadi R, Broderick P, Turner NC, Houlston RS, Huddart R, Shipley J
   and Turnbull C
+cancertypes: []
 contact:
   email: ~
   name: Clare Turnbull

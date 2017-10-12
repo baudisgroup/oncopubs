@@ -18,6 +18,19 @@ abstract: Bladder cancer is the most common malignancy in many tropical and subt
   that although SA cancers share genetic features, there also exist histology-specific
   regions of gain and loss.
 authors: Vauhkonen H, Bohling T, Eissa S, Shoman S and Knuutila S.
+cancertypes:
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~
   name: Hanna Vauhkonen

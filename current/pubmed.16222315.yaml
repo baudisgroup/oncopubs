@@ -25,6 +25,7 @@ abstract: 'High-resolution array comparative genomic hybridisation aCGH analysis
   fingerprint of radiation-associated breast cancer.'
 authors: Varma G, Varma R, Huang H, Pryshchepava A, Groth J, Fleming D, Nowak NJ,
   McQuaid D, Conroy J, Mahoney M, Moysich K, Falkner KL and Geradts J.
+cancertypes: []
 contact:
   email: joseph.geradts@duke.edu
   name: J. Geradts

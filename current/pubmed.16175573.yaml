@@ -23,6 +23,7 @@ authors: Bignell G, Smith R, Hunter C, Stephens P, Davies H, Greenman C, Teague 
   A, Perry J, Petty R, Raine K, Shepherd R, Small A, Solomon H, Stephens Y, Tofts
   C, Varian J, Webb A, West S, Widaa S, Yates A, Gillis AJ, Stoop HJ, van Gurp RJ,
   Oosterhuis JW, Looijenga LH, Futreal PA, Wooster R and Stratton MR.
+cancertypes: []
 contact:
   email: paf@sanger.ac.uk
   name: P. Andrew Futreal

@@ -15,6 +15,21 @@ abstract: Identifying modifiers of glioma risk in patients with type I neurofibr
 authors: Warrington NM, Sun T, Luo J, McKinstry RC, Parkin PC, Ganzhorn S, Spoljaric
   D, Albers AC, Merkelson A, Stewart DR, Stevenson DA, Viskochil D, Druley TE, Forys
   JT, Reilly KM, Fisher MJ, Tabori U, Allen JC, Schiffman JD, Gutmann DH, Rubin JB.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:null
+  term_label: ~
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:null
+  term_label: 'null'
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-null
+  term_label: ~
 contact:
   email: ~
   name: Joshua Rubin

@@ -22,6 +22,7 @@ abstract: The evolution of somatic genetic aberrations in breast cancer has rema
   pathway where structural chromosomal aberrations precede gross DNA ploidy changes.
 authors: Tanner MM, Karhu RA, Nupponen NN, Borg A, Baldetorp B, Pejovic T, Ferno M,
   Killander D and Isola JJ.
+cancertypes: []
 contact:
   email: jorma.isola@uta.fi
   name: Jorma Isola

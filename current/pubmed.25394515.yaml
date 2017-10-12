@@ -15,8 +15,8 @@ abstract: Response to drug therapy in individual colorectal cancer (CRC) patient
 authors: Haan JC, Labots M, Rausch C, Koopman M, Tol J, Mekenkamp LJ, van de Wiel
   MA, Israeli D, van Essen HF, van Grieken NC, Voorham QJ, Bosch LJ, Qu X, Kabbarah
   O, Verheul HM, Nagtegaal ID, Punt CJ, Ylstra B, Meijer GA.
-cancertype:
-  term_id: seer:21049
+cancertypes:
+- term_id: seer:21049
   term_label: large intestine, nos
 contact:
   email: GA.Meijer@vumc.nl

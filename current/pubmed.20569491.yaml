@@ -8,6 +8,27 @@ abstract: Cancer is a heterogeneous disease caused by genomic aberrations and ch
   A classification based on genome-wide copy number patterns would be better suited
   for this purpose.
 authors: Lu X, Zhang K, Van Sant C, Coon J and Semizarov D.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: dimitri.semizarov@abbott.com
   name: Dimitri Semizarov

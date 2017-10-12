@@ -12,6 +12,17 @@ abstract: Molecular cytogenetics is helpful to identify complex and cryptic geno
   1.
 authors: Matteucci C, La Starza R, Crescenzi B, Falzetti D, Romoli S, Emiliani C,
   Orlacchio A, Marynen P, Martelli MF and Mecucci C.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: ~
   name: ~

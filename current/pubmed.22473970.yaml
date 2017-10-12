@@ -18,6 +18,7 @@ abstract: The BRCA1 and BRCA2 genes are involved in breast and ovarian cancer su
   capable of detecting small mutations.
 authors: Cheeseman K, Rouleau E, Vannier A, Thomas A, Briaux A, Lefol C, Walrafen
   P, Bensimon A, Lidereau R, Conseiller E and Ceppi M.
+cancertypes: []
 contact:
   email: m.ceppi@genomicvision.com
   name: Maurizio Ceppi

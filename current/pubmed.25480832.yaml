@@ -22,6 +22,9 @@ abstract: 'Breast cancers in carriers of inactivating mutations of the BRCA1 gen
   may be a predictive marker for HD alkylating chemotherapy.'
 authors: Schouten PC, Marmï¿½ F, Aulmann S, Sinn HP, van Essen HF, Ylstra B, Hauptmann
   M, Schneeweiss A, Linn SC.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: philip.schouten@gmail.com
   name: Philip C Schouten

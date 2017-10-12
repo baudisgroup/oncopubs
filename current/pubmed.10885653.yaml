@@ -26,6 +26,17 @@ abstract: Astroblastomas are uncommon brain tumors whose classification and hist
   characteristic cytogenetic profile in addition to their distinctive clinical, radiographic,
   and histopathologic features.
 authors: Brat DJ, Hirose Y, Cohen KJ, Feuerstein BG and Burger PC.
+cancertypes:
+- term_id: ncit:C4324
+  term_label: Astroblastoma
+- term_id: pgx:icdom:9430_3
+  term_label: Astroblastoma
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94303
+  term_label: Astroblastoma
 contact:
   email: ~
   name: DJ Brat

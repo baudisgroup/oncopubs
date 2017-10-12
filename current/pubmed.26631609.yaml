@@ -20,6 +20,9 @@ abstract: Adenoid cystic carcinoma (ACC) is an indolent salivary gland malignanc
   and 5'-NFIB gene fusions.
 authors: Mitani Y, Liu B, Rao PH, Borra VJ, Zafereo M, Weber RS, Kies M, Lozano G,
   Futreal PA, Caulin C, El-Naggar AK.
+cancertypes:
+- term_id: seer:20030
+  term_label: salivary gland
 contact:
   email: anaggar@mdanderson.org
   name: Adel K. El-Naggar

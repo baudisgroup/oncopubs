@@ -11,6 +11,7 @@ abstract: Comparative genomic hybridization was applied to 5 breast cancer cell 
   tens of Mb, suggesting involvement of more than one gene in each region.
 authors: Kallioniemi A, Kallioniemi OP, Piper J, Tanner M, Stokke T, Chen L, Smith
   HS, Pinkel D, Gray JW and Waldman FM.
+cancertypes: []
 contact:
   email: ~
   name: ~

@@ -27,6 +27,17 @@ abstract: 'Thymic carcinomas are rare malignant neoplasms which comprise several
   limited follow-up information.'
 authors: Di Tommaso L, Kuhn E, Kurrer M, Zettl A, Marx A, Muller-Hermelink HK, Roncalli
   M and Rosai J.
+cancertypes:
+- term_id: ncit:C2970
+  term_label: Adenoid Cystic Carcinoma
+- term_id: pgx:icdom:8200_3
+  term_label: Adenoid cystic carcinoma
+- term_id: pgx:icdot:C38
+  term_label: mediastinum
+- term_id: pgx:seer:22060
+  term_label: Trachea, Mediastinum and Other Respiratory Organs
+- term_id: snmi:M-82003
+  term_label: Adenoid cystic carcinoma
 contact:
   email: luca.di_tommaso@humanitas.it
   name: Luca Di Tommaso

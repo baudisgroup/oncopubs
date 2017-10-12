@@ -21,6 +21,17 @@ abstract: It is generally accepted that human cancers derive from a mutated sing
   end stage of disease.
 authors: Sabatino M, Zhao Y, Voiculescu S, Monaco A, Robbins P, Karai L, Nickoloff
   BJ, Maio M, Selleri S, Marincola FM and Wang E.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: ~
   name: ~

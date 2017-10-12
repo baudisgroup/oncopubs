@@ -31,6 +31,9 @@ abstract: Purpose To assess the underlying genomic variation of prostate gland m
   to be high grade and normal. ï¿½ RSNA, 2017 Online supplemental material is available
   for this article.
 authors: Jamshidi N, Margolis DJ, Raman S, Huang J, Reiter RE, Kuo MD.
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: mikedkuo@gmail.com
   name: Mike D Kuo

@@ -18,6 +18,27 @@ abstract: Integrative genomics approaches associating DNA structure and transcri
   of chromosome allelic loss in determining the aggressiveness and malignancy of tumors.
 authors: Wierinckx A, Roche M, Raverot G, Legras-Lachuer C, Croze S, Nazaret N, Rey
   C, Auger C, Jouanneau E, Chanson P, Trouillas J and Lachuer J.
+cancertypes:
+- term_id: ncit:C4536
+  term_label: Pituitary Gland Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8272_3
+  term_label: Pituitary carcinoma, NOS
+- term_id: pgx:icdot:C75.1
+  term_label: pituitary gland
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-82723
+  term_label: Pituitary carcinoma, NOS
 contact:
   email: ~
   name: Joel Lachuer

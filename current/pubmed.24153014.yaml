@@ -2,6 +2,19 @@
 abstract: ~
 authors: Schmidt J, Salaverria I, Haake A, Bonzheim I, Adam P, Montes-Moreno S, Piris
   MA, Fend F, Siebert R and Quintanilla-Martinez L.
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: ~
   name: ~

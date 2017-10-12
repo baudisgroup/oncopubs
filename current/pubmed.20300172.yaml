@@ -9,6 +9,27 @@ abstract: Solid tumors, including head and neck squamous cell carcinomas HNSCC ,
   the global local relationships between these types of alterations in HNSCC.
 authors: Poage GM, Christensen BC, Houseman EA, McClean MD, Wiencke JK, Posner MR,
   Clark JR, Nelson HH, Marsit CJ and Kelsey KT.
+cancertypes:
+- term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: Karl Kelsey

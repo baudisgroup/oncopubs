@@ -11,6 +11,7 @@ abstract: We used a combination of spectral karyotyping, array comparative genom
   that other mechanisms of gene regulation that are not directly related to chromosomal
   gains and losses play a major role in breast cancer progression.
 authors: Marella NV, Malyavantham KS, Wang J, Matsui S, Liang P and Berezney R.
+cancertypes: []
 contact:
   email: ~
   name: Ronald Berezney

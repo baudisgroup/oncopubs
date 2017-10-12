@@ -17,6 +17,7 @@ abstract: Hereditary breast cancers BCs are incompletely explained by BRCA genes
   2010 Wiley-Liss, Inc.
 authors: Sabatier R, Adelaide J, Finetti P, Ferrari A, Huiart L, Sobol H, Chaffanet
   M, Birnbaum D and Bertucci F.
+cancertypes: []
 contact:
   email: bertuccif@marseille.fnclcc.fr
   name: Francois Bertucci

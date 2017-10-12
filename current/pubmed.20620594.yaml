@@ -17,6 +17,25 @@ abstract: We aimed to characterize the genomic profiles of adenocarcinomas in th
   adenocarcinomas of the distal esophagus and gastroesophageal junction alike.
 authors: Isinger-Ekstrand A, Johansson J, Ohlsson M, Francis P, Staaf J, Jonsson M,
   Borg A and Nilbert M.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:C4025
+  term_label: Esophageal Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Anna Isinger-Ekstrand

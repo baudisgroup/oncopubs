@@ -19,6 +19,17 @@ authors: Chapman MA, Lawrence MS, Keats JJ, Cibulskis K, Sougnez C, Schinzel AC,
   LM, Onofrio R, Pugh TJ, Rajkumar SV, Ramos AH, Siegel DS, Sivachenko A, Stewart
   AK, Trudel S, Vij R, Voet D, Winckler W, Zimmerman T, Carpten J, Trent J, Hahn WC,
   Garraway LA, Meyerson M, Lander ES, Getz G and Golub TR.
+cancertypes:
+- term_id: ncit:C3242
+  term_label: Plasma Cell Myeloma
+- term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
 contact:
   email: ~
   name: ~

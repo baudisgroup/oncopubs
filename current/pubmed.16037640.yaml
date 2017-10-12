@@ -17,6 +17,7 @@ abstract: 'Invasive head and neck squamous carcinomas are among the cytogenetica
   larynx and pharynx squamous cell carcinomas.'
 authors: Hermsen M, Alonso Guervos M, Meijer G, van Diest P, Suarez Nieto C, Marcos
   CA and Sampedro A.
+cancertypes: []
 contact:
   email: mhermsen@hca.es
   name: Mario A.J.A. Hermsen

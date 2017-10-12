@@ -23,6 +23,37 @@ abstract: ' BACKGROUND: Intracranial pediatric germ cell tumors (GCTs) are rare 
   GCT malignancy. The genes, pathways and microRNAs identified have the potential
   to be novel therapeutic targets.'
 authors: Wang HW, Wu YH, Hsieh JY, Liang ML, Chao ME, Liu DJ, Hsu MT, Wong TT.
+cancertypes:
+- term_id: ncit:C3011
+  term_label: Yolk Sac Tumor
+- term_id: ncit:C3403
+  term_label: Tetratoma
+- term_id: ncit:C3708
+  term_label: Germ Cell Tumor
+- term_id: ncit:C9015
+  term_label: Mature Teratoma
+- term_id: pgx:icdom:9064_3
+  term_label: Germinoma
+- term_id: pgx:icdom:9071_3
+  term_label: Yolk sac tumor
+- term_id: pgx:icdom:9080_0
+  term_label: Teratoma, benign
+- term_id: pgx:icdom:9080_3
+  term_label: Teratoma, malignant, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: seer:31010
+  term_label: brain
+- term_id: snmi:M-90643
+  term_label: Germinoma
+- term_id: snmi:M-90713
+  term_label: Yolk sac tumor
+- term_id: snmi:M-90800
+  term_label: Teratoma, benign
+- term_id: snmi:M-90803
+  term_label: Teratoma, malignant, NOS
 contact:
   email: allenwu03@gmail.com
   name: YuHsuan Wu

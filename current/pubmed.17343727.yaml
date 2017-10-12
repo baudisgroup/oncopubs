@@ -6,6 +6,17 @@ abstract: Array Comparative Genomic Hybridization aCGH is a rapidly evolving tec
   FFPE tissue due to its variable DNA quality. Recently, we have developed an effective
   DNA quality test that predicts suitability of archival samples for BAC aCGH.
 authors: Joosse SA, van Beers EH and Nederlof PM.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: nederlof@nki.nl
   name: Petra Nederlof

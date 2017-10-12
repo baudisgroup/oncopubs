@@ -22,6 +22,9 @@ abstract: Infants with an immobile arm may be easily overlooked in primary care 
   plexus should be considered in the differential diagnosis of an immobile arm in
   infancy.
 authors: Chung CT, Liu YL, Cheng CJ, Hsieh KL, Tsai ML, Wong TT.
+cancertypes:
+- term_id: seer:24000
+  term_label: soft tissue including heart
 contact:
   email: minlan456@hotmail.com
   name: Min-Lan Tsai

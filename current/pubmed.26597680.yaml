@@ -18,6 +18,7 @@ abstract: 'Whole exome sequencing and copy number aberration (CNA) analysis were
 authors: Del Giudice I, Marinelli M, Wang J, Bonina S, Messina M, Chiaretti S, Ilari
   C, Cafforio L, Raponi S, Mauro FR, Di Maio V, De Propris MS, Nanni M, Ciardullo
   C, Rossi D, Gaidano G, Guarini A, Rabadan R and Foï¿½ R
+cancertypes: []
 contact:
   email: delgiudice@bce.uniroma1.it
   name: Ilaria Del Giudice

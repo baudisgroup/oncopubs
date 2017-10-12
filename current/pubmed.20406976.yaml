@@ -22,6 +22,17 @@ abstract: In the present investigation, we sought to refine the classification o
   produce new insights into the development of this tumor type.
 authors: Lindgren D, Frigyesi A, Gudjonsson S, Sjodahl G, Hallden C, Chebil G, Veerla
   S, Ryden T, Mansson W, Liedberg F and Hoglund M.
+cancertypes:
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~
   name: Mattias Hoglund

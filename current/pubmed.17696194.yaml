@@ -21,6 +21,7 @@ abstract: The expression of the chimeric BCR ABL1 fusion gene resulting from t 9
   of genome polymorphism and CML.
 authors: Brazma D, Grace C, Howard J, Melo JV, Holyoke T, Apperley JF and Nacheva
   EP.
+cancertypes: []
 contact:
   email: enacheva@ucl.ac.uk
   name: E.P. Nacheva

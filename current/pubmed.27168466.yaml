@@ -21,6 +21,9 @@ authors: Ryan SL, Matheson E, Grossmann V, Sinclair P, Bashton M, Schwab C, Towe
   W, Partington M, Elliott A, Minto L, Richardson S, Rahman T, Keavney B, Skinner
   R, Bown N, Haferlach T, Vandenberghe P, Haferlach C, Santibanez-Koref M, Moorman
   AV, Kohlmann A, Irving JA and Harrison CJ
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

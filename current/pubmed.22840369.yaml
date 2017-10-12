@@ -19,6 +19,7 @@ abstract: Breast cancer includes high number of molecular entities targetable by
 authors: Arnedos M, Scott V, Job B, De La Cruz J, Commo F, Mathieu MC, Wolp-Diniz
   R, Richon C, Campone M, Bachelot T, Dalenc F, Dessen P, Lacroix L, Lazar V, Soria
   JC, Delaloge S and Andre F.
+cancertypes: []
 contact:
   email: fandre@igr.fr
   name: Fabrice Andre

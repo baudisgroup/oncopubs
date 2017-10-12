@@ -4,6 +4,33 @@ abstract: Genetic changes in sporadic ovarian cancer are relatively poorly chara
   genome arrays for the genetic profiling of epithelial ovarian cancer.
 authors: Gorringe KL, Jacobs S, Thompson ER, Sridhar A, Qiu W, Choong DY and Campbell
   IG.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: ncit:C3769
+  term_label: ~
+- term_id: ncit:C3778
+  term_label: ~
+- term_id: ncit:C7550
+  term_label: Ovarian Serous Adenocarcinoma
+- term_id: pgx:icdom:8380_3
+  term_label: Endometrioid adenocarcinoma, NOS
+- term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdot:C54.1
+  term_label: Endometrium
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-83803
+  term_label: Endometrioid adenocarcinoma, NOS
+- term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
 contact:
   email: Kylie.Gorringe@petermac.org
   name: Kylie Gorringe

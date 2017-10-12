@@ -19,6 +19,9 @@ authors: Baca SC, Prandi D, Lawrence MS, Mosquera JM, Romanel A, Drier Y, Park K
   Ramos AH, Winckler W, Cipicchio M, Ardlie K, Kantoff PW, Berger MF, Gabriel SB,
   Golub TR, Meyerson M, Lander ES, Elemento O, Getz G, Demichelis F, Rubin MA, Garraway
   LA.
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: levi_garraway@dfci.harvard.edu
   name: Levi A. Garraway

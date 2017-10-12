@@ -7,6 +7,17 @@ abstract: We present a computational method, TuMult, for reconstructing the sequ
   tumor samples and the identification of chromosome aberrations occurring at crucial
   steps in cancer progression.
 authors: Letouze E, Allory Y, Bollet MA, Radvanyi F and Guyon F.
+cancertypes:
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: LetouzeE@ligue-cancer.net
   name: Eric Letouze

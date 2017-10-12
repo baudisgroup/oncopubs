@@ -22,6 +22,17 @@ abstract: SET-NUP214 rearrangement is a recently recognized recurrent chromosoma
   chromosomal aberrations identified in this study should provide further areas of
   interest in investigation of SET-NUP214-mediated leukemogenesis.
 authors: Chae H, Lim J, Kim M, Park J, Kim Y, Han K, Lee S and Min WS.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: ~
   name: Jihyang Lim

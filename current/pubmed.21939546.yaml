@@ -9,6 +9,7 @@ abstract: Germ-line mutations in the BRCA1 and BRCA2 genes are major contributor
   the question whether deletion of exon 3 is pathogenic.
 authors: Muller D, Rouleau E, Schultz I, Caputo S, Lefol C, Bieche I, Caron O, Nogues
   C, Limacher JM, Demange L, Lidereau R, Fricker JP and Abecassis J.
+cancertypes: []
 contact:
   email: ~
   name: Joseph Abecassis

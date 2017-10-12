@@ -15,6 +15,7 @@ abstract: We have undertaken a genome-wide single nucleotide polymorphism SNP ar
   or BC. Mutation of ASXL1 represents an important new molecular abnormality in CML.
 authors: Boultwood J, Perry J, Zaman R, Fernandez-Santamaria C, Littlewood T, Kusec
   R, Pellagatti A, Wang L, Clark RE and Wainscoat JS.
+cancertypes: []
 contact:
   email: jacqueline.boultwood@ndcls.ox.ac.uk
   name: Jackie Boultwood

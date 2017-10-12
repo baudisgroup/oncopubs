@@ -9,6 +9,17 @@ abstract: The diagnosis of blastic plasmacytoid dendritic cell neoplasm BPDCN ca
   BPDCN counterpart.
 authors: Rauh MJ, Rahman F, Good D, Silverman J, Brennan MK, Dimov N, Liesveld J,
   Ryan DH, Burack WR and Bennett JM.
+cancertypes:
+- term_id: ncit:C9360
+  term_label: Lymphoblastic Lymphoma
+- term_id: pgx:icdom:9727_3
+  term_label: Precursor cell lymphoblastic lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-97273
+  term_label: Precursor cell lymphoblastic lymphoma, NOS
 contact:
   email: ~
   name: ~

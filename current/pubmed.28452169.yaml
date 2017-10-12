@@ -14,6 +14,9 @@ abstract: A 70-year-old woman was diagnosed with a malignant melanoma of the occ
   as high PD-L1 expression and high SNV.
 authors: Kiyohara Y, Yoshikawa S, Otsuka M, Kondou R, Iizuka A, Nonomura C, Ohshima
   K, Urakami K, Kusuhara M, Nagashima T, Sugino T, Yamaguchi K, Akiyama Y.
+cancertypes:
+- term_id: seer:25010
+  term_label: melanoma of the skin
 contact:
   email: ~
   name: ~

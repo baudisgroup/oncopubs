@@ -21,6 +21,7 @@ abstract: "To date, there have been no reports characterizing the genome-wide so
 authors: Bambury RM, Bhatt AS, Riester M, Pedamallu CS, Duke F, Bellmunt J, Stack
   EC, Werner L, Park R, Iyer G, Loda M, Kantoff PW, Michor F, Meyerson M and Rosenberg
   JE
+cancertypes: []
 contact:
   email: bamburyr@mskcc.org
   name: Richard M Bambury

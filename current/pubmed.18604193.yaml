@@ -17,6 +17,17 @@ abstract: Myoepithelioma, mixed tumor and parachordoma are uncommon soft tissue 
   through the same mechanisms as their salivary gland counterparts.
 authors: Hallor KH, Teixeira MR, Fletcher CD, Bizarro S, Staaf J, Domanski HA, von
   Steyern FV, Panagopoulos I, Mandahl N and Mertens F.
+cancertypes:
+- term_id: ncit:C4199
+  term_label: Epithelial-Myoepithelial Carcinoma
+- term_id: pgx:icdom:8982_0
+  term_label: Myoepithelioma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89820
+  term_label: Myoepithelioma
 contact:
   email: Karolin.Hansen_Hallor@med.lu.se
   name: Karolin H Hallor

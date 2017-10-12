@@ -23,6 +23,7 @@ abstract: 'PURPOSE:New anticancer agents that target a single cell surface recep
 authors: Weiss GJ, Liang WS, Demeure MJ, Kiefer JA, Hostetter G, Izatt T, Sinari S,
   Christoforides A, Aldrich J, Kurdoglu A, Phillips L, Benson H, Reiman R, Baker A,
   Marsh V, Von Hoff DD, Carpten JD and Craig DW.
+cancertypes: []
 contact:
   email: ~
   name: ~

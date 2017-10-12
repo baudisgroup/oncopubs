@@ -16,6 +16,17 @@ abstract: To clarify the mechanism of tumorigenesis in papillary thyroid carcino
   are more likely to be associated with invasion.
 authors: Bauer AJ, Cavalli LR, Rone JD, Francis GL, Burch HB, Tuttle RM, Ringel MD,
   Stratakis CA and Haddad BR.
+cancertypes:
+- term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

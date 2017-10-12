@@ -23,6 +23,7 @@ abstract: "Recurrent gene mutations, chromosomal translocations, and acquired ge
   lesions adds prognostic value to the status of several recurrently mutated genes.
   Clin Cancer Res; 1-12. Â©2015 AACR.  Â©2015 American Association for Cancer Research."
 authors: Parkin B, Ouillette P, Yildiz M, Saiya-Cork K, Shedden K and Malek SN
+cancertypes: []
 contact:
   email: malek@med.umich.edu
   name: Sami N. Malek

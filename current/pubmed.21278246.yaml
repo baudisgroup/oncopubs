@@ -5,6 +5,7 @@ abstract: PD-0332991 is a selective inhibitor of the CDK4 6 kinases with the abi
 authors: Konecny GE, Winterhoff B, Kolarova T, Qi J, Manivong K, Dering J, Yang G,
   Chalukya M, Wang HJ, Anderson L, Kalli KR, Finn RS, Ginther C, Jones S, Velculescu
   VE, Riehle D, Cliby WA, Randolph S, Koehler M, Hartmann LC and Slamon DJ.
+cancertypes: []
 contact:
   email: ~
   name: Gottfried Konecny

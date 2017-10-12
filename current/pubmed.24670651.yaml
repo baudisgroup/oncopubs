@@ -30,6 +30,17 @@ authors: Song Y, Li L, Ou Y, Gao Z, Li E, Li X, Zhang W, Wang J, Xu L, Zhou Y, M
   M, Zhuang X, Huang K, Qiu K, Yin G, Guo G, Feng Q, Chen P, Wu Z, Wu J, Ma L, Zhao
   J, Luo L, Fu M, Xu B, Chen B, Li Y, Tong T, Wang M, Liu Z, Lin D, Zhang X, Yang
   H, Wang J and Zhan Q.
+cancertypes:
+- term_id: ncit:C3513
+  term_label: Esophageal Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: ~
   name: ~

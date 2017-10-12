@@ -4,6 +4,7 @@ abstract: Recurrent non-random genomic alterations are the hallmarks of cancer a
   and cancer progression.
 authors: Chen QR, Bilke S, Wei JS, Whiteford CC, Cenacchi N, Krasnoselsky AL, Greer
   BT, Son CG, Westermann F, Berthold F, Schwab M, Catchpoole D and Khan J.
+cancertypes: []
 contact:
   email: chenqi@mail.nih.gov
   name: Q. R. Chen

@@ -10,6 +10,17 @@ abstract: 'Genetic changes underlying the tumorigenesis of pituitary adenomas PA
   to search for candidate diagnostic markers of HSPA.'
 authors: Fan X, Paetau A, Aalto Y, Valimaki M, Sane T, Poranen A, Castresana JS and
   Knuutila S.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C75.1
+  term_label: pituitary gland
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: ~
   name: ~

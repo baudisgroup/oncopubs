@@ -23,6 +23,7 @@ abstract: Comparative genomic hybridization CGH is an established genetic method
   regions 9q and 20q belonged to the same cluster associated with gains . For the
   incidental cancers such clear correlations could not be demonstrated.
 authors: Mattfeldt T, Wolter H, Trijic D, Gottfried HW and Kestler HA.
+cancertypes: []
 contact:
   email: torsten.mattfeldt@medizin.uni-ulm.de
   name: Torsten Mattfeldt

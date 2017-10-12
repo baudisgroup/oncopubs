@@ -15,6 +15,17 @@ abstract: Hyperplasia of usual type HUT is part of the spectrum of benign prolif
   at very low levels. The limited data from these experiments do not reveal a specific
   predisposition locus.
 authors: Jones C, Merrett S, Thomas VA, Barker TH and Lakhani SR.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: s.lakhani@uq.edu.au
   name: Sunil R. Lakhani

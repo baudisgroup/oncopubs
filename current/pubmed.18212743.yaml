@@ -14,6 +14,17 @@ abstract: Lung cancer is a leading cause of cancer death, where the amplificatio
 authors: Kwei KA, Kim YH, Girard L, Kao J, Pacyna-Gengelbach M, Salari K, Lee J, Choi
   YL, Sato M, Wang P, Hernandez-Boussard T, Gazdar AF, Petersen I, Minna JD and Pollack
   JR.
+cancertypes:
+- term_id: ncit:C4878
+  term_label: Lung Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: ~
   name: JR Pollack

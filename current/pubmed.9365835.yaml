@@ -16,6 +16,21 @@ abstract: Phyllodes tumors are rare neoplasms of the breast. Although they conta
   with recurrence P 0.00365 and might therefore be considered as an indicator of local
   aggressiveness requiring more radical treatment.
 authors: Lu YJ, Birdsall S, Osin P, Gusterson B and Shipley J.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9020_0
+  term_label: Phyllodes tumor, benign
+- term_id: pgx:icdom:9020_3
+  term_label: Phyllodes tumor, malignant
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-90200
+  term_label: Phyllodes tumor, benign
+- term_id: snmi:M-90203
+  term_label: Phyllodes tumor, malignant
 contact:
   email: ~
   name: ~

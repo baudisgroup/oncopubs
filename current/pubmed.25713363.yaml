@@ -23,6 +23,17 @@ abstract: Follicular lymphoma (FL) is incurable with conventional therapies and 
 authors: Green MR, Kihira S, Liu CL, Nair RV, Salari R, Gentles AJ, Irish J, Stehr
   H, Vicente-Dueï¿½as C, Romero-Camarero I, Sanchez-Garcia I, Plevritis SK, Arber
   DA, Batzoglou S, Levy R and Alizadeh AA
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: arasha@stanford.edu
   name: Michael R. Green

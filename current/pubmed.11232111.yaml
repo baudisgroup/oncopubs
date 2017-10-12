@@ -18,6 +18,17 @@ abstract: Malignant mesotheliomas are tumors known for their extensive heterogen
   relationship to the classical mesotheliomas. Therefore, we propose to use the term
   mesodermoma for this subgroup.
 authors: Krismann M, Muller KM, Jaworska M and Johnen G.
+cancertypes:
+- term_id: ncit:C3234
+  term_label: Mesothelioma
+- term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
 contact:
   email: ~
   name: NA Johnen

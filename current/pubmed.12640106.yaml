@@ -20,6 +20,7 @@ abstract: Forty-four samples from 25 cases of retroperitoneal sarcoma initially 
   and if possible, a cytogenetic or a molecular biology analysis.
 authors: Coindre JM, Mariani O, Chibon F, Mairal A, De Saint Aubain Somerhausen N,
   Favre-Guillevin E, Bui NB, Stoeckle E, Hostein I and Aurias A.
+cancertypes: []
 contact:
   email: alain.aurias@curie.fr
   name: Alain Aurias

@@ -15,6 +15,17 @@ abstract: We recently demonstrated that the prognosis for de novo CD5-positive C
   distinct from that of CD5- DLBCL and other CD5 malignancies.
 authors: Karnan S, Tagawa H, Suzuki R, Suguro M, Yamaguchi M, Okamoto M, Morishima
   Y, Nakamura S and Seto M.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: mseto@aichi-cc.jp
   name: Masao Seto

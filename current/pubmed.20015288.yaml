@@ -17,6 +17,17 @@ abstract: Meningiomas are one of the most common adult brain tumors. For most pa
   patients into prognostic risk groups.
 authors: Lee Y, Liu J, Patel S, Cloughesy T, Lai A, Farooqi H, Seligson D, Dong J,
   Liau L, Becker D, Mischel P, Shams S and Nelson S.
+cancertypes:
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:seer:None
+  term_label: ~
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
 contact:
   email: ~
   name: ~

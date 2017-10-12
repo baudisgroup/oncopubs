@@ -13,6 +13,19 @@ abstract: "A chemosensitive single nucleotide polymorphism (SNP) discovery schem
   of GC patients."
 authors: Ha YJ, Yoon SN, Jeon YJ, Cho DH, Roh SA, Kim BS, Kim HJ, Kim SY, Kim YS,
   Kim JC.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:21020
+  term_label: stomach
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: twkang76@gmail.com
   name: Tae-Wook Kang

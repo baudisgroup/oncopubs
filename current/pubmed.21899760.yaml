@@ -5,6 +5,7 @@ abstract: Copy neutral loss of heterozygosity CN-LOH refers to a special case of
   to be important in several types of cancer.
 authors: Kryh H, Caren H, Erichsen J, Sjoberg RM, Abrahamsson J, Kogner P and Martinsson
   T.
+cancertypes: []
 contact:
   email: ~
   name: Tommy Martinsson

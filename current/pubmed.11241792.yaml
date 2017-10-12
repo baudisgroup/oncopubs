@@ -16,6 +16,7 @@ abstract: Primary mediastinal B-cell lymphoma MBL is an aggressive Non-Hodgkins 
   entity.
 authors: Bentz M, Barth TF, Bruderlein S, Bock D, Schwerer MJ, Baudis M, Joos S, Viardot
   A, Feller AC, Muller-Hermelink HK, Lichter P, Dohner H and Moller P.
+cancertypes: []
 contact:
   email: martin.bentz@medizin.uni-ulm.de
   name: Martin Bentz

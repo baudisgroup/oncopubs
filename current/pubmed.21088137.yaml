@@ -19,6 +19,29 @@ abstract: Of the genetic changes in primary central nervous system lymphoma (PCN
   PCNSL.
 authors: Sung CO, Kim SC, Karnan S, Karube K, Shin HJ, Nam DH, Suh YL, Kim SH, Kim
   JY, Kim SJ, Kim WS, Seto M, Ko YH.
+cancertypes:
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:33042
+  term_label: nhl - extranodal
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: co.sung@amc.seoul.kr
   name: ChangOhk Sung

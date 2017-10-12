@@ -21,6 +21,7 @@ abstract: Total genomic DNA sampled from 20 oral squamous cell carcinomas SCCs a
   generation and progression of these tumours.
 authors: Wolff E, Girod S, Liehr T, Vorderwulbecke U, Ries J, Steininger H and Gebhart
   E.
+cancertypes: []
 contact:
   email: ~
   name: E. Gebhart

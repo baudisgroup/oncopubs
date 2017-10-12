@@ -24,6 +24,25 @@ abstract: Hepatoid adenocarcinoma HAC is a special type of extrahepatic adenocar
   respectively.
 authors: Terracciano LM, Glatz K, Mhawech P, Vasei M, Lehmann FS, Vecchione R and
   Tornillo L.
+cancertypes:
+- term_id: ncit:C66950
+  term_label: ~
+- term_id: pgx:icdom:8576_3
+  term_label: Hepatoid adenocarcinoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-85763
+  term_label: Hepatoid adenocarcinoma
 contact:
   email: lterracciano@uhbs.ch
   name: Luigi Terraciano

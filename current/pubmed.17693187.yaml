@@ -18,6 +18,21 @@ abstract: Neuroblastoma NB is a pediatric tumor characterized by high genetic he
   tissue and genetic heterogeneity .
 authors: Scaruffi P, Coco S, Cifuentes F, Albino D, Nair M, Defferrari R, Mazzocco
   K and Tonini GP.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: ~

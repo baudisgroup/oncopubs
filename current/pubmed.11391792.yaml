@@ -16,6 +16,7 @@ abstract: To identify genetic abnormalities in primary hepatocellular carcinoma 
   to that observed in European HCC samples.
 authors: Wang G, Zhao Y, Liu X, Wang L, Wu C, Zhang W, Liu W, Zhang P, Cong W, Zhu
   Y, Zhang L, Chen S, Wan D, Zhao X, Huang W and Gu J.
+cancertypes: []
 contact:
   email: huangwei@chgc.sh.cn, nlorg@public.sta.net.cn
   name: Jianren Gu

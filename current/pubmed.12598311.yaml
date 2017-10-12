@@ -17,6 +17,19 @@ abstract: We have used prostate cancer, the most commonly diagnosed noncutaneous
 authors: Paris PL, Albertson DG, Alers JC, Andaya A, Carroll P, Fridlyand J, Jain
   AN, Kamkar S, Kowbel D, Krijtenburg PJ, Pinkel D, Schroder FH, Vissers KJ, Watson
   VJ, Wildhagen MF, Collins C and Van Dekken H.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: collins@cc.ucsf.edu
   name: Colin Collins

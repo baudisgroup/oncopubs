@@ -23,6 +23,7 @@ abstract: Despite the many efforts already spent to enumerate somatic mutations 
 authors: Mareschal S, Dubois S, Viailly PJ, Bertrand P, Bohers E, Maingonnat C, Jaï¿½s
   JP, Tesson B, Ruminy P, Peyrouze P, Copie-Bergman C, Fest T, Jo Molina T, Haioun
   C, Salles G, Tilly H, Lecroq T, Leroy K and Jardin F
+cancertypes: []
 contact:
   email: fabrice.jardin@chb.unicancer.fr
   name: Fabrice Jardin

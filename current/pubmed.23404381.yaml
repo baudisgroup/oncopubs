@@ -20,6 +20,23 @@ abstract: Little is known about the genomic abnormalities of squamous cell carci
   genes included SPRR2G (in 1q21.3) and S100A7A (in 1q21.3).
 authors: Micci F, Panagopoulos I, Haugom L, Dahlback HS, Pretorius ME, Davidson B,
   Abeler VM, Tropï¿½ CG, Danielsen HE, Heim S.
+cancertypes:
+- term_id: ncit:C4052
+  term_label: Vulvar Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C51.9
+  term_label: vulva, nos
+- term_id: pgx:seer:27060
+  term_label: Vulva
+- term_id: seer:27060
+  term_label: vulva
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: francesca.micci@medisin.uio.no
   name: Francesca Micci

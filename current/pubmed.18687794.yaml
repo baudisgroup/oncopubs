@@ -19,6 +19,7 @@ abstract: 'Array-based comparative genomic hybridization array CGH provides a po
 authors: Gunn SR, Mohammed MS, Gorre ME, Cotter PD, Kim J, Bahler DW, Preobrazhensky
   SN, Higgins RA, Bolla AR, Ismail SH, de Jong D, Eldering E, van Oers MH, Mellink
   CH, Keating MJ, Schlette EJ, Abruzzo LV and Robetorye RS.
+cancertypes: []
 contact:
   email: gunn@uthscsa.edu
   name: Shelly R. Gunn

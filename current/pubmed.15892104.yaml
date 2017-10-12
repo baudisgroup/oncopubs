@@ -24,6 +24,7 @@ abstract: We used array-based comparative genomic hybridization aCGH to measure 
   high-throughput refinement of candidate loci.
 authors: Mosse YP, Greshock J, Margolin A, Naylor T, Cole K, Khazi D, Hii G, Winter
   C, Shahzad S, Asziz MU, Biegel JA, Weber BL and Maris JM.
+cancertypes: []
 contact:
   email: maris@email.chop.edu
   name: John M. Maris

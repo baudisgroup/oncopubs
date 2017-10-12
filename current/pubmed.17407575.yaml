@@ -6,6 +6,19 @@ abstract: The identification of genomic signatures of colorectal cancer for risk
 authors: Fensterer H, Radlwimmer B, Strater J, Buchholz M, Aust DE, Julie C, Radvanyi
   F, Nordlinger B, Belluco C, Van Cutsem E, Kohne CH, Kestler HA, Schwaenen C, Nessling
   M, Lutz MP, Lichter P and Gress TM.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: heiko.fensterer@med.uni-marburg.de
   name: Heiko Fensterer

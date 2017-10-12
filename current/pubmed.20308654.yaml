@@ -25,6 +25,7 @@ abstract: PURPOSE Choroid plexus carcinomas are pediatric tumors with poor survi
 authors: Tabori U, Shlien A, Baskin B, Levitt S, Ray P, Alon N, Hawkins C, Bouffet
   E, Pienkowska M, Lafay-Cousin L, Gozali A, Zhukova N, Shane L, Gonzalez I, Finlay
   J and Malkin D.
+cancertypes: []
 contact:
   email: david.malkin@sickkids.ca
   name: David Malkin

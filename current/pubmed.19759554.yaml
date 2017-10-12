@@ -21,6 +21,17 @@ authors: Salgado R, Servitje O, Gallardo F, Vermeer MH, Ortiz-Romero PL, Karpova
   Zipser MC, Muniesa C, Garcia-Muret MP, Estrach T, Salido M, Sanchez-Schmidt J, Herrera
   M, Romagosa V, Suela J, Ferreira BI, Cigudosa JC, Barranco C, Serrano S, Dummer
   R, Tensen CP, Sole F, Pujol RM and Espinet B.
+cancertypes:
+- term_id: ncit:C3246
+  term_label: Mycosis Fungoides
+- term_id: pgx:icdom:9700_3
+  term_label: Mycosis fungoides
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97003
+  term_label: Mycosis fungoides
 contact:
   email: bespinet@imas.imim.es
   name: Blanca Espinet

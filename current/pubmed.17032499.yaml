@@ -17,6 +17,29 @@ abstract: TMPRSS2-ETS gene fusions have been found recurrently in prostate carci
   chromosome-level alterations in prostate carcinogenesis.
 authors: Cerveira N, Ribeiro FR, Peixoto A, Costa V, Henrique R, Jeronimo C and Teixeira
   MR.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8148_2
+  term_label: Glandular intraepithelial neoplasia, high grade
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81482
+  term_label: Glandular intraepithelial neoplasia, high grade
 contact:
   email: mteixeir@ipoporto.min-saude.pt
   name: Manuel R. Teixeira

@@ -17,6 +17,7 @@ abstract: Most types of cancers are made up of heterogeneous mixtures of genetic
   provides a much more comprehensive view of clonal structure and evolution.
 authors: Kim TH, Yoshida K, Kim YK, Tyndel MS, Park HJ, Choi SH, Ahn JS, Jung SH,
   Yang DH, Lee JJ, Kim HJ, Kong G, Ogawa S, Zhang Z, Kim HJ and Kim DD
+cancertypes: []
 contact:
   email: hjoonk@chonnam.ac.kr
   name: ' Hyeoung-Joon Kim'

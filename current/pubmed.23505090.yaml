@@ -22,6 +22,9 @@ abstract: Cancer is a genetic disease with frequent somatic DNA alterations. Stu
   devastating disease.
 authors: Wang K, Lim HY, Shi S, Lee J, Deng S, Xie T, Zhu Z, Wang Y, Pocalyko D, Yang
   WJ, Rejto PA, Mao M, Park CK, Xu J.
+cancertypes:
+- term_id: seer:21071
+  term_label: liver
 contact:
   email: ckpark@skku.edu
   name: CK Park

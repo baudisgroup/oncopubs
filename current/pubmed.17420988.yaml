@@ -19,6 +19,17 @@ abstract: Cutaneous squamous cell carcinomas SCC are the second most commonly di
   with metastasis.
 authors: Purdie KJ, Lambert SR, Teh MT, Chaplin T, Molloy G, Raghavan M, Kelsell DP,
   Leigh IM, Harwood CA, Proby CM and Young BD.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: Karin Purdie

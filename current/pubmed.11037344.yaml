@@ -16,6 +16,29 @@ abstract: Solitary fibrous tumours SFTs of the pleura, in contrast to malignant 
   characterisation of this rare tumour entity will be necessary to elucidate possible
   genes involved in early tumorigenesis.
 authors: Krismann M, Adams H, Jaworska M, Muller KM and Johnen G.
+cancertypes:
+- term_id: ncit:C27940
+  term_label: ~
+- term_id: ncit:C6747
+  term_label: Desmoplastic Mesothelioma
+- term_id: pgx:icdom:8936_1
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: pgx:icdom:9051_3
+  term_label: Fibrous mesothelioma, malignant
+- term_id: pgx:icdot:C38
+  term_label: mediastinum
+- term_id: pgx:icdot:C38.4
+  term_label: pleura
+- term_id: pgx:seer:22050
+  term_label: Pleura
+- term_id: pgx:seer:22060
+  term_label: Trachea, Mediastinum and Other Respiratory Organs
+- term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- term_id: snmi:M-89361
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: snmi:M-90513
+  term_label: Fibrous mesothelioma, malignant
 contact:
   email: georg.johnen@ruhr-uni-bochum.de
   name: Georg Johnen

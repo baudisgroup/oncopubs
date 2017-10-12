@@ -6,6 +6,7 @@ abstract: Cell lines are commonly used in various kinds of biomedical research i
   questions.
 authors: Tsuji K, Kawauchi S, Saito S, Furuya T, Ikemoto K, Nakao M, Yamamoto S, Oka
   M, Hirano T and Sasaki K.
+cancertypes: []
 contact:
   email: kohsuke@yamaguchi-u.ac.jp
   name: Kohsuke Sasaki

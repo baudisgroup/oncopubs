@@ -20,6 +20,7 @@ abstract: 'Invasive ductal carcinomas IDCs and invasive lobular carcinomas ILCs 
 authors: Bertucci F, Orsetti B, Negre V, Finetti P, Rouge C, Ahomadegbe JC, Bibeau
   F, Mathieu MC, Treilleux I, Jacquemier J, Ursule L, Martinec A, Wang Q, Benard J,
   Puisieux A, Birnbaum D and Theillet C.
+cancertypes: []
 contact:
   email: theillet@valdorel.fnclcc.fr
   name: Charles Theillet

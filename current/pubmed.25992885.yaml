@@ -20,6 +20,7 @@ abstract: Osteosarcoma is a rare but highly malignant cancer of the bone. As a c
   in early and late passages allows the analysis of metastasis-relevant genes despite
   the observed instability in gene expression in osteosarcoma cell lines during culture.
 authors: Muff R, Rath P, Ram Kumar RM, Husmann K, Born W, Baudis M and Fuchs B
+cancertypes: []
 contact:
   email: rmuff@research.balgrist.ch
   name: Roman Muff

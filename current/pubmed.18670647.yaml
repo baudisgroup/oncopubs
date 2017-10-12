@@ -22,6 +22,7 @@ abstract: Prostate cancer cell lines provide ideal in vitro systems for the iden
   of prostate cancer.
 authors: Liu W, Xie CC, Zhu Y, Li T, Sun J, Cheng Y, Ewing CM, Dalrymple S, Turner
   AR, Sun J, Isaacs JT, Chang BL, Zheng SL, Isaacs WB and Xu J.
+cancertypes: []
 contact:
   email: wisaacs@jhmi.edu
   name: William B. Isaacs

@@ -13,6 +13,17 @@ abstract: A new t 20 21 q11 q11 , associated with a deletion on the long arm of 
   critical genomic events.
 authors: Matteucci C, La Starza R, Crescenzi B, Romoli S, Santoro A, Magrin S, Lauria
   F, Coco FL, Martelli MF and Mecucci C.
+cancertypes:
+- term_id: ncit:C3249
+  term_label: Acute Myeloid Leukemia without Maturation
+- term_id: pgx:icdom:9873_3
+  term_label: Acute myeloid leukemia without maturation
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98733
+  term_label: Acute myeloid leukemia without maturation
 contact:
   email: crimecux@unipg.it
   name: Cristina Mecucci

@@ -10,6 +10,7 @@ abstract: Germ Cell Tumors GCTs in children and adolescents constitute a clinica
   allows analysing archival tissue samples.
 authors: Schneider DT, Schuster AE, Fritsch MK, Calaminus G, Harms D, Gobel U and
   Perlman EJ.
+cancertypes: []
 contact:
   email: dominik.schneider@uni-duesseldorf.de
   name: Dominik T. Schneider

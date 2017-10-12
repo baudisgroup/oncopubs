@@ -19,6 +19,7 @@ abstract: 'Hepatocellular carcinoma HCC is one of the most common neoplasms worl
   applications.'
 authors: Tornillo L, Carafa V, Richter J, Sauter G, Moch H, Minola E, Gambacorta M,
   Bianchi L, Vecchione R and Terracciano LM.
+cancertypes: []
 contact:
   email: lterracciano@uhbs.ch
   name: Luigi M. Terraciano

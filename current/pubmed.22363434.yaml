@@ -23,6 +23,17 @@ abstract: "Primary tumor recurrence commonly occurs after surgical resection of 
   in primary lung SCC and may be useful prognostic biomarkers."
 authors: Sriram KB, Larsen JE, Savarimuthu Francis SM, Wright CM, Clarke BE, Duhig
   EE, Brown KM, Hayward NK, Yang IA, Bowman RV and Fong KM
+cancertypes:
+- term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: bajee.sriram@uqconnect.edu.au
   name: Sriram, KB

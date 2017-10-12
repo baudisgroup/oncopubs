@@ -18,6 +18,19 @@ abstract: The available evidence suggests that the lethality of glioblastoma is 
 authors: Kozono D, Li J, Nitta M, Sampetrean O, Gonda D, Kushwaha DS, Merzon D, Ramakrishnan
   V, Zhu S, Zhu K, Matsui H, Harismendy O, Hua W, Mao Y, Kwon CH, Saya H, Nakano I,
   Pizzo DP, VandenBerg SR, Chen CC.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: seer:31010
+  term_label: brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: oharismendy@ucsd.edu
   name: Olivier Harismendy

@@ -21,6 +21,7 @@ abstract: Genomic copy number alterations CNA are common in breast cancer. Ident
   contribute in part to the poor breast cancer prognosis for young AA women.
 authors: Loo LW, Wang Y, Flynn EM, Lund MJ, Bowles EJ, Buist DS, Liff JM, Flagg EW,
   Coates RJ, Eley JW, Hsu L and Porter PL.
+cancertypes: []
 contact:
   email: ~
   name: Peggy Porter

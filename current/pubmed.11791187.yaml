@@ -17,6 +17,23 @@ abstract: The small intestinal mucosa makes up about 90 of the total surface of 
   that disruption of TGFbeta-signalling plays a critical role in small intestinal
   tumorigenesis.
 authors: Blaker H, von Herbay A, Penzel R, Gross S and Otto HF.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
 contact:
   email: hendrik_blaeker@med.uni-heidelberg.de
   name: Hendrik Blaeker

@@ -19,6 +19,7 @@ abstract: Genetic gains and losses resulting from DNA strand breakage by ionizin
   radiation exposure and age at exposure, in addition to the neoplastic process.
 authors: Kimmel RR, Zhao LP, Nguyen D, Lee S, Aronszajn M, Cheng C, Troshin VP, Abrosimov
   A, Delrow J, Tuttle RM, Tsyb AF, Kopecky KJ, Davis S and Neiman PE.
+cancertypes: []
 contact:
   email: kimmel@fhcrc.org
   name: Roger R. Kimmel

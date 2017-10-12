@@ -16,6 +16,17 @@ abstract: In accordance with cancer progression, genomic aberrations accumulate 
   These observations therefore support the concept of genomic staging in HCC.
 authors: Chochi Y, Kawauchi S, Nakao M, Furuya T, Hashimoto K, Oga A, Oka M and Sasaki
   K.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: kohsuke@yamaguchi-u.ac.jp
   name: Kohsuke Sasaki

@@ -20,8 +20,8 @@ abstract: Aberrant DNA methylation has shown promise as a biomarker for the earl
   rights reserved.
 authors: Oh T, Kim N, Moon Y, Kim MS, Hoehn BD, Park CH, Kim TS, Kim NK, Chung HC
   and An S
-cancertype:
-  term_id: seer:21049
+cancertypes:
+- term_id: seer:21049
   term_label: large intestine, nos
 contact:
   email: genomictree1@ korea.com

@@ -17,6 +17,17 @@ abstract: To identify cytogenetic features of large cell transformation in mycos
   imbalances associated with hypotetraploidy.
 authors: Prochazkova M, Chevret E, Mainhaguiet G, Sobotka J, Vergier B, Belaud-Rotureau
   MA, Beylot-Barry M and Merlio JP.
+cancertypes:
+- term_id: ncit:C3246
+  term_label: Mycosis Fungoides
+- term_id: pgx:icdom:9700_3
+  term_label: Mycosis fungoides
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97003
+  term_label: Mycosis fungoides
 contact:
   email: edith.chevret@histo.u-bordeaux2.fr
   name: Edith Chevret

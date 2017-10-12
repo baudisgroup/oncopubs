@@ -27,6 +27,23 @@ abstract: Using comparative genomic hybridization, DNA copy number changes were 
   types.
 authors: Rieker RJ, Joos S, Bartsch C, Willeke F, Schwarzbach M, Otano-Joos M, Ohl
   S, Hogel J, Lehnert T, Lichter P, Otto HF and Mechtersheimer G.
+cancertypes:
+- term_id: ncit:C3704
+  term_label: Dedifferentiated Liposarcoma
+- term_id: ncit:C3705
+  term_label: Pleomorphic Liposarcoma
+- term_id: pgx:icdom:8854_3
+  term_label: Pleomorphic liposarcoma
+- term_id: pgx:icdom:8858_3
+  term_label: Dedifferentiated liposarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88543
+  term_label: Pleomorphic liposarcoma
+- term_id: snmi:M-88583
+  term_label: Dedifferentiated liposarcoma
 contact:
   email: ralf_rieker@med.uni-heidelberg.de
   name: Ralf J. Rieker

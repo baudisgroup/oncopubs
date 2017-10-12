@@ -16,6 +16,17 @@ abstract: 'Among 4,780 consecutive adult acute lymphoblastic myeloblastic leukem
   genetic features.'
 authors: Yan L., Ping N., Zhu M., Sun A., Xue Y., Ruan C., Drexler H. G., Macleod
   R. A., Wu D. and Chen S.
+cancertypes:
+- term_id: ncit:C9298
+  term_label: Acute Undifferentiated Leukemia
+- term_id: pgx:icdom:9801_3
+  term_label: Acute leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35041
+  term_label: Other Acute Leukemia
+- term_id: snmi:M-98013
+  term_label: Acute leukemia, NOS
 contact:
   email: ~
   name: Suning Chen

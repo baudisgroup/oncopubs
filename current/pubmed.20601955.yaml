@@ -20,6 +20,79 @@ authors: Barretina J, Taylor BS, Banerji S, Ramos AH, Lagos-Quintana M, Decaroli
   C, Viale A, Winckler W, Maki RG, Garraway LA, Lash A, Greulich H, Root DE, Sellers
   WR, Schwartz GK, Antonescu CR, Lander ES, Varmus HE, Ladanyi M, Sander C, Meyerson
   M and Singer S.
+cancertypes:
+- term_id: ncit:C27781
+  term_label: Myxoid Liposarcoma
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: ncit:C3400
+  term_label: ~
+- term_id: ncit:C3704
+  term_label: Dedifferentiated Liposarcoma
+- term_id: ncit:C3705
+  term_label: Pleomorphic Liposarcoma
+- term_id: ncit:C53999
+  term_label: Malignant Gastrointestinal Stromal Tumor
+- term_id: ncit:C9306
+  term_label: Soft Tissue Sarcoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8800_3
+  term_label: Sarcoma, NOS
+- term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- term_id: pgx:icdom:8852_3
+  term_label: Myxoid liposarcoma
+- term_id: pgx:icdom:8854_3
+  term_label: Pleomorphic liposarcoma
+- term_id: pgx:icdom:8858_3
+  term_label: Dedifferentiated liposarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdom:9040_3
+  term_label: Synovial sarcoma, NOS
+- term_id: pgx:icdom:9041_3
+  term_label: Synovial sarcoma, spindle cell
+- term_id: pgx:icdom:9043_3
+  term_label: Synovial sarcoma, biphasic
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-88003
+  term_label: Sarcoma, NOS
+- term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
+- term_id: snmi:M-88523
+  term_label: Myxoid liposarcoma
+- term_id: snmi:M-88543
+  term_label: Pleomorphic liposarcoma
+- term_id: snmi:M-88583
+  term_label: Dedifferentiated liposarcoma
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: snmi:M-90403
+  term_label: Synovial sarcoma, NOS
+- term_id: snmi:M-90413
+  term_label: Synovial sarcoma, spindle cell
+- term_id: snmi:M-90433
+  term_label: Synovial sarcoma, biphasic
 contact:
   email: matthew_meyerson@dfci.harvard.edu
   name: Matthew Meyerson

@@ -12,6 +12,7 @@ abstract: Tumor heterogeneity has been implicated in tumor growth and progressio
   targeted therapies.
 authors: Snuderl M, Fazlollahi L, Le LP, Nitta M, Zhelyazkova BH, Davidson CJ, Akhavanfard
   S, Cahill DP, Aldape KD, Betensky RA, Louis DN and Iafrate AJ.
+cancertypes: []
 contact:
   email: ~
   name: John Iafrate

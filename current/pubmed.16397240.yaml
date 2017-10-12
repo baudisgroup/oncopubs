@@ -18,6 +18,17 @@ abstract: To identify genetic alterations underlying rectal carcinogenesis, we u
   on aneuploid chromosomes coexist in rectal adenocarcinomas.
 authors: Grade M, Ghadimi BM, Varma S, Simon R, Wangsa D, Barenboim-Stapleton L, Liersch
   T, Becker H, Ried T and Difilippantonio MJ.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: difilipm@mail.nih.gov
   name: M. J. Difilippantonio

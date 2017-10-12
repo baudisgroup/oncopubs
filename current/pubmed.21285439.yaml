@@ -20,6 +20,7 @@ abstract: Single nucleotide polymorphism arrays SNP-As have emerged as an import
 authors: Tiu RV, Gondek LP, OKeefe CL, Elson P, Huh J, Mohamedali A, Kulasekararaj
   A, Advani AS, Paquette R, List AF, Sekeres MA, McDevitt MA, Mufti GJ and Maciejewski
   JP.
+cancertypes: []
 contact:
   email: ~
   name: Jaroslaw Maciejewski

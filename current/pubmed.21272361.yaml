@@ -11,6 +11,7 @@ abstract: Molecular alterations critical to development of cancer include mutati
   1 million probe array 1 M array , and their application when whole genome amplification
   is required because of limited sample quantities.
 authors: Przybytkowski E, Ferrario C and Basik M.
+cancertypes: []
 contact:
   email: ~
   name: Mark Basik

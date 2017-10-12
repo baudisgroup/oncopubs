@@ -15,6 +15,27 @@ abstract: Phyllodes tumors are not quite rare fibroepithelial neoplasms of the b
   to be involved in the progression of benign to borderline and malignant phyllodes
   tumors, possibly because of overexpression of oncogenes at these loci.
 authors: Lv S, Niu Y, Wei L, Liu Q, Wang X and Chen Y.
+cancertypes:
+- term_id: ncit:C2977
+  term_label: Phyllodes Tumor
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9020_0
+  term_label: Phyllodes tumor, benign
+- term_id: pgx:icdom:9020_1
+  term_label: Phyllodes tumor, borderline
+- term_id: pgx:icdom:9020_3
+  term_label: Phyllodes tumor, malignant
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-90200
+  term_label: Phyllodes tumor, benign
+- term_id: snmi:M-90201
+  term_label: Phyllodes tumor, borderline
+- term_id: snmi:M-90203
+  term_label: Phyllodes tumor, malignant
 contact:
   email: yunniuxiaolv@yahoo.cn
   name: Yun Niu

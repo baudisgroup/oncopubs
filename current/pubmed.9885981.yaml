@@ -14,6 +14,29 @@ abstract: We analyzed 17 cases of dysplasia carcinoma in situ CIS of the cervix 
   cancer.
 authors: Kirchhoff M, Rose H, Petersen BL, Maahr J, Gerdes T, Lundsteen C, Bryndorf
   T, Kryger-Baggesen N, Christensen L, Engelholm SA and Philip J.
+cancertypes:
+- term_id: ncit:C27093
+  term_label: Stage 0 Squamous Cell Carcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8070_2
+  term_label: Squamous cell carcinoma in situ, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80702
+  term_label: Squamous cell carcinoma in situ, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: rh06097@rh.dk
   name: Maria kirchhoff

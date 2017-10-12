@@ -18,6 +18,7 @@ abstract: Endometrial carcinoma is one of the most common cancers in women. A li
   provides valuable genomic information for research that focuses on these key oncogenic
   pathways in endometrial cancer.
 authors: Wang Y, Yang D, Cogdell D, Hu L, Xue F, Broaddus R and Zhang W.
+cancertypes: []
 contact:
   email: wzhang@mdanderson.org
   name: Wei Zhang

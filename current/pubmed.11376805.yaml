@@ -15,6 +15,17 @@ abstract: Undifferentiated embryonal sarcoma UES is the third most common hepati
   cases. Further analysis will be needed to determine the critical events in the pathogenesis
   of these malignant pediatric liver tumors.
 authors: Sowery RD, Jensen C, Morrison KB, Horsman DE, Sorensen PH and Webber EM.
+cancertypes:
+- term_id: ncit:C27096
+  term_label: ~
+- term_id: pgx:icdom:8991_3
+  term_label: Embryonal sarcoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-89913
+  term_label: Embryonal sarcoma
 contact:
   email: ~
   name: ~

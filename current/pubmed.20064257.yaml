@@ -17,6 +17,9 @@ abstract: Schizophrenia is a complex disorder with involvement of multiple genes
   of schizophrenia, and the CNS-related genes revealed by this study warrant further
   investigation.
 authors: Lee CH, Liu CM, Wen CC, Chang SM and Hwu HG
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: chlee124@nhri.org.tw
   name: ~

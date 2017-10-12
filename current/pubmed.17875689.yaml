@@ -19,6 +19,17 @@ abstract: Prostate cancer is clinically heterogeneous, ranging from indolent to 
   in part the clinical heterogeneity of the disease.
 authors: Lapointe J, Li C, Giacomini CP, Salari K, Huang S, Wang P, Ferrari M, Hernandez-Boussard
   T, Brooks JD and Pollack JR.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: pollack1@stanford.edu
   name: Jonathan R. Pollack

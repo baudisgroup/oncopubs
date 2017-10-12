@@ -17,6 +17,9 @@ abstract: Non-muscle-invasive bladder cancer (NMIBC) often has a worse prognosis
   and importin-11 overexpression are promising biomarkers for predicting the progression
   and poor prognosis of patients with NMIBC.
 authors: Zhao J, Xu W, He M, Zhang Z, Zeng S, Ma C, Sun Y, Xu C.
+cancertypes:
+- term_id: seer:29010
+  term_label: urinary bladder
 contact:
   email: xuchuanliang@vip.126.com
   name: Chuanliang Xu

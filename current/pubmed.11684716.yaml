@@ -7,6 +7,7 @@ abstract: Comparative genomic hybridisation CGH is a reliable tool to gain an ov
   small amounts of tumour cells. This is a comparative study of CGH and microsatellite
   analysis.
 authors: Buerger H, Schmidt H, Beckmann A, Zanker KS, Boecker W and Brandt B.
+cancertypes: []
 contact:
   email: brandt@uni-muenster.de
   name: B. Brandt

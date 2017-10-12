@@ -26,6 +26,7 @@ abstract: "An integrative analysis was conducted to identify genomic alterations
   the greatest impact in the overall patient population of high-grade advanced UC."
 authors: Bellmunt J, Werner L, Leow JJ, Mullane SA, Fay AP, Riester M, Van Hummelen
   P, Taplin ME, Choueiri TK, Van Allen E and Rosenberg J
+cancertypes: []
 contact:
   email: ' joaquim_bellmunt@dfci.harvard.edu'
   name: Joaquim Bellmunt

@@ -21,6 +21,7 @@ abstract: In this study, 23 ovarian cancer cell lines were screened using array-
   and RASSF2.
 authors: Lambros MB, Fiegler H, Jones A, Gorman P, Roylance RR, Carter NP and Tomlinson
   IP.
+cancertypes: []
 contact:
   email: ian.tomlinson@cancer.org.uk
   name: Ian P. M. Tomlinson

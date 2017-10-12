@@ -17,6 +17,21 @@ abstract: 'Colorectal cancer CRC is one of the most common cancers in Denmark an
   CIN- cancers.'
 authors: Dyrso T, Li J, Wang K, Lindebjerg J, Kolvraa S, Bolund L, Jakobsen A, Bruun-Petersen
   G, Li S and Cruger DG.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Thomas Dyrso

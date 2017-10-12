@@ -22,6 +22,7 @@ abstract: Malignant mesothelioma MM is an asbestos-induced tumor that acquires a
   binding activity, lipid transport, ATP synthesis, and methyltransferase activity.
 authors: Zanazzi C, Hersmus R, Veltman IM, Gillis AJ, van Drunen E, Beverloo HB, Hegmans
   JP, Verweij M, Lambrecht BN, Oosterhuis JW and Looijenga LH.
+cancertypes: []
 contact:
   email: l.looijenga@erasmusmc.nl
   name: Leendert Looijenga

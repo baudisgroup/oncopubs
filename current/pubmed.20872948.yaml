@@ -3,6 +3,7 @@ abstract: Microarray-CGH facilitates analysis of cancer-associated genomic diffe
   between normal and tumor tissues and provides a genome-wide assessment of copy number
   variations CNVs .
 authors: Park CH, Rha SY, Jeung HC, Kang SH, Ki DH, Lee WS, Noh SH and Chung HC.
+cancertypes: []
 contact:
   email: unchung8@yumc.yonsei.ac.kr
   name: Hyun Cheol Chung

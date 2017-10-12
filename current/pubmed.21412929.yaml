@@ -23,6 +23,35 @@ abstract: The current classification of diffuse low-grade gliomas is based mainl
   glioma who might benefit from early antineoplastic therapy.
 authors: Dahlback HS, Gorunova L, Brandal P, Scheie D, Helseth E, Meling TR and Heim
   S.
+cancertypes:
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: ncit:C4321
+  term_label: Gemistocytic Astrocytoma
+- term_id: ncit:C4322
+  term_label: Fibrillary Astrocytoma
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9411_3
+  term_label: Gemistocytic astrocytoma
+- term_id: pgx:icdom:9420_3
+  term_label: Fibrillary astrocytoma
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94113
+  term_label: Gemistocytic astrocytoma
+- term_id: snmi:M-94203
+  term_label: Fibrillary astrocytoma
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
 contact:
   email: ~
   name: Hanne-Sofie Dahlback

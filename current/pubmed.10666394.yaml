@@ -17,6 +17,39 @@ abstract: Pheochromocytomas and abdominal paragangliomas are rare, catecholamine
   in tumor development.
 authors: Edstrom E, Mahlamaki E, Nord B, Kjellman M, Karhu R, Hoog A, Goncharov N,
   Teh BT, Backdahl M and Larsson C.
+cancertypes:
+- term_id: ncit:C3308
+  term_label: Paraganglioma
+- term_id: ncit:C3326
+  term_label: Adrenal Gland Pheochromocytoma
+- term_id: ncit:C4220
+  term_label: Malignant Adrenal Gland Pheochromocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8680_1
+  term_label: Paraganglioma, NOS
+- term_id: pgx:icdom:8693_3
+  term_label: Extra-adrenal paraganglioma, malignant
+- term_id: pgx:icdom:8700_0
+  term_label: Pheochromocytoma, NOS
+- term_id: pgx:icdom:8700_3
+  term_label: Pheochromocytoma, malignant
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. Autonomous
+- term_id: pgx:icdot:C74
+  term_label: adrenal glands
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-86801
+  term_label: Paraganglioma, NOS
+- term_id: snmi:M-86933
+  term_label: Extra-adrenal paraganglioma, malignant
+- term_id: snmi:M-87000
+  term_label: Pheochromocytoma, NOS
+- term_id: snmi:M-87003
+  term_label: Pheochromocytoma, malignant
 contact:
   email: keem@kir.ks.se
   name: Elisabeth Edstrom

@@ -14,6 +14,17 @@ abstract: Mucinous tubular and spindle cell carcinoma MTSCC has recently been in
   unclassified renal cell carcinoma.
 authors: Kuroda N, Naroda T, Tamura M, Taguchi T, Tominaga A, Inoue K, Shuin T, Lee
   GH, Hes O and Michal M.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
 contact:
   email: ~
   name: Naoto Kuroda

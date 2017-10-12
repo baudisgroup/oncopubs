@@ -17,6 +17,17 @@ abstract: 'Acute promyelocytic leukemia APL is a hematopoietic malignant disease
   and novel disease-related genomic changes in t 15 17 APL.'
 authors: Akagi T, Shih LY, Kato M, Kawamata N, Yamamoto G, Sanada M, Okamoto R, Miller
   CW, Liang DC, Ogawa S, and Koeffler HP.
+cancertypes:
+- term_id: ncit:C3182
+  term_label: Acute Promyelocytic Leukemia with PML-RARA
+- term_id: pgx:icdom:9866_3
+  term_label: Acute promyelocytic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98663
+  term_label: Acute promyelocytic leukemia
 contact:
   email: tadayuki@staff.kanazawa-u.ac.jp
   name: Tadayuki Akagi

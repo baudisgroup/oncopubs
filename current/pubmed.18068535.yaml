@@ -14,6 +14,17 @@ abstract: 'Meningiomas were among the first solid tumors recognized as having cy
   of a complex cytogenetic profile and progression-associated chromosomal abnormalities
   in a benign meningioma suggests the existence of underlying molecular events.'
 authors: Woo KS, Sung KS, Kim KU, Shaffer LG and Han JY.
+cancertypes:
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
 contact:
   email: jyhan@dau.ac.kr
   name: Jin-Yeong Han

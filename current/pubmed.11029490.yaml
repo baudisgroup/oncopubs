@@ -23,6 +23,17 @@ abstract: In order to optimize the management of patients with renal cell carcin
   tumors.
 authors: Junker K, Moravek P, Podhola M, Weirich G, Hindermann W, Janitzky V and Schubert
   J.
+cancertypes:
+- term_id: ncit:C3759
+  term_label: ~
+- term_id: pgx:icdom:8290_0
+  term_label: Oxyphilic adenoma
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-82900
+  term_label: Oxyphilic adenoma
 contact:
   email: ~
   name: ~

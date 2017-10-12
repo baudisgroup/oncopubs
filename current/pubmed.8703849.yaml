@@ -16,6 +16,33 @@ abstract: Comparative genomic hybridization was used to screen the DNA extracted
   from high-grade adenomas to invasive carcinomas.
 authors: Ried T, Knutzen R, Steinbeck R, Blegen H, Schrock E, Heselmeyer K, du Manoir
   S and Auer G.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: ncit:C3494
+  term_label: Lung Papillary Adenoma
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_1
+  term_label: Atypical adenoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81401
+  term_label: Atypical adenoma
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: riedt@mail.nih.gov
   name: Thomas Ried

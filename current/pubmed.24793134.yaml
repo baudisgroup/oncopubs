@@ -15,6 +15,37 @@ abstract: Many common human mesenchymal tumors, including gastrointestinal strom
 authors: Wang Y, Marino-Enriquez A, Bennett RR, Zhu M, Shen Y, Eilers G, Lee JC, Henze
   J, Fletcher BS, Gu Z, Fox EA, Antonescu CR, Fletcher CD, Guo X, Raut CP, Demetri
   GD, van de Rijn M, Ordog T, Kunkel LM and Fletcher JA.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: ncit:C3359
+  term_label: Rhabdomyosarcoma
+- term_id: ncit:C53999
+  term_label: Malignant Gastrointestinal Stromal Tumor
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdom:8900_3
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
+- term_id: snmi:M-89003
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: ~
   name: ~

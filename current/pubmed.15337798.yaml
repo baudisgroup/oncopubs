@@ -3,6 +3,27 @@ abstract: To determine the clinicopathologic significance and prognostic value o
   chromosomal imbalances in diffuse large B-cell lymphomas DLBCL .
 authors: Bea S, Colomo L, Lopez-Guillermo A, Salaverria I, Puig X, Pinyol M, Rives
   S, Montserrat E and Campo E.
+cancertypes:
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C7224
+  term_label: Plasmablastic Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9684_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96843
+  term_label: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
 contact:
   email: ecampo@clinic.ub.es
   name: Elias Campo

@@ -20,6 +20,7 @@ abstract: Although poly ADP-ribose polymerase-1 PARP1 inhibition is a recent pro
   subtypes.
 authors: Goncalves A, Finetti P, Sabatier R, Gilabert M, Adelaide J, Borg JP, Chaffanet
   M, Viens P, Birnbaum D and Bertucci F.
+cancertypes: []
 contact:
   email: ~
   name: Anthony Goncalves

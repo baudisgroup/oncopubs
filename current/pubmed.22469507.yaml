@@ -16,6 +16,17 @@ abstract: Wilms tumors have characteristic chromosomal abnormalities, such as th
   segmental uniparental disomy. The observed discrepancies can be explained by the
   inherent limitations of each technique.
 authors: Zin R., Pham K., Ashleigh M., Ravine D., Waring P. and Charles A.
+cancertypes:
+- term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
 contact:
   email: ~
   name: Reena Zin

@@ -21,6 +21,7 @@ abstract: Endometrial cancer is one of the tumor types in which either chromosom
   biomarker for prognosis in endometrial carcinomas.
 authors: Murayama-Hosokawa S, Oda K, Nakagawa S, Ishikawa S, Yamamoto S, Shoji K,
   Ikeda Y, Uehara Y, Fukayama M, McCormick F, Yano T, Taketani Y and Aburatani H.
+cancertypes: []
 contact:
   email: haburata-tky@umin.ac.jp
   name: Hiroyuki Aburatani

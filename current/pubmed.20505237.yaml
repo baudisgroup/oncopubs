@@ -24,6 +24,7 @@ abstract: 'Background: Around 30 of all stage II colon cancer patients will rela
   adjuvant therapy.'
 authors: Brosens RP, Belt EJ, Haan JC, Buffart TE, Carvalho B, Grabsch H, Quirke P,
   Cuesta MA, Engel AF, Ylstra B and Meijer GA.
+cancertypes: []
 contact:
   email: ~
   name: ~

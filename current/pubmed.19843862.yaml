@@ -21,6 +21,27 @@ abstract: 'In this study, we used single nucleotide polymorphism and comparative
 authors: Caprini E, Cristofoletti C, Arcelli D, Fadda P, Citterich MH, Sampogna F,
   Magrelli A, Censi F, Torreri P, Frontani M, Scala E, Picchio MC, Temperani P, Monopoli
   A, Lombardo GA, Taruscio D, Narducci MG and Russo G.
+cancertypes:
+- term_id: ncit:C3366
+  term_label: Sezary Syndrome
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9701_3
+  term_label: Sezary syndrome
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-97013
+  term_label: Sezary syndrome
 contact:
   email: russo@idi.it
   name: Giandomenico Russo

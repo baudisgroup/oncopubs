@@ -15,6 +15,17 @@ abstract: Only limited data are available on comparative genomic hybridization C
   suggest that other chromosomal regions are involved in hepatocarcinogenesis.
 authors: Collonge-Rame MA, Bresson-Hadni S, Koch S, Carbillet JP, Blagosklonova O,
   Mantion G, Miguet JP, Heyd B and Bresson JL.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: ~

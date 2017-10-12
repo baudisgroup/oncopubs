@@ -11,6 +11,17 @@ abstract: A case of acute myeloid leukemia M2 with double minute chromosomes and
   minute chromosomes that has not involved amplification of either the MYC or the
   MLL genes.
 authors: Crossen PE, Morrison MJ, Rodley P, Cochrane J and Morris CM.
+cancertypes:
+- term_id: ncit:C3250
+  term_label: Acute Myeloid Leukemia with Maturation
+- term_id: pgx:icdom:9874_3
+  term_label: Acute myeloid leukemia with maturation
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98743
+  term_label: Acute myeloid leukemia with maturation
 contact:
   email: ~
   name: ~

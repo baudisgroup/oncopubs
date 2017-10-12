@@ -25,6 +25,17 @@ abstract: Genomic amplification can lead to the activation of cellular proto-onc
   type.
 authors: Miller CT, Aggarwal S, Lin TK, Dagenais SL, Contreras JI, Orringer MB, Glover
   TW, Beer DG and Lin L.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: linlin@umich.edu
   name: Lin Lin

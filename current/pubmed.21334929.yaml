@@ -3,6 +3,17 @@ abstract: Oral squamous cell carcinoma OSCC , the most common malignancy of the 
   cavity, has been shown to occur via a multistep process driven by the accumulation
   of carcinogen-induced genetic changes.
 authors: Cha JD, Kim HJ and Cha IH.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: cha8764@yuhs.ac
   name: In-Ho Cha

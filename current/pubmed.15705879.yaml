@@ -18,6 +18,17 @@ abstract: BRCA1 or BRCA2 germline mutations cause approximately 30 of breast can
   tumor development pathways for BRCA1 and BRCA2.
 authors: van Beers EH, van Welsem T, Wessels LF, Li Y, Oldenburg RA, Devilee P, Cornelisse
   CJ, Verhoef S, Hogervorst FB, vant Veer LJ and Nederlof PM.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: e.v.beers@gmail.com
   name: Erik van Beers

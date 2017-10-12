@@ -23,6 +23,17 @@ abstract: Over-representation of sequences on chromosome 7 and 8 have been repor
   of localized prostatic adenocarcinoma.
 authors: van Dekken H, Alers JC, Damen IA, Vissers KJ, Krijtenburg PJ, Hoedemaeker
   RF, Wildhagen MF, Hop WC, van der Kwast TH, Tanke HJ and Schroder FH.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: h.vandekken@slaz.nl
   name: Herman van Dekken

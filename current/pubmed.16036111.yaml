@@ -18,6 +18,7 @@ abstract: Array comparative genomic hybridization aCGH and microarray expression
   differential chemotherapy response in ovarian cancer.
 authors: Bernardini M, Lee CH, Beheshti B, Prasad M, Albert M, Marrano P, Begley H,
   Shaw P, Covens A, Murphy J, Rosen B, Minkin S, Squire JA and Macgregor PF.
+cancertypes: []
 contact:
   email: jsquireinsp@gmail.com
   name: Jeremy Squire

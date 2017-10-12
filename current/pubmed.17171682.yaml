@@ -21,6 +21,7 @@ abstract: 'To investigate the patterns of genetic lesions in a panel of 23 human
 authors: Lombardi L, Poretti G, Mattioli M, Fabris S, Agnelli L, Bicciato S, Kwee
   I, Rinaldi A, Ronchetti D, Verdelli D, Lambertenghi-Deliliers G, Bertoni F and Neri
   A.
+cancertypes: []
 contact:
   email: neri.a@policlinico.mi.it
   name: Antonino Neri

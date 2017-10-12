@@ -6,6 +6,7 @@ abstract: 'We present the results of a cytogenetic and molecular cytogenetic ana
   cytogenetic and molecular cytogenetic techniques M-FISH and arrayCGH.'
 authors: Stejskalova E, Jarosova M, Malis J, Sumerauer D, Urbankova H, Krskova L,
   Pycha K, Schovanec J, Balcarkova J, Smelhaus V, Kodetova D and Stary J.
+cancertypes: []
 contact:
   email: eva.stejskalova@lfmotol.cuni.cz
   name: Eva Stejskalova

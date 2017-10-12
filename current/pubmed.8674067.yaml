@@ -30,6 +30,7 @@ abstract: 'A newly developed method of comparative genomic hybridization CGH emp
   tools for tumor-specific prognosis and therapy.'
 authors: Cher ML, Bova GS, Moore DH, Small EJ, Carroll PR, Pin SS, Epstein JI, Isaacs
   WB and Jensen RH.
+cancertypes: []
 contact:
   email: rjensen@cc.ucsf.edu
   name: Ronald H. Jensen

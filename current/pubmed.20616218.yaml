@@ -18,6 +18,7 @@ abstract: 'To obtain a comprehensive genomic profile of presenting multiple myel
 authors: Walker BA, Leone PE, Chiecchio L, Dickens NJ, Jenner MW, Boyd KD, Johnson
   DC, Gonzalez D, Dagrada GP, Protheroe RK, Konn ZJ, Stockley DM, Gregory WM, Davies
   FE, Ross FM and Morgan GJ.
+cancertypes: []
 contact:
   email: ~
   name: Brian Walker

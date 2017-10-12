@@ -22,6 +22,9 @@ abstract: Copy number alterations (CNA) are one of the driving mechanisms of gli
 authors: Bidinotto LT, Torrieri R, Mackay A, Almeida GC, Viana-Pereira M, Cruvinel-Carloni
   A, Spina ML, Campanella NC, de Menezes WP, Clara CA, Becker AP, Jones C and Reis
   RM
+cancertypes:
+- term_id: seer:31010
+  term_label: brain
 contact:
   email: ruireis.hcb@gmail.com
   name: Rui Manuel Reis

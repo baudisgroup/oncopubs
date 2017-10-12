@@ -17,6 +17,9 @@ abstract: DNA aneuploid sublines in sporadic colorectal cancers (CRCs) are quite
   interest since it harbors several genes implicated in chromosomal instability.
 authors: Maffei M, Mongera S, Terpstra L, Donadini A, Voorham QJ, Meijer GA, Giaretti
   W, Carvalho B, Castagnola P.
+cancertypes:
+- term_id: seer:21048
+  term_label: sigmoid colon
 contact:
   email: d.sie@vumc.nl
   name: Daoud Sie

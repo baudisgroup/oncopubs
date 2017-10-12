@@ -21,6 +21,7 @@ abstract: Alterations of BRAF are the most common known genetic aberrations in p
 authors: Tian Y, Rich BE, Vena N, Craig JM, Macconaill LE, Rajaram V, Goldman S, Taha
   H, Mahmoud M, Ozek M, Sav A, Longtine JA, Lindeman NI, Garraway LA, Ligon AH, Stiles
   CD, Santagata S, Chan JA, Kieran MW and Ligon KL.
+cancertypes: []
 contact:
   email: ~
   name: Keith Ligon

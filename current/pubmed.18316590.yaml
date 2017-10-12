@@ -22,6 +22,7 @@ abstract: 'Genomic aberrations on chromosome 8 are common in colon cancer, and a
   chromosomal breakage in cancer cells.'
 authors: Camps J, Grade M, Nguyen QT, Hormann P, Becker S, Hummon AB, Rodriguez V,
   Chandrasekharappa S, Chen Y, Difilippantonio MJ, Becker H, Ghadimi BM and Ried T.
+cancertypes: []
 contact:
   email: riedt@mail.nih.gov
   name: Thomas Ried

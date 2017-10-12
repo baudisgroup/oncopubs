@@ -19,6 +19,17 @@ abstract: Our aim was to investigate the presence of DNA copy number changes in 
   the hypothesis that adenoma precedes cancer.
 authors: Kokkola A, Monni O, Puolakkainen P, Nordling S, Haapiainen R, Kivilaakso
   E and Knuutila S.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

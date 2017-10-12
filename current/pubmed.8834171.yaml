@@ -19,6 +19,41 @@ abstract: Comparative genomic hybridization CGH was used to detect and map the r
   and progression of liposarcomas.
 authors: Szymanska J, Tarkkanen M, Wiklund T, Virolainen M, Blomqvist C, Asko-Seljavaara
   S, Tukiainen E, Elomaa I and Knuutila S.
+cancertypes:
+- term_id: ncit:C3194
+  term_label: Liposarcoma
+- term_id: ncit:C3704
+  term_label: Dedifferentiated Liposarcoma
+- term_id: ncit:C3705
+  term_label: Pleomorphic Liposarcoma
+- term_id: ncit:C3735
+  term_label: ~
+- term_id: ncit:C6505
+  term_label: Atypical Lipomatous Tumor
+- term_id: pgx:icdom:8850_3
+  term_label: Liposarcoma, NOS
+- term_id: pgx:icdom:8851_3
+  term_label: Liposarcoma, well differentiated
+- term_id: pgx:icdom:8852_3
+  term_label: Myxoid liposarcoma
+- term_id: pgx:icdom:8854_3
+  term_label: Pleomorphic liposarcoma
+- term_id: pgx:icdom:8858_3
+  term_label: Dedifferentiated liposarcoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88503
+  term_label: Liposarcoma, NOS
+- term_id: snmi:M-88513
+  term_label: Liposarcoma, well differentiated
+- term_id: snmi:M-88523
+  term_label: Myxoid liposarcoma
+- term_id: snmi:M-88543
+  term_label: Pleomorphic liposarcoma
+- term_id: snmi:M-88583
+  term_label: Dedifferentiated liposarcoma
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

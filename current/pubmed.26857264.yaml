@@ -22,6 +22,9 @@ abstract: Gastric cancer and esophageal cancer are the second and sixth leading 
 authors: Hu N, Kadota M, Liu H, Abnet CC, Su H, Wu H, Freedman ND, Yang HH, Wang C,
   Yan C, Wang L, Gere S, Hutchinson A, Song G, Wang Y, Ding T, Qiao YL, Koshiol J,
   Dawsey SM, Giffen C, Goldstein AM, Taylor PR, Lee MP.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ptaylor@mail.nih.gov
   name: Philip R Taylor

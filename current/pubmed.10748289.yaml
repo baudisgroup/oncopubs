@@ -20,6 +20,23 @@ abstract: 'Sequential changes of chromosomal copy number were analyzed retrospec
   thus give us a clue to extract important earlier events from the chromosomal changes
   that were screened by CGH alone.'
 authors: Okada K, Sugihara H, Bamba M, Bamba T and Hattori T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3774
+  term_label: Signet Ring Cell Carcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8490_3
+  term_label: Signet ring cell carcinoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-84903
+  term_label: Signet ring cell carcinoma
 contact:
   email: ~
   name: K. Okada

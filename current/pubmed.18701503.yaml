@@ -26,6 +26,7 @@ authors: Chiang DY, Villanueva A, Hoshida Y, Peix J, Newell P, Minguez B, LeBlan
   AC, Donovan DJ, Thung SN, Sole M, Tovar V, Alsinet C, Ramos AH, Barretina J, Roayaie
   S, Schwartz M, Waxman S, Bruix J, Mazzaferro V, Ligon AH, Najfeld V, Friedman SL,
   Sellers WR, Meyerson M and Llovet JM.
+cancertypes: []
 contact:
   email: Josep.Llovet@mssm.edu
   name: Josep Llovet

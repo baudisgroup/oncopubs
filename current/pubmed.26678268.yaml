@@ -26,6 +26,7 @@ abstract: "Selecting colorectal cancer (CRC) patients likely to respond to thera
   described for the first time in a cohort of CRC patients."
 authors: Briffa R, Um I, Faratian D, Zhou Y, Turnbull AK, Langdon SP and Harrison
   DJ
+cancertypes: []
 contact:
   email: simon.langdon@ed.ac.uk
   name: Romina Briffa

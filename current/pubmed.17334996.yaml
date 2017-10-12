@@ -24,6 +24,17 @@ abstract: A BAC-array platform for comparative genomic hybridization was constru
   profiling suitable for cancer research and clinical diagnostics.
 authors: Jonsson G, Staaf J, Olsson E, Heidenblad M, Vallon-Christersson J, Osoegawa
   K, de Jong P, Oredsson S, Ringner M, Hoglund M and Borg A.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: ake.borg@med.lu.se
   name: Ake Borg

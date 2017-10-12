@@ -20,6 +20,21 @@ abstract: To data, there have been no comprehensive cytogenetic studies of mucin
   in aneuploid MUCs. These data suggest that MUCs have two types with different genetic
   pathways, histologic characteristics, and behavior.
 authors: Liu XP, Sato T, Oga A, Ikemoto K, Kawauchi S, Ikeda E and Sasaki K.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdot:C18.0
+  term_label: cecum
+- term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21041
+  term_label: Cecum
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
 contact:
   email: kohsuke@yamaguchi-u.ac.jp
   name: Kohsuke Sasaki

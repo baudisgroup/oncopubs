@@ -10,6 +10,17 @@ abstract: The biologic mechanisms involved in the clinical progression from earl
   are inhibitors of cell adhesion and motility.
 authors: Fernandez V, Jares P, Salaverria I, Gine E, Bea S, Aymerich M, Colomer D,
   Villamor N, Bosch F, Montserrat E and Campo E.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: ecampo@clinic.ub.es
   name: Elias Campo

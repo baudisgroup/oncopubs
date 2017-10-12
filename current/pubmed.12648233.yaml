@@ -19,6 +19,17 @@ abstract: The hallmark of primary cutaneous CD30 large T cell lymphoma are large
   also present in this population.
 authors: Gellrich S, Wilks A, Lukowsky A, Wernicke M, Muller A, Marcus Muche J, Fischer
   T, Jasch KC, Audring H and Sterry W.
+cancertypes:
+- term_id: ncit:C3721
+  term_label: Lymphomatoid Papulosis
+- term_id: pgx:icdom:9718_3
+  term_label: Anaplastic large cell lymphoma, cutaneous type
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97183
+  term_label: Anaplastic large cell lymphoma, cutaneous type
 contact:
   email: sylke.gellrich@charite.de
   name: Sylke Gellrich

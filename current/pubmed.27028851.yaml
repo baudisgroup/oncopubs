@@ -23,6 +23,7 @@ abstract: Personalized medicine uses genomic information for selecting therapy i
   profiling of metastatic sample is recommended.
 authors: Bertucci F, Finetti P, Guille A, Adï¿½laï¿½de J, Garnier S, Carbuccia N,
   Monneur A, Charafe-Jauffret E, Goncalves A, Viens P, Birnbaum D and Chaffanet M
+cancertypes: []
 contact:
   email: bertuccif@ipc.unicancer.fr
   name: FranÃ§ois Bertucci

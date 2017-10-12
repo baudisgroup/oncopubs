@@ -3,6 +3,17 @@ abstract: Cholangiocarcinoma comprises 5-20 of all primary malignant tumors of t
   liver. However, the lack of information about the genetic basis of cholangiocarcinoma
   has impeded characterization and understanding of its biological behavior.
 authors: Wong N, Li L, Tsang K, Lai PB, To KF and Johnson PJ.
+cancertypes:
+- term_id: ncit:C27813
+  term_label: Bile Duct Adenocarcinoma
+- term_id: pgx:icdom:8160_3
+  term_label: Cholangiocarcinoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81603
+  term_label: Cholangiocarcinoma
 contact:
   email: natwong@cuhk.edu.hk
   name: Nathalie Wong

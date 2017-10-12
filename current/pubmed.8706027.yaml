@@ -12,6 +12,17 @@ abstract: To identify recurrent chromosomal imbalances in pancreatic adenocarcin
   respectively, possibly involved in pancreatic tumorigenesis.
 authors: Solinas-Toldo S, Wallrapp C, Muller-Pillasch F, Bentz M, Gress T and Lichter
   P.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: sabinatoldo@aol.com
   name: Sabina Solinas-Toldo

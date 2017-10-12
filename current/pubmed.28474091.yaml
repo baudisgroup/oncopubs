@@ -3,6 +3,9 @@ abstract: ~
 authors: Ito Y, Maeda D, Yoshida M, Yoshida A, Kudo-Asabe Y, Nanjyo H, Izumi C, Yamamoto
   F, Inoue M, Shibata H, Katoh H, Ishikawa S, Nakamura H, Totoki Y, Shibata T, Yachida
   S, Goto A.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: maeda-tky@umin.ac.jp
   name: Daichi Maeda

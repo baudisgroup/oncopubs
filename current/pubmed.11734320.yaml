@@ -15,6 +15,17 @@ abstract: 'Hepatocellular carcinoma HCC is a very common and highly malignant tu
   of genetic changes.'
 authors: Kitay-Cohen Y, Amiel A, Ashur Y, Fejgin MD, Herishanu Y, Afanasyev F, Bomstein
   Y and Lishner M.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: amielaliza@clalit.org.il
   name: Aliza Amiel

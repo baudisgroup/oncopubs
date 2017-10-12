@@ -19,6 +19,29 @@ abstract: The goal of this study was to characterize and classify pulmonary neur
   pathways in SCLC.
 authors: Voortman J, Lee JH, Killian JK, Suuriniemi M, Wang Y, Lucchi M, Smith WI
   Jr, Meltzer P, Wang Y and Giaccone G.
+cancertypes:
+- term_id: ncit:C2915
+  term_label: Carcinoid Tumor
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: ncit:C7709
+  term_label: Digestive System Neuroendocrine Tumor G1
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdom:8240_3
+  term_label: Carcinoid tumor, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
+- term_id: snmi:M-82403
+  term_label: Carcinoid tumor, NOS
 contact:
   email: giacconeg@mail.nih.gov
   name: Giuseppe Giaccone

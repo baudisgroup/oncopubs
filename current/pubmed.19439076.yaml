@@ -4,6 +4,7 @@ abstract: DNA methylation is a widely studied epigenetic mechanism known to corr
   global detection of DNA methylation events is of particular importance.
 authors: Li J, Gao F, Li N, Li S, Yin G, Tian G, Jia S, Wang K, Zhang X, Yang H, Nielsen
   AL and Bolund L.
+cancertypes: []
 contact:
   email: lijianyonglm@medmail.com.cn
   name: Jian Li

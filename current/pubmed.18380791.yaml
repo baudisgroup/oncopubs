@@ -23,6 +23,7 @@ abstract: Pancreatic cancer PC cell lines provide a useful starting point for th
   disease.
 authors: Suzuki A, Shibata T, Shimada Y, Murakami Y, Horii A, Shiratori K, Hirohashi
   S, Inazawa J and Imoto I.
+cancertypes: []
 contact:
   email: issecgen@mri.tmd.ac.jp
   name: Issei Imoto

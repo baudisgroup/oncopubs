@@ -21,6 +21,17 @@ abstract: For a variety of technical reasons it is rarely possible to study cyto
   of accumulated chromosomal abnormalities, reflecting an unstable genome in established
   malignancy.
 authors: Moore E, Magee H, Coyne J, Gorey T and Dervan PA.
+cancertypes:
+- term_id: ncit:C7949
+  term_label: ~
+- term_id: pgx:icdom:8500_2
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85002
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
 contact:
   email: ~
   name: ~

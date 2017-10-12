@@ -18,6 +18,7 @@ abstract: 'Breast cancer is the second-leading cause of death among Mexican wome
   the Mexican population.'
 authors: Valladares A, Hernandez NG, Gomez FS, Curiel-Quezada E, Madrigal-Bujaidar
   E, Vergara MD, Martinez MS and Arenas Aranda DJ.
+cancertypes: []
 contact:
   email: arenasdi@servidor.unam.mx
   name: Diego J. Arenas Aranda

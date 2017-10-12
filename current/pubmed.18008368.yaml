@@ -21,6 +21,43 @@ abstract: Hereditary intestinal cancers mainly occur in the framework of the fam
   compatible with the existence of a novel 6q-associated cancer susceptibility syndrome.
 authors: Blaker H, Mechtersheimer G, Sutter C, Hertkorn C, Kern MA, Rieker RJ, Penzel
   R, Schirmacher P and Kloor M.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:icdot:C22.1
+  term_label: intrahepatic bile ducts
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: pgx:seer:21041
+  term_label: Cecum
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: pgx:seer:21072
+  term_label: Intrahepatic Bile Duct
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
 contact:
   email: hendrik_blaeker@med.uni-heidelberg.de
   name: Hendrik Blaeker

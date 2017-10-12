@@ -10,6 +10,17 @@ abstract: Around 30 of all stage II colon cancer patients will relapse and die o
   relapse of tumor in patients with stage II colon cancer.
 authors: Brosens RP, Belt EJ, Haan JC, Buffart TE, Carvalho B, Grabsch H, Quirke P,
   Cuesta MA, Engel AF, Ylstra B and Meijer GA.
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ga.meijer@vumc.nl
   name: Gerrit Meijer

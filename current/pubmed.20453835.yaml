@@ -26,6 +26,17 @@ abstract: Breast adenosquamous carcinomas are rare tumours characterized by well
   of metaplastic breast carcinomas with spindle cell metaplastic elements.
 authors: Geyer FC, Lambros MB, Natrajan R, Mehta R, Mackay A, Savage K, Parry S, Ashworth
   A, Badve S and Reis-Filho JS.
+cancertypes:
+- term_id: ncit:C3727
+  term_label: Adenosquamous Carcinoma
+- term_id: pgx:icdom:8560_3
+  term_label: Adenosquamous carcinoma
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85603
+  term_label: Adenosquamous carcinoma
 contact:
   email: jorgerf@icr.ac.uk
   name: Jorge Reis-Filho

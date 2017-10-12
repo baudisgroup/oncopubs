@@ -19,6 +19,19 @@ abstract: Disappearance of the Barr body is considered a hallmark of cancer, alt
   2015 Chalignï¿½ et al.; Published by Cold Spring Harbor Laboratory Press.
 authors: Chalignï¿½ R, Popova T, Mendoza-Parra MA, Saleem MA, Gentien D, Ban K, Piolot
   T, Leroy O, Mariani O, Gronemeyer H, Vincent-Salomon A, Stern MH and Heard E
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:null
+  term_label: ~
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:icdot:C80.9
+  term_label: unknown
+- term_id: pgx:seer:null
+  term_label: 'null'
+- term_id: snmi:M-null
+  term_label: ~
 contact:
   email: Edith.Heard@curie.fr
   name: Edith Heard

@@ -1,6 +1,9 @@
 ---
 abstract: ~
 authors: ~
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

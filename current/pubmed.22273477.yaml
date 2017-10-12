@@ -11,6 +11,17 @@ abstract: The development of cervical cancer and its high-grade precursor lesion
   loci affected.
 authors: Bierkens M, Wilting SM, van Wieringen WN, van de Wiel MA, Ylstra B, Meijer
   CJ, Snijders PJ and Steenbergen RD.
+cancertypes:
+- term_id: ncit:C89476
+  term_label: ~
+- term_id: pgx:icdom:8077_2
+  term_label: Squamous intraepithelial neoplasia, grade III
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80772
+  term_label: Squamous intraepithelial neoplasia, grade III
 contact:
   email: ~
   name: ~

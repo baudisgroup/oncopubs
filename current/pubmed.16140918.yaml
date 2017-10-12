@@ -19,6 +19,7 @@ abstract: The development of array comparative genomic hybridization array CGH a
   of tiling resolution array CGH for the detection of both submegabase and single
   copy gains and losses in cancer gene discovery.
 authors: Baldwin C, Garnis C, Zhang L, Rosin MP, and Lam WL.
+cancertypes: []
 contact:
   email: cbaldwin@bccrc.ca
   name: Corisande Baldwin

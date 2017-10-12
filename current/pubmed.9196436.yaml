@@ -18,6 +18,7 @@ abstract: Comparative genomic hybridization CGH was applied to 35 neuroblastomas
   changes in neuroblastomas.
 authors: Brinkschmidt C, Christiansen H, Terpe HJ, Simon R, Boecker W, Lampert F and
   Stoerkel S.
+cancertypes: []
 contact:
   email: brinkch@uni-muenster.de
   name: Christian Brinkschmidt

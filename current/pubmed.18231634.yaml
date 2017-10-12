@@ -17,6 +17,29 @@ abstract: 'The aim of this study was to analyze the distribution of FGFR3 mutati
   prognostic marker of tumors with low malignant potential and can be used as surrogate
   marker for the detection of genetically stable bladder tumors.'
 authors: Junker K, van Oers JM, Zwarthoff EC, Kania I, Schubert J and Hartmann A.
+cancertypes:
+- term_id: ncit:C2930
+  term_label: Transitional Cell Carcinoma
+- term_id: ncit:C4116
+  term_label: Stage 0 Transitional Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8120_2
+  term_label: Transitional cell carcinoma in situ
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdom:8130_2
+  term_label: Papillary transitional cell carcinoma,  non-invasive
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: snmi:M-81202
+  term_label: Transitional cell carcinoma in situ
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
+- term_id: snmi:M-81302
+  term_label: Papillary transitional cell carcinoma,  non-invasive
 contact:
   email: kerstin.junker@med.uni-jena.de
   name: Kerstin Junker

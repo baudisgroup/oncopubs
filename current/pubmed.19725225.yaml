@@ -21,6 +21,7 @@ abstract: Telomerase is a specialized cellular reverse transcriptase that adds t
   10q21-qter and 20pter-p11.2 may contain putative telomerase activator s , whereas
   the 17p12 region may harbor candidate telomerase suppressor s .
 authors: Gumus-Akay G, Elhan AH, Unal AE, Demirkazik A, Sunguroglu A and Tukun A.
+cancertypes: []
 contact:
   email: ~
   name: Ajlan Tukun

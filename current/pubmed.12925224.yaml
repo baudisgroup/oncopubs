@@ -27,6 +27,17 @@ abstract: Natural killer and natural killer-like T cell lymphomas represent a ra
   in this malignancy.
 authors: Mao X, Onadim Z, Price EA, Child F, Lillington DM, Russell-Jones R, Young
   BD and Whittaker S.
+cancertypes:
+- term_id: ncit:C4684
+  term_label: Nasal Type Extranodal NK/T-Cell Lymphoma
+- term_id: pgx:icdom:9719_3
+  term_label: NK/T-cell lymphoma
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97193
+  term_label: NK/T-cell lymphoma
 contact:
   email: mxmayo@yahoo.co.uk
   name: Xin Mao

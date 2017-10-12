@@ -21,6 +21,17 @@ abstract: We have examined chromosomal-scale mutations in 34 large colorectal ad
   is not the norm in these lesions, it probably affects a minority of cases.
 authors: Jones AM, Thirlwell C, Howarth KM, Graham T, Chambers W, Segditsas S, Page
   KM, Phillips RK, Thomas HJ, Sieber OM, Sawyer EJ and Tomlinson IP.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: ian.tomlinson@cancer.org.uk
   name: Ian P. M. Tomlinson

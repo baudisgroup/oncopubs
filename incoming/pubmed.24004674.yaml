@@ -23,6 +23,19 @@ abstract: Amplification of cyclin E1 (CCNE1) is associated with poor outcome in 
 authors: Etemadmoghadam D, Au-Yeung G, Wall M, Mitchell C, Kansara M, Loehrer E, Batzios
   C, George J, Ftouni S, Weir BA, Carter S, Gresshoff I, Mileshkin L, Rischin D, Hahn
   WC, Waring PM, Getz G, Cullinane C, Campbell LJ and Bowtell DD
+cancertypes:
+- term_id: ncit:C7700
+  term_label: Ovarian Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: david.bowtell@petermac.org
   name: 61-3-9656-1356

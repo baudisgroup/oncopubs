@@ -20,6 +20,7 @@ abstract: Lung cancer is the leading cause of cancer-related mortality in the wo
   of these cancers.
 authors: Coe BP, Lockwood WW, Girard L, Chari R, Macaulay C, Lam S, Gazdar AF, Minna
   JD and Lam WL.
+cancertypes: []
 contact:
   email: bcoe@bccrc.ca
   name: Bradley P. Coe

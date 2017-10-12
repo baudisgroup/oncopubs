@@ -20,6 +20,7 @@ abstract: Genomic copy number changes are detectable in many malignancies, inclu
   is a powerful tool for the detection of allelic imbalance in neuroblastoma and also
   allows identification of LOH without changes in copy number uniparental disomy .
 authors: Carr J, Bown NP, Case MC, Hall AG, Lunec J and Tweddle DA.
+cancertypes: []
 contact:
   email: ~
   name: ~

@@ -29,6 +29,7 @@ abstract: 'Low-grade head and neck squamous cell carcinomas without lymph node i
   disease tumors. This prompts us to pursue 3q26 or PIK3CA prognostic evaluation in
   a larger population of head and neck squamous cell carcinomas.'
 authors: Redon R, Muller D, Caulee K, Wanherdrick K, Abecassis J and du Manoir S.
+cancertypes: []
 contact:
   email: ~
   name: NA du Manoir

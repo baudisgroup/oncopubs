@@ -16,6 +16,7 @@ abstract: The genomic aberration profile of chromosome 20q in distal CIN colon c
   needs to be carried out with a complementary technique, such as quantitative PCR.
 authors: Nicolet C, Guerin E, Neuville A, Kerckaert JP, Wicker N, Bergmann E, Brigand
   C, Kedinger M, Gaub MP and Guenot D.
+cancertypes: []
 contact:
   email: dominique.guenot@inserm.u-strasbg.fr
   name: Dominique Guenot

@@ -17,6 +17,7 @@ abstract: JMML and CMML are rare myelodysplastic myeloproliferative neoplasms oc
   the central role of RAS and growth factor signalling deregulation in JMML.
 authors: Perez B, Kosmider O, Cassinat B, Renneville A, Lachenaud J, Kaltenbach S,
   Bertrand Y, Baruchel A, Chomienne C, Fontenay M, Preudhomme C and Cave H.
+cancertypes: []
 contact:
   email: helene.cave@rdb.aphp.fr
   name: Helene Cave

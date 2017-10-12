@@ -13,6 +13,7 @@ abstract: Array comparative genomic hybridization aCGH provides a technique to s
   may identify new candidate genes neighboring known because it detects significantly
   altered chromosomal regions, rather than independent probes.
 authors: Kim KY, Lee GY, Kim J, Jeung HC, Chung HC and Rha SY.
+cancertypes: []
 contact:
   email: ~
   name: Sun Young Rha

@@ -14,6 +14,35 @@ abstract: Comparative genomic hybridization was used to search for DNA copy numb
   but not for gastric carcinoma in HNPCC patients.
 authors: Larramendy ML, el-Rifai W, Kokkola A, Puolakkainen P, Monni O, Salovaara
   R, Aarnio M and Knuutila S.
+cancertypes:
+- term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3727
+  term_label: Adenosquamous Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- term_id: pgx:icdom:8560_3
+  term_label: Adenosquamous carcinoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
+- term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
+- term_id: snmi:M-85603
+  term_label: Adenosquamous carcinoma
 contact:
   email: wael.el-rifai@Vanderbilt.Edu
   name: W. El-Rifai

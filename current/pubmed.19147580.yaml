@@ -23,6 +23,23 @@ abstract: Cervical cancer develops from precancerous high-grade cervical intraep
 authors: Wilting SM, Steenbergen RD, Tijssen M, van Wieringen WN, Helmerhorst TJ,
   van Kemenade FJ, Bleeker MC, van de Wiel MA, Carvalho B, Meijer GA, Ylstra B, Meijer
   CJ and Snijders PJ.
+cancertypes:
+- term_id: ncit:C7347
+  term_label: Cervical Squamous Cell Carcinoma In Situ
+- term_id: ncit:C89476
+  term_label: ~
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdom:8077_2
+  term_label: Squamous intraepithelial neoplasia, grade III
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80701
+  term_label: ~
+- term_id: snmi:M-80772
+  term_label: Squamous intraepithelial neoplasia, grade III
 contact:
   email: pjf.snijders@vumc.nl
   name: Peter Snijders

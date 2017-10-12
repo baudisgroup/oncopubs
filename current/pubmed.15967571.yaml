@@ -14,6 +14,7 @@ abstract: The completion of the human genome sequence and the development of hig
   genetic changes, and that this technique can be used to identify novel regions of
   genomic imbalance.
 authors: Mosse YP, Greshock J, Weber BL and Maris JM.
+cancertypes: []
 contact:
   email: maris@email.chop.edu
   name: John M. Maris

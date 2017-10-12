@@ -6,6 +6,7 @@ abstract: Genomic instability with frequent DNA copy number alterations is one o
   profiles, especially on the global level.
 authors: Fan B, Dachrut S, Coral H, Yuen ST, Chu KM, Law S, Zhang L, Ji J, Leung SY
   and Chen X.
+cancertypes: []
 contact:
   email: xin.chen@ucsf.edu
   name: Xin Chen

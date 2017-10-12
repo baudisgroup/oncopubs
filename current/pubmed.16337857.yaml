@@ -15,6 +15,35 @@ abstract: Ovarian carcinoma is the leading cause of death among women with gynec
   tumors. Our findings demonstrate biologic observations of clinical drug resistance
   and specifically reveal chromosomal regions of interest for platinum resistance.
 authors: Osterberg L, Levan K, Partheen K, Helou K and Horvath G.
+cancertypes:
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: ncit:C3766
+  term_label: Clear Cell Adenocarcinoma
+- term_id: ncit:C3776
+  term_label: ~
+- term_id: ncit:C6882
+  term_label: ~
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: pgx:icdom:8460_3
+  term_label: Papillary serous cystadenocarcinoma
+- term_id: pgx:icdom:8470_3
+  term_label: Mucinous cystadenocarcinoma, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
+- term_id: snmi:M-84603
+  term_label: Papillary serous cystadenocarcinoma
+- term_id: snmi:M-84703
+  term_label: Mucinous cystadenocarcinoma, NOS
 contact:
   email: ~
   name: ~

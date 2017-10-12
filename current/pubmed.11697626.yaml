@@ -19,6 +19,7 @@ abstract: We investigated the frequency of bcl-2 protein overexpression in 80 di
   Bcl-2 protein overexpression as determined by IHC is associated with poor response
   to chemotherapy and poor survival.
 authors: Rantanen S, Monni O, Joensuu H, Franssila K and Knuutila S.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

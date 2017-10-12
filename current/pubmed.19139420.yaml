@@ -22,6 +22,17 @@ abstract: Development of model systems that recapitulate the molecular heterogen
   GBM treatment.
 authors: Hodgson JG, Yeh RF, Ray A, Wang NJ, Smirnov I, Yu M, Hariono S, Silber J,
   Feiler HS, Gray JW, Spellman PT, Vandenberg SR, Berger MS and James CD.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ghodgson@cc.ucsf.edu
   name: Graeme Hodgson

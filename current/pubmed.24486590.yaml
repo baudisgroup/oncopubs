@@ -23,6 +23,19 @@ authors: Riester M, Werner L, Bellmunt J, Selvarajah S, Guancial EA, Weir BA, St
   EC, Park RS, O'Brien R, Schutz FA, Choueiri TK, Signoretti S, Lloreta J, Marchionni
   L, Gallardo E, Rojo F, Garcia DI, Chekaluk Y, Kwiatkowski DJ, Bochner BH, Hahn WC,
   Ligon AH, Barletta JA, Loda M, Berman DM, Kantoff PW, Michor F, Rosenberg JE.
+cancertypes:
+- term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- term_id: seer:29010
+  term_label: urinary bladder
+- term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
 contact:
   email: markus@jimmy.harvard.edu
   name: Markus Riester

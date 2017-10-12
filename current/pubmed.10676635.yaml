@@ -12,6 +12,7 @@ abstract: Comparative genomic hybridization was applied for a comprehensive scre
   B-cell lymphoma.
 authors: Joos S, Kupper M, Ohl S, von Bonin F, Mechtersheimer G, Bentz M, Marynen
   P, Moller P, Pfreundschuh M, Trumper L and Lichter P.
+cancertypes: []
 contact:
   email: s.joos@dkfz.de
   name: Stefan Joos

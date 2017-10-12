@@ -25,6 +25,7 @@ abstract: 'Understanding the genes and genetic pathways targeted by recurrent ch
   jpages 1045-2257 suppmat index.html.'
 authors: Selzer RR, Richmond TA, Pofahl NJ, Green RD, Eis PS, Nair P, Brothman AR
   and Stallings RL.
+cancertypes: []
 contact:
   email: Stallings@uthscsa.edu
   name: Raymond L. Stallings

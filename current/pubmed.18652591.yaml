@@ -13,6 +13,17 @@ abstract: Chordoid gliomas are rare, slow-growing neoplasms of the anterior thir
   11q13. These are the fifth through ninth reported cases of chordoid gliomas with
   molecular characterization suggesting a distinct genetic origin from other gliomas.
 authors: Horbinski C, Dacic S, McLendon RE, Cieply K, Datto M, Brat DJ and Chu CT.
+cancertypes:
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdot:C71.5
+  term_label: ventricle
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
 contact:
   email: horbinskicm@upmc.edu
   name: Craig Horbinski

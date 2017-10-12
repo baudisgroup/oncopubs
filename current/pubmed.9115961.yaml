@@ -20,6 +20,29 @@ abstract: Comparative genomic hybridization CGH was used in a retrospective anal
   the RER phenotype may differ.
 authors: Sonoda G, du Manoir S, Godwin AK, Bell DW, Liu Z, Hogan M, Yakushiji M and
   Testa JR.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C3727
+  term_label: Adenosquamous Carcinoma
+- term_id: ncit:C3778
+  term_label: ~
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: pgx:icdom:8560_3
+  term_label: Adenosquamous carcinoma
+- term_id: pgx:icdot:C55.9
+  term_label: uterus, nos
+- term_id: pgx:seer:27030
+  term_label: Uterus, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: snmi:M-85603
+  term_label: Adenosquamous carcinoma
 contact:
   email: horii@mail.cc.tohoku.ac.jp
   name: Akira Horii

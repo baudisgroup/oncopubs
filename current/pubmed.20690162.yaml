@@ -20,6 +20,17 @@ abstract: Primary effusion lymphoma PEL is associated with Kaposi sarcoma herpes
 authors: Luan SL, Boulanger E, Ye H, Chanudet E, Johnson N, Hamoudi RA, Bacon CM,
   Liu H, Huang Y, Said J, Chu P, Clemen CS, Cesarman E, Chadburn A, Isaacson PG and
   Du MQ.
+cancertypes:
+- term_id: ncit:C6915
+  term_label: Primary Effusion Lymphoma
+- term_id: pgx:icdom:9678_3
+  term_label: Primary effusion lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96783
+  term_label: Primary effusion lymphoma
 contact:
   email: mqd20@cam.ac.uk
   name: Ming-Qing Du

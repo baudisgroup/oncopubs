@@ -19,6 +19,7 @@ abstract: Comparative genomic hybridization CGH analysis was performed on 36 neu
   second, independent technique for evaluation of these genetic parameters is recommended.
 authors: Vandesompele J, Van Roy N, Van Gele M, Laureys G, Ambros P, Heimann P, Devalck
   C, Schuuring E, Brock P, Otten J, Gyselinck J, De Paepe A and Speleman F.
+cancertypes: []
 contact:
   email: franki.speleman@rug.ac.be
   name: Frank Speleman

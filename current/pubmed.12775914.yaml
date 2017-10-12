@@ -18,6 +18,7 @@ abstract: In order to explore whether specific cytogenetic abnormalities can be 
   p53, cyclin A and cyclin E revealed a correlation between increased proliferative
   activity and poor outcome.
 authors: Blegen H, Will JS, Ghadimi BM, Nash HP, Zetterberg A, Auer G and Ried T.
+cancertypes: []
 contact:
   email: riedt@mail.nih.gov
   name: Thomas Ried

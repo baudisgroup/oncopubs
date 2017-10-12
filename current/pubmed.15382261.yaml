@@ -23,6 +23,29 @@ abstract: 'Comparative genomic hybridization CGH has been widely used to detect 
   index.html.'
 authors: Melendez B, Diaz-Uriarte R, Cuadros M, Martinez-Ramirez A, Fernandez-Piqueras
   J, Dopazo A, Cigudosa JC, Rivas C, Dopazo J, Martinez-Delgado B and Benitez J.
+cancertypes:
+- term_id: ncit:C3720
+  term_label: Anaplastic Large Cell Lymphoma
+- term_id: ncit:C7204
+  term_label: T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: ncit:C7528
+  term_label: Angioimmunoblastic T-Cell Lymphoma
+- term_id: pgx:icdom:9702_3
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: pgx:icdom:9705_3
+  term_label: Angioimmunoblastic T-cell lymphoma
+- term_id: pgx:icdom:9714_3
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-97023
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: snmi:M-97053
+  term_label: Angioimmunoblastic T-cell lymphoma
+- term_id: snmi:M-97143
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
 contact:
   email: ~
   name: ~

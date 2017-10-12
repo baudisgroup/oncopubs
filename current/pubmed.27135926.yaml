@@ -26,6 +26,9 @@ authors: Nik-Zainal S, Davies H, Staaf J, Ramakrishna M, Glodzik D, Zou X, Marti
   Futreal PA, Campbell PJ, Span PN, Van Laere S, Lakhani SR, Eyfjord JE, Thompson
   AM, Birney E, Stunnenberg HG, van de Vijver MJ, Martens JW, Bï¿½rresen-Dale AL,
   Richardson AL, Kong G, Thomas G and Stratton MR
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: mrs@sanger.ac.uk
   name: Michael R Stratton

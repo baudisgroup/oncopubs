@@ -27,6 +27,9 @@ abstract: "HER2 (ERBB2) gene amplification and its corresponding overexpression 
 authors: Lesurf R, Griffith OL, Griffith M, Hundal J, Trani L, Watson MA, Aft R, Ellis
   MJ, Ota D, Suman VJ, Meric-Bernstam F, Leitch AM, Boughey JC, Unzeitig G, Buzdar
   AU, Hunt KK, Mardis ER.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: elaine.mardis@nationwidechildrens.org
   name: Elaine Mardis

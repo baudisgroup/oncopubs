@@ -6,6 +6,7 @@ abstract: Conventional cytogenetic and comparative genomic hybridization CGH stu
   gene copy number alterations.
 authors: Ruano Y, Mollejo M, Ribalta T, Fiano C, Camacho FI, Gomez E, de Lope AR,
   Hernandez-Moneo JL, Martinez P and Melendez B.
+cancertypes: []
 contact:
   email: bmelendez@cnio.es
   name: Barbara Melendez

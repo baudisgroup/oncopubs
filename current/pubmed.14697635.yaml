@@ -17,6 +17,29 @@ abstract: Primary carcinomas of the vagina are rare tumors, accounting for 2 -3 
   expression P 0.006 have a significant influence on the survival time.
 authors: Habermann JK, Hellman K, Freitag S, Heselmeyer-Haddad K, Hellstrom AC, Shah
   K, Auer G and Ried T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: ncit:C3915
+  term_label: Small Cell Carcinoma
+- term_id: pgx:icdom:8041_3
+  term_label: Small cell carcinoma, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C51.0
+  term_label: vagina and labia
+- term_id: pgx:seer:27060
+  term_label: Vulva
+- term_id: snmi:M-80413
+  term_label: Small cell carcinoma, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: riedt@mail.nih.gov
   name: Thomas Ried

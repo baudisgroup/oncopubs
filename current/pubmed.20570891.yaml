@@ -21,6 +21,7 @@ abstract: It has become increasingly clear that the cells within the tumor micro
   abnormalities in the CAFs themselves. As such, breast CAFs should be mainly regarded
   as genomically stable cellular constituents that exist within complex cancer microenvironments.
 authors: Hosein AN, Wu M, Arcand SL, Lavallee S, Hebert J, Tonin PN and Basik M.
+cancertypes: []
 contact:
   email: ~
   name: Mark Basik

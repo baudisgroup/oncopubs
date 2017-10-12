@@ -21,6 +21,7 @@ abstract: Gene amplification is a tumor-specific event during malignant transfor
 authors: Lin L., Bass A. J., Lockwood W. W., Wang Z., Silvers A. L., Thomas D. G.,
   Chang A. C., Lin J., Orringer M. B., Li W., Glover T. W., Giordano T. J., Lam W.
   L., Meyerson M. and Beer D. G.
+cancertypes: []
 contact:
   email: linlin@umich.edu
   name: Lin Lin

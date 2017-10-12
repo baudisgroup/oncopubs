@@ -20,6 +20,21 @@ abstract: DNA copy number changes were studied by comparative genomic hybridizat
 authors: Larramendy ML, Mandahl N, Mertens F, Blomqvist C, Kivioja AH, Karaharju E,
   Valle J, Bohling T, Tarkkanen M, Rydholm A, Akerman M, Bauer HC, Anttila JP, Elomaa
   I and Knuutila S.
+cancertypes:
+- term_id: ncit:C2946
+  term_label: Chondrosarcoma
+- term_id: pgx:icdom:9220_3
+  term_label: Chondrosarcoma, NOS
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-92203
+  term_label: Chondrosarcoma, NOS
 contact:
   email: dalia76ro@yahoo.com
   name: Dalia Pascalau

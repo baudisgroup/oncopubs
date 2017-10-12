@@ -16,6 +16,17 @@ abstract: We have studied the occurrence and association of 11q deletions with o
 authors: Plantaz D, Vandesompele J, Van Roy N, Lastowska M, Bown N, Combaret V, Favrot
   MC, Delattre O, Michon J, Benard J, Hartmann O, Nicholson JC, Ross FM, Brinkschmidt
   C, Laureys G, Caron H, Matthay KK, Feuerstein BG and Speleman F.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: ~

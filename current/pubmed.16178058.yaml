@@ -22,6 +22,23 @@ abstract: 'Neuroblastic tumours are a group of paediatric cancers with marked mo
   and play a role in tumour maturation.'
 authors: Coco S, Defferrari R, Scaruffi P, Cavazzana A, Di Cristofano C, Longo L,
   Mazzocco K, Perri P, Gambini C, Moretti S, Bonassi S and Tonini GP.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: ncit:C3790
+  term_label: Ganglioneuroblastoma
+- term_id: pgx:icdom:9490_3
+  term_label: Ganglioneuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-94903
+  term_label: Ganglioneuroblastoma
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: Gian Paolo Tonini

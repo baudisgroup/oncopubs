@@ -15,6 +15,9 @@ abstract: Runs of homozygosity (ROH) represents extended length of homozygotes o
   several ROH regions we observed the co-occurrence of fragile sites (FRAs). However,
   FRA on the genome wide level does not show a clear relationship with ROH regions.
 authors: Ruan X, Kocher JP, Pommier Y, Liu H and Reinhold WC
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: ~
   name: ~

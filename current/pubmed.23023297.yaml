@@ -25,6 +25,19 @@ abstract: Lung cancer is the worldwide leading cause of death from cancer and ha
   subgroups of the disease.
 authors: Staaf J, Isaksson S, Karlsson A, Jï¿½nsson M, Johansson L, Jï¿½nsson P, Botling
   J, Micke P, Baldetorp B, Planck M.
+cancertypes:
+- term_id: ncit:C4878
+  term_label: Lung Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: johan.staaf@med.lu.se
   name: ~

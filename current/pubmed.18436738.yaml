@@ -18,6 +18,7 @@ abstract: 'Chronic lymphocytic leukemia CLL has a variable clinical course. Pres
   automation and future routine clinical application of CLL whole-genome analysis.'
 authors: Kujawski L, Ouillette P, Erba H, Saddler C, Jakubowiak A, Kaminski M, Shedden
   K and Malek SN.
+cancertypes: []
 contact:
   email: smalek@med.umich.edu
   name: Sami N. Malek

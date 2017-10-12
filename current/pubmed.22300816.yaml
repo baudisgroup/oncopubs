@@ -10,6 +10,7 @@ abstract: The analysis of nucleic acids is limited by the availability of archiv
   of collection, to obtain DNA suitable for further analysis. We have assessed DNA
   extracted from these materials for both SNP array and array CGH.
 authors: Mackinnon RN, Selan C, Zordan A, Wall M, Nandurkar H and Campbell LJ.
+cancertypes: []
 contact:
   email: ~
   name: Ruth MacKinnon

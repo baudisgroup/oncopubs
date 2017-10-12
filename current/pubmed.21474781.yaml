@@ -19,6 +19,7 @@ abstract: The tumor microenvironment strongly influences cancer development, pro
 authors: Navab R, Strumpf D, Bandarchi B, Zhu CQ, Pintilie M, Ramnarine VR, Ibrahimov
   E, Radulovich N, Leung L, Barczyk M, Panchal D, To C, Yun JJ, Der S, Shepherd FA,
   Jurisica I and Tsao MS.
+cancertypes: []
 contact:
   email: ming.tsao@uhn.on.ca
   name: Ming-Sound Tsao

@@ -21,6 +21,7 @@ abstract: Fanconi anemia (FA) predisposes to hematologic disorders and myeloid n
 authors: Malric A, Defachelles AS, Leblanc T, Lescoeur B, Lacour B, Peuchmaur M, Maurage
   CA, Pierron G, Guillemot D, d'Enghien CD, Soulier J, Stoppa-Lyonnet D and Bourdeaut
   F
+cancertypes: []
 contact:
   email: franck.bourdeaut@curie.fr
   name: Franck Bourdeaut

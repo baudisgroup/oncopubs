@@ -15,6 +15,37 @@ abstract: Medulloblastomas and related primitive neuroectodermal tumors PNETs of
   tumor group and to attempt to identify common structural rearrangement s .
 authors: Bayani J, Zielenska M, Marrano P, Kwan Ng Y, Taylor MD, Jay V, Rutka JT and
   Squire JA.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
 contact:
   email: jsquireinsp@gmail.com
   name: Jeremy Squire

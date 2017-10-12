@@ -16,6 +16,9 @@ abstract: Patients with chromosome 13q deletion or normal cytogenetics represent
 authors: Kasar S, Kim J, Improgo R, Tiao G, Polak P, Haradhvala N, Lawrence MS, Kiezun
   A, Fernandes SM, Bahl S, Sougnez C, Gabriel S, Lander ES, Kim HT, Getz G, Brown
   JR.
+cancertypes:
+- term_id: seer:35012
+  term_label: chronic lymphocytic leukemia
 contact:
   email: jennifer_brown@dfci.harvard.edu
   name: Jennifer Brown

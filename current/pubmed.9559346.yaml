@@ -18,6 +18,7 @@ abstract: Comparative genomic hybridization CGH is a technique that allows the d
   an important event in GBM, with a genetic pathway, which is distinct from that in
   GBM with 7p amplification.
 authors: Nishizaki T, Ozaki S, Harada K, Ito H, Arai H, Beppu T and Sasaki K.
+cancertypes: []
 contact:
   email: nishi-ygc@umin.u-tokyo.ac.jp
   name: Takafumi Nishizaki

@@ -21,6 +21,17 @@ abstract: 'PURPOSE: East-Asian EA patients with non-small-cell lung cancer NSCLC
   when evaluating future NSCLC therapies targeting genes located on these areas.'
 authors: Broet P, Dalmasso C, Tan EH, Alifano M, Zhang S, Wu J, Lee MH, Regnard JF,
   Lim D, Koong HN, Agasthian T, Miller LD, Lim E, Camilleri-Broet S and Tan P.
+cancertypes:
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

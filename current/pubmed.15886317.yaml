@@ -18,6 +18,7 @@ abstract: Diffuse large B-cell lymphoma DLBCL comprises molecularly distinct sub
   most aggressive type of DLBCL.
 authors: Tagawa H, Suguro M, Tsuzuki S, Matsuo K, Karnan S, Ohshima K, Okamoto M,
   Morishima Y, Nakamura S and Seto M.
+cancertypes: []
 contact:
   email: mseto@aichi-cc.jp
   name: Masao Seto

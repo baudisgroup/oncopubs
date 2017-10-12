@@ -21,9 +21,19 @@ abstract: 'The concept of the CpG island methylator phenotype (CIMP) in colorect
 authors: Yamamoto E, Suzuki H, Yamano HO, Maruyama R, Nojima M, Kamimae S, Sawada
   T, Ashida M, Yoshikawa K, Kimura T, Takagi R, Harada T, Suzuki R, Sato A, Kai M,
   Sasaki Y, Tokino T, Sugai T, Imai K, Shinomura Y, Toyota M.
-cancertype:
-  term_id: seer:21049
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: seer:21049
   term_label: large intestine, nos
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: e.yamamoto@sapmed.ac.jp
   name: Eiichiro Yamamoto

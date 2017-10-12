@@ -22,6 +22,37 @@ abstract: Oligo-astrocytic tumours OAs histologically show both oligodendroglial
   insufficient for an unequivocal distinction between Os, As, and mixed OAs.
 authors: Jeuken JW, Sprenger SH, Boerman RH, von Deimling A, Teepen HL, van Overbeeke
   JJ and Wesseling P.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: j.jeuken@pathol.umcn.nl
   name: Judith Jeuken

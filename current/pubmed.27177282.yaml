@@ -18,6 +18,9 @@ abstract: This study aimed to perform an integrative genetic analysis of patient
   These results exemplify that analysis of genomic biomarkers is feasible on archived
   FFPE tissue.
 authors: Stï¿½lberg K, Crona J, Razmara M, Taslica D, Skogseid B and Stï¿½lberg P
+cancertypes:
+- term_id: seer:27040
+  term_label: ovary
 contact:
   email: karin.stalberg@kbh.uu.se
   name: Karin Stalberg

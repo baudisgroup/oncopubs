@@ -3,6 +3,7 @@ abstract: Lymph node metastasis is an important indicator of oncologic outcome f
   patients with rectal cancer. Identifying predictive biomarkers of lymph node metastasis
   could therefore be clinically useful.
 authors: Chen, Z., Liu, Z., Deng, X., Warden, C., Li, W., and Garcia-Aguilar, J.
+cancertypes: []
 contact:
   email: ~
   name: Julio Garcia-Aguilar

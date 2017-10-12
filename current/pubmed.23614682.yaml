@@ -21,6 +21,27 @@ authors: Mallo M, Del Rey M, Ibï¿½ï¿½ez M, Calasanz MJ, Arenillas L, Larr�
   Pedro C, Jerez A, Maciejewski J, Costa D, Nomdedeu M, Diez-Campelo M, Lumbreras
   E, Gonzï¿½lez-Martï¿½nez T, Marugï¿½n I, Such E, Cervera J, Cigudosa JC, Alvarez
   S, Florensa L, Hernï¿½ndez JM, Solï¿½ F.
+cancertypes:
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:35023
+  term_label: other myeloid/monocytic leukemia
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: ~
   name: Mar Mallo

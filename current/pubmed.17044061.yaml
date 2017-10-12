@@ -20,6 +20,59 @@ abstract: To identify sequential alterations of the genome, transcriptome, and p
   interventions.
 authors: Habermann JK, Paulsen U, Roblick UJ, Upender MB, McShane LM, Korn EL, Wangsa
   D, Kruger S, Duchrow M, Bruch HP, Auer G and Ried T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: ncit:C4133
+  term_label: ~
+- term_id: ncit:C4143
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8211_0
+  term_label: Tubular adenoma, NOS
+- term_id: pgx:icdom:8263_0
+  term_label: Tubulovillous adenoma, NOS
+- term_id: pgx:icdot:C18.0
+  term_label: cecum
+- term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21048
+  term_label: Sigmoid Colon
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-82110
+  term_label: Tubular adenoma, NOS
+- term_id: snmi:M-82630
+  term_label: Tubulovillous adenoma, NOS
 contact:
   email: habermaj@mail.nih.gov
   name: Jens Habermann

@@ -5,6 +5,17 @@ abstract: The reported incidence of peripheral blood involvement in patients wit
   in a series of patients with MCL.
 authors: Ferrer A, Salaverria I, Bosch F, Villamor N, Rozman M, Bea S, Gine E, Lopez-Guillermo
   A, Campo E and Montserrat E.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: ISALAVER@clinic.ub.es
   name: Itziar Salaverria

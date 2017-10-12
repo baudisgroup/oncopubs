@@ -15,6 +15,17 @@ abstract: AML MDS patients carrying 11q amplifications involving the mixed linea
   from several other types of AML.
 authors: Zatkova A, Merk S, Wendehack M, Bilban M, Muzik EM, Muradyan A, Haferlach
   C, Haferlach T, Wimmer K, Fonatsch C and Ullmann R.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: christa.fonatsch@meduniwien.ac.at
   name: Christa Fonatsch

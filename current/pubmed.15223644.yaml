@@ -21,6 +21,17 @@ abstract: Comparative genomic hybridization CGH was carried out in 30 mantle cel
 authors: Jarosova M, Papajik T, Holzerova M, Dusek L, Pikalova Z, Lakoma I, Raida
   L, Faber E, Divoka M, Vlachova S, Prekopova I, Novosadova A, Pospisilova H and Indrak
   K.
+cancertypes:
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
 contact:
   email: ~
   name: ~

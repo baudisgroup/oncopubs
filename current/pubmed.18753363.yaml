@@ -18,6 +18,7 @@ abstract: Anaplastic thyroid cancer ATC is a rare but highly aggressive disease 
   of ATC.
 authors: Lee JJ, Au AY, Foukakis T, Barbaro M, Kiss N, Clifton-Bligh R, Staaf J, Borg
   A, Delbridge L, Robinson BG, Wallin G, Hoog A and Larsson C.
+cancertypes: []
 contact:
   email: jiajing_lee@hms.harvard.edu
   name: Jia-Jing Lee

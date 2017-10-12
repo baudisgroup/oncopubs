@@ -13,6 +13,17 @@ abstract: MET amplification activates ERBB3 PI3K AKT signaling in EGFR mutant lu
 authors: Turke AB, Zejnullahu K, Wu YL, Song Y, Dias-Santagata D, Lifshits E, Toschi
   L, Rogers A, Mok T, Sequist L, Lindeman NI, Murphy C, Akhavanfard S, Yeap BY, Xiao
   Y, Capelletti M, Iafrate AJ, Lee C, Christensen JG, Engelman JA and Janne PA.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
 contact:
   email: ~
   name: ~

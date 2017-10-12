@@ -15,6 +15,17 @@ abstract: We have explored the potential role of genetics in the development of 
 authors: Sarasquete ME, Garcia-Sanz R, Marin L, Alcoceba M, Chillon MC, Balanzategui
   A, Santamaria C, Rosinol L, de la Rubia J, Hernandez MT, Garcia-Navarro I, Lahuerta
   JJ, Gonzalez M and San Miguel JF.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: ~
   name: Ramon Garcia-Sanz

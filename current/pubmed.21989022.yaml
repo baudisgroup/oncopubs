@@ -6,6 +6,7 @@ abstract: Germline mutations in either of the two tumor-suppressor genes, BRCA1 
   have been identified in these genes.
 authors: Garcia-Casado Z, Romero I, Fernandez-Serra A, Rubio L, Llopis F, Garcia A,
   Llombart P and Lopez-Guerrero JA.
+cancertypes: []
 contact:
   email: ~
   name: Jose Lopez-Guerrero

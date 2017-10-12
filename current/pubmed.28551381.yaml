@@ -17,8 +17,8 @@ authors: Viel A, Bruselles A, Meccia E, Fornasarig M, Quaia M, Canzonieri V, Pol
   E, Urso ED, Agostini M, Genuardi M, Lucci-Cordisco E, Venesio T, Martayan A, Diodoro
   MG, Sanchez-Mete L, Stigliano V, Mazzei F, Grasso F, Giuliani A, Baiocchi M, Maestro
   R, Giannini G, Tartaglia M, Alexandrov LB, Bignami M.
-cancertype:
-  term_id: seer:21049
+cancertypes:
+- term_id: seer:21049
   term_label: large intestine, nos
 contact:
   email: margherita.bignami@gmail.com

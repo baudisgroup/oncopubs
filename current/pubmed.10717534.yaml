@@ -16,6 +16,17 @@ abstract: Human papilloma virus HPV infection is the crucial step in the initiat
   alterations is triggered by integration into the host genome.
 authors: Hidalgo A, Schewe C, Petersen S, Salcedo M, Gariglio P, Schluns K, Dietel
   M and Petersen I.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: alfhm@yahoo.com
   name: Alfredo Hidalgo

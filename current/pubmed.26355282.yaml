@@ -21,6 +21,7 @@ abstract: "Genomic aberrations can be used to subtype breast cancer. In this stu
   Inc.  Â© 2015 Wiley Periodicals, Inc."
 authors: Biesma HD, Schouten PC, Lacle MM, Sanders J, Brugman W, Kerkhoven R, Mandjes
   I, van der Groep P, van Diest PJ and Linn SC
+cancertypes: []
 contact:
   email: s.linn@nki.nl
   name: S.C. Linn

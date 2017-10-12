@@ -23,6 +23,29 @@ authors: Salaverria I, Philipp C, Oschlies I, Kohler CW, Kreuz M, Szczepanowski 
   D, Hummel M, Loeffler M, Mahn F, Martin-Guerrero I, Pellissery S, Pott C, Pfreundschuh
   M, Reiter A, Richter J, Rosolowski M, Schwaenen C, Stein H, Trumper L, Wessendorf
   S, Spang R, Kuppers R, Klapper W and Siebert R.
+cancertypes:
+- term_id: ncit:C27824
+  term_label: ~
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9698_3
+  term_label: Follicular lymphoma, grade 3
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96983
+  term_label: Follicular lymphoma, grade 3
 contact:
   email: ISALAVER@clinic.ub.es
   name: Itziar Salaverria

@@ -3,6 +3,7 @@ abstract: To compare a gene expression-based classifier versus the standard gene
   prognostic marker, monosomy 3, for predicting metastasis in uveal melanoma.
 authors: Worley LA, Onken MD, Person E, Robirds D, Branson J, Char DH, Perry A and
   Harbour JW.
+cancertypes: []
 contact:
   email: harbour@wustl.edu
   name: William J. Harbour

@@ -23,6 +23,17 @@ abstract: 'Hepatoblastoma HB is the most common liver tumor in childhood and dif
 authors: Terracciano LM, Bernasconi B, Ruck P, Stallmach T, Briner J, Sauter G, Moch
   H, Vecchione R, Pollice L, Pettinato G, Gurtl B, Ratschek M, De Krijger R, Tornillo
   L and Bruder E.
+cancertypes:
+- term_id: ncit:C3728
+  term_label: Hepatoblastoma
+- term_id: pgx:icdom:8970_3
+  term_label: Hepatoblastoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-89703
+  term_label: Hepatoblastoma
 contact:
   email: ~
   name: ~

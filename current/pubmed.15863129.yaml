@@ -7,6 +7,17 @@ abstract: Angiosarcomas represent a heterogeneous group of malignant vascular tu
   add molecular cytogenetic findings in another 4 angiosarcomas to 11 previously reported
   cases.
 authors: Baumhoer D, Gunawan B, Becker H and Fuzesi L.
+cancertypes:
+- term_id: ncit:C3088
+  term_label: Angiosarcoma
+- term_id: pgx:icdom:9120_3
+  term_label: Hemangiosarcoma
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-91203
+  term_label: Hemangiosarcoma
 contact:
   email: fuezesi@med.uni-goettingen.de
   name: Laszlo Fuzesi

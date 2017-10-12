@@ -16,6 +16,7 @@ abstract: Acute myeloid leukemia AML cases with monosomy 7 -7 and del 7q compris
   There is evidence that the outcome is better when -7 or del 7q occurs in patients
   with a simple karyotype, compared with a complex karyotype.
 authors: Woo KS, Kim KE, Kim KH, Kim SH, Park JI, Shaffer LG and Han JY.
+cancertypes: []
 contact:
   email: jyhan@dau.ac.kr
   name: Jin-yeong Han

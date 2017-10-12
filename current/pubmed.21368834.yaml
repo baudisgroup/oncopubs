@@ -23,6 +23,17 @@ authors: Wertz IE, Kusam S, Lam C, Okamoto T, Sandoval W, Anderson DJ, Helgason 
   Ernst JA, Eby M, Liu J, Belmont LD, Kaminker JS, ORourke KM, Pujara K, Kohli PB,
   Johnson AR, Chiu ML, Lill JR, Jackson PK, Fairbrother WJ, Seshagiri S, Ludlam MJ,
   Leong KG, Dueber EC, Maecker H, Huang DC and Dixit VM.
+cancertypes:
+- term_id: ncit:C4908
+  term_label: Ovarian Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: ~
   name: ~

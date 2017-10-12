@@ -21,6 +21,23 @@ abstract: To identify putative biomarkers in squamous cell carcinoma SCC , a sur
   of oncogenesis in SCC.
 authors: Sugimoto T, Seki N, Shimizu S, Kikkawa N, Tsukada J, Shimada H, Sasaki K,
   Hanazawa T, Okamoto Y and Hata A.
+cancertypes:
+- term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: naoseki@faculty.chiba-u.jp
   name: Naohiko Seki

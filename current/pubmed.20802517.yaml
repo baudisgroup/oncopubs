@@ -25,6 +25,7 @@ abstract: Small-cell lung cancer SCLC is the most aggressive subtype of lung can
   may have therapeutic implications.
 authors: Ocak S, Yamashita H, Udyavar AR, Miller AN, Gonzalez AL, Zou Y, Jiang A,
   Yi Y, Shyr Y, Estrada L, Quaranta V and Massion PP.
+cancertypes: []
 contact:
   email: pierre.massion@vanderbilt.edu
   name: Pierre Massion

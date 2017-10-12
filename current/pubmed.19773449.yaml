@@ -22,6 +22,17 @@ abstract: Androgen deprivation is the mainstay of therapy for progressive prosta
   and final stage of prostate cancer.
 authors: Holcomb IN, Young JM, Coleman IM, Salari K, Grove DI, Hsu L, True LD, Roudier
   MP, Morrissey CM, Higano CS, Nelson PS, Vessella RL and Trask BJ.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Barbara J Trask

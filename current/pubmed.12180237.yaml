@@ -3,6 +3,17 @@ abstract: The genetic changes underlying the development and progression of pros
   cancer are poorly understood. To identify chromosomal regions in incidental prostatic
   carcinoma T1a and T1b was the primary aim of this study.
 authors: Wolter H, Trijic D, Gottfried HW and Mattfeldt T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: NA Mattfeldt

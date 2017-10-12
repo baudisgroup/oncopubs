@@ -18,6 +18,27 @@ abstract: Molecular methods for predicting prognosis in patients with oral cavit
   selection of therapeutic strategies.
 authors: Peng CH, Liao CT, Peng SC, Chen YJ, Cheng AJ, Juang JL, Tsai CY, Chen TC,
   Chuang YJ, Tang CY, Hsieh WP and Yen TC.
+cancertypes:
+- term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

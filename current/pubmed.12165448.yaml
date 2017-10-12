@@ -14,6 +14,17 @@ abstract: Cell proliferation and chromosomal imbalances, important parameters in
   of an ameloblastoma and that chromosomal imbalances are uncommon.
 authors: Jaaskelainen K, Jee KJ, Leivo I, Saloniemi I, Knuutila S and Heikinheimo
   K.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9310_3
+  term_label: Ameloblastoma, malignant
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: snmi:M-93103
+  term_label: Ameloblastoma, malignant
 contact:
   email: dalia76ro@yahoo.com
   name: Dalia Pascalau

@@ -19,6 +19,17 @@ authors: Pfister S, Janzarik WG, Remke M, Ernst A, Werft W, Becker N, Toedt G, W
   A, Kratz C, Olbrich H, Ahmadi R, Thieme B, Joos S, Radlwimmer B, Kulozik A, Pietsch
   T, Herold-Mende C, Gnekow A, Reifenberger G, Korshunov A, Scheurlen W, Omran H and
   Lichter P.
+cancertypes:
+- term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
 contact:
   email: m.macleod@dkfz.de
   name: Peter Lichter

@@ -27,6 +27,9 @@ authors: Grasso CS, Wu YM, Robinson DR, Cao X, Dhanasekaran SM, Khan AP, Quist M
   Jing X, Lonigro RJ, Brenner JC, Asangani IA, Ateeq B, Chun SY, Siddiqui J, Sam L,
   Anstett M, Mehra R, Prensner JR, Palanisamy N, Ryslik GA, Vandin F, Raphael BJ,
   Kunju LP, Rhodes DR, Pienta KJ, Chinnaiyan AM, Tomlins SA.
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: tomlinss@med.umich.edu
   name: Scott Tomlins

@@ -15,6 +15,7 @@ abstract: Identification of the genetic alterations that occur in tumors is an i
   CGH analysis of SCLC tumors reported here confirm the existence of copy number changes
   that we identified previously by using cell lines.
 authors: Levin NA, Brzoska PM, Warnock ML, Gray JW and Christman MF.
+cancertypes: []
 contact:
   email: jwgray@lbl.gov
   name: Joe W. Gray

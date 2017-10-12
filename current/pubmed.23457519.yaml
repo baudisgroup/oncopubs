@@ -25,6 +25,23 @@ abstract: We designed a study to investigate genetic relationships between prima
   metastasize after acquiring metastasis-associated CNAs.
 authors: Yoshioka S, Tsukamoto Y, Hijiya N, Nakada C, Uchida T, Matsuura K, Takeuchi
   I, Seto M, Kawano K and Moriyama M.
+cancertypes:
+- term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- term_id: pgx:seer:20080
+  term_label: Oropharynx
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

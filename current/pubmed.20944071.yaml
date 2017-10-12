@@ -19,6 +19,27 @@ abstract: We used genome-wide methylation microarrays to analyze differences in 
   progression and between cytogenetic subgroups.
 authors: Walker BA, Wardell CP, Chiecchio L, Smith EM, Boyd KD, Neri A, Davies FE,
   Ross FM and Morgan GJ.
+cancertypes:
+- term_id: ncit:C3242
+  term_label: Plasma Cell Myeloma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:34000
+  term_label: Myeloma
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
 contact:
   email: ~
   name: Brian Walker

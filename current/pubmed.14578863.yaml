@@ -20,6 +20,17 @@ abstract: We investigated 39 primary hepatocellular carcinomas HCCs for aberrati
   were probable targets within the amplification at 8q23-q24 and may be involved in
   progression of HCC.
 authors: Okamoto H, Yasui K, Zhao C, Arii S and Inazawa J.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: johinaz.cgen@mri.tmd.ac.jp
   name: Johji Inazawa

@@ -24,6 +24,9 @@ abstract: 'Tobacco-related non-small cell lung cancer (NSCLC) is associated with
 authors: Reck M, Blais N, Juhasz E, Gorbunova V, Jones CM, Urban L, Orlov S, Barlesi
   F, Kio E, Keilholz U, Qin Q, Qian J, Nickner C, Dziubinski J, Xiong H, Mittapalli
   RK, Dunbar M, Ansell P, He L, McKee M, Giranda V, Ramalingam SS.
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: m.reck@lungenclinic.de
   name: Martin Reck

@@ -19,6 +19,7 @@ abstract: Genetic alterations are assumed to be necessary for the development an
 authors: Umayahara K, Numa F, Inokuma A, Sueoka K, Kawasaki K, Hirakawa H, Emoto T,
   Sakaguchi Y, Nawata S, Ogata H, Sakamoto M, Hasumi K, Kawauchi S, Sasaki K and Kato
   H.
+cancertypes: []
 contact:
   email: kenji-u@po.cc.yamaguchi-u.ac.jp
   name: Kenji Umayahara

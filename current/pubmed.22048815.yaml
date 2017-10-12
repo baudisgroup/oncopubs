@@ -25,6 +25,7 @@ abstract: Breast cancer is a heterogeneous disease with known expression-defined
 authors: Weigman VJ, Chao HH, Shabalin AA, He X, Parker JS, Nordgard SH, Grushko T,
   Huo D, Nwachukwu C, Nobel A, Kristensen VN, Bï¿½rresen-Dale AL, Olopade OI and Perou
   CM
+cancertypes: []
 contact:
   email: cperou@med.unc.edu
   name: Charles M Perou

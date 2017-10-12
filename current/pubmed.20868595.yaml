@@ -3,6 +3,7 @@ abstract: To explore the association between chromosomal disequilibrium and chem
   chemosensitivity in non-small cell lung cancer NSCLC using comparative genomic hybridization
   CGH .
 authors: Hu Y, Gao YN, Feng FY, Lin DM and Jiao SC.
+cancertypes: []
 contact:
   email: jiaosc@vip.sina.com
   name: Shun-chang Jiao

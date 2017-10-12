@@ -20,6 +20,9 @@ authors: Chapuy B, Roemer MG, Stewart C, Tan Y, Abo RP, Zhang L, Dunford AJ, Mer
   D, Linden EA, Sun HH, Homer H, Aono M, Pinkus GS, Ligon AH, Ligon KL, Ferry JA,
   Freeman GJ, van Hummelen P, Golub TR, Getz G, Rodig SJ, de Jong D, Monti S, Shipp
   MA.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: Bjoern_Chapuy@dfci.harvard.edu
   name: Bjrn Chapuy

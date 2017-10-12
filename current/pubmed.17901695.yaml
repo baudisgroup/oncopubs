@@ -16,6 +16,19 @@ abstract: The dic 7 9 p11 approximately 13 p11 approximately 13 is a recurrent c
   of the dic 7 9 is formation of a chimeric gene or loss of 7p and or 9p material.
 authors: Lundin C, Heidenblad M, Strombeck B, Borg A, Hovland R, Heim S and Johansson
   B.
+cancertypes:
+- term_id: ncit:C8644
+  term_label: Precursor B Lymphoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
 contact:
   email: Catarina.Lundin@med.lu.se
   name: Catarina Lundin

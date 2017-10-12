@@ -5,6 +5,17 @@ abstract: Familial adenomatous polyposis FAP is a hereditary colorectal cancer s
   most are labor intensive and time and resource consuming.
 authors: Torrezan GT, Carneiro da Silva FC, Krepischi AC, Monteiro Dos Santos EM,
   Rossi BM and Carraro DM.
+cancertypes:
+- term_id: ncit:C4134
+  term_label: ~
+- term_id: pgx:icdom:8220_3
+  term_label: Adenocarcinoma in adenomatous polyposis coli
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-82203
+  term_label: Adenocarcinoma in adenomatous polyposis coli
 contact:
   email: dirce.carraro@accamargo.org.br
   name: Dirce Carraro

@@ -8,6 +8,17 @@ abstract: Uterine cervix carcinoma is the second most common female malignancy w
   of chromosomal imbalances during cervical cancer progression, indicating chromosomal
   regions that might contain genes that are important for cervical transformation.
 authors: Hidalgo A, Monroy A, Arana RM, Taja L, Vazquez G and Salcedo M.
+cancertypes:
+- term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: alfhm@yahoo.com
   name: Alfredo Hidalgo

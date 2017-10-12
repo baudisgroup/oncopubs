@@ -16,6 +16,17 @@ abstract: The secondary genetic events associated with follicular lymphoma FL pr
   may be useful to identify high-risk patients as candidates for risk-adapted therapies.
 authors: Cheung KJ, Shah SP, Steidl C, Johnson N, Relander T, Telenius A, Lai B, Murphy
   KP, Lam W, Al-Tourah AJ, Connors JM, Ng RT, Gascoyne RD and Horsman DE.
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: dhorsman@bccancer.bc.ca
   name: Douglas E. Horsman

@@ -21,6 +21,7 @@ abstract: Comparative genomic hybridization CGH was used to evaluate tissue spec
   progression, invasiveness, and bilateral disease.
 authors: Ottesen AM, Kirchhoff M, De-Meyts ER, Maahr J, Gerdes T, Rose H, Lundsteen
   C, Petersen PM, Philip J and Skakkebaek NE.
+cancertypes: []
 contact:
   email: rh06096@rh.dk
   name: Anne Marie Ottesen

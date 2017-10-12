@@ -17,6 +17,17 @@ abstract: HL60RG, a subline of human promyelocytic leukemia HL60 cells, has a in
   In conclusion, alterations in chromosome and gene expression in HL60RG may be associated
   with increased growth rate.
 authors: Luan Y, Kogi M, Rajaguru P, Ren J, Yamaguchi T, Suzuki K and Suzuki T.
+cancertypes:
+- term_id: ncit:C3182
+  term_label: Acute Promyelocytic Leukemia with PML-RARA
+- term_id: pgx:icdom:9866_3
+  term_label: Acute promyelocytic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98663
+  term_label: Acute promyelocytic leukemia
 contact:
   email: ~
   name: Takayoshi Suzuki

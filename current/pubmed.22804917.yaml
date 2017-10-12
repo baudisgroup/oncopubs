@@ -8,6 +8,7 @@ abstract: KRAS mutation is a negative predictive factor for treatment with anti-
 authors: Mekenkamp LJ, Tol J, Dijkstra JR, de Krijger I, Vink-Borger E, Teerenstra
   S, Kamping E, Verwiel E, Koopman M, Meijer GA, van Krieken HJ, Kuiper R, Punt CJ,
   Nagtegaal ID and van Vliet S.
+cancertypes: []
 contact:
   email: ~
   name: Iris Nagtegaal

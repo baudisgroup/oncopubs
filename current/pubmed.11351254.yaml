@@ -15,6 +15,7 @@ abstract: Apart from the RET proto-oncogene RET no other genes have been found t
   The results indicate that MTC is a comparatively genetically stable tumor, and that
   chromosomal regions 19q, 19p, 13q and 11q may be involved in MTC carcinogenesis.
 authors: Frisk T, Zedenius J, Lundberg J, Wallin G, Kytola S and Larsson C.
+cancertypes: []
 contact:
   email: tony.frisk@cmm.ki.se
   name: Tony Frisk

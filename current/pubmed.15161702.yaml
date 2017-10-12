@@ -5,6 +5,7 @@ abstract: Metastases in distant organs are the major cause of death for cancer p
   We therefore established a new approach based on the analysis of viable and proliferating
   cancer cells by single-cell comparative genomic hybridization.
 authors: Gangnus R, Langer S, Breit E, Pantel K and Speicher MR.
+cancertypes: []
 contact:
   email: ~
   name: Michael Speicher

@@ -19,6 +19,17 @@ abstract: Esthesioneuroblastoma ENB are rare tumors originating from the olfacto
   To verify our findings and to define prognosis-related aberrations, a larger number
   of cases needs to be studied.
 authors: Riazimand SH, Brieger J, Jacob R, Welkoborsky HJ and Mann WJ.
+cancertypes:
+- term_id: ncit:C3789
+  term_label: Olfactory Neuroblastoma
+- term_id: pgx:icdom:9522_3
+  term_label: Olfactory neuroblastoma
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-95223
+  term_label: Olfactory neuroblastoma
 contact:
   email: ~
   name: ~

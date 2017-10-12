@@ -16,6 +16,7 @@ authors: Tirode F, Surdez D, Ma X, Parker M, Le Deley MC, Bahrami A, Zhang Z, La
   Pierron G, Oberlin O, Zaidi S, Lemmon G, Gupta P, Vadodaria B, Easton J, Gut M,
   Ding L, Mardis ER, Wilson RK, Shurtleff S, Laurence V, Michon J, Marec-Berard P,
   Gut I, Downing J, Dyer M, Zhang J and Delattre O.
+cancertypes: []
 contact:
   email: olivier.delattre@curie.fr
   name: Olivier Delattre

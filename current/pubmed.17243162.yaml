@@ -20,6 +20,17 @@ abstract: Fanconi anemia FA is an inherited disease with congenital abnormalitie
 authors: Meyer S, Fergusson WD, Whetton AD, Moreira-Leite F, Pepper SD, Miller C,
   Saunders EK, White DJ, Will AM, Eden T, Ikeda H, Ullmann R, Tuerkmen S, Gerlach
   A, Klopocki E and Tonnies H.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: stefan.meyer@manchester.ac.uk
   name: Stefan Meyer

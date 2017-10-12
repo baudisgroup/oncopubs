@@ -10,6 +10,7 @@ abstract: The progression of organ-confined prostate cancer to metastatic cancer
   tumors that fail to metastasize.
 authors: Paris PL, Hofer MD, Albo G, Kuefer R, Gschwend JE, Hautmann RE, Fridyland
   J, Simko J, Carroll PR, Rubin MA and Collins C.
+cancertypes: []
 contact:
   email: collins@cc.ucsf.edu
   name: Colin Collins

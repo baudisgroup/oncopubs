@@ -14,6 +14,7 @@ abstract: Comparative genomic hybridization CGH analysis was used to identify ch
   whose loss inactivation may contribute to the pathogenesis of many HCCs.
 authors: Balsara BR, Pei J, De Rienzo A, Simon D, Tosolini A, Lu YY, Shen FM, Fan
   X, Lin WY, Buetow KH, London WT, and Testa JR.
+cancertypes: []
 contact:
   email: jr_testa@fccc.edu
   name: Joseph R. Testa

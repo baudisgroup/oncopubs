@@ -19,6 +19,17 @@ abstract: DNA sequence copy number changes were studied by comparative genomic h
   total number of gains, or total number of losses per sample.
 authors: Larramendy ML, Tarkkanen M, Blomqvist C, Virolainen M, Wiklund T, Asko-Seljavaara
   S, Elomaa I and Knuutila S.
+cancertypes:
+- term_id: ncit:C4247
+  term_label: Undifferentiated Pleomorphic Sarcoma
+- term_id: pgx:icdom:8830_3
+  term_label: Malignant fibrous histiocytoma
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88303
+  term_label: Malignant fibrous histiocytoma
 contact:
   email: dalia76ro@yahoo.com
   name: Dalia Pascalau

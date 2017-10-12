@@ -4,6 +4,7 @@ abstract: To build a standardized genetic alteration score SGAS based on genes t
   for predicting a patients recurrence status, which reflects the genetic information
   of the gastric cancer patient.
 authors: Kim M and Chung HC.
+cancertypes: []
 contact:
   email: ~
   name: Mijung Kim

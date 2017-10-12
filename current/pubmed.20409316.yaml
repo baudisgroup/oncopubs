@@ -6,6 +6,7 @@ abstract: Genomic alterations are important events in the origin and progression
   study was to compare differences of DNA copy number changes in blood and tumor tissue
   in breast cancer.
 authors: Bae JS, Choi JS, Baik SH, Park WC, Song BJ, Kim JS, Lim Y, and Jung SS.
+cancertypes: []
 contact:
   email: ssjung@catholic.ac.kr
   name: Sang Seol Jung

@@ -32,6 +32,17 @@ abstract: 'Studies investigating genetic alterations potentially constituting pr
   patients suffering from GBM with amplification events would have a poorer prognosis
   than others.'
 authors: Weber RG, Sommer C, Albert FK, Kiessling M and Cremer T.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

@@ -21,6 +21,17 @@ abstract: Renal cell carcinoma RCC is an aggressive malignancy with limited resp
   been submitted to the GEO database Accession No. GSE29062 .
 authors: Grisanzio C, Seeley A, Chang M, Collins M, Di Napoli A, Cheng SC, Percy A,
   Beroukhim R and Signoretti S.
+cancertypes:
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
 contact:
   email: ssignoretti@partners.org
   name: Sabina Signoretti

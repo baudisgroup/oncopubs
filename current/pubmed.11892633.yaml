@@ -6,6 +6,23 @@ abstract: Despite the rapid increase in knowledge concerning the genetic basis o
   involved in the progression of oligodendroglial tumors toward malignancy.
 authors: Jeuken JW, Sprenger SH, Vermeer H, Kappelle AC, Boerman RH and Wesseling
   P.
+cancertypes:
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93823
+  term_label: Mixed glioma
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
 contact:
   email: ~
   name: ~

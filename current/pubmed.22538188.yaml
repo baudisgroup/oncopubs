@@ -18,6 +18,7 @@ abstract: Gliosarcoma is a rare glioblastoma variant characterized by a biphasic
   may be derived from glial cells with additional genetic alterations.
 authors: Nagaishi M, Kim YH, Mittelbronn M, Giangaspero F, Paulus W, Brokinkel B,
   Vital A, Tanaka Y, Nakazato Y, Legras-Lachuer C, Lachuer J and Ohgaki H.
+cancertypes: []
 contact:
   email: ohgaki@iarc.fr
   name: Hiroko Ohgaki

@@ -24,6 +24,33 @@ abstract: To further characterise the genetic background of the two closely rela
   may contain a gene s important for the pathology of HCL and SMZL.
 authors: Andersen CL, Gruszka-Westwood A,   stergaard M, Koch J, Jacobsen E, Kjeldsen
   E, and Nielsen B.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: ncit:C7402
+  term_label: Hairy Cell Leukemia
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdom:9940_3
+  term_label: Hairy cell leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:seer:35013
+  term_label: Other Lymphocytic Leukemia
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: snmi:M-99403
+  term_label: Hairy cell leukemia
 contact:
   email: ~
   name: ~

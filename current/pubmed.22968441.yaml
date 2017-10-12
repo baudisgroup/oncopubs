@@ -23,6 +23,27 @@ abstract: The purpose of this study was to identify key genetic pathways involve
 authors: Dasgupta S, Jang JS, Shao C, Mukhopadhyay ND, Sokhi UK, Das SK, Brait M,
   Talbot C, Yung RC, Begum S, Westra WH, Hoque MO, Yang P, Yi JE, Lam S, Gazdar AF,
   Fisher PB, Jen J and Sidransky D.
+cancertypes:
+- term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~
   name: ~

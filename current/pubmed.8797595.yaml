@@ -16,6 +16,7 @@ abstract: The differentiation between malignant and benign adrenocortical tumors
   an important role in the development of adrenocortical cancers.
 authors: Kjellman M, Kallioniemi OP, Karhu R, Hoog A, Farnebo LO, Auer G, Larsson
   C and Backdahl M.
+cancertypes: []
 contact:
   email: kmak@kir.ks.se
   name: M. Kjellman

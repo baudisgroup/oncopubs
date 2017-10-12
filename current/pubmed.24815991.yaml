@@ -16,6 +16,64 @@ abstract: Clonal heterogeneity in lymphoid malignancies has been recently report
 authors: Suguro M, Yoshida N, Umino A, Kato H, Tagawa H, Nakagawa M, Fukuhara N, Karnan
   S, Takeuchi I, Hocking TD, Arita K, Karube K, Tsuzuki S, Nakamura S, Kinoshita T
   and Seto M.
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C5266
+  term_label: Gastric Mucosa-Associated Lymphoid Tissue Lymphoma
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:C7204
+  term_label: T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: ncit:C7230
+  term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
+    Tissue
+- term_id: ncit:C7528
+  term_label: Angioimmunoblastic T-Cell Lymphoma
+- term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: pgx:icdom:9702_3
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: pgx:icdom:9705_3
+  term_label: Angioimmunoblastic T-cell lymphoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+- term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
+- term_id: snmi:M-97023
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: snmi:M-97053
+  term_label: Angioimmunoblastic T-cell lymphoma
 contact:
   email: ~
   name: ~

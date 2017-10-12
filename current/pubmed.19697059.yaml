@@ -21,6 +21,7 @@ abstract: DNA copy-number gains of chromosomes 8q, 13q, and 20q are frequently o
   variables, including lymph node status.
 authors: Buffart TE, van Grieken NC, Tijssen M, Coffa J, Ylstra B, Grabsch HI, van
   de Velde CJ, Carvalho B and Meijer GA.
+cancertypes: []
 contact:
   email: ga.meijer@vumc.nl
   name: Gerrit A Meijer

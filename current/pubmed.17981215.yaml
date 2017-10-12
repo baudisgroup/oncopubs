@@ -17,6 +17,19 @@ abstract: 'Osteosarcoma OS is an aggressive bone tumor characterized by complex 
   karyotypes may also be associated with acquisition of genomic microaberrations.'
 authors: Selvarajah S, Yoshimoto M, Maire G, Paderova J, Bayani J, Squire JA and Zielenska
   M.
+cancertypes:
+- term_id: ncit:C9145
+  term_label: Osteosarcoma
+- term_id: pgx:icdom:9180_3
+  term_label: Osteosarcoma, NOS
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:icdot:C41.9
+  term_label: bone, NOS
+- term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- term_id: snmi:M-91803
+  term_label: Osteosarcoma, NOS
 contact:
   email: m.zielenska@utoronto.ca
   name: Maria Zielenska

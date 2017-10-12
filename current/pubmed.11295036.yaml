@@ -1,6 +1,9 @@
 ---
 abstract: ~
 authors: Pfragner R, Ullmann R, Behmel A, and Popper HH.
+cancertypes:
+- term_id: seer:22030
+  term_label: lung and bronchus
 contact:
   email: popper@uni-graz.at
   name: H Popper

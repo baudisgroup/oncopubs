@@ -21,6 +21,17 @@ abstract: Pediatric rhabdomyosarcoma occurs as two biologically distinct histolo
   the treatment of children diagnosed with this disease.
 authors: Paulson V, Chandler G, Rakheja D, Galindo RL, Wilson K, Amatruda JF and Cameron
   S.
+cancertypes:
+- term_id: ncit:C8971
+  term_label: Embryonal Rhabdomyosarcoma
+- term_id: pgx:icdom:8910_3
+  term_label: Embryonal rhabdomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89103
+  term_label: Embryonal rhabdomyosarcoma, NOS
 contact:
   email: ~
   name: ~

@@ -4,6 +4,17 @@ abstract: Identifying the genetic alterations in gliomatosis cerebri GC may yiel
   a distinct pathological entity or is an extreme form of diffusely infiltrative glioma.
 authors: Ware ML, Hirose Y, Scheithauer BW, Yeh RF, Mayo MC, Smith JS, Chang S, Cha
   S, Tihan T and Feuerstein BG.
+cancertypes:
+- term_id: ncit:C4318
+  term_label: Gliomatosis Cerebri
+- term_id: pgx:icdom:9381_3
+  term_label: Gliomatosis cerebri
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93813
+  term_label: Gliomatosis cerebri
 contact:
   email: marcusware@gmail.com
   name: Marcus Ware

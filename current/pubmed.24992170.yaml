@@ -18,6 +18,9 @@ abstract: Detailed genetic profiling of clear cell renal cell carcinoma (ccRCC) 
   in ccRCC was associated with gain of 7q and loss on 9p, 9q, and 14q, whereas the
   mutation rate overall was low in a screen of cancer-associated genes.
 authors: Kï¿½hn L, Svenson U, Ljungberg B, Roos G.
+cancertypes:
+- term_id: seer:29020
+  term_label: kidney and renal pelvis
 contact:
   email: linda.kohn@medbio.umu.se
   name: Linda Kohn

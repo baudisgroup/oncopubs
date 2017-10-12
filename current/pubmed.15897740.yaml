@@ -22,6 +22,7 @@ abstract: Columnar cell lesions CCLs of the breast are a spectrum of lesions tha
   of low grade in situ and invasive carcinoma.
 authors: Simpson PT, Gale T, Reis-Filho JS, Jones C, Parry S, Sloane JP, Hanby A,
   Pinder SE, Lee AH, Humphreys S, Ellis IO and Lakhani SR.
+cancertypes: []
 contact:
   email: s.lakhani@uq.edu.au
   name: Sunil R. Lakhani

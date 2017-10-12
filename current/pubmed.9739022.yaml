@@ -8,6 +8,17 @@ abstract: 'DNA sequence copy number changes were studied by comparative genomic 
   than gains and the minimal common regions of the most frequent losses were 6q16-q21
   14 , 5q14 11 , and 13q21-q31 11 .'
 authors: Larramendy ML, Virolainen M, Tukiainen E, Elomaa I and Knuutila S.
+cancertypes:
+- term_id: ncit:C9182
+  term_label: Desmoid-Type Fibromatosis
+- term_id: pgx:icdom:8821_1
+  term_label: Aggressive fibromatosis
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88211
+  term_label: Aggressive fibromatosis
 contact:
   email: dalia76ro@yahoo.com
   name: Dalia Pascalau

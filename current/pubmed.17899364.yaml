@@ -22,6 +22,9 @@ abstract: 'Allelic imbalance is a common feature of many malignancies. We have m
   phenotype was likely to be due to changes in gene expression and protein degradation
   rather than in altered gene copy number.'
 authors: Johnson N, Speirs V, Curtin NJ, Hall AG.
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: ~
   name: ~

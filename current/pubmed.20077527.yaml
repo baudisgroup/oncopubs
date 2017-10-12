@@ -27,6 +27,17 @@ abstract: The diagnosis of splenic marginal zone lymphoma SMZL is frequently a c
 authors: Watkins AJ, Huang Y, Ye H, Chanudet E, Johnson N, Hamoudi R, Liu H, Dong
   G, Attygalle A, McPhail ED, Law ME, Isaacson PG, de Leval L, Wotherspoon A and Du
   MQ.
+cancertypes:
+- term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
 contact:
   email: ~
   name: ~

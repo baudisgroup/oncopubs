@@ -20,6 +20,9 @@ abstract: Despite recent advances in the treatment of multiple myeloma (MM), it 
   true clonogenic myeloma cells.
 authors: Paï¿½no T, Sarasquete ME, Paiva B, Krzeminski P, San-Segundo L, Corchete
   LA, Redondo A, Garayoa M, Garcï¿½a-Sanz R, Gutiï¿½rrez NC, Ocio EM, San-Miguel JF.
+cancertypes:
+- term_id: seer:34000
+  term_label: myeloma
 contact:
   email: tpaino@usal.es
   name: Teresa Pano

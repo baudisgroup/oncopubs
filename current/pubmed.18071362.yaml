@@ -16,6 +16,17 @@ abstract: The initiating somatic genetic events in chordoma development have not
   that inactivation of these genes constitute an important step in chordoma development.
 authors: Hallor KH, Staaf J, Jonsson G, Heidenblad M, Vult von Steyern F, Bauer HC,
   Ijszenga M, Hogendoorn PC, Mandahl N, Szuhai K and Mertens F.
+cancertypes:
+- term_id: ncit:C2947
+  term_label: Chordoma
+- term_id: pgx:icdom:9370_3
+  term_label: Chordoma, NOS
+- term_id: pgx:icdot:C72.0
+  term_label: Spinal cord
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-93703
+  term_label: Chordoma, NOS
 contact:
   email: Karolin.Hansen_Hallor@med.lu.se
   name: Karolin Hallor

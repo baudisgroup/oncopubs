@@ -15,6 +15,17 @@ abstract: Nasopharyngeal carcinoma NPC has extremely skewed ethnic and geographi
 authors: Lin DC, Meng X, Hazawa M, Nagata Y, Varela AM, Xu L, Sato Y, Liu LZ, Ding
   LW, Sharma A, Goh BC, Lee SC, Petersson BF, Yu FG, Macary P, Oo MZ, Ha CS, Yang
   H, Ogawa S, Loh KS and Koeffler HP.
+cancertypes:
+- term_id: ncit:C7992
+  term_label: Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+- term_id: pgx:icdom:8072_3
+  term_label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
+- term_id: pgx:icdot:C11
+  term_label: nasopharynx
+- term_id: pgx:seer:20060
+  term_label: Nasopharynx
+- term_id: snmi:M-80723
+  term_label: Squamous cell carcinoma, large cell, nonkeratinizing, NOS
 contact:
   email: ~
   name: ~

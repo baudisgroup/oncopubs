@@ -19,6 +19,17 @@ abstract: Sclerosing pseudovascular rhabdomyosarcoma in adults has been describe
   pathogenesis of this rhabdomyosarcoma subtype.
 authors: Kuhnen C, Herter P, Leuschner I, Mentzel T, Druecke D, Jaworska M and Johnen
   G.
+cancertypes:
+- term_id: ncit:C3359
+  term_label: Rhabdomyosarcoma
+- term_id: pgx:icdom:8900_3
+  term_label: Rhabdomyosarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-89003
+  term_label: Rhabdomyosarcoma, NOS
 contact:
   email: Cornelius.Kuhnen@ruhr-uni-bochum.de
   name: Cornelius Kuhnen

@@ -21,6 +21,43 @@ abstract: 'Primary central nervous system neoplasms are the most common solid tu
   nonrandom genetic changes may be associated with particular tumor types.'
 authors: Shlomit R, Ayala AG, Michal D, Ninett A, Frida S, Boleslaw G, Gad B, Gideon
   R and Shlomi C.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- term_id: ncit:C6903
+  term_label: Tanycytic Ependymoma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: pgx:icdom:9391_3
+  term_label: Ependymoma, NOS
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93913
+  term_label: Ependymoma, NOS
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
 contact:
   email: ~
   name: Ayala Aviram-Goldring

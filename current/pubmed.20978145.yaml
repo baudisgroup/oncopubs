@@ -6,6 +6,17 @@ abstract: Gastrointestinal stromal tumors GIST are the most important mesenchyma
 authors: Igarashi S, Suzuki H, Niinuma T, Shimizu H, Nojima M, Iwaki H, Nobuoka T,
   Nishida T, Miyazaki Y, Takamaru H, Yamamoto E, Yamamoto H, Tokino T, Hasegawa T,
   Hirata K, Imai K, Toyota M and Shinomura Y.
+cancertypes:
+- term_id: ncit:C53999
+  term_label: Malignant Gastrointestinal Stromal Tumor
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: shinomura@sapmed.ac.jp
   name: Shinomura Yasuhisa

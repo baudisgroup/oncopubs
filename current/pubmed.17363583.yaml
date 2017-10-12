@@ -19,6 +19,17 @@ abstract: Although a number of genes related to melanoma development have been i
   catalog of genes involved in melanoma development, some of which may be useful prognostic
   markers or targets for therapies to treat this disease.
 authors: Stark M and Hayward N.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: Nick.Hayward@qimr.edu.au
   name: Nicholas Hayward

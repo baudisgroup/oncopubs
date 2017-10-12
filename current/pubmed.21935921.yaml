@@ -21,6 +21,7 @@ abstract: The presence of disseminated tumor cells DTCs in bone marrow BM identi
 authors: Mathiesen RR, Fjelldal R, Liestol K, Due EU, Geigl JB, Riethdorf S, Borgen
   E, Rye IH, Schneider IJ, Obenauf AC, Mauermann O, Nilsen G, Christian Lingjaerde
   O, Borresen-Dale AL, Pantel K, Speicher MR, Naume B and Baumbusch LO.
+cancertypes: []
 contact:
   email: ~
   name: Bjorn Naume

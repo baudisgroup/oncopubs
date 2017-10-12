@@ -17,6 +17,95 @@ abstract: A common aim of pharmacogenomic studies that use genome-wide assays on
   these results show the utility of DNA copy number profiles in pharmacogenomic studies.
 authors: Greshock J, Cheng J, Rusnak D, Martin AM, Wooster R, Gilmer T, Lee K, Weber
   BL and Zaks T.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: ncit:C4819
+  term_label: Skin Squamous Cell Carcinoma
+- term_id: ncit:C4878
+  term_label: Lung Carcinoma
+- term_id: ncit:C4908
+  term_label: Ovarian Carcinoma
+- term_id: ncit:C7992
+  term_label: Nasopharyngeal Keratinizing Squamous Cell Carcinoma
+- term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8312_3
+  term_label: Renal cell carcinoma, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C11
+  term_label: nasopharynx
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:icdot:C25
+  term_label: pancreas
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:icdot:C64.9
+  term_label: kidney
+- term_id: pgx:seer:20060
+  term_label: Nasopharynx
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21100
+  term_label: Pancreas
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-83123
+  term_label: Renal cell carcinoma, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: Tal.Z.Zaks@gsk.com
   name: Tal Zaks

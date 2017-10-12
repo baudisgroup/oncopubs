@@ -20,6 +20,17 @@ abstract: Telomere attrition ultimately leads to the activation of protective ce
   or targets of chemotherapeutic intervention.
 authors: Johnson JE, Gettings EJ, Schwalm J, Pei J, Testa JR, Litwin S, von Mehren
   M and Broccoli D.
+cancertypes:
+- term_id: ncit:C3194
+  term_label: Liposarcoma
+- term_id: pgx:icdom:8850_3
+  term_label: Liposarcoma, NOS
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88503
+  term_label: Liposarcoma, NOS
 contact:
   email: BroccDo1@memorialhealth.com
   name: Dominique Broccoli

@@ -23,6 +23,25 @@ abstract: Analyses of cancer incidence data in the United States and Western Eur
   alterations in gastric cardia adenocarcinomas and ii provided evidence for the presence
   of a metaplasia-dysplasia-carcinoma sequence in this poorly understood type of cancer.
 authors: van Dekken H, Alers JC, Riegman PH, Rosenberg C, Tilanus HW and Vissers K.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: H. van Dekken

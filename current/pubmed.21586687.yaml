@@ -11,6 +11,7 @@ abstract: 'Small bowel adenocarcinoma SBA is a rare cancer and consequently, the
 authors: Haan JC, Buffart TE, Eijk PP, van de Wiel MA, van Wieringen WN, Howdle PD,
   Mulder CJ, van de Velde CJ, Quirke P, Nagtegaal ID, van Grieken NC, Grabsch H, Meijer
   GA and Ylstra B.
+cancertypes: []
 contact:
   email: b.ylstra@vumc.nl
   name: Bauke Ylstra

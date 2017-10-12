@@ -23,6 +23,41 @@ abstract: Genomic alterations associated with glioma progression were determined
   associated with a cumulative acquisition of multiple genetic changes.
 authors: Weber RG, Sabel M, Reifenberger J, Sommer C, Oberstrass J, Reifenberger G,
   Kiessling M and Cremer T.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

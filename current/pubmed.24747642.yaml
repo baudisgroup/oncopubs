@@ -17,6 +17,17 @@ authors: Assie G, Letouze E, Fassnacht M, Jouinot A, Luscap W, Barreau O, Omeiri
   B, Waldmann J, Quinkler M, Mannelli M, Mantero F, Papathomas T, De Krijger R, Tabarin
   A, Kerlan V, Baudin E, Tissier F, Dousset B, Groussin L, Amar L, Clauser E, Bertagna
   X, Ragazzon B, Beuschlein F, Libe R, de Reynies A and Bertherat J.
+cancertypes:
+- term_id: ncit:C9325
+  term_label: Adrenal Cortex Carcinoma
+- term_id: pgx:icdom:8370_3
+  term_label: Adrenal cortical carcinoma
+- term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-83703
+  term_label: Adrenal cortical carcinoma
 contact:
   email: ~
   name: ~

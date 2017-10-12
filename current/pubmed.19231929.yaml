@@ -14,6 +14,17 @@ abstract: 'This 32-year-old woman, 27 weeks pregnant, harbored a cystic mass wit
   with atypical teratoid rhabdoid tumor. The tumor was therefore designated as a amp
   quot cerebral tumor with extensive rhabdoid features. amp quot '
 authors: Ohba S, Yoshida K, Hirose Y, Ikeda E, Nakazato Y and Kawase T.
+cancertypes:
+- term_id: ncit:C6909
+  term_label: Rhabdoid Meningioma
+- term_id: pgx:icdom:9538_3
+  term_label: Papillary meningioma
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: snmi:M-95383
+  term_label: Papillary meningioma
 contact:
   email: ~
   name: ~

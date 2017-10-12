@@ -5,6 +5,17 @@ abstract: Accurate staging of colorectal cancer CRC with clinicopathological par
   tumors may reveal a chromosomal signature for organ specific metastases.
 authors: Bruin SC, Klijn C, Liefers GJ, Braaf LM, Joosse SA, van Beers EH, Verwaal
   VJ, Morreau H, Wessels LF, van Velthuysen ML, Tollenaar RA and Vant Veer LJ.
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Laura Veer

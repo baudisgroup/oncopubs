@@ -18,6 +18,7 @@ abstract: 'Small intestine neuroendocrine tumors SI-NETs are the most common mal
 authors: Banck MS, Kanwar R, Kulkarni AA, Boora GK, Metge F, Kipp BR, Zhang L, Thorland
   EC, Minn KT, Tentu R, Eckloff BW, Wieben ED, Wu Y, Cunningham JM, Nagorney DM, Gilbert
   JA, Ames MM and Beutler AS.
+cancertypes: []
 contact:
   email: ~
   name: ~

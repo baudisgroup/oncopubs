@@ -17,6 +17,21 @@ abstract: 'Merkel cell carcinoma MCC is an aggressive neuroendocrine skin cancer
   to MCC pathogenesis, most notably L-Myc.'
 authors: Paulson KG, Lemos BD, Feng B, Jaimes N, Penas PF, Bi X, Maher E, Cohen L,
   Leonard JH, Granter SR, Chin L and Nghiem P.
+cancertypes:
+- term_id: ncit:C9231
+  term_label: Merkel Cell Carcinoma
+- term_id: pgx:icdom:8247_3
+  term_label: Merkel cell carcinoma
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: pgx:seer:25020
+  term_label: Other Non-Epithelial Skin
+- term_id: snmi:M-82473
+  term_label: Merkel cell carcinoma
 contact:
   email: ~
   name: Kelly Paulson

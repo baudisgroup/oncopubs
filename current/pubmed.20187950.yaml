@@ -8,6 +8,17 @@ abstract: The human cell cycle transcription factor FOXM1 is known to play a key
   This indicates that upregulation of FOXM1 may be an early molecular signal required
   for aberrant cell cycle and cancer initiation.
 authors: Teh MT, Gemenetzidis E, Chaplin T, Young BD and Philpott MP.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: m.t.teh@qmul.ac.uk
   name: Muy-Teck Teh

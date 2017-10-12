@@ -3,6 +3,7 @@ abstract: To investigate common chromosomal changes and the LOH frequency of mic
   loci in primary gastric cancer samples in order to locate the deleted regions in
   which human gastric cancer related genes might exist.
 authors: Wang Q, Wang B, Guan X, Gao H, Cheng H, Zhang Q, Huang C, Li P and Fu S.
+cancertypes: []
 contact:
   email: fusb@ems.hrbmu.edu.cn
   name: Songbin Fu

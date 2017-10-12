@@ -18,6 +18,19 @@ abstract: The B cell-specific transcription factor BACH2 is required for affinit
 authors: Swaminathan S, Huang C, Geng H, Chen Z, Harvey R, Kang H, Ng C, Titz B, Hurtz
   C, Sadiyah MF, Nowak D, Thoennissen GB, Rand V, Graeber TG, Koeffler HP, Carroll
   WL, Willman CL, Hall AG, Igarashi K, Melnick A, Mï¿½schen M.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: seer:35011
+  term_label: acute lymphocytic leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: markus.muschen@ucsf.edu
   name: Markus Muschen

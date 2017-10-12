@@ -17,6 +17,17 @@ abstract: Papillary glioneuronal tumors PGNTs are rare lesions of the central ne
   to be located.
 authors: Faria C, Miguens J, Antunes JL, Barroso C, Pimentel J, Martins Mdo C, Moura-Nunes
   V and Roque L.
+cancertypes:
+- term_id: ncit:C3059
+  term_label: Glioma
+- term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93803
+  term_label: Glioma, malignant
 contact:
   email: ~
   name: ~

@@ -21,6 +21,7 @@ abstract: 'Deletion of the long arm of chromosome 20 is a common abnormality ass
   SNP-A allowed definition of a CDR on 20q.'
 authors: Huh J, Tiu RV, Gondek LP, OKeefe CL, Jasek M, Makishima H, Jankowska AM,
   Jiang Y, Verma A, Theil KS, McDevitt MA and Maciejewski JP.
+cancertypes: []
 contact:
   email: okeefec@ccf.org
   name: Christine Okeefe

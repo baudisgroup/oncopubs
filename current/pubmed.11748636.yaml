@@ -19,6 +19,7 @@ abstract: 'Comparative genomic hybridization CGH was used to screen 83 lung aden
   study ratio profiles, clinicopathological parameters, histograms are also available
   at http: amba.charite.de cgh.'
 authors: Goeze A, Schluns K, Wolf G, Thasler Z, Petersen S and Petersen I.
+cancertypes: []
 contact:
   email: ~
   name: NA Petersen

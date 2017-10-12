@@ -13,6 +13,7 @@ abstract: To identify genetic events underlying the genesis and progression of m
 authors: Carrasco DR, Tonon G, Huang Y, Zhang Y, Sinha R, Feng B, Stewart JP, Zhan
   F, Khatry D, Protopopova M, Protopopov A, Sukhdeo K, Hanamura I, Stephens O, Barlogie
   B, Anderson KC, Chin L, Shaughnessy JD Jr, Brennan C and Depinho RA.
+cancertypes: []
 contact:
   email: ron_depinho@dfci.harvard.edu
   name: Ronald A. DePinho

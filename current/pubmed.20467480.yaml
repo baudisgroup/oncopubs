@@ -6,6 +6,7 @@ abstract: Genetic and epigenetic alterations in colorectal cancer are numerous. 
   colon cancer progression.
 authors: Lagerstedt KK, Kristiansson E, Lonnroth C, Andersson M, Iresjo BM, Gustafsson
   A, Hansson E, Kressner U, Nordgren S, Enlund F and Lundholm K.
+cancertypes: []
 contact:
   email: ~
   name: Kent lundholm

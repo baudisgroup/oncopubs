@@ -18,6 +18,9 @@ abstract: 'Copy number alterations have been shown to be involved in melanoma pa
 authors: Wilson MA, Zhao F, Khare S, Roszik J, Woodman SE, D'Andrea K, Wubbenhorst
   B, Rimm DL, Kirkwood JM, Kluger HM, Schuchter LM, Lee SJ, Flaherty KT, Nathanson
   KL.
+cancertypes:
+- term_id: seer:25010
+  term_label: melanoma of the skin
 contact:
   email: knathans@exchange.upenn.edu
   name: Katherine Nathanson

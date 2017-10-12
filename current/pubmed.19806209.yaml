@@ -3,6 +3,7 @@ abstract: The IGF receptor type 1 IGF-1R pathway is frequently deregulated in hu
   tumors and has become a target of interest for anti-cancer therapy.
 authors: Gong Y, Yao E, Shen R, Goel A, Arcila M, Teruya-Feldstein J, Zakowski MF,
   Frankel S, Peifer M, Thomas RK, Ladanyi M and Pao W.
+cancertypes: []
 contact:
   email: william.pao@vanderbilt.edu
   name: William Pao

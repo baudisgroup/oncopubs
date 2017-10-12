@@ -25,6 +25,9 @@ abstract: Human colorectal cancer cell lines are used widely to investigate tumo
 authors: Mouradov D, Sloggett C, Jorissen RN, Love CG, Li S, Burgess AW, Arango D,
   Strausberg RL, Buchanan D, Wormald S, O'Connor L, Wilding JL, Bicknell D, Tomlinson
   IP, Bodmer WF, Mariadason JM and Sieber OM
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: John.Mariadason@ludwig.edu.au
   name: 61-3-9345-2885

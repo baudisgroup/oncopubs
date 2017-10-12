@@ -27,6 +27,17 @@ authors: Sanada M, Suzuki T, Shih LY, Otsu M, Kato M, Yamazaki S, Tamura A, Hond
   H, Sakata-Yanagimoto M, Kumano K, Oda H, Yamagata T, Takita J, Gotoh N, Nakazaki
   K, Kawamata N, Onodera M, Nobuyoshi M, Hayashi Y, Harada H, Kurokawa M, Chiba S,
   Mori H, Ozawa K, Omine M, Hirai H, Nakauchi H, Koeffler HP and Ogawa S.
+cancertypes:
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: sly7012@adm.cgmh.org.tw
   name: Lee-Yung Shih

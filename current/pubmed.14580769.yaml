@@ -20,6 +20,17 @@ abstract: T-cell prolymphocytic leukemia T-PLL is a rare postthymic T-cell disor
   related to the morphologic variants or the clinical behavior of the disease.
 authors: Costa D, Queralt R, Aymerich M, Carrio A, Rozman M, Vallespi T, Colomer D,
   Nomdedeu B, Montserrat E and Campo E.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9834_3
+  term_label: Prolymphocytic leukemia, T-cell type
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35013
+  term_label: Other Lymphocytic Leukemia
+- term_id: snmi:M-98343
+  term_label: Prolymphocytic leukemia, T-cell type
 contact:
   email: dcosta@clinic.ub.es
   name: Dolors Costa

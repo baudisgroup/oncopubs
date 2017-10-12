@@ -4,6 +4,17 @@ abstract: Genetic aberrations provide prognostic information in childhood ALL. T
   G-banding with comparative genomic hybridization CGH .
 authors: Kanerva J, Niini T, Vettenranta K, Riikonen P, Makipernaa A, Karhu R, Knuutila
   S and Saarinen-Pihkala UM.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
 contact:
   email: jukka.kanerva@hus.fi
   name: J. Kanerva

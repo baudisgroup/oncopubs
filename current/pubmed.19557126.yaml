@@ -7,6 +7,17 @@ abstract: Technologies based on DNA microarrays have the potential to provide de
 authors: Goransson H, Edlund K, Rydaker M, Rasmussen M, Winquist J, Ekman S, Bergqvist
   M, Thomas A, Lambe M, Rosenquist R, Holmberg L, Micke P, Botling J and Isaksson
   A.
+cancertypes:
+- term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
 contact:
   email: anders.isaksson@medsci.uu.se
   name: Anders Isaksson

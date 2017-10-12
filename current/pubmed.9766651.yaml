@@ -11,6 +11,17 @@ abstract: Serous carcinomas of the fallopian tube, uterus, and ovary resemble ea
   were strikingly similar to those observed in serous ovarian and uterine carcinomas,
   suggesting common molecular pathogenesis.
 authors: Pere H, Tapper J, Seppala M, Knuutila S and Butzow R.
+cancertypes:
+- term_id: ncit:C3778
+  term_label: ~
+- term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: pgx:icdot:C57
+  term_label: other female genital
+- term_id: pgx:seer:27070
+  term_label: Other Female Genital Organs
+- term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

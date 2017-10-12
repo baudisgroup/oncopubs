@@ -24,6 +24,7 @@ abstract: 'BACKGROUND: Brain metastases are one of the most malignant complicati
 authors: Zhao N, Wilkerson MD, Shah U, Yin X, Wang A, Hayward MC, Roberts P, Lee CB,
   Parsons AM, Thorne LB, Haithcock BE, Grilley-Olson JE, Stinchcombe TE, Funkhouser
   WK, Wong KK, Sharpless NE and Hayes DN.
+cancertypes: []
 contact:
   email: ~
   name: ~

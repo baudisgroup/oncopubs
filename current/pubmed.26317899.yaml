@@ -16,6 +16,7 @@ abstract: "We used DNA content flow cytometry followed by oligonucleotide array 
   immune checkpoint, and identifies patients with a poor prognosis."
 authors: Barrett MT, Anderson KS, Lenkiewicz E, Andreozzi M, Cunliffe HE, Klassen
   CL, Dueck AC, McCullough AE, Reddy SK, Ramanathan RK, Northfelt DW and Pockaj BA
+cancertypes: []
 contact:
   email: Barrett.michael@mayo.edu
   name: Michael T. Barrett

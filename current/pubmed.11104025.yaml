@@ -12,6 +12,7 @@ abstract: Comparative genomic hybridization CGH is a valuable technique for cyto
   alterations and might help in generating tumor-specific sets of FISH probes to obtain
   genetic information of prognostic value within a few days.
 authors: Jacobsen A, Arnold N, Weimer J and Kiechle M.
+cancertypes: []
 contact:
   email: marion.kiechle@lrz.tu-muenchen.de
   name: Marion Kiechle

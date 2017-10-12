@@ -22,6 +22,7 @@ abstract: 'Allelic alterations of chromosomes 1 and 19 are frequent events in hu
 authors: Smith JS, Alderete B, Minn Y, Borell TJ, Perry A, Mohapatra G, Hosek SM,
   Kimmel D, OFallon J, Yates A, Feuerstein BG, Burger PC, Scheithauer BW and Jenkins
   RB.
+cancertypes: []
 contact:
   email: rjenkins@mayo.edu
   name: Robert B. Jenkins

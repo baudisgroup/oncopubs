@@ -2,6 +2,9 @@
 abstract: ~
 authors: Pantou D, Tsarouha H, Papadopoulou A, Mahaira L, Kyriazoglou I, Apostolikas
   N, Markidou S, Trangas T, Pandis N, and Bardi G.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: gbardi@hotmail.com
   name: G Bardi

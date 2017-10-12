@@ -20,6 +20,7 @@ abstract: Osteosarcoma is one of the most commonly biopsied primary tumor of bon
   aimed at identifying those oncogenes that are characteristic of osteosarcoma development.
 authors: Brinkschmidt C, Blasius S, Burger H, Simon R, Diallo R, Battmann A, Winkelmann
   W, Bocker W and Dockhorn-Dworniczak B.
+cancertypes: []
 contact:
   email: brinkch@uni-muenster.de
   name: Christian Brinkschmidt

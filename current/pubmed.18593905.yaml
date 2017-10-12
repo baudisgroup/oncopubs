@@ -22,6 +22,7 @@ abstract: Angiopoietin-like protein 2 ANGPTL2 is a secreted protein belonging to
   in the carcinogenesis of OC in a stage-dependent manner.
 authors: Kikuchi R, Tsuda H, Kozaki K, Kanai Y, Kasamatsu T, Sengoku K, Hirohashi
   S, Inazawa J and Imoto I.
+cancertypes: []
 contact:
   email: johinaz.cgen@mri.tmd.ac.jp
   name: Johji Inazawa

@@ -19,6 +19,7 @@ abstract: DNA amplifications, leading to the overexpression of oncogenes, are a 
   drivers of tumorigenesis.
 authors: Kim YH, Kwei KA, Girard L, Salari K, Kao J, Pacyna-Gengelbach M, Wang P,
   Hernandez-Boussard T, Gazdar AF, Petersen I, Minna JD and Pollack JR.
+cancertypes: []
 contact:
   email: ~
   name: JR Pollack

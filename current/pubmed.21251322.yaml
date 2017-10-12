@@ -5,6 +5,25 @@ abstract: To evaluate the clinical validity of genome-wide oligonucleotide array
   detected in more than 50 of analyzed metaphase cells.
 authors: Bajaj R, Xu F, Xiang B, Wilcox K, Diadamo AJ, Kumar R, Pietraszkiewicz A,
   Halene S, and Li P.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: ~
   name: Peining Li

@@ -6,6 +6,43 @@ abstract: Recent genome-wide microarray-based research investigations have revea
   laboratory.
 authors: Slovak ML, Smith DD, Bedell V, Hsu YH, ODonnell M, Forman SJ, Gaal K, McDaniel
   L, Schultz R, Ballif BC and Shaffer LG.
+cancertypes:
+- term_id: ncit:C27080
+  term_label: ~
+- term_id: ncit:C27722
+  term_label: Therapy-Related Myelodysplastic Syndrome
+- term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- term_id: ncit:C4036
+  term_label: Myelodysplastic Syndrome with Ring Sideroblasts
+- term_id: ncit:C7506
+  term_label: Myelodysplastic Syndrome with Excess Blasts
+- term_id: pgx:icdom:9982_3
+  term_label: Refractory anemia with sideroblasts
+- term_id: pgx:icdom:9983_3
+  term_label: Refractory anemia with excess blasts
+- term_id: pgx:icdom:9984_3
+  term_label: Refractory anemia with excess blasts in transformation
+- term_id: pgx:icdom:9987_3
+  term_label: Therapy-related myelodysplastic syndrome, NOS
+- term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- term_id: snmi:M-99823
+  term_label: Refractory anemia with sideroblasts
+- term_id: snmi:M-99833
+  term_label: Refractory anemia with excess blasts
+- term_id: snmi:M-99843
+  term_label: Refractory anemia with excess blasts in transformation
+- term_id: snmi:M-99873
+  term_label: Therapy-related myelodysplastic syndrome, NOS
+- term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
 contact:
   email: lisa.shaffer@perkinelmer.com
   name: Lisa Shaffer

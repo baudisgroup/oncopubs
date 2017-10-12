@@ -17,6 +17,23 @@ abstract: Classical cytogenetic analysis plays an important role in the diagnosi
   which is occasionally involved in pediatric ALL as well as in other leukemias.
 authors: Karhu R, Siitonen S, Tanner M, Keinanen M, Makipernaa A, Lehtinen M, Vilpo
   JA and Isola J.
+cancertypes:
+- term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
 contact:
   email: ~
   name: ~

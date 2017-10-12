@@ -15,6 +15,27 @@ abstract: Lung cancer is the most common cause of cancer death worldwide. Smokin
   lung cancer in this group. Therefore, CNVs of 17p13.1 is a promising candidate to
   identify individuals with a high genetic risk for the development of lung cancer.
 authors: Lee M, Lee Y, Cho HJ, Hong J, Kwon SJ, Park CG, Lee HY, Son JW and Kang J.
+cancertypes:
+- term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Jaeku Kang

@@ -19,6 +19,7 @@ abstract: Classical and molecular cytogenetic analysis, including fluorescence i
   information on these OSCC cell lines that were recently reported in this journal.
 authors: Martin CL, Reshmi SC, Ried T, Gottberg W, Wilson JW, Reddy JK, Khanna P,
   Johnson JT, Myers EN and Gollin SM.
+cancertypes: []
 contact:
   email: sgollin@hgen.pitt.edu
   name: Susanne M. Gollin

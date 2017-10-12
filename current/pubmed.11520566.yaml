@@ -11,6 +11,17 @@ abstract: We performed CGH analysis on 34 cervical lesions, which included 8 cas
   has not previously been described.
 authors: Kirchhoff M, Rose H, Petersen BL, Maahr J, Gerdes T, Philip J and Lundsteen
   C.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8070_1
+  term_label: ~
+- term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- term_id: snmi:M-80701
+  term_label: ~
 contact:
   email: rh06097@rh.dk
   name: Maria kirchhoff

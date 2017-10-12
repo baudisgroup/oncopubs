@@ -22,6 +22,7 @@ abstract: Adenocarcinoma (AC) and squamous cell carcinoma (SCC) of non-small cel
   by Elsevier Inc.
 authors: Lee E, Moon JW, Wang X, Kim C, Li S, Shin BK, Jung W, Kim HK, Kim HK and
   Lee JY
+cancertypes: []
 contact:
   email: jiyun-lee@korea.ac.kr
   name: Ji-Yun Lee

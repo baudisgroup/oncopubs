@@ -6,6 +6,7 @@ abstract: Breast cancer subtypes exhibit different genomic aberration patterns w
   breast cancer.
 authors: Melchor L, Saucedo-Cuevas LP, Munoz-Repeto I, Rodriguez-Pinilla SM, Honrado
   E, Campoverde A, Palacios J, Nathanson KL, Garcia MJ and Benitez J.
+cancertypes: []
 contact:
   email: jbenitez@cnio.es
   name: Javier Benitez

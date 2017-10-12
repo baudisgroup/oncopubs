@@ -3,6 +3,17 @@ abstract: ~
 authors: Diosdado B, Buffart TE, Watkins R, Carvalho B, Ylstra B, Tijssen M, Bolijn
   AS, Lewis F, Maude K, Verbeke C, Nagtegaal ID, Grabsch H, Mulder CJ, Quirke P, Howdle
   P and Meijer GA.
+cancertypes:
+- term_id: ncit:C7888
+  term_label: Small Intestinal Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: b.diosdado@vumc.nl
   name: Begona Diosdado

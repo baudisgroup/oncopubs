@@ -15,6 +15,19 @@ authors: Pilati C, Letouzï¿½ E, Nault JC, Imbeaud S, Boulai A, Calderaro J, P
   K, Franconi A, Couchy G, Morcrette G, Mallet M, Taouji S, Balabaud C, Terris B,
   Canal F, Paradis V, Scoazec JY, de Muret A, Guettier C, Bioulac-Sage P, Chevet E,
   Calvo F, Zucman-Rossi J.
+cancertypes:
+- term_id: ncit:C3758
+  term_label: Hepatocellular Adenoma
+- term_id: pgx:icdom:8170_0
+  term_label: Liver cell adenoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: seer:21071
+  term_label: liver
+- term_id: snmi:M-81700
+  term_label: Liver cell adenoma
 contact:
   email: LetouzeE@ligue-cancer.net
   name: Eric LetouzÃ©

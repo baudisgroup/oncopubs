@@ -21,6 +21,33 @@ abstract: The genetic changes leading to thyroid cancer are poorly characterized
   in papillary carcinoma when studied by CGH. Loss of chromosome 22 is particularly
   common in follicular carcinoma, and it is associated with the widely invasive type.
 authors: Hemmer S, Wasenius VM, Knuutila S, Franssila K and Joensuu H.
+cancertypes:
+- term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- term_id: ncit:C66718
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8021_3
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: pgx:icdom:8335_3
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-80213
+  term_label: Carcinoma, anaplastic, NOS
+- term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
+- term_id: snmi:M-83353
+  term_label: Follicular carcinoma, minimally invasive
+- term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
 contact:
   email: ~
   name: ~

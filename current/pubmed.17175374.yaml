@@ -20,6 +20,7 @@ abstract: Ewing sarcoma peripheral primitive neuro-ectodermal tumor PNET is a ro
   in identifying uncommon rearrangements in sarcomas.
 authors: Szuhai K, IJszenga M, Tanke HJ, Taminiau AH, de Schepper A, van Duinen SG,
   Rosenberg C and Hogendoorn PC.
+cancertypes: []
 contact:
   email: ~
   name: K. Szuhai

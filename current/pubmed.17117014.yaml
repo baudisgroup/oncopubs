@@ -5,6 +5,45 @@ abstract: 'The pathologic heterogeneity of AIDS related lymphomas ARL reflects s
   lymphomas of non-immunocompromised patients, are not well characterized in ARL.'
 authors: Vaghefi P, Martin A, Prevot S, Charlotte F, Camilleri-Broet S, Barli E, Davi
   F, Gabarre J, Raphael M and Poirel HA.
+cancertypes:
+- term_id: ncit:C3720
+  term_label: Anaplastic Large Cell Lymphoma
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: ncit:C7224
+  term_label: Plasmablastic Lymphoma
+- term_id: ncit:C7528
+  term_label: Angioimmunoblastic T-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: pgx:icdom:9684_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdom:9705_3
+  term_label: Angioimmunoblastic T-cell lymphoma
+- term_id: pgx:icdom:9714_3
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- term_id: snmi:M-96843
+  term_label: Malignant lymphoma, large B-cell, diffuse, immunoblastic, NOS
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+- term_id: snmi:M-97053
+  term_label: Angioimmunoblastic T-cell lymphoma
+- term_id: snmi:M-97143
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
 contact:
   email: martine.raphael@bct.aphp.fr
   name: Martine Raphael

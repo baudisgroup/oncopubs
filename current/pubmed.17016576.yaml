@@ -22,6 +22,7 @@ abstract: Biliary tract cancers carry dismal prognoses. It is commonly understoo
   cell lines. BAC array CGH has a powerful potential application in the screening
   for DNA copy number abnormalities in cancer cell lines and tumors.
 authors: Saito S, Ghosh M, Morita K, Hirano T, Miwa M and Todoroki T.
+cancertypes: []
 contact:
   email: todoroki@mail2.accsnet.ne.jp
   name: Takeshi Todoroki

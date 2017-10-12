@@ -5,6 +5,7 @@ abstract: Autofluorescence bronchoscopy AFB is a valid strategy for detecting pr
 authors: van Boerdonk RA, Sutedja TG, Snijders PJ, Reinen E, Wilting SM, van de Wiel
   MA, Thunnissen FE, Duin S, Kooi C, Ylstra B, Meijer CJ, Meijer GA, Grunberg K, Daniels
   JM, Postmus PE, Smit EF and Heideman DA.
+cancertypes: []
 contact:
   email: ~
   name: Danielle Heideman

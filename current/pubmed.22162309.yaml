@@ -20,6 +20,17 @@ abstract: Formalin-fixed, paraffin-embedded FFPE archival tissue is an important
   reproducible results, also with DNA input amounts lower than recommended.
 authors: Krijgsman O, Israeli D, Haan JC, van Essen HF, Smeets SJ, Eijk PP, M Steenbergen
   RD, Kok K, Tejpar S, Meijer GA and Ylstra B.
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: b.ylstra@vumc.nl
   name: Bauke Ylstra

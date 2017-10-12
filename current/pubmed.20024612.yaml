@@ -22,6 +22,7 @@ abstract: Fibroblast growth factor receptor-1 FGFR-1 is amplified in 10 of human
   in addition to its anti-angiogenic effects.
 authors: Shiang CY, Qi Y, Wang B, Lazar V, Wang J, Fraser Symmans W, Hortobagyi GN,
   Andre F and Pusztai L.
+cancertypes: []
 contact:
   email: lpusztai@mdanderson.org
   name: Lajos Pusztai

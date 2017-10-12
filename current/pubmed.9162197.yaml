@@ -17,6 +17,7 @@ abstract: In order to define the ability of comparative genomic hybridization CG
   of ovarian carcinomas.
 authors: Arnold N, Hagele L, Walz L, Schempp W, Pfisterer J, Bauknecht T, and Kiechle
   M.
+cancertypes: []
 contact:
   email: marion.kiechle@lrz.tu-muenchen.de
   name: Marion Kiechle

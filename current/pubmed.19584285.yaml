@@ -19,6 +19,27 @@ abstract: 'Genomic instability plays an important role in most human cancers. To
   CN analysis and gene expression data to identify genes involved in esophageal carcinogenesis.'
 authors: Hu N, Wang C, Ng D, Clifford R, Yang HH, Tang ZZ, Wang QH, Han XY, Giffen
   C, Goldstein AM, Taylor PR and Lee MP.
+cancertypes:
+- term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
 contact:
   email: ptaylor@mail.nih.gov
   name: Philip Taylor

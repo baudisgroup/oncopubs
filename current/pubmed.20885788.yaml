@@ -24,6 +24,7 @@ abstract: Studies have suggested that somatic events in tumors can depend on an 
   cancer risk alleles.
 authors: Dworkin AM, Ridd K, Bautista D, Allain DC, Iwenofu OH, Roy R, Bastian BC
   and Toland AE.
+cancertypes: []
 contact:
   email: Amanda.toland@osumc.edu
   name: Amanda Toland

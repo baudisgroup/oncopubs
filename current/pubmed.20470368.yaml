@@ -6,6 +6,33 @@ abstract: Oncogenic point mutations in KIT or PDGFRA are recognized as the prima
   and clinical behavior of GIST, however, remains elusive.
 authors: Silva M, Veiga I, Ribeiro FR, Vieira J, Pinto C, Pinheiro M, Mesquita B,
   Santos C, Soares M, Dinis J, Santos L, Lopes P, Afonso M, Lopes C and Teixeira MR.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:icdot:C48
+  term_label: retroperitoneum and peritoneum
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: pgx:seer:21110
+  term_label: Retroperitoneum
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: mteixeir@ipoporto.min-saude.pt
   name: Manuel Teixeira

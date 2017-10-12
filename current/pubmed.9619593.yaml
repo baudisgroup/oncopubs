@@ -21,6 +21,17 @@ abstract: 'Very little is known concerning the cytogenetic and molecular genetic
   differs from the complex aberrations seen in conventional high-grade osteosarcomas.'
 authors: Tarkkanen M, Bohling T, Gamberi G, Ragazzini P, Benassi MS, Kivioja A, Kallio
   P, Elomaa I, Picci P and Knuutila S.
+cancertypes:
+- term_id: ncit:C35870
+  term_label: Conventional Osteosarcoma
+- term_id: pgx:icdom:9186_3
+  term_label: Central osteosarcoma
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- term_id: snmi:M-91863
+  term_label: Central osteosarcoma
 contact:
   email: ~
   name: NA Tarkkanen

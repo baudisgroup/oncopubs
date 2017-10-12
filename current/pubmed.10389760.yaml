@@ -22,6 +22,21 @@ abstract: Hodgkin and Reed-Sternberg H and RS cells are generally considered to 
   instability play a role in the formation of H-RS cells.
 authors: Ohshima K, Ishiguro M, Ohgami A, Sugihara M, Haraoka S, Suzumiya J and Kikuchi
   M.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:9652_3
+  term_label: Hodgkin lymphoma, mixed cellularity, NOS
+- term_id: pgx:icdom:9663_3
+  term_label: Hodgkin lymphoma, nodular sclerosis, NOS
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- term_id: snmi:M-96523
+  term_label: Hodgkin lymphoma, mixed cellularity, NOS
+- term_id: snmi:M-96633
+  term_label: Hodgkin lymphoma, nodular sclerosis, NOS
 contact:
   email: ~
   name: ~

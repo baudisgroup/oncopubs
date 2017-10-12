@@ -18,6 +18,17 @@ abstract: Anaplastic large cell lymphoma ALCL is a T null-cell neoplasm characte
   they correspond to different genetic entities.
 authors: Salaverria I, Bea S, Lopez-Guillermo A, Lespinet V, Pinyol M, Burkhardt B,
   Lamant L, Zettl A, Horsman D, Gascoyne R, Ott G, Siebert R, Delsol G and Campo E.
+cancertypes:
+- term_id: ncit:C3720
+  term_label: Anaplastic Large Cell Lymphoma
+- term_id: pgx:icdom:9714_3
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-97143
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
 contact:
   email: ISALAVER@clinic.ub.es
   name: Itziar Salaverria

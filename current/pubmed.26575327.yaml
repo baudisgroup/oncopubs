@@ -19,6 +19,9 @@ authors: Terragna C, Remondini D, Martello M, Zamagni E, Pantani L, Patriarca F,
   A, Levi G, Offidani M, Proserpio I, De Sabbata G, Tacchetti P, Cangialosi C, Ciambelli
   F, Viganï¿½ CV, Dico FA, Santacroce B, Borsi E, Brioli A, Marzocchi G, Castellani
   G, Martinelli G, Palumbo A, Cavo M.
+cancertypes:
+- term_id: seer:34000
+  term_label: myeloma
 contact:
   email: carolina.terragna@unibo.it
   name: Carolina Terragna

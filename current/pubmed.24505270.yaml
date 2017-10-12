@@ -15,6 +15,17 @@ abstract: The metastatic process is complex and remains a major obstacle in the 
   their primary counterparts, and differences are typically non-recurrent.
 authors: Mekenkamp LJ, Haan JC, Israeli D, van Essen HF, Dijkstra JR, van Cleef P,
   Punt CJ, Meijer GA, Nagtegaal ID and Ylstra B
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: B.Ylstra@vumc.nl
   name: Ylstra, Bauke

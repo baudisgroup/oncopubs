@@ -17,6 +17,7 @@ abstract: Cervical cancer CC is the second most common cancer in women. Currentl
 authors: Narayan G, Scotto L, Neelakantan V, Kottoor SH, Wong AH, Loke SL, Mansukhani
   M, Pothuri B, Wright JD, Kaufmann AM, Schneider A, Arias-Pulido H, Tao Q and Murty
   VV.
+cancertypes: []
 contact:
   email: murty.vundavalli@gmail.com
   name: Vundavalli V. Murty

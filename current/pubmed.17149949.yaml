@@ -6,6 +6,7 @@ abstract: Reed-Sternberg cells in classic Hodgkin lymphoma are enigmatic and dif
   Hodgkin lymphoma express T-cell antigens, suggesting a possible T-cell origin.
 authors: Aguilera NS, Chen J, Bijwaard KE, Director-Myska AE, Barekman CL, Millward
   C, Lichy J, and Abbondanzo SL.
+cancertypes: []
 contact:
   email: aguilera@afip.osd.mil
   name: N.S. Aguilera

@@ -3,6 +3,23 @@ abstract: Data on genome-wide surveys for chromosome aberrations in primary cuta
   T-cell lymphoma CTCL are limited.
 authors: Mao X, Lillington D, Scarisbrick JJ, Mitchell T, Czepulkowski B, Russell-Jones
   R, Young B and Whittaker SJ.
+cancertypes:
+- term_id: ncit:C3246
+  term_label: Mycosis Fungoides
+- term_id: ncit:C3366
+  term_label: Sezary Syndrome
+- term_id: pgx:icdom:9700_3
+  term_label: Mycosis fungoides
+- term_id: pgx:icdom:9701_3
+  term_label: Sezary syndrome
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97003
+  term_label: Mycosis fungoides
+- term_id: snmi:M-97013
+  term_label: Sezary syndrome
 contact:
   email: mxmayo@yahoo.co.uk
   name: Xin Mao

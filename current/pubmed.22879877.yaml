@@ -4,6 +4,7 @@ abstract: DNA aberrations that cause colorectal cancer CRC occur in multiple ste
   we studied CRCs from AA patients for their CIN and MSI status.
 authors: Brim H, Lee E, Abu-Asab MS, Chaouchi M, Razjouyan H, Namin H, Goel A, Schaffer
   AA and Ashktorab H.
+cancertypes: []
 contact:
   email: ~
   name: Hassan Brim

@@ -23,6 +23,7 @@ abstract: Bladder carcinogenesis is believed to follow two alternative pathways 
   data at the level of single cells, even if it focuses on few genomic regions.
 authors: Panzeri E, Conconi D, Antolini L, Redaelli S, Valsecchi MG, Bovo G, Pallotti
   F, Vigano P, Strada G, Dalpra L and Bentivegna A.
+cancertypes: []
 contact:
   email: ~
   name: Angela Bentivegna

@@ -6,6 +6,19 @@ abstract: The incidence of oesophageal adenocarcinoma OAC has been increasing ra
   pathogenesis and identify groups with differential outcomes.
 authors: Goh XY, Rees JR, Paterson AL, Chin SF, Marioni JC, Save V, ODonovan M, Eijk
   PP, Alderson D, Ylstra B, Caldas C and Fitzgerald RC.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C4025
+  term_label: Esophageal Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Rebecca Fitzgerald

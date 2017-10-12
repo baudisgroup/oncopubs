@@ -20,6 +20,7 @@ abstract: 'Breast cancer is a leading cause of cancer-death among women, where t
   suppmat'
 authors: Bergamaschi A, Kim YH, Wang P, Sorlie T, Hernandez-Boussard T, Lonning PE,
   Tibshirani R, Borresen-Dale AL and Pollack JR.
+cancertypes: []
 contact:
   email: pollack1@stanford.edu
   name: Jonathan R Pollack

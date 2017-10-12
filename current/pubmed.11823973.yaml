@@ -28,6 +28,29 @@ abstract: 'Recent studies have subdivided serous borderline tumors into 2 catego
   are a distinct entity from APST and SC.'
 authors: Staebler A, Heselmeyer-Haddad K, Bell K, Riopel M, Perlman E, Ried T and
   Kurman RJ.
+cancertypes:
+- term_id: ncit:C3778
+  term_label: ~
+- term_id: ncit:C7695
+  term_label: Primary Peritoneal Serous Papillary Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: pgx:icdom:8442_1
+  term_label: Serous cystadenoma, borderline malignancy
+- term_id: pgx:icdom:8461_3
+  term_label: Serous surface papillary carcinoma
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+- term_id: snmi:M-84421
+  term_label: Serous cystadenoma, borderline malignancy
+- term_id: snmi:M-84613
+  term_label: Serous surface papillary carcinoma
 contact:
   email: ~
   name: ~

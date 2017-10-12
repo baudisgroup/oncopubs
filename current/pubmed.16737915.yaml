@@ -18,6 +18,19 @@ abstract: 'Genomic instability can be divided into 2 categories: chromosomal ins
   abnormalities on aCGH and that a subset of MSI-H and all LOH-H tumors share the
   CIN phenotype.'
 authors: Vauhkonen H, Vauhkonen M, Sajantila A, Sipponen P and Knuutila S.
+cancertypes:
+- term_id: ncit:C9157
+  term_label: Gastric Intestinal Type Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
 contact:
   email: hanna.vauhkonen@helsinki.fi
   name: Hanna Vaukohnen

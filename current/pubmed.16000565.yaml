@@ -4,6 +4,17 @@ abstract: The aim of this study is to comprehensively characterize genome copy n
   hybridization.
 authors: Hui AB, Takano H, Lo KW, Kuo WL, Lam CN, Tong CY, Chang Q, Gray JW and Ng
   HK.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
 contact:
   email: hkng@cuhk.edu.hk
   name: Ho-Keung Ng

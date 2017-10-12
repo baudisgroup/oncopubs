@@ -13,6 +13,17 @@ abstract: 'Array-based comparative genomic hybridization arrayCGH studies in chr
   in situ hybridization screening method used for patients with CLL.'
 authors: Jarosova M, Urbankova H, Plachy R, Papajik T, Holzerova M, Balcarkova J,
   Pikalova Z, Divoky V and Indrak K.
+cancertypes:
+- term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: marie.jarosova@fnol.cz
   name: Marie Jarosova

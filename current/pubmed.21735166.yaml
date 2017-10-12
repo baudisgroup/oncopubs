@@ -13,6 +13,17 @@ abstract: Carcinoma showing thymus-like elements CASTLE is a rare neoplasm of th
   thymomas and thymic carcinomas and indicate a similar sequence in tumour development.
 authors: Veits L, Mechtersheimer G, Steger C, Freitag J, Mikuz G, Schmid KW, Hofmann
   W, Schirmacher P, Hartmann A and Rieker RJ.
+cancertypes:
+- term_id: ncit:C46106
+  term_label: ~
+- term_id: pgx:icdom:8589_3
+  term_label: Carcinoma showing thymus-like element
+- term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- term_id: pgx:seer:32010
+  term_label: Thyroid
+- term_id: snmi:M-85893
+  term_label: Carcinoma showing thymus-like element
 contact:
   email: ~
   name: Lothar Veits

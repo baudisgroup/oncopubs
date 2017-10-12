@@ -5,6 +5,17 @@ abstract: The purpose of this study was to further define the biology of the 11q
   patient stratification is possible.
 authors: Buckley PG, Alcock L, Bryan K, Bray I, Schulte JH, Schramm A, Eggert A, Mestdagh
   P, De Preter K, Vandesompele J, Speleman F and Stallings RL.
+cancertypes:
+- term_id: ncit:C3270
+  term_label: Neuroblastoma
+- term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
 contact:
   email: ~
   name: ~

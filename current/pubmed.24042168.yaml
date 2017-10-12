@@ -16,6 +16,17 @@ abstract: 'Blastic plasmacytoid dendritic cell neoplasm BPDCN is a rare and aggr
   cytogenetic characterization of the translocation t 6 8 was performed in search
   for a novel gene fusion that could be associated with tumor progression.'
 authors: Fu Y, Fesler M, Mahmud G, Bernreuter K, Jia D and Batanian JR.
+cancertypes:
+- term_id: ncit:C9360
+  term_label: Lymphoblastic Lymphoma
+- term_id: pgx:icdom:9727_3
+  term_label: Precursor cell lymphoblastic lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:NA
+  term_label: NA
+- term_id: snmi:M-97273
+  term_label: Precursor cell lymphoblastic lymphoma, NOS
 contact:
   email: ~
   name: ~

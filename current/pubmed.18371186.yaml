@@ -19,6 +19,17 @@ abstract: 'Gangliogliomas are generally benign neuroepithelial tumors composed o
   genetic subgroups even in this low-grade tumor.'
 authors: Hoischen A, Ehrler M, Fassunke J, Simon M, Baudis M, Landwehr C, Radlwimmer
   B, Lichter P, Schramm J, Becker AJ and Weber RG.
+cancertypes:
+- term_id: ncit:C3788
+  term_label: Ganglioglioma
+- term_id: pgx:icdom:9505_1
+  term_label: Ganglioglioma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-95051
+  term_label: Ganglioglioma, NOS
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

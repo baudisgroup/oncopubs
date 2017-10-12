@@ -20,6 +20,7 @@ abstract: 'Medulloblastoma is a malignant invasive embryonal tumor, occurring in
   option for medulloblastoma patients.'
 authors: Holland H, Koschny R, Krupp W, Meixensberger J, Bauer M, Schober R, Kirsten
   H, Ganten TM and Ahnert P.
+cancertypes: []
 contact:
   email: ~
   name: ~

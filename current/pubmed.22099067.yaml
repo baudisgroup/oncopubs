@@ -6,6 +6,17 @@ abstract: Neoadjuvant chemoradiotherapy is the treatment of choice in advanced r
   alterations that are predictive of response in order to optimize therapeutic strategies.
 authors: Molinari C, Ballardini M, Teodorani N, Giannini M, Zoli W, Emiliani E, Lucci
   E, Passardi A, Rosetti P, Saragoni L, Guidoboni M, Amadori D and Calistri D.
+cancertypes:
+- term_id: ncit:C9383
+  term_label: Rectal Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C20
+  term_label: rectum
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: Daniele Calistri

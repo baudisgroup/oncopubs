@@ -27,6 +27,7 @@ abstract: The ability to perform comprehensive profiling of cancers at high reso
 authors: San Lucas FA, Allenson K, Bernard V, Castillo J, Kim DU, Ellis K, Ehli EA,
   Davies GE, Petersen JL, Li D, Wolff R, Katz M, Varadhachary G, Wistuba I, Maitra
   A and Alvarez H
+cancertypes: []
 contact:
   email: amaitra@mdanderson.org
   name: Anirban Maitra

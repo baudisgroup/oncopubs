@@ -29,6 +29,17 @@ abstract: Cancers may be composed of multiple populations of submodal clones sha
   by distinct genetic aberrations.
 authors: Geyer FC, Weigelt B, Natrajan R, Lambros MB, de Biase D, Vatcheva R, Savage
   K, Mackay A, Ashworth A and Reis-Filho JS.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: jorgerf@icr.ac.uk
   name: Jorge Reis-Filho

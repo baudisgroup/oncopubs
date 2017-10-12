@@ -21,6 +21,29 @@ abstract: To identify novel glioma-associated pathomechanisms and molecular mark
 authors: Toedt G, Barbus S, Wolter M, Felsberg J, Tews B, Blond F, Sabel MC, Hofmann
   S, Becker N, Hartmann C, Ohgaki H, von Deimling A, Wiestler OD, Hahn M, Lichter
   P, Reifenberger G and Radlwimmer B.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- term_id: ncit:C9477
+  term_label: Anaplastic Astrocytoma
+- term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: b.radlwimmer@dkfz-heidelberg.de
   name: Bernhard Radlwimmer

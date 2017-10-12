@@ -17,6 +17,47 @@ abstract: To characterize genetic alterations in peripheral T-cell lymphoma, not
   T-cell lymphoma, T-cell prolymphocytic leukemia, and adult T-cell lymphoma leukemia.
 authors: Zettl A, Rudiger T, Konrad MA, Chott A, Simonitsch-Klupp I, Sonnen R, Muller-Hermelink
   HK and Ott G.
+cancertypes:
+- term_id: ncit:C3720
+  term_label: Anaplastic Large Cell Lymphoma
+- term_id: ncit:C3721
+  term_label: Lymphomatoid Papulosis
+- term_id: ncit:C7162
+  term_label: Cutaneous Lymphoma
+- term_id: ncit:C7204
+  term_label: T-Zone Variant Peripheral T-Cell Lymphoma
+- term_id: pgx:icdom:9702_3
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: pgx:icdom:9709_3
+  term_label: Cutaneous T-cell lymphoma, NOS
+- term_id: pgx:icdom:9714_3
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: pgx:icdom:9718_3
+  term_label: Anaplastic large cell lymphoma, cutaneous type
+- term_id: pgx:icdot:C14.0
+  term_label: pharynx, NOS
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:icdot:C74
+  term_label: adrenal glands
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97023
+  term_label: Mature T-cell lymphoma, NOS
+- term_id: snmi:M-97093
+  term_label: Cutaneous T-cell lymphoma, NOS
+- term_id: snmi:M-97143
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- term_id: snmi:M-97183
+  term_label: Anaplastic large cell lymphoma, cutaneous type
 contact:
   email: andreas.zettl@mail.uni-wuerzburg.de
   name: Andreas Zettl

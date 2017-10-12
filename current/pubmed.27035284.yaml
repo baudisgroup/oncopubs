@@ -18,6 +18,7 @@ abstract: "A number of genetic variants have been associated with cancer occurre
   prognostic biomarker for the occurrence and development of HNSCC."
 authors: Liu YF, Chiang SL, Lin CY, Chang JG, Chung CM, Ko AM, Lin YZ, Lee CH, Lee
   KW, Chen MK, Hua CH, Tsai MH, Chen YC and Ko YC
+cancertypes: []
 contact:
   email: ycko@mail.cmu.edu.tw
   name: Ying-Chin Ko

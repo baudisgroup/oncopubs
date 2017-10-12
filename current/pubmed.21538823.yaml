@@ -10,6 +10,17 @@ abstract: Oligonucleotide array comparative genomic hybridization, karyotype and
   this patient.
 authors: Massaro SA, Bajaj R, Pashankar FD, Ornstein D, Gallagher PG, Krause DS and
   Li P.
+cancertypes:
+- term_id: ncit:C3170
+  term_label: Acute Megakaryoblastic Leukemia
+- term_id: pgx:icdom:9910_3
+  term_label: Acute megakaryoblastic leukemia
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-99103
+  term_label: Acute megakaryoblastic leukemia
 contact:
   email: ~
   name: Stephanie Massaro

@@ -19,6 +19,75 @@ abstract: 'To identify DNA amplifications in sarcomas, comparative genomic hybri
   regions suggest the involvement of many genes in the amplifications and that the
   genes rarely maintain their native position in these tumors.'
 authors: Menghi-Sartorio S, Mandahl N, Mertens F, Picci P and Knuutila S.
+cancertypes:
+- term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- term_id: ncit:C3700
+  term_label: Epithelioid Leiomyosarcoma
+- term_id: ncit:C3704
+  term_label: Dedifferentiated Liposarcoma
+- term_id: ncit:C3749
+  term_label: Alveolar Rhabdomyosarcoma
+- term_id: ncit:C3798
+  term_label: Malignant Peripheral Nerve Sheath Tumor
+- term_id: ncit:C4247
+  term_label: Undifferentiated Pleomorphic Sarcoma
+- term_id: ncit:C4883
+  term_label: ~
+- term_id: ncit:C9306
+  term_label: Soft Tissue Sarcoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8800_3
+  term_label: Sarcoma, NOS
+- term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- term_id: pgx:icdom:8830_3
+  term_label: Malignant fibrous histiocytoma
+- term_id: pgx:icdom:8858_3
+  term_label: Dedifferentiated liposarcoma
+- term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- term_id: pgx:icdom:8891_3
+  term_label: Epithelioid leiomyosarcoma
+- term_id: pgx:icdom:8895_3
+  term_label: Myosarcoma
+- term_id: pgx:icdom:8920_3
+  term_label: Alveolar rhabdomyosarcoma
+- term_id: pgx:icdom:8990_3
+  term_label: Mesenchymoma, malignant
+- term_id: pgx:icdom:9540_3
+  term_label: Malignant peripheral nerve sheath tumor
+- term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. Autonomous
+- term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- term_id: snmi:M-88003
+  term_label: Sarcoma, NOS
+- term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
+- term_id: snmi:M-88303
+  term_label: Malignant fibrous histiocytoma
+- term_id: snmi:M-88583
+  term_label: Dedifferentiated liposarcoma
+- term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
+- term_id: snmi:M-88913
+  term_label: Epithelioid leiomyosarcoma
+- term_id: snmi:M-88953
+  term_label: Myosarcoma
+- term_id: snmi:M-89203
+  term_label: Alveolar rhabdomyosarcoma
+- term_id: snmi:M-89903
+  term_label: Mesenchymoma, malignant
+- term_id: snmi:M-95403
+  term_label: Malignant peripheral nerve sheath tumor
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

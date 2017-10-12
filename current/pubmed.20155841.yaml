@@ -21,6 +21,23 @@ abstract: Lobular intraepithelial neoplasia Grade 3 LIN3 is a recently recognize
   neoplasm to breast carcinoma.
 authors: Boldt V, Stacher E, Halbwedl I, Popper H, Hultschig C, Moinfar F, Ullmann
   R and Tavassoli FA.
+cancertypes:
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4018
+  term_label: Lobular Breast Carcinoma In Situ
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8520_2
+  term_label: Lobular carcinoma in situ, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85202
+  term_label: Lobular carcinoma in situ, NOS
 contact:
   email: ullmann@molgen.mpg.de
   name: Reinhard Ullmannn

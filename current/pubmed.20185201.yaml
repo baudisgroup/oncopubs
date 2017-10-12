@@ -19,6 +19,17 @@ abstract: Inflammatory myofibroblastic tumor IMT is a soft tissue neoplasm compo
   in IMT. Taken together, our results will help to elucidate the pathogenic mechanisms
   of IMT.
 authors: Jung SH, Yim SH, Hu HJ, Jung CK, Lee SH, Kim DH and Chung YJ.
+cancertypes:
+- term_id: ncit:C6481
+  term_label: Inflammatory Myofibroblastic Tumor
+- term_id: pgx:icdom:8825_1
+  term_label: Myofibroblastic tumor, NOS
+- term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- term_id: snmi:M-88251
+  term_label: Myofibroblastic tumor, NOS
 contact:
   email: yejun@catholic.ac.kr
   name: Yeun-Jun Chung

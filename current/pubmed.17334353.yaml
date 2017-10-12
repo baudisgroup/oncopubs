@@ -25,6 +25,7 @@ abstract: 'Phyllodes tumors are rare fibroepithelial tumors of the breast. The p
   and the mitotic rate.'
 authors: Lae M, Vincent-Salomon A, Savignoni A, Huon I, Freneaux P, Sigal-Zafrani
   B, Aurias A, Sastre-Garau X and Couturier J.
+cancertypes: []
 contact:
   email: marick.lae@curie.net
   name: 'Marick La  '

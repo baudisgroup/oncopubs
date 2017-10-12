@@ -11,6 +11,7 @@ abstract: 'Breast cancer is characterised by a number of genetic aberrations. Ou
   genetics of breast cancer.'
 authors: Loveday RL, Greenman J, Simcox DL, Speirs V, Drew PJ, Monson JR and Kerin
   MJ.
+cancertypes: []
 contact:
   email: j.r.t.monson@medschool.hull.ac.uk
   name: J.R. Monson

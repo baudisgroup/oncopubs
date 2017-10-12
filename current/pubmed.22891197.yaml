@@ -19,6 +19,23 @@ abstract: 'INTRODUCTION: Mucinous tumors are the second most common form of epit
   the pathogenesis of mucinous ovarian tumors provides an opportunity for treatments
   targeting specific mutations and pathways.'
 authors: Hunter SM, Gorringe KL, Christie M, Rowley SM, Bowtell DD and Campbell IG.
+cancertypes:
+- term_id: ncit:C4512
+  term_label: Ovarian Mucinous Cystadenoma
+- term_id: pgx:icdom:8470_0
+  term_label: Mucinous cystadenoma, NOS
+- term_id: pgx:icdom:8480_0
+  term_label: Mucinous adenoma
+- term_id: pgx:icdot:C56.9
+  term_label: ovary
+- term_id: pgx:seer:27040
+  term_label: Ovary
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-84700
+  term_label: Mucinous cystadenoma, NOS
+- term_id: snmi:M-84800
+  term_label: Mucinous adenoma
 contact:
   email: ~
   name: ~

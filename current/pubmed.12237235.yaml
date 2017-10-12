@@ -21,6 +21,25 @@ abstract: Pathogenesis and genetic abnormalities of ependymomas are not well kno
   basis of CGH abnormalities.
 authors: Grill J, Avet-Loiseau H, Lellouch-Tubiana A, Sevenet N, Terrier-Lacombe MJ,
   Venuat AM, Doz F, Sainte-Rose C, Kalifa C and Vassal G.
+cancertypes:
+- term_id: ncit:C53686
+  term_label: ~
+- term_id: ncit:C6903
+  term_label: Tanycytic Ependymoma
+- term_id: pgx:icdom:9390_1
+  term_label: Atypical choroid plexus papilloma
+- term_id: pgx:icdom:9391_3
+  term_label: Ependymoma, NOS
+- term_id: pgx:icdot:C71.5
+  term_label: ventricle
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-93901
+  term_label: Atypical choroid plexus papilloma
+- term_id: snmi:M-93913
+  term_label: Ependymoma, NOS
 contact:
   email: gvassal@igr.fr
   name: Gilles Vassal

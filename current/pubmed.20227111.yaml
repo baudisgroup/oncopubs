@@ -10,6 +10,17 @@ abstract: The t 8 21 Acute Myeloid Leukaemia AML Kasumi-1 cell line with N822K K
   of miR-584 and miR-182 upregulation in the CD34 CD38 - fraction.
 authors: Pedranzini L, Mottadelli F, Ronzoni S, Rossella F, Ferracin M, Magnani I,
   Roversi G, Colapietro P, Negrini M, Pelicci PG and Larizza L.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: lidia.larizza@unimi.it
   name: Lidia Larizza

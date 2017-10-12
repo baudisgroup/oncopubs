@@ -19,6 +19,7 @@ abstract: We analysed primary breast cancers by genomic DNA copy number arrays, 
   that much of the clinically observable plasticity and heterogeneity occurs within,
   and not across, these major biological subtypes of breast cancer.
 authors: ~
+cancertypes: []
 contact:
   email: cperou@med.unc.edu
   name: Charles M Perou

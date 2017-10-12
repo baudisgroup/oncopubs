@@ -22,6 +22,17 @@ authors: Arao T, Ueshima K, Matsumoto K, Nagai T, Kimura H, Hagiwara S, Sakurai 
   Haji S, Kanazawa A, Hidaka H, Iso Y, Kubota K, Shimada M, Utsunomiya T, Hirooka
   M, Hiasa Y, Toyoki Y, Hakamada K, Yasui K, Kumada T, Toyoda H, Sato S, Hisai H,
   Kuzuya T, Tsuchiya K, Izumi N, Arii S, Nishio K and Kudo M.
+cancertypes:
+- term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~
   name: Kazuto Nishio

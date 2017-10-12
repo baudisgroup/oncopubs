@@ -25,6 +25,47 @@ abstract: Medulloblastoma is the most frequent malignant paediatric brain tumour
 authors: Fattet S, Haberler C, Legoix P, Varlet P, Lellouch-Tubiana A, Lair S, Manie
   E, Raquin MA, Bours D, Carpentier S, Barillot E, Grill J, Doz F, Puget S, Janoueix-Lerosey
   I and Delattre O.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: ncit:C6904
+  term_label: Large Cell Medulloblastoma
+- term_id: ncit:C6906
+  term_label: Atypical Teratoid/Rhabdoid Tumor
+- term_id: ncit:C6968
+  term_label: Supratentorial Embryonal Tumor, Not Otherwise Specified
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdom:9474_3
+  term_label: Large cell medulloblastoma
+- term_id: pgx:icdom:9508_3
+  term_label: Atypical teratoid/rhabdoid tumor
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: snmi:M-94743
+  term_label: Large cell medulloblastoma
+- term_id: snmi:M-95083
+  term_label: Atypical teratoid/rhabdoid tumor
 contact:
   email: ~
   name: Sarah Fattet

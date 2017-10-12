@@ -13,6 +13,7 @@ abstract: Comparative genomic hybridization CGH was used to analyze seven autolo
   the results demonstrate the applicability of this technique in analyzing archival
   formalin-fixed tumors that were previously not accessible to cytogenetic analysis.
 authors: Ghazvini S, Char DH, Kroll S, Waldman FM and Pinkel D.
+cancertypes: []
 contact:
   email: devron@tumori.org
   name: Devron H. Char

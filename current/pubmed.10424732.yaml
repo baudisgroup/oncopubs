@@ -16,6 +16,31 @@ abstract: The objective of this study was to test the hypothesis that chromosoma
   PNETs. There were no abnormalities of chromosome 17, but all three cases with imbalance
   showed losses of 3p12.3-p14.
 authors: Nicholson JC, Ross FM, Kohler JA and Ellison DW.
+cancertypes:
+- term_id: ncit:C3222
+  term_label: Medulloblastoma
+- term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
 contact:
   email: D.W.Ellison@ncl.ac.uk
   name: David W. Ellison

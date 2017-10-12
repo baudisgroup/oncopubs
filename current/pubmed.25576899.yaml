@@ -24,6 +24,7 @@ abstract: 'Anaplastic thyroid carcinoma (ATC) is a frequently lethal malignancy 
 authors: Kunstman JW, Juhlin CC, Goh G, Brown TC, Stenman A, Healy JM, Rubinstein
   JC, Choi M, Kiss N, Nelson-Williams C, Mane S, Rimm DL, Prasad ML, Hï¿½ï¿½g A, Zedenius
   J, Larsson C, Korah R, Lifton RP and Carling T
+cancertypes: []
 contact:
   email: tobias.carling@yale.edu
   name: Tobias Carling

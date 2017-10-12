@@ -21,6 +21,9 @@ abstract: Monoclonal gammopathy of undetermined significance (MGUS) is a premali
 authors: Mikulasova A, Wardell CP, Murison A, Boyle EM, Jackson GH, Smetana J, Kufova
   Z, Pour L, Sandecka V, Almasi M, Vsianska P, Gregora E, Kuglik P, Hajek R, Davies
   FE, Morgan GJ, Walker BA.
+cancertypes:
+- term_id: seer:34000
+  term_label: myeloma
 contact:
   email: bwalker2@uams.edu
   name: Brian A. Walker

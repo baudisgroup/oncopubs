@@ -6,6 +6,7 @@ authors: Janoueix-Lerosey I, Schleiermacher G, Michels E, Mosseri V, Ribeiro A, 
   D, Vermeulen J, Couturier J, Peuchmaur M, Valent A, Plantaz D, Rubie H, Valteau-Couanet
   D, Thomas C, Combaret V, Rousseau R, Eggert A, Michon J, Speleman F and Delattre
   O.
+cancertypes: []
 contact:
   email: olivier.delattre@curie.fr
   name: Olivier Delattre

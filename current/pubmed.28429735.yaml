@@ -15,6 +15,9 @@ abstract: Several studies using genome-wide molecular techniques have reported v
 authors: "Brown D, Smeets D, SzÃ©kely B, Larsimont D, SzÃ¡sz AM, Adnet PY, RothÃ©
   F, Rouas G, Nagy ZI, FaragÃ³ Z, TÅ\x91kÃ©s AM, Dank M, SzentmÃ¡rtoni G, Udvarhelyi
   N, Zoppoli G, Pusztai L, Piccart M, Kulka J, Lambrechts D, Sotiriou C, Desmedt C."
+cancertypes:
+- term_id: seer:26000
+  term_label: breast
 contact:
   email: christine.desmedt@bordet.be
   name: Christine Desmedt

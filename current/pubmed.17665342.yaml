@@ -8,6 +8,17 @@ abstract: Most primary intracranial tumors occur as solitary lesions multiple lo
   to each other.
 authors: Nestler U, Schmidinger A, Schulz C, Huegens-Penzel M, Gamerdinger UA, Koehler
   A and Kuchelmeister KW.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: ulf.nestler@neuro.med.uni-giessen.de
   name: Ulf Nestler

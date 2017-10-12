@@ -14,6 +14,17 @@ abstract: 'New therapeutic strategies are needed to improve survival in glioblas
   p27 pathway. Our findings suggest that PTEN participates in the genesis of GBM,
   and might be further studied as a candidate therapeutic agent in other testing systems.'
 authors: Fan X, Aalto Y, Sanko SG, Knuutila S, Klatzmann D and Castresana JS.
+cancertypes:
+- term_id: ncit:C3058
+  term_label: Glioblastoma
+- term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
 contact:
   email: jscastresana@unav.es
   name: Javier S. Castresana

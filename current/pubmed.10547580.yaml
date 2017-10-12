@@ -15,6 +15,7 @@ abstract: 'Small cell carcinomas SCCs represent a rare histological subtype of u
   SCC can develop from TCC through the acquisition of additional genetic alterations.'
 authors: Terracciano L, Richter J, Tornillo L, Beffa L, Diener PA, Maurer R, Gasser
   TC, Moch H, Mihatsch MJ and Sauter G.
+cancertypes: []
 contact:
   email: lterracciano@uhbs.ch
   name: Luigi M. Terraciano

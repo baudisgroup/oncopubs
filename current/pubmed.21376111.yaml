@@ -14,6 +14,7 @@ abstract: Testicular germ cell tumors TGCT represent the most common malignancy 
   quantitative PCR. Our findings may lead to better understanding of TGTCs pathogenesis.
 authors: LeBron C, Pal P, Brait M, Dasgupta S, Guerrero-Preston R, Looijenga LH, Kowalski
   J, Netto G and Hoque MO.
+cancertypes: []
 contact:
   email: ~
   name: Mohammad Hoque

@@ -18,6 +18,17 @@ abstract: Detection of cytogenetic alterations in esophageal cancer EC . A total
   region. The alteration between cancer and noncancer tissues may play a role in the
   development of EC.
 authors: Chang YC, Yeh KT, Liu TC and Chang JG.
+cancertypes:
+- term_id: ncit:C2916
+  term_label: Carcinoma
+- term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- term_id: pgx:icdot:C15
+  term_label: esophagus
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
 contact:
   email: ~
   name: Jan-Gowth Chang

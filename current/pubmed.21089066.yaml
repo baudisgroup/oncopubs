@@ -20,6 +20,7 @@ abstract: High-throughput single nucleotide polymorphism SNP -array technologies
 authors: Marenne G, Rodriguez-Santiago B, Closas MG, Perez-Jurado L, Rothman N, Rico
   D, Pita G, Pisano DG, Kogevinas M, Silverman DT, Valencia A, Real FX, Chanock SJ,
   Genin E and Malats N.
+cancertypes: []
 contact:
   email: ~
   name: Nuria Malats

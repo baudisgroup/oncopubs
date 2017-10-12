@@ -18,6 +18,23 @@ abstract: The aim of the present study was to identify genetic aberrations in a 
 authors: Gimenez S, Costa C, Espinet B, Sole F, Pujol RM, Puigdecanet E, Garcia-Moreno
   P, Sanchez J, Gallardo F, Estrach T, Garcia-Muret P, Romagosa V, Serrano S and Servitje
   O.
+cancertypes:
+- term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- term_id: pgx:icdom:9680_3
+  term_label: Diffuse large B-cell lymphoma, NOS
+- term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- term_id: pgx:icdot:C44
+  term_label: Skin
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-96803
+  term_label: Diffuse large B-cell lymphoma, NOS
+- term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
 contact:
   email: bespinet@imas.imim.es
   name: Blanca Espinet

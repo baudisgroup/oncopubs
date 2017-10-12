@@ -16,6 +16,7 @@ abstract: Comparative genomic hybridization CGH makes it possible to detect loss
   suppressor genes and oncogenes that play an important role in bladder tumorigenesis.
 authors: Kallioniemi A, Kallioniemi OP, Citro G, Sauter G, DeVries S, Kerschmann R,
   Caroll P and Waldman F.
+cancertypes: []
 contact:
   email: anne.kallioniemi@uta.fi
   name: Anne Kallioniemi

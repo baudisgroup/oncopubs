@@ -13,6 +13,7 @@ abstract: 'Genetic etiology of squamous cell carcinoma of the larynx SCCL is ver
   WI-16413-D13S1186 , 13q.31.1-13q32.3 D13S317-D13S1818-D13S770 , 13q34 D13S285 .
   Among these areas, 13q31.1-q32.3 was identified as new hot spot of deletion in SCCLs.'
 authors: Stembalska A, Blin N, Ramsey D and Sasiadek MM.
+cancertypes: []
 contact:
   email: ~
   name: Maria Sasiadek

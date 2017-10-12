@@ -18,6 +18,7 @@ abstract: 'To understand cancer progression, it is desirable to study the earlie
   FFPE samples and provides quality of aCGH data similar to non-amplified samples.'
 authors: Arneson N, Moreno J, Iakovlev V, Ghazani A, Warren K, McCready D, Jurisica
   I and Done SJ.
+cancertypes: []
 contact:
   email: sdone@uhnres.utoronto.ca
   name: Susan Done

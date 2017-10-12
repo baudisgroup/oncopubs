@@ -23,6 +23,7 @@ authors: Walter MJ, Payton JE, Ries RE, Shannon WD, Deshmukh H, Zhao Y, Baty J, 
   S, Westervelt P, Watson MA, Tomasson MH, Nagarajan R, OGara BP, Bloomfield CD, Mrozek
   K, Selzer RR, Richmond TA, Kitzman J, Geoghegan J, Eis PS, Maupin R, Fulton RS,
   McLellan M, Wilson RK, Mardis ER, Link DC, Graubert TA, DiPersio JF and Ley TJ.
+cancertypes: []
 contact:
   email: ~
   name: ~

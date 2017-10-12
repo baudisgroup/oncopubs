@@ -18,6 +18,9 @@ abstract: Patients with Down syndrome (DS) and acute lymphoblastic leukemia (ALL
 authors: Loudin MG, Wang J, Leung HC, Gurusiddappa S, Meyer J, Condos G, Morrison
   D, Tsimelzon A, Devidas M, Heerema NA, Carroll AJ, Plon SE, Hunger SP, Basso G,
   Pession A, Bhojwani D, Carroll WL, Rabin KR.
+cancertypes:
+- term_id: seer:35011
+  term_label: acute lymphocytic leukemia
 contact:
   email: exleung@txccc.org
   name: Hon-chiu Eastwood Leung

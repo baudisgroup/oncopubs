@@ -21,6 +21,7 @@ abstract: Gastric cancer (GC) is the third leading cause of cancer-related death
 authors: Park H, Cho SY, Kim H, Na D, Han JY, Chae J, Park C, Park OK, Min S, Kang
   J, Choi B, Min J, Kwon JY, Suh YS, Kong SH, Lee HJ, Liu ET, Kim JI, Kim S, Yang
   HK and Lee C
+cancertypes: []
 contact:
   email: Charles.Lee@jax.org
   name: Charles Lee

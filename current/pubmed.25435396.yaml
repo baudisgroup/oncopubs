@@ -19,6 +19,7 @@ abstract: 'Cytogenetic classification of acute lymphoblastic leukemia (ALL) is p
   treatment.'
 authors: Othman MA, Melo JB, Carreira IM, Rincic M, Alhourani E, Wilhelm K, Gruhn
   B, Glaser A and Liehr T
+cancertypes: []
 contact:
   email: thomas.liehr@med.uni-jena.de
   name: Thomas Liehr

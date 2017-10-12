@@ -20,6 +20,7 @@ abstract: Lobular carcinoma in situ LCIS and atypical lobular hyperplasia ALH of
   invasive breast carcinoma, delineating potential roles for specific chromosome copy
   number changes.
 authors: Lu YJ, Osin P, Lakhani SR, Di Palma S, Gusterson BA and Shipley JM.
+cancertypes: []
 contact:
   email: s.lakhani@uq.edu.au
   name: Sunil R. Lakhani

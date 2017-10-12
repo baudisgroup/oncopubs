@@ -20,6 +20,9 @@ abstract: Bone is the most frequent site of metastasis in prostate cancer and pa
   to identify DCCs.  ï¿½2014 American Association for Cancer Research.
 authors: "GuÅ¾viÄ\x87 M, Braun B, Ganzer R, Burger M, Nerlich M, Winkler S, Werner-Klein
   M, CzyÅ¼ ZT, Polzer B and Klein CA"
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: christoph.klein@ukr.de
   name: ~

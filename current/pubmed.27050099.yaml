@@ -11,6 +11,9 @@ abstract: MYCN amplification and overexpression are common in neuroendocrine pro
 authors: Lee JK, Phillips JW, Smith BA, Park JW, Stoyanova T, McCaffrey EF, Baertsch
   R, Sokolov A, Meyerowitz JG, Mathis C, Cheng D, Stuart JM, Shokat KM, Gustafson
   WC, Huang J, Witte ON.
+cancertypes:
+- term_id: seer:28010
+  term_label: prostate
 contact:
   email: ~
   name: John Lee

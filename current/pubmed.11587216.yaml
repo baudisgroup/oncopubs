@@ -17,6 +17,17 @@ abstract: In this study, CA46 and ST486, two Epstein-Barr EBV negative cell line
   observed in EBV-negative lines was identified only in highly tumorigenic CA46 cells
   suggesting that this region harbor gene s associated with tumor cell invasiveness.
 authors: Zimonjic DB, Keck-Waggoner C and Popescu NC.
+cancertypes:
+- term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
 contact:
   email: popescun@mail.nih.gov
   name: Nicholas C. Popescu

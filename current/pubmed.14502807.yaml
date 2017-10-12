@@ -18,6 +18,17 @@ abstract: Germline mutations of the APC gene cause familial adenomatous polyposi
   APC inactivation itself is insufficient for immunohistochemically detectable nuclear
   translocation of beta-catenin.
 authors: Blaker H, Scholten M, Sutter C, Otto HF and Penzel R.
+cancertypes:
+- term_id: ncit:C3494
+  term_label: Lung Papillary Adenoma
+- term_id: pgx:icdom:8140_1
+  term_label: Atypical adenoma
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81401
+  term_label: Atypical adenoma
 contact:
   email: hendrik_blaeker@med.uni-heidelberg.de
   name: Hendrik Blaeker

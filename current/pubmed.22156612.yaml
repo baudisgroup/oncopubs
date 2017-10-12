@@ -22,6 +22,19 @@ abstract: Small-cell prostate carcinoma (SCPC) morphology predicts for a distinc
   significance of the findings.
 authors: Tzelepi V, Zhang J, Lu JF, Kleb B, Wu G, Wan X, Hoang A, Efstathiou E, Sircar
   K, Navone NM, Troncoso P, Liang S, Logothetis CJ, Maity SN, Aparicio AM.
+cancertypes:
+- term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- term_id: pgx:seer:28010
+  term_label: Prostate
+- term_id: seer:28010
+  term_label: prostate
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: jiexinzhang@mdanderson.org
   name: Jiexin Zhang

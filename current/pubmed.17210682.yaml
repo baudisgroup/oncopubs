@@ -23,6 +23,17 @@ abstract: To characterize patterns of global transcriptional deregulation in pri
   similar pathogenic pathways.
 authors: Grade M, Hormann P, Becker S, Hummon AB, Wangsa D, Varma S, Simon R, Liersch
   T, Becker H, Difilippantonio MJ, Ghadimi BM and Ried T.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
 contact:
   email: ~
   name: ~

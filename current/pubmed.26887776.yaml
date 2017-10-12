@@ -18,6 +18,9 @@ abstract: 'Dysregulation of MYC is the genetic hallmark of Burkitt lymphoma (BL)
 authors: Havelange V, Pepermans X, Ameye G, Thï¿½ate I, Callet-Bauchu E, Barin C,
   Penther D, Lippert E, Michaux L, Mugneret F, Dastugue N, Raphaï¿½l M, Vikkula M,
   Poirel HA.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: helene.antoine-poirel@uclouvain.be
   name: Helen A Poirel

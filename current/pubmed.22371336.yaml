@@ -20,6 +20,27 @@ abstract: 'Despite recent advances in the identification of the cytogenetic prof
 authors: Tabernero MD, Maillo A, Nieto AB, Diez-Tascon C, Lara M, Sousa P, Otero A,
   Castrillo A, Patino-Alonso Mdel C, Espinosa A, Mackintosh C, de Alava E and Orfao
   A.
+cancertypes:
+- term_id: ncit:C3230
+  term_label: Meningioma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C70.0
+  term_label: meninges cerebral, spinal
+- term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-95300
+  term_label: Meningioma, NOS
 contact:
   email: ~
   name: ~

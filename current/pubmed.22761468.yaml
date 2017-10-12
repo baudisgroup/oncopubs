@@ -7,6 +7,17 @@ abstract: Flat adenomas are a subgroup of colorectal adenomas that have been ass
 authors: Voorham QJ, Carvalho B, Spiertz AJ, van Grieken NC, Mongera S, Rondagh EJ,
   van de Wiel MA, Jordanova ES, Ylstra B, Kliment M, Grabsch H, Rembacken BJ, Arai
   T, de Bruine AP, Sanduleanu S, Quirke P, Mulder CJ, van Engeland M and Meijer GA.
+cancertypes:
+- term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: ga.meijer@vumc.nl
   name: Gerrit Meijer

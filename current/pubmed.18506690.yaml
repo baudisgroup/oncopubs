@@ -22,6 +22,7 @@ abstract: We performed an integrated array comparative genomic hybridization aCG
   have distinct molecular profiles which may have clinical value.
 authors: Myllykangas S, Junnila S, Kokkola A, Autio R, Scheinin I, Kiviluoto T, Karjalainen-Lindsberg
   ML, Hollmen J, Knuutila S, Puolakkainen P and Monni O.
+cancertypes: []
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

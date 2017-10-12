@@ -23,6 +23,7 @@ abstract: Mantle cell lymphoma MCL is an aggressive non-Hodgkins lymphoma with m
   that play important roles in the pathogenesis of MCL.
 authors: de Leeuw RJ, Davies JJ, Rosenwald A, Bebb G, Gascoyne RD, Dyer MJ, Staudt
   LM, Martinez-Climent JA and Lam WL.
+cancertypes: []
 contact:
   email: rdeleeuw@bccrc.ca
   name: Ronald J. deLeeuw

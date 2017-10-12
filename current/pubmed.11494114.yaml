@@ -23,6 +23,59 @@ abstract: Cytogenetically unrelated clones have been detected by chromosome band
   culturing of breast carcinomas is not an artifact.
 authors: Teixeira MR, Tsarouha H, Kraggerud SM, Pandis N, Dimitriadis E, Andersen
   JA, Lothe RA and Heim S.
+cancertypes:
+- term_id: ncit:C3680
+  term_label: ~
+- term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4188
+  term_label: ~
+- term_id: ncit:C7439
+  term_label: ~
+- term_id: ncit:C7690
+  term_label: ~
+- term_id: ncit:C7949
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8201_3
+  term_label: Cribriform carcinoma, NOS
+- term_id: pgx:icdom:8500_2
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8501_3
+  term_label: Comedocarcinoma, NOS
+- term_id: pgx:icdom:8503_3
+  term_label: Intraductal papillary adenocarcinoma with invasion
+- term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- term_id: pgx:icdom:8522_3
+  term_label: Infiltrating duct and lobular carcinoma
+- term_id: pgx:icdom:8523_3
+  term_label: Infiltrating duct mixed with other types of carcinoma
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-82013
+  term_label: Cribriform carcinoma, NOS
+- term_id: snmi:M-85002
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85013
+  term_label: Comedocarcinoma, NOS
+- term_id: snmi:M-85033
+  term_label: Intraductal papillary adenocarcinoma with invasion
+- term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
+- term_id: snmi:M-85223
+  term_label: Infiltrating duct and lobular carcinoma
+- term_id: snmi:M-85233
+  term_label: Infiltrating duct mixed with other types of carcinoma
 contact:
   email: ~
   name: M. Teixeira

@@ -4,6 +4,7 @@ abstract: Prostate cancer is known for its heterogeneous histological appearance
   in the genomic composition of a tumor.
 authors: Postma R, van Marion R, van Duin M, Vissers KJ, Wink JC, Schroder FH, Tanke
   HJ, Szuhai K, van der Kwast TH and van Dekken H.
+cancertypes: []
 contact:
   email: ~
   name: H. van Dekken

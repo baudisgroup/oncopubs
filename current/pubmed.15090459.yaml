@@ -17,6 +17,7 @@ abstract: 'Tumor samples of 53 patients with t 11 14 -positive mantle cell lymph
 authors: Kohlhammer H, Schwaenen C, Wessendorf S, Holzmann K, Kestler HA, Kienle D,
   Barth TF, Moller P, Ott G, Kalla J, Radlwimmer B, Pscherer A, Stilgenbauer S, Dohner
   H, Lichter P and Bentz M.
+cancertypes: []
 contact:
   email: m.macleod@dkfz.de
   name: Peter Lichter

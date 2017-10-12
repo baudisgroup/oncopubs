@@ -16,6 +16,21 @@ abstract: Genetic alterations in enteropathy-type T-cell lymphoma ETL are unknow
   genetic relationship of gastrointestinal T-cell lymphomas at either localization.
 authors: Zettl A, Ott G, Makulik A, Katzenberger T, Starostik P, Eichler T, Puppe
   B, Bentz M, Muller-Hermelink HK and Chott A.
+cancertypes:
+- term_id: ncit:C4737
+  term_label: Enteropathy-Associated T-Cell Lymphoma
+- term_id: pgx:icdom:9717_3
+  term_label: Intestinal T-cell lymphoma
+- term_id: pgx:icdot:C26
+  term_label: unspecified digest. Organs
+- term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-97173
+  term_label: Intestinal T-cell lymphoma
 contact:
   email: andreas.zettl@mail.uni-wuerzburg.de
   name: Andreas Zettl

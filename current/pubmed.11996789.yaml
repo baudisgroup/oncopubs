@@ -13,6 +13,25 @@ abstract: Deletion of chromosome 11q23 is a common alteration in parathyroid ade
   associated with pathogenesis of parathyroid hyperplasia and adenoma.
 authors: Hemmer S, Wasenius VM, Haglund C, Zhu Y, Knuutila S, Franssila K and Joensuu
   H.
+cancertypes:
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdot:C75.0
+  term_label: parathyroid gland
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
 contact:
   email: sakari.knuutila@helsinki.fi
   name: Sakari Knuutila

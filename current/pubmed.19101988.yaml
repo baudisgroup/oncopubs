@@ -16,6 +16,47 @@ abstract: Recently, expression profiling of breast carcinomas has revealed gene 
 authors: Habermann JK, Doering J, Hautaniemi S, Roblick UJ, Bundgen NK, Nicorici D,
   Kronenwett U, Rathnagiriswaran S, Mettu RK, Ma Y, Kruger S, Bruch HP, Auer G, Guo
   NL and Ried T.
+cancertypes:
+- term_id: ncit:C27825
+  term_label: ~
+- term_id: ncit:C27949
+  term_label: ~
+- term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- term_id: ncit:C4188
+  term_label: ~
+- term_id: ncit:C65192
+  term_label: ~
+- term_id: pgx:icdom:8211_3
+  term_label: Tubular adenocarcinoma
+- term_id: pgx:icdom:8481_3
+  term_label: Mucin-producing adenocarcinoma
+- term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: pgx:icdom:8501_3
+  term_label: Comedocarcinoma, NOS
+- term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- term_id: pgx:icdom:8575_3
+  term_label: Metaplastic carcinoma, NOS
+- term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- term_id: pgx:seer:26000
+  term_label: Breast
+- term_id: snmi:M-82113
+  term_label: Tubular adenocarcinoma
+- term_id: snmi:M-84813
+  term_label: Mucin-producing adenocarcinoma
+- term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- term_id: snmi:M-85013
+  term_label: Comedocarcinoma, NOS
+- term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
+- term_id: snmi:M-85753
+  term_label: Metaplastic carcinoma, NOS
 contact:
   email: ~
   name: ~

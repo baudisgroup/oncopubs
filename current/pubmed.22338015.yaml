@@ -24,6 +24,29 @@ abstract: 'The high incidence of recurrence and unpredictable clinical outcome f
 authors: Kilday JP, Mitra B, Domerg C, Ward J, Andreiuolo F, Osteso-Ibanez T, Mauguen
   A, Varlet P, Le Deley MC, Lowe J, Ellison DW, Gilbertson RJ, Coyle B, Grill J and
   Grundy RG
+cancertypes:
+- term_id: ncit:C6903
+  term_label: Tanycytic Ependymoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdom:9391_3
+  term_label: Ependymoma, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- term_id: pgx:seer:31010
+  term_label: Brain
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: seer:37000
+  term_label: miscellaneous
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: snmi:M-93913
+  term_label: Ependymoma, NOS
 contact:
   email: Richard.Grundy@nottingham.ac.uk
   name: 44-0-115-823-0620

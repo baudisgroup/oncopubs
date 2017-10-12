@@ -19,6 +19,7 @@ abstract: Leiomyosarcoma LMS is a rare type of malignant soft tissue tumor occur
   that loss of the RB1 tumor suppressor gene is a critical step in LMS tumorigenesis.
 authors: Otano-Joos M, Mechtersheimer G, Ohl S, Lehnert T, Willeke F, Moller P, Otto
   HF, Lichter P and Joos S.
+cancertypes: []
 contact:
   email: s.joos@dkfz.de
   name: Stefan Joos

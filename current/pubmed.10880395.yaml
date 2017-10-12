@@ -20,6 +20,29 @@ abstract: Apart from single reported aberrant karyotypes, genetic alterations in
   characteristic of thymoma.
 authors: Zettl A, Strobel P, Wagner K, Katzenberger T, Ott G, Rosenwald A, Peters
   K, Krein A, Semik M, Muller-Hermelink HK and Marx A.
+cancertypes:
+- term_id: ncit:C7569
+  term_label: Thymic Carcinoma
+- term_id: ncit:C7997
+  term_label: Thymoma Type B3
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8581_3
+  term_label: Thymoma, type A, malignant
+- term_id: pgx:icdom:8585_3
+  term_label: Thymoma, type B3, malignant
+- term_id: pgx:icdom:8586_3
+  term_label: Thymic carcinoma, NOS
+- term_id: pgx:icdot:C37
+  term_label: thymus
+- term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- term_id: snmi:M-85813
+  term_label: Thymoma, type A, malignant
+- term_id: snmi:M-85853
+  term_label: Thymoma, type B3, malignant
+- term_id: snmi:M-85863
+  term_label: Thymic carcinoma, NOS
 contact:
   email: ~
   name: ~

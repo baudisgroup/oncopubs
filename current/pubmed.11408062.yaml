@@ -15,6 +15,29 @@ abstract: In order to define and map chromosomal copy number alterations in sali
   and progression of the SGTs.
 authors: Toida M, Balazs M, Mori T, Ishimaru JI, Ichihara H, Fujitsuka H, Hyodo I,
   Yokoyama K, Tatematsu N and Adany R.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:C2855
+  term_label: ~
+- term_id: ncit:C2970
+  term_label: Adenoid Cystic Carcinoma
+- term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8200_3
+  term_label: Adenoid cystic carcinoma
+- term_id: pgx:icdot:C08.9
+  term_label: salivary gland, NOS
+- term_id: pgx:seer:20030
+  term_label: Salivary Gland
+- term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-82003
+  term_label: Adenoid cystic carcinoma
 contact:
   email: ~
   name: M. Toida

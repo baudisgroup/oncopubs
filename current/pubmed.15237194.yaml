@@ -15,6 +15,7 @@ abstract: Established cancer cell lines are useful in the study of various cance
   in vivo, and its growth is moderately inhibited by interferon-alpha and interferon-gamma.
   It can be used to develop new modalities of human gastric cancer treatment.
 authors: Shyu RY, Jiang SY, Jong YJ, Cheng KC, Lin CH, Yu JC, Wu MF and Chang TM.
+cancertypes: []
 contact:
   email: t3542@ms.sltung.com.tw
   name: Tzu-Ming Chang

@@ -20,6 +20,7 @@ abstract: 'Glioblastoma Multiforme GBM is a malignant brain cancer that develops
   genes. This information is potentially important for formulating targeted therapy
   in glioblastoma and for planning genomic studies.'
 authors: Rao SK, Edwards J, Joshi AD, Siu IM and Riggins GJ.
+cancertypes: []
 contact:
   email: griggin1@jhmi.edu
   name: Gregory J. Riggins

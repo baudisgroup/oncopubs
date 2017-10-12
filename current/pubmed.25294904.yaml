@@ -23,6 +23,9 @@ abstract: CD8(+) T lymphocytes can kill autologous melanoma cells, but their act
 authors: Sucker A, Zhao F, Real B, Heeke C, Bielefeld N, MaÎ²en S, Horn S, Moll I,
   Maltaner R, Horn PA, Schilling B, Sabbatino F, Lennerz V, Kloor M, Ferrone S, Schadendorf
   D, Falk CS, Griewank K, Paschen A.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: klaus.griewank@uk-essen.de
   name: Klaus Georg Griewank

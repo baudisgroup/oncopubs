@@ -28,6 +28,9 @@ abstract: "Triple Negative Breast Cancers (TNBC) represent about 12% to 20% of a
 authors: Toffoli S, Bar I, Abdel-Sater F, Delrï¿½e P, Hilbert P, Cavallin F, Moreau
   F, Van Criekinge W, Lacroix-Triki M, Campone M, Martin AL, Rochï¿½ H, Machiels JP,
   Carrasco J and Canon JL
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: sebastien.toffoli@ipg.be
   name: ~

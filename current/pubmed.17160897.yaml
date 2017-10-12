@@ -14,6 +14,9 @@ abstract: Segmental copy-number variations (CNVs) in the human genome are associ
   the human genome provides a valuable baseline for studies involving human genetics.
 authors: Wong KK, deLeeuw RJ, Dosanjh NS, Kimm LR, Cheng Z, Horsman DE, MacAulay C,
   Ng RT, Brown CJ, Eichler EE, Lam WL.
+cancertypes:
+- term_id: seer:37000
+  term_label: miscellaneous
 contact:
   email: kwong@bccrc.ca
   name: Kendy Wong

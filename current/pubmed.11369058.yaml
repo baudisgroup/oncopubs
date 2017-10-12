@@ -11,6 +11,17 @@ abstract: 'We investigated chromosomal alterations using comparative genomic hyb
   are histologically uniform, they are divided cytogenetically into DNA aneuploid
   and diploid tumors.'
 authors: Harada K, Nishizaki T, Kubota H, Harada K, Suzuki M and Sasaki K.
+cancertypes:
+- term_id: ncit:C3208
+  term_label: Lymphoma
+- term_id: pgx:icdom:9590_3
+  term_label: Malignant lymphoma, NOS
+- term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- term_id: snmi:M-95903
+  term_label: Malignant lymphoma, NOS
 contact:
   email: ~
   name: NA Harada

@@ -24,6 +24,17 @@ abstract: The clinical significance of partial chromosome 3 alteration in uveal 
   melanoma.
 authors: Abdel-Rahman MH, Christopher BN, Faramawi MF, Said-Ahmed K, Cole C, McFaddin
   A, Ray-Chaudhury A, Heerema N, and Davidorf FH.
+cancertypes:
+- term_id: ncit:C3224
+  term_label: Melanoma
+- term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- term_id: pgx:icdot:C69.9
+  term_label: eye, nos
+- term_id: pgx:seer:30000
+  term_label: Eye and Orbit
+- term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
 contact:
   email: ~
   name: Mohamed Abdel-Rahman

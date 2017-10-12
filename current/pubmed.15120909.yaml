@@ -27,6 +27,7 @@ abstract: Identification of genetic losses and gains is valuable in analysis of 
   far surpasses the resolution and information provided by conventional metaphase
   CGH, without relying on in vitro culture of tumors for metaphase spreads.
 authors: Cowell JK, Matsui S, Wang YD, LaDuca J, Conroy J, McQuaid D and Nowak NJ.
+cancertypes: []
 contact:
   email: jcowell@mcg.edu
   name: John K. Cowell

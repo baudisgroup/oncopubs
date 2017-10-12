@@ -21,6 +21,17 @@ abstract: 'As data on the genomic alterations in hepatoblastoma HB are limited, 
   study provided evidence that gains on 8q and 20 play a role as markers of prognostic
   significance in HB.'
 authors: Weber RG, Pietsch T, von Schweinitz D and Lichter P.
+cancertypes:
+- term_id: ncit:C3728
+  term_label: Hepatoblastoma
+- term_id: pgx:icdom:8970_3
+  term_label: Hepatoblastoma
+- term_id: pgx:icdot:C22
+  term_label: liver
+- term_id: pgx:seer:21071
+  term_label: Liver
+- term_id: snmi:M-89703
+  term_label: Hepatoblastoma
 contact:
   email: weber.ruthild@mh-hannover.de
   name: Ruthild G. Weber

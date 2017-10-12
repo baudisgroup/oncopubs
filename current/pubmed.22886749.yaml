@@ -19,6 +19,17 @@ abstract: Core binding factor CBF AML with the D816 C-KIT gene mutation demonstr
   in the inv 16 t 16 16 subgroup or in the patients without the D816 C-KIT mutation.
 authors: Huh J, Kim HJ, Jung CW, Kim HJ, Kim SH, Kim YK, Kim HJ, Shin MG, Moon JH,
   Sohn SK, Kim SH, Lee WS, Won JH, Mun YC, Kim H, Park J, Min WS and Kim DH.
+cancertypes:
+- term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
 contact:
   email: ~
   name: Dong Hwan Kim

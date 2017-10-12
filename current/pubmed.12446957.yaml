@@ -24,6 +24,7 @@ abstract: Multiple chromosomal imbalances have been identified in breast cancer 
   on the occurrence of distant metastases in breast cancer patients.
 authors: Aubele M, Auer G, Braselmann H, Nahrig J, Zitzelsberger H, Quintanilla-Martinez
   L, Smida J, Walch A, Hofler H and Werner M.
+cancertypes: []
 contact:
   email: zitzelsberger@gsf.de
   name: Horst Zitzelsberger

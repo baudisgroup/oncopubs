@@ -7,6 +7,17 @@ abstract: In single-cell human genome analysis using whole-genome amplified prod
   of this amplification bias on subsequent genotype and chromosomal copy number analyses.
 authors: Iwamoto K, Bundo M, Ueda J, Nakano Y, Ukai W, Hashimoto E, Saito T and Kato
   T.
+cancertypes:
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- term_id: pgx:icdot:C76
+  term_label: ill-defined
+- term_id: pgx:seer:99999
+  term_label: invalid
+- term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: kaziwamoto@brain. riken.jp
   name: Kazuya Iwamoto

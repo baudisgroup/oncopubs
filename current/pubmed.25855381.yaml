@@ -17,6 +17,7 @@ abstract: 'This report delivers a comprehensive genetic alteration profile of lu
   Association for Cancer Research.'
 authors: Saito M, Shimada Y, Shiraishi K, Sakamoto H, Tsuta K, Totsuka H, Chiku S,
   Ichikawa H, Kato M, Watanabe SI, Yoshida T, Yokota J and Kohno T
+cancertypes: []
 contact:
   email: ~
   name: ~

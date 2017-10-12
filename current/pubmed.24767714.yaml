@@ -21,6 +21,7 @@ abstract: Single nucleotide polymorphism (SNP) array analysis is currently used 
   risk assessment.  Copyright ï¿½ 2014 Elsevier Inc. All rights reserved.
 authors: Roth JJ, Santi M, Rorke-Adams LB, Harding BN, Busse TM, Tooke LS and Biegel
   JA
+cancertypes: []
 contact:
   email: biegel@mail.med.upenn.edu
   name: Jaclyn A. Biegel

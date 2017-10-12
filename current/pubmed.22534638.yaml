@@ -17,6 +17,17 @@ abstract: We report a new case of blastic plasmacytoid dendritic cell neoplasm B
   in this case deserves further investigations as a putative BPDCN marker.
 authors: Petrella T, Herve G, Bonnotte B, Girodon F, Carlson JA, Bour JB, Lebon P,
   Mugneret F and Callier P.
+cancertypes:
+- term_id: ncit:C8997
+  term_label: ~
+- term_id: pgx:icdom:8000_3
+  term_label: Neoplasm, malignant
+- term_id: pgx:icdot:C44
+  term_label: skin
+- term_id: pgx:seer:99999
+  term_label: Invalid
+- term_id: snmi:M-80003
+  term_label: Neoplasm, malignant
 contact:
   email: tony.petrella@chu-dijon.fr
   name: Tony Petrella

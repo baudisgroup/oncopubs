@@ -18,6 +18,7 @@ abstract: "Melanoma is often caused by mutations due to exposure to ultraviolet 
   a neoantigen may be formed."
 authors: Wong SQ, Behren A, Mar VJ, Woods K, Li J, Martin C, Sheppard KE, Wolfe R,
   Kelly J, Cebon J, Dobrovic A and McArthur GA
+cancertypes: []
 contact:
   email: stephen.wong@petermac.org
   name: Stephen Q. Wong

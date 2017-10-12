@@ -12,6 +12,17 @@ abstract: Chronic myeloid leukemia CML is induced by BCR-ABL1 and can be effecti
 authors: Klemm L, Duy C, Iacobucci I, Kuchen S, von Levetzow G, Feldhahn N, Henke
   N, Li Z, Hoffmann TK, Kim YM, Hofmann WK, Jumaa H, Groffen J, Heisterkamp N, Martinelli
   G, Lieber MR, Casellas R and Muschen M.
+cancertypes:
+- term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+- term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
 contact:
   email: david.schatz@yale.edu
   name: David Schatz

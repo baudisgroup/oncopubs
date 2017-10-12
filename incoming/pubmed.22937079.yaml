@@ -23,6 +23,7 @@ abstract: Regional genomic copy number alterations (CNA) are observed in the vas
   genomic targets that are adaptively relevant but not necessarily essential for cancer
   development.
 authors: Kumar N, Cai H, von Mering C and Baudis M
+cancertypes: []
 contact:
   email: ~
   name: ~

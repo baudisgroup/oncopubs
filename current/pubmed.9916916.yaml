@@ -27,6 +27,7 @@ abstract: Hepatocellular carcinoma HCC is a common and highly malignant tumor th
   changes in the noncirrhotic human liver.
 authors: Wong N, Lai P, Lee SW, Fan S, Pang E, Liew CT, Sheng Z, Lau JW and Johnson
   PJ.
+cancertypes: []
 contact:
   email: natwong@cuhk.edu.hk
   name: Nathalie Wong

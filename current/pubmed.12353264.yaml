@@ -17,6 +17,23 @@ abstract: Gastric carcinoma GC is one of the most common malignancies worldwide 
   genetic changes. These regions may harbor candidate genes involved in the pathogenesis
   of this malignancy.
 authors: Wu CW, Chen GD, Fann CS, Lee AF, Chi CW, Liu JM, Weier U and Chen JY.
+cancertypes:
+- term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- term_id: pgx:icdom:8144_3
+  term_label: Adenocarcinoma, intestinal type
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- term_id: snmi:M-81443
+  term_label: Adenocarcinoma, intestinal type
 contact:
   email: bmchen@ibms.sinica.edu.tw
   name: Jeou-Yuan Chen

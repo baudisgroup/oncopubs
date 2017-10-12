@@ -19,6 +19,39 @@ abstract: Gastrointestinal stromal tumors GISTs are the most common mesenchymal 
   the tumor suppressor gene s which may be related to early recurrence and or metastasis
   during malignant transformation of GISTs.
 authors: Chen Y, Tzeng CC, Liou CP, Chang MY, Li CF and Lin CN.
+cancertypes:
+- term_id: ncit:C27940
+  term_label: ~
+- term_id: ncit:null
+  term_label: 'null'
+- term_id: pgx:icdom:8936_0
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: pgx:icdom:8936_1
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- term_id: pgx:icdot:C15
+  term_label: Esophagus
+- term_id: pgx:icdot:C16
+  term_label: stomach
+- term_id: pgx:icdot:C17
+  term_label: small intestine
+- term_id: pgx:icdot:C20
+  term_label: Rectum
+- term_id: pgx:seer:21010
+  term_label: Esophagus
+- term_id: pgx:seer:21020
+  term_label: Stomach
+- term_id: pgx:seer:21030
+  term_label: Small Intestine
+- term_id: pgx:seer:21052
+  term_label: Rectum
+- term_id: snmi:M-89360
+  term_label: Gastrointestinal stromal tumor, benign
+- term_id: snmi:M-89361
+  term_label: Gastrointestinal stromal tumor, NOS
+- term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
 contact:
   email: tzeng-tainan@yahoo.com.tw
   name: Ching-Cherng Tzeng
