@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: Keser I, Burckhardt E, Tunali N, and Alkan M.
+cancertypes: []
+contact:
+  email: keser@akdeniz.edu.tr
+  name: ibrahim keser
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:PGkes2003
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.7
+    - 36.91
+    type: Point
+  info:
+    city: Antalya
+    continent: Europe
+    country: Turkey
+    label: Antalya, Turkey, Europe
+    precision: city
+journal: Turkish Journal of Cancer, 33(4) 2003, 177-80.
+label: 'Keser et al. (2003): Genomic imbalances in childhood medulloblastoma by comparative
+  genomic hybridization.'
+notes: ~
+pmid: 0
+title: Genomic imbalances in childhood medulloblastoma by comparative genomic hybridization.
+year: 2003

@@ -1,0 +1,46 @@
+---
+abstract: This report describes a patient with a rare huge epithelioid malignant peripheral
+  nerve sheath tumor (MPNST) in the left axilla. A male in his 70s was admitted to
+  our hospital for evaluation of a growing tumor in his left axilla. The tumor was
+  solid and immovable. Examination of a biopsy specimen resulted in a diagnosis of
+  epithelioid MPNST. Two weeks after the biopsy was performed, the tumor grew to 20
+  cm and became painful, and the patient was unable to feel pressure on his upper
+  arm. Immediately before surgery to remove the tumor, computed tomography suggested
+  the presence of lung metastases. The patient and his family were informed of his
+  disease state, and they elected surgical treatment to ease the symptoms associated
+  with tumor enlargement. Systemic metastases appeared soon after the surgery, and
+  the patient died within 11 weeks. Comparative genomic hybridization (CGH) analysis
+  showed that this tumor was chromosomally unstable, with impairments in gene expression.
+authors: Kusumoto E, Yamaguchi S, Sugiyama M, Ota M, Tsutsumi N, Kimura Y, Sakaguchi
+  Y, Kusumoto T, Ikejiri K, Nakayama Y and Momosaki S.
+cancertypes: []
+contact:
+  email: aeg@kyumed.jp
+  name: Eiji Kusumoto
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26366361
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Surg Case Rep. 2015;1(1):64
+label: ~
+notes: ~
+pmid: 26366361
+title: 'Huge epithelioid malignant peripheral nerve sheath tumor in the left axilla:
+  a case report.'
+year: 2015

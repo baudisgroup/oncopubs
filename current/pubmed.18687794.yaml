@@ -1,0 +1,53 @@
+---
+abstract: 'Array-based comparative genomic hybridization array CGH provides a powerful
+  method for simultaneous genome-wide scanning and prognostic marker assessment in
+  chronic lymphocytic leukemia CLL . In the current study, commercially available
+  bacterial artificial chromosome and oligonucleotide array CGH platforms were used
+  to identify chromosomal alterations of prognostic significance in 174 CLL cases.
+  Tumor genomes were initially analyzed by bacterial artificial chromosome array CGH
+  followed by confirmation and breakpoint mapping using oligonucleotide arrays. Genomic
+  changes involving loci currently interrogated by fluorescence in situ hybridization
+  FISH panels were detected in 155 cases 89 at expected frequencies: 13q14 loss 47
+  , trisomy 12 13 , 11q loss 11 , 6q loss 7.5 , and 17p loss 4.6 . Genomic instability
+  was the second most commonly identified alteration of prognostic significance with
+  three or more alterations involving loci not interrogated by FISH panels identified
+  in 37 CLL cases 21 . A subset of 48 CLL cases analyzed by six-probe FISH panels
+  288 total hybridizations was concordant with array CGH results for 275 hybridizations
+  95.5 13 hybridizations 4.5 were discordant because of clonal populations that comprised
+  less than 30 of the sample. Array CGH is a powerful, cost-effective tool for genome-wide
+  risk assessment in the clinical evaluation of CLL.'
+authors: Gunn SR, Mohammed MS, Gorre ME, Cotter PD, Kim J, Bahler DW, Preobrazhensky
+  SN, Higgins RA, Bolla AR, Ismail SH, de Jong D, Eldering E, van Oers MH, Mellink
+  CH, Keating MJ, Schlette EJ, Abruzzo LV and Robetorye RS.
+cancertypes: []
+contact:
+  email: gunn@uthscsa.edu
+  name: Shelly R. Gunn
+counts:
+  biosamples: 174
+  samples_acgh: 174
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18687794
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: North America
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: 'J Mol Diagn 10, 5 (2008): 442-51.'
+label: 'Gunn et al. (2008): Whole-Genome Scanning By Array Comparative Genomic Hybridization
+  as a Clinical Tool for Risk ...'
+notes: A subset of 36 cases was analyzed with Agilent 44k oligonucleotide arrays.
+pmid: 18687794
+title: Whole-Genome Scanning By Array Comparative Genomic Hybridization as a Clinical
+  Tool for Risk Assessment in Chronic Lymphocytic Leukemia.
+year: 2008

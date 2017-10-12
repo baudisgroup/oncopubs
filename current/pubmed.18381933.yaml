@@ -1,0 +1,38 @@
+---
+abstract: To gain insight into genomic and transcriptomic subtypes of ductal carcinomas
+  in situ of the breast DCIS .
+authors: Vincent-Salomon A, Lucchesi C, Gruel N, Raynal V, Pierron G, Goudefroye R,
+  Reyal F, Radvanyi F, Salmon R, Thiery JP, Sastre-Garau X, Sigal-Zafrani B, Fourquet
+  A and Delattre O.
+cancertypes: []
+contact:
+  email: olivier.delattre@curie.fr
+  name: Olivier Delattre
+counts:
+  biosamples: 57
+  samples_acgh: 57
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18381933
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Clin Cancer Res 14, 7 (2008): 1956-65.'
+label: 'Vincent-Salomon et al. (2008): Integrated Genomic and Transcriptomic Analysis
+  of Ductal Carcinoma in Situ of the ...'
+notes: ~
+pmid: 18381933
+title: Integrated Genomic and Transcriptomic Analysis of Ductal Carcinoma in Situ
+  of the Breast.
+year: 2008

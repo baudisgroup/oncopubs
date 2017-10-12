@@ -1,0 +1,65 @@
+---
+abstract: It is well documented that among subgroups of B-cell acute lymphoblastic
+  leukemia (B-ALL), the genetic profile of the leukemic blasts has significant impact
+  on prognosis and stratification for therapy. Recent studies have documented the
+  power of microarrays to screen genome-wide for copy number aberrations (CNAs) and
+  regions of copy number-neutral loss of heterozygosity (CNLOH) that are not detectable
+  by G-banding or fluorescence in situ hybridization (FISH). These studies have involved
+  application of a single array platform for the respective cases. The present investigation
+  demonstrates the feasibility and usefulness of integrating array results from multiple
+  laboratories (ARUP, The Children's Hospital of Philadelphia, Cincinnati Children's
+  Hospital Medical Center, and University of Minnesota Medical Center) that utilize
+  different array platforms (Affymetrix, Agilent, or Illumina) in their respective
+  clinical settings. A total of 65 patients enrolled on the Children's Oncology Group
+  (COG) study AALL08B1 were identified for study, as cytogenetic and FISH studies
+  had also been performed on these patients, with a central review of those results
+  available for comparison. Microarray data were first analyzed by the individual
+  laboratories with their respective software systems; raw data files were then centrally
+  validated using NEXUS software. The results demonstrated the added value of integrating
+  multi-platform data with cytogenetic and FISH data and highlight novel findings
+  identified by array including the co-occurrence of low and high risk abnormalities
+  not previously reported to coexist within a clone, novel regions of chromosomal
+  amplification, clones characterized by numerous whole chromosome LOH that do not
+  meet criteria for doubling of a near-haploid, and characterization of array profiles
+  associated with an IKZF1 deletion. Each of these findings raises questions that
+  are clinically relevant to risk stratification.  Copyright ï¿½ 2015. Published by
+  Elsevier Inc.
+authors: Baughn LB, Biegel JA, South ST, Smolarek TA, Volkert S, Carroll AJ, Heerema
+  NA, Rabin KR, Zweidler-McKay PA, Loh M and Hirsch B
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: hirsc003@umn.edu
+  name: Betsy Hirsch
+counts:
+  biosamples: 65
+  samples_acgh: 65
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25678190
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.26
+    - 44.98
+    type: Point
+  info:
+    city: Minneapolis
+    continent: North America
+    country: United States
+    label: Minneapolis, United States, North America
+    precision: city
+journal: Cancer Genet. 2015 Jan-Feb;208(1-2):1-18.
+label: 'Baughn et al. (): Integration of cytogenomic data for furthering the characterization
+  of pediatric B-cell acute ...'
+notes: ~
+pmid: 25678190
+title: 'Integration of cytogenomic data for furthering the characterization of pediatric
+  B-cell acute lymphoblastic leukemia: a multi-institution, multi-platform microarray
+  study.'
+year: 2015

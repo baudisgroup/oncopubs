@@ -1,0 +1,46 @@
+---
+abstract: Sezary syndrome (SS) is an aggressive leukaemic variant of cutaneous T-cell
+  lymphoma. Recurrent chromosomal aberrations have been found in SS, but the whole
+  genetic mutation spectrum is unknown. To better understand the molecular pathogenesis
+  of SS, we performed exome sequencing, copy number variation (CNV) and gene expression
+  analysis of primary SS cells. In our index patient with typical SS, we found novel
+  somatic missense mutations in TBL1XR1, EPHA7 and SLFN12 genes in addition to larger
+  chromosomal changes. The mutations are located in biologically relevant genes affecting
+  apoptosis and T-cell maturation. They may play a role in the pathobiology of the
+  disease, but no recurrent mutations were discovered in nine additional patients
+  with SS studied. Thus, screening of larger patient cohorts is needed to confirm
+  their prevalence and biological significance in SS.  ï¿½ 2014 John Wiley & Sons
+  A/S. Published by John Wiley & Sons Ltd.
+authors: Andersson E, Eldfors S, Edgren H, Ellonen P, Vï¿½kevï¿½ L, Ranki A and Mustjoki
+  S
+cancertypes: []
+contact:
+  email: satu.mustjoki@helsinki.fi
+  name: Satu Mustjoki
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 1
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24689486
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Exp. Dermatol. 23(5), 2014
+label: 'Andersson E et al. (2014): '
+notes: ~
+pmid: 24689486
+title: Novel TBL1XR1, EPHA7 and SLFN12 mutations in a Sezary syndrome patient discovered
+  by whole exome sequencing.
+year: 2014

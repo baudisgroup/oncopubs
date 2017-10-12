@@ -1,0 +1,101 @@
+---
+abstract: 'Colorectal cancer (CRC) is characterized by specific patterns of copy number
+  alterations (CNAs), which helped with the identification of driver oncogenes and
+  tumor suppressor genes (TSGs). More recently, the usage of single nucleotide polymorphism
+  arrays provided information of copy number neutral loss of heterozygosity, thus
+  suggesting the occurrence of somatic uniparental disomy (UPD) and uniparental polysomy
+  (UPP) events. The aim of this study is to establish an integrative profiling of
+  recurrent UPDs/UPPs and CNAs in sporadic CRC. Our results indicate that regions
+  showing high frequencies of UPD/UPP mostly coincide with regions typically involved
+  in genomic losses. Among them, chromosome arms 3p, 5q, 9q, 10q, 14q, 17p, 17q, 20p,
+  21q and 22q preferentially showed UPDs/UPPs over genomic losses suggesting that
+  tumor cells must maintain the disomic state of certain genes to favor cellular fitness.
+  A meta-analysis using over 300 samples from The Cancer Genome Atlas confirmed our
+  findings. Several regions affected by recurrent UPDs/UPPs contain well-known TSGs,
+  as well as novel candidates such as ARID1A, DLC1, TCF7L2 and DMBT1. In addition,
+  VCAN, FLT4, SFRP1 and GAS7 were also frequently involved in regions of UPD/UPP and
+  displayed high levels of methylation. Finally, sequencing and fluorescence in situ
+  hybridization analysis of the gene APC underlined that a somatic UPD event might
+  represent the second hit to achieve biallelic inactivation of this TSG in colorectal
+  tumors. In summary, our data define a profile of somatic UPDs/UPPs in sporadic CRC
+  and highlights the importance of these events as a mechanism to achieve the inactivation
+  of TSGs.  ï¿½ The Author 2015. Published by Oxford University Press. All rights
+  reserved. For Permissions, please email: journals.permissions@oup.com.'
+authors: Torabi K, Mirï¿½ R, Fernï¿½ndez-Jimï¿½nez N, Quintanilla I, Ramos L, Prat
+  E, del Rey J, Pujol N, Killian JK, Meltzer PS, Fernï¿½ndez PL, Ried T, Lozano JJ,
+  Camps J and Ponsa I
+cancertypes:
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 9
+  samples_progenetix: ~
+  term_id: pgx:icdot:C80.9
+  term_label: unknown
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: imma.ponsa@uab.cat
+  name: Imma Ponsa
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26243311
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Carcinogenesis 36(10), 2015
+label: 'Torabi K et al. (2015): '
+notes: ~
+pmid: 26243311
+title: Patterns of somatic uniparental disomy identify novel tumor suppressor genes
+  in colorectal cancer.
+year: 2015

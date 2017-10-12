@@ -1,0 +1,51 @@
+---
+abstract: It is well known that chronic inflammation plays a pivotal role in the development
+  of hepatitis B virus (HBV) related hepatocellular carcinoma (HCC). However, the
+  causes behind aberrant expression of inflammation-related genes occurred in HCC
+  remain unclear.  We performed array-based analyses to comprehensively investigate
+  the contributions of DNA methylation and somatic copy number aberration (SCNA) to
+  the aberrant expression of 1,027 inflammation-related genes in 30 HCCs and paired
+  non-tumor tissues. The results were validated in public datasets and an additional
+  sample set of 47 paired HCCs and non-tumor tissues.  We identified 252 differentially
+  expressed, 125 aberrantly methylated and 287 copy number changed inflammation-related
+  genes. Despite reasonable statistical power, among them, only 11 genes and 56 genes
+  whose aberrant expression was associated with DNA methylation or SCNA, respectively.
+  DNA methylation and SCNA together contributed to less than 30% aberrant expression
+  of inflammation-related genes.  These results suggest that molecular mechanisms
+  other than DNA methylation and SCNA might play major role in the regulation of aberrant
+  expression of inflammation-related gene in HBV-related HCCs.
+authors: Yu D, Zhang G, Huang X, Wu C, Tan W, Qiao Y, Chang J, Zhao H, Bi X, Cai J,
+  Li Y and Lin D
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 77
+  samples_acgh: 77
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25965583
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: PLoS One. 2015 May 12;10(5):e0126836
+label: 'Yu et al. (): Relatively Small Contribution of Methylation and Genomic Copy
+  Number Aberration to the Aberrant Expression ...'
+notes: ~
+pmid: 25965583
+title: Relatively Small Contribution of Methylation and Genomic Copy Number Aberration
+  to the Aberrant Expression of Inflammation-Related Genes in HBV-Related Hepatocellular
+  Carcinoma.
+year: 2015

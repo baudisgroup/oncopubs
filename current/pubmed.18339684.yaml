@@ -1,0 +1,51 @@
+---
+abstract: Exposure to asbestos is known to induce lung cancer, and our previous studies
+  have suggested that specific chromosomal regions, such as 19p13, are preferentially
+  aberrant in lung tumours of asbestos-exposed patients. Here, we further examined
+  the association between the 19p region and exposure to asbestos using array comparative
+  genomic hybridization and fluorescence in situ hybridization FISH in lung tumours
+  and FISH characterization of asbestos-induced micronuclei MN in human bronchial
+  epithelial BEAS 2B cells in vitro. We detected an increased number of 19p losses
+  in the tumours of asbestos-exposed patients in comparison with tumours from non-exposed
+  subjects with similar distribution of tumour histology in both groups 13 33 39 versus
+  3 25 12 , P 0.04 . In BEAS 2B cells, a 48 h exposure to crocidolite asbestos 2.0
+  microg cm 2 was found to induce centromere-negative MN-harbouring chromosomal fragments.
+  Furthermore, an increased frequency of rare MN containing a 19p fragment was observed
+  after the crocidolite treatment in comparison with untreated controls 6 6000 versus
+  1 10 000, P 0.01 . The results suggest that 19p has significance in asbestos-associated
+  carcinogenesis and that asbestos may be capable of inducing specific chromosome
+  aberrations.
+authors: Ruosaari ST, Nymark PE, Aavikko MM, Kettunen E, Knuutila S, Hollmen J, Norppa
+  H and Anttila SL.
+cancertypes: []
+contact:
+  email: salla.ruosaari@helsinki.fi
+  name: Salla T. Ruosaari
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18339684
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Carcinogenesis 29, 5 (2008): 913-17.'
+label: 'Ruosaari et al. (2008): Aberrations of Chromosome 19 in Asbestos-Associated
+  Lung Cancer and in Asbestos-Induced ...'
+notes: ~
+pmid: 18339684
+title: Aberrations of Chromosome 19 in Asbestos-Associated Lung Cancer and in Asbestos-Induced
+  Micronuclei of Bronchial Epithelial Cells in Vitro.
+year: 2008

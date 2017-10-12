@@ -1,0 +1,48 @@
+---
+abstract: The research community at large is expending considerable resources to sequence
+  the coding region of the genomes of tumors and other human diseases using targeted
+  exome capture i.e., amp quot whole exome sequencing amp quot . The primary goal
+  of targeted exome sequencing is to identify nonsynonymous mutations that potentially
+  have functional consequences. Here, we demonstrate that whole-exome sequencing data
+  can also be analyzed for comprehensively monitoring somatic copy number alterations
+  CNAs by benchmarking the technique against conventional array CGH. A series of 17
+  matched tumor and normal tissues from patients with metastatic castrate-resistant
+  prostate cancer was used for this assessment. We show that targeted exome sequencing
+  reliably identifies CNAs that are common in advanced prostate cancer, such as androgen
+  receptor AR gain and PTEN loss. Taken together, these data suggest that targeted
+  exome sequencing data can be effectively leveraged for the detection of somatic
+  CNAs in cancer.
+authors: Lonigro RJ, Grasso CS, Robinson DR, Jing X, Wu YM, Cao X, Quist MJ, Tomlins
+  SA, Pienta KJ and Chinnaiyan AM.
+cancertypes: []
+contact:
+  email: arul@umich.edu
+  name: Arul Chinnaiyan
+counts:
+  biosamples: 6
+  samples_acgh: 6
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22131877
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: 'Neoplasia 13, 11 (2011): 1019-25.'
+label: 'Lonigro et al. (2011): Detection of Somatic Copy Number Alterations in Cancer
+  Using Targeted Exome Capture ...'
+notes: ~
+pmid: 22131877
+title: Detection of Somatic Copy Number Alterations in Cancer Using Targeted Exome
+  Capture Sequencing.
+year: 2011

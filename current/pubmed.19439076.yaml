@@ -1,0 +1,39 @@
+---
+abstract: DNA methylation is a widely studied epigenetic mechanism known to correlate
+  with gene repression and genomic stability. Development of sensitive methods for
+  global detection of DNA methylation events is of particular importance.
+authors: Li J, Gao F, Li N, Li S, Yin G, Tian G, Jia S, Wang K, Zhang X, Yang H, Nielsen
+  AL and Bolund L.
+cancertypes: []
+contact:
+  email: lijianyonglm@medmail.com.cn
+  name: Jian Li
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19439076
+- geo:GSE12199
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: 'BMC Genomics 10 (2009): 223.'
+label: 'Li et al. (2009): An Improved Method for Genome Wide DNA Methylation Profiling
+  Correlated to Transcription and Genomic ...'
+notes: ~
+pmid: 19439076
+title: An Improved Method for Genome Wide DNA Methylation Profiling Correlated to
+  Transcription and Genomic Instability in Two Breast Cancer Cell Lines.
+year: 2009

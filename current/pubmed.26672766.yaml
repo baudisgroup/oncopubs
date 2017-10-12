@@ -1,0 +1,55 @@
+---
+abstract: Multifocal tumors developed either as independent tumors or as intrahepatic
+  metastases, are very common in primary liver cancer. However, their molecular pathogenesis
+  remains elusive. Herein, a patient with synchronous two hepatocellular carcinoma
+  (HCC, designated as HCC-A and HCC-B) and one intrahepatic cholangiocarcinoma (ICC),
+  as well as two postoperative recurrent tumors, was enrolled. Multiregional whole-exome
+  sequencing was applied to these tumors to delineate the clonality and heterogeneity.
+  The three primary tumors showed almost no overlaps in mutations and copy number
+  variations. Within each tumor, multiregional sequencing data showed varied intratumoral
+  heterogeneity (21.6% in HCC-A, 20.4% in HCC-B, 53.2% in ICC). The mutational profile
+  of two recurrent tumors showed obvious similarity with HCC-A (86.7% and 86.6% respectively),
+  rather than others, indicating that they originated from HCC-A. The evolutionary
+  history of the two recurrent tumors indicated that intrahepatic micro-metastasis
+  could be an early event during HCC progression. Notably, FAT4 was the only gene
+  mutated in two primary HCCs and the recurrences. Mutation prevalence screen and
+  functional experiments showed that FAT4, harboring somatic coding mutations in 26.7%
+  of HCC, could potently inhibit growth and invasion of HCC cells. In HCC patients,
+  both FAT4 expression and FAT4 mutational status significantly correlated with patient
+  prognosis. Together, our findings suggest that spatial and temporal dissection of
+  genomic alterations during the progression of multifocal liver cancer may help to
+  elucidate the basis for its dismal prognosis. FAT4 acts as a putative tumor suppressor
+  that is frequently inactivated in human HCC.
+authors: Shi JY, Xing Q, Duan M, Wang ZC, Yang LX, Zhao YJ, Wang XY, Liu Y, Deng M,
+  Ding ZB, Ke AW, Zhou J, Fan J, Cao Y, Wang J, Xi R and Gao Q
+cancertypes: []
+contact:
+  email: gao.qiang@zs-hospital.sh.cn
+  name: Qiang Gao
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 4
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26672766
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Oncotarget, 2015
+label: 'Shi JY et al. (2015): '
+notes: ~
+pmid: 26672766
+title: Inferring the progression of multifocal liver cancer from spatial and temporal
+  genomic heterogeneity.
+year: 2015

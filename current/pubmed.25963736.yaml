@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: Weinberg OK, Ma L, Hoppe RT and Arber DA
+cancertypes: []
+contact:
+  email: Olga.Weinberg@childrens.harvard.edu
+  name: Olga K. Weinberg
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25963736
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Am. J. Hematol., 2015
+label: 'Weinberg et al. (): Biological characterization of Stage I follicular lymphoma
+  according to extranodal or nodal primary ...'
+notes: ~
+pmid: 25963736
+title: Biological characterization of Stage I follicular lymphoma according to extranodal
+  or nodal primary origin and t(14;18) status using high-resolution array-based comparative
+  genomic hybridization.
+year: 2015

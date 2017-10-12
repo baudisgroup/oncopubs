@@ -1,0 +1,55 @@
+---
+abstract: Biliary tract cancers carry dismal prognoses. It is commonly understood
+  that chromosomal aberrations in cancer cells have prognostic and therapeutic implications.
+  However, in biliary tract cancers the genetic changes have not yet been sufficiently
+  studied. The aim of this study was to clarify the presence of mutations in specific
+  chromosomal regions that are likely to harbor previously unknown genes with a significant
+  role in the genesis of biliary tract cancer. The recently developed bacterial artificial
+  chromosome BAC array comparative genomic hybridization CGH can facilitate detail
+  analysis with high resolution and sensitivity. We applied this to 12 cancer cell
+  lines of the gallbladder GBC and the bile duct BDC using a genome-wide scanning
+  array. Cell line DNA was labeled with green colored Cy5 and reference DNA derived
+  from normal human leucocytes was labeled with red colored Cy3. GBC, as well as BDC
+  cell lines, have shown DNA copy number abnormalities gain or loss . In each of the
+  seven GBC cell lines, the DNA copy number was gained on 6p21.32 and was lost on
+  3p22.3, 3p14.2, 3p14.3, 4q13.1, 22q11.21, 22q11.23, respectively. In five BDC cell
+  lines, there were DNA copy number gains on 7p21.1, 7p21.2, 17q23.2, 20q13.2 and
+  losses were on 1p36.21, 4q25, 6q16.1, 18q21.31, 18q21.33, respectively. The largest
+  region of gain was observed on 13q14.3-q21.32 approximately 11 Mb and of loss on
+  18q12.2-q21.1 approximately 15 Mb , respectively. Both GBC and BDC cell lines have
+  DNA copy number abnormalities of gains and or losses on every chromosome. We were
+  able to determine the genetic differences between gallbladder and bile duct cancer
+  cell lines. BAC array CGH has a powerful potential application in the screening
+  for DNA copy number abnormalities in cancer cell lines and tumors.
+authors: Saito S, Ghosh M, Morita K, Hirano T, Miwa M and Todoroki T.
+cancertypes: []
+contact:
+  email: todoroki@mail2.accsnet.ne.jp
+  name: Takeshi Todoroki
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17016576
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.1
+    - 36.2
+    type: Point
+  info:
+    city: Tsukuba
+    continent: Asia
+    country: Japan
+    label: Tsukuba, Japan, Asia
+    precision: city
+journal: 'Oncol Rep 16, 5 (2006): 949-56.'
+label: 'Saito et al. (2006): The Genetic Differences Between Gallbladder and Bile
+  Duct Cancer Cell Lines.'
+notes: ~
+pmid: 17016576
+title: The Genetic Differences Between Gallbladder and Bile Duct Cancer Cell Lines.
+year: 2006

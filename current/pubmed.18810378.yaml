@@ -1,0 +1,100 @@
+---
+abstract: It is well established that genetic alterations may be associated to prognosis
+  in tumor patients. This study investigates chromosomal changes that predict the
+  clinical outcome of head and neck squamous cell carcinoma HNSCC and correlate to
+  characteristic clinicopathological parameters. We applied comparative genomic hybridization
+  CGH to tissue samples from 117 HNSCC patients scheduled for radiotherapy. Genomic
+  aberrations occurring in more than five patients were studied for impact on locoregional
+  progression LRP -free survival. p values were adjusted by the Hochberg-Benjamini
+  procedure and significant aberrations and clinical variables subjected to a stepwise
+  backwards Cox proportional model. Significant alterations were further analyzed
+  by array-CGH and fluorescence in situ hybridization FISH . In multivariate survival
+  analysis gains on 1q and 16q predict reduced LRP-free survival independently from
+  known prognostic factors. Cluster analysis separated the HNSCC cases into two groups
+  cluster 1 and 2 that are characterized by significant differences for imbalances
+  in 13 chromosomal regions. Moreover, it became apparent that cluster 1 correlates
+  to nonanemic patients, while cluster 2 represents predominantly anemic cases. Array-CGH
+  pinpoints 16q24.3 to be the region of interest on chromosome 16 which was further
+  verified by FISH analysis where an increased copy number of FANCA, a member of the
+  Fanconi anemia breast cancer pathway, could be identified. This study demonstrates
+  that chromosomal gains on 1q and 16q as well as chromosomal loss on 18q represent
+  prognostic markers in HNSCC and that these alterations may explain to some extent
+  the dismal course of a subgroup of patients.
+authors: Bauer VL, Braselmann H, Henke M, Mattern D, Walch A, Unger K, Baudis M, Lassmann
+  S, Huber R, Wienberg J, Werner M and Zitzelsberger HF.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 117
+  term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 117
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: pgx:icdot:C13
+  term_label: Hypopharynx
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdot:C32
+  term_label: Larynx
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: pgx:seer:20080
+  term_label: Oropharynx
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: pgx:seer:20090
+  term_label: Hypopharynx
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:seer:22020
+  term_label: Larynx
+- samples_arraymap: ~
+  samples_progenetix: 117
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: mbaudis@gmail.com
+  name: Michael Baudis
+counts:
+  biosamples: 117
+  samples_acgh: 4
+  samples_ccgh: 117
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18810378
+- arrayexpress:E-TABM-359
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: Europe
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: 'J Mol Med (Berl) 86, 12 (2008): 1353-65.'
+label: 'Bauer et al. (2008): Chromosomal Changes Characterize Head and Neck Cancer
+  With Poor Prognosis.'
+notes: ~
+pmid: 18810378
+title: Chromosomal Changes Characterize Head and Neck Cancer With Poor Prognosis.
+year: 2008

@@ -1,0 +1,52 @@
+---
+abstract: Insulinomas represent the predominant syndromic subtype of endocrine pancreatic
+  tumours. Previous molecular studies have shown that gain of chromosome 9q rather
+  than MEN1 gene mutation is an important early event in tumour development and that
+  chromosomal instability is associated with metastatic disease. In order to identify
+  new gene loci and to define further the critical genetic events in insulinoma tumourigenesis,
+  27 insulinomas were investigated by array-based comparative genomic hybridization
+  array CGH on 3.7 k genomic BAC arrays resolution amp lt or 1 Mb . Fluorescence in
+  situ hybridization was used to validate alterations in a subset of tumours. Array
+  CGH most frequently detected loss of chromosomes 11q and 22q and gains of chromosome
+  9q. The chromosomal regions of interest CRI included 11q24.1 56 , 22q13.1 67 , 22q13.31
+  56 , and 9q32 63 . Evaluation of the simultaneous occurrence of these aberrations
+  in the individual tumours revealed that gain of 9q32 and loss of 22q13.1 are early
+  genetic events in insulinomas, occurring independently of the other alterations.
+  In tumours with increased genomic complexity, these alterations were often detected
+  simultaneously, occurring in the same tumour cells. Losses of 11q24.1 and 22q13.31
+  were also associated with these more advanced tumour cases. The CRIs identified
+  most likely harbour crucial candidate genes important in insulinoma tumourigenesis.
+authors: Jonkers YM, Claessen SM, Feuth T, van Kessel AG, Ramaekers FC, Veltman JA
+  and Speel EJ.
+cancertypes: []
+contact:
+  email: y.jonkers@molcelb.unimaas.nl
+  name: Y. Jonkers
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17068744
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.69
+    - 50.85
+    type: Point
+  info:
+    city: Maastricht
+    continent: ~
+    country: The Netherlands
+    label: Maastricht, The Netherlands
+    precision: city [needs verification]
+journal: 'J Pathol 210, 4 (2006): 450-58.'
+label: 'Jonkers et al. (2006): Novel Candidate Tumour Suppressor Gene Loci on Chromosomes
+  11q23-24 and 22q13 Involved in Human ...'
+notes: ~
+pmid: 17068744
+title: Novel Candidate Tumour Suppressor Gene Loci on Chromosomes 11q23-24 and 22q13
+  Involved in Human Insulinoma Tumourigenesis.
+year: 2006

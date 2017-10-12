@@ -1,0 +1,60 @@
+---
+abstract: The identification of gene mutations and structural genomic aberrations
+  that are critically involved in chronic lymphocytic leukemia CLL pathogenesis is
+  still evolving. One may postulate that genomic driver lesions with effects on CLL
+  cell proliferation, apoptosis thresholds, or chemotherapy resistance should increase
+  in frequency over time when measured sequentially in a large CLL cohort.
+authors: Ouillette P, Saiya-Cork K, Seymour EK, Li C, Shedden K and Malek SN.
+cancertypes:
+- samples_arraymap: 191
+  samples_progenetix: ~
+  term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 191
+  samples_progenetix: ~
+  term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- samples_arraymap: 191
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 191
+  samples_progenetix: ~
+  term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 191
+  samples_progenetix: ~
+  term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 312
+  samples_acgh: 312
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23620403
+- geo:GSE45565
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: Clin Cancer Res (2013).
+label: 'Ouillette et al. (2013): Clonal evolution, genomic drivers and effects of
+  therapy in chronic lymphocytic ...'
+notes: ~
+pmid: 23620403
+title: Clonal evolution, genomic drivers and effects of therapy in chronic lymphocytic
+  leukemia.
+year: 2013

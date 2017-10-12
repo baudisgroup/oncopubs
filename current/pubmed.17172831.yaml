@@ -1,0 +1,92 @@
+---
+abstract: The accurate assessment of disease risk remains a major goal in children
+  with medulloblastoma. Activation of the canonical Wnt Wingless Wnt Wg signalling
+  pathway occurs in up to 25 of cases and is associated with a favorable disease outcome.
+  To explore the molecular pathogenesis of Wnt Wg-active medulloblastomas, and to
+  investigate any genetic basis for their observed clinical behavior, we assessed
+  a series of primary medulloblastomas for evidence of Wnt Wg pathway activation,
+  alongside a genome-wide analysis of associated copy-number aberrations. Cases displaying
+  evidence of Wnt Wg activation CTNNB1 mutation and or beta-catenin nuclear stabilisation
+  were exclusively associated with a distinct genomic signature involving loss of
+  an entire copy of chromosome 6 but few other aberrations p amp lt 0.001 . In contrast,
+  Wnt Wg-negative tumors coclustered into an unrelated sub-group characterised by
+  multiple established genomic defects common in medulloblastoma losses of chromosomes
+  17p, 8, 10 and 16 gains of chromosomes 7 and 17q . Further investigation of specific
+  genetic defects in a larger independent cohort demonstrated that loss of chromosome
+  6 was exclusively observed in Wnt Wg-active tumors, but not in Wnt Wg-negative cases
+  8 13 vs. 0 19 p 0.0001 , while pathway activation was independent of chromosome
+  17 aberrations, the most common chromosomal alterations detected in medulloblastoma
+  p 0.005 . Wnt Wg-active tumors could not be distinguished on the basis of clinical
+  or pathological disease features. Our data indicate that Wnt Wg-active tumors represent
+  an independent molecular sub-group of medulloblastomas characterised by a distinct
+  pattern of genomic aberrations. These findings provide a strong biological basis
+  to support 1 the idiosyncratic clinical behavior of Wnt Wg-active medulloblastomas,
+  and 2 the development of beta-catenin status as an independent marker for therapeutic
+  stratification in this disease.
+authors: Clifford SC, Lusher ME, Lindsey JC, Langdon JA, Gilbertson RJ, Straughton
+  D and Ellison DW.
+cancertypes:
+- samples_arraymap: 17
+  samples_progenetix: 17
+  term_id: ncit:C3222
+  term_label: Medulloblastoma
+- samples_arraymap: 1
+  samples_progenetix: 2
+  term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- samples_arraymap: 17
+  samples_progenetix: 17
+  term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- samples_arraymap: 1
+  samples_progenetix: 2
+  term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- samples_arraymap: 18
+  samples_progenetix: 19
+  term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- samples_arraymap: 18
+  samples_progenetix: 19
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 17
+  samples_progenetix: 17
+  term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- samples_arraymap: 1
+  samples_progenetix: 2
+  term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+contact:
+  email: s.c.clifford@ncl.ac.uk
+  name: Steven C. Clifford
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17172831
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.61
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: Europe
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: 'Cell Cycle 5, 22 (2006): 2666-70.'
+label: 'Clifford et al. (2006): Wnt/Wingless Pathway Activation and Chromosome 6 Loss
+  Characterize a Distinct Molecular ...'
+notes: Data of 19 cases was included based on the binary clone data provided by S.
+  Clifford.
+pmid: 17172831
+title: Wnt/Wingless Pathway Activation and Chromosome 6 Loss Characterize a Distinct
+  Molecular Sub-Group of Medulloblastomas Associated With a Favorable Prognosis.
+year: 2006

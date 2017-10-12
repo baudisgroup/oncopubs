@@ -1,0 +1,79 @@
+---
+abstract: Pediatric follicular lymphoma is a rare disease that differs genetically
+  and clinically from its adult counterpart. With the exception of pediatric follicular
+  lymphoma with IRF4-translocation, the genetic events associated with these lymphomas
+  have not yet been defined. We applied array-comparative genomic hybridization and
+  molecular inversion probe assay analyses to formalin-fixed paraffin-embedded tissues
+  from 18 patients aged 18 years and under with IRF4 translocation negative follicular
+  lymphoma. All evaluable cases lacked t 14 18 . Only 6 of 16 evaluable cases displayed
+  chromosomal imbalances with gains or amplifications of 6pter-p24.3 including IRF4
+  and deletion and copy number neutral-loss of heterozygosity in 1p36 including TNFRSF14
+  being most frequent. Sequencing of TNFRSF14 located in the minimal region of loss
+  in 1p36.32 showed nine mutations in 7 cases from our series. Two subsets of pediatric
+  follicular lymphoma were delineated according to the presence of molecular alterations,
+  one with genomic aberrations associated with higher grade and or diffuse large B-cell
+  lymphoma component and more widespread disease, and another one lacking genetic
+  alterations associated with more limited disease.
+authors: Martin-Guerrero I, Salaverria I, Burkhardt B, Szczepanowski M, Baudis M,
+  Bens S, de Leval L, Garcia-Orad A, Horn H, Lisfeld J, Pellissery S, Klapper W, Oschlies
+  I and Siebert R.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9691_3
+  term_label: Follicular lymphoma, grade 2
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:9698_3
+  term_label: Follicular lymphoma, grade 3
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-96913
+  term_label: Follicular lymphoma, grade 2
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-96983
+  term_label: Follicular lymphoma, grade 3
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23445872
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.13
+    - 54.32
+    type: Point
+  info:
+    city: Kiel
+    continent: Europe
+    country: Germany
+    label: Kiel, Germany, Europe
+    precision: city
+journal: Haematologica (2013)
+label: 'Martin-Guerrero et al. (2013): Recurrent loss of heterozygosity in 1p36 associated
+  with TNFRSF14 mutations in IRF4 ...'
+notes: ~
+pmid: 23445872
+title: Recurrent loss of heterozygosity in 1p36 associated with TNFRSF14 mutations
+  in IRF4 translocation negative pediatric follicular lymphomas.
+year: 2013

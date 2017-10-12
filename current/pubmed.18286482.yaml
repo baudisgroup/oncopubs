@@ -1,0 +1,56 @@
+---
+abstract: BUB1B and RASSF1A genes play specific roles in the mitotic checkpoint, and
+  their defects may cause chromosome instability or aneuploidy in mouse fibroblasts
+  and human cancer cell lines however, few studies have reported a correlation between
+  defects in these genes and chromosome changes in human tumor samples. We examined
+  chromosome abnormalities in 25 Wilms tumors by metaphase comparative genomic hybridization,
+  and classified them into 14 hyperdiploid 50 amp gt or chromosomes , 2 near-or-pseudodiploid,
+  and 9 diploid tumors. We also examined various molecular aspects of BUB1B and RASSF1A,
+  and evaluated the relationship between chromosome changes and the status of both
+  genes. No tumors showed BUB1B mutation. BubR1 protein BUB1B gene product expression
+  was undetectable or decreased in five of six hyperdiploid or near-or-pseudodiploid
+  tumors and increased in four of five diploid tumors, whereas all seven tumors examined
+  showed BUB1B mRNA expression irrespective of their chromosome pattern. Furthermore,
+  while complete promoter methylation of RASSF1A was found in 13 of 16 hyperdiploid
+  or near-or-pseudodiploid tumors, unmethylated RASSF1A was found in 5 of 9 diploid
+  tumors. Partial RASSF1A methylation was found in three hyperdiploid or near-or-pseudodiploid
+  tumors and in four diploid tumors. Thus, BubR1 protein expression decreased, and
+  the promoter region of RASSF1A was completely methylated in the great majority of
+  hyperdiploid or near-or-pseudodiploid tumors, BubR1 protein expression increased
+  and RASSF1A was unmethylated in the majority of diploid tumors. These findings suggest
+  that the combined BubR1 protein down-regulation and RASSF1A hypermethylation might
+  be implicated in the formation of chromosomal changes found in Wilms tumors.
+authors: Haruta M, Matsumoto Y, Izumi H, Watanabe N, Fukuzawa M, Matsuura S and Kaneko
+  Y.
+cancertypes: []
+contact:
+  email: ~
+  name: Masayuki Haruta
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18286482
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.66
+    - 35.91
+    type: Point
+  info:
+    city: Saitama
+    continent: Asia
+    country: Japan
+    label: Saitama, Japan, Asia
+    precision: city
+journal: 'Mol Carcinog 47, 9 (2008): 660-66.'
+label: 'Haruta et al. (2008): Combined Bubr1 Protein Down-Regulation and Rassf1A Hypermethylation
+  in Wilms Tumors With Diverse ...'
+notes: ~
+pmid: 18286482
+title: Combined Bubr1 Protein Down-Regulation and Rassf1A Hypermethylation in Wilms
+  Tumors With Diverse Cytogenetic Changes.
+year: 2008

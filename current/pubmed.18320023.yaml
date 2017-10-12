@@ -1,0 +1,61 @@
+---
+abstract: Lung cancer causes approximately 1.2 million deaths per year worldwide,
+  and non-small cell lung cancer NSCLC represents 85 of all lung cancers. Understanding
+  the molecular events in non-small cell lung cancer NSCLC is essential to improve
+  early diagnosis and treatment for this disease.
+authors: Gallegos Ruiz MI, Floor K, Roepman P, Rodriguez JA, Meijer GA, Mooi WJ, Jassem
+  E, Niklinski J, Muley T, van Zandwijk N, Smit EF, Beebe K, Neckers L, Ylstra B and
+  Giaccone G.
+cancertypes:
+- samples_arraymap: 32
+  samples_progenetix: ~
+  term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- samples_arraymap: 32
+  samples_progenetix: ~
+  term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- samples_arraymap: 32
+  samples_progenetix: ~
+  term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- samples_arraymap: 32
+  samples_progenetix: ~
+  term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- samples_arraymap: 32
+  samples_progenetix: ~
+  term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
+contact:
+  email: giacconeg@mail.nih.gov
+  name: Giuseppe Giaccone
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18320023
+- geo:GSE7878
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'PLoS One 3, 3 (2008): e0001722.'
+label: 'Gallegos Ruiz et al. (2008): Integration of Gene Dosage and Gene Expression
+  in Non-Small Cell Lung Cancer, ...'
+notes: ~
+pmid: 18320023
+title: Integration of Gene Dosage and Gene Expression in Non-Small Cell Lung Cancer,
+  Identification of Hsp90 as Potential Target.
+year: 2008

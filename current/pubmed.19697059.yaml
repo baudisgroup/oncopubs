@@ -1,0 +1,55 @@
+---
+abstract: DNA copy-number gains of chromosomes 8q, 13q, and 20q are frequently observed
+  in gastric cancers. Moreover gain of chromosome 20q has been associated with lymph
+  node metastasis. The aim of this study was to correlate DNA copy-number changes
+  of individual genes on chromosomes 8q, 13q, and 20q in gastric adenocarcinomas to
+  clinicopathological data. DNA isolated from 63 formalin-fixed and paraffin-embedded
+  gastric adenocarcinoma tissue samples was analyzed by whole-genome microarray comparative
+  genomic hybridization and by multiplex ligation-dependent probe amplification MLPA
+  , targeting 58 individual genes on chromosomes 8, 13, and 20. Using array comparative
+  genomic hybridization, gains on 8q, 13q, and 20q were observed in 49 77.8 , 25 39.7
+  , and 49 77.8 gastric adenocarcinomas, respectively. Gain of chromosome 20q was
+  significantly correlated with lymph node metastases p 0.05 and histological type
+  p 0.02 . MLPA revealed several genes to be frequently gained in DNA copy number.
+  The oncogene c-myc on 8q was gained in 73 of the cancers, while FOXO1A and ATP7B
+  on 13q were both gained in 28.6 of the cases. Multiple genes on chromosome 20q showed
+  gains in more than 60 of the cancers. DNA copy-number gains of TNFRSF6B 20q13.3
+  and ZNF217 20q13.2 were significantly associated with lymph node metastasis p 0.02
+  and histological type p 0.02 , respectively. In summary, gains of chromosomes 8q,
+  13q, and 20q in gastric adenocarcinomas harbor DNA copy-number gains of known and
+  putative oncogenes. ZNF217 and TNFRSF6B are associated with important clinicopathological
+  variables, including lymph node status.
+authors: Buffart TE, van Grieken NC, Tijssen M, Coffa J, Ylstra B, Grabsch HI, van
+  de Velde CJ, Carvalho B and Meijer GA.
+cancertypes: []
+contact:
+  email: ga.meijer@vumc.nl
+  name: Gerrit A Meijer
+counts:
+  biosamples: 63
+  samples_acgh: 63
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19697059
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Virchows Arch 455, 3 (2009): 213-23.'
+label: 'Buffart et al. (2009): High Resolution Analysis of DNA Copy-Number Aberrations
+  of Chromosomes 8, 13, and 20 in Gastric ...'
+notes: ~
+pmid: 19697059
+title: High Resolution Analysis of DNA Copy-Number Aberrations of Chromosomes 8, 13,
+  and 20 in Gastric Cancers.
+year: 2009

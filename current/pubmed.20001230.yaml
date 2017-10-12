@@ -1,0 +1,69 @@
+---
+abstract: We studied a series of 68 subjects diagnosed with childhood acute myeloid
+  leukemia AML using conventional cytogenetics and fluorescence in situ hybridization
+  FISH , polymerase chain reaction PCR to analyze mutations in FLT3 and NPM1 genes,
+  and or array comparative genomic hybridization CGH . Cytogenetic FISH abnormalities
+  were observed in 71 of subjects, FLT3-ITD mutations in 15 , and NPM1 mutations in
+  13 . The array CGH alterations average 3.6 per case were observed in 96 of the tested
+  subjects. The most frequent alterations were gains of 8q24.3 and 11p15.5-p15.4 in
+  16 of the samples. Six genes AKT1, RUNX1, LTB, SDC1, RUNX1T1, and JAK2 from the
+  imbalanced regions have been reported to be involved in AML, whereas other 30 cancer
+  genes, not previously reported in an AML context, were identified as imbalanced.
+  They probably correspond to non passenger alterations that cooperate with the recurrent
+  translocations. The clinical data and genetic changes were tested to find out the
+  possible association with prognosis. Genomic instability four or more genomic imbalances
+  was correlated with poor patient outcome p 0.029 .
+authors: Armengol G, Canellas A, Alvarez Y, Bastida P, Toledo JS, Perez-Iribarne MD,
+  Camos M, Tuset E, Estella J, Coll MD, Caballin MR, and Knuutila S.
+cancertypes:
+- samples_arraymap: 23
+  samples_progenetix: 24
+  term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- samples_arraymap: 23
+  samples_progenetix: 24
+  term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- samples_arraymap: 23
+  samples_progenetix: 24
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 23
+  samples_progenetix: 24
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: 23
+  samples_progenetix: 24
+  term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+contact:
+  email: gemma.armengol@uab.cat
+  name: Gemma Armengol
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20001230
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Leuk Lymphoma, 2009.
+label: 'Armengol et al. (2009): Genetic changes including gene copy number alterations
+  and their relation to prognosis in ...'
+notes: ~
+pmid: 20001230
+title: Genetic changes including gene copy number alterations and their relation to
+  prognosis in childhood acute myeloid leukemia.
+year: 2009

@@ -1,0 +1,70 @@
+---
+abstract: DNA copy number changes were investigated in 29 leiomyosarcomas by comparative
+  genomic hybridization. The most frequent losses were detected in 10q 20 cases, 69
+  and 13q 17 cases, 59 . The most frequent gains were detected in 17p 16 cases, 55
+  . The most frequent high-level amplifications were detected in 17p 7 cases, 24 and
+  8q 6 cases, 21 . A total of 137 losses and 204 gains were detected. Small tumors
+  less than 5 cm in diameter displayed fewer changes per sample 3 to 11 mean, 7 than
+  the other tumors 4 to 22 mean, 13 . There was an increase in the number of gains
+  from small tumors mean, 4 to very large tumors amp gt 20 cm mean, 10 . However,
+  the number of losses was similar in small, large, and very large tumors mean, 4.5
+  . Tumor size-related aberrations were observed. Gains in 16p were detected in all
+  small tumors but were infrequent in large and very large tumors 27 and 11 , respectively
+  . Similarly, gains and high-level amplifications in 17p were more common in small
+  80 than in very large tumors 33 . Gains in 1q, 5p, 6q, and 8q were not seen in any
+  of the small tumors but were detected in large and very large tumors. Gains in 6q
+  and 8q occurred in 8 of 9 cases 89 of very large tumors, 5 of them with a high-level
+  amplification in 8q.
+authors: El-Rifai W, Sarlomo-Rikala M, Knuutila S and Miettinen M.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
+contact:
+  email: wael.el-rifai@Vanderbilt.Edu
+  name: W. El-Rifai
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9736047
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Am J Pathol 153, 3 (1998): 985-90.'
+label: 'El-Rifai et al. (1998): DNA Copy Number Changes in Development and Progression
+  in Leiomyosarcomas of Soft ...'
+notes: ~
+pmid: 9736047
+title: DNA Copy Number Changes in Development and Progression in Leiomyosarcomas of
+  Soft Tissues.
+year: 1998

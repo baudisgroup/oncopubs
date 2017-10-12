@@ -1,0 +1,66 @@
+---
+abstract: 'Numerical and structural chromosomal abnormalities are common in hematological
+  malignancies. Near-triploidy 58-80 chromosomes is a numerical abnormality observed
+  in 3 of adult cases of acute lymphoblastic leukemia. Near-triploidy is rare in myeloid
+  lineage hematologic malignancies and compared to near-triploidy in lymphoid malignancies,
+  near-triploidy in myeloid malignancies is associated with poor outcomes. Few studies
+  on near-triploidy in myelodysplastic syndrome MDS have been reported, and the clinicopathologic
+  significance of this condition is still unclear. Here, we report a novel case of
+  MDS with near-triploidy and multiple structural chromosomal abnormalities: del 5q
+  combined with del 1p and del 13q . These abnormalities were detected by cytogenetic
+  analysis with array comparative genomic hybridization CGH . Our results suggest
+  that array CGH can be a useful tool for detecting chromosomal abnormalities in patients
+  with MDS.'
+authors: Kim BR, Kim JE, Woo KS, Kim KH, Kim JM, Lee S, Shaffer LG and Han JY.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
+contact:
+  email: jyhan@dau.ac.kr
+  name: Jin-Yeong Han
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22779072
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.04
+    - 35.1
+    type: Point
+  info:
+    city: Busan
+    continent: Asia
+    country: Korean Republic
+    label: Busan, Korean Republic, Asia
+    precision: city
+journal: 'Ann Lab Med 32, 4 (2012): 294-97.'
+label: 'Kim et al. (2012): A Case of Near-Triploidy in Myelodysplastic Syndrome With
+  Del(5q) Combined With Del(1p) and ...'
+notes: ~
+pmid: 22779072
+title: A Case of Near-Triploidy in Myelodysplastic Syndrome With Del(5q) Combined
+  With Del(1p) and Del(13q).
+year: 2012

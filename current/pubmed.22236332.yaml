@@ -1,0 +1,49 @@
+---
+abstract: Molecular characterization of tumour cell lines is increasingly regarded
+  as a prerequisite for defining their validity as models of in vivo neoplasia. We
+  present the first comprehensive catalogue of genomic and transcriptional characteristics
+  of five widely used canine lymphoid tumour cell lines. High-resolution microarray-based
+  comparative genomic hybridization defined their unique profiles of genomic DNA copy
+  number imbalance. Multicolour fluorescence in situ hybridization identified aberrant
+  gains of MYC, KIT and FLT3 and deletions of PTEN and CDKN2 in individual cell lines,
+  and also revealed examples of extensive structural chromosome reorganization. Gene
+  expression profiling and RT-PCR analyses defined the relationship between genomic
+  imbalance and transcriptional dysregulation in each cell line, clarifying their
+  relevance as models of discrete functional pathways with biological and therapeutic
+  significance. In combination, these data provide an extensive resource of molecular
+  data for directing the appropriate use of these cell lines as tools for studying
+  canine lymphoid neoplasia.
+authors: Seiser EL, Thomas R, Richards KL, Kathryn Kelley M, Moore P, Suter SE and
+  Breen M.
+cancertypes: []
+contact:
+  email: Matthew_Breen@ncsu.edu
+  name: Matthew Breen
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22236332
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.64
+    - 35.77
+    type: Point
+  info:
+    city: Raleigh
+    continent: North America
+    country: United States
+    label: Raleigh, United States, North America
+    precision: city
+journal: Vet Comp Oncol (2011)
+label: 'Seiser et al. (2011): Reading Between the Lines: Molecular Characterization
+  of Five Widely Used Canine Lymphoid Tumour ...'
+notes: ~
+pmid: 22236332
+title: 'Reading Between the Lines: Molecular Characterization of Five Widely Used
+  Canine Lymphoid Tumour Cell Lines.'
+year: 2011

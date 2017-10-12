@@ -1,0 +1,72 @@
+---
+abstract: Comparative genomic hybridization CGH allows the study of DNA copy number
+  changes in a single hybridization from tumor DNA without any cell culture. Three
+  reports of childhood acute lymphoblastic leukemia ALL studied by CGH have been published
+  so far, with somewhat discrepant results. In the present study we performed CGH
+  analysis on 36 patients with childhood ALL. The results were compared to those reported
+  earlier on 157 cases.
+authors: Larramendy ML, Huhta T, Heinonen K, Vettenranta K, Mahlamaki E, Riikonen
+  P, Saarinen-Pihkala UM and Knuutila S.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- samples_arraymap: ~
+  samples_progenetix: 36
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 36
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9830797
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Haematologica 83, 10 (1998): 890-95.'
+label: 'Larramendy et al. (1998): DNA Copy Number Changes in Childhood Acute Lymphoblastic
+  Leukemia.'
+notes: ~
+pmid: 9830797
+title: DNA Copy Number Changes in Childhood Acute Lymphoblastic Leukemia.
+year: 1998

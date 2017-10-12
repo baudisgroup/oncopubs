@@ -1,0 +1,52 @@
+---
+abstract: Neuroblastoma is a malignancy of the developing sympathetic nervous system
+  that is often lethal when relapse occurs. We here used whole-exome sequencing, mRNA
+  expression profiling, array CGH and DNA methylation analysis to characterize 16
+  paired samples at diagnosis and relapse from individuals with neuroblastoma. The
+  mutational burden significantly increased in relapsing tumors, accompanied by altered
+  mutational signatures and reduced subclonal heterogeneity. Global allele frequencies
+  at relapse indicated clonal mutation selection during disease progression. Promoter
+  methylation patterns were consistent over disease course and were patient specific.
+  Recurrent alterations at relapse included mutations in the putative CHD5 neuroblastoma
+  tumor suppressor, chromosome 9p losses, DOCK8 mutations, inactivating mutations
+  in PTPN14 and a relapse-specific activity pattern for the PTPN14 target YAP. Recurrent
+  new mutations in HRAS, KRAS and genes mediating cell-cell interaction in 13 of 16
+  relapse tumors indicate disturbances in signaling pathways mediating mesenchymal
+  transition. Our data shed light on genetic alteration frequency, identity and evolution
+  in neuroblastoma.
+authors: Schramm A, Kï¿½ster J, Assenov Y, Althoff K, Peifer M, Mahlow E, Odersky
+  A, Beisser D, Ernst C, Henssen AG, Stephan H, Schrï¿½der C, Heukamp L, Engesser
+  A, Kahlert Y, Theissen J, Hero B, Roels F, Altmï¿½ller J, Nï¿½rnberg P, Astrahantseff
+  K, Gloeckner C, De Preter K, Plass C, Lee S, Lode HN, Henrich KO, Gartlgruber M,
+  Speleman F, Schmezer P, Westermann F, Rahmann S, Fischer M, Eggert A and Schulte
+  JH
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 32
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26121086
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Nat. Genet., 2015
+label: 'Schramm A et al. (2015): '
+notes: ~
+pmid: 26121086
+title: Mutational dynamics between primary and relapse neuroblastomas.
+year: 2015

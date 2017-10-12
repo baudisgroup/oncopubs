@@ -1,0 +1,67 @@
+---
+abstract: In this study, we genetically characterized parathyroid adenomas with large
+  glandular weights, for which independent observations suggest pronounced clinical
+  manifestations. Large parathyroid adenomas (LPTAs) were defined as the 5% largest
+  sporadic parathyroid adenomas identified among the 590 cases operated in our institution
+  during 2005-2009. The LPTA group showed a higher relative number of male cases and
+  significantly higher levels of total plasma and ionized serum calcium (P<0.001).
+  Further analysis of 21 LPTAs revealed low MIB1 proliferation index (0.1-1.5%), MEN1
+  mutations in five cases, and one HRPT2 (CDC73) mutation. Total or partial loss of
+  parafibromin expression was observed in ten tumors, two of which also showed loss
+  of APC expression. Using array CGH, we demonstrated recurrent copy number alterations
+  most frequently involving loss in 1p (29%), gain in 5 (38%), and loss in 11q (33%).
+  Totally, 21 minimal overlapping regions were defined for losses in 1p, 7q, 9p, 11,
+  and 15q and gains in 3q, 5, 7p, 8p, 16q, 17p, and 19q. In addition, 12 tumors showed
+  gross alterations of entire or almost entire chromosomes most frequently gain of
+  5 and loss of chromosome 11. While gain of 5 was the most frequent alteration observed
+  in LPTAs, it was only detected in a small proportion (4/58 cases, 7%) of parathyroid
+  adenomas. A significant positive correlation was observed between parathyroid hormone
+  level and total copy number gain (r=0.48, P=0.031). These results support that LPTAs
+  represent a group of patients with pronounced parathyroid hyperfunction and associated
+  with specific genomic features.
+authors: Sulaiman L, Nilsson IL, Juhlin CC, Haglund F, Hï¿½ï¿½g A, Larsson C and Hashemi
+  J
+cancertypes:
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: ncit:C27380
+  term_label: Thyroid Gland Adenocarcinoma
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:seer:32010
+  term_label: Thyroid
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+contact:
+  email: catharina.larsson@ki.se
+  name: ~
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22454399
+- geo:GSE36511
+journal: Endocr. Relat. Cancer 19(3), 2012
+label: 'Sulaiman L et al. (2012): '
+notes: "Array CGH was performed for LPTA cases 1â\x80\x9321 using human BAC 38K arrays
+  generated at the SCIBLU Genomics Centre at Lund University, Sweden"
+pmid: 22454399
+title: Genetic characterization of large parathyroid adenomas.
+year: 2012

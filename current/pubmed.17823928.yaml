@@ -1,0 +1,81 @@
+---
+abstract: Primary mediastinal B-cell lymphoma PMBCL is a distinct subtype of diffuse
+  large B-cell lymphoma. PMBCL has been previously studied with a variety of genomic
+  techniques resulting in frequent detection of chromosomal gains however, chromosomal
+  losses have been rarely reported. This finding contrasts many other types of lymphoma,
+  in which deletions are common. We hypothesize that segmental losses do exist but
+  may have escaped detection by methods used in the previous studies. Using array
+  comparative genomic hybridization to a tiling-resolution microarray encompassing
+  the entire human genome, PMBCL samples were analyzed for genomic copy number alterations.
+  An almost equal number of gains and losses of chromosomal material were detected
+  throughout the genome 216 vs. 193, respectively . A selection of these DNA copy
+  number alterations were confirmed by quantitative real-time PCR. Recurrent gains
+  were detected at all previously reported regions of gain, including 9p seen in approximately
+  70 of cases. Recurrent chromosomal losses were observed at 1p, 3p, 4q, 6q, 7p, and
+  17p, with a novel event at 1p13.1-p13.2 representing the most frequent at 42 of
+  cases analyzed. We conclude that consistent losses are present in the PMBCL genome.
+  Given the similar frequency of losses to that of segmental gains of DNA, they are
+  likely to play an important role in the pathogenesis of PMBCL.
+authors: Kimm LR, de Leeuw RJ, Savage KJ, Rosenwald A, Campo E, Delabie J, Ott G,
+  Muller-Hermelink HK, Jaffe ES, Rimsza LM, Weisenburger DD, Chan WC, Staudt LM, Connors
+  JM, Gascoyne RD and Lam WL.
+cancertypes:
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: ncit:C9280
+  term_label: Mediastinal (Thymic) Large B-Cell Lymphoma
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdom:9679_3
+  term_label: Mediastinal large B-cell lymphoma
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdot:C38
+  term_label: mediastinum
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: pgx:seer:None
+  term_label: ~
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: snmi:M-96793
+  term_label: Mediastinal large B-cell lymphoma
+contact:
+  email: rdeleeuw@bccrc.ca
+  name: Ronald J. deLeeuw
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17823928
+- geo:GSE7383
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 46, 12 (2007): 1090-97.'
+label: 'Kimm et al. (2007): Frequent Occurrence of Deletions in Primary Mediastinal
+  B-Cell Lymphoma.'
+notes: ~
+pmid: 17823928
+title: Frequent Occurrence of Deletions in Primary Mediastinal B-Cell Lymphoma.
+year: 2007

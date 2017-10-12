@@ -1,0 +1,60 @@
+---
+abstract: Infiltrating lobular breast cancer ILBC is a clinically and biologically
+  distinct tumour entity defined by a characteristic linear cord invasion pattern
+  and inactivation of the CDH1 tumour suppressor gene encoding for E-cadherin. ILBCs
+  also lack beta-catenin expression and show aberrant cytoplasmic localization of
+  the E-cadherin binding protein p120-catenin. The lack of a well-characterized ILBC
+  cell line has hampered the functional characterization of ILBC cells in vitro. We
+  report the establishment of a permanent ILBC cell line, named IPH-926, which was
+  derived from a patient with metastatic ILBC. The DNA fingerprint of IPH-926 verified
+  genetic identity with the patient and had no match among the human cell line collections
+  of several international biological resource banks. IPH-926 expressed various epithelial
+  cell markers but lacked expression of E-cadherin due to a previously unreported,
+  homozygous CDH1 241ins4 frameshift mutation. Detection of the same CDH1 241ins4
+  mutation in archival tumour tissue of the corresponding primary ILBC proved the
+  clonal origin of IPH-926 from this particular tumour. IPH-926 also lacked beta-catenin
+  expression and showed aberrant cytoplasmic localization of p120-catenin. Array-CGH
+  analysis of IPH-926 revealed a profile of genomic imbalances that included many
+  distinct alterations previously observed in primary ILBCs. Spectral karyotyping
+  of IPH-926 showed a hyperdiploid chromosome complement and numerous clonal, structural
+  aberrations. IPH-926 cells were anti-cancer drug-resistant, clonogenic in soft agar,
+  and tumourigenic in SCID mice. In xenograft tumours, IPH-926 cells recapitulated
+  the linear cord invasion pattern that defines ILBCs. In summary, IPH-926 significantly
+  extends the biological spectrum of the established breast cancer cell lines and
+  will facilitate functional analyses of genuine human ILBC cells in vitro and in
+  vivo.
+authors: Christgen M, Bruchhardt H, Hadamitzky C, Rudolph C, Steinemann D, Gadzicki
+  D, Hasemeier B, Romermann D, Focken T, Krech T, Ballmaier M, Schlegelberger B, Kreipe
+  H and Lehmann U.
+cancertypes: []
+contact:
+  email: Christgen.Matthias@MH-Hannover.de
+  name: Matthias Christgen
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19191266
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: 'J Pathol 217, 5 (2009): 620-32.'
+label: 'Christgen et al. (2009): Comprehensive Genetic and Functional Characterization
+  of Iph-926: A Novel Cdh1-Null Tumour Cell ...'
+notes: ~
+pmid: 19191266
+title: 'Comprehensive Genetic and Functional Characterization of Iph-926: A Novel
+  Cdh1-Null Tumour Cell Line From Human Lobular Breast Cancer.'
+year: 2009

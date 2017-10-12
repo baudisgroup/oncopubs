@@ -1,0 +1,52 @@
+---
+abstract: All colorectal cancer cell lines except RKO displayed active Î²-catenin/TCF
+  regulated transcription. This feature of RKO was noted in familial colon cancers;
+  hence our aim was to dissect its carcinogenic mechanism. MFISH and CGH revealed
+  distinct instability of chromosome structure in RKO. Gene expression microarray
+  of RKO versus 7 colon cancer lines (with active Wnt signaling) and 3 normal specimens
+  revealed 611 differentially expressed genes. The majority of the tested gene loci
+  were susceptible to LOH in primary tumors with various Î²-catenin localizations
+  as a surrogate marker for Î²-catenin activation. The immunohistochemistry of selected
+  genes (IFI16, RGS4, MCTP1, DGKI, OBCAM/OPCML, and GLIPR1) confirmed that they were
+  differentially expressed in clinical specimens. Since epigenetic mechanisms can
+  contribute to expression changes, selected target genes were evaluated for promoter
+  methylation in patient specimens from sporadic and hereditary colorectal cancers.
+  CMTM3, DGKI, and OPCML were frequently hypermethylated in both groups, whereas KLK10,
+  EPCAM, and DLC1 displayed subgroup specificity. The overall fraction of hypermethylated
+  genes was higher in tumors with membranous Î²-catenin. We identified novel genes
+  in colorectal carcinogenesis that might be useful in personalized tumor profiling.
+  Tumors with inactive Wnt signaling are a heterogeneous group displaying interaction
+  of chromosomal instability, Wnt signaling, and epigenetics.
+authors: Abdel-Rahman WM, Lotsari-Salomaa JE, Kaur S, Niskakoski A, Knuutila S, Jï¿½rvinen
+  H, Mecklin JP and Peltomï¿½ki P
+cancertypes: []
+contact:
+  email: whassan@sharjah.ac.ae
+  name: Wael M. Abdel-Rahman
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27047543
+geo_data:
+  geo_json:
+    coordinates:
+    - 55.41
+    - 25.34
+    type: Point
+  info:
+    city: Sharjah
+    continent: Asia
+    country: Arab Emirates
+    label: Sharjah, Arab Emirates, Asia
+    precision: city
+journal: Gastroenterol Res Pract 2016, 2016
+label: 'Abdel-Rahman WM et al. (2016): '
+notes: CGH data of 1 cell line described in article
+pmid: 27047543
+title: The Role of Chromosomal Instability and Epigenetics in Colorectal Cancers Lacking
+  Î²-Catenin/TCF Regulated Transcription.
+year: 2016

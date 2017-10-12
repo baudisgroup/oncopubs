@@ -1,0 +1,56 @@
+---
+abstract: Patients with Down syndrome (DS) and acute lymphoblastic leukemia (ALL)
+  have distinct clinical and biological features. Whereas most DS-ALL cases lack the
+  sentinel cytogenetic lesions that guide risk assignment in childhood ALL, JAK2 mutations
+  and CRLF2 overexpression are highly enriched. To further characterize the unique
+  biology of DS-ALL, we performed genome-wide profiling of 58 DS-ALL and 68 non-DS
+  (NDS) ALL cases by DNA copy number, loss of heterozygosity, gene expression and
+  methylation analyses. We report a novel deletion within the 6p22 histone gene cluster
+  as significantly more frequent in DS-ALL, occurring in 11 DS (22%) and only 2 NDS
+  cases (3.1%) (Fisher's exact P=0.002). Homozygous deletions yielded significantly
+  lower histone expression levels, and were associated with higher methylation levels,
+  distinct spatial localization of methylated promoters and enrichment of highly methylated
+  genes for specific pathways and transcription factor-binding motifs. Gene expression
+  profiling demonstrated heterogeneity of DS-ALL cases overall, with supervised analysis
+  defining a 45-transcript signature associated with CRLF2 overexpression. Further
+  characterization of pathways associated with histone deletions may identify opportunities
+  for novel targeted interventions.
+authors: Loudin MG, Wang J, Leung HC, Gurusiddappa S, Meyer J, Condos G, Morrison
+  D, Tsimelzon A, Devidas M, Heerema NA, Carroll AJ, Plon SE, Hunger SP, Basso G,
+  Pession A, Bhojwani D, Carroll WL, Rabin KR.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: exleung@txccc.org
+  name: Hon-chiu Eastwood Leung
+counts:
+  biosamples: 126
+  samples_acgh: 126
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21647151
+- geo:GSE21091
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Leukemia 25(10), 2011
+label: ' (2011): '
+notes: The series contains additional germline Down syndrome and control samples.
+pmid: 21647151
+title: Genomic profiling in Down syndrome acute lymphoblastic leukemia identifies
+  histone gene deletions associated with altered methylation profiles.
+year: 2011

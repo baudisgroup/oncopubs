@@ -1,0 +1,49 @@
+---
+abstract: The amplification or gain of the p-arm of chromosome 17 is common in sarcomas,
+  suggesting its role in carcinogenesis. Here, we report the architectural structure
+  and targets of 17p aberrations commonly shared by osteosarcoma OS , leiomyosarcoma
+  LMS and malignant fibrous histiocytoma MFH of soft tissue. Two low-grade and two
+  high-grade soft tissue LMS, three OS, and two MFH samples were studied using fine-resolution
+  oligonucleotide-based microarray comparative genomic hybridization. Eight of the
+  nine samples showed a loss of 17pter-- amp gt p13, the locus of tumor suppressor
+  TP53 preceding the amplified area 17p12-- amp gt p11.2. The size and detailed architecture
+  of the amplified region of 17p differed between the studied sarcoma entities. OS
+  and high-grade LMS showed similar complex patterns of discontinuous amplifications
+  with regions of gain in between. MFH and low-grade LMS showed continuous regions
+  of gains and amplifications. Precise boundaries of the lost or gained regions were
+  determined, and in addition to the previously suggested targets of the region, ELAC
+  and FLCN were amplified in all the sarcoma entities.
+authors: Kaur S, Larramendy ML, Vauhkonen H, Bohling T and Knuutila S.
+cancertypes: []
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17317953
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 116, 3 (2007): 153-57.'
+label: 'Kaur et al. (2007): Loss of Tp53 in Sarcomas With 17p12 to Approximately P11
+  Gain. A Fine-Resolution Oligonucleotide ...'
+notes: Though whole-genome aCGH was performed, only results from chromosome 17 were
+  reported.
+pmid: 17317953
+title: Loss of Tp53 in Sarcomas With 17p12 to Approximately P11 Gain. A Fine-Resolution
+  Oligonucleotide Array Comparative Genomic Hybridization Study.
+year: 2007

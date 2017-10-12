@@ -1,0 +1,88 @@
+---
+abstract: To identify putative biomarkers in squamous cell carcinoma SCC , a survey
+  of parallel chromosomal alterations and gene expression studies in 10 SCC cell lines
+  were performed using array-comparative genomic hybridization CGH and oligo-microarray
+  techniques. The most frequent changes were gains of 11q13.1-13.3 and losses of 18q12.1-23
+  in SCC. Furthermore, the expression levels of the sets of genes at both these loci
+  in SCC were measured using microarray analysis. By combining the array-CGH with
+  the microarray data, 10 genes at 11q13.1-13.3 and 6 genes at 18q12.1-23 whose expression
+  correlated with chromosomal alterations were identified. To verify the expression
+  levels of the identified genes, we used expression analysis data derived from our
+  earlier study of clinical specimens. In clinical samples, six genes GAL, GSTP1,
+  MRPL11, MRPL21, SF3B2, and YIF1A at 11q13.1-13.3 and one gene GALR1 at 18q23 showed
+  a significant difference between normal and tumor samples. GAL, coding for the neuropeptide
+  galanin, and GALR1, a galanin receptor, were identified as candidate genes of oncogenesis
+  in SCC. The expression levels of GAL, GALR1, GALR2, and GALR3 were confirmed by
+  real-time PCR. The expression ratio between GAL and GALR1 showed a significant negative
+  correlation. GALR1 is a G-protein-coupled receptor that activates GTP-binding proteins
+  to trigger signaling cascades such as the mitogen-activated protein kinase pathway,
+  and is a well-established mitogenic pathway. This further supports the hypothesis
+  that the genes involved in the GAL signaling cascade are candidates for regulation
+  of oncogenesis in SCC.
+authors: Sugimoto T, Seki N, Shimizu S, Kikkawa N, Tsukada J, Shimada H, Sasaki K,
+  Hanazawa T, Okamoto Y and Hata A.
+cancertypes:
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C15
+  term_label: esophagus
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:20080
+  term_label: Oropharynx
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:21010
+  term_label: Esophagus
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: naoseki@faculty.chiba-u.jp
+  name: Naohiko Seki
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18973137
+- geo:GSE11938
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: Asia
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 48, 2 (2009): 132-42.'
+label: 'Sugimoto et al. (2009): The Galanin Signaling Cascade is a Candidate Pathway
+  Regulating Oncogenesis in Human Squamous ...'
+notes: ~
+pmid: 18973137
+title: The Galanin Signaling Cascade is a Candidate Pathway Regulating Oncogenesis
+  in Human Squamous Cell Carcinoma.
+year: 2009

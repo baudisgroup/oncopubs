@@ -1,0 +1,49 @@
+---
+abstract: Pediatric osteosarcoma is characterized by multiple somatic chromosomal
+  lesions, including structural variations SVs and copy number alterations CNAs .
+  To define the landscape of somatic mutations in pediatric osteosarcoma, we performed
+  whole-genome sequencing of DNA from 20 osteosarcoma tumor samples and matched normal
+  tissue in a discovery cohort, as well as 14 samples in a validation cohort. Single-nucleotide
+  variations SNVs exhibited a pattern of localized hypermutation called kataegis in
+  50 of the tumors. We identified p53 pathway lesions in all tumors in the discovery
+  cohort, nine of which were translocations in the first intron of the TP53 gene.
+  Beyond TP53, the RB1, ATRX, and DLG2 genes showed recurrent somatic alterations
+  in 29 -53 of the tumors. These data highlight the power of whole-genome sequencing
+  for identifying recurrent somatic alterations in cancer genomes that may be missed
+  using other methods.
+authors: Chen X, Bahrami A, Pappo A, Easton J, Dalton J, Hedlund E, Ellison D, Shurtleff
+  S, Wu G, Wei L, Parker M, Rusch M, Nagahawatte P, Wu J, Mao S, Boggs K, Mulder H,
+  Yergeau D, Lu C, Ding L, Edmonson M, Qu C, Wang J, Li Y, Navid F, Daw NC, Mardis
+  ER, Wilson RK, Downing JR, Zhang J and Dyer MA.
+cancertypes: []
+contact:
+  email: michael.dyer@stjude.org
+  name: Michael A. Dyer
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 34
+external_identifiers:
+- pubmed:24703847
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Cell Rep (2014).
+label: 'Chen et al. (2014): Recurrent Somatic Structural Variations Contribute to
+  Tumorigenesis in Pediatric ...'
+notes: ~
+pmid: 24703847
+title: Recurrent Somatic Structural Variations Contribute to Tumorigenesis in Pediatric
+  Osteosarcoma.
+year: 2014

@@ -1,0 +1,82 @@
+---
+abstract: Pediatric low-grade gliomas (PLGGs) are among the most common solid tumors
+  in children but, apart from BRAF kinase mutations or duplications in specific subclasses,
+  few genetic driver events are known. Diffuse PLGGs comprise a set of uncommon subtypes
+  that exhibit invasive growth and are therefore especially challenging clinically.
+  We performed high-resolution copy-number analysis on 44 formalin-fixed, paraffin-embedded
+  diffuse PLGGs to identify recurrent alterations. Diffuse PLGGs exhibited fewer such
+  alterations than adult low-grade gliomas, but we identified several significantly
+  recurrent events. The most significant event, 8q13.1 gain, was observed in 28% of
+  diffuse astrocytoma grade IIs and resulted in partial duplication of the transcription
+  factor MYBL1 with truncation of its C-terminal negative-regulatory domain. A similar
+  recurrent deletion-truncation breakpoint was identified in two angiocentric gliomas
+  in the related gene v-myb avian myeloblastosis viral oncogene homolog (MYB) on 6q23.3.
+  Whole-genome sequencing of a MYBL1-rearranged diffuse astrocytoma grade II demonstrated
+  MYBL1 tandem duplication and few other events. Truncated MYBL1 transcripts identified
+  in this tumor induced anchorage-independent growth in 3T3 cells and tumor formation
+  in nude mice. Truncated transcripts were also expressed in two additional tumors
+  with MYBL1 partial duplication. Our results define clinically relevant molecular
+  subclasses of diffuse PLGGs and highlight a potential role for the MYB family in
+  the biology of low-grade gliomas.
+authors: Ramkissoon LA, Horowitz PM, Craig JM, Ramkissoon SH, Rich BE, Schumacher
+  SE, McKenna A, Lawrence MS, Bergthold G, Brastianos PK, Tabak B, Ducar MD, Van Hummelen
+  P, MacConaill LE, Pouissant-Young T, Cho YJ, Taha H, Mahmoud M, Bowers DC, Margraf
+  L, Tabori U, Hawkins C, Packer RJ, Hill DA, Pomeroy SL, Eberhart CG, Dunn IF, Goumnerova
+  L, Getz G, Chan JA, Santagata S, Hahn WC, Stiles CD, Ligon AH, Kieran MW, Beroukhim
+  R, Ligon KL.
+cancertypes:
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: ncit:C3059
+  term_label: Glioma
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: snmi:M-93803
+  term_label: Glioma, malignant
+contact:
+  email: ' rameen_beroukhim@dfci.harvard.edu'
+  name: Rameen Beroukhim
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23633565
+- geo:GSE45843
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: North America
+    country: United States
+    label: Cambridge, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 110(20), 2013
+label: ' (2013): '
+notes: ~
+pmid: 23633565
+title: Genomic analysis of diffuse pediatric low-grade gliomas identifies recurrent
+  oncogenic truncating rearrangements in the transcription factor MYBL1.
+year: 2013

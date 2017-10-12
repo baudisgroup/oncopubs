@@ -1,0 +1,41 @@
+---
+abstract: Glioblastoma spheroid cultures are enriched in tumor stem-like cells and
+  therefore may be more representative of the respective primary tumors than conventional
+  monolayer cultures. We exploited the glioma spheroid culture model to find novel
+  tumor-relevant genes.
+authors: Ernst A, Hofmann S, Ahmadi R, Becker N, Korshunov A, Engel F, Hartmann C,
+  Felsberg J, Sabel M, Peterziel H, Durchdewald M, Hess J, Barbus S, Campos B, Starzinski-Powitz
+  A, Unterberg A, Reifenberger G, Lichter P, Herold-Mende C and Radlwimmer B.
+cancertypes: []
+contact:
+  email: b.radlwimmer@dkfz-heidelberg.de
+  name: Bernhard Radlwimmer
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19861460
+- geo:GSE14824
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Clin Cancer Res 15, 21 (2009): 6541-50.'
+label: 'Ernst et al. (2009): Genomic and Expression Profiling of Glioblastoma Stem
+  Cell-Like Spheroid Cultures Identifies Novel ...'
+notes: ~
+pmid: 19861460
+title: Genomic and Expression Profiling of Glioblastoma Stem Cell-Like Spheroid Cultures
+  Identifies Novel Tumor-Relevant Genes Associated With Survival.
+year: 2009

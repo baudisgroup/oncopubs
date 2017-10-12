@@ -1,0 +1,40 @@
+---
+abstract: The literature data show that the most frequently affected chromosomes in
+  ovarian carcinogenesis are 1, 8 and 17. In the present study we aimed to define
+  more precisely at a high resolution the genomic imbalances of these chromosomes
+  in ovarian cancer and to determine genomic markers separating tumors of different
+  histological types and stages.
+authors: Dimova I, Orsetti B, Negre V, Rouge C, Ursule L, Lasorsa L, Dimitrov R, Doganov
+  N, Toncheva D and Theillet C.
+cancertypes: []
+contact:
+  email: ~
+  name: Ivanka Dimova
+counts:
+  biosamples: 28
+  samples_acgh: 28
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19688977
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.32
+    - 42.7
+    type: Point
+  info:
+    city: Sofia
+    continent: Europe
+    country: Bulgaria
+    label: Sofia, Bulgaria, Europe
+    precision: city
+journal: 'Tumori 95, 3 (2009): 357-66.'
+label: 'Dimova et al. (2009): Genomic Markers for Ovarian Cancer At Chromosomes 1,
+  8 and 17 Revealed By Array Cgh ...'
+notes: ~
+pmid: 19688977
+title: Genomic Markers for Ovarian Cancer At Chromosomes 1, 8 and 17 Revealed By Array
+  Cgh Analysis.
+year: 2009

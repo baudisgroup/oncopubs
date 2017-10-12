@@ -1,0 +1,47 @@
+---
+abstract: Infiltrating lobular carcinoma ILC and infiltrating ductal carcinoma IDC
+  are distinguished by their histopathological appearance. However, little is known
+  about the differences in genetic changes between lobular cancers and ductal cancers.
+  We used comparative genomic hybridization CGH and compared aberrations in 19 ILCs
+  and 46 IDCs. The total number of aberrations was lower in ILC than in IDC. While
+  the average number of DNA copy number losses did not reach significance between
+  them, copy number gains were significantly lower in ILCs. Fifteen of 19 ILCs 79
+  showed increased copy number of 1q, and 12 cases 63 revealed loss of 16q. The presence
+  of these aberrations was independent of nodal status, histologic subtypes pleomorphic
+  or classic ILC , or BrdUrd-labeling index. ILCs had a higher frequency of 16q loss
+  than did ductal cancers, and a lower frequency of 8q and 20q gains. Our data suggest
+  that the altered growth pattern and clinical presentation which characterize infiltrating
+  lobular cancers are correlated with distinct genetic alterations.
+authors: Nishizaki T, Chew K, Chu L, Isola J, Kallioniemi A, Weidner N and Waldman
+  FM.
+cancertypes: []
+contact:
+  email: nishi-ygc@umin.u-tokyo.ac.jp
+  name: Takafumi Nishizaki
+counts:
+  biosamples: 65
+  samples_acgh: 0
+  samples_ccgh: 65
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9355973
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Int J Cancer 74, 5 (1997): 513-17.'
+label: 'Nishizaki et al. (1997): Genetic Alterations in Lobular Breast Cancer By Comparative
+  Genomic Hybridization.'
+notes: ~
+pmid: 9355973
+title: Genetic Alterations in Lobular Breast Cancer By Comparative Genomic Hybridization.
+year: 1997

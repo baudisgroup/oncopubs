@@ -1,0 +1,52 @@
+---
+abstract: Pancreatic ductal adenocarcinoma (PDA) has a dismal prognosis and insights
+  into both disease etiology and targeted intervention are needed. A total of 109
+  micro-dissected PDA cases were subjected to whole-exome sequencing. Microdissection
+  enriches tumour cellularity and enhances mutation calling. Here we show that environmental
+  stress and alterations in DNA repair genes associate with distinct mutation spectra.
+  Copy number alterations target multiple tumour suppressive/oncogenic loci; however,
+  amplification of MYC is uniquely associated with poor outcome and adenosquamous
+  subtype. We identify multiple novel mutated genes in PDA, with select genes harbouring
+  prognostic significance. RBM10 mutations associate with longer survival in spite
+  of histological features of aggressive disease. KRAS mutations are observed in >90%
+  of cases, but codon Q61 alleles are selectively associated with improved survival.
+  Oncogenic BRAF mutations are mutually exclusive with KRAS and define sensitivity
+  to vemurafenib in PDA models. High-frequency alterations in Wnt signalling, chromatin
+  remodelling, Hedgehog signalling, DNA repair and cell cycle processes are observed.
+  Together, these data delineate new genetic diversity of PDA and provide insights
+  into prognostic determinants and therapeutic targets.
+authors: Witkiewicz AK, McMillan EA, Balaji U, Baek G, Lin WC, Mansour J, Mollaee
+  M, Wagner KU, Koduru P, Yopp A, Choti MA, Yeo CJ, McCue P, White MA and Knudsen
+  ES
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 109
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 109
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25855536
+geo_data:
+  geo_json:
+    coordinates:
+    - -96.81
+    - 32.78
+    type: Point
+  info:
+    city: Dallas
+    continent: North America
+    country: United States
+    label: Dallas, United States, North America
+    precision: city
+journal: Nat Commun 6, 2015
+label: 'Witkiewicz et al. (): Whole-exome sequencing of pancreatic cancer defines
+  genetic diversity and therapeutic ...'
+notes: ~
+pmid: 25855536
+title: Whole-exome sequencing of pancreatic cancer defines genetic diversity and therapeutic
+  targets.
+year: 2015

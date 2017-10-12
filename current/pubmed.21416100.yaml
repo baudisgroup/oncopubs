@@ -1,0 +1,52 @@
+---
+abstract: In animal and laboratory models, cancer-associated stroma, or elements of
+  the supporting tissue surrounding a primary tumor, has been shown to be necessary
+  for tumor evolution and progression. However, little is understood or studied regarding
+  the properties of intact stroma in human cancer in vivo. In addition, for breast
+  cancer patients, the optimal volume of local tissue to treat surrounding a primary
+  tumor is not clear. Here, we performed an interdisciplinary study of normal-appearing
+  breast tissue using breast magnetic resonance imaging MRI , correlative histology
+  and array comparative genomic hybridization to identify a cancer-associated stroma
+  in humans. Using a novel technique for segmenting breast fibroglandular tissue,
+  quantifiable topographic percent enhancement mapping of the stroma surrounding invasive
+  breast cancer was found to be significantly elevated within 2 cm of the tumor edge.
+  This region was also found to harbor increased microvessel density, and genomic
+  changes that were closely associated with host normal breast tissue. These findings
+  indicate that a cancer-associated stroma may be identified and characterized in
+  human breast cancer using non-invasive imaging techniques. Identification of a cancer-associated
+  stroma may be further developed to help guide local therapy to reduce recurrence
+  and morbidity in breast cancer patients.
+authors: Nabavizadeh N, Klifa C, Newitt D, Lu Y, Chen YY, Hsu H, Fisher C, Tokayasu
+  T, Olshen AB, Spellman P, Gray JW, Hylton N and Park CC.
+cancertypes: []
+contact:
+  email: ~
+  name: Catherine Park
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21416100
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Integr Biol (Camb) 3, 4 (2011): 490-96.'
+label: 'Nabavizadeh et al. (2011): Topographic Enhancement Mapping of the Cancer-Associated
+  Breast Stroma Using Breast ...'
+notes: ~
+pmid: 21416100
+title: Topographic Enhancement Mapping of the Cancer-Associated Breast Stroma Using
+  Breast Mri.
+year: 2011

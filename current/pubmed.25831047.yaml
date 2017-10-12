@@ -1,0 +1,51 @@
+---
+abstract: Although ductal carcinoma in situ (DCIS) precedes invasive ductal carcinoma
+  (IDC), the related genomic alterations remain unknown. To identify the genomic landscape
+  of DCIS and better understand the mechanisms behind progression to IDC, we performed
+  whole-exome sequencing and copy number profiling for six cases of pure DCIS and
+  five pairs of synchronous DCIS and IDC. Pure DCIS harbored well-known mutations
+  (e.g., TP53, PIK3CA and AKT1), copy number alterations (CNAs) and chromothripses,
+  but had significantly fewer driver genes and co-occurrence of mutation/CNAs than
+  synchronous DCIS-IDC. We found neither recurrent nor significantly mutated genes
+  with synchronous DCIS-IDC compared to pure DCIS, indicating that there may not be
+  a single determinant for pure DCIS progression to IDC. Of note, synchronous DCIS
+  genomes were closer to IDC than pure DCIS. Among the clinicopathologic parameters,
+  progesterone receptor (PR)-negative status was associated with increased mutations,
+  CNAs, co-occurrence of mutations/CNAs and driver mutations. Our results indicate
+  that although pure DCIS has already acquired some drivers, more changes are needed
+  to progress to IDC. In addition, IDC-associated DCIS is more aggressive than pure
+  DCIS at genomic level and should really be considered IDC. Finally, the data suggest
+  that PR-negativity could be used to predict aggressive breast cancer genotypes.
+authors: Kim SY, Jung SH, Kim MS, Baek IP, Lee SH, Kim TM, Chung YJ and Lee SH
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 16
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25831047
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Oncotarget, 2015
+label: 'Kim et al. (): Genomic differences between pure ductal carcinoma in situ and
+  synchronous ductal carcinoma in situ with ...'
+notes: ~
+pmid: 25831047
+title: Genomic differences between pure ductal carcinoma in situ and synchronous ductal
+  carcinoma in situ with invasive breast cancer.
+year: 2015

@@ -1,0 +1,56 @@
+---
+abstract: 'Mucinous tubular and spindle cell carcinoma (MTSC) of the kidney is a distinct
+  entity characterized by bland tightly packed elongated tubules and spindle cells
+  with low nucleolar grade in a basophilic mucinous stroma. Several case studies have
+  reported MTSC with high grade features and have brought into question whether they
+  represented MTSC or a variant of papillary renal cell carcinoma.We searched our
+  pathology database and identified seven cases: six MTSC with high International
+  Society of Urological Pathology (ISUP) nucleolar grade, and one MTSC with overall
+  low nucleolar grade but extensive necrosis. DNA samples were extracted from paraffin
+  blocks and analyzed using a SNP array platform.Six out of seven patients were female,
+  with ages between 46 to 82 years. Tumour sizes range from 3 to 7.5 cm. One case
+  showed involvement of renal sinus fat and a second case showed involvement of the
+  perinephric fat. All cases shared common chromosomal abnormalities observed with
+  the more typical MTSC, with monosomy of chromosomes 1,4,6,8,9,13,14,15 and 22. Trisomy
+  of chromosomes 7, 17 and loss of Y chromosome were not observed in any of the cases.
+  None of the patients showed evidence of recurrence or metastasis.The molecular analysis
+  performed in this study support that MTSC of the kidney can have high nucleolar
+  grade or extensive necrosis, and that they are not papillary renal cell carcinoma.
+  We support modifying the definition of MTSC to include those with higher nucleolar
+  grade. This article is protected by copyright. All rights reserved.'
+authors: Sadimin ET, Chen YB, Wang L, Argani P, Epstein JI.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: jepstein@jhmi.edu
+  name: J L Epstein
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28656700
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: ~
+    precision: ~
+journal: Histopathology, 2017
+label: ' (2017): '
+notes: ~
+pmid: 28656700
+title: Chromosomal Abnormalities of High Grade Mucinous Tubular and Spindle Cell Carcinoma
+  of the Kidney.
+year: 2017

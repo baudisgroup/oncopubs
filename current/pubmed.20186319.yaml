@@ -1,0 +1,87 @@
+---
+abstract: Recent studies have shown a genetic influence on gene expression variation,
+  chromatin, and DNA methylation. However, the effects of genetic background and tissue
+  types on DNA methylation at the genome-wide level have not been characterized extensively.
+  To study the effect of genetic background and tissue types on global DNA methylation,
+  we performed DNA methylation analysis using the Affymetrix 500K SNP array on tumor,
+  adjacent normal tissue, and blood DNA from 30 patients with esophageal squamous
+  cell carcinoma ESCC . The use of multiple tissues from 30 individuals allowed us
+  to evaluate variation of DNA methylation states across tissues and individuals.
+  Our results demonstrate that blood and esophageal tissues shared similar DNA methylation
+  patterns within the same individual, suggesting an influence of genetic background
+  on DNA methylation. Furthermore, we showed that tissue types are important contributors
+  of DNA methylation states.
+authors: Yang HH, Hu N, Wang C, Ding T, Dunn BK, Goldstein AM, Taylor PR and Lee MP.
+cancertypes:
+- samples_arraymap: 120
+  samples_progenetix: ~
+  term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- samples_arraymap: 240
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 240
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 120
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 240
+  samples_progenetix: ~
+  term_id: pgx:icdot:C15
+  term_label: esophagus
+- samples_arraymap: 120
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 120
+  samples_progenetix: ~
+  term_id: pgx:seer:21010
+  term_label: Esophagus
+- samples_arraymap: 240
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 240
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 120
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: ptaylor@mail.nih.gov
+  name: Philip Taylor
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20186319
+- geo:GSE20123
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'PLoS One 5, 2 (2010): e9355.'
+label: 'Yang et al. (2010): Influence of Genetic Background and Tissue Types on Global
+  DNA Methylation Patterns.'
+notes: ~
+pmid: 20186319
+title: Influence of Genetic Background and Tissue Types on Global DNA Methylation
+  Patterns.
+year: 2010

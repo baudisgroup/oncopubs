@@ -1,0 +1,51 @@
+---
+abstract: HER2-directed therapies, such as trastuzumab and lapatinib, are important
+  treatments for breast cancer. However, some tumors do not respond or develop resistance
+  to these agents. We isolated and characterized multiple lapatinib-resistant, HER2-positive,
+  estrogen receptor ER -positive breast cancer clones derived from lapatinib-sensitive
+  BT474 cells by chronic exposure to lapatinib. We show overexpression of AXL as a
+  novel mechanism of acquired resistance to HER2-targeted agents in these models.
+  GSK1363089 foretinib , a multikinase inhibitor of AXL, MET, and vascular endothelial
+  growth factor receptor currently in phase II clinical trials, restores lapatinib
+  and trastuzumab sensitivity in these resistant cells that exhibit increased AXL
+  expression. Furthermore, small interfering RNA to AXL, estrogen deprivation, or
+  fulvestrant, an ER antagonist, decreases AXL expression and restores sensitivity
+  to lapatinib in these cells. Taken together, these data provide scientific evidence
+  to assess the expression of AXL in HER2-positive, ER-positive patients who have
+  progressed on either lapatinib or trastuzumab and to test the combination of HER2-targeted
+  agents and GSK1363089 in the clinic.
+authors: Liu L, Greger J, Shi H, Liu Y, Greshock J, Annan R, Halsey W, Sathe GM, Martin
+  AM and Gilmer TM.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 151
+  samples_acgh: 151
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19671800
+- geo:GSE7822
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.4
+    - 40.09
+    type: Point
+  info:
+    city: King of Prussia
+    continent: North America
+    country: United States
+    label: King of Prussia, United States, North America
+    precision: city
+journal: 'Cancer Res (2009) 69: 6871-6878.'
+label: 'Liu et al. (2009): Novel mechanism of lapatinib resistance in HER2-positive
+  breast tumor cells: activation of ...'
+notes: ~
+pmid: 19671800
+title: 'Novel mechanism of lapatinib resistance in HER2-positive breast tumor cells:
+  activation of AXL.'
+year: 2009

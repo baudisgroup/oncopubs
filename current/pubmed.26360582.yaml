@@ -1,0 +1,57 @@
+---
+abstract: The present study was aimed at discovering DNA copy number alterations (CNAs)
+  involved in the carcinogenesis of stomach and at understanding their clinicopathological
+  significances in the Korean population. DNA copy numbers were analyzed using Agilent
+  244K or 400K array comparative genomic hybridization (aCGH) in fresh-frozen tumor
+  and matched normal tissues from 40 gastric cancer patients. Some of the detected
+  CNA regions were validated using multiplex ligation-dependent probe amplification
+  (MLPA) in six of the 40 patients and customized Agilent 60K aCGH in an independent
+  set of 48 gastric cancers. The mRNA levels of genes at common CNA regions were analyzed
+  using quantitative real-time PCR. Copy number gains were more common than losses
+  across the entire genome in tumor tissues compared to matched normal tissues. The
+  mean number of alterations per case was 64 for gains and 40 for losses, and the
+  median aberration length was 44016 bp for gains and 4732 bp for losses. Copy number
+  gains were frequently detected at 7p22.1 (20%), 8q24.21 (27%-30%), 8q24.3 (22%-48%),
+  13q34 (20%-31%), and 20q11-q13 (25%-30%), and losses at 3p14.2 (43%), 4q35.2 (27%),
+  6q26 (23%), and 17p13.3 (20%-23%). CNAs at 7p22.1, 13q34, and 17p13.3 have not been
+  reported in other populations. Most of the copy number losses were associated with
+  down-regulation of mRNA levels, but the correlation between copy number gains and
+  mRNA expression levels varied in a gene-dependent manner. In addition, copy number
+  gains tended to occur more commonly in intestinal-type cancers than in diffuse-type
+  cancers. In conclusion, the present study suggests that copy number gains at 8q24
+  and 20q11-q13 and losses at 3p14.2 may be common events in gastric cancer but CNAs
+  at 7p22.1, 13q34, and 17p13.3 may be Korean-specific.
+authors: Jin DH, Park SE, Lee J, Kim KM, Kim S, Kim DH and Park J
+cancertypes: []
+contact:
+  email: jb.park@skku.edu
+  name: Joobae Park
+counts:
+  biosamples: 88
+  samples_acgh: 88
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26360582
+- geo:GSE69318
+- geo:GSE69266
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.01
+    - 37.29
+    type: Point
+  info:
+    city: Suwon-si
+    continent: Asia
+    country: Korean Republic
+    label: Suwon-si, Korean Republic, Asia
+    precision: city
+journal: PLoS ONE 10(9), 2015
+label: 'Jin DH et al. (2015): '
+notes: ~
+pmid: 26360582
+title: Copy Number Gains at 8q24 and 20q11-q13 in Gastric Cancer Are More Common in
+  Intestinal-Type than Diffuse-Type.
+year: 2015

@@ -1,0 +1,51 @@
+---
+abstract: Approximately 10 of patients with chronic lymphocytic leukaemia CLL have
+  a family history of the disease or a related lymphoproliferative disorder, yet the
+  relationship of familial CLL to genomic abnormalities has not been characterized
+  in detail. We therefore studied 75 CLL patients, half familial and half sporadic,
+  using high-resolution array comparative genomic hybridization CGH , in order to
+  better define the relationship of genomic abnormalities to familial disease and
+  other biological prognostic factors. Our results showed that the most common high-risk
+  deletion in CLL, deletion 11q, was significantly associated with sporadic disease.
+  Comparison of familial to sporadic disease additionally identified a copy number
+  variant region near the centromere on 14q, proximal to IGH , in which gains were
+  associated both with familial CLL, and with mutated IGHV and homozygous deletion
+  of 13q. Homozygous deletion of 13q was also found to be associated with mutated
+  IGHV and low expression of ZAP-70, and a significantly longer time to first treatment
+  compared to heterozygous deletion or lack of alteration. This study is the first
+  high resolution effort to investigate and report somatic genetic differences between
+  familial and sporadic CLL.
+authors: Setlur SR, Ihm C, Tchinda J, Shams S, Werner L, Cho EK, Thompson C, Phillips
+  K, Rassenti LZ, Kipps TJ, Neuberg D, Freedman AS, Lee C and Brown JR.
+cancertypes: []
+contact:
+  email: jbrown2@partners.org
+  name: Jennifer Brown
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20812997
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Br J Haematol 151, 4 (2010): 336-45.'
+label: 'Setlur et al. (2010): Comparison of Familial and Sporadic Chronic Lymphocytic
+  Leukaemia Using High Resolution Array ...'
+notes: ~
+pmid: 20812997
+title: Comparison of Familial and Sporadic Chronic Lymphocytic Leukaemia Using High
+  Resolution Array Comparative Genomic Hybridization.
+year: 2010

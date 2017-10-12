@@ -1,0 +1,76 @@
+---
+abstract: 'Oral cancer develops through a series of histopathological stages: through
+  mild low grade , moderate, and severe high grade dysplasia to carcinoma in situ
+  and then invasive disease. Early detection of those oral premalignant lesions OPLs
+  that will develop into invasive tumors is necessary to improve the poor prognosis
+  of oral cancer. Because no tools exist for delineating progression risk in low grade
+  oral lesions, we cannot determine which of these cases require aggressive intervention.
+  We undertook whole genome analysis by tiling-path array comparative genomic hybridization
+  for a rare panel of early and late stage OPLs n 62 , all of which had extensive
+  longitudinal follow up amp gt 10 years . Genome profiles for oral squamous cell
+  carcinomas n 24 were generated for comparison. Parallel analysis of genome alterations
+  and clinical parameters was performed to identify features associated with disease
+  progression. Genome alterations in low grade dysplasias progressing to invasive
+  disease more closely resembled those observed for later stage disease than they
+  did those observed for non-progressing low grade dysplasias. This was despite the
+  histopathological similarity between progressing and non-progressing cases. Strikingly,
+  unbiased computational analysis of genomic alteration data correctly classified
+  nearly all progressing low grade dysplasia cases. Our data demonstrate that high
+  resolution genomic analysis can be used to evaluate progression risk in low grade
+  OPLs, a marked improvement over present histopathological approaches which cannot
+  delineate progression risk. Taken together, our data suggest that whole genome technologies
+  could be used in management strategies for patients presenting with precancerous
+  oral lesions.'
+authors: Garnis C, Chari R, Buys TP, Zhang L, Ng RT, Rosin MP and Lam WL.
+cancertypes:
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: pgx:seer:20080
+  term_label: Oropharynx
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: cgarnis@bccrc.ca
+  name: Cathie Garnis
+counts:
+  biosamples: 86
+  samples_acgh: 86
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19627613
+- geo:GSE11275
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Mol Cancer 8 (2009): 50.'
+label: 'Garnis et al. (2009): Genomic Imbalances in Precancerous Tissues Signal Oral
+  Cancer Risk.'
+notes: ~
+pmid: 19627613
+title: Genomic Imbalances in Precancerous Tissues Signal Oral Cancer Risk.
+year: 2009

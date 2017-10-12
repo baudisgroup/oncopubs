@@ -1,0 +1,61 @@
+---
+abstract: 'Although most human cancers display a single histology, there are unusual
+  cases where two or more distinct tissue types present within a primary tumor. One
+  such example is metaplastic breast carcinoma, a rare but aggressive cancer with
+  a heterogenous histology, including squamous, chondroid, and spindle cells. Metaplastic
+  carcinomas often contain an admixed conventional ductal invasive or in situ mammary
+  carcinoma component, and are typically triple-negative for estrogen receptor, progesterone
+  receptor and human epidermal growth factor receptor 2 (HER-2) amplification/overexpression.
+  An unanswered question is the origin of metaplastic breast cancers. While they may
+  arise independently from their ductal components, their close juxtaposition favors
+  a model that postulates a shared origin, either as two derivatives from the same
+  primary cancer, or one histology as an outgrowth of the other. Understanding the
+  mechanism of development of these tumors may inform clinical decisions.<br /><br
+  />Experimental Design: We performed exome sequencing for paired metaplastic and
+  adjacent conventional invasive ductal carcinomas in eight patients and created a
+  pipeline to identify somatic variants and predict their functional impact, without
+  having normal tissue. We then determined the genetic relationships between the histologically
+  distinct compartments.<br /><br />Results: In each case, the tumor components have
+  nearly identical landscapes of somatic mutation, implying that the differing histologies
+  do not derive from genetic clonal divergence.<br /><br />Conclusions: A shared origin
+  for tumors with differing histologies suggests that epigenetic or noncoding changes
+  may mediate the metaplastic phenotype, and that alternative therapeutic approaches,
+  including epigenetic therapies, may be required for metaplastic breast cancers.'
+authors: Avigdor B, Beierl K, Gocke CD, Zabransky D, Cravero K, Kyker-Snowman K, Button
+  B, Chu D, Croessmann S, Cochran RL, Connolly R, Park BH, Cimino-Mathews A, Wheelan
+  SJ.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: bpark2@jhmi.edu
+  name: Ben H. Park
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 16
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28424200
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: North America
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: Clin. Cancer Res., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28424200
+title: Whole exome sequencing of metaplastic breast carcinoma indicates monoclonality
+  with associated ductal carcinoma component.
+year: 2017

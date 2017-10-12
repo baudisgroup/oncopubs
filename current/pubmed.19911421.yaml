@@ -1,0 +1,70 @@
+---
+abstract: In a study of 109 colorectal cancers, DNA copy number aberrations were identified
+  by comparative genomic hybridization using a DNA microarray covering the entire
+  genome at an average interval of less than 1 Mbase. Four patterns were revealed
+  by unsupervised clustering analysis, one of them associated with significantly better
+  prognosis than the others. This group contained tumours with short, dispersed, and
+  relatively few regions of copy number gain or loss. The good prognosis of this group
+  was not attributable to the presence of tumours showing microsatellite instability
+  MSI-H . Supervised methods were employed to determine those genomic regions where
+  copy number alterations correlate significantly with multiple indices of aggressive
+  growth lymphatic spread, recurrence, and early death . Multivariate analysis identified
+  DNA copy number loss at 18q12.2, harbouring a single gene, BRUNOL4 that encodes
+  the Bruno-like 4 splicing factor, as an independent prognostic indicator. The data
+  show that the different patterns of DNA copy number alterations in primary tumours
+  reveal prognostic information and can aid identification of novel prognosis-associated
+  genes.
+authors: Poulogiannis G, Ichimura K, Hamoudi RA, Luo F, Leung SY, Yuen ST, Harrison
+  DJ, Wyllie AH and Arends MJ.
+cancertypes:
+- samples_arraymap: 139
+  samples_progenetix: ~
+  term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- samples_arraymap: 139
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 139
+  samples_progenetix: ~
+  term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- samples_arraymap: 139
+  samples_progenetix: ~
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: 139
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: mja40@cam.ac.uk
+  name: Mark J Arends
+counts:
+  biosamples: 109
+  samples_acgh: 109
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19911421
+- geo:GSE12520
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'J Pathol 220, 3 (2010): 338-47.'
+label: 'Poulogiannis et al. (2010): Prognostic Relevance of DNA Copy Number Changes
+  in Colorectal Cancer.'
+notes: ~
+pmid: 19911421
+title: Prognostic Relevance of DNA Copy Number Changes in Colorectal Cancer.
+year: 2010

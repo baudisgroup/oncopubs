@@ -1,0 +1,38 @@
+---
+abstract: DNA aberrations that cause colorectal cancer CRC occur in multiple steps
+  that involve microsatellite instability MSI and chromosomal instability CIN . Herein,
+  we studied CRCs from AA patients for their CIN and MSI status.
+authors: Brim H, Lee E, Abu-Asab MS, Chaouchi M, Razjouyan H, Namin H, Goel A, Schaffer
+  AA and Ashktorab H.
+cancertypes: []
+contact:
+  email: ~
+  name: Hassan Brim
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22879877
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: North America
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: 'PLoS One 7, 8 (2012): e40392.'
+label: 'Brim et al. (2012): Genomic Aberrations in an African American Colorectal
+  Cancer Cohort Reveals a Msi-Specific Profile ...'
+notes: ~
+pmid: 22879877
+title: Genomic Aberrations in an African American Colorectal Cancer Cohort Reveals
+  a Msi-Specific Profile and Chromosome X Amplification in Male Patients.
+year: 2012

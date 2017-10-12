@@ -1,0 +1,52 @@
+---
+abstract: The recently described DNA replication-based mechanisms of fork stalling
+  and template switching FoSTeS and microhomology-mediated break-induced replication
+  MMBIR were previously shown to catalyze complex exonic, genic and genomic rearrangements.
+  By analyzing a large number of isochromosomes of the long arm of chromosome X i
+  Xq , using whole-genome tiling path array comparative genomic hybridization aCGH
+  , ultra-high resolution targeted aCGH and sequencing, we provide evidence that the
+  FoSTeS and MMBIR mechanisms can generate large-scale gross chromosomal rearrangements
+  leading to the deletion and duplication of entire chromosome arms, thus suggesting
+  an important role for DNA replication-based mechanisms in both the development of
+  genomic disorders and cancer. Furthermore, we elucidate the mechanisms of dicentric
+  i Xq idic Xq formation and show that most idic Xq chromosomes result from non-allelic
+  homologous recombination between palindromic low copy repeats and highly homologous
+  palindromic LINE elements. We also show that non-recurrent-breakpoint idic Xq chromosomes
+  have microhomology-associated breakpoint junctions and are likely catalyzed by microhomology-mediated
+  replication-dependent recombination mechanisms such as FoSTeS and MMBIR. Finally,
+  we stress the role of the proximal Xp region as a chromosomal rearrangement hotspot.
+authors: Koumbaris G, Hatzisevastou-Loukidou H, Alexandrou A, Ioannides M, Christodoulou
+  C, Fitzgerald T, Rajan D, Clayton S, Kitsiou-Tzeli S, Vermeesch JR, Skordis N, Antoniou
+  P, Kurg A, Georgiou I, Carter NP and Patsalis PC.
+cancertypes: []
+contact:
+  email: ~
+  name: Philippos Patsalis
+counts:
+  biosamples: 34
+  samples_acgh: 34
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21349920
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.11
+    - 52.09
+    type: Point
+  info:
+    city: Utrecht
+    continent: ~
+    country: The Netherlands
+    label: Utrecht, The Netherlands
+    precision: city [needs verification]
+journal: 'Hum Mol Genet 20, 10 (2011): 1925-36.'
+label: 'Koumbaris et al. (2011): Fostes, Mmbir and Nahr At the Human Proximal Xp Region
+  and the Mechanisms of Human Xq ...'
+notes: ~
+pmid: 21349920
+title: Fostes, Mmbir and Nahr At the Human Proximal Xp Region and the Mechanisms of
+  Human Xq Isochromosome Formation.
+year: 2011

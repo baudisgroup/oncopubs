@@ -1,0 +1,143 @@
+---
+abstract: Breast cancer is the most common malignancy among women and accounts for
+  over one million new cases worldwide per year. Lymph node-negative breast cancer
+  patients are reputed as having a better prognosis than lymph node-positive ones.
+  Around 20 of the lymph node-negative patients die within 10 years after diagnosis.
+  To improve the prognostics of node-negative breast cancer, it is important to understand
+  the underlying biologic mechanisms promoting survival, such as specific genetic
+  changes in the tumor genome. In this study, CGH was applied to analyze 64 tumors
+  from node-negative breast cancer patients to identify DNA copy number changes in
+  chromosomes and chromosome regions that may be correlated to survival. The main
+  findings show gains at 4q, 5q31 approximately qter, 6q12 approximately q16, and
+  12q14 approximately q22, as well as losses of 17p, 18p, and Xq, which were significantly
+  more recurrent in tumors from deceased patients than in tumors from survivors. The
+  average number of chromosomal changes was higher in the tumors from deceased compared
+  to the survivor tumors. Our findings suggest that tumors with specific chromosomal
+  aberrations at 4q, 5q31 approximately qter, 6q12 approximately q16, 12q14 approximately
+  q22, 17p, 18p, and Xq result in an aggressive form of breast cancer and that these
+  patients are predisposed to succumb to breast cancer.
+authors: Karlsson E, Danielsson A, Delle U, Olsson B, Karlsson P and Helou K.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4188
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C65192
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C66718
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8211_3
+  term_label: Tubular adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8501_3
+  term_label: Comedocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 64
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: ~
+  samples_progenetix: 64
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-82113
+  term_label: Tubular adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-85013
+  term_label: Comedocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 64
+  samples_acgh: 0
+  samples_ccgh: 64
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17213022
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 172, 2 (2007): 139-46.'
+label: 'Karlsson et al. (2007): Chromosomal Changes Associated With Clinical Outcome
+  in Lymph Node-Negative Breast ...'
+notes: ~
+pmid: 17213022
+title: Chromosomal Changes Associated With Clinical Outcome in Lymph Node-Negative
+  Breast Cancer.
+year: 2007

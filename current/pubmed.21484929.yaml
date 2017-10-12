@@ -1,0 +1,51 @@
+---
+abstract: 'Risk assessment of esophageal squamous cell carcinoma ESCC is currently
+  based on clinicopathological parameters. To identify genomic markers that can predict
+  overall survival in ESCC, we performed array comparative genomic hybridization array
+  CGH on a screening set of 35 tumor samples from ESCC patients. Prognosis association
+  of the genes selected on the basis of the array CGH results was further validated
+  by real-time PCR in two independent sample sets n 151 and 84 . Genomic analysis
+  revealed seven high-level amplifications and two homozygous deletions. Gain of 11q13.2
+  and loss of 7q34 and 18q21.1-q23 were associated with poor outcome. Gain of 11q13.2
+  was an independent prognostic factor and was selected for further validation. In
+  both validation sets of samples, copy number increase of CPT1A in 11q13.2 was correlated
+  with short overall survival P 0.015, n 151 and P 0.044, n 84 . Multivariate analysis
+  confirmed that CPT1A gain provided prognostic information in ESCC HR, 1.643 95 CI:
+  1.076-2.509 P 0.022 HR, 2.488 95 CI: 1.235-5.013 P 0.011 . Immunohistochemistry
+  showed significant correlation between strong expression of CPT1A protein and poor
+  outcome of ESCC patients P 0.018, n 73 . Our data suggest that gain of CPT1A may
+  be a candidate prognostic factor.'
+authors: Shi ZZ, Liang JW, Zhan T, Wang BS, Lin DC, Liu SG, Hao JJ, Yang H, Zhang
+  Y, Zhan QM, Zhang KT and Wang MR.
+cancertypes: []
+contact:
+  email: ~
+  name: Kai-Tai Zhang
+counts:
+  biosamples: 35
+  samples_acgh: 35
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21484929
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 7 (2011): 518-26.'
+label: 'Shi et al. (2011): Genomic Alterations With Impact on Survival in Esophageal
+  Squamous Cell Carcinoma Identified By Array ...'
+notes: ~
+pmid: 21484929
+title: Genomic Alterations With Impact on Survival in Esophageal Squamous Cell Carcinoma
+  Identified By Array Comparative Genomic Hybridization.
+year: 2011

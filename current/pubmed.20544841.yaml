@@ -1,0 +1,52 @@
+---
+abstract: A multiplatform approach, including conventional cytogenetic techniques,
+  BAC array comparative genomic hybridization, and Affymetrix 500K SNP arrays, was
+  applied to the study of the tumor genomes of 25 follicular lymphoma biopsy samples
+  with paired normal DNA samples to characterize balanced translocations, copy number
+  imbalances, and copy-neutral loss of heterozygosity cnLOH . In addition to the t
+  14 18 , eight unique balanced translocations were found. Commonly reported FL-associated
+  copy number regions were revealed including losses of 1p32-36, 6q, and 10q, and
+  gains of 1q, 6p, 7, 12, 18, and X. The most frequent regions affected by copy-neutral
+  loss of heterozygosity were 1p36.33 28 , 6p21.3 20 , 12q21.2-q24.33 16 , and 16p13.3
+  24 . We also identified by SNP analysis, 45 aberrant regions that each affected
+  one gene, including CDKN2A, CDKN2B, FHIT, KIT, PEX14, and PTPRD, which were associated
+  with canonical pathways involved in tumor development. This study illustrates the
+  power of using complementary high-resolution platforms on paired tumor normal specimens
+  and computational analysis to provide potential insights into the significance of
+  single-gene somatic aberrations in FL tumorigenesis.
+authors: Cheung KJ, Delaney A, Ben-Neriah S, Schein J, Lee T, Shah SP, Cheung D, Johnson
+  NA, Mungall AJ, Telenius A, Lai B, Boyle M, Connors JM, Gascoyne RD, Marra MA and
+  Horsman DE.
+cancertypes: []
+contact:
+  email: kjcheungjr@bccancer.bc.ca
+  name: K-John Cheung
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20544841
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 49, 8 (2010): 669-81.'
+label: 'Cheung et al. (2010): High Resolution Analysis of Follicular Lymphoma Genomes
+  Reveals Somatic Recurrent Sites of ...'
+notes: ~
+pmid: 20544841
+title: High Resolution Analysis of Follicular Lymphoma Genomes Reveals Somatic Recurrent
+  Sites of Copy-Neutral Loss of Heterozygosity and Copy Number Alterations That Target
+  Single Genes.
+year: 2010

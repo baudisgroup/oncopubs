@@ -1,0 +1,82 @@
+---
+abstract: The major clinical challenge in the treatment of high-grade serous ovarian
+  cancer (HGSOC) is the development of progressive resistance to platinum-based chemotherapy.
+  The objective of this study was to determine whether intra-tumour genetic heterogeneity
+  resulting from clonal evolution and the emergence of subclonal tumour populations
+  in HGSOC was associated with the development of resistant disease.  Evolutionary
+  inference and phylogenetic quantification of heterogeneity was performed using the
+  MEDICC algorithm on high-resolution whole genome copy number profiles and selected
+  genome-wide sequencing of 135 spatially and temporally separated samples from 14
+  patients with HGSOC who received platinum-based chemotherapy. Samples were obtained
+  from the clinical CTCR-OV03/04 studies, and patients were enrolled between 20 July
+  2007 and 22 October 2009. Median follow-up of the cohort was 31 mo (interquartile
+  range 22-46 mo), censored after 26 October 2013. Outcome measures were overall survival
+  (OS) and progression-free survival (PFS). There were marked differences in the degree
+  of clonal expansion (CE) between patients (median 0.74, interquartile range 0.66-1.15),
+  and dichotimization by median CE showed worse survival in CE-high cases (PFS 12.7
+  versus 10.1 mo, p = 0.009; OS 42.6 versus 23.5 mo, p = 0.003). Bootstrap analysis
+  with resampling showed that the 95% confidence intervals for the hazard ratios for
+  PFS and OS in the CE-high group were greater than 1.0. These data support a relationship
+  between heterogeneity and survival but do not precisely determine its effect size.
+  Relapsed tissue was available for two patients in the CE-high group, and phylogenetic
+  analysis showed that the prevalent clonal population at clinical recurrence arose
+  from early divergence events. A subclonal population marked by a NF1 deletion showed
+  a progressive increase in tumour allele fraction during chemotherapy.  This study
+  demonstrates that quantitative measures of intra-tumour heterogeneity may have predictive
+  value for survival after chemotherapy treatment in HGSOC. Subclonal tumour populations
+  are present in pre-treatment biopsies in HGSOC and can undergo expansion during
+  chemotherapy, causing clinical relapse.
+authors: Schwarz RF, Ng CK, Cooke SL, Newman S, Temple J, Piskorz AM, Gale D, Sayal
+  K, Murtaza M, Baldwin PJ, Rosenfeld N, Earl HM, Sala E, Jimenez-Linan M, Parkinson
+  CA, Markowetz F and Brenton JD
+cancertypes:
+- samples_arraymap: 138
+  samples_progenetix: ~
+  term_id: ncit:C7550
+  term_label: Ovarian Serous Adenocarcinoma
+- samples_arraymap: 138
+  samples_progenetix: ~
+  term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- samples_arraymap: 138
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
+  term_label: ovary
+- samples_arraymap: 138
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
+  term_label: Ovary
+- samples_arraymap: 138
+  samples_progenetix: ~
+  term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+contact:
+  email: florian.markowetz@cruk.cam.ac.uk
+  name: Florian Markowetz
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25710373
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.2
+    type: Point
+  info:
+    city: Cambridge
+    continent: Europe
+    country: United Kingdom
+    label: Cambridge, United Kingdom, Europe
+    precision: city
+journal: PLoS Med. 12(2), 2015
+label: 'Schwarz RF et al. (2015): '
+notes: ~
+pmid: 25710373
+title: 'Spatial and temporal heterogeneity in high-grade serous ovarian cancer: a
+  phylogenetic analysis.'
+year: 2015

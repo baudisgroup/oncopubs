@@ -1,0 +1,55 @@
+---
+abstract: Well-differentiated de-differentiated liposarcomas WDLS DDLS encompass an
+  intriguing disease model in which a temporal intersection occurs between the malignant
+  transformation of mesenchymal cells and the process of adipogenesis. Deciphering
+  the molecular events that trigger and are characteristic of the intersection of
+  these oncogenic and normal processes is critical to affect the often morbid and
+  lethal consequences of malignant tumors of fat. High-resolution genome-wide oligonucleotide
+  array-based comparative genomic hybridization aCGH with matched gene expression
+  analyses was performed on seven lipomas, one hibernoma, and 38 WD and DDLS to define
+  and compare the genomic events associated with these tumors. WD and DDLS had complex
+  karyotypes. On average, WDLS had 11.1 and DDLS had 22.7 chromosomal copy number
+  aberrations. All of the liposarcomas had 12q13-q15 amplifications with varying peaks
+  at CDK4 12q14.1 , HMGA2 12q14.3 , and MDM2 12q15 24 of the DDLS and no WDLS had
+  1p32.2 JUN amplifications 33 WDLS and 35 DDLS had 1q24.3 amplifications involving
+  DNM3 and miR-214 miR-199a2 24 of the liposarcomas had 6q23-q24 amplifications including
+  MAP3K5 . Amplifications in GLI1 12q13.3 , JUN, and MAP3K5 6q23.3 were mutually exclusive
+  and occurred predominately in the DDLS. 6q amplifications occurred primarily in
+  retroperitoneal tumors and females represented the majority of those patients who
+  developed fatty tumors prior to the age of 50 years old. This detailed genetic mapping
+  provides insight into the heterogeneity of WD and DDLS and the chromosomal and genetic
+  abnormalities that are present in and distinguish these mesenchymal malignancies.
+authors: Tap WD, Eilber FC, Ginther C, Dry SM, Reese N, Barzan-Smith K, Chen HW, Wu
+  H, Eilber FR, Slamon DJ and Anderson L.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21117066
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer (2011) 50: 95-112.'
+label: 'Tap et al. (2011): Evaluation of well-differentiated/de-differentiated liposarcomas
+  by high-resolution oligonucleotide ...'
+notes: ~
+pmid: 21117066
+title: Evaluation of well-differentiated/de-differentiated liposarcomas by high-resolution
+  oligonucleotide array-based comparative genomic hybridization.
+year: 2011

@@ -1,0 +1,55 @@
+---
+abstract: The estrogen receptor ER is a well-known predictor of breast cancer response
+  to endocrine therapy. ER progesterone receptor PR - breast tumors have a poorer
+  response to endocrine therapy and a more aggressive phenotype than ER PR tumors.
+  A comparative genomic hybridization array technique was used to examine 25 ER PR
+  and 23 ER PR- tumors. Tissue microarrays composed of 50 ER PR and 50 ER PR- tumors
+  were developed to validate the comparative genomic hybridization array results.
+  The genes of interest were analyzed by fluorescence in situ hybridization. The ER
+  PR- group had a slightly different genomic profile when compared with ER PR tumors.
+  Chromosomes 17 and 20 contained the most overlapping gains, and chromosomes 3, 8,
+  9, 14, 17, 21, and 22 contained the most overlapping losses when compared with the
+  ER PR group. The gained regions, 17q23.2-q23.3 and 20q13.12, and the lost regions,
+  3p21.32-p12.3, 9pter-p13.2, 17pter-p12, and 21pter-q21.1, occurred at different
+  alteration frequencies and were statistically significant in the ER PR- tumors compared
+  with the ER PR tumors. ER PR- breast tumors have a different genomic profile compared
+  with ER PR tumors. Differentially lost regions in the ER PR- group included genes
+  with tumor suppressor functions and genes involved in apoptosis, mitosis, angiogenesis,
+  and cell spreading. Differentially gained regions included genes such as MAP3K3,
+  RPS6KB1, and ZNF217. Amplification of these genes could contribute to resistance
+  to apoptosis, increased activation of the PI3K Akt mTOR pathway, and the loss of
+  PR in at least some ER PR- tumors.
+authors: Carracedo A, Salido M, Corominas JM, Rojo F, Ferreira BI, Suela J, Tusquets
+  I, Corzo C, Segura M, Espinet B, Cigudosa JC, Arumi M, Albanell J, Serrano S and
+  Sole F.
+cancertypes: []
+contact:
+  email: FSole@parcdesalutmar.cat
+  name: Francesc Sole
+counts:
+  biosamples: 148
+  samples_acgh: 148
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22559974
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Cancer Genet 205, 4 (2012): 138-46.'
+label: 'Carracedo et al. (2012): Are Er Pr  and Er Pr- Breast Tumors Genetically Different  A
+  Cgh Array Study.'
+notes: ~
+pmid: 22559974
+title: Are Er Pr  and Er Pr- Breast Tumors Genetically Different  A Cgh Array Study.
+year: 2012

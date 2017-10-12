@@ -1,0 +1,81 @@
+---
+abstract: Deletion of the short arm of chromosome 3 3p deletion is a cytogenetic abnormality
+  generally associated with clear cell renal cell carcinoma, the most aggressive form
+  of renal epithelial tumor.
+authors: Gayrard N, Cacheux V, Iborra F, Mourad G and Argiles A.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3759
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C3766
+  term_label: Clear Cell Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C4035
+  term_label: Thyroid Gland Papillary Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8260_3
+  term_label: Papillary adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8290_0
+  term_label: Oxyphilic adenoma
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C64.9
+  term_label: kidney
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-82603
+  term_label: Papillary adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-82900
+  term_label: Oxyphilic adenoma
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
+contact:
+  email: nathalie.gayrard@montp.inserm.fr
+  name: Nathalie Gayrard
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18517280
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.88
+    - 43.61
+    type: Point
+  info:
+    city: Montpellier
+    continent: Europe
+    country: France
+    label: Montpellier, France, Europe
+    precision: city
+journal: 'Arch Pathol Lab Med 132, 6 (2008): 965-73.'
+label: 'Gayrard et al. (2008): Cytogenetic Studies of 24 Renal Epithelial Tumors With
+  Von Hippel-Lindau and Fragile Histidine ...'
+notes: For most cases, metaphase banding and FISH data can be found in the article.
+pmid: 18517280
+title: Cytogenetic Studies of 24 Renal Epithelial Tumors With Von Hippel-Lindau and
+  Fragile Histidine Triad Protein Expression Correlation.
+year: 2008

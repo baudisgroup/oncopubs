@@ -1,0 +1,56 @@
+---
+abstract: Most current microarray oligonucleotide probe design strategies are based
+  on probe design factors PDFs , which include probe hybridization free energy PHFE
+  , probe minimum folding energy PMFE , dimer score, hairpin score, homology score
+  and complexity score. The impact of these PDFs on probe performance was evaluated
+  using four sets of microarray comparative genome hybridization aCGH data, which
+  included two array manufacturing methods and the genomes of two species. Since most
+  of the hybridizing DNA is equimolar in CGH data, such data are ideal for testing
+  the general hybridization properties of almost all candidate oligonucleotides. In
+  all our data sets, PDFs related to probe secondary structure PMFE, hairpin score
+  and dimer score are the most significant factors linearly correlated with probe
+  hybridization intensities. PHFE, homology and complexity score are correlating significantly
+  with probe specificities, but in a non-linear fashion. We developed a new PDF, pseudo
+  probe binding energy PPBE , by iteratively fitting dinucleotide positional weights
+  and dinucleotide stacking energies until the average residue sum of squares for
+  the model was minimized. PPBE showed a better correlation with probe sensitivity
+  and a better specificity than all other PDFs, although training data are required
+  to construct a PPBE model prior to designing new oligonucleotide probes. The physical
+  properties that are measured by PPBE are as yet unknown but include a platform-dependent
+  component. A practical way to use these PDFs for probe design is to set cutoff thresholds
+  to filter out bad quality probes. Programs and correlation parameters from this
+  study are freely available to facilitate the design of DNA microarray oligonucleotide
+  probes.
+authors: Xia XQ, Jia Z, Porwollik S, Long F, Hoemme C, Ye K, Muller-Tidow C, McClelland
+  M and Wang Y.
+cancertypes: []
+contact:
+  email: xqxia70@gmail.com
+  name: Xiao-Qin Xia
+counts:
+  biosamples: 219
+  samples_acgh: 219
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20236987
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.16
+    - 32.72
+    type: Point
+  info:
+    city: San Diego
+    continent: North America
+    country: United States
+    label: San Diego, United States, North America
+    precision: city
+journal: 'Nucleic Acids Res 38, 11 (2010): e121.'
+label: 'Xia et al. (2010): Evaluating Oligonucleotide Properties for DNA Microarray
+  Probe Design.'
+notes: ~
+pmid: 20236987
+title: Evaluating Oligonucleotide Properties for DNA Microarray Probe Design.
+year: 2010

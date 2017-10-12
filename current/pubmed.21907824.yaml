@@ -1,0 +1,49 @@
+---
+abstract: The diagnosis and classification of many cancers depends in part on the
+  identification of large-scale genomic aberrations such as chromosomal deletions,
+  duplications, and balanced translocations. Array-based comparative genomic hybridization
+  array CGH can detect chromosomal imbalances on a genome-wide scale but cannot reliably
+  identify balanced chromosomal rearrangements. We describe a simple modification
+  of array CGH that enables simultaneous identification of recurrent balanced rearrangements
+  and genomic imbalances on the same microarray. Using custom tiling oligonucleotide
+  arrays and gene-specific linear amplification primers, translocation CGH tCGH maps
+  balanced rearrangements to 100-base resolution and facilitates the rapid cloning
+  and sequencing of novel rearrangement breakpoints. As proof of principle, we used
+  tCGH to characterize nine of the most common gene fusions in mature B-cell neoplasms
+  and myeloid leukemias. Because tCGH can be performed in any CGH-capable laboratory
+  and can screen for multiple recurrent translocations and genome-wide imbalances,
+  it should be of broad utility in the diagnosis and classification of various types
+  of lymphomas, leukemias, and solid tumors.
+authors: Greisman HA, Hoffman NG and Yi HS.
+cancertypes: []
+contact:
+  email: ~
+  name: Harvey Greisman
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21907824
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: 'J Mol Diagn 13, 6 (2011): 621-33.'
+label: 'Greisman et al. (2011): Rapid High-Resolution Mapping of Balanced Chromosomal
+  Rearrangements on Tiling Cgh ...'
+notes: ~
+pmid: 21907824
+title: Rapid High-Resolution Mapping of Balanced Chromosomal Rearrangements on Tiling
+  Cgh Arrays.
+year: 2011

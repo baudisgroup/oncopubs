@@ -1,0 +1,76 @@
+---
+abstract: Myxoinflammatory fibroblastic sarcoma MIFS is a low-grade malignant neoplasm
+  for which limited genetic information, including a t 1 10 p22 q24 and amplification
+  of chromosome 3 material, is available. To further characterize these aberrations,
+  we have investigated eight soft tissue sarcomas diagnosed as MIFS, haemosiderotic
+  fibrolipomatous tumour HFT , myxoid spindle cell pleomorphic sarcoma with MIFS features,
+  and inflammatory malignant fibrous histiocytoma undifferentiated pleomorphic sarcoma
+  with prominent inflammation IMFH harbouring a t 1 10 or variants thereof and or
+  ring chromosomes with possible involvement of chromosome 3. Using chromosome banding,
+  fluorescence in situ hybridization, array-based comparative genomic hybridization,
+  global gene expression, and real-time quantitative PCR analyses, we identified the
+  breakpoint regions on chromosomes 1 and 10, demonstrated and delineated the commonly
+  amplified region on chromosome 3, and assessed the consequences of these alterations
+  for gene expression. The breakpoints in the t 1 10 mapped to TGFBR3 in 1p22 and
+  in or near MGEA5 in 10q24, resulting in transcriptional up-regulation of NPM3 and
+  particularly FGF8, two consecutive genes located close to MGEA5. The ring chromosomes
+  contained a commonly amplified 1.44 Mb region in 3p11-12, which was associated with
+  increased expression of VGLL3 and CHMP2B. The identified genetic aberrations were
+  not confined to MIFS an identical t 1 10 was also found in a case of HFT and the
+  amplicon in 3p was seen in an IMFH.
+authors: Hallor KH, Sciot R, Staaf J, Heidenblad M, Rydholm A, Bauer HC, Astrom K,
+  Domanski HA, Meis JM, Kindblom LG, Panagopoulos I, Mandahl N and Mertens F.
+cancertypes:
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
+contact:
+  email: Karolin.Hansen_Hallor@med.lu.se
+  name: Karolin Hallor
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19199331
+- geo:GSE12595
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'J Pathol 217, 5 (2009): 716-27.'
+label: 'Hallor et al. (2009): Two Genetic Pathways, T(1;10) and Amplification of 3p11-12,
+  in Myxoinflammatory Fibroblastic ...'
+notes: ~
+pmid: 19199331
+title: Two Genetic Pathways, T(1;10) and Amplification of 3p11-12, in Myxoinflammatory
+  Fibroblastic Sarcoma, Haemosiderotic Fibrolipomatous Tumour, and Morphologically
+  Similar Lesions.
+year: 2009

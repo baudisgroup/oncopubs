@@ -1,0 +1,77 @@
+---
+abstract: ~
+authors: van Kester MS, Tensen CP, Vermeer MH, Dijkman R, Mulder AA, Szuhai K, Willemze
+  R and van Doorn R
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C3721
+  term_label: Lymphomatoid Papulosis
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: ncit:C45332
+  term_label: Primary Cutaneous Peripheral T-Cell Lymphoma, Rare Subtype
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: ncit:C6860
+  term_label: Primary Cutaneous Anaplastic Large Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C7162
+  term_label: ~
+- samples_arraymap: 10
+  samples_progenetix: 10
+  term_id: pgx:icdom:9709_3
+  term_label: Cutaneous T-cell lymphoma, NOS
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: pgx:icdom:9718_3
+  term_label: Primary cutaneous CD30+ T-cell lymphoproliferative disorder
+- samples_arraymap: 21
+  samples_progenetix: 21
+  term_id: pgx:icdot:C44
+  term_label: skin
+- samples_arraymap: 21
+  samples_progenetix: 21
+  term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- samples_arraymap: 10
+  samples_progenetix: 10
+  term_id: snmi:M-97093
+  term_label: Cutaneous T-cell lymphoma, NOS
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: snmi:M-97183
+  term_label: Primary cutaneous CD30+ T-cell lymphoproliferative disorder
+contact:
+  email: R.van_Doorn@lumc.nl
+  name: Remco van Doorn
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19710685
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: J. Invest. Dermatol. 130(2), 2010
+label: 'van Kester et al. (): Cutaneous anaplastic large cell lymphoma and peripheral
+  T-cell lymphoma NOS show distinct ...'
+notes: ~
+pmid: 19710685
+title: Cutaneous anaplastic large cell lymphoma and peripheral T-cell lymphoma NOS
+  show distinct chromosomal alterations and differential expression of chemokine receptors
+  and apoptosis regulators.
+year: 0

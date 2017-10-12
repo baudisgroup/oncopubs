@@ -1,0 +1,59 @@
+---
+abstract: Accurate cancer risk assessment of low-dose radiation poses many challenges
+  that are partly due to the inability to distinguish radiation-induced tumors from
+  spontaneous ones. To elucidate characteristic features of radiation-induced tumors,
+  we analyzed 163 medulloblastomas that developed either spontaneously or after X-ray
+  irradiation at doses of 0.05-3 Gy in Ptch1 heterozygous mice. All spontaneous tumors
+  showed loss of heterozygosity in broad regions on chromosome 13, with losses at
+  all consecutive markers distal to Ptch1 locus S-type . In contrast, all tumors that
+  developed after 3 Gy irradiation exhibited interstitial losses around Ptch1 with
+  distal markers retained R-type . There was a clear dose-dependent increase in the
+  proportion of R-type tumors within the intermediate dose range, indicating that
+  the R-type change is a reliable radiation signature. Importantly, the incidence
+  of R-type tumors increased significantly P 0.007 at a dose as low as 50 mGy. Integrated
+  array-comparative genomic hybridization and expression microarray analyses demonstrated
+  that expression levels of many genes around the Ptch1 locus faithfully reflected
+  the signature-associated reduction in genomic copy number. Furthermore, 573 genes
+  on other chromosomes were also expressed differently between S-type and R-type tumors.
+  They include genes whose expression changes during early cerebellar development
+  such as Plagl1 and Tgfb2, suggesting a recapitulation of gene subsets functioning
+  at distinct developmental stages. These findings provide, for the first time, solid
+  experimental evidence for a significant increase in cancer risk by low-dose radiation
+  at diagnostic levels and imply that radiation-induced carcinogenesis accompanies
+  both genomic and gene expression signatures.
+authors: Ishida Y, Takabatake T, Kakinuma S, Doi K, Yamauchi K, Kaminishi M, Kito
+  S, Ohta Y, Amasaki Y, Moritake H, Kokubo T, Nishimura M, Nishikawa T, Hino O and
+  Shimada Y.
+cancertypes: []
+contact:
+  email: giacconeg@mail.nih.gov
+  name: Giuseppe Giaccone
+counts:
+  biosamples: 74
+  samples_acgh: 74
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20616149
+- geo:GSE21468
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: Asia
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: 'Carcinogenesis 31, 9 (2010): 1694-701.'
+label: 'Ishida et al. (2010): Genomic and Gene Expression Signatures of Radiation
+  in Medulloblastomas After Low-Dose Irradiation ...'
+notes: ~
+pmid: 20616149
+title: Genomic and Gene Expression Signatures of Radiation in Medulloblastomas After
+  Low-Dose Irradiation in Ptch1 Heterozygous Mice.
+year: 2010

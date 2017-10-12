@@ -1,0 +1,54 @@
+---
+abstract: 'Nodular sclerosing Hodgkin lymphoma NSHL is a distinct, highly heritable
+  Hodgkin lymphoma subtype. We undertook a genome-wide meta-analysis of 393 European-origin
+  adolescent young adult NSHL patients and 3315 controls using the Illumina Human610-Quad
+  Beadchip and Affymetrix Genome-Wide Human SNP Array 6.0. We identified 3 single
+  nucleotide polymorphisms SNPs on chromosome 6p21.32 that were significantly associated
+  with NSHL risk: rs9268542 P 5.35 10 -10 , rs204999 P 1.44 10 -9 , and rs2858870
+  P 1.69 10 -8 . We also confirmed a previously reported association in the same region,
+  rs6903608 P 3.52 10 -10 . rs204999 and rs2858870 were weakly correlated r 2 0.257
+  , and the remaining pairs of SNPs were not correlated r 2 amp lt 0.1 . In an independent
+  set of 113 NSHL cases and 214 controls, 2 SNPs were significantly associated with
+  NSHL and a third showed a comparable odds ratio OR . These SNPs are found on 2 haplotypes
+  associated with NSHL risk rs204999-rs9268528-rs9268542-rs6903608-rs2858870 AGGCT,
+  OR 1.7, P 1.71 10 -6 GAATC, OR 0.4, P 1.16 10 -4 . All individuals with the GAATC
+  haplotype also carried the HLA class II DRB1 0701 allele. In a separate analysis,
+  the DRB1 0701 allele was associated with a decreased risk of NSHL OR 0.5, 95 confidence
+  interval 0.4, 0.7 . These data support the importance of the HLA class II region
+  in NSHL etiology.'
+authors: Cozen W, Li D, Best T, Van Den Berg DJ, Gourraud PA, Cortessis VK, Skol AD,
+  Mack TM, Glaser SL, Weiss LM, Nathwani BN, Bhatia S, Schumacher FR, Edlund CK, Hwang
+  AE, Slager SL, Fredericksen ZS, Strong LC, Habermann TM, Link BK, Cerhan JR, Robison
+  LL, Conti DV and Onel K.
+cancertypes: []
+contact:
+  email: ~
+  name: Wendy Cozen
+counts:
+  biosamples: 393
+  samples_acgh: 393
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22086417
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Blood 119, 2 (2012): 469-75.'
+label: 'Cozen et al. (2012): A Genome-Wide Meta-Analysis of Nodular Sclerosing Hodgkin
+  Lymphoma Identifies Risk Loci At ...'
+notes: ~
+pmid: 22086417
+title: A Genome-Wide Meta-Analysis of Nodular Sclerosing Hodgkin Lymphoma Identifies
+  Risk Loci At 6p21.32.
+year: 2012

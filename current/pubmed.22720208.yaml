@@ -1,0 +1,56 @@
+---
+abstract: 'Chronic lymphocytic leukemia CLL cells express the receptor for Epstein-Barr
+  virus EBV and can be infected in vitro. Infected cells do not express the growth-promoting
+  set of EBV-encoded genes and therefore they do not yield LCLs, in most experiments.
+  With exceptional clones, lines were obtained however. We describe a new line, HG3,
+  established by in vitro EBV-infection from an IGHV1-2 unmutated CLL patient clone.
+  All cells expressed EBNA-2 and LMP-1, the EBV-encoded genes pivotal for transformation.
+  The karyotype, FISH cytogenetics and SNP-array profile of the line and the patients
+  ex vivo clone showed biallelic 13q14 deletions with genomic loss of DLEU7, miR15a
+  miR16-1, the two micro-RNAs that are deleted in 50 of CLL cases. Further features
+  of CLL cells were: expression of CD5 CD20 CD27 CD43 and release of IgM natural antibodies
+  reacting with oxLDL-like epitopes on apoptotic cells cf. stereotyped subset-1 .
+  Comparison with two LCLs established from normal B cells showed 32 genes expressed
+  at higher levels amp gt 2-fold . Among these were LHX2 and LILRA. These genes may
+  play a role in the development of the disease. LHX2 expression was shown in self-renewing
+  multipotent hematopoietic stem cells, and LILRA4 codes for a receptor for bone marrow
+  stromal cell antigen-2 that contributes to B cell development. Twenty-four genes
+  were expressed at lower levels, among these PARD3 that is essential for asymmetric
+  cell division. These genes may contribute to establish precursors of CLL clones
+  by regulation of cellular phenotype in the hematopoietic compartment. Expression
+  of CD5 CD20 CD27 CD43 and spontaneous production of natural antibodies may identify
+  the CLL cell as a self-renewing B1 lymphocyte.'
+authors: Rosen A, Bergh AC, Gogok P, Evaldsson C, Myhrinder AL, Hellqvist E, Rasul
+  A, Bjorkholm M, Jansson M, Mansouri L, Liu A, Teh BT, Rosenquist R and Klein E.
+cancertypes: []
+contact:
+  email: ~
+  name: Anders Rosen
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22720208
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.62
+    - 58.41
+    type: Point
+  info:
+    city: Linkoping
+    continent: Europe
+    country: Sweden
+    label: Linkoping, Sweden, Europe
+    precision: city
+journal: 'Oncoimmunology 1, 1 (2012): 18-27.'
+label: 'Rosen et al. (2012): Lymphoblastoid Cell Line With B1 Cell Characteristics
+  Established From a Chronic Lymphocytic ...'
+notes: ~
+pmid: 22720208
+title: Lymphoblastoid Cell Line With B1 Cell Characteristics Established From a Chronic
+  Lymphocytic Leukemia Clone By in Vitro Ebv Infection.
+year: 2012

@@ -1,0 +1,88 @@
+---
+abstract: The aim of the present study was to investigate chromosomal alterations
+  in a large set of homogeneous tumors, 98 endometrioid adenocarcinomas. We also wanted
+  to evaluate differences in chromosomal alterations in the different groups of tumors
+  in relation to stage, survival and invasive or metastatic properties of the tumors.
+  Comparative genomic hybridization CGH was used to detect chromosomal alterations
+  in tissue samples from 98 endometrioid adenocarcinomas. All chromosomes were involved
+  in DNA copy number variations at least once in the tumor material, but certain changes
+  were recurrent and rather specific. Among the specific changes, it was possible
+  to identify 39 chromosomal regions displaying frequent DNA copy number alterations.
+  The most frequent alteration was detected at 1q25-- amp gt q42, in which gains were
+  found in 30 cases 30 . Gains at 19pter-- amp gt p13.1 were detected in 26 tumors
+  26 and at 19q13.1-- amp gt q13.3 in 19 tumors 19 . Increased copy numbers were also
+  detected at 8q 8q21-- amp gt q22 and 8q22-- amp gt qter , at a relatively high rate,
+  in 17 cases 17 . Furthermore, gains at 10q21-- amp gt q23 and 10p were found in
+  14 14 and 13 cases 13 , respectively. The most common losses were found in the three
+  regions 4q22-- amp gt qter, 16q21-- amp gt qter and 18q21-- amp gt qter, all of
+  which were detected in eight of the 98 tumors 8 . We also detected differences between
+  the tumors from deceased patients and from survivors. Gain at 1q25-- amp gt q42
+  was more commonly detected in the tumors from patients who died of cancer. We noted
+  that the regions most affected differed in the different surgical stages I-IV .
+  The results of the CGH analysis identify specific chromosomal regions affected by
+  copy number changes, appropriate objects for further genetic studies.
+authors: Levan K, Partheen K, Osterberg L, Helou K and Horvath G.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 92
+  term_id: ncit:C3769
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 92
+  term_id: pgx:icdom:8380_3
+  term_label: Endometrioid adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8442_1
+  term_label: Serous cystadenoma, borderline malignancy
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: pgx:icdot:C55.9
+  term_label: Uterus, NOS
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: pgx:seer:27020
+  term_label: Corpus Uteri
+- samples_arraymap: ~
+  samples_progenetix: 92
+  term_id: snmi:M-83803
+  term_label: Endometrioid adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-84421
+  term_label: Serous cystadenoma, borderline malignancy
+contact:
+  email: gyorgy.horvath@oncology.gu.se
+  name: Gyorgy Horvath
+counts:
+  biosamples: 98
+  samples_acgh: 0
+  samples_ccgh: 98
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16974079
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 115, 1 (2006): 16-22.'
+label: 'Levan et al. (2006): Chromosomal Alterations in 98 Endometrioid Adenocarcinomas
+  Analyzed With Comparative Genomic ...'
+notes: ~
+pmid: 16974079
+title: Chromosomal Alterations in 98 Endometrioid Adenocarcinomas Analyzed With Comparative
+  Genomic Hybridization.
+year: 2006

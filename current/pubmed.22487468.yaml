@@ -1,0 +1,72 @@
+---
+abstract: 'Here we tested the prognostic impact of genomic alterations in operable
+  localized pancreatic ductal adenocarcinoma PDAC . Fifty-two formalin-fixed and paraffin-embedded
+  primary PDAC were laser micro-dissected and were investigated by comparative genomic
+  hybridization after whole genome amplification using an adapter-linker PCR. Chromosomal
+  gains and losses were correlated to clinico-pathological parameters and clinical
+  follow-up data. The most frequent aberration was loss on chromosome 17p 65 while
+  the most frequent gains were detected at 2q 41 and 8q 41 , respectively. The concomitant
+  occurrence of losses at 9p and 17p was found to be statistically significant. Higher
+  rates of chromosomal losses were associated with a more advanced primary tumor stage
+  and losses at 9p and 18q were significantly associated with presence of lymphatic
+  metastasis chi-square: p 0.03, p 0.05, respectively . Deletions on chromosome 4
+  were of prognostic significance for overall survival and tumor recurrence Cox-multivariate
+  analysis: p 0.026 and p 0.021, respectively . In conclusion our data suggest the
+  common alterations at chromosome 8q, 9p, 17p and 18q as well as the prognostic relevant
+  deletions on chromosome 4q as relevant for PDAC progression. Our comprehensive data
+  from 52 PDAC should provide a basis for future studies with a higher resolution
+  to discover the relevant genes located within the chromosomal aberrations identified.'
+authors: Luebke AM, Baudis M, Matthaei H, Vashist YK, Verde PE, Hosch SB, Erbersdobler
+  A, Klein CA, Izbicki JR, Knoefel WT and Stoecklein NH.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: pgx:icdot:C25
+  term_label: pancreas
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: pgx:seer:21100
+  term_label: Pancreas
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: Nikolas.Stoecklein@uni-duesseldorf.de
+  name: Nikolas Stoecklein
+counts:
+  biosamples: 52
+  samples_acgh: 0
+  samples_ccgh: 52
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22487468
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.02
+    - 53.58
+    type: Point
+  info:
+    city: Hamburg
+    continent: Europe
+    country: Germany
+    label: Hamburg, Germany, Europe
+    precision: city
+journal: 'Pancreatology 12, 1 (2012): 16-22.'
+label: 'Luebke et al. (2012): Losses At Chromosome 4q Are Associated With Poor Survival
+  in Operable Ductal Pancreatic ...'
+notes: ~
+pmid: 22487468
+title: Losses At Chromosome 4q Are Associated With Poor Survival in Operable Ductal
+  Pancreatic Adenocarcinoma.
+year: 2012

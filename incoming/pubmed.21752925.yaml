@@ -21,8 +21,10 @@ abstract: DNA amplification, particularly of chromosomes 8 and 11, occurs freque
   cancers.
 authors: Guenthoer J, Diede SJ, Tanaka H, Chai X, Hsu L, Tapscott SJ, Porter PL.
 cancertypes:
-- term_id: seer:37000
-  term_label: miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: pporter@fhcrc.org
   name: ~

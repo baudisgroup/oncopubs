@@ -1,0 +1,71 @@
+---
+abstract: We examined copy number changes in the genomes of B cells from 58 patients
+  with chronic lymphocytic leukemia CLL by using representational oligonucleotide
+  microarray analysis ROMA , a form of comparative genomic hybridization CGH , at
+  a resolution exceeding previously published studies. We observed at least 1 genomic
+  lesion in each CLL sample and considerable variation in the number of abnormalities
+  from case to case. Virtually all abnormalities previously reported also were observed
+  here, most of which were indeed highly recurrent. We observed the boundaries of
+  known events with greater clarity and identified previously undescribed lesions,
+  some of which were recurrent. We profiled the genomes of CLL cells separated by
+  the surface marker CD38 and found evidence of distinct subclones of CLL within the
+  same patient. We discuss the potential applications of high-resolution CGH analysis
+  in a clinical setting.
+authors: Grubor V, Krasnitz A, Troge JE, Meth JL, Lakshmi B, Kendall JT, Yamrom B,
+  Alex G, Pai D, Navin N, Hufnagel LA, Lee YH, Cook K, Allen SL, Rai KR, Damle RN,
+  Calissano C, Chiorazzi N, Wigler M and Esposito D.
+cancertypes:
+- samples_arraymap: 168
+  samples_progenetix: 58
+  term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 168
+  samples_progenetix: 58
+  term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- samples_arraymap: 168
+  samples_progenetix: 58
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 168
+  samples_progenetix: 58
+  term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 168
+  samples_progenetix: 58
+  term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+contact:
+  email: grubor@cshl.edu
+  name: Vladimir Grubor
+counts:
+  biosamples: 58
+  samples_acgh: 58
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18922857
+- geo:GSE12794
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.47
+    - 40.86
+    type: Point
+  info:
+    city: Cold Spring Harbor
+    continent: North America
+    country: United States
+    label: Cold Spring Harbor, United States, North America
+    precision: city
+journal: 'Blood 113, 6 (2009): 1294-303.'
+label: 'Grubor et al. (2009): Novel Genomic Alterations and Clonal Evolution in Chronic
+  Lymphocytic Leukemia Revealed By ...'
+notes: Data was downloaded from GEO and processed using DNAcopy segmentation as implemented
+  through Progenetix. Copy number results from multiple arrays for the same case was
+  combined post segmentation/thresholding.
+pmid: 18922857
+title: Novel Genomic Alterations and Clonal Evolution in Chronic Lymphocytic Leukemia
+  Revealed By Representational Oligonucleotide Microarray Analysis (Roma).
+year: 2009

@@ -1,0 +1,57 @@
+---
+abstract: Inactivation of the CDKN2A-CDKN2B locus has been reported in the most frequent
+  subtypes of cutaneous T-cell lymphomas CTCLs , mycosis fungoides, Sezary syndrome
+  SS and CD30 cutaneous anaplastic large cell lymphoma. To investigate whether genetic
+  or epigenetic inactivation of CDKN2A-CDKN2B is more specifically observed in certain
+  CTCL subtypes with clinical impact, we used array-comparative genomic hybridization,
+  quantitative PCR, interphase fluorescent in situ hybridization and methylation analyses
+  of p14 ARF p16 INK4A and p15 INK4B promoters. We studied 67 samples from 58 patients
+  with either transformed mycosis fungoides n 24 , SS n 16 or CD30 cutaneous anaplastic
+  large cell lymphoma n 18 . We observed combined CDKN2A-CDKN2B deletion in both transformed
+  mycosis fungoides n 17, 71 and SS patients n 7, 44 , but, surprisingly, in only
+  one CD30 cutaneous anaplastic large cell lymphoma case. Interphase fluorescent in
+  situ hybridization showed 9p21 loss in 17 out of 19 cases, with 9p21 deletion indicating
+  either hemizygous n 4 or homozygous n 2 deletion, with mixed patterns in most patients
+  n 11 . The limited size of 9p21 deletion was found to account for false-negative
+  detection by either BAC arrays n 9 or fluorescent in situ hybridization n 2 , especially
+  in patients with Sezary syndrome n 6 . Methylation was found to be restricted to
+  the p15 INK4B gene promoter in patients with or without 9p21 deletion and did not
+  correlate with prognosis. In contrast, CDKN2A-CDKN2B genetic loss was strongly associated
+  with a shorter survival in CTCL patients P 0.002 and more specifically at 24 months
+  in transformed mycosis fungoides and SS patients P 0.02 . As immunohistochemistry
+  for p16 INK4A protein was not found to be informative, the genetic status of the
+  CDKN2A-CDKN2B locus would be relevant in assessing patients with epidermotropic
+  CTCLs in order to identify those cases where the disease was more aggressive.
+authors: Laharanne E, Chevret E, Idrissi Y, Gentil C, Longy M, Ferrer J, Dubus P,
+  Jouary T, Vergier B, Beylot-Barry M and Merlio JP.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 67
+  samples_acgh: 67
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20118908
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: 'Mod Pathol (2010) 23: 547-558.'
+label: 'Laharanne et al. (2010): CDKN2A-CDKN2B deletion defines an aggressive subset
+  of cutaneous T-cell lymphoma.'
+notes: ~
+pmid: 20118908
+title: CDKN2A-CDKN2B deletion defines an aggressive subset of cutaneous T-cell lymphoma.
+year: 2010

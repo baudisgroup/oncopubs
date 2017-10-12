@@ -1,0 +1,74 @@
+---
+abstract: Male breast cancer (MBC) is a rare disease and little is known about its
+  etiopathogenesis. Array comparative genomic hybridization (aCGH) provides a method
+  to quantitatively measure the changes of DNA copy number and to map them directly
+  onto the complete linear genome sequences. The aim of this study was to investigate
+  DNA imbalances by aCGH and compare them with a female breast cancer dataset.We used
+  Agilent Human Genome CGH Microarray Kit 44B and 44K to compare genomic alterations
+  in 25 male breast cancer tissues studied at NCC of Bari and 16 female breast cancer
+  deposited with the Gene Expression Omnibus (GSE12659). Data analysis was performed
+  with Nexus Copy Number 5.0 software.All the 25 male and 16 female breast cancer
+  samples displayed some chromosomal instability (110.93 alterations per patient in
+  female, 69 in male). However, male samples presented a lower frequency of genetic
+  alterations both in terms of loss and gains.aCGH is an effective tool for analysis
+  of cytogenetic aberrations in MBC, which involves different biological processes
+  than female. Male most significant altered regions contained genes involved in cell
+  communication, cell division and immunological response, while female cell-cell
+  junction maintenance, regulation of transcription and neuron development.
+authors: Tommasi S, Mangia A, Iannelli G, Chiarappa P, Rossi E, Ottini L, Mottolese
+  M, Zoli W, Zuffardi O, Paradiso A.
+cancertypes:
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: a.mangia@ oncologico.bari.it
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21045282
+- geo:GSE23891
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: Europe
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: Anal Cell Pathol (Amst) 33(3), 2010
+label: ' (2010): '
+notes: ~
+pmid: 21045282
+title: Gene copy number variation in male breast cancer by aCGH.
+year: 2010

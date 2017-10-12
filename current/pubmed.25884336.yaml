@@ -1,0 +1,51 @@
+---
+abstract: Ovarian granulosa cell tumors (GCTs) are the most frequent sex cord-stromal
+  tumors. Several studies have shown that a somatic mutation leading to a C134W substitution
+  in the transcription factor FOXL2 appears in more than 95% of adult-type GCTs. Its
+  pervasive presence suggests that FOXL2 is the main cancer driver gene. However,
+  other mutations and genomic changes might also contribute to tumor formation and/or
+  progression.  We have performed a combined comparative genomic hybridization and
+  transcriptomic analyses of 10 adult-type GCTs to obtain a picture of the genomic
+  landscape of this cancer type and to identify new candidate co-driver genes.  Our
+  results, along with a review of previous molecular studies, show the existence of
+  highly recurrent chromosomal imbalances (especially, trisomy 14 and monosomy 22)
+  and preferential co-occurrences (i.e. trisomy 14/monosomy 22 and trisomy 7/monosomy
+  16q). In-depth analyses showed the presence of recurrently broken, amplified/duplicated
+  or deleted genes. Many of these genes, such as AKT1, RUNX1 and LIMA1, are known
+  to be involved in cancer and related processes. Further genomic explorations suggest
+  that they are functionally related.  Our combined analysis identifies potential
+  candidate genes, whose alterations might contribute to adult-type GCT formation/progression
+  together with the recurrent FOXL2 somatic mutation.
+authors: S, Anttonen M, Todeschini AL, Unkila-Kallio L, Mestivier D, Butzow R and
+  Veitia RA
+cancertypes: []
+contact:
+  email: caburet.sandrine@ijm.univ-paris-diderot.fr
+  name: Sandrine Caburet
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25884336
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: BMC Cancer 15(1), 2015
+label: 'Caburet S et al. (2015): '
+notes: Samples were from Finnish patients
+pmid: 25884336
+title: Combined comparative genomic hybridization and transcriptomic analyses of ovarian
+  granulosa cell tumors point to novel candidate driver genes.
+year: 2015

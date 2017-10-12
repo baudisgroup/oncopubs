@@ -1,0 +1,71 @@
+---
+abstract: To elucidate gene expression associated with copy number changes, we performed
+  a genome-wide copy number and expression microarray analysis of 25 pairs of gastric
+  tissues.
+authors: Cheng L, Wang P, Yang S, Yang Y, Zhang Q, Zhang W, Xiao H, Gao H and Zhang
+  Q.
+cancertypes:
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C65192
+  term_label: ~
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:8211_3
+  term_label: Tubular adenocarcinoma
+- samples_arraymap: 27
+  samples_progenetix: ~
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: 27
+  samples_progenetix: ~
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: 25
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-82113
+  term_label: Tubular adenocarcinoma
+contact:
+  email: qingzh1987@yahoo.cn
+  name: Qinghua Zhang
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22559327
+- geo:GSE33428
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: 'BMC Med Genomics 5, 1 (2012): 14.'
+label: 'Cheng et al. (2012): Identification of Genes With a Correlation Between Copy
+  Number and Expression in Gastric ...'
+notes: ~
+pmid: 22559327
+title: Identification of Genes With a Correlation Between Copy Number and Expression
+  in Gastric Cancer.
+year: 2012

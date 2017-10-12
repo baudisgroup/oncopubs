@@ -1,0 +1,60 @@
+---
+abstract: Chromosomal instability is central to the process of carcinogenesis. The
+  genome-wide detection of somatic chromosomal alterations (SCA) in small premalignant
+  lesions remains challenging because sample heterogeneity dilutes the aberrant cell
+  information. To overcome this hurdle, we focused on the B allele frequency data
+  from single-nucleotide polymorphism microarrays (SNP arrays). The difference of
+  allelic fractions between paired tumor and normal samples from the same patient
+  (delta-Î¸) provides a simple but sensitive detection of SCA in the affected tissue.
+  We applied the delta-Î¸ approach to small, heterogeneous clinical specimens, including
+  endobronchial biopsies and brushings. Regions identified by delta-Î¸ were validated
+  by FISH and quantitative PCR in heterogeneous samples. Distinctive genomic variations
+  were successfully detected across the whole genome in all invasive cancer cases
+  (6 of 6), carcinoma in situ (3 of 3), and high-grade dysplasia (severe or moderate;
+  3 of 11). Not only well-described SCAs in lung squamous cell carcinoma, but also
+  several novel chromosomal alterations were frequently found across the preinvasive
+  dysplastic cases. Within these novel regions, losses of putative tumor suppressors
+  (RNF20 and SSBP2) and an amplification of RASGRP3 gene with oncogenic activity were
+  observed. Widespread sampling of the airway during bronchoscopy demonstrated that
+  field cancerization reflected by SCAs at multiple sites was detectable. SNP arrays
+  combined with delta-Î¸ analysis can detect SCAs in heterogeneous clinical sample
+  and expand our ability to assess genomic instability in the airway epithelium as
+  a biomarker of lung cancer risk.
+authors: Nakachi I, Rice JL, Coldren CD, Edwards MG, Stearman RS, Glidewell SC, Varella-Garcia
+  M, Franklin WA, Keith RL, Lewis MT, Gao B, Merrick DT, Miller YE, Geraci MW.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: ichiro.nakachi@ucdenver.edu
+  name: Ichiro Nakachi
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24346345
+- geo:GSE43168
+geo_data:
+  geo_json:
+    coordinates:
+    - -104.98
+    - 39.74
+    type: Point
+  info:
+    city: Denver
+    continent: North America
+    country: United States
+    label: Denver, United States, North America
+    precision: city
+journal: Cancer Prev Res (Phila) 7(2), 2014
+label: ' (2014): '
+notes: 30 samples and some additional technical and reference arrays
+pmid: 24346345
+title: Application of SNP microarrays to the genome-wide analysis of chromosomal instability
+  in premalignant airway lesions.
+year: 2014

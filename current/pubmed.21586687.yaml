@@ -1,0 +1,46 @@
+---
+abstract: 'Small bowel adenocarcinoma SBA is a rare cancer and consequently, the options
+  for clinical trials are limited. As they are treated according to either a colorectal
+  or a gastric cancer regimen and the molecular biology of a tumor is a pivotal determinant
+  for therapy response, chromosomal copy number aberrations were compared with the
+  colorectal and gastric adenocarcinomas. Materials and methods: A total of 85 microsatellite
+  stable MSS adenocarcinomas from the stomach, colorectum and small bowel were selected
+  from existing array comparative genomic hybridization aCGH datasets. We compared
+  the aCGH profiles of the three tumor sites by supervised analysis and hierarchical
+  clustering.'
+authors: Haan JC, Buffart TE, Eijk PP, van de Wiel MA, van Wieringen WN, Howdle PD,
+  Mulder CJ, van de Velde CJ, Quirke P, Nagtegaal ID, van Grieken NC, Grabsch H, Meijer
+  GA and Ylstra B.
+cancertypes: []
+contact:
+  email: b.ylstra@vumc.nl
+  name: Bauke Ylstra
+counts:
+  biosamples: 91
+  samples_acgh: 91
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21586687
+- geo:GSE23418
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Ann Oncol 23, 2 (2012): 367-74.'
+label: 'Haan et al. (2012): Small Bowel Adenocarcinoma Copy Number Profiles Are More
+  Closely Related to Colorectal Than to ...'
+notes: ~
+pmid: 21586687
+title: Small Bowel Adenocarcinoma Copy Number Profiles Are More Closely Related to
+  Colorectal Than to Gastric Cancers.
+year: 2012

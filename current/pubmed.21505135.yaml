@@ -1,0 +1,59 @@
+---
+abstract: 'The identification of patients with inherited cancer susceptibility syndromes
+  facilitates early diagnosis, prevention, and treatment. However, in many cases of
+  suspected cancer susceptibility, the family history is unclear and genetic testing
+  of common cancer susceptibility genes is unrevealing.  To apply whole-genome sequencing
+  to a patient without any significant family history of cancer but with suspected
+  increased cancer susceptibility because of multiple primary tumors to identify rare
+  or novel germline variants in cancer susceptibility genes. DESIGN, SETTING, AND
+  PARTICIPANT: Skin (normal) and bone marrow (leukemia) DNA were obtained from a patient
+  with early-onset breast and ovarian cancer (negative for BRCA1 and BRCA2 mutations)
+  and therapy-related acute myeloid leukemia (t-AML) and analyzed with the following:
+  whole-genome sequencing using paired-end reads, single-nucleotide polymorphism (SNP)
+  genotyping, RNA expression profiling, and spectral karyotyping.  Structural variants,
+  copy number alterations, single-nucleotide variants, and small insertions and deletions
+  (indels) were detected and validated using the described platforms. RESULTS; Whole-genome
+  sequencing revealed a novel, heterozygous 3-kilobase deletion removing exons 7-9
+  of TP53 in the patient''s normal skin DNA, which was homozygous in the leukemia
+  DNA as a result of uniparental disomy. In addition, a total of 28 validated somatic
+  single-nucleotide variations or indels in coding genes, 8 somatic structural variants,
+  and 12 somatic copy number alterations were detected in the patient''s leukemia
+  genome.  Whole-genome sequencing can identify novel, cryptic variants in cancer
+  susceptibility genes in addition to providing unbiased information on the spectrum
+  of mutations in a cancer genome.'
+authors: Link DC, Schuettpelz LG, Shen D, Wang J, Walter MJ, Kulkarni S, Payton JE,
+  Ivanovich J, Goodfellow PJ, Le Beau M, Koboldt DC, Dooling DJ, Fulton RS, Bender
+  RH, Fulton LL, Delehaunty KD, Fronick CC, Appelbaum EL, Schmidt H, Abbott R, O'Laughlin
+  M, Chen K, McLellan MD, Varghese N, Nagarajan R, Heath S, Graubert TA, Ding L, Ley
+  TJ, Zambetti GP, Wilson RK and Mardis ER
+cancertypes: []
+contact:
+  email: rwilson@wustl.edu
+  name: Richard K Wilson
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 1
+external_identifiers:
+- pubmed:21505135
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ~
+    country: United States
+    label: st.louis, United States
+    precision: city [needs verification]
+journal: JAMA 305(15), 2011
+label: 'Link DC et al. (2011): '
+notes: ~
+pmid: 21505135
+title: Identification of a novel TP53 cancer susceptibility mutation through whole-genome
+  sequencing of a patient with therapy-related AML.
+year: 2011

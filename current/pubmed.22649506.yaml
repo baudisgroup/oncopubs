@@ -1,0 +1,52 @@
+---
+abstract: BACKGROUND:Olfactory neuroblastoma ONB is a rare cancer of the sinonasal
+  tract with little molecular characterization. We performed whole genome sequencing
+  WGS on paired normal and tumor DNA from a patient with metastatic-ONB to identify
+  the somatic alterations that might be drivers of tumorigenesis and or metastatic
+  progression.METHODOLOGY PRINCIPAL FINDINGS:Genomic DNA was isolated from fresh frozen
+  tissue from a metastatic lesion and whole blood, followed by WGS at gt 30X depth,
+  alignment and mapping, and mutation analyses. Sanger sequencing was used to confirm
+  selected mutations. Sixty-two somatic short nucleotide variants SNVs and five deletions
+  were identified inside coding regions, each causing a non-synonymous DNA sequence
+  change. We selected seven SNVs and validated them by Sanger sequencing. In the metastatic
+  ONB samples collected several months prior to WGS, all seven mutations were present.
+  However, in the original surgical resection specimen prior to evidence of metastatic
+  disease , mutations in KDR, MYC, SIN3B, and NLRC4 genes were not present, suggesting
+  that these were acquired with disease progression and or as a result of post-treatment
+  effects.CONCLUSIONS SIGNIFICANCE:This work provides insight into the evolution of
+  ONB cancer cells and provides a window into the more complex factors, including
+  tumor clonality and multiple driver mutations.
+authors: Weiss GJ, Liang WS, Izatt T, Arora S, Cherni I, Raju RN, Hostetter G, Kurdoglu
+  A, Christoforides A, Sinari S, Baker AS, Metpally R, Tembe WD, Phillips L, Von Hoff
+  DD, Craig DW and Carpten JD.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 1
+external_identifiers:
+- pubmed:22649506
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: North America
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: 'PLoS ONE (2012) 7: e37029.'
+label: 'Weiss et al. (2012): Paired tumor and normal whole genome sequencing of metastatic
+  olfactory neuroblastoma.'
+notes: ~
+pmid: 22649506
+title: Paired tumor and normal whole genome sequencing of metastatic olfactory neuroblastoma.
+year: 2012

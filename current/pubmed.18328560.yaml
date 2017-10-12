@@ -1,0 +1,44 @@
+---
+abstract: Deletion in chromosome 9p involving the CDKN2A locus 9p21.3 is known in
+  many malignancies. To detect this deletion in adolescent ALL patients we used oligo
+  array CGH and studied 54 patients aged 10-25 years. Deletion rate was 25 54 46 ,
+  of these 19 25 76 were homozygous. Small deletions amp lt 200 kb were found in 8
+  25 32 and the smallest deletion was amp lt 30 kb. The only gene affected in all
+  deletions was CDKN2A. We were unable to demonstrate prognostic value of the deletion,
+  however patients with deletion belonged more often P 0.06 to unfavorable biological
+  category. Our results indicate that CDKN2A deletions amp lt 200 kb may not be detected
+  by conventional methods.
+authors: Usvasalo A, Savola S, Raty R, Vettenranta K, Harila-Saari A, Koistinen P,
+  Savolainen ER, Elonen E, Saarinen-Pihkala UM and Knuutila S.
+cancertypes: []
+contact:
+  email: anu.usvasalo@helsinki.fi
+  name: Anu Usvasalo
+counts:
+  biosamples: 54
+  samples_acgh: 54
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18328560
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Leuk Res 32, 8 (2008): 1228-35.'
+label: 'Usvasalo et al. (2008): Cdkn2A Deletions in Acute Lymphoblastic Leukemia of
+  Adolescents and Young Adults: An Array Cgh ...'
+notes: ~
+pmid: 18328560
+title: 'Cdkn2A Deletions in Acute Lymphoblastic Leukemia of Adolescents and Young
+  Adults: An Array Cgh Study.'
+year: 2008

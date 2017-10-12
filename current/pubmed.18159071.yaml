@@ -1,0 +1,39 @@
+---
+abstract: To distinguish new primary breast cancers from true recurrences, pangenomic
+  analyses of DNA copy number alterations CNAs using single-nucleotide polymorphism
+  arrays have proven useful.
+authors: Bollet MA, Servant N, Neuvial P, Decraene C, Lebigot I, Meyniel JP, De Rycke
+  Y, Savignoni A, Rigaill G, Hupe P, Fourquet A, Sigal-Zafrani B, Barillot E and Thiery
+  JP.
+cancertypes: []
+contact:
+  email: marc.bollet@curie.net
+  name: Marc A. Bollet
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18159071
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'J Natl Cancer Inst 100, 1 (2008): 48-58.'
+label: 'Bollet et al. (2008): High-Resolution Mapping of DNA Breakpoints to Define
+  True Recurrences Among Ipsilateral Breast ...'
+notes: Data may be available through the institut Curie website.
+pmid: 18159071
+title: High-Resolution Mapping of DNA Breakpoints to Define True Recurrences Among
+  Ipsilateral Breast Cancers.
+year: 2008

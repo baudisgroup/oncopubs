@@ -1,0 +1,36 @@
+---
+abstract: A larynx squamous cell carcinoma LSCC is one of the most common forms of
+  cancer and may exhibit various complex karyotypes.
+authors: Keser I, Toraman AD, Ozbilim G, Guney K and Luleci G.
+cancertypes: []
+contact:
+  email: keser@akdeniz.edu.tr
+  name: Ibrahim Keser
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19108018
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.7
+    - 36.91
+    type: Point
+  info:
+    city: Antalya
+    continent: Europe
+    country: Turkey
+    label: Antalya, Turkey, Europe
+    precision: city
+journal: 'Yonsei Med J 49, 6 (2008): 949-54.'
+label: 'Keser et al. (2008): DNA Gains and Losses of Chromosome in Laryngeal Squamous
+  Cell Carcinoma Using Comparative Genomic ...'
+notes: ~
+pmid: 19108018
+title: DNA Gains and Losses of Chromosome in Laryngeal Squamous Cell Carcinoma Using
+  Comparative Genomic Hybridization.
+year: 2008

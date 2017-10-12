@@ -1,0 +1,55 @@
+---
+abstract: Isodicentric 17q is the most commonly reported chromosomal abnormality in
+  medulloblastomas. Its frequency suggests that genes disrupted in medulloblastoma
+  formation may play a role in tumorigenesis. We have previously identified two chromosome
+  17 breakpoint at a 1 Mb resolution. Our aims were to accurately map the position
+  of these breakpoints and to identify mechanisms of gene disruption at this site.
+  CGH with a custom tiling path genomic BAC array of chromosome 17 enriched with fosmids
+  at the breakpoint regions was used to analyze a series of 45 medulloblastomas and
+  three medulloblastoma-derived cell lines. In total, 17 of 45 medulloblastomas had
+  an isodicentric 17q. Two breakpoint regions were identified and their positions
+  were mapped. The array identified a more complex arrangement at the breakpoint than
+  has been reported previously using lower resolution BAC arrays. The patterns observed
+  indicated that dicentric chromosome formation occurs both via nonallelic homologous
+  recombination between palindromically arranged low copy repeats the previously accepted
+  mechanism and by recombination between nonidentical sequences. In addition, novel
+  alternative structural alterations, a homozygous deletion and a duplication, were
+  identified within the chromosome breakpoint region in two cases. At the resolution
+  of the array, these structural alterations spanned the same genes as cases with
+  dicentric 17q formation, implying that the disruption of genes at the chromosome
+  breakpoint itself may be of greater biological significance than has previously
+  been suspected.
+authors: McCabe MG, Ichimura K, Pearson DM, Liu L, Clifford SC, Ellison DW and Collins
+  VP.
+cancertypes: []
+contact:
+  email: mcm41@cam.ac.uk
+  name: Martin McCabe
+counts:
+  biosamples: 45
+  samples_acgh: 45
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18973140
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 48, 2 (2009): 121-31.'
+label: 'McCabe et al. (2009): Novel Mechanisms of Gene Disruption At the Medulloblastoma
+  Isodicentric 17p11 Breakpoint.'
+notes: ~
+pmid: 18973140
+title: Novel Mechanisms of Gene Disruption At the Medulloblastoma Isodicentric 17p11
+  Breakpoint.
+year: 2009

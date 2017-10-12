@@ -1,0 +1,60 @@
+---
+abstract: The ability to perform comprehensive profiling of cancers at high resolution
+  is essential for precision medicine. Liquid biopsies using shed exosomes provide
+  high-quality nucleic acids to obtain molecular characterization, which may be especially
+  useful for visceral cancers that are not amenable to routine biopsies.  We isolated
+  shed exosomes in biofluids from three patients with pancreaticobiliary cancers (two
+  pancreatic, one ampullary). We performed comprehensive profiling of exoDNA and exoRNA
+  by whole genome, exome and transcriptome sequencing using the Illumina HiSeq 2500
+  sequencer. We assessed the feasibility of calling copy number events, detecting
+  mutational signatures and identifying potentially actionable mutations in exoDNA
+  sequencing data, as well as expressed point mutations and gene fusions in exoRNA
+  sequencing data.  Whole-exome sequencing resulted in 95%-99% of the target regions
+  covered at a mean depth of 133-490ï¿½. Genome-wide copy number profiles, and high
+  estimates of tumor fractions (ranging from 56% to 82%), suggest robust representation
+  of the tumor DNA within the shed exosomal compartment. Multiple actionable mutations,
+  including alterations in NOTCH1 and BRCA2, were found in patient exoDNA samples.
+  Further, RNA sequencing of shed exosomes identified the presence of expressed fusion
+  genes, representing an avenue for elucidation of tumor neoantigens.  We have demonstrated
+  high-resolution profiling of the genomic and transcriptomic landscapes of visceral
+  cancers. A wide range of cancer-derived biomarkers could be detected within the
+  nucleic acid cargo of shed exosomes, including copy number profiles, point mutations,
+  insertions, deletions, gene fusions and mutational signatures. Liquid biopsies using
+  shed exosomes has the potential to be used as a clinical tool for cancer diagnosis,
+  therapeutic stratification and treatment monitoring, precluding the need for direct
+  tumor sampling.  ï¿½ The Author 2015. Published by Oxford University Press on behalf
+  of the European Society for Medical Oncology.
+authors: San Lucas FA, Allenson K, Bernard V, Castillo J, Kim DU, Ellis K, Ehli EA,
+  Davies GE, Petersen JL, Li D, Wolff R, Katz M, Varadhachary G, Wistuba I, Maitra
+  A and Alvarez H
+cancertypes: []
+contact:
+  email: amaitra@mdanderson.org
+  name: Anirban Maitra
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 3
+  samples_wgs: 3
+external_identifiers:
+- pubmed:26681674
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Ann. Oncol., 2015
+label: 'San Lucas FA et al. (2015): '
+notes: ~
+pmid: 26681674
+title: Minimally invasive genomic and transcriptomic profiling of visceral cancers
+  by next-generation sequencing of circulating exosomes.
+year: 2015

@@ -1,0 +1,52 @@
+---
+abstract: Metastatic breast cancer is usually diagnosed after becoming symptomatic,
+  at which point it is rarely curable. Cell-free circulating tumor DNA (ctDNA) contains
+  tumor-specific chromosomal rearrangements that may be interrogated in blood plasma.
+  We evaluated serial monitoring of ctDNA for earlier detection of metastasis in a
+  retrospective study of 20 patients diagnosed with primary breast cancer and long
+  follow-up. Using an approach combining low-coverage whole-genome sequencing of primary
+  tumors and quantification of tumor-specific rearrangements in plasma by droplet
+  digital PCR, we identify for the first time that ctDNA monitoring is highly accurate
+  for postsurgical discrimination between patients with (93%) and without (100%) eventual
+  clinically detected recurrence. ctDNA-based detection preceded clinical detection
+  of metastasis in 86% of patients with an average lead time of 11ï¿½months (range
+  0-37ï¿½months), whereas patients with long-term disease-free survival had undetectable
+  ctDNA postoperatively. ctDNA quantity was predictive of poor survival. These findings
+  establish the rationale for larger validation studies in early breast cancer to
+  evaluate ctDNA as a monitoring tool for early metastasis detection, therapy modification,
+  and to aid in avoidance of overtreatment.  ï¿½ 2015 The Authors. Published under
+  the terms of the CC BY 4.0 license.
+authors: Olsson E, Winter C, George A, Chen Y, Howlin J, Tang MH, Dahlgren M, Schulz
+  R, Grabau D, van Westen D, Fernï¿½ M, Ingvar C, Rose C, Bendahl PO, Rydï¿½n L, Borg
+  ï¿½, Gruvberger-Saal SK, Jernstrï¿½m H and Saal LH
+cancertypes: []
+contact:
+  email: lao.saal@med.lu.se
+  name: Lao H Saal
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 21
+external_identifiers:
+- pubmed:25987569
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: EMBO Mol Med, 2015
+label: 'Olsson E et al. (2015): '
+notes: ~
+pmid: 25987569
+title: Serial monitoring of circulating tumor DNA in patients with primary breast
+  cancer for detection of occult metastatic disease.
+year: 2015

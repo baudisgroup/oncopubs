@@ -1,0 +1,85 @@
+---
+abstract: We have used SNP mapping arrays to simultaneously record copy number changes,
+  loss of heterozygosity and allele ratios ploidy in a series of 13 gliomas. This
+  combined analysis has defined novel amplification events in this tumor type involving
+  chr1:241544532-243005121 and chr18:54716681-54917277 which contain the AKT3 and
+  ZNF532 genes, respectively. The high resolution of this analysis has also identified
+  homozygous deletions involving chr17:25600031-26490848 and Chr19:53883612-55061878.
+  Throughout the karyotypes of these tumors, the combined analysis revealed counter
+  intuitive relationships between copy number and LOH that requires reinterpretation
+  of the significance of copy number gains and losses. It was not uncommon to observe
+  copy number gains that were associated with loss of heterozygosity as well as copy
+  number losses that were not. These events appeared to be related to ploidy status
+  in the tumors as determined using allelic ratio calculations. Overall, this analysis
+  of gliomas provides evidence for the need to perform more comprehensive interpretation
+  of the CGH data beyond copy number analysis alone to evaluate the significance of
+  individual events in the karyotypes.
+authors: Cowell JK, Lo KC, Luce J and Hawthorn L.
+cancertypes:
+- samples_arraymap: 1
+  samples_progenetix: 13
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: ncit:C3059
+  term_label: Glioma
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- samples_arraymap: 1
+  samples_progenetix: 13
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: 13
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 13
+  samples_progenetix: 13
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: snmi:M-93803
+  term_label: Glioma, malignant
+- samples_arraymap: 1
+  samples_progenetix: 13
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: jcowell@mcg.edu
+  name: John K Cowell
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19818351
+geo_data:
+  geo_json:
+    coordinates:
+    - -69.78
+    - 44.31
+    type: Point
+  info:
+    city: Augusta
+    continent: North America
+    country: United States
+    label: Augusta, United States, North America
+    precision: city
+journal: 'Exp Mol Pathol 88, 1 (2010): 82-89.'
+label: 'Cowell et al. (2010): Interpreting Acgh-Defined Karyotypic Changes in Gliomas
+  Using Copy Number Status, Loss of ...'
+notes: ~
+pmid: 19818351
+title: Interpreting Acgh-Defined Karyotypic Changes in Gliomas Using Copy Number Status,
+  Loss of Heterozygosity and Allelic Ratios.
+year: 2010

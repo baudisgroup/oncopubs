@@ -1,0 +1,48 @@
+---
+abstract: We report serial genetic studies on a young female patient initially diagnosed
+  with asymptomatic smouldering myeloma who progressed to symptomatic myeloma 4.5
+  years after presentation. An unbalanced translocation, der 14 t 4 14 p16 q32 , was
+  initially found in all plasma cells plus deletions of other chromosomal regions
+  as detected by array-based comparative genomic hybridization. Deletion of chromosome
+  13 was observed in a minor population of plasma cells amp lt 20 for the first two
+  years, increasing to 100 of plasma cells by the time of multiple myeloma diagnosis.
+  Loss of 1p and a rearrangement of MYC were first observed in a small population
+  of plasma cells one year prior to the clinical diagnosis of multiple myeloma, but
+  these subclones increased rapidly in size to become the major population suggesting
+  that they were directly involved in the transformation process. This case report
+  provides a unique insight into the mechanisms of disease progression from smouldering
+  multiple myeloma to multiple myeloma.
+authors: Chiecchio L, Dagrada GP, Protheroe RK, Stockley DM, Smith AG, Orchard KH,
+  Cross NC, Harrison CJ and Ross FM.
+cancertypes: []
+contact:
+  email: laura.chiecchio@salisbury.nhs.uk
+  name: Laura Chiecchio
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19454499
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.8
+    - 51.07
+    type: Point
+  info:
+    city: Salisbury
+    continent: Europe
+    country: United Kingdom
+    label: Salisbury, United Kingdom, Europe
+    precision: city
+journal: 'Haematologica 94, 7 (2009): 1024-28.'
+label: 'Chiecchio et al. (2009): Loss of 1p and Rearrangement of Myc Are Associated
+  With Progression of Smouldering Myeloma to ...'
+notes: ~
+pmid: 19454499
+title: 'Loss of 1p and Rearrangement of Myc Are Associated With Progression of Smouldering
+  Myeloma to Myeloma: Sequential Analysis of a Single Case.'
+year: 2009

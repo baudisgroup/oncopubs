@@ -1,0 +1,41 @@
+---
+abstract: Frequent genetic variants may be associated with GCA. Existing studies have
+  analysed a limited number of candidate genes and genetic variants. To expand this
+  information, we performed a case-control study genotyping 130 single nucleotide
+  polymorphisms SNPs in 82 biopsy-proven GCA patients and 166 healthy controls from
+  the Spanish population.
+authors: Enjuanes A, Benavente Y, Hernandez-Rodriguez J, Queralt C, Yague J, Jares
+  P, de Sanjose S, Campo E and Cid MC.
+cancertypes: []
+contact:
+  email: ~
+  name: Maria Cid
+counts:
+  biosamples: 82
+  samples_acgh: 82
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22258388
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Rheumatology (Oxford) (2012)
+label: 'Enjuanes et al. (2012): Association of Nos2 and Potential Effect of Vegf,
+  Il6, Ccl2 and Il1Rn Polymorphisms and ...'
+notes: ~
+pmid: 22258388
+title: Association of Nos2 and Potential Effect of Vegf, Il6, Ccl2 and Il1Rn Polymorphisms
+  and Haplotypes on Susceptibility to Gca--a Simultaneous Study of 130 Potentially
+  Functional Snps in 14 Candidate Genes.
+year: 2012

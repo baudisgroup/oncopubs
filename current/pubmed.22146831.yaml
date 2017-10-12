@@ -1,0 +1,43 @@
+---
+abstract: In neuroblastoma NB , the presence of segmental chromosome alterations SCAs
+  is associated with a higher risk of relapse.
+authors: Schleiermacher G, Michon J, Ribeiro A, Pierron G, Mosseri V, Rubie H, Munzer
+  C, Benard J, Auger N, Combaret V, Janoueix-Lerosey I, Pearson A, Tweddle DA, Bown
+  N, Gerrard M, Wheeler K, Noguera R, Villamon E, Canete A, Castel V, Marques B, de
+  Lacerda A, Tonini GP, Mazzocco K, Defferrari R, de Bernardi B, di Cataldo A, van
+  Roy N, Brichard B, Ladenstein R, Ambros I, Ambros P, Beiske K, Delattre O and Couturier
+  J.
+cancertypes: []
+contact:
+  email: gudrun.schleiermacher@curie.net
+  name: Gudrun Schleiermacher
+counts:
+  biosamples: 218
+  samples_acgh: 218
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22146831
+- geo:GSE26494
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Br J Cancer 105, 12 (2011): 1940-48.'
+label: 'Schleiermacher et al. (2011): Segmental Chromosomal Alterations Lead to a
+  Higher Risk of Relapse in Infants With ...'
+notes: ~
+pmid: 22146831
+title: Segmental Chromosomal Alterations Lead to a Higher Risk of Relapse in Infants
+  With Mycn-Non-Amplified Localised Unresectable/Disseminated Neuroblastoma (a Siopen
+  Collaborative Study).
+year: 2011

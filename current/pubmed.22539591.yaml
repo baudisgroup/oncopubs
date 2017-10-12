@@ -1,0 +1,72 @@
+---
+abstract: Childhood adrenocortical tumors ACT are rare malignancies, except in southern
+  Brazil, where a higher incidence rate is associated to a high frequency of the founder
+  R337H TP53 mutation. To date, copy number alterations in these tumors have only
+  been analyzed by low-resolution comparative genomic hybridization.
+authors: Letouze E, Rosati R, Komechen H, Doghman M, Marisa L, Fluck C, de Krijger
+  RR, van Noesel MM, Mas JC, Pianovski MA, Zambetti GP, Figueiredo BC and Lalli E.
+cancertypes:
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C9003
+  term_label: Adrenal Cortex Adenoma
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: ncit:C9325
+  term_label: Adrenal Cortex Carcinoma
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:8370_0
+  term_label: Adrenal cortical adenoma, NOS
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdom:8370_3
+  term_label: Adrenal cortical carcinoma
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-83700
+  term_label: Adrenal cortical adenoma, NOS
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: snmi:M-83703
+  term_label: Adrenal cortical carcinoma
+contact:
+  email: LetouzeE@ligue-cancer.net
+  name: Eric Letouze
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22539591
+- geo:GSE35064
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: J Clin Endocrinol Metab (2012)
+label: 'Letouze et al. (2012): Snp Array Profiling of Childhood Adrenocortical Tumors
+  Reveals Distinct Pathways of Tumorigenesis ...'
+notes: ~
+pmid: 22539591
+title: Snp Array Profiling of Childhood Adrenocortical Tumors Reveals Distinct Pathways
+  of Tumorigenesis and Highlights Candidate Driver Genes.
+year: 2012

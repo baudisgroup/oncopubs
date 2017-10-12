@@ -1,0 +1,45 @@
+---
+abstract: HER2 gene copy status, and concomitant administration of trastuzumab Herceptin
+  , remains one of the best examples of targeted cancer therapy based on understanding
+  the genomic etiology of disease. However, newly diagnosed breast cancer cases with
+  equivocal HER2 results present a challenge for the oncologist who must make treatment
+  decisions despite the patients unresolved HER2 status. In some cases both immunohistochemistry
+  IHC and fluorescence in situ hybridization FISH are reported as equivocal, whereas
+  in other cases IHC results and FISH are discordant for positive versus negative
+  results. The recent validation of array-based, molecular karyotyping for clinical
+  oncology testing provides an alternative method for determination of HER2 gene copy
+  number status in cases remaining unresolved by traditional methods.
+authors: Gunn S, Yeh IT, Lytvak I, Tirtorahardjo B, Dzidic N, Zadeh S, Kim J, McCaskill
+  C, Lim L, Gorre M and Mohammed M.
+cancertypes: []
+contact:
+  email: gunn@uthscsa.edu
+  name: Shelly Gunn
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20667129
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.82
+    - 33.67
+    type: Point
+  info:
+    city: Irvine
+    continent: North America
+    country: United States
+    label: Irvine, United States, North America
+    precision: city
+journal: 'BMC Cancer 10 (2010): 396.'
+label: 'Gunn et al. (2010): Clinical Array-Based Karyotyping of Breast Cancer With
+  Equivocal Her2 Status Resolves Gene Copy ...'
+notes: ~
+pmid: 20667129
+title: Clinical Array-Based Karyotyping of Breast Cancer With Equivocal Her2 Status
+  Resolves Gene Copy Number and Reveals Chromosome 17 Complexity.
+year: 2010

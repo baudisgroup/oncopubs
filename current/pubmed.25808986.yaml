@@ -1,0 +1,54 @@
+---
+abstract: Chromosomal instability resulting in copy number alterations is a hallmark
+  of colorectal cancer (CRC). However, few studies have attempted to characterize
+  the chromosomal changes occurring in early-onset CRC in order to compare them with
+  those taking place within the more extensively studied late-onset CRC subset. Our
+  aim was to characterize the genomic profiles of these two groups of colorectal tumors
+  and to compare them to each other. Array comparative genomic hybridization profiling
+  of 146 colorectal tumors (60 early-onset and 86 late-onset) in combination with
+  an unsupervised analysis was used to define common and specific copy number alterations.
+  We found a number of important differences between the chromosomal instability profiles
+  of each age subset. Thus, losses at 1p36, 1p12, 1q21, 9p13, 14q11, 16p13, and 16p12
+  were significantly more frequent in younger patients, whereas gains at 7q11 and
+  7q22 were more frequent in older patients. Moreover, the unsupervised analysis stratified
+  the tumors into two clusters, each one of which was enriched in patients from one
+  of the age subsets. Our findings confirm the existence of substantial differences
+  between the chromosomal instability profiles of the two groups which are more important
+  from a qualitative point of view. Further studies are needed to understand the clinicopathological
+  implications of these dissimilarities. ï¿½ 2015 Wiley Periodicals, Inc.  ï¿½ 2015
+  Wiley Periodicals, Inc.
+authors: Arriba M, Garcï¿½a JL, Inglada-Pï¿½rez L, Rueda D, Osorio I, Rodrï¿½guez
+  Y, ï¿½lvaro E, Sï¿½nchez R, Fernï¿½ndez T, Pï¿½rez J, Hernï¿½ndez JM, Benï¿½tez
+  J, Gonzï¿½lez-Sarmiento R, Urioste M and Perea J
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 146
+  samples_acgh: 146
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25808986
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: Mol. Carcinog., 2015
+label: 'Arriba et al. (): DNA copy number profiling reveals different patterns of
+  chromosomal instability within colorectal ...'
+notes: ~
+pmid: 25808986
+title: DNA copy number profiling reveals different patterns of chromosomal instability
+  within colorectal cancer according to the age of onset.
+year: 2015

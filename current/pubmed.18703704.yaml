@@ -1,0 +1,71 @@
+---
+abstract: The secondary genetic events associated with follicular lymphoma FL progression
+  are not well defined. We applied genome-wide BAC array comparative genomic hybridization
+  to 106 diagnostic biopsies of FL to characterize regional genomic imbalances. Using
+  an analytical approach that defined regions of copy number change as intersections
+  between visual annotations and a Hidden Markov model-based algorithm, we identified
+  71 regional alterations that were recurrent in at least 10 of cases. These ranged
+  in size from approximately 200 kb to 44 Mb, affecting chromosomes 1, 5, 6, 7, 8,
+  10, 12, 17, 18, 19, and 22. We also demonstrated by cluster analysis that 46.2 of
+  the 106 cases could be sub-grouped based on the presence of 1q, 6p 6q-, 7, or 18.
+  Survival analysis showed that 21 of the 71 regions correlated significantly with
+  inferior overall survival OS . Of these 21 regions, 16 were independent predictors
+  of OS using a multivariate Cox model that included the international prognostic
+  index IPI score. Two of these 16 regions 1p36.22-p36.33 and 6q21-q24.3 were also
+  predictors of transformation risk and independent of IPI. These prognostic features
+  may be useful to identify high-risk patients as candidates for risk-adapted therapies.
+authors: Cheung KJ, Shah SP, Steidl C, Johnson N, Relander T, Telenius A, Lai B, Murphy
+  KP, Lam W, Al-Tourah AJ, Connors JM, Ng RT, Gascoyne RD and Horsman DE.
+cancertypes:
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+contact:
+  email: dhorsman@bccancer.bc.ca
+  name: Douglas E. Horsman
+counts:
+  biosamples: 106
+  samples_acgh: 106
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18703704
+- geo:GSE12393
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Blood 113, 1 (2009): 137-48.'
+label: 'Cheung et al. (2009): Genome-Wide Profiling of Follicular Lymphoma By Array
+  Comparative Genomic Hybridization Reveals ...'
+notes: data deposited in GEO, accession number GSE12393
+pmid: 18703704
+title: Genome-Wide Profiling of Follicular Lymphoma By Array Comparative Genomic Hybridization
+  Reveals Prognostically Significant DNA Copy Number Imbalances.
+year: 2009

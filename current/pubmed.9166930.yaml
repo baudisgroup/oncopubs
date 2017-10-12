@@ -1,0 +1,71 @@
+---
+abstract: Comparative genomic hybridization CGH was used to detect copy number changes
+  of DNA sequences in the Ewing family of tumours ET . We analysed 20 samples from
+  17 patients. Fifteen tumours 75 showed copy number changes. Gains of DNA sequences
+  were much more frequent than losses, the majority of the gains affecting whole chromosomes
+  or whole chromosome arms. Recurrent findings included copy number increases for
+  chromosomes 8 seven out of 20 samples 35 , 1q five samples 25 and 12 five samples
+  25 . The minimal common regions of these gains were the whole chromosomes 8 and
+  12, and 1q21-22. High-level amplifications affected 8q13-24, 1q and 1q21-22, each
+  once. Southern blot analysis of the specimen with high-level amplification at 1q21-22
+  showed an amplification of FLG and SPRR3, both mapped to this region. All cases
+  with a gain of chromosome 12 simultaneously showed a gain of chromosome 8. Comparison
+  of CGH findings with cytogenetic analysis of the same tumours and previous cytogenetic
+  reports of ET showed, in general, concordant results. In conclusion, our findings
+  confirm that secondary changes, which may have prognostic significance in ET, are
+  trisomy 8, trisomy 12 and a gain of DNA sequences in 1q.
+authors: Armengol G, Tarkkanen M, Virolainen M, Forus A, Valle J, Bohling T, Asko-Seljavaara
+  S, Blomqvist C, Elomaa I, Karaharju E, Kivioja AH, Siimes MA, Tukiainen E, Caballin
+  MR, Myklebost O, and Knuutila S.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:C4817
+  term_label: Ewing Sarcoma
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:9260_3
+  term_label: Ewing sarcoma
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-92603
+  term_label: Ewing sarcoma
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9166930
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Br J Cancer, 75(10) 1997, 1403-09.
+label: 'Armengol et al. (1997): Recurrent gains of 1q, 8 and 12 in the Ewing family
+  of tumours by comparative genomic ...'
+notes: ~
+pmid: 9166930
+title: Recurrent gains of 1q, 8 and 12 in the Ewing family of tumours by comparative
+  genomic hybridization.
+year: 1997

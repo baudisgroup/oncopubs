@@ -1,0 +1,75 @@
+---
+abstract: High-grade serous ovarian carcinoma HGSOC is characterized by genomic instability,
+  ubiquitous TP53 loss, and frequent development of platinum resistance. Loss of homologous
+  recombination HR is a mutator phenotype present in 50 of HGSOCs and confers hypersensitivity
+  to platinum treatment. We asked which other mutator phenotypes are present in HGSOC
+  and how they drive the emergence of platinum resistance. We performed whole-genome
+  paired-end sequencing on a model of two HGSOC cases, each consisting of a pair of
+  cell lines established before and after clinical resistance emerged, to describe
+  their structural variants SVs and to infer their ancestral genomes as the SVs present
+  within each pair. The first case PEO1 PEO4 , with HR deficiency, acquired translocations
+  and small deletions through its early evolution, but a revertant BRCA2 mutation
+  restoring HR function in the resistant lineage re-stabilized its genome and reduced
+  platinum sensitivity. The second case PEO14 PEO23 had 216 tandem duplications and
+  did not show evidence of HR or mismatch repair deficiency. By comparing the cell
+  lines to the tissues from which they originated, we showed that the tandem duplicator
+  mutator phenotype arose early in progression in vivo and persisted throughout evolution
+  in vivo and in vitro, which may have enabled continual evolution. From the analysis
+  of SNP array data from 454 HGSOC cases in The Cancer Genome Atlas series, we estimate
+  that 12.8 of cases show patterns of aberrations similar to the tandem duplicator,
+  and this phenotype is mutually exclusive with BRCA1 2 carrier mutations.
+authors: Ng CK, Cooke SL, Howe K, Newman S, Xian J, Temple J, Batty EM, Pole JC, Langdon
+  SP, Edwards PA and Brenton JD.
+cancertypes:
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C7700
+  term_label: Ovarian Adenocarcinoma
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
+  term_label: ovary
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
+  term_label: Ovary
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: james.brenton@cancer.org.uk
+  name: James Brenton
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22183581
+- geo:GSE29398
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: J Pathol (2011)
+label: 'Ng et al. (2011): The Role of Tandem Duplicator Phenotype in Tumour Evolution
+  in High-Grade Serous Ovarian ...'
+notes: ~
+pmid: 22183581
+title: The Role of Tandem Duplicator Phenotype in Tumour Evolution in High-Grade Serous
+  Ovarian Cancer.
+year: 2011

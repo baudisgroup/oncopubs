@@ -1,0 +1,59 @@
+---
+abstract: Liver metastases are the leading cause of death in colorectal cancer. To
+  gain better insight into the biology of metastasis and possibly identify new therapeutic
+  targets we systematically investigated liver-metastasis-specific molecular aberrations.
+authors: Stange DE, Engel F, Longerich T, Koo BK, Koch M, Delhomme N, Aigner M, Toedt
+  G, Schirmacher P, Lichter P, Weitz J and Radlwimmer B.
+cancertypes:
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: B Radlwimmer
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20479215
+- geo:GSE10179
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Gut 59, 9 (2010): 1236-44.'
+label: 'Stange et al. (2010): Expression of an Ascl2 Related Stem Cell Signature and
+  Igf2 in Colorectal Cancer Liver Metastases ...'
+notes: ~
+pmid: 20479215
+title: Expression of an Ascl2 Related Stem Cell Signature and Igf2 in Colorectal Cancer
+  Liver Metastases With 11p15.5 Gain.
+year: 2010

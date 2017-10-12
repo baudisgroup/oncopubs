@@ -1,0 +1,51 @@
+---
+abstract: Cervical cancer CC is the second most common cancer in women. Currently,
+  no tractable molecular-based therapeutic targets exist for patients with invasive
+  CC and no predictive markers of risk assessment for progression of precancerous
+  lesions are identified. New molecular insights into CC pathogenesis are urgently
+  needed. Towards this goal, we first determined the copy number alterations of chromosome
+  4 and then examined the role of PCDH10 mapped to 4q28 as a candidate tumor suppressor
+  gene. We identified monosomy 4 in 47 of 81 invasive CC studied by SNP array and
+  found that 91 of 130 invasive CC harboring methylation in the promoter region of
+  the PCDH10 gene. We then showed that aberrant promoter hypermethylation of PCDH10
+  is associated with downregulation of gene expression and cell lines exposed to demethylating
+  agent resulted in profound reactivated gene expression. We also showed that the
+  promoter methylation in the PCDH10 gene occurs at an earliest identifiable stage
+  of low-grade squamous intraepithelial lesion. Our studies demonstrate that inactivation
+  of PCDH10 may be a critical event in CC progression and form a potentially useful
+  therapeutic target for CC.
+authors: Narayan G, Scotto L, Neelakantan V, Kottoor SH, Wong AH, Loke SL, Mansukhani
+  M, Pothuri B, Wright JD, Kaufmann AM, Schneider A, Arias-Pulido H, Tao Q and Murty
+  VV.
+cancertypes: []
+contact:
+  email: murty.vundavalli@gmail.com
+  name: Vundavalli V. Murty
+counts:
+  biosamples: 81
+  samples_acgh: 81
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19681120
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 48, 11 (2009): 983-92.'
+label: 'Narayan et al. (2009): Protocadherin Pcdh10, Involved in Tumor Progression,
+  is a Frequent and Early Target of Promoter ...'
+notes: ~
+pmid: 19681120
+title: Protocadherin Pcdh10, Involved in Tumor Progression, is a Frequent and Early
+  Target of Promoter Hypermethylation in Cervical Cancer.
+year: 2009

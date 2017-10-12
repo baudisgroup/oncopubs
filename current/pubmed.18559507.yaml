@@ -1,0 +1,78 @@
+---
+abstract: Recurrent genomic amplifications and deletions are frequently observed in
+  primary gastric cancers (GC). However, identifying specific oncogenes and tumor
+  suppressor genes within these regions can be challenging, as they often cover tens
+  to hundreds of genes. Here, we combined high-resolution array-based comparative
+  genomic hybridization (aCGH) with gene expression profiling to target genes within
+  focal high-level amplifications in GC cell lines, and identified RAB23 as an amplified
+  and overexpressed Chr 6p11p12 gene in Hs746T cells. High RAB23 protein expression
+  was also observed in some lines lacking RAB23 amplification, suggesting additional
+  mechanisms for up-regulating RAB23 besides gene amplification. siRNA silencing of
+  RAB23 significantly reduced cellular invasion and migration in Hs746T cells, whereas
+  overexpression of RAB23 enhanced cellular invasion in AGS cells. RAB23 amplifications
+  in primary gastric tumors were confirmed by both fluorescence in situ hybridization
+  and genomic qPCR, and in two independent patient cohorts from Hong Kong and the
+  United Kingdom RAB23 expression was significantly associated with diffuse-type GC
+  (dGC) compared with intestinal-type GC (iGC). These results provide further evidence
+  that dGC and iGC likely represent two molecularly distinct tumor types, and show
+  that investigating focal chromosomal amplifications by combining high-resolution
+  aCGH with expression profiling is a powerful strategy for identifying novel cancer
+  genes in regions of recurrent chromosomal aberration.
+authors: Hou Q, Wu YH, Grabsch H, Zhu Y, Leong SH, Ganesan K, Cross D, Tan LK, Tao
+  J, Gopalakrishnan V, Tang BL, Kon OL and Tan P
+cancertypes:
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: gmstanp@nus.edu.sg
+  name: '65-6-436-8345 '
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18559507
+- geo:GSE10611
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: Asia
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Cancer Res. 68(12), 2008
+label: 'Hou Q et al. (2008): '
+notes: ~
+pmid: 18559507
+title: Integrative genomics identifies RAB23 as an invasion mediator gene in diffuse-type
+  gastric cancer.
+year: 2008

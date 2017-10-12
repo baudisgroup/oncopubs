@@ -1,0 +1,55 @@
+---
+abstract: Chronic myeloid leukemia CML is a myeloproliferative disorder characterized
+  by the presence in leukemic stem cells of the Philadelphia chromosome Ph and the
+  formation of the BCR-ABL1 fusion. Untreated, the disease progresses to accelerate
+  phase and blast crisis in which hematopoietic differentiation has become arrested.
+  CML progression is frequently associated with cytogenetic evidence of clonal evolution,
+  defined as additional chromosomal aberrations. We here report a CML resistant to
+  tyrosine kinase inhibitors that rapidly progressed to blastic phase. At this time,
+  array CGH performed on CD34 cells revealed cryptic partial deletions of both PRDM16
+  and RUNX1 and duplication of the der 21 chromosome. These genomic rearrangements
+  were confirmed by FISH with probes targeting the deletion on chromosome 21 24 kb
+  , and with BAC probes flanking the deletion on 1p36 220 kb . However, no cryptic
+  t 1 21 p36 q22 and or RUNX1-PRDM16 were detected, suggesting that these deletions
+  are the residual hallmarks of a more complex mechanism of chromosomal rearrangement,
+  as indicated by the additional inversion of the region bounded by 1p36.32 and 1p36.12
+  breaks. At the molecular level, these abnormalities lead to the overexpression of
+  the PR-domain negative oncogenic isoform of PRDM16, associated with two deleted
+  copies within the runt domain of C-teminal aberrant RUNX1. These events are not
+  detectable by conventional cytogenetic and molecular strategies, and may be of underestimated
+  frequency in disease progression.
+authors: Deluche L, Joha S, Corm S, Daudignon A, Geffroy S, Quief S, Villenet C, Kerckaert
+  JP, Lai JL, Preudhomme C and Roche-Lestienne C.
+cancertypes: []
+contact:
+  email: c-roche-lestienne@chru-lille.fr
+  name: Catherine Roche-Lestienne
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18767145
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.06
+    - 50.63
+    type: Point
+  info:
+    city: Lille
+    continent: Europe
+    country: France
+    label: Lille, France, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 12 (2008): 1110-17.'
+label: 'Deluche et al. (2008): Cryptic and Partial Deletions of Prdm16 and Runx1 Without
+  T(1;21)(P36;Q22) and/Or Runx1-Prdm16 ...'
+notes: ~
+pmid: 18767145
+title: 'Cryptic and Partial Deletions of Prdm16 and Runx1 Without T(1;21)(P36;Q22)
+  and/Or Runx1-Prdm16 Fusion in a Case of Progressive Chronic Myeloid Leukemia: A
+  Complex Chromosomal Rearrangement of Underestimated Frequency in Disease Progression '
+year: 2008

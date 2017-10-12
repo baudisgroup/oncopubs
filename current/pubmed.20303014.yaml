@@ -1,0 +1,47 @@
+---
+abstract: Information on structural chromosomal changes in brain metastases BM of
+  colorectal carcinoma CRC is very limited. Therapeutic and diagnostic strategies
+  to reduce the risk of BM have potential impact on cancer mortality. By using comparative
+  genomic hybridization, the primary CRC of 11 patients and their corresponding 13
+  BM were analyzed. BM showed significantly more mean chromosomal aberrations than
+  the primary CRC 13.6 -2.1 vs. 7.9 -1.9, P 0.03 , significantly more chromosomal
+  gains 7.2 -0.9 vs. 3.5 -0.9, P 0.01 , and tended to have also more losses 6.1 -1.4
+  vs. 4.0 -1.1, P 0.29 . Changes that occurred significantly more often in BM than
+  in primary CRC were gains of 8q, 12p, 12q, and 20p, as well as losses of 5q. BM
+  of CRC show a significantly higher chromosomal instability in comparison to primary
+  tumors. The prevalently altered genomic regions in the metastases of this study
+  are likely to harbor genes that play an important role in the genesis of brain-specific
+  metastasis.
+authors: Gutenberg A, Gerdes JS, Jung K, Sander B, Gunawan B, Bock HC, Liersch T,
+  Bruck W, Rohde V and Fuzesi L.
+cancertypes: []
+contact:
+  email: agutenberg@med.uni-goettingen.de
+  name: Angelika Gutenberg
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20303014
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 198, 1 (2010): 47-51.'
+label: 'Gutenberg et al. (2010): High Chromosomal Instability in Brain Metastases
+  of Colorectal Carcinoma.'
+notes: ~
+pmid: 20303014
+title: High Chromosomal Instability in Brain Metastases of Colorectal Carcinoma.
+year: 2010

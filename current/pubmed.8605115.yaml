@@ -1,0 +1,47 @@
+---
+abstract: Comparative genomic hybridization CGH allows detection of chromosomal imbalances
+  in whole genomes in a comprehensive manner. With this approach, ten cases of prostate
+  cancer seven primary tumors and three metastases were analyzed. Frequent chromosomal
+  gains detected by CGH involved chromosome arms 7q, 8q, 9q, and 16p, and chromosomes
+  20 and 22, as well as frequent losses of chromosome arms 16q and 18q, in at least
+  three of the ten cases. Overrepresentation of chromosome arm 9q has not been described
+  in published reports. The CGH data were compared with results of a loss of heterozygosity
+  LOH study, in which complete allelotyping was performed in the same prostate tumors
+  with 74 different polymorphic markers. In general, a high concordance between the
+  CGH and LOH results was observed 92 . Tumors revealing discrepancies by CGH and
+  LOH analysis were investigated further by interphase cytogenetics, and the resulting
+  picture regarding the genomic alterations is discussed in detail.
+authors: Joos S, Bergerheim US, Pan Y, Matsuyama H, Bentz M, du Manoir S and Lichter
+  P.
+cancertypes: []
+contact:
+  email: s.joos@dkfz.de
+  name: Stefan Joos
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8605115
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 14, 4 (1995): 267-76.'
+label: 'Joos et al. (1995): Mapping of Chromosomal Gains and Losses in Prostate Cancer
+  By Comparative Genomic ...'
+notes: ~
+pmid: 8605115
+title: Mapping of Chromosomal Gains and Losses in Prostate Cancer By Comparative Genomic
+  Hybridization.
+year: 1995

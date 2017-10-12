@@ -1,0 +1,50 @@
+---
+abstract: A characteristic of human gastroenteropancreatic neuroendocrine tumors GEP-NET
+  is a minute unobtrusive primary tumor which often cannot be detected by common physical
+  examinations. It therefore remains unidentified until the tumor has spread and space-occupying
+  metastases cause clinical symptoms leading to diagnosis. Cases in which the primary
+  cannot be located are referred to as NET with CUP-syndrome cancer of unknown primary
+  syndrome . With the help of array-CGH comparative genomic hybridization, Agilent
+  105K and gene expression analysis Agilent 44K , microdissected primaries and their
+  metastases were compared to identify up- and down-regulated genes which can be used
+  as a marker for tumor progression. In a next analysis step, a hierarchical clustering
+  of 41.078 genes revealed three genes C-type lectin domain family 13 member A CD302
+  , peptidylprolyl isomerase containing WD40 repeat PPWD1 and abhydrolase domain containing
+  14B ABHD14B which expression levels can categorize the metastases into three groups
+  depending on the localization of their primary. Because cancer therapy is dependent
+  on the localization of the primary, the gene expression level of these three genes
+  are promising markers to unravel the CUP syndrome in NET.
+authors: Posorski N, Kaemmerer D, Ernst G, Grabowski P, Hoersch D, Hommann M and von
+  Eggeling F.
+cancertypes: []
+contact:
+  email: ~
+  name: Ferdinand vonEggeling
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21681495
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: 'Clin Exp Metastasis 28, 7 (2011): 637-47.'
+label: 'Posorski et al. (2011): Localization of Sporadic Neuroendocrine Tumors By
+  Gene Expression Analysis of Their ...'
+notes: ~
+pmid: 21681495
+title: Localization of Sporadic Neuroendocrine Tumors By Gene Expression Analysis
+  of Their Metastases.
+year: 2011

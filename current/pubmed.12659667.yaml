@@ -5,8 +5,8 @@ authors: Pantou D, Tsarouha H, Papadopoulou A, Mahaira L, Kyriazoglou I, Apostol
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: gbardi@hotmail.com
   name: G Bardi

@@ -1,0 +1,50 @@
+---
+abstract: 'Non-invasive and invasive papillary transitional cell carcinomas of stages
+  pTa and pT1 represent the first steps of tumour progression in bladder cancer. In
+  order to analyse different chromosomal alterations of pTa and pT1 superficial bladder
+  cancer, 46 tumour specimens were examined by comparative genomic hybridization CGH
+  . Losses of chromosome 9 material 11 20 and gains of chromosome 17 material 6 20
+  were frequently found in pTa tumours. Stage pT1 tumours were characterized by gains
+  of chromosome 1q 14 26 including amplification at 1q21-q24 in three cases and chromosome
+  17 material 15 26 , as well as by losses of 11p 15 26 and 11q 13 26 . Other loci
+  frequently showing losses in pT1 tumours were 2q 9 26 , 4q 10 26 , 5q 9 26 , 8p
+  10 26 , 9p 9 26 , 9q 12 26 , 10q 8 26 , 17p 7 26 , and 18q 8 26 . Amplifications
+  were detected at 8q21 22, 5q21, 7q36, 10p14, 10p12, 10q25, 12q12, and 12q14. The
+  most striking differences between grade 2 pTa and pT1 tumours were gains of 1q P
+  amp lt 0.01 and losses at 2q P amp lt 0.025 , 10q P amp lt 0.05 , 11p P amp lt 0.01
+  , 11q P amp lt 0.01 , and 17p P amp lt 0.05 , as well as the total number of aberrations
+  pTa grade 2: 4.1 pT1 grade 2: 8.6 aberrations per tumour . These data show characteristic
+  chromosomal aberrations associated with invasion in superficial bladder cancer.'
+authors: Simon R, Burger H, Brinkschmidt C, Bocker W, Hertle L and Terpe HJ.
+cancertypes: []
+contact:
+  email: terpe@uni-muenster.de
+  name: Hans Joachim Terpe
+counts:
+  biosamples: 46
+  samples_acgh: 0
+  samples_ccgh: 46
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9828832
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'J Pathol 185, 4 (1998): 345-51.'
+label: 'Simon et al. (1998): Chromosomal Aberrations Associated With Invasion in Papillary
+  Superficial Bladder ...'
+notes: ~
+pmid: 9828832
+title: Chromosomal Aberrations Associated With Invasion in Papillary Superficial Bladder
+  Cancer.
+year: 1998

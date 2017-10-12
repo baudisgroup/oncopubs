@@ -1,0 +1,132 @@
+---
+abstract: 'Testicular germ cell tumours of adults and adolescents TGCT include seminomas
+  SE and nonseminomas NS , with spermatocytic seminomas SSE representing a distinct
+  entity in older men. SE and NS have gain of 12p material in all cases, whereas SSE
+  are associated with overrepresentation of chromosome 9. Here, we compare at the
+  chromosomal level, copy number imbalances with global expression changes, identified
+  by comparative expressed sequence hybridisation analyses, in seven SE, one combined
+  tumour, seven NS and seven cell lines. Positive correlations were found consistent
+  with copy number as a main driver of expression change, despite reported differences
+  in methylation status in SE and NS. Analysis of chromosomal copy number and expression
+  data could not distinguish between SE and NS, in-keeping with a similar genetic
+  pathogenesis. However, increased expression from 4q22, 5q23.2 and 9p21 distinguished
+  SSE from SE and NS and decreased copy number and expression from 2q36-q37 and 6q24
+  was a specific feature of NS-derived cell lines. Our analysis also highlights 19
+  regions with both copy number and expression imbalances in greater than 40 of cases.
+  Mining available expression array data identified genes from these regions as candidates
+  for involvement in TGCT development. Supplementary data is available at http: www.crukdmf.icr.ac.uk
+  array array.html.'
+authors: McIntyre A, Summersgill B, Lu YJ, Missiaglia E, Kitazawa S, Oosterhuis JW,
+  Looijenga LH and Shipley J.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: ncit:C2996
+  term_label: Dysgerminoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3011
+  term_label: Yolk Sac Tumor
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C3752
+  term_label: Embryonal Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: ncit:C4286
+  term_label: Immature Teratoma
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C9010
+  term_label: Mixed Teratoma and Seminoma
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C9309
+  term_label: Seminoma
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:9060_3
+  term_label: Dysgerminoma
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:9061_3
+  term_label: Seminoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:9070_3
+  term_label: Embryonal carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9071_3
+  term_label: Yolk sac tumor
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:9080_3
+  term_label: Teratoma, malignant, NOS
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9085_3
+  term_label: Mixed germ cell tumor
+- samples_arraymap: ~
+  samples_progenetix: 72
+  term_id: pgx:icdot:C62
+  term_label: testis
+- samples_arraymap: ~
+  samples_progenetix: 72
+  term_id: pgx:seer:28020
+  term_label: Testis
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-90603
+  term_label: Dysgerminoma
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-90613
+  term_label: Seminoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-90703
+  term_label: Embryonal carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-90713
+  term_label: Yolk sac tumor
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-90803
+  term_label: Teratoma, malignant, NOS
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-90853
+  term_label: Mixed germ cell tumor
+contact:
+  email: janet.shipley@icr.ac.uk
+  name: Janet Shipley
+counts:
+  biosamples: 72
+  samples_acgh: 0
+  samples_ccgh: 72
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18059402
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Br J Cancer 97, 12 (2007): 1707-12.'
+label: 'McIntyre et al. (2007): Genomic Copy Number and Expression Patterns in Testicular
+  Germ Cell Tumours.'
+notes: 72 cases and cell line were analyzed in total, some of which have been published
+  previously.
+pmid: 18059402
+title: Genomic Copy Number and Expression Patterns in Testicular Germ Cell Tumours.
+year: 2007

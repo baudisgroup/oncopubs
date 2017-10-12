@@ -1,0 +1,40 @@
+---
+abstract: To identify children with T-cell acute lymphoblastic leukemia T-ALL at high
+  risk of induction chemotherapy failure by using DNA copy number analysis of leukemic
+  cells collected at diagnosis.
+authors: Gutierrez A, Dahlberg SE, Neuberg DS, Zhang J, Grebliunaite R, Sanda T, Protopopov
+  A, Tosello V, Kutok J, Larson RS, Borowitz MJ, Loh ML, Ferrando AA, Winter SS, Mullighan
+  CG, Silverman LB, Chin L, Hunger SP, Sallan SE and Look AT.
+cancertypes: []
+contact:
+  email: ~
+  name: Thomas Look
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20644084
+- geo:GSE14959
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'J Clin Oncol 28, 24 (2010): 3816-23.'
+label: 'Gutierrez et al. (2010): Absence of Biallelic Tcrgamma Deletion Predicts Early
+  Treatment Failure in Pediatric T-Cell ...'
+notes: ~
+pmid: 20644084
+title: Absence of Biallelic Tcrgamma Deletion Predicts Early Treatment Failure in
+  Pediatric T-Cell Acute Lymphoblastic Leukemia.
+year: 2010

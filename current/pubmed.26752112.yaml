@@ -1,0 +1,50 @@
+---
+abstract: Many patients with hepatocellular carcinoma (HCC) have multiple lesions
+  (primary tumors, intrahepatic metastases, multiple occurrences, satellite nodules,
+  and tumor thrombi); these have been associated with a poor prognosis and tumor recurrence
+  after surgery. We investigated the clonal relationship among these lesions on the
+  basis of genetic features.  We collected 43 lesions and 10 matched control samples
+  (blood or non-tumorous liver) from 10 patients with hepatitis B virus (HBV)-associated
+  HCC treated at Tianjin Cancer Hospital (China) from January 2013 through May 2014.
+  We performed exome and low-depth whole genome sequencing on these samples. Genomic
+  aberrations, including somatic mutations and copy number variations, were identified
+  using germline DNA as control. We compared the genetic features of different lesions
+  from each patient and constructed phylogenetic trees to depict their evolutionary
+  histories.  In each patient, mutations shared by all the lesions were called ubiquitous
+  mutations. The percentage of ubiquitous mutations varied from 8% to 97% among patients,
+  indicating variation in the extent of intra-tumor heterogeneity. Branched evolution
+  was evident, with somatic mutations, HBV integrations, and copy number variations
+  identified on both the trunks and branches of the phylogenetic trees. Intra-hepatic
+  metastases and tumor thrombi contained some, but not all, of the mutations detected
+  in their matched primary lesions. By contrast, satellite nodules shared approximately
+  90% of mutations detected in primary lesions. In a patient with multi-centric tumors,
+  6 lesions were assigned to 2 distinct groups, based on significant differences in
+  genetic features. In another patient with combined hepatocellular and intrahepatic
+  cholangiocarcinoma, the physically separate HCC and cholangiocarcinoma lesions shared
+  102 mutations.  The extent of intra-tumor heterogeneity varies considerably among
+  patients with HCC. Therefore, sequence analysis of a single lesion cannot completely
+  characterize the genomic features of HCC in some patients. Genomic comparisons of
+  multiple lesions associated with HCCs will provide important information on the
+  genetic changes associated with tumor progression.  Copyright ï¿½ 2015 AGA Institute.
+  Published by Elsevier Inc. All rights reserved.
+authors: Xue R, Li R, Guo H, Guo L, Su Z, Ni X, Qi L, Zhang T, Li Q, Zhang Z, Xie
+  XS, Bai F and Zhang N
+cancertypes: []
+contact:
+  email: zhangning@tmu.edu.cn
+  name: Ning Zhang
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 10
+  samples_wgs: 10
+external_identifiers:
+- pubmed:26752112
+journal: Gastroenterology, 2016
+label: 'Xue R et al. (2016): '
+notes: ~
+pmid: 26752112
+title: Variable Extent of Intra-tumor Heterogeneity Revealed by Genomic Sequencing
+  of Multiple Lesions in Patients with Hepatocellular Carcinoma.
+year: 2016

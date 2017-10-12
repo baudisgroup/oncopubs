@@ -1,0 +1,40 @@
+---
+abstract: Although genetic aspects of tumorigenesis in colorectal cancer CRC have
+  been well studied, reliable biomarkers predicting prognosis are scarce. We aimed
+  to identify recurrently altered genomic regions RAR in CRC with high resolution,
+  to investigate their implications on survival and to explore novel cancer-related
+  genes in prognosis-associated RARs.
+authors: Kim MY, Yim SH, Kwon MS, Kim TM, Shin SH, Kang HM, Lee C and Chung YJ.
+cancertypes: []
+contact:
+  email: yejun@catholic.ac.kr
+  name: Yeun  Jun Chung
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17087931
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Gastroenterology 131, 6 (2006): 1913-24.'
+label: 'Kim et al. (2006): Recurrent Genomic Alterations With Impact on Survival in
+  Colorectal Cancer Identified By Genome-Wide ...'
+notes: Although http://lib.cuk.ac.kr/micro/CGH/colon.htm was listed as location for
+  the log2 data, the file did not exist.
+pmid: 17087931
+title: Recurrent Genomic Alterations With Impact on Survival in Colorectal Cancer
+  Identified By Genome-Wide Array Comparative Genomic Hybridization.
+year: 2006

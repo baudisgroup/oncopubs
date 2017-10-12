@@ -1,0 +1,60 @@
+---
+abstract: Purpose As estrogen receptor (ER)-positive breast cancer in BRCA1 mutation
+  carriers arises at an older age with less aggressive tumor characteristics than
+  ER negative BRCA1 mutated breast cancer, it has been suggested that these tumors
+  are 'sporadic' and not BRCA1-driven. With the introduction of targeted treatments
+  specific for tumors with a non-functioning BRCA1 or BRCA2 gene, the question whether
+  the BRCA genes are impaired in the tumor, is highly relevant. Therefore, we performed
+  genomic profiling of BRCA1-mutated ER+ tumors. Experimental Design Genomic profiling,
+  BRCA1 promoter methylation assessment, and loss of heterozygosity analysis were
+  done on 16 BRCA1-mutated ER+ tumors. Results were compared with 57 BRCA1-mutated
+  ER- tumors, 36 BRCA2-mutated ER+ associated tumors, and 182 sporadic ER+ tumors.
+  Results The genomic profile of BRCA1-mutated ER+ tumors was different from BRCA1-mutated
+  ER- breast tumors, but highly similar to BRCA2-mutated ER+ tumors. In 83% of the
+  BRCA1-mutated ER+ tumors, loss of the wildtype BRCA1 allele was observed. In addition,
+  clinico-pathological variables in BRCA1-mutated ER+ cancer were also more similar
+  to BRCA2-mutated ER+ and sporadic ER+ breast cancer than to BRCA1 mutated ER- cancers.
+  Conclusions As BRCA1-mutated ER+ tumors show a BRCAness copy number profile and
+  LOH, it is likely that the loss of a functional BRCA1 protein plays a role in tumorigenesis
+  in BRCA1-mutated ER+ tumors. Therefore, we hypothesize that these tumors are sensitive
+  to drugs targeting the BRCA1 gene defect, providing new targeted treatment modalities
+  for advanced BRCA-deficient, ER-positive breast cancer.
+authors: Lips EH, Debipersad R, Scheerman CE, Mulder L, Sonke GS, van der Kolk LE,
+  Wesseling J, Hogervorst FB, Nederlof PM.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: e.lips@nki.nl
+  name: EH Lips
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27620280
+- geo:GSE77604
+- geo:GSE77605
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Clin. Cancer Res., 2016
+label: ' (2016): '
+notes: ~
+pmid: 27620280
+title: BRCA1-mutated estrogen receptor positive breast cancer shows BRCAness, suggesting
+  sensitivity to drugs targeting homologous recombination deficiency.
+year: 2016

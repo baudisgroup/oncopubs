@@ -1,0 +1,76 @@
+---
+abstract: Pediatric rhabdomyosarcoma occurs as two biologically distinct histological
+  variants, embryonal ERMS and alveolar ARMS . To identify genomic changes that drive
+  ERMS pathogenesis, we used a new array comparative genomic hybridization aCGH platform
+  to examine a specific subset of ERMS tumors, those occurring in children with clinically
+  defined intermediate-risk disease. The aCGH platform used has an average probe spacing
+  approximately 1 kb, and can identify genomic changes with single gene resolution.
+  Our data suggest that these tumors share a common genomic program that includes
+  inactivation of a master regulator of the p53 and Rb pathways, CDKN2A B, and activation
+  of FGFR4, Ras, and Hedgehog Hh signaling. The CDKN2A B tumor suppressor is deleted
+  in most patient samples. FGFR4, which encodes a receptor tyrosine kinase, is activated
+  in 20 of tumors, predominantly by amplification of mutant, activating FGFR4 alleles.
+  Over 50 of patients had low-level gains of a region containing the Hh-pathway transcription
+  factor GLI1, and a gene expression pattern consistent with Hh-pathway activation.
+  We also identified intragenic deletions affecting NF1, a tumor suppressor and inhibitor
+  of Ras, in 15 of tumor samples. Deletion of NF1 and the presence of activating Ras
+  mutations in 42 of patients were mutually exclusive, suggesting NF1 loss is an alternative
+  and potentially common mechanism of Ras activation in ERMS. Our data suggest that
+  intermediate-risk ERMS is driven by a common set of genomic defects, a finding that
+  has important implications for the application of targeted therapies to improve
+  the treatment of children diagnosed with this disease.
+authors: Paulson V, Chandler G, Rakheja D, Galindo RL, Wilson K, Amatruda JF and Cameron
+  S.
+cancertypes:
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: ncit:C8971
+  term_label: Embryonal Rhabdomyosarcoma
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: pgx:icdom:8910_3
+  term_label: Embryonal rhabdomyosarcoma, NOS
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: snmi:M-89103
+  term_label: Embryonal rhabdomyosarcoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 26
+  samples_acgh: 26
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21412928
+- geo:GSE27392
+geo_data:
+  geo_json:
+    coordinates:
+    - -96.81
+    - 32.78
+    type: Point
+  info:
+    city: Dallas
+    continent: North America
+    country: United States
+    label: Dallas, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer (2011) 50: 397-408.'
+label: 'Paulson et al. (2011): High-resolution array CGH identifies common mechanisms
+  that drive embryonal rhabdomyosarcoma ...'
+notes: ~
+pmid: 21412928
+title: High-resolution array CGH identifies common mechanisms that drive embryonal
+  rhabdomyosarcoma pathogenesis.
+year: 2011

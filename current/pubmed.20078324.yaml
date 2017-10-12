@@ -1,0 +1,67 @@
+---
+abstract: 'Array-based comparative genomic hybridization arrayCGH studies in chronic
+  lymphocytic leukemia CLL have revealed novel recurrent chromosomal imbalances, such
+  as a gain of chromosome 2p. However, a detailed cytogenetic analysis of the 2p gain
+  region has not been elucidated. Here, we present cytogenetic and molecular cytogenetic
+  analysis of 16 such cases selected from a group of 200 patients with CLL based on
+  CGH and or arrayCGH data. We revealed significant heterogeneity of the region of
+  gain on 2p in CLL, including a new recurrent aberration: the dicentric chromosome,
+  dic 2 18 . In our cases, the region of gain involved three genes MYCN, REL, and
+  ALK and was associated with an unmutated IgVH status in 14 out of 16 cases. We consider
+  this aberration clinically important in CLL and suggest that an examination of the
+  gene s located in region of gain should be included in the routine fluorescence
+  in situ hybridization screening method used for patients with CLL.'
+authors: Jarosova M, Urbankova H, Plachy R, Papajik T, Holzerova M, Balcarkova J,
+  Pikalova Z, Divoky V and Indrak K.
+cancertypes:
+- samples_arraymap: 12
+  samples_progenetix: 16
+  term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 12
+  samples_progenetix: 16
+  term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- samples_arraymap: 12
+  samples_progenetix: 16
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 12
+  samples_progenetix: 16
+  term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 12
+  samples_progenetix: 16
+  term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+contact:
+  email: marie.jarosova@fnol.cz
+  name: Marie Jarosova
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20078324
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: Europe
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: 'Leuk Lymphoma 51, 2 (2010): 304-13.'
+label: 'Jarosova et al. (2010): Gain of Chromosome 2p in Chronic Lymphocytic Leukemia:
+  Significant Heterogeneity and a New ...'
+notes: ~
+pmid: 20078324
+title: 'Gain of Chromosome 2p in Chronic Lymphocytic Leukemia: Significant Heterogeneity
+  and a New Recurrent Dicentric Rearrangement.'
+year: 2010

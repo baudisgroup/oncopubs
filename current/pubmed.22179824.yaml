@@ -1,0 +1,70 @@
+---
+abstract: Though prostate cancer is often indolent, it is nonetheless a leading cause
+  of cancer death. Defining the underlying molecular genetic alterations may lead
+  to new strategies for prevention or treatment. Towards this goal, we performed array-based
+  comparative genomic hybridization CGH on 86 primary prostate tumors. Among the most
+  frequent alterations not associated with a known cancer gene, we identified focal
+  deletions within 5q21 in 15 out of 86 17 cases. By high-resolution tiling array
+  CGH, the smallest common deletion targeted just one gene, the chromatin remodeler
+  chromodomain helicase DNA-binding protein 1 CHD1 . Expression of CHD1 was significantly
+  reduced in tumors with deletion P 0.03 , and compared with normal prostate P 0.04
+  . Exon sequencing analysis also uncovered nonsynonymous mutations in 1 out of 7
+  14 cell lines LAPC4 and in 1 out of 24 4 prostate tumors surveyed. RNA interference-mediated
+  knockdown of CHD1 in two nontumorigenic prostate epithelial cell lines, OPCN2 and
+  RWPE-1, did not alter cell growth, but promoted cell invasiveness, and in OPCN2-enhanced
+  cell clonogenicity. Taken together, our findings suggest that CHD1 deletion may
+  underlie cell invasiveness in a subset of prostate cancers, and indicate a possible
+  novel role of altered chromatin remodeling in prostate tumorigenesis.
+authors: Huang S, Gulzar ZG, Salari K, Lapointe J, Brooks JD and Pollack JR.
+cancertypes:
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: pgx:seer:28010
+  term_label: Prostate
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: pollack1@stanford.edu
+  name: Jonathan Pollack
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22179824
+- geo:GSE29228
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Oncogene (2011)
+label: 'Huang et al. (2011): Recurrent Deletion of Chd1 in Prostate Cancer With Relevance
+  to Cell Invasiveness.'
+notes: ~
+pmid: 22179824
+title: Recurrent Deletion of Chd1 in Prostate Cancer With Relevance to Cell Invasiveness.
+year: 2011

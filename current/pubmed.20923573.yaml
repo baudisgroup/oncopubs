@@ -1,0 +1,61 @@
+---
+abstract: Multiple carcinogenesis is one of the major characteristics of human hepatocellular
+  carcinoma HCC . The history of multiple tumors, that is, whether they derive from
+  a common precancerous or cancerous ancestor or individually from hepatocytes, is
+  a major clinical issue. Multiple HCC is clinically classified as either intratumor
+  metastasis IM or multicentric carcinogenesis MC . Molecular markers that differentiate
+  IM and MC are of interest to clinical practitioners because the clinical diagnoses
+  of IM and MC often lead to different therapies.
+authors: Taniguchi K, Yamada T, Sasaki Y and Kato K.
+cancertypes:
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdot:C22
+  term_label: liver
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:seer:21071
+  term_label: Liver
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
+contact:
+  email: katou-ki@mc.pref.osaka.jp
+  name: Kikuya Kato
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20923573
+- geo:GSE22635
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: Asia
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: 'BMC Cancer 10 (2010): 530.'
+label: 'Taniguchi et al. (2010): Genetic and Epigenetic Characteristics of Human Multiple
+  Hepatocellular Carcinoma.'
+notes: ~
+pmid: 20923573
+title: Genetic and Epigenetic Characteristics of Human Multiple Hepatocellular Carcinoma.
+year: 2010

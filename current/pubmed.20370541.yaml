@@ -1,0 +1,50 @@
+---
+abstract: Adult T-cell leukemia-lymphoma ATLL is an HTLV-1-associated lymphoproliferative
+  malignancy that is frequently fatal. We compared gene expression profiles GEPs of
+  leukemic specimens from nine patients with ATLL at the time of diagnosis and immediately
+  after combination therapy with zidovudine AZT and interferon alpha IFNalpha . GEPs
+  were also related to genetic aberrations determined by comparative genomic hybridization.
+  We identified several genes anomalously over-expressed in the ATLL leukemic cells
+  at the mRNA level, including LYN, CSPG2, and LMO2, and confirmed LMO2 expression
+  in ATLL cells at the protein level. In vivo AZT-IFNalpha therapy evoked a marked
+  induction of interferon-induced genes accompanied by repression of cell-cycle regulated
+  genes, including those encoding ribosomal proteins. Remarkably, patients not responding
+  to AZT-IFNalpha differed most from responding patients in lower expression of these
+  same IFN-responsive genes, as well as components of the antigen processing and presentation
+  apparatus. Demonstration of specific gene expression signatures associated with
+  response to AZT-IFNalpha therapy may provide novel insights into the mechanisms
+  of action in ATLL.
+authors: Alizadeh AA, Bohen SP, Lossos C, Martinez-Climent JA, Ramos JC, Cubedo-Gil
+  E, Harrington WJ, and Lossos IS.
+cancertypes: []
+contact:
+  email: ilossos@med.miami.edu
+  name: Izidore Lossos
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20370541
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Leukemia &amp; lymphoma, 2010, .
+label: 'Alizadeh et al. (2010): Expression profiles of adult T-cell leukemia-lymphoma
+  and associations with clinical responses ...'
+notes: ~
+pmid: 20370541
+title: Expression profiles of adult T-cell leukemia-lymphoma and associations with
+  clinical responses to zidovudine and interferon alpha.
+year: 2010

@@ -1,0 +1,49 @@
+---
+abstract: The genetic mechanisms that define the malignant behaviour of small-cell
+  lung cancer SCLC are poorly understood. We performed comparative genomic hybridization
+  CGH on 22 autoptic SCLCs to screen the tumour genome for genomic imbalances. DNA
+  loss of chromosome 3p was a basic alteration that occurred in all tumours. Additionally,
+  deletions were observed on chromosome 10q in 94 of tumours and on chromosomes 4q,
+  5q, 13q and 17p in 86 of tumours. DNA loss was confirmed by loss of heterozygosity
+  LOH analysis for chromosomes 3p, 5q and 10q. Simultaneous mutations of these six
+  most abundant genetic changes were found in 12 cases. One single tumour carried
+  at least five deletions. DNA under-representations were observed less frequently
+  on chromosome 15q 55 and chromosome 16q 45 . The prevalent imbalances were clearly
+  indicated by the superposition of the 22 tumours to a CGH superkaryogram. In our
+  view, the high incidence of chromosomal loss is an indication that SCLC is defined
+  by a pattern of deletions and that the inactivation of multiple growth-inhibitory
+  pathways contributes in particular to the aggressive phenotype of that type of tumour.
+authors: Petersen I, Langreck H, Wolf G, Schwendel A, Psille R, Vogt P, Reichel MB,
+  Ried T and Dietel M.
+cancertypes: []
+contact:
+  email: iver.petersen@charite.de
+  name: Iver Petersen
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9000602
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Br J Cancer 75, 1 (1997): 79-86.'
+label: 'Petersen et al. (1997): Small-Cell Lung Cancer is Characterized By a High
+  Incidence of Deletions on Chromosomes 3p, 4q, ...'
+notes: ~
+pmid: 9000602
+title: Small-Cell Lung Cancer is Characterized By a High Incidence of Deletions on
+  Chromosomes 3p, 4q, 5q, 10q, 13q and 17p.
+year: 1997

@@ -1,0 +1,76 @@
+---
+abstract: Juvenile nasopharyngeal angiofibroma JNA is a rare benign tumor, mostly
+  affecting adolescent males. Some patients develop recurrences after surgery independently
+  of completeness of removal. Only very limited data concerning underlying chromosomal
+  changes are available. We therefore analyzed samples of 22 JNAs, including six recurrences,
+  with comparative genomic hybridization CGH . Additionally, quantitative image cytometry
+  was used for measurement of DNA aneuploidy in representative samples. Of the 13
+  primary JNAs without later recurrence, DNA gains were identified on autosomes in
+  only two samples. Four patients with one or two recurrences were included in the
+  study for one of these, no material of the primary tumor was available for analysis.
+  Looking at autosomes, two of the three available primaries displayed multiple gains
+  in one of those, two additional losses were observed. Multiple gains were detected
+  in two of the four first recurrences, but none in the two second recurrences. Across
+  all 22 samples, gains occurred in more than one sample on chromosomes arms 1p, 9q,
+  10q, 12q, 16p, 16q, 17q, 19p, 19q, 20q, and 22q. Losses were found in a single case
+  exclusively on chromosome 4. Sex chromosomes were frequently affected in both primary
+  tumors and recurrences. There was no correlation among tumor staging, age, and DNA
+  amplification. No DNA aneuploidy was detected, a finding in accordance with the
+  generally benign characteristics of JNAs. Our observations suggest that in JNA the
+  activation of oncogenes is more likely than the inactivation of tumor suppressor
+  genes. Autosomal gains in the primary tumor should be further evaluated as markers
+  for a potentially increased risk of recurrence after surgical removal in this entity.
+authors: Heinrich UR, Brieger J, Gosepath J, Wierzbicka M, Sokolov M, Roth Y, Szyfter
+  W, Bittinger F and Mann WJ.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C3799
+  term_label: Angiofibroma
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:9160_0
+  term_label: Angiofibroma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C11
+  term_label: nasopharynx
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:20060
+  term_label: Nasopharynx
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-91600
+  term_label: Angiofibroma, NOS
+contact:
+  email: heinrich@hno.klinik.uni-mainz.de
+  name: Ulf-Ruediger Heinrich
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17556070
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.28
+    - 49.98
+    type: Point
+  info:
+    city: Mainz
+    continent: Europe
+    country: Germany
+    label: Mainz, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 175, 2 (2007): 138-43.'
+label: 'Heinrich et al. (2007): Frequent Chromosomal Gains in Recurrent Juvenile Nasopharyngeal
+  Angiofibroma.'
+notes: For sex chromosomes, no case and band specific aberrations could be derived
+  from the article.
+pmid: 17556070
+title: Frequent Chromosomal Gains in Recurrent Juvenile Nasopharyngeal Angiofibroma.
+year: 2007

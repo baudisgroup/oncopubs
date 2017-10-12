@@ -1,0 +1,48 @@
+---
+abstract: Cutaneous T-cell lymphomas (CTCL) are a heterogeneous group of lymphomas
+  primarily involving the skin. The most common types are mycosis fungoides (MF) and
+  Sezary Syndrome (SS). We report a novel long-term fast-growing SS line termed BKP1
+  that was characterized by flow cytometry (FC), conventional and molecular cytogenetic
+  [FISH/multi-FISH together with array comparative genomic hybridization (aCGH)].
+  FC immunophenotype of the BKP1 is CD2+CD5+CD3+CD4+CD8-CD7-CD25-CD26-CD30-CD158k+.
+  The TCRÎ³ characterization of BKP1 by PCR identified a clonal rearrangement. The
+  conventional cytogenetic and Multi-FISH analysis showed complex chromosomal rearrangements.
+  aCGH analysis highlighted the loss of genes involved in cell cycle control, in immune
+  response (HLA, complement complex) and DNA damage repair mechanisms. The BKP1 is
+  another lymphoma cell line thoroughly characterized that can be a valuable tool
+  for both basic and applied research such as identification of deregulated genes
+  and/or pathways and screening for new antilymphoma drugs.  Â© 2014 John Wiley &
+  Sons A/S. Published by John Wiley & Sons Ltd.
+authors: Boudjarane J, Essaydi A, Farnault L, Popovici C, Lafage-Pochitaloff M, Beaufils
+  N, Berda-Haddad Y, Lacroix R, Nicolino-Brunet C, Le Treut T, Zattara H, Gabert J,
+  Kahn-Perlï¿½s B and Costello R
+cancertypes: []
+contact:
+  email: regis.costello@ap-hm.fr
+  name: Regis Costello
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25314094
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: Europe
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: Exp. Dermatol. 24(1), 2015
+label: 'Boudjarane J et al. (2015): '
+notes: ~
+pmid: 25314094
+title: Characterization of the novel Sezary lymphoma cell line BKP1.
+year: 2015

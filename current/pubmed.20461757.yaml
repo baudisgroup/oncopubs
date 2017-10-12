@@ -1,0 +1,50 @@
+---
+abstract: Loss of chromosome arm 8p, sometimes in combination with amplification of
+  proximal 8p, is found in urothelial carcinoma UC and other epithelial cancers and
+  is associated with more advanced tumor stage. We carried out array comparative genomic
+  hybridization on 174 UC and 33 UC cell lines to examine breakpoints and copy number.
+  This was followed by a detailed analysis of the cell lines using fluorescence in
+  situ hybridization FISH and, in some cases, M-FISH, to refine breakpoints and determine
+  translocation partners, heterozygosity analysis, and analysis of expression of selected
+  genes. We showed an overall pattern of 8p loss with reduced heterozygosity and reduced
+  gene expression. Amplification was seen in some samples and shown in the cell line
+  JMSU1 to correlate with overexpression of ZNF703, ERLIN2, PROSC, GPR124, and BRF2.
+  Apart from the centromere, no single breakpoint was overrepresented, and we postulate
+  that frequent complex changes without consistent breakpoints reflect the need for
+  alterations of combinations of genes. The region around 2 Mb, which was homozygously
+  deleted in one cell line and includes the gene ARHGEF10 and the micro-RNA hsa-mir-596,
+  is one candidate tumor suppressor gene region.
+authors: Williams SV, Platt FM, Hurst CD, Aveyard JS, Taylor CF, Pole JC, Garcia MJ
+  and Knowles MA.
+cancertypes: []
+contact:
+  email: margaret.knowles@cancer.org.uk
+  name: Margaret Knowles
+counts:
+  biosamples: 207
+  samples_acgh: 207
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20461757
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 53.8
+    type: Point
+  info:
+    city: Leeds
+    continent: Europe
+    country: United Kingdom
+    label: Leeds, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 49, 7 (2010): 642-59.'
+label: 'Williams et al. (2010): High-Resolution Analysis of Genomic Alteration on
+  Chromosome Arm 8p in Urothelial ...'
+notes: ~
+pmid: 20461757
+title: High-Resolution Analysis of Genomic Alteration on Chromosome Arm 8p in Urothelial
+  Carcinoma.
+year: 2010

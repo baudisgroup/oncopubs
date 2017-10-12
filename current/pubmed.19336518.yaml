@@ -1,0 +1,62 @@
+---
+abstract: Histologic grade is currently the best predictor of clinical course in chondrosarcoma
+  patients. Grading suffers, however, from extensive interobserver variability and
+  new objective markers are needed. Hence, we have investigated DNA copy numbers in
+  chondrosarcomas with the purpose of identifying markers useful for prognosis and
+  subclassification.
+authors: Hallor KH, Staaf J, Bovee JV, Hogendoorn PC, Cleton-Jansen AM, Knuutila S,
+  Savola S, Niini T, Brosjo O, Bauer HC, Vult von Steyern F, Jonsson K, Skorpil M,
+  Mandahl N and Mertens F.
+cancertypes:
+- samples_arraymap: 67
+  samples_progenetix: ~
+  term_id: ncit:C2946
+  term_label: Chondrosarcoma
+- samples_arraymap: 67
+  samples_progenetix: ~
+  term_id: pgx:icdom:9220_3
+  term_label: Chondrosarcoma, NOS
+- samples_arraymap: 67
+  samples_progenetix: ~
+  term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- samples_arraymap: 67
+  samples_progenetix: ~
+  term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- samples_arraymap: 67
+  samples_progenetix: ~
+  term_id: snmi:M-92203
+  term_label: Chondrosarcoma, NOS
+contact:
+  email: Karolin.Hansen_Hallor@med.lu.se
+  name: Karolin Hallor
+counts:
+  biosamples: 67
+  samples_acgh: 67
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19336518
+- geo:GSE12532
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Clin Cancer Res 15, 8 (2009): 2685-94.'
+label: 'Hallor et al. (2009): Genomic Profiling of Chondrosarcoma: Chromosomal Patterns
+  in Central and Peripheral ...'
+notes: ~
+pmid: 19336518
+title: 'Genomic Profiling of Chondrosarcoma: Chromosomal Patterns in Central and Peripheral
+  Tumors.'
+year: 2009

@@ -1,0 +1,41 @@
+---
+abstract: Cell lines are commonly used in various kinds of biomedical research in
+  the world. However, it remains uncertain whether genomic alterations existing in
+  primary tumor tissues are represented in cell lines and whether cell lines carry
+  cell line-specific genomic alterations. This study was performed to answer these
+  questions.
+authors: Tsuji K, Kawauchi S, Saito S, Furuya T, Ikemoto K, Nakao M, Yamamoto S, Oka
+  M, Hirano T and Sasaki K.
+cancertypes: []
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20070913
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'BMC Cancer 10 (2010): 15.'
+label: 'Tsuji et al. (2010): Breast Cancer Cell Lines Carry Cell Line-Specific Genomic
+  Alterations That Are Distinct From ...'
+notes: ~
+pmid: 20070913
+title: 'Breast Cancer Cell Lines Carry Cell Line-Specific Genomic Alterations That
+  Are Distinct From Aberrations in Breast Cancer Tissues: Comparison of the Cgh Profiles
+  Between Cancer Cell Lines and Primary Cancer Tissues.'
+year: 2010

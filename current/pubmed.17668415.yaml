@@ -1,0 +1,88 @@
+---
+abstract: Primary serous ovarian carcinoma OVCA and serous Fallopian tube carcinoma
+  FTC , both belonging to the BRCA-linked tumour spectrum, share many properties and
+  are treated similarly. However, a detailed molecular comparison has been lacking.
+  We hypothesized that comparative genomic studies of serous OVCAs and FTCs should
+  point to gene regions critically involved in their tumorigenesis. Array comparative
+  genomic hybridization array CGH analysis indicated that serous OVCAs and serous
+  FTCs displayed common but also more distinctive patterns of recurrent changes. Targeted
+  gene identification using a dedicated multiplex ligation-dependent probe amplification
+  MLPA probe set directly identified EIF2C2 on 8q as a potentially important driver
+  gene. Other previously unappreciated gained amplified genes included PSMB4 on 1q,
+  MTSS1 on 8q, TEAD4 and TSPAN9 on 12p, and BCAS4 on 20q. SPINT2 and ACTN4 on 19q
+  were predominantly found in FTCs. Gains amplifications of CCNE1 and MYC, often in
+  conjunction with changes in genes of the AKT pathway, EVI1 and PTK2, seemed to be
+  involved at earlier stages, whereas changes of ERBB2 were associated with advanced
+  stages. The only BRCA1-mutated FTC shared common denominators with the sporadic
+  tumours. In conclusion, the data suggest that serous OVCAs and FTCs, although related,
+  exhibit differences in genomic profiles. In addition to known pathways, new genes
+  pathways are likely to be involved, with changes in an miRNA-associated gene, EIF2C2,
+  as one important new feature. Dedicated MLPA sets constitute potentially important
+  tools for differential diagnosis and may provide footholds for tailored therapy.
+authors: Nowee ME, Snijders AM, Rockx DA, de Wit RM, Kosma VM, Hamalainen K, Schouten
+  JP, Verheijen RH, van Diest PJ, Albertson DG and Dorsman JC.
+cancertypes:
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: ncit:C3778
+  term_label: ~
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:C40101
+  term_label: Serous Adenocarcinoma
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
+  term_label: ovary
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C57.0
+  term_label: fallopian tube
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
+  term_label: Ovary
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:27070
+  term_label: Other Female Genital Organs
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+contact:
+  email: jc.dorsman@vumc.nl
+  name: J. C. Dorsman
+counts:
+  biosamples: 28
+  samples_acgh: 28
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17668415
+- geo:GSE12040
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pathol 213, 1 (2007): 46-55.'
+label: 'Nowee et al. (2007): DNA Profiling of Primary Serous Ovarian and Fallopian
+  Tube Carcinomas With Array Comparative ...'
+notes: ~
+pmid: 17668415
+title: DNA Profiling of Primary Serous Ovarian and Fallopian Tube Carcinomas With
+  Array Comparative Genomic Hybridization and Multiplex Ligation-Dependent Probe Amplification.
+year: 2007

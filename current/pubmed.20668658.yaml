@@ -1,0 +1,41 @@
+---
+abstract: Traditionally, non-small cell lung cancer is treated as a single disease
+  entity in terms of systemic therapy. Emerging evidence suggests the major subtypes--adenocarcinoma
+  AC and squamous cell carcinoma SqCC --respond differently to therapy. Identification
+  of the molecular differences between these tumor types will have a significant impact
+  in designing novel therapies that can improve the treatment outcome.
+authors: Lockwood WW, Chari R, Coe BP, Thu KL, Garnis C, Malloff CA, Campbell J, Williams
+  AC, Hwang D, Zhu CQ, Buys TP, Yee J, English JC, Macaulay C, Tsao MS, Gazdar AF,
+  Minna JD, Lam S and Lam WL.
+cancertypes: []
+contact:
+  email: wlockwoo@bccrc.ca
+  name: William Lockwood
+counts:
+  biosamples: 181
+  samples_acgh: 181
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20668658
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'PLoS Med 7, 7 (2010): e1000315.'
+label: 'Lockwood et al. (2010): Integrative Genomic Analyses Identify Brf2 as a Novel
+  Lineage-Specific Oncogene in Lung Squamous ...'
+notes: ~
+pmid: 20668658
+title: Integrative Genomic Analyses Identify Brf2 as a Novel Lineage-Specific Oncogene
+  in Lung Squamous Cell Carcinoma.
+year: 2010

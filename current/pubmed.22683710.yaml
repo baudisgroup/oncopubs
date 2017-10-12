@@ -1,0 +1,96 @@
+---
+abstract: The molecular pathogenesis of renal cell carcinoma (RCC) is poorly understood.
+  Whole-genome and exome sequencing followed by innovative tumorgraft analyses (to
+  accurately determine mutant allele ratios) identified several putative two-hit tumor
+  suppressor genes, including BAP1. The BAP1 protein, a nuclear deubiquitinase, is
+  inactivated in 15% of clear cell RCCs. BAP1 cofractionates with and binds to HCF-1
+  in tumorgrafts. Mutations disrupting the HCF-1 binding motif impair BAP1-mediated
+  suppression of cell proliferation but not deubiquitination of monoubiquitinated
+  histone 2A lysine 119 (H2AK119ub1). BAP1 loss sensitizes RCC cells in vitro to genotoxic
+  stress. Notably, mutations in BAP1 and PBRM1 anticorrelate in tumors (P = 3 ï¿½
+  10(-5)), [corrected] and combined loss of BAP1 and PBRM1 in a few RCCs was associated
+  with rhabdoid features (q = 0.0007). BAP1 and PBRM1 regulate seemingly different
+  gene expression programs, and BAP1 loss was associated with high tumor grade (q
+  = 0.0005). Our results establish the foundation for an integrated pathological and
+  molecular genetic classification of RCC, paving the way for subtype-specific treatments
+  exploiting genetic vulnerabilities.
+authors: Peï¿½a-Llopis S, Vega-Rubï¿½n-de-Celis S, Liao A, Leng N, Pavï¿½a-Jimï¿½nez
+  A, Wang S, Yamasaki T, Zhrebker L, Sivanand S, Spence P, Kinch L, Hambuch T, Jain
+  S, Lotan Y, Margulis V, Sagalowsky AI, Summerour PB, Kabbani W, Wong SW, Grishin
+  N, Laurent M, Xie XJ, Haudenschild CD, Ross MT, Bentley DR, Kapur P and Brugarolas
+  J
+cancertypes:
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- samples_arraymap: 26
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 26
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: pgx:icdot:C64.9
+  term_label: kidney
+- samples_arraymap: 26
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- samples_arraymap: 26
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 26
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
+contact:
+  email: james.brugarolas@utsouthwestern.edu
+  name: Brugarolas, J
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 1
+external_identifiers:
+- pubmed:22683710
+- geo:GSE25540
+geo_data:
+  geo_json:
+    coordinates:
+    - -96.81
+    - 32.78
+    type: Point
+  info:
+    city: Dallas
+    continent: North America
+    country: United States
+    label: Dallas, United States, North America
+    precision: city
+journal: Nat. Genet. 44(7), 2012
+label: 'Peï¿½a-Llopis S et al. (2012): '
+notes: ~
+pmid: 22683710
+title: BAP1 loss defines a new class of renal cell carcinoma.
+year: 2012

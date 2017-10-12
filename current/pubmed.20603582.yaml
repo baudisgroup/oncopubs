@@ -1,0 +1,64 @@
+---
+abstract: Patients with ALL rarely present with t 12 17 p13 q21 as the primary clonal
+  abnormality this abnormality is associated with the expression of myeloid antigens.
+  In this study, we have reported presumably the first case of this chromosomal abnormality
+  in Korea, thereby facilitating the delineation of a distinct subtype of ALL. A 57-yr-old
+  woman was referred to our hospital because of pancytopenia. Peripheral blood examination
+  showed 55 blasts. The bone marrow was markedly hypercellular, and about 82.4 of
+  all nucleated cells were blasts. The results of immunophenotyping and cytochemical
+  staining suggested early precursor B-ALL. Cytogenetic analysis of the bone marrow
+  cells showed a complex karyotype, including a reciprocal translocation between the
+  short arm of chromosome 12 and the long arm of chromosome 17, t 12 17 p13 q21 .
+  Data from array comparative genomic hybridization were almost consistent with the
+  cytogenetic findings.
+authors: Kim JE, Woo KS, Kim KE, Kim SH, Park JI, Shaffer LG and Han JY.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+contact:
+  email: ~
+  name: JinYeong Han
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20603582
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.04
+    - 35.1
+    type: Point
+  info:
+    city: Busan
+    continent: Asia
+    country: Korean Republic
+    label: Busan, Korean Republic, Asia
+    precision: city
+journal: 'Korean J Lab Med 30, 3 (2010): 239-43.'
+label: 'Kim et al. (2010): A Rare Case of Acute Lymphoblastic Leukemia With T(12;17)(P13;Q21).'
+notes: ~
+pmid: 20603582
+title: A Rare Case of Acute Lymphoblastic Leukemia With T(12;17)(P13;Q21).
+year: 2010

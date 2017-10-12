@@ -1,0 +1,74 @@
+---
+abstract: Genetic and epigenetic changes contribute to deregulation of gene expression
+  and development of human cancer. Changes in DNA methylation are key epigenetic factors
+  regulating gene expression and genomic stability. Recent progress in microarray
+  technologies resulted in developments of high resolution platforms for profiling
+  of genetic, epigenetic and gene expression changes. OS is a pediatric bone tumor
+  with characteristically high level of numerical and structural chromosomal changes.
+  Furthermore, little is known about DNA methylation changes in OS. Our objective
+  was to develop an integrative approach for analysis of high-resolution epigenomic,
+  genomic, and gene expression profiles in order to identify functional epi genomic
+  differences between OS cell lines and normal human osteoblasts. A combination of
+  Affymetrix Promoter Tilling Arrays for DNA methylation, Agilent array-CGH platform
+  for genomic imbalance and Affymetrix Gene 1.0 platform for gene expression analysis
+  was used. As a result, an integrative high-resolution approach for interrogation
+  of genome-wide tumour-specific changes in DNA methylation was developed. This approach
+  was used to provide the first genomic DNA methylation maps, and to identify and
+  validate genes with aberrant DNA methylation in OS cell lines. This first integrative
+  analysis of global cancer-related changes in DNA methylation, genomic imbalance,
+  and gene expression has provided comprehensive evidence of the cumulative roles
+  of epigenetic and genetic mechanisms in deregulation of gene expression networks.
+authors: Sadikovic B, Yoshimoto M, Al-Romaih K, Maire G, Zielenska M and Squire JA.
+cancertypes:
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C9145
+  term_label: Osteosarcoma
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:9180_3
+  term_label: Osteosarcoma, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdot:C41.9
+  term_label: bone, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-91803
+  term_label: Osteosarcoma, NOS
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18698372
+- geo:GSE7077
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'PLoS One 3, 7 (2008): e2834.'
+label: 'Sadikovic et al. (2008): In Vitro Analysis of Integrated Global High-Resolution
+  DNA Methylation Profiling With Genomic ...'
+notes: ~
+pmid: 18698372
+title: In Vitro Analysis of Integrated Global High-Resolution DNA Methylation Profiling
+  With Genomic Imbalance and Gene Expression in Osteosarcoma.
+year: 2008

@@ -1,0 +1,55 @@
+---
+abstract: Splenic marginal zone lymphoma (SMZL) is an indolent B-cell non-Hodgkin
+  lymphoma and represents the most common primary malignancy of the spleen. Its precise
+  molecular pathogenesis is still unknown and specific molecular markers for diagnosis
+  or possible targets for causal therapies are lacking.  We performed whole exome
+  sequencing (WES) and copy number analysis from laser-microdissected tumor cells
+  of two primary SMZL discovery cases. Selected somatic single nucleotide variants
+  (SNVs) were analyzed using pyrosequencing and Sanger sequencing in an independent
+  validation cohort.  Overall, 25 nonsynonymous somatic SNVs were identified, including
+  known mutations in the NOTCH2 and MYD88 genes. Twenty-three of the mutations have
+  not been associated with SMZL before. Many of these seem to be subclonal. Screening
+  of 24 additional SMZL for mutations at the same positions found mutated in the WES
+  approach revealed no recurrence of mutations for ZNF608 and PDE10A, whereas the
+  MYD88 L265P missense mutation was identified in 15% of cases. An analysis of the
+  NOTCH2 PEST domain and the whole coding region of the transcription factor SMYD1
+  in eight cases identified no additional case with a NOTCH2 mutation, but two additional
+  cases with SMYD1 alterations.  In this first WES approach from microdissected SMZL
+  tissue we confirmed known mutations and discovered new somatic variants. Recurrence
+  of MYD88 mutations in SMZL was validated, but NOTCH2 PEST domain mutations were
+  relatively rare (10 % of cases). Recurrent mutations in the transcription factor
+  SMYD1 have not been described in SMZL before and warrant further investigation.
+authors: Peveling-Oberhag J, Wolters F, Dï¿½ring C, Walter D, Sellmann L, Scholtysik
+  R, Lucioni M, Schubach M, Paulli M, Biskup S, Zeuzem S, Kï¿½ppers R and Hansmann
+  ML
+cancertypes: []
+contact:
+  email: jan.peveling-oberhag@kgu.de
+  name: Jan Peveling-Oberhag
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26498442
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.68
+    - 50.12
+    type: Point
+  info:
+    city: Frankfurt am Main
+    continent: Europe
+    country: Germany
+    label: Frankfurt am Main, Germany, Europe
+    precision: city
+journal: BMC Cancer 15, 2015
+label: 'Peveling-Oberhag J et al. (2015): '
+notes: ~
+pmid: 26498442
+title: 'Whole exome sequencing of microdissected splenic marginal zone lymphoma: a
+  study to discover novel tumor-specific mutations.'
+year: 2015

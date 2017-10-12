@@ -1,0 +1,52 @@
+---
+abstract: Lymphoblastic lymphoma (LBL) is a neoplasm of precursor B- or T-lymphocytes,
+  and primary skin involvement is uncommon. The aim of the study was to review all
+  reported primary cutaneous (PC)-LBLs and to examine three new cases to better characterize
+  this neoplasm. Two of our patients showed a pre-B phenotype (PC-B-LBL) and one a
+  never-reported pre-T phenotype (PC-T-LBL). The patient with PC-T-LBL showed an aggressive
+  course, while those with PC-B-LBL showed a complete remission (CR) after polychemotherapy.
+  Cytogenetic analysis and gene expression profiling (GEP) were performed on one case
+  of PC-B-LBL and on that of PC-T-LBL. A specimen of PC-B-LBL and two specimens (early
+  and late stage) of PC-T-LBL were investigated by microarray-based comparative genomic
+  hybridization (CGH). All specimens revealed trisomy of chromosome 4. PC-T-LBL showed
+  a gain of 1p36.33-p22.1 in the early stage and multiple chromosome gains/losses
+  in the late stage. Our data suggest that trisomy 4 could be detected early in LBL
+  and gain of 1p36.33-p22.1 could be an interesting marker in PC-T-LBL. LBL is an
+  aggressive disease but, only in B-LBL, the cutaneous presentation seems to be a
+  favorable prognostic factor and polychemotherapy is the best therapeutic approach.
+  We suggest that PC-LBL should be included as a provisional clinicopathologic entity
+  in future cutaneous lymphoma classification.
+authors: Vezzoli P, Novara F, Fanoni D, Gambini D, Balice Y, Venegoni L, Paulli M,
+  Crosti C and Berti E
+cancertypes: []
+contact:
+  email: pamela.vezzoli@libero.it
+  name: Pamela Vezzoli
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21879810
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Leuk. Lymphoma 53(10), 2012
+label: 'Vezzoli P et al. (2012): '
+notes: ~
+pmid: 21879810
+title: 'Three cases of primary cutaneous lymphoblastic lymphoma: microarray-based
+  comparative genomic hybridization and gene expression profiling studies with review
+  of literature.'
+year: 2012

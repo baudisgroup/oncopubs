@@ -1,0 +1,37 @@
+---
+abstract: Microarray-CGH facilitates analysis of cancer-associated genomic differences
+  between normal and tumor tissues and provides a genome-wide assessment of copy number
+  variations CNVs .
+authors: Park CH, Rha SY, Jeung HC, Kang SH, Ki DH, Lee WS, Noh SH and Chung HC.
+cancertypes: []
+contact:
+  email: unchung8@yumc.yonsei.ac.kr
+  name: Hyun Cheol Chung
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20872948
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'J Surg Oncol 102, 5 (2010): 454-61.'
+label: 'Park et al. (2010): Identification of Novel Gastric Cancer-Associated Cnvs
+  By Integrated Analysis of ...'
+notes: ~
+pmid: 20872948
+title: Identification of Novel Gastric Cancer-Associated Cnvs By Integrated Analysis
+  of Microarray.
+year: 2010

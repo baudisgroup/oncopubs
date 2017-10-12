@@ -1,0 +1,56 @@
+---
+abstract: Oral cancer is a serious disease caused by environmental factors and/or
+  susceptible genes. In the present study, in order to identify useful genetic biomarkers
+  for cancer prediction and prevention, and for personalized treatment, we detected
+  somatic mutations in 5ï¿½pairs of oral cancer tissues and blood samples using whole
+  exome sequencingï¿½(WES). Finally, we confirmed a novel nonsense single-nucleotide
+  polymorphismï¿½(SNP; chr19:15288426A>C) in the NOTCH3 gene with sanger sequencing,
+  which resulted in a N1438T mutation in the protein sequence. Using multiple inï¿½silico
+  analyses, this variant was found to mildly damaging effects on the NOTCH3 gene,
+  which was supported by the results from analyses using PANTHER, SNAP and SNPs&GO.
+  However, further analysis using Mutation Taster revealed that this SNP had a probability
+  ofï¿½0.9997 to be 'disease causing'. In addition, we performed 3Dï¿½structure simulation
+  analysis and the results suggested that this variant had little effect on the solubility
+  and hydrophobicity of the protein and thus on its function; however, it decreased
+  the stability of the protein by increasing the total energy following minimizationï¿½(-1,051.39ï¿½kcal/mol
+  for the mutant and -1,229.84ï¿½kcal/mol for the native) and decreasing one stabilizing
+  residue of the protein. Less stability of the N1438T mutant was also supported by
+  analysis using I-Mutant with a DDG value ofï¿½-1.67. Overall, the present study
+  identified and confirmed a novel mutation in the NOTCH3 gene, which may decrease
+  the stability of NOTCH3, and may thus prove to be helpful in cancer prognosis.
+authors: Yi Y, Tian Z, Ju H, Ren G, Hu J.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: ~
+  name: Jingzhou Hu
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 5
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28440410
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Int. J. Mol. Med., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28440410
+title: A novel NOTCH3 mutation identified in patients with oral cancer by whole exome
+  sequencing.
+year: 2017

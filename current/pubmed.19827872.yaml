@@ -1,0 +1,49 @@
+---
+abstract: Runt-related transcription factor 3 RUNX3 is a candidate tumor suppressor
+  gene, localized on 1p36, involved in TGF-beta-Smads signaling. To assess its role
+  in liver fluke-associated intrahepatic cholangiocarcinoma ICC , the promoter methylation
+  status was investigated in 53 ICCs by methylation-specific PCR, with determination
+  of loss of 1p36.1 by microarray comparative genomic hybridization and RUNX3 protein
+  expression by immunohistochemistry. Loss at 1p36.1 was found 41.5 of ICCs 22 53
+  . In addition, DNA hypermethylation of the RUNX3 promoter was found in 49.1 26 53
+  of cancers and 57.1 4 7 of ICC cell lines. The protein was highly expressed in normal
+  bile ducts but mostly decreased in ICCs, 67.9 n 36 being negative for immunohistochemical
+  staining. Promoter hypermethylation of RUNX3 was associated with reversible decrease
+  or absence of RUNX3 protein expression p amp lt 0.001 , but this was not found to
+  differ with the ICC subtype. In contrast, loss of 1p36.1 demonstrated a significant
+  link p 0.020 . In conclusion, RUNX3 promoter hypermethylation and loss of 1p36.1
+  are causal mechanisms for loss of RUNX3 function in liver fluke-associated ICC carcinogenesis.
+authors: Dachrut S, Banthaisong S, Sripa M, Paeyao A, Ho C, Lee SA, Kosinski C, Patil
+  MA, Zhang J, Chen X, Sripa B and Pairojkul C.
+cancertypes: []
+contact:
+  email: chawalit_pjk@hotmail.com
+  name: Chawalit Pairojkul
+counts:
+  biosamples: 53
+  samples_acgh: 53
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19827872
+geo_data:
+  geo_json:
+    coordinates:
+    - 102.83
+    - 16.45
+    type: Point
+  info:
+    city: Khon Kaen
+    continent: Asia
+    country: Thailand
+    label: Khon Kaen, Thailand, Asia
+    precision: city
+journal: 'Asian Pac J Cancer Prev 10, 4 (2009): 575-82.'
+label: 'Dachrut et al. (2009): DNA Copy-Number Loss on 1p36.1 Harboring Runx3 With
+  Promoter Hypermethylation and Associated Loss ...'
+notes: ~
+pmid: 19827872
+title: DNA Copy-Number Loss on 1p36.1 Harboring Runx3 With Promoter Hypermethylation
+  and Associated Loss of Runx3 Expression in Liver Fluke-Associated Intrahepatic Cholangiocarcinoma.
+year: 2009

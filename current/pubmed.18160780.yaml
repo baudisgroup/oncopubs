@@ -1,0 +1,55 @@
+---
+abstract: Oligonucleotide array comparative genomic hybridization aCGH was applied
+  on fifteen gastric cancer GCA samples to reveal information of DNA copy number changes
+  at an exon-level resolution. Twelve of the samples represented the intestinal IGCA
+  and three the diffuse DGCA type of GCA. The samples had previously been assessed
+  for genetic stability by microsatellite analysis and categorized into microsatellite
+  phenotypes according to the type of alterations. As compared to our previous results
+  obtained using cDNA platforms, the oligonucleotide platforms revealed more aberrations
+  per sample 0-45 vs. 0-22 . A total of 22 amplifications were detected by the oligonucleotide
+  arrays. Ten of the amplicons had also been detected on the cDNA platform, but five
+  of them spanned only one or a few cDNA clones, thus resembling apparent outliers.
+  Two tumors showed five or more amplifications by oligonucleotide aCGH, suggesting
+  the presence of an amplifier phenotype. The amplifications occurred irrespective
+  of the microsatellite phenotypes. None of the DGCA tumors showed more than one aberration,
+  whereas the IGCA tumors showed several aberrations. The increased resolution of
+  the oligonucleotide arrays enabled the detection of amplicon boundaries at gene
+  level, allowing, e.g., the determination of the 17q12 core amplicon and interstitial
+  losses within the 8p23.1-- amp gt p22 and 20q13.2-- amp gt q13.1 amplifications.
+  Previously no losses have been reported within amplified regions in GCA. In addition
+  to novel amplified regions, the oligonucleotide array results describe novel targets
+  for amplicons at 8p11 SFRP1 , 11p12 LRRC4C , and 19q13.2 CEACAM6 .
+authors: Vauhkonen H, Vauhkonen M, Sipponen P and Knuutila S.
+cancertypes: []
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 15
+  samples_acgh: 15
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18160780
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 119, 1-2 (2007): 39-45.'
+label: 'Vauhkonen et al. (2007): Oligonucleotide Array Comparative Genomic Hybridization
+  Refines the Structure of 8p23.1, 17q12 ...'
+notes: Oligonucleotide arrays were compared to lower resolution cDNA arrays (Agilent),
+  too.
+pmid: 18160780
+title: Oligonucleotide Array Comparative Genomic Hybridization Refines the Structure
+  of 8p23.1, 17q12 and 20q13.2 Amplifications in Gastric Carcinomas.
+year: 2007

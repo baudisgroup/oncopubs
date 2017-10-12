@@ -1,0 +1,74 @@
+---
+abstract: 'Altered gene expression in tumors can be caused by copy number alterations
+  to DNA or mutation affecting coding or regulatory regions of genes. However, epigenetic
+  events may also influence gene expression. Malignant cells can show major disruptions
+  in DNA methylation profiles, which are manifested as aberrant hypermethylation or
+  as hypomethylation of gene promoters, as well as global genomic hypomethylation.
+  In this study we performed integrative whole-genome analysis of DNA copy number,
+  promoter methylation and gene expression using 10 osteosarcomas. We identified significant
+  changes including: hypomethylation, gain, and overexpression of histone cluster
+  2 genes at chromosome 1q21.1-q21.3 loss of chromosome 8p21.2-p21.3 and underexpression
+  of DOCK5 and TNFRSF10A D genes and amplification-related overexpression of RUNX2
+  at chromosome 6p12.3-p21.1. Amplification and overexpression of RUNX2 could disrupt
+  G2 M cell cycle checkpoints, and downstream osteosarcoma-specific changes, such
+  as failure of bone differentiation and genomic polyploidization. Failure of DOCK5-signaling,
+  together with p53 and TNFRSF10A D-related cell cycle and death pathways, may play
+  a critical role in abrogating apoptosis. Our analyses show that the RUNX2 interactome
+  may be constitutively activated in osteosarcoma, and that the downstream intracellular
+  pathways are strongly associated with the regulation of osteoblast differentiation
+  and control of cell cycle and apoptosis in osteosarcoma.'
+authors: Sadikovic B, Yoshimoto M, Chilton-MacNeill S, Thorner P, Squire JA and Zielenska
+  M.
+cancertypes:
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: ncit:C9145
+  term_label: Osteosarcoma
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdom:9180_3
+  term_label: Osteosarcoma, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdot:C41.9
+  term_label: bone, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: snmi:M-91803
+  term_label: Osteosarcoma, NOS
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19286668
+- geo:GSE12885
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Hum Mol Genet 18, 11 (2009): 1962-75.'
+label: 'Sadikovic et al. (2009): Identification of Interactive Networks of Gene Expression
+  Associated With Osteosarcoma ...'
+notes: ~
+pmid: 19286668
+title: Identification of Interactive Networks of Gene Expression Associated With Osteosarcoma
+  Oncogenesis By Integrated Molecular Profiling.
+year: 2009

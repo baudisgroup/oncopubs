@@ -1,0 +1,70 @@
+---
+abstract: Myoepithelioma, mixed tumor and parachordoma are uncommon soft tissue tumors
+  thought to represent morphological variants of a single tumor type. The genetic
+  basis of these neoplasms is poorly understood. However, they morphologically resemble
+  mixed tumor of the salivary glands also known as pleomorphic adenoma , a tumor characterized
+  by deregulated expression of PLAG1 or HMGA2. To evaluate a possible genetic relationship
+  between these soft tissue and salivary gland tumors, PLAG1 expression levels and
+  the genomic status of PLAG1 and HMGA2 were investigated in five soft tissue myoepitheliomas
+  and one pleomorphic adenoma. In addition, all tumors were cytogenetically investigated
+  and whole genome DNA copy number imbalances were studied in five of them. The genetic
+  profiles were heterogeneous and the only aberration common to all soft tissue myoepitheliomas
+  was a minimally deleted region of 3.55 Mb in chromosome band 19p13. Recurrent deletion
+  of CDKN2A suggests that inactivation of this tumor suppressor gene is pathogenetically
+  important in a subset. Furthermore, PLAG1 rearrangement was found in a soft tissue
+  tumor from a patient previously treated for a salivary pleomorphic adenoma, indicating
+  either metastasis of the salivary gland lesion or that some soft tissue tumors develop
+  through the same mechanisms as their salivary gland counterparts.
+authors: Hallor KH, Teixeira MR, Fletcher CD, Bizarro S, Staaf J, Domanski HA, von
+  Steyern FV, Panagopoulos I, Mandahl N and Mertens F.
+cancertypes:
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C4199
+  term_label: Epithelial-Myoepithelial Carcinoma
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:8982_0
+  term_label: Myoepithelioma
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-89820
+  term_label: Myoepithelioma
+contact:
+  email: Karolin.Hansen_Hallor@med.lu.se
+  name: Karolin H Hallor
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18604193
+- geo:GSE10266
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Mod Pathol 21, 11 (2008): 1311-19.'
+label: 'Hallor et al. (2008): Heterogeneous Genetic Profiles in Soft Tissue Myoepitheliomas.'
+notes: ~
+pmid: 18604193
+title: Heterogeneous Genetic Profiles in Soft Tissue Myoepitheliomas.
+year: 2008

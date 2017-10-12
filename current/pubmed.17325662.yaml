@@ -1,0 +1,50 @@
+---
+abstract: Homozygous deletions HD provide an important resource for identifying the
+  location of candidate tumor suppressor genes. To identify the tumor suppressor gene
+  in oral cancer, we employed high-resolution comparative genomic hybridization CGH
+  -array analysis. We identified a homozygous loss of FAT 4q35 , a new member of the
+  human cadherin superfamily, from genome-wide screening of copy number alterations
+  in one primary oral cancer. This result was evaluated by genomic polymerase chain
+  reaction in 13 oral cancer cell lines and 20 primary oral cancers and Southern blot
+  in the cell lines. We found frequent exonic HD of FAT in the cell lines 3 13, 23
+  and in primary oral cancers 16 20, 80 . FAT expression was absent in these cell
+  lines. Homozygous deletion hot spots were observed in exon 1 9 20, 45 and exon 4
+  7 20, 35 . Moreover, loss of gene expression was identified in other types of squamous
+  cell carcinoma. The methylation status of the FAT CpG island in squamous cell carcinomas
+  correlated negatively with its expression. Our results identify mutations in FAT
+  as an important factor in the development of oral cancer and indicate the importance
+  of FATs function in some squamous cell carcinomas.
+authors: Nakaya K, Yamagata HD, Arita N, Nakashiro KI, Nose M, Miki T and Hamakawa
+  H.
+cancertypes: []
+contact:
+  email: hideyama@m.ehime-u.ac.jp
+  name: H.D. Yamagata
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17325662
+geo_data:
+  geo_json:
+    coordinates:
+    - 132.77
+    - 33.84
+    type: Point
+  info:
+    city: Ehime
+    continent: ~
+    country: Japan
+    label: Ehime, Japan
+    precision: city [needs verification]
+journal: 'Oncogene 26, 36 (2007): 5300-08.'
+label: 'Nakaya et al. (2007): Identification of Homozygous Deletions of Tumor Suppressor
+  Gene Fat in Oral Cancer Using ...'
+notes: ~
+pmid: 17325662
+title: Identification of Homozygous Deletions of Tumor Suppressor Gene Fat in Oral
+  Cancer Using Cgh-Array.
+year: 2007

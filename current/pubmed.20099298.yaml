@@ -1,0 +1,83 @@
+---
+abstract: Cancers may be composed of multiple populations of submodal clones sharing
+  the same initiating genetic lesions, followed by the acquisition of divergent genetic
+  hits. Intra-tumour genetic heterogeneity has profound implications for cancer clinical
+  management. To determine the extent of intra-tumour genetic heterogeneity in breast
+  cancers, and whether the morphological diversity of breast cancers is underpinned
+  by divergent genetic aberrations, we analysed the genomic profiles of microdissected,
+  morphologically distinct components of six metaplastic breast carcinomas, tumours
+  characterized by the presence of morphological areas with divergent differentiation.
+  Each morphologically distinct component was separately microdissected and subjected
+  to high-resolution microarray-based comparative genomic hybridization. Each component
+  was also analysed by immunohistochemistry and in situ hybridization. Clonal relationship
+  between the distinct components was tested by TP53 sequencing and human androgen
+  receptor HUMARA X-chromosome inactivation assay. In the majority of cases, all morphologically
+  distinct components from each case were clonal and displayed remarkably similar
+  genetic profiles. In two cases, however, morphologically distinct components harboured
+  specific genetic aberrations. In an adenosquamous carcinoma, the differences were
+  such that only 20 of the genome harboured similar copy number changes. The squamous
+  component displayed EGFR gene amplification, EGFR over-expression and lack of expression
+  of hormone receptors, whereas the lobular component displayed the reverse pattern.
+  The components of a biphasic spindle cell carcinoma harboured similar gains, losses,
+  amplifications of 9p23 and 17q12 HER2 and identical TP53 mutations, suggesting that
+  these were relatively early events in the development of this tumour however, each
+  component displayed divergent focal amplifications. Importantly, the metastatic
+  deposit of this case, despite harbouring a TP53 mutation identical to that found
+  in the primary tumour, harboured additional specific focal amplifications. This
+  proof-of-principle study provides direct evidence of intra-tumour genetic heterogeneity
+  in breast cancers, and shows that in some cases morphological diversity may be underpinned
+  by distinct genetic aberrations.
+authors: Geyer FC, Weigelt B, Natrajan R, Lambros MB, de Biase D, Vatcheva R, Savage
+  K, Mackay A, Ashworth A and Reis-Filho JS.
+cancertypes:
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 15
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: jorgerf@icr.ac.uk
+  name: Jorge Reis-Filho
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20099298
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'J Pathol 220, 5 (2010): 562-73.'
+label: 'Geyer et al. (2010): Molecular Analysis Reveals a Genetic Basis for the Phenotypic
+  Diversity of Metaplastic Breast ...'
+notes: ~
+pmid: 20099298
+title: Molecular Analysis Reveals a Genetic Basis for the Phenotypic Diversity of
+  Metaplastic Breast Carcinomas.
+year: 2010

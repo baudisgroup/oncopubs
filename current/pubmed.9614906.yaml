@@ -1,0 +1,44 @@
+---
+abstract: Comparative genomic hybridization CGH was used to examine gains and losses
+  in 18 meningioma tumors that had been previously analyzed for loss of heterozygosity
+  LOH at 22q12. Partial or complete losses were seen by CGH in only 9 of 18 cases
+  on chromosome 22. This compares with 11 of 18 losses of single or more loci by LOH.
+  The discrepancy in these results in probably explained by the increased sensitivity
+  of LOH by using microsatellite markers that are able to detect small deletions,
+  whereas losses on the order of 10-15 megabases are required for confident identification
+  by CGH. There was no consistent pattern of gains or losses by CGH, including those
+  tumors that lacked LOH at 22q12. In one tumor of interest in which CGH and LOH studies
+  failed to demonstrate loss on chromosome 22, CGH identified an area of amplification
+  at 17q22-23.
+authors: Khan J, Parsa NZ, Harada T, Meltzer PS and Carter NP.
+cancertypes: []
+contact:
+  email: khanjav@mail.nih.gov
+  name: Javed Khan
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9614906
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 103, 2 (1998): 95-100.'
+label: 'Khan et al. (1998): Detection of Gains and Losses in 18 Meningiomas By Comparative
+  Genomic Hybridization.'
+notes: ~
+pmid: 9614906
+title: Detection of Gains and Losses in 18 Meningiomas By Comparative Genomic Hybridization.
+year: 1998

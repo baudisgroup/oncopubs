@@ -1,0 +1,49 @@
+---
+abstract: Tumor suppressor genes on the X chromosome may skew the gender distribution
+  of specific types of cancer. T-cell acute lymphoblastic leukemia T-ALL is an aggressive
+  hematological malignancy with an increased incidence in males. In this study, we
+  report the identification of inactivating mutations and deletions in the X-linked
+  plant homeodomain finger 6 PHF6 gene in 16 of pediatric and 38 of adult primary
+  T-ALL samples. Notably, PHF6 mutations are almost exclusively found in T-ALL samples
+  from male subjects. Mutational loss of PHF6 is importantly associated with leukemias
+  driven by aberrant expression of the homeobox transcription factor oncogenes TLX1
+  and TLX3. Overall, these results identify PHF6 as a new X-linked tumor suppressor
+  in T-ALL and point to a strong genetic interaction between PHF6 loss and aberrant
+  expression of TLX transcription factors in the pathogenesis of this disease.
+authors: Van Vlierberghe P, Palomero T, Khiabanian H, Van der Meulen J, Castillo M,
+  Van Roy N, De Moerloose B, Philippe J, Gonzalez-Garcia S, Toribio ML, Taghon T,
+  Zuurbier L, Cauwelier B, Harrison CJ, Schwab C, Pisecker M, Strehl S, Langerak AW,
+  Gecz J, Sonneveld E, Pieters R, Paietta E, Rowe JM, Wiernik PH, Benoit Y, Soulier
+  J, Poppe B, Yao X, Cordon-Cardo C, Meijerink J, Rabadan R, Speleman F and Ferrando
+  A.
+cancertypes: []
+contact:
+  email: af2196@columbia.edu
+  name: Adolfo Ferrando
+counts:
+  biosamples: 246
+  samples_acgh: 246
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20228800
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Nat Genet 42, 4 (2010): 338-42.'
+label: 'Van Vlierberghe et al. (2010): Phf6 Mutations in T-Cell Acute Lymphoblastic
+  Leukemia.'
+notes: ~
+pmid: 20228800
+title: Phf6 Mutations in T-Cell Acute Lymphoblastic Leukemia.
+year: 2010

@@ -1,0 +1,85 @@
+---
+abstract: The ETV6 RUNX1 fusion gene, present in 25 of B-lineage childhood acute lymphoblastic
+  leukemia ALL , is thought to represent an initiating event, which requires additional
+  genetic changes for leukemia development. To identify additional genetic alterations,
+  24 ETV6 RUNX1-positive ALLs were analyzed using 500K single nucleotide polymorphism
+  arrays. The results were combined with previously published data sets, allowing
+  us to ascertain genomic copy number aberrations CNAs in 164 cases. In total, 45
+  recurrent CNAs were identified with an average number of 3.5 recurrent changes per
+  case range 0-13 . Twenty-six percent of cases displayed a set of recurrent CNAs
+  identical to that of other cases in the data set. The majority 74 , however, displayed
+  a unique pattern of recurrent CNAs, indicating a large heterogeneity within this
+  ALL subtype. As previously demonstrated, alterations targeting genes involved in
+  B-cell development were common present in 28 of cases . However, the combined analysis
+  also identified alterations affecting nuclear hormone response 24 to be a characteristic
+  feature of ETV6 RUNX1-positive ALL. Studying the correlation pattern of the CNAs
+  allowed us to highlight significant positive and negative correlations between specific
+  aberrations. Furthermore, oncogenetic tree models identified ETV6, CDKN2A B, PAX5,
+  del 6q and 16 as possible early events in the leukemogenic process.
+authors: Lilljebjorn H, Soneson C, Andersson A, Heldrup J, Behrendtz M, Kawamata N,
+  Ogawa S, Koeffler HP, Mitelman F, Johansson B, Fontes M and Fioretos T.
+cancertypes:
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: 46
+  samples_progenetix: ~
+  term_id: ncit:C80343
+  term_label: B Acute Lymphoblastic Leukemia with t(12;21)(p13.2;q22.1); ETV6-RUNX1
+- samples_arraymap: 46
+  samples_progenetix: ~
+  term_id: pgx:icdom:9814_3
+  term_label: B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: 46
+  samples_progenetix: ~
+  term_id: snmi:M-98143
+  term_label: B lymphoblastic leukemia/lymphoma with t(12;21)(p13;q22); TEL-AML1 (ETV6-RUNX1)
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+contact:
+  email: henrik.lilljebjorn@med.lu.se
+  name: Henrik Lilljebjorn
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20513752
+- geo:GSE19996
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Hum Mol Genet 19, 16 (2010): 3150-58.'
+label: 'Lilljebjorn et al. (2010): The Correlation Pattern of Acquired Copy Number
+  Changes in 164 Etv6/Runx1-Positive Childhood ...'
+notes: ~
+pmid: 20513752
+title: The Correlation Pattern of Acquired Copy Number Changes in 164 Etv6/Runx1-Positive
+  Childhood Acute Lymphoblastic Leukemias.
+year: 2010

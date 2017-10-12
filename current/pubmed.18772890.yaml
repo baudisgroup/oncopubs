@@ -1,0 +1,75 @@
+---
+abstract: Human cancer cells typically harbour multiple chromosomal aberrations, nucleotide
+  substitutions and epigenetic modifications that drive malignant transformation.
+  The Cancer Genome Atlas TCGA pilot project aims to assess the value of large-scale
+  multi-dimensional analysis of these molecular characteristics in human cancer and
+  to provide the data rapidly to the research community. Here we report the interim
+  integrative analysis of DNA copy number, gene expression and DNA methylation aberrations
+  in 206 glioblastomas--the most common type of adult brain cancer--and nucleotide
+  sequence aberrations in 91 of the 206 glioblastomas. This analysis provides new
+  insights into the roles of ERBB2, NF1 and TP53, uncovers frequent mutations of the
+  phosphatidylinositol-3-OH kinase regulatory subunit gene PIK3R1, and provides a
+  network view of the pathways altered in the development of glioblastoma. Furthermore,
+  integration of mutation, DNA methylation and clinical treatment data reveals a link
+  between MGMT promoter methylation and a hypermutator phenotype consequent to mismatch
+  repair deficiency in treated glioblastomas, an observation with potential clinical
+  implications. Together, these findings establish the feasibility and power of TCGA,
+  demonstrating that it can rapidly expand knowledge of the molecular basis of cancer.
+authors: Cancer Genome Atlas Research Network.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 223
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: ~
+  samples_progenetix: 223
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 223
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: ~
+  samples_progenetix: 223
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: 223
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 223
+  samples_acgh: 223
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18772890
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Nature 455, 7216 (2008): 1061-68.'
+label: 'Cancer Genome Atlas Research Network. (2008): Comprehensive Genomic Characterization
+  Defines Human Glioblastoma Genes ...'
+notes: The original data was submitted to the TCGA Data Coordinating Center. Data
+  represented in Progenetix is from 223 cases identified in the TCGA FTP archive (ftp://ftp1.nci.nih.gov:21/tcga/tumor/gbm/cgcc),
+  analyzed at the MSKCC using Agilent 244k genomic arrays (accessed 2008-09-16). Aberrant
+  genomic intervals were derived from the regions files, with fusion of duplicate
+  experiments as guessed from the sample IDs. Some filtering for apparently systematic
+  errors (14q11, 15q11 ...) was performed.
+pmid: 18772890
+title: Comprehensive Genomic Characterization Defines Human Glioblastoma Genes and
+  Core Pathways.
+year: 2008

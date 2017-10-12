@@ -1,0 +1,39 @@
+---
+abstract: To investigate the molecular genetic heterogeneity associated with the t
+  6:9 in adenoid cystic carcinoma ACC and correlate the findings with patient clinical
+  outcome.
+authors: Mitani Y, Rao PH, Futreal PA, Roberts DB, Stephens PJ, Zhao YJ, Zhang L,
+  Mitani M, Weber RS, Lippman SM, Caulin C and El-Naggar AK.
+cancertypes: []
+contact:
+  email: ~
+  name: Adel El-Naggar
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21976542
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 17, 22 (2011): 7003-14.'
+label: 'Mitani et al. (2011): Novel Chromosomal Rearrangements and Break Points At
+  the T(6;9) in Salivary Adenoid Cystic ...'
+notes: ~
+pmid: 21976542
+title: 'Novel Chromosomal Rearrangements and Break Points At the T(6;9) in Salivary
+  Adenoid Cystic Carcinoma: Association With Myb-Nfib Chimeric Fusion, Myb Expression,
+  and Clinical Outcome.'
+year: 2011

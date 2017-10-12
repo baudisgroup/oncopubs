@@ -1,0 +1,158 @@
+---
+abstract: ~
+authors: Faria C, Miguens J, Antunes JL, Salgado D, Nunes S, Barroso C, Martins Mdo
+  C, Nunes VM and Roque L.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3788
+  term_label: Ganglioglioma
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C6903
+  term_label: Tanycytic Ependymoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C6966
+  term_label: Pineocytoma
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C9505
+  term_label: Dysembryoplastic Neuroepithelial Tumor
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9361_1
+  term_label: Pineocytoma
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9391_3
+  term_label: Ependymoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9413_0
+  term_label: Dysembryoplastic neuroepithelial tumor
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9505_1
+  term_label: Ganglioglioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9509_1
+  term_label: Papillary glioneuronal tumor
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.5
+  term_label: ventricle
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C75.3
+  term_label: pineal gland
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-93611
+  term_label: Pineocytoma
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-93913
+  term_label: Ependymoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-94130
+  term_label: Dysembryoplastic neuroepithelial tumor
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-95051
+  term_label: Ganglioglioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-95091
+  term_label: Papillary glioneuronal tumor
+contact:
+  email: lroque@ipolisboa.min-saude.pt
+  name: Lucia Roque
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20192643
+geo_data:
+  geo_json:
+    coordinates:
+    - -9.13
+    - 38.72
+    type: Point
+  info:
+    city: Lisbon
+    continent: Europe
+    country: Portugal
+    label: Lisbon, Portugal, Europe
+    precision: city
+journal: 'J Neurosurg Pediatr 5, 3 (2010): 263-70.'
+label: 'Faria et al. (2010): Pediatric Brain Tumors: Genetics and Clinical Outcome.'
+notes: ~
+pmid: 20192643
+title: 'Pediatric Brain Tumors: Genetics and Clinical Outcome.'
+year: 2010

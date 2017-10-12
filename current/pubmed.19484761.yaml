@@ -1,0 +1,55 @@
+---
+abstract: Adult T-cell leukemia lymphoma ATLL is a malignant tumor caused by latent
+  human T-lymphotropic virus 1 HTLV-1 infection. We previously identified a common
+  breakpoint cluster region at 10p11.2 in acute-type ATLL by spectral karyotyping.
+  Single nucleotide polymorphism array comparative genomic hybridization analysis
+  of the breakpoint region in three ATLL-related cell lines and four patient samples
+  revealed that the chromosomal breakpoints are localized within the enhancer of polycomb
+  1 EPC1 gene locus in an ATLL-derived cell line SO4 and in one patient with acute-type
+  ATLL. EPC1 is a human homologue of the E Pc enhancer of polycomb gene of Drosophila.
+  Inappropriate expression of the polycomb group gene family has been linked to the
+  loss of normal gene silencing pathways, which can contribute to the loss of cell
+  identity and malignant transformation in many kinds of cancers. In the case of the
+  SO4 cell line, which carried a der 10 t 2 10 p23 p11.2 translocation, EPC1 was fused
+  with the additional sex combs-like 2 ASXL2 gene at 2p23.3 EPC1 ASXL2 . In the case
+  with an acute-type ATLL, who carried a der 10 del 10 p11.2 del 10 q22q24 translocation,
+  a putative truncated EPC1 gene EPC1tr was identified. Overexpression of EPC1 ASXL2
+  enhanced cell growth in T-leukemia cells, and a GAL4-EPC1 ASXL2 fusion protein showed
+  high transcriptional activity. Although a GAL4-EPC1tr fusion protein did not activate
+  transcription, overexpression of EPC1tr accelerated cell growth in leukemia cells,
+  suggesting that the EPC1 structural abnormalities in the SO4 cell line and in the
+  patient with acute-type ATLL may contribute to leukemogenesis.
+authors: Nakahata S, Saito Y, Hamasaki M, Hidaka T, Arai Y, Taki T, Taniwaki M and
+  Morishita K.
+cancertypes: []
+contact:
+  email: kmorishi@med.miyazaki-u.ac.jp
+  name: Kazuhiro Morishita
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19484761
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.42
+    - 31.91
+    type: Point
+  info:
+    city: Miyazaki-shi
+    continent: Asia
+    country: Japan
+    label: Miyazaki-shi, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 48, 9 (2009): 768-76.'
+label: 'Nakahata et al. (2009): Alteration of Enhancer of Polycomb 1 At 10p11.2 is
+  One of the Genetic Events Leading to ...'
+notes: ~
+pmid: 19484761
+title: Alteration of Enhancer of Polycomb 1 At 10p11.2 is One of the Genetic Events
+  Leading to Development of Adult T-Cell Leukemia/Lymphoma.
+year: 2009

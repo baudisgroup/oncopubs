@@ -1,0 +1,65 @@
+---
+abstract: Many recent technologies have been designed to supplant conventional metaphase
+  CGH technology with the goal of refining the description of segmental copy number
+  status throughout the genome. However, the emergence of new technologies has led
+  to confusion as to how to describe adequately the capabilities of each array platform.
+  The design of a CGH array can incorporate a uniform or a highly variable element
+  distribution. This can lead to bias in the reporting of average or median resolutions,
+  making it difficult to provide a fair comparison of platforms. In this report, we
+  propose a new definition of resolution for array CGH technology, termed amp quot
+  functional resolution, amp quot that incorporates the uniformity of element spacing
+  on the array, as well as the sensitivity of each platform to single-copy alterations.
+  Calculation of these metrics is automated through the development of a Java-based
+  application, amp quot ResCalc, amp quot which is applicable to any array CGH platform.
+authors: Coe BP, Ylstra B, Carvalho B, Meijer GA, Macaulay C and Lam WL.
+cancertypes:
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: bcoe@bccrc.ca
+  name: Bradley Coe
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17276656
+- geo:GSE6415
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Genomics 89, 5 (2007): 647-53.'
+label: 'Coe et al. (2007): Resolving the Resolution of Array Cgh.'
+notes: ~
+pmid: 17276656
+title: Resolving the Resolution of Array Cgh.
+year: 2007

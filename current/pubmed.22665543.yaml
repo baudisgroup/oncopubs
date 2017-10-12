@@ -1,0 +1,39 @@
+---
+abstract: To compare the mutational and copy number profiles of primary and metastatic
+  colorectal carcinomas CRCs using both unpaired and paired samples derived from primary
+  and metastatic disease sites.
+authors: Vakiani E., Janakiraman M., Shen R., Sinha R., Zeng Z., Shia J., Cercek A.,
+  Kemeny N., DAngelica M., Viale A., Heguy A., Paty P., Chan T. A., Saltz L. B., Weiser
+  M. and Solit D. B.
+cancertypes: []
+contact:
+  email: ~
+  name: David Solit
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22665543
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Journal of clinical oncology : official journal of the American Society
+  of Clinical Oncology (2012): .'
+label: Vakiani E., Janakiraman M., Shen R., Sinha R., Zeng Z., Shia J., Cercek A.,
+  Kemeny N., DAngelica M., Viale A., Heguy A., ...
+notes: ~
+pmid: 22665543
+title: Comparative Genomic Analysis of Primary Versus Metastatic Colorectal Carcinomas.
+year: 2012

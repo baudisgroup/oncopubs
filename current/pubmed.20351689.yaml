@@ -1,0 +1,50 @@
+---
+abstract: Prolonged culture of human embryonic stem cells hESCs can lead to adaptation
+  and the acquisition of chromosomal abnormalities, underscoring the need for rigorous
+  genetic analysis of these cells. Here we report the highest-resolution study of
+  hESCs to date using an Affymetrix SNP 6.0 array containing 906,600 probes for single
+  nucleotide polymorphisms SNPs and 946,000 probes for copy number variations CNVs
+  . Analysis of 17 different hESC lines maintained in different laboratories identified
+  843 CNVs of 50 kb-3 Mb in size. We identified, on average, 24 of the loss of heterozygosity
+  LOH sites and 66 of the CNVs changed in culture between early and late passages
+  of the same lines. Thirty percent of the genes detected within CNV sites had altered
+  expression compared to samples with normal copy number states, of which amp gt 44
+  were functionally linked to cancer. Furthermore, LOH of the q arm of chromosome
+  16, which has not been observed previously in hESCs, was detected.
+authors: Narva E, Autio R, Rahkonen N, Kong L, Harrison N, Kitsberg D, Borghese L,
+  Itskovitz-Eldor J, Rasool O, Dvorak P, Hovatta O, Otonkoski T, Tuuri T, Cui W, Brustle
+  O, Baker D, Maltby E, Moore HD, Benvenisty N, Andrews PW, Yli-Harja O and Lahesmaa
+  R.
+cancertypes: []
+contact:
+  email: riitta.lahesmaa@btk.fi
+  name: Riitta Lahesmaa
+counts:
+  biosamples: 29
+  samples_acgh: 29
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20351689
+- geo:GSE15096
+geo_data:
+  geo_json:
+    coordinates:
+    - 22.27
+    - 60.45
+    type: Point
+  info:
+    city: Turku
+    continent: Europe
+    country: Finland
+    label: Turku, Finland, Europe
+    precision: city
+journal: 'Nat Biotechnol 28, 4 (2010): 371-77.'
+label: 'Narva et al. (2010): High-Resolution DNA Analysis of Human Embryonic Stem
+  Cell Lines Reveals Culture-Induced Copy Number ...'
+notes: ~
+pmid: 20351689
+title: High-Resolution DNA Analysis of Human Embryonic Stem Cell Lines Reveals Culture-Induced
+  Copy Number Changes and Loss of Heterozygosity.
+year: 2010

@@ -1,0 +1,47 @@
+---
+abstract: Oncomirs are microRNAs miRNA that acts as oncogenes or tumor suppressor
+  genes. Efficient identification of oncomirs remains a challenge. Here we report
+  a novel, clinically guided genetic screening approach for the identification of
+  oncomirs, identifying mir-30d through this strategy. mir-30d regulates tumor cell
+  proliferation, apoptosis, senescence, and migration. The chromosomal locus harboring
+  mir-30d was amplified in more than 30 of multiple types of human solid tumors n
+  1,283 . Importantly, higher levels of mir-30d expression were associated significantly
+  with poor clinical outcomes in ovarian cancer patients n 330, P 0.0016 . Mechanistic
+  investigations suggested that mir-30d regulates a large number of cancer-associated
+  genes, including the apoptotic caspase CASP3. The guided genetic screening approach
+  validated by this study offers a powerful tool to identify oncomirs that may have
+  utility as biomarkers or targets for drug development.
+authors: Li N, Kaur S, Greshock J, Lassus H, Zhong X, Wang Y, Leminen A, Shao Z, Hu
+  X, Liang S, Katsaros D, Huang Q, Butzow R, Weber BL, Coukos G and Zhang L.
+cancertypes: []
+contact:
+  email: linzhang@mail.med.upenn.edu
+  name: Lin Zhang
+counts:
+  biosamples: 192
+  samples_acgh: 192
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22058146
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Cancer Res 72, 1 (2012): 154-64.'
+label: 'Li et al. (2012): A Combined Array-Based Comparative Genomic Hybridization
+  and Functional Library Screening Approach ...'
+notes: ~
+pmid: 22058146
+title: A Combined Array-Based Comparative Genomic Hybridization and Functional Library
+  Screening Approach Identifies Mir-30d as an Oncomir in Cancer.
+year: 2012

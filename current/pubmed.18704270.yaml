@@ -1,0 +1,49 @@
+---
+abstract: Gliomatosis cerebri GC are extensively infiltrative glial tumors classified
+  as astrocytic tumors in the current World Health Organization WHO classification
+  scheme. In investigating the tumorigenesis of GC, we reviewed 28 cases of GC immunohistochemically
+  and carried out array-based comparative genomic hybridization CGH in ten of those
+  cases. In histological and immunohistochemical review, 18 cases 64 were of astrocytic
+  lineage, three 11 were of oligodendroglial lineage, and seven 25 were of uncommitted
+  lineage. In the array-based CGH, 52 clones were frequently lost on 6p, 9p, and 9q
+  in more than six cases, and six clones were frequently gained on 1p, 6q, 10q, and
+  21q in more than three cases. Some gained or lost genetic loci differed significantly
+  between the histologically high-grade and low-grade GC P amp lt 0.05 , but unsupervised
+  hierarchical clustering failed to produce evidence of any clinical significance.
+  These altered genetic foci are not known to be involved in the development of conventional
+  glial tumors, including astrocytic tumors. In conclusion, despite the dominant astrocytic
+  differentiation of GC histologically, novel genomic aberrations found in our GC
+  cases were different from those of astrocytic tumors.
+authors: Min HS, Kim B and Park SH.
+cancertypes: []
+contact:
+  email: shparknp@snu.ac.kr
+  name: Sung-Hye Park
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18704270
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.83
+    - 37.65
+    type: Point
+  info:
+    city: Goyang
+    continent: ~
+    country: Korean Republic
+    label: Goyang, Korean Republic
+    precision: city [needs verification]
+journal: 'J Neurooncol 90, 3 (2008): 259-66.'
+label: 'Min et al. (2008): Array-Based Comparative Genomic Hybridization and Immunohistochemical
+  Studies in Gliomatosis ...'
+notes: ~
+pmid: 18704270
+title: Array-Based Comparative Genomic Hybridization and Immunohistochemical Studies
+  in Gliomatosis Cerebri.
+year: 2008

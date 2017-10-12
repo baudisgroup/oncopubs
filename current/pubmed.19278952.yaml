@@ -1,0 +1,54 @@
+---
+abstract: MicroRNA miRNA deregulation contributes to cancer pathogenesis. However,
+  analysis of miRNAs in diffuse large B-cell lymphoma DLBCL has been hindered by a
+  focus on cell lines, limited number of miRNAs examined, and lack of copy number
+  data. To address these restrictions, we investigated genomewide miRNA expression
+  and copy number data in 86 DLBCLs. Permutation analysis showed that 63 miRNAs were
+  recurrently disrupted in DLBCL, including highly expressed oncomirs not previously
+  linked to chromosomal abnormalities. Further, using training and validation tumor
+  groups, we defined a collection of miRNAs that robustly segregates DLBCLs into 3
+  subsets, which are independent of the cell-of-origin classification, extent of T-cell
+  infiltrate, and tumor site. Instead, these unique miRNA-driven DLBCL subgroups showed
+  markedly different MYC transcriptional activity, which explained the dominance of
+  miRNAs regulated by MYC in their expression signatures. In addition, analysis of
+  miRNA expression patterns of normal B cells and integration of copy number and expression
+  data showed that genomic abnormalities and the genetic fingerprint of nonmalignant
+  cells also contribute to the miRNA profile of DLBCL. In conclusion, we created a
+  comprehensive map of the miRNA genome in DLBCL and, in the process, have uncovered
+  and mechanistically elucidated the basis for additional molecular heterogeneity
+  in this tumor.
+authors: Li C, Kim SW, Rai D, Bolla AR, Adhvaryu S, Kinney MC, Robetorye RS and Aguiar
+  RC.
+cancertypes: []
+contact:
+  email: aguiarr@uthscsa.edu
+  name: Ricardo Aguiar
+counts:
+  biosamples: 86
+  samples_acgh: 86
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19278952
+- geo:GSE15177
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Blood 113, 26 (2009): 6681-90.'
+label: 'Li et al. (2009): Copy Number Abnormalities, Myc Activity, and the Genetic
+  Fingerprint of Normal B Cells Mechanistically ...'
+notes: ~
+pmid: 19278952
+title: Copy Number Abnormalities, Myc Activity, and the Genetic Fingerprint of Normal
+  B Cells Mechanistically Define the Microrna Profile of Diffuse Large B-Cell Lymphoma.
+year: 2009

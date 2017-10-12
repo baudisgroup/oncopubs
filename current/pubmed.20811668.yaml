@@ -1,0 +1,75 @@
+---
+abstract: Heredity represents the strongest risk factor for ovarian cancer with disease
+  predisposing mutations identified in 15% of the tumors. With the aim to identify
+  genetic classifiers for hereditary ovarian cancer, we profiled hereditary ovarian
+  cancers linked to the hereditary breast and ovarian cancer (HBOC) syndrome and the
+  hereditary non-polyposis colorectal cancer (HNPCC) syndrome. Genome-wide array comparative
+  genomic hybridization was applied to 12 HBOC associated tumors with BRCA1 mutations
+  and 8 HNPCC associated tumors with mismatch repair gene mutations with 24 sporadic
+  ovarian cancers as a control group. Unsupervised cluster analysis identified two
+  distinct subgroups related to genetic complexity. Sporadic and HBOC associated tumors
+  had complex genetic profiles with an average 41% of the genome altered, whereas
+  the mismatch repair defective tumors had stable genetic profiles, with an average
+  18% of the genome altered. Losses of 4q34, 13q12-q32 and 19p13 were overrepresented
+  in the HBOC subset. Discriminating genes within these regions include BRCA2, FOXO1A
+  and RB1. Gains on chromosomes 17 and 19 characterized the HNPCC tumors, but target
+  genes herein are unknown. The results indicate that HBOC and HNPCC associated ovarian
+  cancer develop along distinct genetic pathways and genetic profiles can thus be
+  applied to distinguish between different types of hereditary ovarian cancer.
+authors: Domanska K, Malander S, Staaf J, Karlsson A, Borg A, Jï¿½nsson G, Nilbert
+  M.
+cancertypes:
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: ncit:C7700
+  term_label: Ovarian Adenocarcinoma
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
+  term_label: ovary
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
+  term_label: Ovary
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: katarina.domanska@med.lu.se
+  name: ~
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20811668
+- geo:GSE28850
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Oncol. Rep. 24(4), 2010
+label: ' (2010): '
+notes: ~
+pmid: 20811668
+title: Genetic profiles distinguish different types of hereditary ovarian cancer.
+year: 2010

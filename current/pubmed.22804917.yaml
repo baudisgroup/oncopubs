@@ -1,0 +1,42 @@
+---
+abstract: KRAS mutation is a negative predictive factor for treatment with anti-epidermal
+  growth factor receptor EGFR antibodies in metastatic colorectal cancer mCRC . Novel
+  predictive markers are required to further improve the selection of patients for
+  this treatment. We assessed the influence of modification of KRAS by gene copy number
+  aberration CNA and microRNAs miRNAs in correlation to clinical outcome in mCRC patients
+  treated with cetuximab in combination with chemotherapy and bevacizumab.
+authors: Mekenkamp LJ, Tol J, Dijkstra JR, de Krijger I, Vink-Borger E, Teerenstra
+  S, Kamping E, Verwiel E, Koopman M, Meijer GA, van Krieken HJ, Kuiper R, Punt CJ,
+  Nagtegaal ID and van Vliet S.
+cancertypes: []
+contact:
+  email: ~
+  name: Iris Nagtegaal
+counts:
+  biosamples: 34
+  samples_acgh: 34
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22804917
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'BMC Cancer 12, 1 (2012): 292.'
+label: 'Mekenkamp et al. (2012): Beyond Kras Mutation Status: Influence of Kras Copy
+  Number Status and Micrornas on Clinical ...'
+notes: ~
+pmid: 22804917
+title: 'Beyond Kras Mutation Status: Influence of Kras Copy Number Status and Micrornas
+  on Clinical Outcome to Cetuximab in Metastatic Colorectal Cancer Patients.'
+year: 2012

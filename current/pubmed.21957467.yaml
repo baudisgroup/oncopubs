@@ -1,0 +1,47 @@
+---
+abstract: Splenic marginal zone lymphomas SMZL are an uncommon type of B-cell non-Hodgkins
+  lymphoma NHL-B in which no specific chromosomal translocations have been described.
+  In contrast, the most frequent cytogenetic abnormality is the loss of the long arm
+  of chromosome 7 7q . Previous reports have located this loss in the 7q32 region.
+  In order to better characterize the genomic imbalances in SMZL, molecular studies
+  were carried out in 73 patients with SMZL. To gain insight into the mapping at 7q
+  a tiling array was also used. The results confirmed the loss of 7q as the most frequent
+  change. In addition, several abnormalities, including 4q22.1, 1q21.3-q22, 6q25.3,
+  20q13.33, 3q28, 2q23.3-q24.1 and 17p13, were also present. A loss of 7q22.1 at 99925039-101348479
+  bp was observed in half of the cases. The region of 7q22.1 has not previously been
+  characterised in SMZL. Our results confirmed the presence of a new region of loss
+  on chromosome 7 in these NHL.
+authors: Robledo C, Garcia JL, Benito R, Flores T, Mollejo M, Martinez-Climent JA,
+  Garcia E, Gutierrez NC, Piris MA and Hernandez JM.
+cancertypes: []
+contact:
+  email: jmhr@usal.es
+  name: Jesus Hernandez
+counts:
+  biosamples: 91
+  samples_acgh: 91
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21957467
+- geo:GSE31203
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: Europe
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: 'PLoS One 6, 9 (2011): e24939.'
+label: 'Robledo et al. (2011): Molecular Characterization of the Region 7q22.1 in
+  Splenic Marginal Zone Lymphomas.'
+notes: ~
+pmid: 21957467
+title: Molecular Characterization of the Region 7q22.1 in Splenic Marginal Zone Lymphomas.
+year: 2011

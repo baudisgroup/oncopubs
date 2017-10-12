@@ -1,0 +1,70 @@
+---
+abstract: Soft tissue malignant myoepithelioma STMM is a particularly rare tumor displaying
+  myoepithelial elements and lacking obvious ductal differentiation. From the one
+  case report with cytogenetic data available in the literature, STMM seems to be
+  a distinct entity with some resemblance to chordoma on the one hand and myoepithelioma
+  on the other. The present case of STMM yielded novel data from high-resolution comparative
+  genomic hybridization HR-CGH analysis. An 82-year-old female patient presented with
+  a soft tissue tumor within the deep soft tissues in the right gluteal muscle measuring
+  16 x 13 x 11 cm. Histologically, the lesion was diagnosed as a myoepithelial carcinoma.
+  Immunohistochemistry was focally positive for pancytokeratin, EMA, S-100 protein,
+  and alpha smooth muscle actin. HR-CGH analysis revealed gains of 1p31 approximately
+  p34, 1q21 approximately q23, 9q12 approximately q33, and 16q22 and losses of 1p11
+  approximately p22, 1q24 approximately q44, 3p, 10q11.1 approximately q22, 13q, 14q13
+  approximately q24, and 15q. Subsequent fluorescence in situ hybridization analysis
+  confirmed deletion of 3p, gain of 16q, and monosomy of chromosomes 13 and 15. These
+  results support the hypothesis that STMM is a distinct entity, not sharing the cytogenetic
+  alterations of salivary gland myoepithelial carcinomas and ductal carcinomas of
+  breast with myoepithelial differentiation.
+authors: Balogh Z, Deak L, and Sapi Z.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C7596
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8982_3
+  term_label: Malignant myoepithelioma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-89823
+  term_label: Malignant myoepithelioma
+contact:
+  email: zsapi@freemail.hu
+  name: Zoltan Sapi
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18503832
+geo_data:
+  geo_json:
+    coordinates:
+    - 19.04
+    - 47.5
+    type: Point
+  info:
+    city: Budapest
+    continent: Europe
+    country: Hungary
+    label: Budapest, Hungary, Europe
+    precision: city
+journal: Cancer Genet Cytogenet, 183(2) 2008, 121-24.
+label: 'Balogh et al. (2008): Malignant myoepithelioma of soft tissue: a case report
+  with cytogenetic findings.'
+notes: ~
+pmid: 18503832
+title: 'Malignant myoepithelioma of soft tissue: a case report with cytogenetic findings.'
+year: 2008

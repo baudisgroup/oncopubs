@@ -1,0 +1,52 @@
+---
+abstract: Comparative genomic hybridization CGH was applied to 35 neuroblastomas to
+  obtain a global view of genetic imbalances. Results were validated by means of Southern
+  blot hybridization detection of N-myc amplification , loss of heterozygosity LOH
+  studies detection of deletion 1p , and interphase cytogenetics dual labelling fluorescence
+  in situ hybridization FISH of centromeric 17 and erbB-2 . CGH allowed sensitive
+  detection of N-myc amplification and chromosome 1p deletion, representing the most
+  established prognostic markers of neuroblastoma. In addition, a high rate of chromosome
+  17 aberrations 63 per cent with possible prognostic relevance was observed. Previously
+  unreported high level copy number increases indicating oncogene amplification were
+  mapped to chromosome subbands 2p13-14 and 3q24-26. Other recurrent regional chromosomal
+  aberrations were localized on 11q, 12q, 13q, 14q, and 15q. CGH results were fully
+  consistent with data of Southern blot analysis and LOH study, as well as interphase
+  cytogenetics. These results show that CGH is a sensitive method for the detection
+  of all prognostically relevant genetic alterations in neuroblastomas that CGH considerably
+  simplifies the detection of these alterations, resulting in a single methodological
+  approach and that CGH is a powerful tool to elucidate previously unknown genetic
+  changes in neuroblastomas.
+authors: Brinkschmidt C, Christiansen H, Terpe HJ, Simon R, Boecker W, Lampert F and
+  Stoerkel S.
+cancertypes: []
+contact:
+  email: brinkch@uni-muenster.de
+  name: Christian Brinkschmidt
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9196436
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'J Pathol 181, 4 (1997): 394-400.'
+label: 'Brinkschmidt et al. (1997): Comparative Genomic Hybridization (Cgh) Analysis
+  of Neuroblastomas--an Important ...'
+notes: ~
+pmid: 9196436
+title: Comparative Genomic Hybridization (Cgh) Analysis of Neuroblastomas--an Important
+  Methodological Approach in Paediatric Tumour Pathology.
+year: 1997

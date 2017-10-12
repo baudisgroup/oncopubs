@@ -1,0 +1,38 @@
+---
+abstract: ~
+authors: Sanchez-Schmidt JM, Salgado R, Servitje O, Gallardo F, Ortiz-Romero PL, Karpova
+  MB, Zipser MC, Garcia-Muret MP, Estrach T, Rodr      guez-Pinilla SM, Climent F,
+  Suela J, Ferreira BI, Cigudosa JC, Salido M, Barranco C, Serrano S, Dummer R, Sol      F,
+  Pujol RM, and Espinet B.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20844552
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: J Invest Dermatol, 131(1) 2011, 269-71.
+label: 'Sanchez-Schmidt et al. (2011): Primary cutaneous CD30  anaplastic large-cell
+  lymphomas show a heterogeneous genomic ...'
+notes: ~
+pmid: 20844552
+title: 'Primary cutaneous CD30  anaplastic large-cell lymphomas show a heterogeneous
+  genomic profile: an oligonucleotide arrayCGH approach.'
+year: 2011

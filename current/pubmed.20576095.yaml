@@ -1,0 +1,64 @@
+---
+abstract: Breast cancer is a profoundly heterogeneous disease with respect to biologic
+  and clinical behavior. Gene-expression profiling has been used to dissect this complexity
+  and to stratify tumors into intrinsic gene-expression subtypes, associated with
+  distinct biology, patient outcome, and genomic alterations. Additionally, breast
+  tumors occurring in individuals with germline BRCA1 or BRCA2 mutations typically
+  fall into distinct subtypes.
+authors: Jonsson G, Staaf J, Vallon-Christersson J, Ringner M, Holm K, Hegardt C,
+  Gunnarsson H, Fagerholm R, Strand C, Agnarsson BA, Kilpivaara O, Luts L, Heikkila
+  P, Aittomaki K, Blomqvist C, Loman N, Malmstrom P, Olsson H, Johannsson OT, Arason
+  A, Nevanlinna H, Barkardottir RB and Borg A.
+cancertypes:
+- samples_arraymap: 359
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 359
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 359
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 359
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 359
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: Goran_B.Jonsson@med.lu.se
+  name: Goran Jonsson
+counts:
+  biosamples: 359
+  samples_acgh: 359
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20576095
+- geo:GSE22133
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Breast Cancer Res 12, 3 (2010): R42.'
+label: 'Jonsson et al. (2010): Genomic Subtypes of Breast Cancer Identified By Array-Comparative
+  Genomic Hybridization Display ...'
+notes: ~
+pmid: 20576095
+title: Genomic Subtypes of Breast Cancer Identified By Array-Comparative Genomic Hybridization
+  Display Distinct Molecular and Clinical Characteristics.
+year: 2010

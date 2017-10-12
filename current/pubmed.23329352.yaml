@@ -1,0 +1,78 @@
+---
+abstract: Several ETS transcription factors are involved in the pathogenesis of human
+  cancers by different mechanisms. As gene copy number gain amplification is an alternative
+  mechanism of oncogenic activation and 1q gain is the most common copy number change
+  in breast carcinoma, we investigated how that genomic change impacts in the expression
+  of the three 1q ETS family members ETV3, ELK4, and ELF3. We have first evaluated
+  141 breast carcinomas for genome-wide copy number changes by chromosomal CGH and
+  showed that 1q21 and 1q32 were the two chromosome bands with most frequent genomic
+  copy number gains. Second, we confirmed by FISH with locus-specific BAC clones that
+  cases showing 1q gain amplification by CGH showed copy number increase of the ETS
+  genes ETV3 located in 1q21 23 , ELF3, and ELK4 both in 1q32 . Third, gene expression
+  levels of the three 1q ETS genes, as well as their potential targets MYC and CRISP3,
+  were evaluated by quantitative real-time PCR. We here show for the first time that
+  the most common genomic copy number gains in breast cancer, 1q21 and 1q32, are associated
+  with overexpression of the ETS transcription factors ETV3 and ELF3 but not ELK4
+  at these loci irrespective of molecular subtypes. Among the three 1q ETS genes,
+  ELF3 has a relevant role in breast carcinogenesis and is also the most likely target
+  of the 1q copy number increase. The basal-like molecular subtype presented the worst
+  prognosis regarding disease-specific survival, but no additional prognostic value
+  was found for 1q copy number status or ELF3 expression. In addition, we show that
+  there is a correlation between the expression of the oncogene MYC, irrespectively
+  of copy number gain at its loci in 8q24, and the expression of both the transcriptional
+  repressor ETV3 and the androgen respondent ELK4.
+authors: Mesquita B, Lopes P, Rodrigues A, Pereira D, Afonso M, Leal C, Henrique R,
+  Lind GE, Jeronimo C, Lothe RA and Teixeira MR.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 141
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 141
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 141
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: ~
+  samples_progenetix: 141
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: ~
+  samples_progenetix: 141
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: mteixeir@ipoporto.min-saude.pt
+  name: Manuel R. Teixeira
+counts:
+  biosamples: 141
+  samples_acgh: 0
+  samples_ccgh: 141
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23329352
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: Europe
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: Breast Cancer Res Treat (2013)
+label: 'Mesquita et al. (2013): Frequent copy number gains at 1q21 and 1q32 are associated
+  with overexpression of the ETS ...'
+notes: ~
+pmid: 23329352
+title: Frequent copy number gains at 1q21 and 1q32 are associated with overexpression
+  of the ETS transcription factors ETV3 and ELF3 in breast cancer irrespective of
+  molecular subtypes.
+year: 2013

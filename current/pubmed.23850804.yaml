@@ -1,0 +1,96 @@
+---
+abstract: 'Nodal marginal zone lymphoma is a poorly defined entity in the World Health
+  Organization classification, based largely on criteria of exclusion and the diagnosis
+  often remains subjective. Follicular lymphoma lacking t(14;18) has similar characteristics
+  which results in a major potential diagnostic overlap which this study aims to dissect.
+  Four subgroups of lymphoma samples (n=56) were analyzed with high-resolution array
+  comparative genome hybridization: nodal marginal zone lymphoma, t(14;18)-negative
+  follicular lymphoma, localized t(14:18)-positive follicular lymphoma and disseminated
+  t(14;18)-positive follicular lymphoma. Gains on chromosomes 7, 8 and 12 were observed
+  in all subgroups. The mean number of aberrations was higher in disseminated t(14;18)-positive
+  follicular lymphoma than in localized t(14:18)-positive follicular lymphoma (P<0.01)
+  and the majority of alterations in localized t(14:18)-positive follicular lymphoma
+  were also found in disseminated t(14;18)-positive follicular lymphoma. Nodal marginal
+  zone lymphoma was marked by 3q gains with amplifications of four genes. A different
+  overall pattern of aberrations was seen in t(14;18)-negative follicular lymphoma
+  compared to t(14;18)-positive follicular lymphoma. t(14;18)-negative follicular
+  lymphoma is characterized by specific (focal) gains on chromosome 3, as observed
+  in nodal marginal zone lymphoma. Our results support the notion that localized t(14:18)-positive
+  follicular lymphoma represents an early phase of disseminated t(14;18)-positive
+  follicular lymphoma. t(14;18)-negative follicular lymphoma bears aberrations that
+  are more like those in nodal marginal zone lymphoma, suggesting a relation between
+  these groups.'
+authors: Krijgsman O, Gonzalez P, Ponz OB, Roemer MG, Slot S, Broeks A, Braaf L, Kerkhoven
+  RM, Bot F, van Groningen K, Beijert M, Ylstra B, de Jong D.
+cancertypes:
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: ncit:C3898
+  term_label: Extranodal Marginal Zone Lymphoma of Mucosa-Associated Lymphoid Tissue
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 56
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 42
+  samples_progenetix: ~
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
+contact:
+  email: Daphne.dejong@vumc.nl
+  name: Daphne de Jong
+counts:
+  biosamples: 56
+  samples_acgh: 56
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23850804
+- geo:GSE40641
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Haematologica 98(12), 2013
+label: ' (2013): '
+notes: ~
+pmid: 23850804
+title: Dissecting the gray zone between follicular lymphoma and marginal zone lymphoma
+  using morphological and genetic features.
+year: 2013

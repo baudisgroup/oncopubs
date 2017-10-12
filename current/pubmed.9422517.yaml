@@ -1,0 +1,69 @@
+---
+abstract: Fifteen cases of high grade primary gastric non-Hodgkins lymphomas were
+  studied using comparative genomic hybridization CGH and or fluorescence in situ
+  hybridization FISH techniques. A total of 10 cases of diffuse large cell lymphoma
+  DLCL with no histologically identifiable or previous history of low grade mucosa-associated
+  lymphoid tissue MALT lymphoma components were examined, four by CGH and validated
+  by FISH, and the remaining six by FISH alone. All 10 tumors showed gains in chromosome
+  12. Other recurring CGH findings in DLCL included copy number gains of 1q and deletions
+  of 6q. Five cases of high grade tumors with low grade MALT components HGM were also
+  examined, three by CGH and validated by FISH and two by FISH only. Only one in five
+  HGM showed gains of chromosome 12. Other recurring CGH findings in HGM included
+  7q and 11q. We conclude that high grade gastric lymphomas of DLCL type were associated
+  with gains in chromosome 12. The change was much less frequent P amp lt 0.01 in
+  the HGM type, which had a percentage similar to that observed in previously reported
+  cytogenetics FISH studies on low grade MALT lymphomas. Our findings suggested that
+  many DLCL were not derived from transformation of low grade MALT lymphomas.
+authors: Chan WY, Wong N, Chan AB, Chow JH and Lee JC.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+contact:
+  email: wingchan@cuhk.edu.hk
+  name: W. Chan
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9422517
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Am J Pathol 152, 1 (1998): 11-16.'
+label: 'Chan et al. (1998): Consistent Copy Number Gain in Chromosome 12 in Primary
+  Diffuse Large Cell Lymphomas of the ...'
+notes: ~
+pmid: 9422517
+title: Consistent Copy Number Gain in Chromosome 12 in Primary Diffuse Large Cell
+  Lymphomas of the Stomach.
+year: 1998

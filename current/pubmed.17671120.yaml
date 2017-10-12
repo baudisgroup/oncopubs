@@ -1,0 +1,37 @@
+---
+abstract: To identify reliable predictors of chemoradiation resistance of advanced
+  head and neck squamous cell carcinoma HNSCC .
+authors: van den Broek GB, Wreesmann VB, van den Brekel MW, Rasch CR, Balm AJ and
+  Rao PH.
+cancertypes: []
+contact:
+  email: g.vd.broek@nki.nl
+  name: G. van den Broek
+counts:
+  biosamples: 40
+  samples_acgh: 0
+  samples_ccgh: 40
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17671120
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Clin Cancer Res 13, 15 Pt 1 (2007): 4386-91.'
+label: 'van den Broek et al. (2007): Genetic Abnormalities Associated With Chemoradiation
+  Resistance of Head and Neck Squamous ...'
+notes: ~
+pmid: 17671120
+title: Genetic Abnormalities Associated With Chemoradiation Resistance of Head and
+  Neck Squamous Cell Carcinoma.
+year: 2007

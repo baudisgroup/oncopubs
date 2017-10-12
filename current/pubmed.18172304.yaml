@@ -1,0 +1,76 @@
+---
+abstract: It is generally accepted that human cancers derive from a mutated single
+  cell. However, the genetic steps characterizing various stages of progression remain
+  unclear. Studying a unique case of metastatic melanoma, we observed that cell lines
+  derived from metachronous metastases arising over a decade retained a central core
+  of genetic stability in spite of divergent phenotypes. In the present study, we
+  expanded our previous observations comparing these autologous cell lines of clonal
+  derivation with allogeneic ones and correlated array comparative genomic hybridization
+  aCGH with gene expression profiling to determine their relative contribution to
+  the dynamics of disease progression. aCGH and gene expression profiling were performed
+  on autologous cell lines and allogeneic melanoma cell lines originating from other
+  patients. A striking correlation existed between total extent of genetic imbalances,
+  global transcriptional patterns, and cellular phenotypes. They did not follow a
+  strict temporal progression but stemmed independently at various time points from
+  a central core of genetic stability best explained according to the cancer stem
+  cell hypothesis. Although their contribution was intertwined, genomic imbalances
+  detectable by aCGH contributed only 25 of the transcriptional traits determining
+  autologous tumor distinctiveness. Our study provides important insights about the
+  dynamics of cancer progression and supports the development of targeted anticancer
+  therapies aimed against stable genetic factors that are maintained throughout the
+  end stage of disease.
+authors: Sabatino M, Zhao Y, Voiculescu S, Monaco A, Robbins P, Karai L, Nickoloff
+  BJ, Maio M, Selleri S, Marincola FM and Wang E.
+cancertypes:
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: ncit:C3224
+  term_label: Melanoma
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:icdom:8720_3
+  term_label: Malignant melanoma, NOS
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:icdot:C44
+  term_label: skin
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:seer:25010
+  term_label: Melanoma of the Skin
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: snmi:M-87203
+  term_label: Malignant melanoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18172304
+- geo:GSE8777
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 68, 1 (2008): 122-31.'
+label: 'Sabatino et al. (2008): Conservation of Genetic Alterations in Recurrent Melanoma
+  Supports the Melanoma Stem Cell ...'
+notes: ~
+pmid: 18172304
+title: Conservation of Genetic Alterations in Recurrent Melanoma Supports the Melanoma
+  Stem Cell Hypothesis.
+year: 2008

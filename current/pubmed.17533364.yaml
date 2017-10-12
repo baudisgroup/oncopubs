@@ -1,0 +1,82 @@
+---
+abstract: Identifying genes, whose expression is consistently altered by chromosomal
+  gains or losses, is an important step in defining genes of biological relevance
+  in a wide variety of tumour types. However, additional criteria are needed to discriminate
+  further among the large number of candidate genes identified. This is particularly
+  true for neuroblastoma, where multiple genomic copy number changes of proven prognostic
+  value exist. We have used Affymetrix microarrays and a combination of fluorescent
+  in situ hybridization and single nucleotide polymorphism SNP microarrays to establish
+  expression profiles and delineate copy number alterations in 30 primary neuroblastomas.
+  Correlation of microarray data with patient survival and analysis of expression
+  within rodent neuroblastoma cell lines were then used to define further genes likely
+  to be involved in the disease process. Using this approach, we identify amp gt 1000
+  genes within eight recurrent genomic alterations loss of 1p, 3p, 4p, 10q and 11q,
+  2p gain, 17q gain, and the MYCN amplicon whose expression is consistently altered
+  by copy number change. Of these, 84 correlate with patient survival, with the minimal
+  regions of 17q gain and 4p loss being enriched significantly for such genes. These
+  include genes involved in RNA and DNA metabolism, and apoptosis. Orthologues of
+  all but one of these genes on 17q are overexpressed in rodent neuroblastoma cell
+  lines. A significant excess of SNPs whose copy number correlates with survival is
+  also observed on proximal 4p in stage 4 tumours, and we find that deletion of 4p
+  is associated with improved outcome in an extended cohort of tumours. These results
+  define the major impact of genomic copy number alterations upon transcription within
+  neuroblastoma, and highlight genes on distal 17q and proximal 4p for downstream
+  analyses. They also suggest that integration of discriminators, such as survival
+  and comparative gene expression, with microarray data may be useful in the identification
+  of critical genes within regions of loss or gain in many human cancers.
+authors: Lastowska M, Viprey V, Santibanez-Koref M, Wappler I, Peters H, Cullinane
+  C, Roberts P, Hall AG, Tweddle DA, Pearson AD, Lewis I, Burchill SA and Jackson
+  MS.
+cancertypes:
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: ncit:C3270
+  term_label: Neuroblastoma
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
+contact:
+  email: m.s.jackson@ncl.ac.uk
+  name: M.S. Jackson
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17533364
+- geo:GSE13137
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.61
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: Europe
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: 'Oncogene 26, 53 (2007): 7432-44.'
+label: 'Lastowska et al. (2007): Identification of Candidate Genes Involved in Neuroblastoma
+  Progression By Combining Genomic ...'
+notes: ~
+pmid: 17533364
+title: Identification of Candidate Genes Involved in Neuroblastoma Progression By
+  Combining Genomic and Expression Microarrays With Survival Data.
+year: 2007

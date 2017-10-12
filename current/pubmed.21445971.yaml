@@ -1,0 +1,81 @@
+---
+abstract: Many hereditary nonpolyposis colorectal cancers CRCs cannot be explained
+  by Lynch syndrome. Other high penetrance genetic risk factors are likely to play
+  a role in these mismatch repair MMR -proficient CRC families. Because genomic profiles
+  of CRC tend to vary with CRC susceptibility syndromes, our aim is to analyze the
+  genomic profile of MMR-proficient familial CRC to obtain insight into the biological
+  basis of MMR-proficient familial CRC. We studied 30 MMR-proficient familial colorectal
+  carcinomas, from 15 families, for genomic aberrations, including gains, physical
+  losses, and copy-neutral loss of heterozygosity LOH cnLOH using SNP array comparative
+  genomic hybridization. In addition, we performed somatic mutation analysis for KRAS,
+  BRAF, PIK3CA and GNAS. The frequency of 20q gain 77 is remarkably increased when
+  compared with sporadic CRC, suggesting that 20q gain is involved in tumor progression
+  of familial CRC. There is also a significant increase in the frequency of cnLOH
+  and, as a consequence, a reduced frequency of physical loss compared with sporadic
+  CRC. The most frequent aberrations observed included gains of 7p, 7q, 8q, 13q, 20p
+  and 20q as well as physical losses of 17p, 18p and 18q. Most of these changes are
+  also observed in sporadic CRC. Mutations in KRAS were identified in 37 of the MMR-proficient
+  CRCs, and mutations in BRAF were identified in 16 . No mutations were identified
+  in PIK3CA or chromosome 20 candidate gene GNAS. We show that the patterns of chromosomal
+  instability of MMR-proficient familial CRC are clearly distinct from those from
+  sporadic CRC. Both the increased gain on chromosome 20 and the increased levels
+  of cnLOH suggest the presence of yet undiscovered germline defects that can, in
+  part, underlie the cancer risk in these families.
+authors: Middeldorp A, van Eijk R, Oosting J, Forte GI, van Puijenbroek M, van Nieuwenhuizen
+  M, Corver WE, Ruano D, Caldes T, Wijnen J, Morreau H and van Wezel T.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: Tom van Wezel
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21445971
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: 'Int J Cancer 130, 4 (2012): 837-46.'
+label: 'Middeldorp et al. (2012): Increased Frequency of 20q Gain and Copy-Neutral
+  Loss of Heterozygosity in Mismatch Repair ...'
+notes: ~
+pmid: 21445971
+title: Increased Frequency of 20q Gain and Copy-Neutral Loss of Heterozygosity in
+  Mismatch Repair Proficient Familial Colorectal Carcinomas.
+year: 2012

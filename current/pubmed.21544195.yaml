@@ -1,0 +1,65 @@
+---
+abstract: Wilms tumor WT has been a model to study kidney embryogenesis and tumorigenesis
+  and, although associated with hereditary, cancer predisposition syndromes, the majority
+  of tumors occur sporadically. To analyze genetic changes in WT we have defined copy
+  number changes and loss of heterozygosity in 56 Wilms tumors using high resolution
+  oligonucleotide arrays at a average resolution of 12 Kb. Consistent deletions were
+  seen on chromosomes 1p, 4q, 7p, 9q, 11p, 11q, 14q, 16q, and 21q. High frequency
+  gains were seen for 1q and lower frequency gains were seen on 7q and chromosomes
+  8, 12 and 18. The high resolution provided by the SNP mapping arrays has defined
+  minimal regions of deletion for many of these LOH events. Analysis of CNAs by tumor
+  stage show relatively stable karyotypes in stage 1 tumors and more complex aCGH
+  profiles in tumors from stages 3-5.
+authors: Hawthorn L and Cowell JK.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: ncit:C40407
+  term_label: Kidney Wilms Tumor
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: pgx:icdom:8960_3
+  term_label: Nephroblastoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: pgx:icdot:C64.9
+  term_label: kidney
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: snmi:M-89603
+  term_label: Nephroblastoma, NOS
+contact:
+  email: lhawthorn@mcg.edu
+  name: Lesleyann Hawthorn
+counts:
+  biosamples: 56
+  samples_acgh: 56
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21544195
+geo_data:
+  geo_json:
+    coordinates:
+    - -81.99
+    - 33.47
+    type: Point
+  info:
+    city: Georgia
+    continent: ~
+    country: United States
+    label: Georgia, United States
+    precision: city [needs verification]
+journal: 'PLoS One 6, 4 (2011): e18941.'
+label: 'Hawthorn et al. (2011): Analysis of Wilms Tumors Using Snp Mapping Array-Based
+  Comparative Genomic Hybridization.'
+notes: ~
+pmid: 21544195
+title: Analysis of Wilms Tumors Using Snp Mapping Array-Based Comparative Genomic
+  Hybridization.
+year: 2011

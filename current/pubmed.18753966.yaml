@@ -1,0 +1,55 @@
+---
+abstract: High-grade neuroendocrine carcinomas NECs of the uterine corpus and ovary
+  are very rare tumors, and whenever diagnosed, they are usually associated with epithelial
+  carcinoma. Because of their rarity, the molecular characteristics of these tumors
+  are still unknown. To shed some light, we studied the genetic abnormalities of each
+  of the 2 components, NEC and adenocarcinoma, in 4 cases arising in the ovary and
+  the uterine corpus using array-comparative genomic hybridization. Both components
+  of all 4 cases showed almost similar genetic abnormalities. Genetic alterations
+  exclusively seen in adenocarcinomas included losses of 2p21.1, 10q, 12q, 9p23, gains
+  on 2p, 3p, 3q, 4p, 5q, 6q, 10p, 15q, and amplification of 6q22.31. However, the
+  NEC component showed numerous additional genetic abnormalities in comparison with
+  the adenocarcinomas including gain on 6p25.3-p21.2 and 19q12 and losses on 6q24.2-q27,
+  19q13.11-13.2, and 19q13.31-13.41, where numerous genes involved in the pathogenesis
+  of epithelial ovarian carcinoma have been previously identified. Our data indicate
+  that NEC and adenocarcinomas are, in most part, genetically similar tumors and might
+  indeed have a common origin. However, the NEC components exhibited more genetic
+  abnormalities in comparison with the adenocarcinoma, suggesting that when the NEC
+  clones become more dedifferentiated, they acquire additional genetic abnormalities.
+  Because of the limited cases analyzed, a larger study is still needed to confirm
+  our observation.
+authors: Mhawech-Fauceglia P, Odunsi K, Dim D, Nowak N, Lele S, Cheney RT and Pejovic
+  T.
+cancertypes: []
+contact:
+  email: pmhawech1@yahoo.com
+  name: Paulette Mhawech-Fauceglia
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18753966
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Int J Gynecol Pathol 27, 4 (2008): 539-46.'
+label: 'Mhawech-Fauceglia et al. (2008): Array-Comparative Genomic Hybridization Analysis
+  of Primary Endometrial and Ovarian ...'
+notes: ~
+pmid: 18753966
+title: 'Array-Comparative Genomic Hybridization Analysis of Primary Endometrial and
+  Ovarian High-Grade Neuroendocrine Carcinoma Associated With Adenocarcinoma: Mystery
+  Resolved '
+year: 2008

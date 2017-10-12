@@ -1,0 +1,48 @@
+---
+abstract: Perivascular epithelioid cell tumors (PEComas) are rare mesenchymal neoplasms.
+  The exact genetic alterations underlying the pathophysiology of PEComas are largely
+  unknown, although it has been shown that activation of the Mammalian target of rapamycin
+  (mTOR) signaling pathway plays a pivotal role. Herein we describe the successful
+  treatment of a patient with metastatic PEComa with the mTOR inhibitor everolimus
+  and a comprehensive analysis to identify mechanisms for response.  Immunohistochemistry,
+  array comparative genomic hybridization (aCGH) and genetic analyses were performed.  Immunohistochemistry
+  confirmed constitutive activation of mTOR. aCGH revealed a hyperdiploid karyotype
+  affecting large regions of the genome. Next-generation sequencing did not reveal
+  any tumor-specific mutations in mTOR-related genes.  Our results show the complexity
+  of determining causal genetic alterations that can predict responsiveness to mTOR
+  inhibition, even for a tumor with a complete remission to this specific treatment.  Copyrightï¿½
+  2015 International Institute of Anticancer Research (Dr. John G. Delinassios), All
+  rights reserved.
+authors: Weeber F, Koudijs MJ, Hoogstraat M, Besselink NJ, VAN Lieshout S, Nijman
+  IJ, Cuppen E, Offerhaus GJ and Voest EE
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26026101
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Anticancer Res. 35(6), 2015
+label: 'Weeber F et al. (2015): '
+notes: ~
+pmid: 26026101
+title: 'Effective Therapeutic Intervention and Comprehensive Genetic Analysis of mTOR
+  Signaling in PEComa: A Case Report.'
+year: 2015

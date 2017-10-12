@@ -1,0 +1,55 @@
+---
+abstract: Small cell lung cancer (SCLC) is an aggressive disease with poor survival.
+  A few sequencing studies performed on limited number of samples have revealed potential
+  disease-driving genes in SCLC, however, much still remains unknown, particularly
+  in the Asian patient population. Here we conducted whole exome sequencing (WES)
+  and transcriptomic sequencing of primary tumors from 99 Chinese SCLC patients. Dysregulation
+  of tumor suppressor genes TP53 and RB1 was observed in 82% and 62% of SCLC patients,
+  respectively, and more than half of the SCLC patients (62%) harbored TP53 and RB1
+  mutation and/or copy number loss. Additionally, Serine/Arginine Splicing Factor
+  1 (SRSF1) DNA copy number gain and mRNA over-expression was strongly associated
+  with poor survival using both discovery and validation patient cohorts. Functional
+  studies in vitro and in vivo demonstrate that SRSF1 is important for tumorigenicity
+  of SCLC and may play a key role in DNA repair and chemo-sensitivity. These results
+  strongly support SRSF1 as a prognostic biomarker in SCLC and provide a rationale
+  for personalized therapy in SCLC.
+authors: Jiang L, Huang J, Higgs BW, Hu Z, Xiao Z, Yao X, Conley S, Zhong H, Liu Z,
+  Brohawn P, Shen D, Wu S, Ge X, Jiang Y, Zhao Y, Lou Y, Morehouse C, Zhu W, Sebastian
+  Y, Czapiga M, Oganesyan V, Fu H, Niu Y, Zhang W, Streicher K, Tice D, Zhao H, Zhu
+  M, Xu L, Herbst R, Su X, Gu Y, Li S, Huang L, Gu J, Han B, Jallal B, Shen H and
+  Yao Y
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: oliver_67@yahoo.com
+  name: Yihonng Yao
+counts:
+  biosamples: 99
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 99
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27093186
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: PLoS Genet. 12(4), 2016
+label: 'Jiang L et al. (2016): '
+notes: ~
+pmid: 27093186
+title: Genomic Landscape Survey Identifies SRSF1 as a Key Oncodriver in Small Cell
+  Lung Cancer.
+year: 2016

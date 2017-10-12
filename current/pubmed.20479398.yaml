@@ -1,0 +1,139 @@
+---
+abstract: To define copy number alterations and gene expression signatures underlying
+  pediatric high-grade glioma HGG .
+authors: Paugh BS, Qu C, Jones C, Liu Z, Adamowicz-Brice M, Zhang J, Bax DA, Coyle
+  B, Barrow J, Hargrave D, Lowe J, Gajjar A, Zhao W, Broniscer A, Ellison DW, Grundy
+  RG and Baker SJ.
+cancertypes:
+- samples_arraymap: 116
+  samples_progenetix: 48
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- samples_arraymap: 2
+  samples_progenetix: 1
+  term_id: ncit:C4323
+  term_label: Pleomorphic Xanthoastrocytoma
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: ncit:C4324
+  term_label: Astroblastoma
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C4326
+  term_label: Anaplastic Oligodendroglioma
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: ncit:C9477
+  term_label: Anaplastic Astrocytoma
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- samples_arraymap: 24
+  samples_progenetix: 11
+  term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: 2
+  samples_progenetix: 1
+  term_id: pgx:icdom:9424_3
+  term_label: Pleomorphic xanthoastrocytoma
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdom:9430_3
+  term_label: Astroblastoma
+- samples_arraymap: 116
+  samples_progenetix: 48
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: 1
+  term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:NA
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 59
+  term_id: pgx:icdot:C71.0
+  term_label: Cerebrum
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- samples_arraymap: 156
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: brain, nos
+- samples_arraymap: 156
+  samples_progenetix: 66
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: snmi:M-93823
+  term_label: Mixed glioma
+- samples_arraymap: 24
+  samples_progenetix: 11
+  term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: 2
+  samples_progenetix: 1
+  term_id: snmi:M-94243
+  term_label: Pleomorphic xanthoastrocytoma
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: snmi:M-94303
+  term_label: Astroblastoma
+- samples_arraymap: 116
+  samples_progenetix: 48
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: 1
+  term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-NA
+  term_label: ~
+contact:
+  email: Suzanne.Baker@stjude.org
+  name: Suzanne J Baker
+counts:
+  biosamples: 78
+  samples_acgh: 78
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20479398
+- geo:GSE19578
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'J Clin Oncol 28, 18 (2010): 3061-68.'
+label: 'Paugh et al. (2010): Integrated Molecular Genetic Profiling of Pediatric High-Grade
+  Gliomas Reveals Key Differences With ...'
+notes: ~
+pmid: 20479398
+title: Integrated Molecular Genetic Profiling of Pediatric High-Grade Gliomas Reveals
+  Key Differences With the Adult Disease.
+year: 2010

@@ -1,0 +1,36 @@
+---
+abstract: To compare comparative genomic hybridization CGH with restriction fragment
+  length polymorphism RFLP analysis in renal cell carcinoma RCC .
+authors: Presti JC Jr, Moch H, Reuter VE, Cordon-Cardo C and Waldman FM.
+cancertypes: []
+contact:
+  email: waldman@cc.ucsf.edu
+  name: Frederic M. Waldman
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8648824
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'J Urol 156, 1 (1996): 281-85.'
+label: 'Presti JC et al. (1996): Renal Cell Carcinoma Genetic Analysis By Comparative
+  Genomic Hybridization and Restriction ...'
+notes: ~
+pmid: 8648824
+title: Renal Cell Carcinoma Genetic Analysis By Comparative Genomic Hybridization
+  and Restriction Fragment Length Polymorphism Analysis.
+year: 1996

@@ -1,0 +1,76 @@
+---
+abstract: The available evidence suggests that the lethality of glioblastoma is driven
+  by small subpopulations of cells that self-renew and exhibit tumorigenicity. It
+  remains unclear whether tumorigenicity exists as a static property of a few cells
+  or as a dynamically acquired property. We used tumor-sphere and xenograft formation
+  as assays for tumorigenicity and examined subclones isolated from established and
+  primary glioblastoma lines. Our results indicate that glioblastoma tumorigenicity
+  is largely deterministic, yet the property can be acquired spontaneously at low
+  frequencies. Further, these dynamic transitions are governed by epigenetic reprogramming
+  through the lysine-specific demethylase 1 (LSD1). LSD depletion increases trimethylation
+  of histone 3 lysine 4 at the avian myelocytomatosis viral oncogene homolog (MYC)
+  locus, which elevates MYC expression. MYC, in turn, regulates oligodendrocyte lineage
+  transcription factor 2 (OLIG2), SRY (sex determining region Y)-box 2 (SOX2), and
+  POU class 3 homeobox 2 (POU3F2), a core set of transcription factors required for
+  reprogramming glioblastoma cells into stem-like states. Our model suggests epigenetic
+  regulation of key transcription factors governs transitions between tumorigenic
+  states and provides a framework for glioblastoma therapeutic development.
+authors: Kozono D, Li J, Nitta M, Sampetrean O, Gonda D, Kushwaha DS, Merzon D, Ramakrishnan
+  V, Zhu S, Zhu K, Matsui H, Harismendy O, Hua W, Mao Y, Kwon CH, Saya H, Nakano I,
+  Pizzo DP, VandenBerg SR, Chen CC.
+cancertypes:
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: oharismendy@ucsd.edu
+  name: Olivier Harismendy
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26159421
+- geo:GSE56316
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.27
+    - 32.85
+    type: Point
+  info:
+    city: La Jolla
+    continent: North America
+    country: United States
+    label: La Jolla, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 112(30), 2015
+label: ' (2015): '
+notes: ~
+pmid: 26159421
+title: Dynamic epigenetic regulation of glioblastoma tumorigenicity through LSD1 modulation
+  of MYC expression.
+year: 2015

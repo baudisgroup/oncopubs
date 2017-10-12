@@ -1,0 +1,37 @@
+---
+abstract: Activating mutations in the RET protooncogene have been demonstrated in
+  multiple endocrine neoplasia 2 and sporadic medullary thyroid carcinoma MTC . However,
+  the complete genetic etiology underlying MTC tumorigenesis remains unclear.
+authors: Ye L, Santarpia L, Cote GJ, El-Naggar AK and Gagel RF.
+cancertypes: []
+contact:
+  email: rgagel@mdanderson.org
+  name: Robert F. Gagel
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18765511
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'J Clin Endocrinol Metab 93, 11 (2008): 4367-72.'
+label: 'Ye et al. (2008): High Resolution Array-Comparative Genomic Hybridization
+  Profiling Reveals Deoxyribonucleic Acid Copy ...'
+notes: ~
+pmid: 18765511
+title: High Resolution Array-Comparative Genomic Hybridization Profiling Reveals Deoxyribonucleic
+  Acid Copy Number Alterations Associated With Medullary Thyroid Carcinoma.
+year: 2008

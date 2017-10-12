@@ -1,0 +1,68 @@
+---
+abstract: 'Among patients with acute myeloid leukemia AML , the rare group of complex
+  aberrant karyotypes characterized by high hyperdiploidy HH is a subset with poor
+  prognosis. Because of their rarity, few conventional cytogenetic studies have specifically
+  addressed these patients. To identify DNA copy number aberrations at the submicroscopic
+  level, we applied array-based comparative genomic hybridization aCGH to samples
+  from 19 AML patients with complex karyotypes characterized by HH  49 chromosomes
+  . We found a total of 155 imbalances average: 8.2 per patient , and a high proportion
+  of these imbalances involved whole chromosomes n 75 . The chromosomes most commonly
+  gained were chromosomes 8 58 , 21 42 , and 19 32 . We identified 80 segmental genomic
+  aberrations, and losses n 47 were more frequent than gains n 33 . We identified
+  common deleted regions at 5q, 15q, 18p, and 19p. The tumor suppressor gene L3MBTL4
+  and zinc finger proteins reside within 18p and 19p, respectively. The aCGH analysis
+  added new information to the karyotypic interpretations in 16 of the 19 HH AML cases
+  84 , leading to a significantly higher detection rate of abnormalities.'
+authors: Veigaard C, Norgaard JM and Kjeldsen E.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+contact:
+  email: ~
+  name: Eigil Kjeldsen
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22018275
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: 'Cancer Genet 204, 9 (2011): 516-21.'
+label: 'Veigaard et al. (2011): Genomic Profiling in High Hyperdiploid Acute Myeloid
+  Leukemia: A Retrospective Study of 19 ...'
+notes: ~
+pmid: 22018275
+title: 'Genomic Profiling in High Hyperdiploid Acute Myeloid Leukemia: A Retrospective
+  Study of 19 Cases.'
+year: 2011

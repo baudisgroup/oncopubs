@@ -1,0 +1,53 @@
+---
+abstract: Array-based comparative genomic hybridization aCGH using bacterial artificial
+  chromosomes BAC is a powerful method to analyze DNA copy number aberrations of the
+  entire human genome. In fact, CGH and aCGH have revealed various DNA copy number
+  aberrations in numerous cancer cells and cancer cell lines examined so far. In this
+  report, BAC aCGH was applied to evaluate the stability or instability of cell lines.
+  Established cell lines have greatly contributed to advancements in not only biology
+  but also medical science. However, cell lines have serious problems, such as alteration
+  of biological properties during long-term cultivation. Firstly, we investigated
+  two cancer cell lines, HeLa and Caco-2. HeLa cells, established from a cervical
+  cancer, showed significantly increased DNA copy number alterations with passage
+  time. Caco-2 cells, established from a colon cancer, showed no remarkable differences
+  under various culture conditions. These results indicate that BAC aCGH can be used
+  for the evaluation and validation of genomic stability of cultured cells. Secondly,
+  BAC aCGH was applied to evaluate and validate the genomic stabilities of three patients
+  mesenchymal stem cells MSCs , which were already used for their treatments. These
+  three MSCs showed no significant differences in DNA copy number aberrations over
+  their entire chromosomal regions. Therefore, BAC aCGH is highly recommended for
+  use for a quality check of various cells before using them for any kind of biological
+  investigation or clinical application.
+authors: Saito S, Morita K, Kohara A, Masui T, Sasao M, Ohgushi H and Hirano T.
+cancertypes: []
+contact:
+  email: hirano-takashi@aist.go.jp
+  name: Takashi Hirano
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21547689
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.1
+    - 36.2
+    type: Point
+  info:
+    city: Tsukuba
+    continent: Asia
+    country: Japan
+    label: Tsukuba, Japan, Asia
+    precision: city
+journal: 'Hum Cell 24, 1 (2011): 2-8.'
+label: 'Saito et al. (2011): Use of Bac Array Cgh for Evaluation of Chromosomal Stability
+  of Clinically Used Human Mesenchymal ...'
+notes: ~
+pmid: 21547689
+title: Use of Bac Array Cgh for Evaluation of Chromosomal Stability of Clinically
+  Used Human Mesenchymal Stem Cells and of Cancer Cell Lines.
+year: 2011

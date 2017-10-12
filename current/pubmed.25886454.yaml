@@ -1,0 +1,54 @@
+---
+abstract: "To date, there have been no reports characterizing the genome-wide somatic
+  DNA chromosomal copy-number alteration landscape in metastatic urothelial carcinoma.
+  We sought to characterize the DNA copy-number profile in a cohort of metastatic
+  samples and compare them to a cohort of primary urothelial carcinoma samples in
+  order to identify changes that are associated with progression from primary to metastatic
+  disease.  Using molecular inversion probe array analysis we compared genome-wide
+  chromosomal copy-number alterations between 30 metastatic and 29 primary UC samples.
+  Whole transcriptome RNA-Seq analysis was also performed in primary and matched metastatic
+  samples which was available for 9 patients.  Based on a focused analysis of 32 genes
+  in which alterations may be clinically actionable, there were significantly more
+  amplifications/deletions in metastases (8.6% vs 4.5%, pâ\x80\x89<â\x80\x890.001).
+  In particular, there was a higher frequency of E2F3 amplification in metastases
+  (30% vs 7%, pâ\x80\x89=â\x80\x890.046). Paired primary and metastatic tissue was
+  available for 11 patients and 3 of these had amplifications of potential clinical
+  relevance in metastases that were not in the primary tumor including ERBB2, CDK4,
+  CCND1, E2F3, and AKT1. The transcriptional activity of these amplifications was
+  supported by RNA expression data.  The discordance in alterations between primary
+  and metastatic tissue may be of clinical relevance in the era of genomically directed
+  precision cancer medicine."
+authors: Bambury RM, Bhatt AS, Riester M, Pedamallu CS, Duke F, Bellmunt J, Stack
+  EC, Werner L, Park R, Iyer G, Loda M, Kantoff PW, Michor F, Meyerson M and Rosenberg
+  JE
+cancertypes: []
+contact:
+  email: bamburyr@mskcc.org
+  name: Richard M Bambury
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25886454
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: BMC Cancer 15, 2015
+label: 'Bambury RM et al. (2015): '
+notes: ~
+pmid: 25886454
+title: DNA copy number analysis of metastatic urothelial carcinoma with comparison
+  to primary tumors.
+year: 2015

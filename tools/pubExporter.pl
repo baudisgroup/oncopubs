@@ -65,7 +65,7 @@ my $pgga4ghbs   =   MongoDB::MongoClient->new()->get_database('progenetix_ga4gh'
 
 # reformatting the publication entries & exporting them
 
-my $progress_bar = Term::ProgressBar->new(scalar @$pgPMIDs);
+my $progress_bar        =   Term::ProgressBar->new(scalar @$pgPMIDs);
 
 for my $i (0..$#{ $pgPMIDs }) {
 
@@ -125,42 +125,7 @@ for my $i (0..$#{ $pgPMIDs }) {
       push(@{$pubDump->{external_identifiers}}, 'arrayexpress:'.$accession) }
   }
 
-
-  my %bioOntologies     =   ();
-
-  # cancertype currently using SEER
-  if ($pub->{CANCERTYPE} =~ /^seer\s(\d{5})\:\s*?(\w.*?)$/) {
-    $bioOntologies{ 'seer:'.$1 } =   $2 }
-
-  # from samples ...
-  my @dblabels  =   qw(arraymap progenetix);
-  my $dbindex   =   0;
-  foreach my $coll ($amga4ghbs, $pgga4ghbs) {
-    my $cursor	=		$coll->find( { "external_identifiers.identifier" => qr/^(?:(?:pubmed)|(?:pmid)\:)?$pub->{PMID}$/ } )->fields( { bio_characteristics => 1 } );
-    my @samples	=		$cursor->all;
-    foreach my $sample (@samples) {
-      foreach my $bioC (@{$sample->{bio_characteristics}}) {
-        foreach my $ontology (@{$bioC->{ontology_terms}}) {
-          $bioOntologies{ $ontology->{term_id} }->{term_id}     =   $ontology->{term_id};
-          $bioOntologies{ $ontology->{term_id} }->{term_label}  =   $ontology->{term_label};
-          $bioOntologies{ $ontology->{term_id} }->{'samples_'.$dblabels[$dbindex] }  += 1;
-        }
-      }
-    }
-    $dbindex++;
-  }
-
-  foreach (sort keys %bioOntologies) {
-    push(
-      @{ $pubDump->{cancertypes} },
-      {
-        term_id                 =>  $bioOntologies{ $_ }->{term_id},
-        term_label              =>  $bioOntologies{ $_ }->{term_label},
-        samples_arraymap        =>  $bioOntologies{ $_ }->{samples_arraymap},
-        samples_progenetix      =>  $bioOntologies{ $_ }->{samples_progenetix},
-      }
-    );
-  }
+  $pubDump->{cancertypes}       =   _getCancertypes($pub, $amga4ghbs, $pgga4ghbs);
 
   if ($pub->{geo_data}->{geo_json}->{coordinates}->[1] =~ /^\-?\d+?(\.\d)?\d*?$/) {
     $pubDump->{geo_data}        =  {
@@ -200,7 +165,7 @@ for my $i (0..$#{ $pgPMIDs }) {
 
 }
 
-$progress->update(scalar @$pgPMIDs);
+$progress_bar->update(scalar @$pgPMIDs);
 
 if ($args{'-cleanup'} =~ /y/) {
   foreach my $dirPMID (@dirPMIDs) {
@@ -238,6 +203,55 @@ END
   }
 
 }
+
+################################################################################
+
+sub _getCancertypes {
+
+  my ($pub, $amga4ghbs, $pgga4ghbs)     =   @_;
+
+  my %bioOntologies     =   ();
+  my $cancerTypes       =   [];
+
+  # cancertype currently using SEER
+  if ($pub->{CANCERTYPE} =~ /^seer\s(\d{5})\:\s*?(\w.*?)$/) {
+    $bioOntologies{ 'seer:'.$1 } =   { term_id => $1, term_label => $2 } }
+
+  # from samples ...
+  my @dblabels  =   qw(arraymap progenetix);
+  my $dbindex   =   0;
+  foreach my $coll ($amga4ghbs, $pgga4ghbs) {
+    my $cursor	=		$coll->find( { "external_identifiers.identifier" => qr/^(?:(?:pubmed)|(?:pmid)\:)?$pub->{PMID}$/ } )->fields( { bio_characteristics => 1 } );
+    my @samples	=		$cursor->all;
+    foreach my $sample (@samples) {
+      foreach my $bioC (@{$sample->{bio_characteristics}}) {
+        foreach my $ontology (@{$bioC->{ontology_terms}}) {
+          $bioOntologies{ $ontology->{term_id} }->{term_id}     =   $ontology->{term_id};
+          $bioOntologies{ $ontology->{term_id} }->{term_label}  =   $ontology->{term_label};
+          $bioOntologies{ $ontology->{term_id} }->{'samples_'.$dblabels[$dbindex] }  += 1;
+        }
+      }
+    }
+    $dbindex++;
+  }
+
+  foreach (sort keys %bioOntologies) {
+    push(
+      @{ $cancerTypes },
+      {
+        term_id                 =>  $bioOntologies{ $_ }->{term_id},
+        term_label              =>  $bioOntologies{ $_ }->{term_label},
+        samples_arraymap        =>  $bioOntologies{ $_ }->{samples_arraymap},
+        samples_progenetix      =>  $bioOntologies{ $_ }->{samples_progenetix},
+      }
+    );
+  }
+
+  return $cancerTypes;
+
+}
+
+
 
 
 1;

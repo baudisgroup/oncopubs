@@ -1,0 +1,81 @@
+---
+abstract: Readthrough fusions across adjacent genes in the genome, or transcription-induced
+  chimeras TICs , have been estimated using expressed sequence tag EST libraries to
+  involve 4-6 of all genes. Deep transcriptional sequencing RNA-Seq now makes it possible
+  to study the occurrence and expression levels of TICs in individual samples across
+  the genome.
+authors: Nacu S, Yuan W, Kan Z, Bhatt D, Rivers CS, Stinson J, Peters BA, Modrusan
+  Z, Jung K, Seshagiri S and Wu TD.
+cancertypes:
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:seer:28010
+  term_label: Prostate
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: Somasekar Seshagiri
+counts:
+  biosamples: 6
+  samples_acgh: 6
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21261984
+- geo:GSE24282
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: North America
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: 'BMC Med Genomics 4 (2011): 11.'
+label: 'Nacu et al. (2011): Deep RNA Sequencing Analysis of Readthrough Gene Fusions
+  in Human Prostate Adenocarcinoma and ...'
+notes: ~
+pmid: 21261984
+title: Deep RNA Sequencing Analysis of Readthrough Gene Fusions in Human Prostate
+  Adenocarcinoma and Reference Samples.
+year: 2011

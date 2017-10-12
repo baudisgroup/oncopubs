@@ -1,0 +1,49 @@
+---
+abstract: Women with contralateral breast cancer (CBC) have significantly worse prognosis
+  compared to women with unilateral cancer. A possible explanation of the poor prognosis
+  of patients with CBC is that in a subset of patients, the second cancer is not a
+  new primary tumor but a metastasis of the first cancer that has potentially obtained
+  aggressive characteristics through selection of treatment. Exome and whole-genome
+  sequencing of solid tumors has previously been used to investigate the clonal relationship
+  between primary tumors and metastases in several diseases. In order to assess the
+  relationship between the first and the second cancer, we performed exome sequencing
+  to identify somatic mutations in both first and second cancers, and compared paired
+  normal tissue of 25 patients with metachronous CBC. For three patients, we identified
+  shared somatic mutations indicating a common clonal origin thereby demonstrating
+  that the second tumor is a metastasis of the first cancer, rather than a new primary
+  cancer. Accordingly, these patients all developed distant metastasis within 3ï¿½years
+  of the second diagnosis, compared with 7 out of 22 patients with non-shared somatic
+  profiles. Genomic profiling of both tumors help the clinicians distinguish between
+  true CBCs and subsequent metastases.
+authors: Klevebring D, Lindberg J, Rockberg J, Hilliges C, Hall P, Sandberg M and
+  Czene K
+cancertypes: []
+contact:
+  email: daniel.klevebring@ki.se
+  name: Daniel Klevebring
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 50
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25922084
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Breast Cancer Res. Treat., 2015
+label: 'Klevebring D et al. (2015): '
+notes: ~
+pmid: 25922084
+title: Exome sequencing of contralateral breast cancer identifies metastatic disease.
+year: 2015

@@ -1,0 +1,37 @@
+---
+abstract: Different cell subpopulations in a single tumor may show diverse capacities
+  for growth, differentiation, metastasis formation, and sensitivity to treatments.
+  Thus, heterogeneity is an important feature of tumors. However, due to limitations
+  in experimental and analytical techniques, tumor heterogeneity has rarely been studied
+  in detail.
+authors: Li J, Wang K, Jensen TD, Li S, Bolund L and Wiuf C.
+cancertypes: []
+contact:
+  email: ~
+  name: Carsten Wiuf
+counts:
+  biosamples: 186
+  samples_acgh: 186
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21108813
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: 'BMC Res Notes 3 (2010): 321.'
+label: 'Li et al. (2010): Tumor Heterogeneity in Neoplasms of Breast, Colon, and Skin.'
+notes: ~
+pmid: 21108813
+title: Tumor Heterogeneity in Neoplasms of Breast, Colon, and Skin.
+year: 2010

@@ -1,0 +1,92 @@
+---
+abstract: The Affymetrix cytogenetic 2.7M whole-genome microarray Cyto2.7M detects
+  genomic aberrations. The Cyto2.7M array has increased coverage in regions with cancer-related
+  genes, 4-fold reduced processing time, and 5-fold reduced input requirements 100
+  ng compared to the commonly used Affymetrix SNP6.0 genome-wide microarray SNP6.0
+  . We set out to compare the performance of these microarrays on cancer samples containing
+  complex genomic changes. We analyzed genomic DNA from 8 lymphoma samples and 1 blood
+  sample using both SNP6.0 and Cyto2.7M microarrays. We compared the arrays with respect
+  to 4 parameters, including detection of copy number variations CNV , CNV boundaries,
+  the actual copy number CN assigned to the aberrations, and loss of heterozygosity.
+  The CN state of selected regions was validated by quantitative PCR. Very high consistency
+  between arrays on all parameters tested was observed, hence only 30 of 224 aberrations
+  disagreed on the CN state, corresponding to a total of 12 Mb or 0.06 of the analyzed
+  base pairs. Thus, the SNP6.0 and Cyto2.7M arrays are equally well suited to detect
+  genomic aberrations in complex samples such as cancer samples. With reduced processing
+  time and lower input requirements, the Cyto2.7M array enables genomic analysis of
+  samples where only limited DNA is available.
+authors: Bodker JS, Gyrup C, Johansen P, Schmitz A, Madsen J, Johnsen HE, Bogsted
+  M, Dybkaer K and Nyegaard M.
+cancertypes:
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23182917
+- geo:GSE37977
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: 'Cytogenet Genome Res (2013) 139: 80-87.'
+label: 'Bodker et al. (2013): Performance comparison of Affymetrix SNP6.0 and cytogenetic
+  2.7M whole-genome microarrays in ...'
+notes: ~
+pmid: 23182917
+title: Performance comparison of Affymetrix SNP6.0 and cytogenetic 2.7M whole-genome
+  microarrays in complex cancer samples.
+year: 2013

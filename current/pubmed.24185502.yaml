@@ -1,0 +1,37 @@
+---
+abstract: ~
+authors: Cluzeau T, Moreilhon C, Mounier N, Karsenti JM, Gastaud L, Garnier G, Re
+  D, Montagne N, Gutnecht J, Auberger P, Fuzibet JG, Cassuto JP and Raynaud S.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 51
+  samples_acgh: 51
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24185502
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.27
+    - 43.7
+    type: Point
+  info:
+    city: Nice
+    continent: Europe
+    country: France
+    label: Nice, France, Europe
+    precision: city
+journal: 'Blood Cancer J (2013) 3: e155.'
+label: 'Cluzeau et al. (2013): Total genomic alteration as measured by SNP-array-based
+  molecular karyotyping is predictive of ...'
+notes: ~
+pmid: 24185502
+title: Total genomic alteration as measured by SNP-array-based molecular karyotyping
+  is predictive of overall survival in a cohort of MDS or AML patients treated with
+  azacitidine.
+year: 2013

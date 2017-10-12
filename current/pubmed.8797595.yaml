@@ -1,0 +1,50 @@
+---
+abstract: The differentiation between malignant and benign adrenocortical tumors is
+  often difficult, and better markers are required. Because the genetic background
+  of adrenocortical tumors is poorly characterized, we used comparative genomic hybridization
+  CGH to screen for DNA sequence copy number changes in 8 sporadic primary adrenocortical
+  cancers and 14 adenomas. There was a strong relationship between the number of genetic
+  aberrations detected using CGH and both tumor size and malignancy. No alterations
+  were seen in the smaller adenomas amp lt 5 cm , whereas the two largest adenomas
+  5 cm each and seven of the eight cancers 7-20 cm showed an increased number of genetic
+  alterations. The presence of genetic aberrations detected using CGH was associated
+  with an aneuploid DNA pattern. In the cancers, losses most often involved the chromosomal
+  regions 2, 11q, and 17p four of eight tumors , whereas gains took place at chromosomes
+  4 and 5 four of eight tumors . In conclusion, our data indicate that genetic changes
+  may help to define the malignant potential of adrenocortical tumors. Furthermore,
+  the CGH results implicate several chromosomal regions that may contain genes with
+  an important role in the development of adrenocortical cancers.
+authors: Kjellman M, Kallioniemi OP, Karhu R, Hoog A, Farnebo LO, Auer G, Larsson
+  C and Backdahl M.
+cancertypes: []
+contact:
+  email: kmak@kir.ks.se
+  name: M. Kjellman
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8797595
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Cancer Res 56, 18 (1996): 4219-23.'
+label: 'Kjellman et al. (1996): Genetic Aberrations in Adrenocortical Tumors Detected
+  Using Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 8797595
+title: Genetic Aberrations in Adrenocortical Tumors Detected Using Comparative Genomic
+  Hybridization Correlate With Tumor Size and Malignancy.
+year: 1996

@@ -1,0 +1,41 @@
+---
+abstract: Inherited mutations in the BRCA2 gene greatly increase the risk of developing
+  breast cancer. Consistent with an important role for BRCA2 in error-free DNA repair,
+  complex genomic changes are frequently observed in tumors derived from BRCA2 mutation
+  carriers. Here, we explore the impact of DNA copy-number changes in BRCA2 tumors
+  with respect to phenotype and clinical staging of the disease.
+authors: Stefansson OA, Jonasson JG, Olafsdottir K, Bjarnason H, Th Johannsson O,
+  Bodvarsdottir SK, Valgeirsdottir S and Eyfjord JE.
+cancertypes: []
+contact:
+  email: jorunne@hi.is
+  name: Jorunn Eyfjord
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21958427
+- arrayexpress:E-TABM-1199
+geo_data:
+  geo_json:
+    coordinates:
+    - -21.9
+    - 64.14
+    type: Point
+  info:
+    city: Reykjavik
+    continent: Atlantic
+    country: Iceland
+    label: Reykjavik, Iceland, Atlantic
+    precision: city
+journal: 'Breast Cancer Res 13, 5 (2011): R95.'
+label: 'Stefansson et al. (2011): Genomic and Phenotypic Analysis of Brca2 Mutated
+  Breast Cancers Reveals Co-Occurring Changes ...'
+notes: ~
+pmid: 21958427
+title: Genomic and Phenotypic Analysis of Brca2 Mutated Breast Cancers Reveals Co-Occurring
+  Changes Linked to Progression.
+year: 2011

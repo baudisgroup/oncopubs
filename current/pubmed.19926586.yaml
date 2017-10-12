@@ -1,0 +1,50 @@
+---
+abstract: Interdigitating dendritic cell sarcoma IDCS is a rare tumor derived from
+  interdigitating dendritic cells. Three cases of IDCS associated with chronic lymphocytic
+  leukemia small lymphocytic lymphoma CLL SLL have been described, but no clonal relationship
+  between the 2 neoplasms was demonstrated. We present a detailed case analysis of
+  a CLL SLL with metachronous IDCS and demonstrate that these 2 neoplasms are clonally
+  related. The IDCS and CLL cells had trisomy 12 and identical monoclonal immunoglobulin
+  heavy chain gene rearrangements. Analysis of transcription factors with a role in
+  myeloid differentiation demonstrated PU.1 up-regulation and C EBPalpha down-regulation
+  in IDCS compared with CLL. High-density array comparative genomic hybridization
+  also identified gains in part of chromosome 16q in IDCS. Our study demonstrates
+  for the first time clonal transformation of CLL SLL into IDCS. This phenomenon may
+  be triggered by alterations in lineage-determining transcription programs, which
+  result in transdifferentiation, coupled with additional oncogenic stimuli caused
+  by chromosomal imbalances.
+authors: Fraser CR, Wang W, Gomez M, Zhang T, Mathew S, Furman RR, Knowles DM, Orazi
+  A and Tam W.
+cancertypes: []
+contact:
+  email: ~
+  name: Wayne Tam
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19926586
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Am J Clin Pathol 132, 6 (2009): 928-39.'
+label: 'Fraser et al. (2009): Transformation of Chronic Lymphocytic Leukemia/Small
+  Lymphocytic Lymphoma to Interdigitating ...'
+notes: ~
+pmid: 19926586
+title: 'Transformation of Chronic Lymphocytic Leukemia/Small Lymphocytic Lymphoma
+  to Interdigitating Dendritic Cell Sarcoma: Evidence for Transdifferentiation of
+  the Lymphoma Clone.'
+year: 2009

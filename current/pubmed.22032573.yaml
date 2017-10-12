@@ -1,0 +1,38 @@
+---
+abstract: Patients with advanced gastroesophageal cancer have poor survival with current
+  therapy. Human epidermal growth factor receptor 2 HER2 represents a promising therapeutic
+  target, but the optimal HER2 testing strategy is not yet defined.
+authors: Tafe LJ, Janjigian YY, Zaidinski M, Hedvat CV, Hameed MR, Tang LH, Hicks
+  JB, Shah MA and Barbashina V.
+cancertypes: []
+contact:
+  email: ~
+  name: Violetta Barbashina
+counts:
+  biosamples: 31
+  samples_acgh: 31
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22032573
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Arch Pathol Lab Med 135, 11 (2011): 1460-65.'
+label: 'Tafe et al. (2011): Human Epidermal Growth Factor Receptor 2 Testing in Gastroesophageal
+  Cancer: Correlation Between ...'
+notes: ~
+pmid: 22032573
+title: 'Human Epidermal Growth Factor Receptor 2 Testing in Gastroesophageal Cancer:
+  Correlation Between Immunohistochemistry and Fluorescence in Situ Hybridization.'
+year: 2011

@@ -1,0 +1,48 @@
+---
+abstract: Fibrosarcoma of bone is a rare malignant tumor accounting for less than
+  5 of all primary malignant bone neoplasms. There is very limited knowledge regarding
+  the molecular genetics of this tumor, and there are no cytogenetic data available.
+  In the present study, a fibrosarcoma deriving from the left iliac bone of a 10-year-old
+  girl was characterized using cytogenetics, fluorescence in situ hybridization FISH
+  , and whole genome tiling resolution array comparative genomic hybridization CGH
+  . Cytogenetic and FISH analyses revealed a ring chromosome 6 as the sole acquired
+  aberration, a finding corroborated by array CGH. The ring formation, however, did
+  not result in any gain of genetic material. Nor did the breakpoints in 6p25 and
+  6q14 seem to affect any known gene loci in such a way that the ring formation could
+  have resulted in the creation of a fusion gene or in the exchange of regulatory
+  sequences. Thus, a reasonable interpretation of the pathogenetic significance of
+  the ring formation would be that it resulted in the loss of one or more putative
+  tumor suppressor gene loci distal to the two breakpoints.
+authors: Hallor KH, Heidenblad M, Brosjo O, Mandahl N and Mertens F.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17175386
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 172, 1 (2007): 80-83.'
+label: 'Hallor et al. (2007): Tiling Resolution Array Comparative Genomic Hybridization
+  Analysis of a Fibrosarcoma of ...'
+notes: ~
+pmid: 17175386
+title: Tiling Resolution Array Comparative Genomic Hybridization Analysis of a Fibrosarcoma
+  of Bone.
+year: 2007

@@ -1,0 +1,57 @@
+---
+abstract: Adrenocortical tumours ACT in children are rare and, if malignant, often
+  associated with poor prognosis. Relevant cytogenetic factors for prognosis are hardly
+  available.
+authors: Loncarevic IF, Hering A, Posorski N, Linden T, Hoyer H and Bucsky P.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C9325
+  term_label: Adrenal Cortex Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8370_3
+  term_label: Adrenal cortical carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C74.0
+  term_label: adrenal cortex
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-83703
+  term_label: Adrenal cortical carcinoma
+contact:
+  email: ivan@clondiag.com
+  name: Ivan F. Loncarevic
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18478573
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: 'Pediatr Blood Cancer 51, 3 (2008): 356-62.'
+label: 'Loncarevic et al. (2008): Number of Genomic Imbalances Correlates With the
+  Overall Survival for Adrenocortical Cancer in ...'
+notes: ~
+pmid: 18478573
+title: Number of Genomic Imbalances Correlates With the Overall Survival for Adrenocortical
+  Cancer in Childhood.
+year: 2008

@@ -1,0 +1,40 @@
+---
+abstract: To report the demographic, clinical and molecular profile of a series of
+  intraspinal nerve sheath myxomas. Nerve sheath myxomas are diagnostically challenging,
+  mainly cutaneous spindle cell neoplasms exhibiting Schwann cell differentiation.
+  They are frequently mistaken for neurothekeomas and their genetic features are essentially
+  unknown.
+authors: Rickert CH, Schwering EM, Siebers J, Hartmann C, von Deimling A and Paulus
+  W.
+cancertypes: []
+contact:
+  email: christian.rickert@rch.org.au
+  name: Christian Rickert
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17222254
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Histopathology 50, 2 (2007): 252-57.'
+label: 'Rickert et al. (2007): Chromosomal Imbalances and Nf2 Mutational Analysis
+  in a Series of 10 Spinal Nerve Sheath ...'
+notes: ~
+pmid: 17222254
+title: Chromosomal Imbalances and Nf2 Mutational Analysis in a Series of 10 Spinal
+  Nerve Sheath Myxomas.
+year: 2007

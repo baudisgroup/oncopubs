@@ -1,0 +1,57 @@
+---
+abstract: Invasive lobular carcinoma ILC and lobular carcinoma in situ characteristically
+  show loss of E-cadherin expression and so immunohistochemistry for E-cadherin is
+  being increasingly used as a tool to differentiate between lobular and ductal lesions
+  in challenging situations. However, misinterpretation of amp quot aberrant amp quot
+  positive staining may lead some to exclude a diagnosis of lobular carcinoma. E-cadherin
+  and beta-catenin immunohistochemistry was analyzed in 25 ILCs. E-cadherin amp quot
+  positive amp quot ILCs were subjected to molecular analysis including comparative
+  genomic hybridization. Different morphologic components of case 25, showing heterogenous
+  E-cadherin expression, were analyzed by E-cadherin gene sequencing, methylation,
+  and DASL gene expression profiling. Four ILCs were positive for E-cadherin, but
+  each also had neoplastic cells with aberrant staining. Two of these ILCs were positive
+  for beta-catenin, again with some aberrantly stained neoplastic cells, and 2 were
+  negative. The solid component of case 25 was positive for E-cadherin whereas the
+  classic and alveolar areas were negative. All components harbored an in-frame deletion
+  in exon 7 867del24 of the E-cadherin gene and loss of the wild type allele. Comparative
+  genomic hybridization demonstrated evidence of clonal evolution from E-cadherin-positive
+  to E-cadherin-negative components. E-cadherin down-regulation seems to be through
+  transcriptional repression via activation of transforming growth factor-beta SMAD2
+  rather than methylation. Positive staining for E-cadherin should not preclude a
+  diagnosis of lobular in favor of ductal carcinoma. Molecular evidence suggests that
+  even when E-cadherin is expressed, the cadherin-catenin complex maybe nonfunctional.
+  Misclassification of tumors may lead to mismanagement of patients in clinical practice,
+  particularly in the context of in situ disease at margins.
+authors: Da Silva L, Parry S, Reid L, Keith P, Waddell N, Kossai M, Clarke C, Lakhani
+  SR and Simpson PT.
+cancertypes: []
+contact:
+  email: p.simpson@uq.edu.au
+  name: Peter T. Simpson
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18379416
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.03
+    - -27.47
+    type: Point
+  info:
+    city: Brisbane
+    continent: Australia
+    country: Australia
+    label: Brisbane, Australia, Australia
+    precision: city
+journal: 'Am J Surg Pathol 32, 5 (2008): 773-83.'
+label: 'Da Silva et al. (2008): Aberrant Expression of E-Cadherin in Lobular Carcinomas
+  of the Breast.'
+notes: ~
+pmid: 18379416
+title: Aberrant Expression of E-Cadherin in Lobular Carcinomas of the Breast.
+year: 2008

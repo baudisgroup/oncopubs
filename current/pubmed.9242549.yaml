@@ -1,0 +1,50 @@
+---
+abstract: Gene activation by translocation between an oncogene and an immunoglobulin
+  heavy-chain gene, which leads to increased expression of the oncoprotein, is a well-known
+  mechanism in the genesis of B-cell lymphomas. In contrast, the role of gene amplification
+  in activation of oncogenes in non-Hodgkins lymphomas is poorly characterized. To
+  study the BCL2 amplification we performed comparative genomic hybridization CGH
+  , Southern blot hybridization, Western analysis, immunohistochemistry, metaphase
+  fluorescence in situ hybridization, and chromosome analysis on 26 cases of diffuse
+  large B-cell lymphoma large noncleaved cell lymphoma . The gain or high-level amplification
+  of 18q was found in eight tumors 31 by CGH, and Southern analysis revealed BCL2
+  amplification in these cases, but not in the cases with normal chromosome 18 or
+  t 14 18 q32 q21 . Western immunoblot analysis and immunohistochemistry revealed
+  a high-level expression of BCL2 protein in the cases with BCL2 amplification and
+  t 14 18 q32 q21 . However, translocation 14 18 q32 q21 was not detected in any of
+  the cases with BCL2 amplification. Therefore, our results suggest that amplification
+  of the BCL2 gene is an important mechanism for BCL2 protein overexpression in diffuse
+  large B-cell lymphoma.
+authors: Monni O, Joensuu H, Franssila K, Klefstrom J, Alitalo K and Knuutila S.
+cancertypes: []
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9242549
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Blood 90, 3 (1997): 1168-74.'
+label: 'Monni et al. (1997): Bcl2 Overexpression Associated With Chromosomal Amplification
+  in Diffuse Large B-Cell ...'
+notes: ~
+pmid: 9242549
+title: Bcl2 Overexpression Associated With Chromosomal Amplification in Diffuse Large
+  B-Cell Lymphoma.
+year: 1997

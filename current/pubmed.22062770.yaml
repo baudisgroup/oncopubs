@@ -1,0 +1,71 @@
+---
+abstract: DNA ploidy analysis is useful for prognostication in cancer patients, but
+  the genomic details underlying ploidy changes are not fully understood. To improve
+  this understanding, we compared DNA ploidy status with karyotypic and comparative
+  genomic hybridization data on 51 endometrial adenocarcinomas. Out of 34 DNA diploid
+  tumors evaluated by CGH, 16 47 showed imbalances, though only two had more than
+  four copy number changes. Ten 29 had aberrations involving chromosome 1, seven 21
+  involving chromosome 10, while one tumor had a chromosome 8 aberration. Four of
+  the seven DNA tetraploid tumors 57 had imbalances detected by CGH with two 29 having
+  more than four. Six out of eight DNA aneuploid tumors showed imbalances by CGH,
+  with five 63 having more than four. The aberrations were observed on chromosomes
+  1 and 8 in five eight 63 cases while four imbalances 50 involved chromosomes 5,
+  7 and X. Not surprisingly, we observed a significant correlation between increasing
+  DNA ploidy complexity and increasing number of copy alterations. Gains of material
+  from chromosomes 8 and 7 might be specifically correlated to DNA aneuploidy in endometrial
+  adenocarcinomas since 63 and 50 of the aneuploid compared to 3 of the diploid tumors
+  showed imbalances involving these chromosomes.
+authors: Kildal W, Micci F, Risberg B, Abeler VM, Kristensen GB, Heim S and Danielsen
+  HE.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 49
+  term_id: ncit:C3769
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 49
+  term_id: pgx:icdom:8380_3
+  term_label: Endometrioid adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 49
+  term_id: pgx:icdot:C57
+  term_label: other female genital
+- samples_arraymap: ~
+  samples_progenetix: 49
+  term_id: pgx:seer:27070
+  term_label: Other Female Genital Organs
+- samples_arraymap: ~
+  samples_progenetix: 49
+  term_id: snmi:M-83803
+  term_label: Endometrioid adenocarcinoma, NOS
+contact:
+  email: ~
+  name: Havard Danielsen
+counts:
+  biosamples: 51
+  samples_acgh: 49
+  samples_ccgh: 51
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22062770
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Mol Oncol 6, 1 (2012): 98-107.'
+label: 'Kildal et al. (2012): Genomic Imbalances in Endometrial Adenocarcinomas -
+  Comparison of DNA Ploidy, Karyotyping and ...'
+notes: ~
+pmid: 22062770
+title: Genomic Imbalances in Endometrial Adenocarcinomas - Comparison of DNA Ploidy,
+  Karyotyping and Comparative Genomic Hybridization.
+year: 2012

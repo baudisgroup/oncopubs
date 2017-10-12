@@ -1,0 +1,67 @@
+---
+abstract: Chronic myeloid leukemia CML is induced by BCR-ABL1 and can be effectively
+  treated for many years with Imatinib until leukemia cells acquire drug resistance
+  through BCR-ABL1 mutations and progress into fatal B lymphoid blast crisis LBC .
+  Despite its clinical significance, the mechanism of progression into LBC is unknown.
+  Here, we show that LBC but not CML cells express the B cell-specific mutator enzyme
+  AID. We demonstrate that AID expression in CML cells promotes overall genetic instability
+  by hypermutation of tumor suppressor and DNA repair genes. Importantly, our data
+  uncover a causative role of AID activity in the acquisition of BCR-ABL1 mutations
+  leading to Imatinib resistance, thus providing a rationale for the rapid development
+  of drug resistance and blast crisis progression.
+authors: Klemm L, Duy C, Iacobucci I, Kuchen S, von Levetzow G, Feldhahn N, Henke
+  N, Li Z, Hoffmann TK, Kim YM, Hofmann WK, Jumaa H, Groffen J, Heisterkamp N, Martinelli
+  G, Lieber MR, Casellas R and Muschen M.
+cancertypes:
+- samples_arraymap: 23
+  samples_progenetix: 22
+  term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia, BCR-ABL1 Positive
+- samples_arraymap: 23
+  samples_progenetix: 22
+  term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- samples_arraymap: 23
+  samples_progenetix: 22
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 23
+  samples_progenetix: 22
+  term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- samples_arraymap: 23
+  samples_progenetix: 22
+  term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
+contact:
+  email: david.schatz@yale.edu
+  name: David Schatz
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19732723
+- geo:GSE13612
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Cancer Cell 16, 3 (2009): 232-45.'
+label: 'Klemm et al. (2009): The B Cell Mutator Aid Promotes B Lymphoid Blast Crisis
+  and Drug Resistance in Chronic Myeloid ...'
+notes: ~
+pmid: 19732723
+title: The B Cell Mutator Aid Promotes B Lymphoid Blast Crisis and Drug Resistance
+  in Chronic Myeloid Leukemia.
+year: 2009

@@ -1,0 +1,53 @@
+---
+abstract: Clear cell renal cell carcinoma RCC is the most common and invasive adult
+  kidney cancer. The genetic and biological mechanisms that drive metastatic spread
+  of RCC remain largely unknown. We have investigated the molecular signatures and
+  underlying genomic aberrations associated with RCC metastasis, using an approach
+  that combines a human xenograft model expression profiling of RNA, DNA, and microRNA
+  miRNA functional verification and clinical validation. We show that increased metastatic
+  activity is associated with acquisition of a myofibroblast-like signature in both
+  tumor cell lines and in metastatic tumor biopsies. Our results also show that the
+  mesenchymal trait did not provide an invasive advantage to the metastatic tumor
+  cells. We further show that some of the constituents of the mesenchymal signature,
+  including the expression of the well-characterized myofibroblastic marker S100A4,
+  are functionally relevant. Epigenetic silencing and miRNA-induced expression changes
+  accounted for the change in expression of a significant number of genes, including
+  S100A4, in the myofibroblastic signature however, DNA copy number variation did
+  not affect the same set of genes. These findings provide evidence that widespread
+  genetic and epigenetic alterations can lead directly to global deregulation of gene
+  expression and contribute to the development or progression of RCC metastasis culminating
+  in a highly malignant myofibroblast-like cell.
+authors: Lopez-Lago MA, Thodima VJ, Guttapalli A, Chan T, Heguy A, Molina AM, Reuter
+  VE, Motzer RJ and Chaganti RS.
+cancertypes: []
+contact:
+  email: chagantr@mskcc.org
+  name: Raju Chaganti
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20952505
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Cancer Res 70, 23 (2010): 9682-92.'
+label: 'Lopez-Lago et al. (2010): Genomic Deregulation During Metastasis of Renal
+  Cell Carcinoma Implements a Myofibroblast-Like ...'
+notes: ~
+pmid: 20952505
+title: Genomic Deregulation During Metastasis of Renal Cell Carcinoma Implements a
+  Myofibroblast-Like Program of Gene Expression.
+year: 2010

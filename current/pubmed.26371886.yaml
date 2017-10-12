@@ -1,0 +1,53 @@
+---
+abstract: 'Rosette-forming glioneuronal tumor (RGNT) of the IV ventricle is a rare
+  and recently recognized brain tumor entity. It is histologically composed by two
+  distinct features: a glial component, resembling pilocytic astrocytoma, and a component
+  forming neurocytic rosettes and/or perivascular rosettes. Herein, we describe a
+  33-year-old man with RGNT arising in the spinal cord. Following an immunohistochemistry
+  validation, we further performed an extensive genomic analysis, using array-CGH
+  (aCGH), whole exome and cancer-related hotspot sequencing, in order to better understand
+  its underlying biology. We observed the loss of 1p and gain of 1q, as well as gain
+  of the whole chromosomes 7, 9 and 16. Local amplifications in 9q34.2 and 19p13.3
+  (encompassing the gene SBNO2) were identified. Moreover, we observed focal gains/losses
+  in several chromosomes. Additionally, on chromosome 7, we identified the presence
+  of the KIAA1549:BRAF gene fusion, which was further validated by RT-PCR and FISH.
+  Across all mutational analyses, we detected and validated the somatic mutations
+  of the genes MLL2, CNNM3, PCDHGC4 and SCN1A. Our comprehensive molecular profiling
+  of this RGNT suggests that MAPK pathway and methylome changes, driven by KIAA1549:BRAF
+  fusion and MLL2 mutation, respectively, could be associated with the development
+  of this rare tumor entity.'
+authors: Bidinotto LT, Scapulatempo-Neto C, Mackay A, de Almeida GC, Scheithauer BW,
+  Berardinelli GN, Torrieri R, Clara CA, Feltrin LT, Viana-Pereira M, Varella-Garcia
+  M, Jones C and Reis RM
+cancertypes: []
+contact:
+  email: ruireis.hcb@gmail.com
+  name: Reis, Rui Manuel
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 1
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26371886
+- geo:GSE64891
+geo_data:
+  geo_json:
+    coordinates:
+    - -48.57
+    - -20.56
+    type: Point
+  info:
+    city: Barretos
+    continent: South America
+    country: Brazil
+    label: Barretos, Brazil, South America
+    precision: city
+journal: PLoS ONE 10(9), 2015
+label: 'Bidinotto LT et al. (2015): '
+notes: ~
+pmid: 26371886
+title: Molecular Profiling of a Rare Rosette-Forming Glioneuronal Tumor Arising in
+  the Spinal Cord.
+year: 2015

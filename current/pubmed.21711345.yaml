@@ -1,0 +1,56 @@
+---
+abstract: Congenital malignant melanoma within a pre-existing large congenital melanocytic
+  naevus CMN is exceedingly rare. Its incidence is difficult to determine due to the
+  small number of reported cases and because of problems associated with diagnosis.
+  Some benign nodular proliferations called proliferative nodules arising in CMN,
+  while rare, are significantly more common and can mimic malignant melanoma clinically
+  or histologically. There are no reported cases of congenital melanoma or benign
+  proliferative nodules in CMN in patients who also had eruptive disseminated Spitz
+  naevi. We describe a girl who was noted to have a dark-brown plaque with several
+  large erythematous nodules affecting the scalp at delivery, in addition to multiple
+  erythematous dome-shaped papules that developed in a disseminated manner over several
+  months, beginning at 10 days of age. It was difficult, not only clinically but also
+  histologically, to determine the benign or malignant nature of all of these lesions.
+  As primary cutaneous melanoma, atypical proliferative nodules in CMN, bland CMN
+  or CMN with foci of increased cellularity and Spitz naevi show clear differences
+  in the genetic aberration patterns, comparative genomic hybridization CGH could
+  be a diagnostic help in ambiguous cases such as this. CGH performed on this patient
+  showed multiple DNA copy number changes in the most atypical nodule, but such alterations
+  could not be found in the remainder of the lesions. CGH showed differences between
+  the nodular lesions that occurred in the CMN and helped us in supporting the diagnosis
+  of this unique case of benign proliferative nodules and a possible congenital melanoma
+  arising in a large CMN, associated with multiple widespread eruptive Spitz naevi.
+authors: Feito-Rodriguez M, de Lucas-Laguna R, Bastian BC, Leboit P, Gonzalez-Beato
+  MJ, Lopez-Gutierrez JC, Requena L and Pizarro A.
+cancertypes: []
+contact:
+  email: ~
+  name: Feito Rodriguez
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21711345
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Br J Dermatol 165, 5 (2011): 1138-42.'
+label: 'Feito-Rodriguez et al. (2011): Nodular Lesions Arising in a Large Congenital
+  Melanocytic Naevus in a Newborn With ...'
+notes: ~
+pmid: 21711345
+title: Nodular Lesions Arising in a Large Congenital Melanocytic Naevus in a Newborn
+  With Eruptive Disseminated Spitz Naevi.
+year: 2011

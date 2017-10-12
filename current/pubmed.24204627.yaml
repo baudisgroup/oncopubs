@@ -1,0 +1,57 @@
+---
+abstract: 'PURPOSE:New anticancer agents that target a single cell surface receptor,
+  up-regulated or amplified gene product, or mutated gene, have met with some success
+  in treating advanced cancers. However, patients apos tumors still eventually progress
+  on these therapies. If it were possible to identify a larger number of targetable
+  vulnerabilities in an individual apos s tumor, multiple targets could be exploited
+  with the use of specific therapeutic agents, thus possibly giving the patient viable
+  therapeutic alternatives.EXPERIMENTAL DESIGN:In this exploratory study, we used
+  next-generation sequencing technologies NGS including whole genome sequencing WGS
+  , and where feasible, whole transcriptome sequencing WTS to identify genomic events
+  and associated expression changes in advanced cancer patients.RESULTS:WGS on paired
+  tumor and normal samples from nine advanced cancer patients and WTS on six of these
+  patients apos tumors was completed. One patient apos s treatment was based on targets
+  and pathways identified by NGS and the patient had a short-lived PET CT response
+  with a significant reduction in his tumor-related pain. To design treatment plans
+  based on information garnered from NGS, several challenges were encountered: NGS
+  reporting delays, communication of results to out-of-state participants and their
+  treating oncologists, and chain of custody handling for fresh biopsy samples for
+  Clinical Laboratory Improvement Amendments CLIA target validation.CONCLUSION:While
+  the initial effort was a slower process than anticipated due to a variety of issues,
+  we demonstrate the feasibility of using NGS in advanced cancer patients so that
+  treatments for patients with progressing tumors may be improved.'
+authors: Weiss GJ, Liang WS, Demeure MJ, Kiefer JA, Hostetter G, Izatt T, Sinari S,
+  Christoforides A, Aldrich J, Kurdoglu A, Phillips L, Benson H, Reiman R, Baker A,
+  Marsh V, Von Hoff DD, Carpten JD and Craig DW.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 6
+  samples_wgs: 9
+external_identifiers:
+- pubmed:24204627
+geo_data:
+  geo_json:
+    coordinates:
+    - -112.07
+    - 33.45
+    type: Point
+  info:
+    city: Phoenix
+    continent: North America
+    country: United States
+    label: Phoenix, United States, North America
+    precision: city
+journal: 'PLoS ONE (2013) 8: e76438.'
+label: 'Weiss et al. (2013): A pilot study using next-generation sequencing in advanced
+  cancers: feasibility and ...'
+notes: ~
+pmid: 24204627
+title: 'A pilot study using next-generation sequencing in advanced cancers: feasibility
+  and challenges.'
+year: 2013

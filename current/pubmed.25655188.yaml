@@ -1,0 +1,56 @@
+---
+abstract: BackgroundHuman epidermal growth factor receptor-2 (HER2) overexpression
+  and gene amplification are currently established by immunohistochemistry (IHC) and
+  fluorescence in situ hybridization (FISH), respectively. This study investigates
+  whether high-density single nucleotide polymorphism (SNP) arrays can provide additional
+  diagnostic power to assess HER2 gene status.MethodsDNA from 65 breast tumor samples
+  previously diagnosed by HER2 IHC and FISH analysis were blinded and examined for
+  HER2 copy number variation employing SNP array analysis.ResultsSNP array analysis
+  identified 24 (37%) samples with selective amplification or imbalance of the HER2
+  region in the q-arm of chromosome 17. In contrast, only 15 (23%) tumors were found
+  to have HER2 amplification by IHC and FISH analysis. In total, there was a discrepancy
+  in 19 (29%) samples between SNP array and IHC/FISH analysis. In 12 of these cases,
+  the discrepancy towards FISH could be attributed to concomitant amplification or
+  deletion of the centromeric region, which harbors the FISH reference probe sequence.
+  In 3 tumors, repeated IHC/FISH analysis revealed that the original IHC/FISH analysis
+  had failed to indicate the correct HER2 expression level. Finally, the SNP array
+  analysis revealed that more than two thirds of the samples exhibited polyploidy
+  that was unrecognized by conventional FISH.ConclusionsCollectively, the data show
+  that determination of HER2 copy number variations by SNP array-based genomic segmentation
+  analysis is an effective supplement to IHC/FISH HER2 analysis that, by providing
+  additional diagnostic sensitivity and accuracy, may elect more women for targeted
+  treatment with HER2 inhibitors.
+authors: Hansen TV, Vikesaa J, Buhl SS, Rossing HH, Timmermans-Wielenga V and Nielsen
+  FC
+cancertypes: []
+contact:
+  email: fcn@rh.dk
+  name: Finn C Nielsen
+counts:
+  biosamples: 65
+  samples_acgh: 65
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25655188
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: Europe
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: BMC Cancer 15(1), 2015
+label: 'Hansen et al. (): High-density SNP arrays improve detection of HER2 amplification
+  and polyploidy in breast ...'
+notes: ~
+pmid: 25655188
+title: High-density SNP arrays improve detection of HER2 amplification and polyploidy
+  in breast tumors.
+year: 2015

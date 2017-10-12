@@ -1,0 +1,68 @@
+---
+abstract: Association between DNA alterations and clinical parameters as recurrence,
+  survival or prognosis has been found in a variety of tumors. A clear association
+  between Medullary Thyroid Carcinoma MTC and RET oncogene mutation has been accepted.
+  Specifically M918T RET mutation represents the main genetic event in most cases
+  of sporadic MTC SMTC and limited chromosomal alterations analyses have been performed.
+authors: Gonz  lez-Yebra B., Peralta R., Gonz  lez A. L., Ayala-Garc  a M. A., Ortiz
+  de Zarate M. E. and Salcedo M.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C66718
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8510_3
+  term_label: Medullary carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C73.9
+  term_label: thyroid gland
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:32010
+  term_label: Thyroid
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:NA
+  term_label: NA
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-85103
+  term_label: Medullary carcinoma, NOS
+contact:
+  email: maosal89@yahoo.com
+  name: Mauricio Salcedo
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22676344
+geo_data:
+  geo_json:
+    coordinates:
+    - -101.26
+    - 21.02
+    type: Point
+  info:
+    city: Guanajuato
+    continent: North America
+    country: Mexico
+    label: Guanajuato, Mexico, North America
+    precision: city
+journal: 'Diagnostic pathology 7, 1 (2012): 63.'
+label: 'Gonz  lez-Yebra B., Peralta R., Gonz  lez A. L., Ayala-Garc  a M. A., Ortiz
+  de Zarate M. E. and Salcedo M. (2012): ...'
+notes: ~
+pmid: 22676344
+title: Genetic Alterations in a Primary Medullary Thyroid Carcinoma and Its Lymph
+  Node Metastasis in a Patient With 15 Years Follow-Up.
+year: 2012

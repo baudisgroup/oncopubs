@@ -1,0 +1,63 @@
+---
+abstract: Glioblastoma (GBM) is the most common malignant brain cancer occurring in
+  adults, and is associated with dismal outcome and few therapeutic options. GBM has
+  been shown to predominantly disrupt three core pathways through somatic aberrations,
+  rendering it ideal for precision medicine approaches.  We describe a 35-year-old
+  female patient with recurrent GBM following surgical removal of the primary tumour,
+  adjuvant treatment with temozolomide and a 3-year disease-free period. Rapid whole-genome
+  sequencing (WGS) of three separate tumour regions at recurrence was carried out
+  and interpreted relative to WGS of two regions of the primary tumour.  We found
+  extensive mutational and copy-number heterogeneity within the primary tumour. We
+  identified a TP53 mutation and two focal amplifications involving PDGFRA, KIT and
+  CDK4, on chromosomes 4 and 12. A clonal IDH1 R132H mutation in the primary, a known
+  GBM driver event, was detectable at only very low frequency in the recurrent tumour.
+  After sub-clonal diversification, evidence was found for a whole-genome doubling
+  event and a translocation between the amplified regions of PDGFRA, KIT and CDK4,
+  encoded within a double-minute chromosome also incorporating miR26a-2. The WGS analysis
+  uncovered progressive evolution of the double-minute chromosome converging on the
+  KIT/PDGFRA/PI3K/mTOR axis, superseding the IDH1 mutation in dominance in a mutually
+  exclusive manner at recurrence, consequently the patient was treated with imatinib.
+  Despite rapid sequencing and cancer genome-guided therapy against amplified oncogenes,
+  the disease progressed, and the patient died shortly after.  This case sheds light
+  on the dynamic evolution of a GBM tumour, defining the origins of the lethal sub-clone,
+  the macro-evolutionary genomic events dominating the disease at recurrence and the
+  loss of a clonal driver. Even in the era of rapid WGS analysis, cases such as this
+  illustrate the significant hurdles for precision medicine success.  ï¿½ The Author
+  2015. Published by Oxford University Press on behalf of the European Society for
+  Medical Oncology.
+authors: Favero F, McGranahan N, Salm M, Birkbak NJ, Sanborn JZ, Benz SC, Becq J,
+  Peden JF, Kingsbury Z, Grocok RJ, Humphray S, Bentley D, Spencer-Dene B, Gutteridge
+  A, Brada M, Roger S, Dietrich PY, Forshew T, Gerlinger M, Rowan A, Stamp G, Eklund
+  AC, Szallasi Z and Swanton C
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 5
+external_identifiers:
+- pubmed:25732040
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Ann. Oncol., 2015
+label: 'Favero et al. (): Glioblastoma adaptation traced through decline of an IDH1
+  clonal driver and macro-evolution of a ...'
+notes: ~
+pmid: 25732040
+title: Glioblastoma adaptation traced through decline of an IDH1 clonal driver and
+  macro-evolution of a double-minute chromosome.
+year: 2015

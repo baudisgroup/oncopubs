@@ -1,0 +1,41 @@
+---
+abstract: 'Since multiple lung cancer treatment strategies differ, it is essential
+  for clinicians to be able to distinguish between separate primary lesions and metastasis.
+  In the present study, we used array comparative genomic hybridization aCGH and somatic
+  mutation epidermal growth factor receptor: EGFR to analyze genomic alteration profiles
+  in lung cancer patients. To validate the consistency among the pathological assessments
+  and clarify the clinical differences between double primary lesions and metastasis,
+  we also examined synchronous double lung cancer clinical data.'
+authors: Arai J, Tsuchiya T, Oikawa M, Mochinaga K, Hayashi T, Yoshiura KI, Tsukamoto
+  K, Yamasaki N, Matsumoto K, Miyazaki T and Nagayasu T.
+cancertypes: []
+contact:
+  email: nagayasu@nagasaki-u.ac.jp
+  name: Takeshi Nagayasu
+counts:
+  biosamples: 119
+  samples_acgh: 119
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22560922
+geo_data:
+  geo_json:
+    coordinates:
+    - 129.87
+    - 32.74
+    type: Point
+  info:
+    city: Nagasaki-shi
+    continent: Asia
+    country: Japan
+    label: Nagasaki-shi, Japan, Asia
+    precision: city
+journal: Lung Cancer (2012)
+label: 'Arai et al. (2012): Clinical and Molecular Analysis of Synchronous Double
+  Lung Cancers.'
+notes: ~
+pmid: 22560922
+title: Clinical and Molecular Analysis of Synchronous Double Lung Cancers.
+year: 2012

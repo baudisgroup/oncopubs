@@ -1,0 +1,101 @@
+---
+abstract: The prognosis of germinal center-derived B-cell GCB lymphomas, including
+  follicular lymphoma and diffuse large-B-cell lymphoma DLBCL , strongly depends on
+  age. Children have a more favorable outcome than adults. It is not known whether
+  this is because of differences in host characteristics, treatment protocols, or
+  tumor biology, including the presence of chromosomal alterations. By screening for
+  novel IGH translocation partners in pediatric and adult lymphomas, we identified
+  chromosomal translocations juxtaposing the IRF4 oncogene next to one of the immunoglobulin
+  IG loci as a novel recurrent aberration in mature B-cell lymphoma. FISH revealed
+  20 of 427 lymphomas to carry an IG IRF4-fusion. Those were predominantly GCB-type
+  DLBCL or follicular lymphoma grade 3, shared strong expression of IRF4 MUM1 and
+  BCL6, and lacked PRDM1 BLIMP1 expression and t 14 18 BCL2 breaks. BCL6 aberrations
+  were common. The gene expression profile of IG IRF4-positive lymphomas differed
+  from other subtypes of DLBCL. A classifier for IG IRF4 positivity containing 27
+  genes allowed accurate prediction. IG IRF4 positivity was associated with young
+  age and a favorable outcome. Our results suggest IRF4 translocations to be primary
+  alterations in a molecularly defined subset of GCB-derived lymphomas. The probability
+  for this subtype of lymphoma significantly decreases with age, suggesting that diversity
+  in tumor biology might contribute to the age-dependent differences in prognosis
+  of lymphoma.
+authors: Salaverria I, Philipp C, Oschlies I, Kohler CW, Kreuz M, Szczepanowski M,
+  Burkhardt B, Trautmann H, Gesk S, Andrusiewicz M, Berger H, Fey M, Harder L, Hasenclever
+  D, Hummel M, Loeffler M, Mahn F, Martin-Guerrero I, Pellissery S, Pott C, Pfreundschuh
+  M, Reiter A, Richter J, Rosolowski M, Schwaenen C, Stein H, Trumper L, Wessendorf
+  S, Spang R, Kuppers R, Klapper W and Siebert R.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C27824
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:9698_3
+  term_label: Follicular lymphoma, grade 3
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-96983
+  term_label: Follicular lymphoma, grade 3
+contact:
+  email: ISALAVER@clinic.ub.es
+  name: Itziar Salaverria
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21487109
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.13
+    - 54.32
+    type: Point
+  info:
+    city: Kiel
+    continent: Europe
+    country: Germany
+    label: Kiel, Germany, Europe
+    precision: city
+journal: 'Blood 118, 1 (2011): 139-47.'
+label: 'Salaverria et al. (2011): Translocations Activating Irf4 Identify a Subtype
+  of Germinal Center-Derived B-Cell Lymphoma ...'
+notes: ~
+pmid: 21487109
+title: Translocations Activating Irf4 Identify a Subtype of Germinal Center-Derived
+  B-Cell Lymphoma Affecting Predominantly Children and Young Adults.
+year: 2011

@@ -1,0 +1,199 @@
+---
+abstract: Soft-tissue sarcomas, which result in approximately 10,700 diagnoses and
+  3,800 deaths per year in the United States, show remarkable histologic diversity,
+  with more than 50 recognized subtypes. However, knowledge of their genomic alterations
+  is limited. We describe an integrative analysis of DNA sequence, copy number and
+  mRNA expression in 207 samples encompassing seven major subtypes. Frequently mutated
+  genes included TP53 17 of pleomorphic liposarcomas , NF1 10.5 of myxofibrosarcomas
+  and 8 of pleomorphic liposarcomas and PIK3CA 18 of myxoid round-cell liposarcomas,
+  or MRCs . PIK3CA mutations in MRCs were associated with Akt activation and poor
+  clinical outcomes. In myxofibrosarcomas and pleomorphic liposarcomas, we found both
+  point mutations and genomic deletions affecting the tumor suppressor NF1. Finally,
+  we found that short hairpin RNA shRNA -based knockdown of several genes amplified
+  in dedifferentiated liposarcoma, including CDK4 and YEATS4, decreased cell proliferation.
+  Our study yields a detailed map of molecular alterations across diverse sarcoma
+  subtypes and suggests potential subtype-specific targets for therapy.
+authors: Barretina J, Taylor BS, Banerji S, Ramos AH, Lagos-Quintana M, Decarolis
+  PL, Shah K, Socci ND, Weir BA, Ho A, Chiang DY, Reva B, Mermel CH, Getz G, Antipin
+  Y, Beroukhim R, Major JE, Hatton C, Nicoletti R, Hanna M, Sharpe T, Fennell TJ,
+  Cibulskis K, Onofrio RC, Saito T, Shukla N, Lau C, Nelander S, Silver SJ, Sougnez
+  C, Viale A, Winckler W, Maki RG, Garraway LA, Lash A, Greulich H, Root DE, Sellers
+  WR, Schwartz GK, Antonescu CR, Lander ES, Varmus HE, Ladanyi M, Sander C, Meyerson
+  M and Singer S.
+cancertypes:
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: ncit:C27781
+  term_label: Myxoid Liposarcoma
+- samples_arraymap: 27
+  samples_progenetix: ~
+  term_id: ncit:C3158
+  term_label: Leiomyosarcoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:C3400
+  term_label: ~
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: ncit:C3704
+  term_label: Dedifferentiated Liposarcoma
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: ncit:C3705
+  term_label: Pleomorphic Liposarcoma
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: ncit:C53999
+  term_label: Malignant Gastrointestinal Stromal Tumor
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C9306
+  term_label: Soft Tissue Sarcoma
+- samples_arraymap: 265
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 203
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:8800_3
+  term_label: Sarcoma, NOS
+- samples_arraymap: 38
+  samples_progenetix: ~
+  term_id: pgx:icdom:8811_3
+  term_label: Fibromyxosarcoma
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdom:8852_3
+  term_label: Myxoid liposarcoma
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: pgx:icdom:8854_3
+  term_label: Pleomorphic liposarcoma
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: pgx:icdom:8858_3
+  term_label: Dedifferentiated liposarcoma
+- samples_arraymap: 27
+  samples_progenetix: ~
+  term_id: pgx:icdom:8890_3
+  term_label: Leiomyosarcoma, NOS
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:9040_3
+  term_label: Synovial sarcoma, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdom:9041_3
+  term_label: Synovial sarcoma, spindle cell
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdom:9043_3
+  term_label: Synovial sarcoma, biphasic
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: 188
+  samples_progenetix: ~
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: 203
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: 188
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 203
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 203
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-88003
+  term_label: Sarcoma, NOS
+- samples_arraymap: 38
+  samples_progenetix: ~
+  term_id: snmi:M-88113
+  term_label: Fibromyxosarcoma
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: snmi:M-88523
+  term_label: Myxoid liposarcoma
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: snmi:M-88543
+  term_label: Pleomorphic liposarcoma
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: snmi:M-88583
+  term_label: Dedifferentiated liposarcoma
+- samples_arraymap: 27
+  samples_progenetix: ~
+  term_id: snmi:M-88903
+  term_label: Leiomyosarcoma, NOS
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-90403
+  term_label: Synovial sarcoma, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: snmi:M-90413
+  term_label: Synovial sarcoma, spindle cell
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: snmi:M-90433
+  term_label: Synovial sarcoma, biphasic
+contact:
+  email: matthew_meyerson@dfci.harvard.edu
+  name: Matthew Meyerson
+counts:
+  biosamples: 207
+  samples_acgh: 207
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20601955
+- geo:GSE21123
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Nat Genet 42, 8 (2010): 715-21.'
+label: 'Barretina et al. (2010): Subtype-Specific Genomic Alterations Define New Targets
+  for Soft-Tissue Sarcoma ...'
+notes: ~
+pmid: 20601955
+title: Subtype-Specific Genomic Alterations Define New Targets for Soft-Tissue Sarcoma
+  Therapy.
+year: 2010

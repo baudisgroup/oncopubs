@@ -1,0 +1,102 @@
+---
+abstract: 'BACKGROUND: The number of circulating tumor cells CTCs in metastatic prostate
+  cancer patients provides prognostic and predictive information. However, it is the
+  molecular characterization of CTCs that offers insight into the biology of these
+  tumor cells in the context of personalized treatment. METHODS: We developed a novel
+  approach to isolate CTCs away from hematopoietic cells with high purity, enabling
+  genomic analysis of these cells. The isolation protocol involves immunomagnetic
+  enrichment followed by fluorescence activated cell sorting IE FACS . To evaluate
+  the feasibility of isolation of CTCs by IE FACS and downstream genomic profiling,
+  we conducted a pilot study in patients with metastatic castration resistant prostate
+  cancer CRPC . Twenty 20 sequential CRPC patients were assayed using CellSearch.
+  Twelve 12 patients positive for CTCs were subjected to immunomagnetic enrichment
+  and fluorescence activated cell sorting IE FACS to isolate CTCs. Genomic DNA of
+  CTCs was subjected to whole genome amplification WGA followed by gene copy number
+  analysis via array comparative genomic hybridization aCGH . RESULTS: CTCs from nine
+  9 patients successfully profiled were observed to have multiple copy number aberrations
+  including those previously reported in primary prostate tumors such as gains in
+  8q and losses in 8p. High-level copy number gains at the androgen receptor AR locus
+  were observed in 7 78 cases. Comparison of genomic profiles between CTCs and archival
+  primary tumors from the same patients revealed common lineage. However, high-level
+  copy number gains in the AR locus were observed in CTCs, but not in the matched
+  archival primary tumors. CONCLUSIONS: We developed a new approach to isolate prostate
+  CTCs without significant leukocyte admixture, and to subject them to genome-wide
+  copy number analysis. Our assay may be utilized to explore genomic events involved
+  in cancer progression, e.g. development of castration resistance and to monitor
+  therapeutic efficacy of targeted therapies in clinical trials in a relatively non-invasive
+  manner.'
+authors: Magbanua MJ, Sosa EV, Scott JH, Simko J, Collins C, Pinkel D, Ryan CJ and
+  Park JW.
+cancertypes:
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: ncit:C2919
+  term_label: Prostate Adenocarcinoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:C39851
+  term_label: Bladder Urothelial Carcinoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:icdot:C61.9
+  term_label: Prostate gland
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C67.0
+  term_label: urinary bladder
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:seer:28010
+  term_label: Prostate
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22373240
+- geo:GSE27636
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'BMC Cancer (2012) 12: 78.'
+label: 'Magbanua et al. (2012): Isolation and genomic analysis of circulating tumor
+  cells from castration resistant metastatic ...'
+notes: ~
+pmid: 22373240
+title: Isolation and genomic analysis of circulating tumor cells from castration resistant
+  metastatic prostate cancer.
+year: 2012

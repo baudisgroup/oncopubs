@@ -1,0 +1,48 @@
+---
+abstract: The aim of this study was to determine genetic alterations in mucoepidermoid
+  carcinomas of the salivary gland in association with clinical and histopathological
+  parameters. Nineteen formalin-fixed, paraffin-embedded tumors were analysed by using
+  comparative genomic hybridization CGH , fluorescence in situ hybridization FISH
+  on interphase nuclei and reverse transcriptase-polymerase chain reaction RT-PCR
+  for detection of MECT1-MAML2 fusion transcript. The CGH analysis showed an overrepresentation
+  of chromosome X and losses of entire chromosomes or regions on chromosome 1, 2,
+  and 15 as the most frequent copy number changes. In 37 of the analysed tumors a
+  MAML2-rearrangement by interphase FISH was detected, whereas 58 of the samples showed
+  expression of MECT1-MAML2 fusion transcript. We conclude that the presence of MAML2-rearrangement
+  as well as of MECT1-MAML2 fusion transcript may reflect a more favourable prognosis
+  and may be a useful marker for clinical prediction of the biological behavior of
+  these tumors as previously reported.
+authors: Verdorfer I, Fehr A, Bullerdiek J, Scholz N, Brunner A, Krugmann J, Hager
+  M, Haufe H, Mikuz G and Scholtz A.
+cancertypes: []
+contact:
+  email: ~
+  name: Irmgard Verdorfer
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19578770
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.39
+    - 47.26
+    type: Point
+  info:
+    city: Innsbruck
+    continent: Europe
+    country: Austria
+    label: Innsbruck, Austria, Europe
+    precision: city
+journal: 'Oncol Rep 22, 2 (2009): 305-11.'
+label: 'Verdorfer et al. (2009): Chromosomal Imbalances, 11q21 Rearrangement and Mect1-Maml2
+  Fusion Transcript in Mucoepidermoid ...'
+notes: ~
+pmid: 19578770
+title: Chromosomal Imbalances, 11q21 Rearrangement and Mect1-Maml2 Fusion Transcript
+  in Mucoepidermoid Carcinomas of the Salivary Gland.
+year: 2009

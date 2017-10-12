@@ -1,0 +1,53 @@
+---
+abstract: Primary central nervous system lymphoma (PCNSL) is an aggressive non-Hodgkin
+  lymphoma confined to the CNS. Whether there is a PCNSL-specific genomic signature
+  and, if so, how it differs from systemic diffuse large B-cell lymphoma (DLBCL) is
+  uncertain.  We performed a comprehensive genomic study of tumor samples from 19
+  immunocompetent PCNSL patients. Testing comprised array-comparative genomic hybridization
+  and whole exome sequencing.  Biallelic inactivation of TOX and PRKCD were recurrently
+  found in PCNSL but not in systemic DLBCL, suggesting a specific role in PCNSL pathogenesis.
+  Additionally, we found a high prevalence of MYD88 mutations (79%) and CDKN2A biallelic
+  loss (60%). Several genes recurrently affected in PCNSL were common with systemic
+  DLBCL, including loss of TNFAIP3, PRDM1, GNA13, TMEM30A, TBL1XR1, B2M, CD58, activating
+  mutations of CD79B, CARD11 and translocations IgH-BCL6. Overall, BCR/TLR/NF-ÎºB
+  pathways were altered in >90% of PNCSL, highlighting its value for targeted therapeutic
+  approaches. Furthermore, integrated analysis showed enrichment of pathways associated
+  with immune response, proliferation, apoptosis, and lymphocyte differentiation.  In
+  summary, genome-wide analysis uncovered novel recurrent alterations, including TOX
+  and PRKCD, helping to differentiate PCNSL from systemic DLBCL and related lymphomas.  Copyright
+  Â© 2015, American Association for Cancer Research.
+authors: Braggio E, Van Wier S, Ojha J, McPhail ER, Assmann Y, Egan JB, Ayres-Silva
+  J, Schiff D, Lopes B, Decker PA, Valdez R, Tibes R, Eckloff BW, Witzig TE, Stewart
+  AK, Fonseca R and O'Neill BP
+cancertypes: []
+contact:
+  email: braggio.esteban@mayo.edu
+  name: Esteban Braggio
+counts:
+  biosamples: 19
+  samples_acgh: 18
+  samples_ccgh: 0
+  samples_wes: 19
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25991819
+- geo:GSE28952
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: North America
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Clin. Cancer Res., 2015
+label: 'Braggio E et al. (2015): '
+notes: ~
+pmid: 25991819
+title: Genome-wide analysis uncovers novel recurrent alterations in primary central
+  nervous system lymphomas.
+year: 2015

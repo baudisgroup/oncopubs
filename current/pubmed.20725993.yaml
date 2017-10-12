@@ -1,0 +1,75 @@
+---
+abstract: We analyzed, by the latest high-resolution SNP arrays, 19 Normal Karyotype
+  NK -AML patients at diagnosis Dx and remission R phases, to determine the number
+  of tumor-associated copy number abnormalities CNAs and copy neutral-loss of heterozygosity
+  CN-LOH regions per patient and to identify possible recurring genomic abnormalities.
+  The number of tumor-associated CNAs was determined after comparison of matched Dx
+  R samples using stringent conditions able to reduce the number of false positive
+  CNAs. With the exception of a single outlier case, a low number of CNAs per patient
+  was detected median value of 1 somatic loss or gain per patient . However, a high
+  prevalence of CNAs 60-70 of the patients showed at least one tumor-associated gain
+  or loss and few recurring CNAs were observed, thus providing new hints towards identification
+  of cooperating mutations. An extensive search of all tumor-associated CN-LOH regions
+  amp gt 1 Mb revealed only three broad regions terminal 12Mb of 22q, terminal 27Mb
+  of 1p and the whole chromosome 21 in three patients out of 19 16 . CN-LOH of the
+  whole chromosome 21 was responsible for homozygosity of a missense mutation R80C
+  of RUNX1 AML1. Our study suggests that a relative submicroscopic copy number stability
+  NK-AML genomes is associated with low recurrence of specific CNAs and CN-LOH in
+  NK-AML patient population. Sequencing of candidate genes in the identified CNAs
+  and CN-LOH regions should be considered a priority in the search of novel driver
+  mutations of AML.
+authors: Barresi V, Romano A, Musso N, Capizzi C, Consoli C, Martelli MP, Palumbo
+  G, Di Raimondo F and Condorelli DF.
+cancertypes:
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+contact:
+  email: ~
+  name: Daniele Condorelli
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20725993
+- geo:GSE21780
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.07
+    - 37.49
+    type: Point
+  info:
+    city: Catania
+    continent: Europe
+    country: Italy
+    label: Catania, Italy, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 49, 11 (2010): 1014-23.'
+label: 'Barresi et al. (2010): Broad Copy Neutral-Loss of Heterozygosity Regions and
+  Rare Recurring Copy Number Abnormalities in ...'
+notes: ~
+pmid: 20725993
+title: Broad Copy Neutral-Loss of Heterozygosity Regions and Rare Recurring Copy Number
+  Abnormalities in Normal Karyotype-Acute Myeloid Leukemia Genomes.
+year: 2010

@@ -1,0 +1,38 @@
+---
+abstract: To establish a new method which analyzes T cell receptor TCR gene rearrangement
+  for identification of T cells acute lymphoblastic leukemia T-ALL clone, it will
+  provide the basis for the study of T-ALL including the chromosome translocation
+  involving TCR loci.
+authors: Zheng HT, Ye TZ, Chen SH, Yang LJ, Lu YH and Li YQ.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21557900
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.37
+    - 36.07
+    type: Point
+  info:
+    city: Qingdao
+    continent: Asia
+    country: China
+    label: Qingdao, China, Asia
+    precision: city
+journal: 'Xi Bao Yu Fen Zi Mian Yi Xue Za Zhi 27, 5 (2011): 483-86.'
+label: 'Zheng et al. (2011): [Analysis of Tcr Gene Rearrangement for Identification
+  of T Cell Leukemia Clone By Using ...'
+notes: ~
+pmid: 21557900
+title: '[Analysis of Tcr Gene Rearrangement for Identification of T Cell Leukemia
+  Clone By Using Fine-Tiling Acgh].'
+year: 2011

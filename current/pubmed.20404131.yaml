@@ -1,0 +1,50 @@
+---
+abstract: Extranodal natural killer/T-cell (ENK/T) lymphoma is a rare neoplasm, subcategorized
+  into ENK/T-nasal (ENK/T-N) and ENK/T-nasal type (ENK/T-NT) lymphomas. ENK/T-NT lymphoma
+  with initial presentation in the skin is known as primary cutaneous ENK/T-NT (PC-ENK/T-NT)
+  lymphoma. The aim of this study was to investigate pathogenesis, genomic alterations,
+  and prognosis of cutaneous ENK/T lymphomas to provide further insights into clinicopathologic
+  features and genetic mechanism of lymphomagenesis. A retrospective case study of
+  5 white patients affected by ENK/T lymphoma (4 PC-ENK/T-NT and 1 ENK/T-N with cutaneous
+  involvement) was performed. Most of the cases presented with multiple nodules and
+  ulcerations localized on the extremities. A considerable percentage had disease
+  in advanced stage with a 12-month survival rate of 40%. Genomic alterations were
+  detected by array-based comparative genomic hybridization that showed gains of 1q,
+  7q and loss of 17p in the cases of PC-ENK/T-NT lymphomas and gain of 7q and loss
+  of 9p, 12p, 12q in the case of ENK/T-N lymphoma. In conclusion, ENK/T lymphoma is
+  a very aggressive entity, and, in our cases, the exclusively cutaneous presentation
+  was not associated with a better prognosis. The results of our array comparative
+  genomic hybridization analysis could be useful to better define the different ENK/T
+  lymphoma subgroups with cutaneous involvement.
+authors: Berti E, Recalcati S, Girgenti V, Fanoni D, Venegoni L and Vezzoli P
+cancertypes: []
+contact:
+  email: immunopatologiacutanea@unimi.it
+  name: Sebastiano Recalcati
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20404131
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Blood 116(2), 2010
+label: 'Berti E et al. (2010): '
+notes: ~
+pmid: 20404131
+title: 'Cutaneous extranodal NK/T-cell lymphoma: a clinicopathologic study of 5 patients
+  with array-based comparative genomic hybridization.'
+year: 2010

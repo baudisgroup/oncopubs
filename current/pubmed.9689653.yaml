@@ -1,0 +1,51 @@
+---
+abstract: Retroperitoneal paraganglioma is a rare tumor, especially occurring in childhood
+  and adolescence, with a marked tendency to become biologically malignant. It has
+  not been possible to predict the clinical outcome of paraganglioma patients by conventional
+  histology, hence malignancy can only be demonstrated by the occurrence of metastatic
+  lesions. Currently, only limited information on the genetics of this tumor is available.
+  We report on a 16-year-old girl with a large retroperitoneal paraganglioma and an
+  osseous metastasis to the first lumbar vertebra. In addition to morphological and
+  immunohistochemical examinations, a molecular cytogenetic analysis was performed.
+  Comparative genomic hybridization CGH revealed imbalanced chromosomal aberrations
+  with a loss of chromosome 1p and a gain of 1q, indicating isochromosome 1q. A loss
+  of chromosome 3 as well as low-level gains of chromosomes 4, 5, 6q, 11q and 13q
+  were detected. A PCR-based microsatellite analysis of 1p confirmed the loss of heterozygosity,
+  including NB1 and NB2 putative tumor-suppressor gene regions. Telomerase activity,
+  which is found in the majority of malignant tumors, could not be detected. The case
+  presented here is the first more comprehensive molecular genetic analysis of a sporadic
+  malignant paraganglioma.
+authors: Blasius S, Brinkschmidt C, Poremba C, Terpe HJ, Halm H, Schleef J, Ritter
+  J, Wortler K, Bocker W and Dockhorn-Dworniczak B.
+cancertypes: []
+contact:
+  email: ~
+  name: NA Dockhorn-Dworniczak
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9689653
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Pathol Res Pract 194, 6 (1998): 439-44.'
+label: 'Blasius et al. (1998): Metastatic Retroperitoneal Paraganglioma in a 16-Year-Old
+  Girl. Case Report, Molecular ...'
+notes: ~
+pmid: 9689653
+title: Metastatic Retroperitoneal Paraganglioma in a 16-Year-Old Girl. Case Report,
+  Molecular Pathological and Cytogenetic Findings.
+year: 1998

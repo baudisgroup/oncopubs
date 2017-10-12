@@ -1,0 +1,140 @@
+---
+abstract: As genome-scale technologies begin to unravel the complexity of the equivalent
+  tumors in adults, we can attempt detailed characterization of high-grade gliomas
+  in children, that have until recently been lacking. Toward this end, we sought to
+  validate and extend investigations of the differences between pediatric and adult
+  tumors.
+authors: Bax DA, Mackay A, Little SE, Carvalho D, Viana-Pereira M, Tamber N, Grigoriadis
+  AE, Ashworth A, Reis RM, Ellison DW, Al-Sarraj S, Hargrave D and Jones C.
+cancertypes:
+- samples_arraymap: 37
+  samples_progenetix: 37
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 2
+  samples_progenetix: 2
+  term_id: ncit:C4324
+  term_label: Astroblastoma
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C4326
+  term_label: Anaplastic Oligodendroglioma
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: ncit:C9477
+  term_label: Anaplastic Astrocytoma
+- samples_arraymap: 1
+  samples_progenetix: 15
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: 'pgx:icdom:'
+  term_label: ~
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: 2
+  samples_progenetix: 2
+  term_id: pgx:icdom:9430_3
+  term_label: Astroblastoma
+- samples_arraymap: 37
+  samples_progenetix: 37
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:NA
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 45
+  term_id: pgx:icdot:C71.0
+  term_label: Cerebrum
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C71.6
+  term_label: Cerebellum
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- samples_arraymap: 53
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: brain, nos
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C72.0
+  term_label: Spinal cord
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: 'pgx:seer:'
+  term_label: ''
+- samples_arraymap: 53
+  samples_progenetix: 54
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-
+  term_label: ~
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: 2
+  samples_progenetix: 2
+  term_id: snmi:M-94303
+  term_label: Astroblastoma
+- samples_arraymap: 37
+  samples_progenetix: 37
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-NA
+  term_label: ~
+contact:
+  email: chris.jones@icr.ac.uk
+  name: Chris Jones
+counts:
+  biosamples: 63
+  samples_acgh: 63
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20570930
+- arrayexpress:E-TABM-857
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Clin Cancer Res 16, 13 (2010): 3368-77.'
+label: 'Bax et al. (2010): A Distinct Spectrum of Copy Number Aberrations in Pediatric
+  High-Grade Gliomas.'
+notes: ~
+pmid: 20570930
+title: A Distinct Spectrum of Copy Number Aberrations in Pediatric High-Grade Gliomas.
+year: 2010

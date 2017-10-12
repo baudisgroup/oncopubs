@@ -1,0 +1,61 @@
+---
+abstract: Hepatocellular carcinoma HCC is a common and highly malignant tumor that
+  is prevalent in Southeast Asia. Although the etiological factors associated are
+  now well recognized, the interactions between individual factors and the molecular
+  mechanisms by which they lead to cancer remain unclear. Cytogenetic analysis on
+  HCC has been limited because of poor hepatocyte growth in vitro. The recently developed
+  technique of comparative genomic hybridization CGH , however, permits screening
+  of the entire genome without the need of cell culture. CGH was applied to the study
+  of genomic aberrations in 67 surgically resected samples of HCC, 3 of adenomatous
+  hyperplasia AH , and 12 of nontumorous cirrhotic liver surrounding the tumors. All
+  samples were from patients of a racially and etiologically homogeneous population
+  in Southern China, where chronic hepatitis B virus infection is the main etiological
+  factor. CGH analysis of the HCC samples revealed frequent copy number gain of 1q
+  48 67 cases, 72 , 8q 32 67 cases, 48 , 17q 20 67 cases, 30 , and 20q 25 67 cases,
+  37 and common losses on 4q 29 67 cases, 43 , 8p 25 67 cases, 37 , 13q 25 67 cases,
+  37 , and 16q 20 67 cases, 30 . Our finding of a high incidence of 1q gain strongly
+  suggested this aberration was associated with the development of HCC. Genomic abnormalities
+  were detected in 1 of the 3 AH specimens but absent in all 12 cirrhotic tissues
+  surrounding the tumor. Clinical staging classified 3 67 HCC cases as T1, 53 cases
+  as T2, and 11 cases as T3. No significant difference in the pattern of genomic imbalances
+  was detected between stages T2 and T3. A significant copy number loss of 4q11-q23
+  was, however, identified in those tumors larger than 3 cm in diameter. Of particular
+  interest was the identification of 8q copy number gain in all 12 cases of HCC that
+  arose in a noncirrhotic liver, compared with only 20 55 cases in HCC arising in
+  a cirrhotic liver. We suggest that 8q over-representation is likely associated with
+  a growth advantage and proliferative stimulation that have encouraged malignant
+  changes in the noncirrhotic human liver.
+authors: Wong N, Lai P, Lee SW, Fan S, Pang E, Liew CT, Sheng Z, Lau JW and Johnson
+  PJ.
+cancertypes: []
+contact:
+  email: natwong@cuhk.edu.hk
+  name: Nathalie Wong
+counts:
+  biosamples: 82
+  samples_acgh: 0
+  samples_ccgh: 82
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9916916
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Am J Pathol 154, 1 (1999): 37-43.'
+label: 'Wong et al. (1999): Assessment of Genetic Changes in Hepatocellular Carcinoma
+  By Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 9916916
+title: 'Assessment of Genetic Changes in Hepatocellular Carcinoma By Comparative Genomic
+  Hybridization Analysis: Relationship to Disease Stage, Tumor Size, and Cirrhosis.'
+year: 1999

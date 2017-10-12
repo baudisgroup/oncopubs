@@ -1,0 +1,47 @@
+---
+abstract: Breast cancer is the most common malignancy in Chinese women. The aim of
+  the present study was to investigate the genetic alterations that occur in breast
+  cancer cells in Chinese women. Comparative genomic hybridization (CGH) analysis
+  was performed on 34 tumors obtained from patients with primary invasive ductal breast
+  carcinoma (IDC). Recurrent genetic alterations in breast cancer include gains on
+  chromosomes 1q (59%), 16p (50%), 17q (44%), 8q (38%), 11q (32%), 20q (32%), 1p (24%),
+  20p (24%), 19q (21%) and 19p (18%). Losses are common on chromosomes 6q (15%), 8p
+  (12%), 18 (12%), 4q (9%), X (9%) and 17p (9%). In the present study, high-level
+  amplifications were observed on chromosomes 1q32, 8p, 11q13, 17q and 20q. Overall,
+  the chromosomal DNA gains observed were consistent with the changes reported in
+  Caucasian populations. However, the incidence of chromosomal DNA loss was lower
+  in the present study compared with the incidence reported in the literature. The
+  present results demonstrate the pattern of chromosomal imbalances in the invasive
+  ductal breast carcinomas of Chinese females.
+authors: Zhang J, Zhang H, Xu X, Wang M and Yu Z
+cancertypes: []
+contact:
+  email: zhongheyu27@yeah.net
+  name: Zhonghe Yu
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26622803
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Oncol Lett 10(4), 2015
+label: 'Zhang J et al. (2015): '
+notes: ~
+pmid: 26622803
+title: Comparative genomic hybridization analysis of invasive ductal breast carcinomas
+  in the Chinese population.
+year: 2015

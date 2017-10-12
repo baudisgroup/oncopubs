@@ -1,0 +1,93 @@
+---
+abstract: 'Cohesin is a multimeric protein complex that is involved in the cohesion
+  of sister chromatids, post-replicative DNA repair and transcriptional regulation.
+  Here we report recurrent mutations and deletions involving multiple components of
+  the cohesin complex, including STAG2, RAD21, SMC1A and SMC3, in different myeloid
+  neoplasms. These mutations and deletions were mostly mutually exclusive and occurred
+  in 12.1% (19/157) of acute myeloid leukemia, 8.0% (18/224) of myelodysplastic syndromes,
+  10.2% (9/88) of chronic myelomonocytic leukemia, 6.3% (4/64) of chronic myelogenous
+  leukemia and 1.3% (1/77) of classical myeloproliferative neoplasms. Cohesin-mutated
+  leukemic cells showed reduced amounts of chromatin-bound cohesin components, suggesting
+  a substantial loss of cohesin binding sites on chromatin. The growth of leukemic
+  cell lines harboring a mutation in RAD21 (Kasumi-1 cells) or having severely reduced
+  expression of RAD21 and STAG2 (MOLM-13 cells) was suppressed by forced expression
+  of wild-type RAD21 and wild-type RAD21 and STAG2, respectively. These findings suggest
+  a role for compromised cohesin functions in myeloid leukemogenesis. '
+authors: Kon A, Shih LY, Minamino M, Sanada M, Shiraishi Y, Nagata Y, Yoshida K, Okuno
+  Y, Bando M, Nakato R, Ishikawa S, Sato-Otsubo A, Nagae G, Nishimoto A, Haferlach
+  C, Nowak D, Sato Y, Alpermann T, Nagasaki M, Shimamura T, Tanaka H, Chiba K, Yamamoto
+  R, Yamaguchi T, Otsu M, Obara N, Sakata-Yanagimoto M, Nakamaki T, Ishiyama K, Nolte
+  F, Hofmann WK, Miyawaki S, Chiba S, Mori H, Nakauchi H, Koeffler HP, Aburatani H,
+  Haferlach T, Shirahige K, Miyano S, Ogawa S.
+cancertypes:
+- samples_arraymap: 93
+  samples_progenetix: ~
+  term_id: ncit:C27753
+  term_label: Acute Myeloid Leukemia Not Otherwise Specified
+- samples_arraymap: 70
+  samples_progenetix: ~
+  term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- samples_arraymap: 93
+  samples_progenetix: ~
+  term_id: pgx:icdom:9861_3
+  term_label: Acute myeloid leukemia, NOS
+- samples_arraymap: 70
+  samples_progenetix: ~
+  term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- samples_arraymap: 163
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 93
+  samples_progenetix: ~
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: 70
+  samples_progenetix: ~
+  term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 93
+  samples_progenetix: ~
+  term_id: snmi:M-98613
+  term_label: Acute myeloid leukemia, NOS
+- samples_arraymap: 70
+  samples_progenetix: ~
+  term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
+contact:
+  email: akon-tky@umin.ac.jp
+  name: Ayana Kon
+counts:
+  biosamples: 163
+  samples_acgh: 163
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23955599
+- geo:GSE47682
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Nat. Genet. 45(10), 2013
+label: ' (2013): '
+notes: WES data from 29 patients was reported in a previous paper.
+pmid: 23955599
+title: Recurrent mutations in multiple components of the cohesin complex in myeloid
+  neoplasms.
+year: 2013

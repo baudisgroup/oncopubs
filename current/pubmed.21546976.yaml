@@ -1,0 +1,52 @@
+---
+abstract: This study evaluated the clinicopathological and prognostic implications
+  of genetic alterations characterizing oral squamous cell carcinoma OSCC . Comparative
+  genomic hybridization CGH was used to identify chromosomal alterations present in
+  primary OSCCs obtained from 97 pateints. In this population, tobacco use was a significant
+  risk factor for OSCC. By contrast, all 97 of our samples are negative for human
+  papillomavirus HPV DNA integration, which is another known risk factor for OSCC
+  in certain populations. Results of the Fishers exact test followed by Benjamini-Hochberg
+  correction for multiple testing, showed a correlation of 7p gain and 8p loss with
+  node-positive OSCC p 0.04 for both genetic alterations and association of 11q13
+  gain with high-grade OSCC p 0.05 . Univariate Cox-proportional hazard models, also
+  corrected for multiple testing, showed significant association of 11q13 gain and
+  18q loss with decreased survival p 0.05 . These findings were supported by multivariate
+  analysis which revealed that 11q13 gain and 18q loss together serve as a strong
+  bivariate predictor of poor prognosis. In conclusion, our study has identified genetic
+  alterations that correlate significantly with nodal status, grade, and poor survival
+  status of OSCC. These potential biomarkers may aid the current TNM system for better
+  prediction of clinical outcome.
+authors: Pathare SM, Gerstung M, Beerenwinkel N, Schaffer AA, Kannan S, Pai P, Pathak
+  KA, Borges AM and Mahimkar MB.
+cancertypes: []
+contact:
+  email: mmahimkar@actrec.gov.in
+  name: Manoj Mahimkar
+counts:
+  biosamples: 97
+  samples_acgh: 0
+  samples_ccgh: 97
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21546976
+geo_data:
+  geo_json:
+    coordinates:
+    - 73.02
+    - 19.04
+    type: Point
+  info:
+    city: Navi Mumbai
+    continent: Asia
+    country: India
+    label: Navi Mumbai, India, Asia
+    precision: city
+journal: 'Oncol Lett 2, 3 (2011): 445-51.'
+label: 'Pathare et al. (2011): Clinicopathological and Prognostic Implications of
+  Genetic Alterations in Oral ...'
+notes: ~
+pmid: 21546976
+title: Clinicopathological and Prognostic Implications of Genetic Alterations in Oral
+  Cancers.
+year: 2011

@@ -1,0 +1,90 @@
+---
+abstract: Primary carcinomas of the small intestine are rare and the mechanism of
+  their pathogenesis is poorly understood. Patients with familial adenomatous polyposis
+  FAP have a high risk of developing duodenal carcinomas. The aim of this study is
+  to gain more insight into the development of duodenal carcinomas. Therefore, five
+  FAP-related duodenal carcinomas were characterized for chromosomal and methylation
+  alterations, which were compared to those observed in sporadic duodenal carcinomas.
+  Comparative genomic hybridization CGH and methylation-specific multiplex ligation-dependent
+  probe amplification MS-MLPA was performed in 10 primary sporadic and five primary
+  FAP-related duodenal carcinomas. In the FAP-related carcinomas, frequent gains were
+  observed on chromosomes 8, 17 and 19, whereas in sporadic carcinomas they occurred
+  on chromosomes 8, 12, 13 and 20. In 60 of the sporadic carcinomas, gains in the
+  regions of chromosome 12 were observed which were absent in the FAP-related carcinomas
+  P 0.04 . Hypermethylation was observed in the immunoglobulin superfamily genes member
+  4 IGSF4 , TIMP metallopeptidase inhibitor 3 TIMP3 , Estrogen receptor 1 ESR1 , adenomatous
+  polyposis coli APC , H-cadherin CDH13 and paired box gene 6 PAX6 genes. Hypermethylation
+  of PAX6 was only observed in FAP-related carcinomas 3 5 and not in sporadic carcinomas
+  P 0.02 . In conclusion, in contrast to sporadic duodenal carcinomas, gains on chromosome
+  12 were not observed in duodenal carcinomas of patients with FAP. Identification
+  of the genes in these regions of chromosome 12 could lead to a better understanding
+  of the carcinogenesis pathways leading to sporadic and FAP-related duodenal carcinomas.
+  Furthermore, hypermethylation seems to be a general feature of both FAP-related
+  duodenal carcinomas as well as sporadic duodenal carcinomas with the exception of
+  the PAX6 gene, which is methylated only in FAP-related carcinomas.
+authors: Berkhout M, Nagtegaal ID, Cornelissen SJ, Dekkers MM, van de Molengraft FJ,
+  Peters WH, Nagengast FM, van Krieken JH and Jeuken JW.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C26712
+  term_label: Mucinous Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8480_3
+  term_label: Mucinous adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:icdot:C17
+  term_label: small intestine
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:seer:21030
+  term_label: Small Intestine
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-84803
+  term_label: Mucinous adenocarcinoma
+contact:
+  email: j.jeuken@pathol.umcn.nl
+  name: Judith Jeuken
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17873900
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Mod Pathol 20, 12 (2007): 1253-62.'
+label: 'Berkhout et al. (2007): Chromosomal and Methylation Alterations in Sporadic
+  and Familial Adenomatous Polyposis-Related ...'
+notes: ~
+pmid: 17873900
+title: Chromosomal and Methylation Alterations in Sporadic and Familial Adenomatous
+  Polyposis-Related Duodenal Carcinomas.
+year: 2007

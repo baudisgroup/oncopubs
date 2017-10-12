@@ -1,0 +1,59 @@
+---
+abstract: Copy number alterations (CNA) are one of the driving mechanisms of glioma
+  tumorigenesis, and are currently used as important biomarkers in the routine setting.
+  Therefore, we performed CNA profiling of 65 astrocytomas of distinct malignant grades
+  (WHO grade I to IV) of Brazilian origin, using array-CGH, microsatellite instability
+  analysis (MSI), and investigated their correlation with TERT and IDH1 mutational
+  status and clinic-pathological features. Furthermore, in silico analysis using the
+  Oncomine database was performed to validate our findings and extend the findings
+  to gene expression level. We found that the number of genomic alterations increases
+  in accordance with glioma grade. In glioblastomas (GBM) the most common alterations
+  were gene amplifications (PDGFRA, KIT, KDR, EGFR, and MET) and deletions (CDKN2A
+  and PTEN). Log-rank analysis correlated EGFR amplification and/or chr7 gain with
+  better survival of the patients. MSI was observed in 11% of GBMs. A total of 69%
+  of GBMs presented TERT mutation, whereas IDH1 mutation was most frequent in diffuse
+  (85.7%) and anaplastic (100%) astrocytomas. The combination of 1p19q deletion, TERT
+  and IDH1 mutational status separate tumor groups that showed distinct age of diagnosis
+  and outcome. In silico validation pointed to less explored genes that may be worthy
+  of future investigation, such as CDK2, DMRTA1 and MTAP Herein, using an extensive
+  integrated analysis, we indicated potentially important genes, not extensively studied
+  in gliomas, that could be further explored to assess their biological and clinical
+  impact in astrocytomas.  Copyright ï¿½ 2016 Author et al.
+authors: Bidinotto LT, Torrieri R, Mackay A, Almeida GC, Viana-Pereira M, Cruvinel-Carloni
+  A, Spina ML, Campanella NC, de Menezes WP, Clara CA, Becker AP, Jones C and Reis
+  RM
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: ruireis.hcb@gmail.com
+  name: Rui Manuel Reis
+counts:
+  biosamples: 65
+  samples_acgh: 65
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27172220
+- geo:GSE71538
+geo_data:
+  geo_json:
+    coordinates:
+    - -48.57
+    - -20.56
+    type: Point
+  info:
+    city: Barretos
+    continent: South America
+    country: Brazil
+    label: Barretos, Brazil, South America
+    precision: city
+journal: G3 (Bethesda), 2016
+label: 'Bidinotto LT et al. (2016): '
+notes: ~
+pmid: 27172220
+title: Copy Number Profiling of Brazilian Astrocytomas.
+year: 2016

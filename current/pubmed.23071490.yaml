@@ -1,0 +1,63 @@
+---
+abstract: Pancreatic adenocarcinoma PAC is among the most lethal malignancies. While
+  research has implicated multiple genes in disease pathogenesis, identification of
+  therapeutic leads has been difficult and the majority of currently available therapies
+  provide only marginal benefit. To address this issue, our goal was to genomically
+  characterize individual PAC patients to understand the range of aberrations that
+  are occurring in each tumor. Because our understanding of PAC tumorigenesis is limited,
+  evaluation of separate cases may reveal aberrations, that are less common but may
+  provide relevant information on the disease, or that may represent viable therapeutic
+  targets for the patient. We used next generation sequencing to assess global somatic
+  events across 3 PAC patients to characterize each patient and to identify potential
+  targets. This study is the first to report whole genome sequencing WGS findings
+  in paired tumor normal samples collected from 3 separate PAC patients. We generated
+  on average 132 billion mappable bases across all patients using WGS, and identified
+  142 somatic coding events including point mutations, insertion deletions, and chromosomal
+  copy number variants. We did not identify any significant somatic translocation
+  events. We also performed RNA sequencing on 2 of these patients apos tumors for
+  which tumor RNA was available to evaluate expression changes that may be associated
+  with somatic events, and generated over 100 million mapped reads for each patient.
+  We further performed pathway analysis of all sequencing data to identify processes
+  that may be the most heavily impacted from somatic and expression alterations. As
+  expected, the KRAS signaling pathway was the most heavily impacted pathway P lt
+  0.05 , along with tumor-stroma interactions and tumor suppressive pathways. While
+  sequencing of more patients is needed, the high resolution genomic and transcriptomic
+  information we have acquired here provides valuable information on the molecular
+  composition of PAC and helps to establish a foundation for improved therapeutic
+  selection.
+authors: Liang WS, Craig DW, Carpten J, Borad MJ, Demeure MJ, Weiss GJ, Izatt T, Sinari
+  S, Christoforides A, Aldrich J, Kurdoglu A, Barrett M, Phillips L, Benson H, Tembe
+  W, Braggio E, Kiefer JA, Legendre C, Posner R, Hostetter GH, Baker A, Egan JB, Han
+  H, Lake D, Stites EC, Ramanathan RK, Fonseca R, Stewart AK and Von Hoff D.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 3
+external_identifiers:
+- pubmed:23071490
+geo_data:
+  geo_json:
+    coordinates:
+    - -112.07
+    - 33.45
+    type: Point
+  info:
+    city: Phoenix
+    continent: North America
+    country: United States
+    label: Phoenix, United States, North America
+    precision: city
+journal: 'PLoS ONE (2012) 7: e43192.'
+label: 'Liang et al. (2012): Genome-wide characterization of pancreatic adenocarcinoma
+  patients using next generation ...'
+notes: ~
+pmid: 23071490
+title: Genome-wide characterization of pancreatic adenocarcinoma patients using next
+  generation sequencing.
+year: 2012

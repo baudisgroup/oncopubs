@@ -1,0 +1,52 @@
+---
+abstract: Cutaneous squamous cell carcinoma SCC occurs commonly and can metastasize.
+  Identification of specific molecular aberrations and mechanisms underlying the development
+  and progression of cutaneous SCC may lead to better prognostic and therapeutic approaches
+  and more effective chemoprevention strategies. To identify genetic changes associated
+  with early stages of cutaneous SCC development, we analyzed a series of 40 archived
+  skin tissues ranging from normal skin to invasive SCC. Using high-resolution array-based
+  comparative genomic hybridization, we identified deletions of a region on chromosome
+  10q harboring the INPP5A gene in 24 of examined SCC tumors. Subsequent validation
+  by immunohistochemistry on an independent sample set of 71 SCC tissues showed reduced
+  INPP5A protein levels in 72 of primary SCC tumors. Decrease in INPP5A protein levels
+  seems to be an early event in SCC development, as it also is observed in 9 of 26
+  35 examined actinic keratoses, the earliest stage in SCC development. Importantly,
+  further reduction of INPP5A levels is seen in a subset of SCC patients as the tumor
+  progresses from primary to metastatic stage. The observed frequency and pattern
+  of loss indicate that INPP5A, a negative regulator of inositol signaling, may play
+  a role in development and progression of cutaneous SCC tumors.
+authors: Sekulic A, Kim SY, Hostetter G, Savage S, Einspahr JG, Prasad A, Sagerman
+  P, Curiel-Lewandrowski C, Krouse R, Bowden GT, Warneke J, Alberts DS, Pittelkow
+  MR, DiCaudo D, Nickoloff BJ, Trent JM and Bittner M.
+cancertypes: []
+contact:
+  email: mbittner@tgen.org
+  name: Michael Bittner
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20876729
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Cancer Prev Res (Phila) 3, 10 (2010): 1277-83.'
+label: 'Sekulic et al. (2010): Loss of Inositol Polyphosphate 5-Phosphatase is an
+  Early Event in Development of Cutaneous ...'
+notes: ~
+pmid: 20876729
+title: Loss of Inositol Polyphosphate 5-Phosphatase is an Early Event in Development
+  of Cutaneous Squamous Cell Carcinoma.
+year: 2010

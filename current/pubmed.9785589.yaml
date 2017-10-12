@@ -1,0 +1,48 @@
+---
+abstract: We investigated chromosomal aberrations in meningiomas using newly developed
+  comparative genomic hybridization CGH technique and compared the results with the
+  proliferating potential of the tumors. This technique permits the entire genome
+  to be surveyed in one session of experiments. Our results revealed chromosomal aberrations
+  in 5 out of 10 50 of the tumor samples studied. Losses of the distal parts of chromosome
+  1p 5 out of 10 and 22q 3 out of 10 were the two most frequent chromosomal aberrations.
+  Losses and or gains in other regions were only sporadic. The MIB-1 staining indices
+  MIB-SI, were 1.9 - 0.9 mean - SD in benign n 8 , 4.5 in atypical n 1 , and 11.7
+  in anaplastic n 1 meningiomas. The comparison of MIB-SI between the tumors with
+  2.3 - 0.6 and without 1.6 - 0.3 chromosomal aberrations demonstrated a trend towards
+  an increased MIB-SI in meningiomas with chromosomal aberrations p amp lt 0.07 by
+  unpaired Students t-test. This study suggests that alterations in chromosomes 1p
+  and 22q could be a primary focus of further detailed assessment of tumorigenesis
+  and in understanding the biological behavior of meningiomas.
+authors: Maruno M, Yoshimine T, Muhammad AK, Ninomiya H and Hayakawa T.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9785589
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: Asia
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: 'Neurol Res 20, 7 (1998): 612-16.'
+label: 'Maruno et al. (1998): Chromosomal Losses and Gains in Meningiomas: Comparative
+  Genomic Hybridization (Cgh) Study of the ...'
+notes: ~
+pmid: 9785589
+title: 'Chromosomal Losses and Gains in Meningiomas: Comparative Genomic Hybridization
+  (Cgh) Study of the Whole Genome.'
+year: 1998

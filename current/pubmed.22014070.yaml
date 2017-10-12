@@ -1,0 +1,63 @@
+---
+abstract: Metastatic progression due to development or enrichment of therapy-resistant
+  tumor cells is eventually lethal. Molecular characterization of such chemotherapy
+  resistant tumor cell clones may identify markers responsible for malignant progression
+  and potential targets for new treatment. Here, in a case of stage IV adenocarcinoma
+  of the gastroesophageal junction, we report the successful genome wide analysis
+  using array comparative genomic hybridization CGH of DNA from only fourteen tumor
+  cells using a bead-based single cell selection method from a bone metastasis progressing
+  during chemotherapy.
+authors: Hjortland GO, Meza-Zepeda LA, Beiske K, Ree AH, Tveito S, Hoifodt H, Bohler
+  PJ, Hole KH, Myklebost O, Fodstad O, Smeland S and Hovig E.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: Geir Olav Hjortland
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22014070
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'BMC Cancer 11 (2011): 455.'
+label: 'Hjortland et al. (2011): Genome Wide Single Cell Analysis of Chemotherapy
+  Resistant Metastatic Cells in a Case of ...'
+notes: ~
+pmid: 22014070
+title: Genome Wide Single Cell Analysis of Chemotherapy Resistant Metastatic Cells
+  in a Case of Gastroesophageal Adenocarcinoma.
+year: 2011

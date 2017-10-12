@@ -1,0 +1,50 @@
+---
+abstract: Chromosomal aberrations are a hallmark of acute lymphoblastic leukaemia
+  ALL but alone fail to induce leukaemia. To identify cooperating oncogenic lesions,
+  we performed a genome-wide analysis of leukaemic cells from 242 paediatric ALL patients
+  using high-resolution, single-nucleotide polymorphism arrays and genomic DNA sequencing.
+  Our analyses revealed deletion, amplification, point mutation and structural rearrangement
+  in genes encoding principal regulators of B lymphocyte development and differentiation
+  in 40 of B-progenitor ALL cases. The PAX5 gene was the most frequent target of somatic
+  mutation, being altered in 31.7 of cases. The identified PAX5 mutations resulted
+  in reduced levels of PAX5 protein or the generation of hypomorphic alleles. Deletions
+  were also detected in TCF3 also known as E2A , EBF1, LEF1, IKZF1 IKAROS and IKZF3
+  AIOLOS . These findings suggest that direct disruption of pathways controlling B-cell
+  development and differentiation contributes to B-progenitor ALL pathogenesis. Moreover,
+  these data demonstrate the power of high-resolution, genome-wide approaches to identify
+  new molecular lesions in cancer.
+authors: Mullighan CG, Goorha S, Radtke I, Miller CB, Coustan-Smith E, Dalton JD,
+  Girtman K, Mathew S, Ma J, Pounds SB, Su X, Pui CH, Relling MV, Evans WE, Shurtleff
+  SA and Downing JR.
+cancertypes: []
+contact:
+  email: james.downing@stjude.org
+  name: James Downing
+counts:
+  biosamples: 242
+  samples_acgh: 242
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17344859
+- geo:GSE5511
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'Nature 446, 7137 (2007): 758-64.'
+label: 'Mullighan et al. (2007): Genome-Wide Analysis of Genetic Alterations in Acute
+  Lymphoblastic Leukaemia.'
+notes: ~
+pmid: 17344859
+title: Genome-Wide Analysis of Genetic Alterations in Acute Lymphoblastic Leukaemia.
+year: 2007

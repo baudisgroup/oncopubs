@@ -1,0 +1,88 @@
+---
+abstract: Twenty-five cases of B-cell precursor acute lymphoblastic leukaemia ALL
+  from Down syndrome DS patients were analyzed using array comparative genomic hybridization
+  aCGH and compared with two other subgroups of non-DS patients with ALL five cases
+  with high-hyperdiploidy HH and nine cases with ETV6-RUNX1 positive clones. Seven
+  cases of DS-acute megakaryoblastic leukaemia AMKL were also included, DS-ALL cases
+  showed relatively stable karyotypes with cryptic losses and gains that most frequently
+  involved chromosomes X, 1, 2, 9, 11, 16, and 17. The most consistent change involved
+  a deletion in 2p, spanning region Chr2:88273220-91084234, which in some cases appeared
+  to be homozygous. ALL from non-DS patients showed a similar overall karyotypic stability,
+  although gains of chromosome 21 were infrequent in the ETV6-RUNX1 positive cases.
+  The most consistent change in this group involved a 12p deletion, where Chr12:10383878-16017619
+  defined the common region of overlap. All HH-ALL karyotypes showed variable gains
+  of chromosome 21. This overall analysis supports the suggestion that, although constitutional
+  trisomy 21 predisposes to ALL AMKL, the cytogenetic changes associated with DS-ALL
+  in particular, are most similar to those found in non-DS ETV6-RUNX1 positive ALL.
+  The HH-ALL group, however, undergoes distinct karyotypic evolution not dependent
+  on chromosome translocation deletion events.
+authors: Lo KC, Chalker J, Strehl S, Neat M, Smith O, Dastugue N, Kearney L, Izraeli
+  S, Kempski H and Cowell JK.
+cancertypes:
+- samples_arraymap: 25
+  samples_progenetix: 25
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: ncit:C3170
+  term_label: Acute Megakaryoblastic Leukemia
+- samples_arraymap: 25
+  samples_progenetix: 25
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: pgx:icdom:9910_3
+  term_label: Acute megakaryoblastic leukemia
+- samples_arraymap: 32
+  samples_progenetix: 32
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 25
+  samples_progenetix: 25
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: 25
+  samples_progenetix: 25
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: snmi:M-99103
+  term_label: Acute megakaryoblastic leukemia
+contact:
+  email: jcowell@mcg.edu
+  name: John K. Cowell
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18557744
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Br J Haematol 142, 6 (2008): 934-45.'
+label: 'Lo et al. (2008): Array Comparative Genome Hybridization Analysis of Acute
+  Lymphoblastic Leukaemia and Acute ...'
+notes: ~
+pmid: 18557744
+title: Array Comparative Genome Hybridization Analysis of Acute Lymphoblastic Leukaemia
+  and Acute Megakaryoblastic Leukaemia in Patients With Down Syndrome.
+year: 2008

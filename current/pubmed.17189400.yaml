@@ -1,0 +1,41 @@
+---
+abstract: The most well established molecular markers of poor outcome in Wilms tumor
+  are loss of heterozygosity at chromosomes 1p and or 16q, although to date no specific
+  genes at these loci have been identified. We have previously shown a link between
+  genomic gain of chromosome 1q and tumor relapse and sought to further elucidate
+  the role of genes on 1q in treatment failure.
+authors: Natrajan R, Little SE, Reis-Filho JS, Hing L, Messahel B, Grundy PE, Dome
+  JS, Schneider T, Vujanic GM, Pritchard-Jones K and Jones C.
+cancertypes: []
+contact:
+  email: chris.jones@icr.ac.uk
+  name: Chris Jones
+counts:
+  biosamples: 76
+  samples_acgh: 76
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17189400
+- arrayexpress:E-TABM-10
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Clin Cancer Res 12, 24 (2006): 7284-93.'
+label: 'Natrajan et al. (2006): Amplification and Overexpression of Cacna1E Correlates
+  With Relapse in Favorable Histology Wilms ...'
+notes: Data was reported previously (PMID 16823893).
+pmid: 17189400
+title: Amplification and Overexpression of Cacna1E Correlates With Relapse in Favorable
+  Histology Wilms Tumors.
+year: 2006

@@ -1,0 +1,63 @@
+---
+abstract: Microarray-based comparative genomic hybridisation CGH has allowed high-resolution
+  analysis of DNA copy number alterations across the entire cancer genome. Recent
+  advances in bioinformatics tools enable us to perform a robust and highly sensitive
+  analysis of array CGH data and facilitate the discovery of novel cancer-related
+  genes.
+authors: Harada T, Chelala C, Crnogorac-Jurcevic T and Lemoine NR.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: 52
+  samples_progenetix: ~
+  term_id: ncit:C8294
+  term_label: Pancreatic Adenocarcinoma
+- samples_arraymap: 52
+  samples_progenetix: 29
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 52
+  samples_progenetix: 29
+  term_id: pgx:icdot:C25
+  term_label: pancreas
+- samples_arraymap: 52
+  samples_progenetix: 29
+  term_id: pgx:seer:21100
+  term_label: Pancreas
+- samples_arraymap: 52
+  samples_progenetix: 29
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: nick.lemoine@cancer.org.uk
+  name: Nicholas R. Lemoine
+counts:
+  biosamples: 29
+  samples_acgh: 29
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19077451
+- geo:GSE9672
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Pancreatology 9, 1-2 (2009): 13-24.'
+label: 'Harada et al. (2009): Genome-Wide Analysis of Pancreatic Cancer Using Microarray-Based
+  Techniques.'
+notes: Data was extracted from GEO and segmented using Progenetix online tools.
+pmid: 19077451
+title: Genome-Wide Analysis of Pancreatic Cancer Using Microarray-Based Techniques.
+year: 2009

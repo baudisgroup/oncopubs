@@ -1,0 +1,57 @@
+---
+abstract: By convention, a contralateral breast cancer (CBC) is treated as a new primary
+  tumor, independent of the first cancer (BC1). Although there have been indications
+  that the second tumor (BC2) sometimes may represent a metastatic spread of BC1,
+  this has never been conclusively shown. We sought to apply next-generation sequencing
+  to determine a "genetic barcode" for each tumor and reveal the clonal relationship
+  of CBCs.  Ten CBC patients with detailed clinical information and available fresh
+  frozen tumor tissue were studied. Using low-coverage whole genome DNA-sequencing
+  data for each tumor, chromosomal rearrangements were enumerated and copy number
+  profiles were generated. Comparisons between tumors provided an estimate of clonal
+  relatedness for tumor pairs within individual patients.  Between 15-256 rearrangements
+  were detected in each tumor (median 87). For one patient, 76 % (68 out of 90) of
+  the rearrangements were shared between BC1 and BC2, highly consistent with what
+  has been seen for true primary-metastasis pairs (>50 %) and thus confirming a common
+  clonal origin of the two tumors. For most of the remaining cases, BC1 and BC2 had
+  similarly low overlap as unmatched randomized pairs of tumors from different individuals,
+  suggesting the CBC to represent a new independent primary tumor.  Using rearrangement
+  fingerprinting, we show for the first time with certainty that a contralateral BC2
+  can represent a metastatic spread of BC1. Given the poor prognosis of a generalized
+  disease compared to a new primary tumor, these women need to be identified at diagnosis
+  of CBC for appropriate determination of treatment. Our approach generates a promising
+  new method to assess clonal relationship between tumors. Additional studies are
+  required to confirm the frequency of CBCs representing metastatic events.
+authors: Alkner S, Tang MH, Brueffer C, Dahlgren M, Chen Y, Olsson E, Winter C, Baker
+  S, Ehinger A, Rydï¿½n L, Saal LH, Fernï¿½ M and Gruvberger-Saal SK
+cancertypes: []
+contact:
+  email: Sofia.Gruvberger@med.lu.se
+  name: Sofia K Gruvberger-Saal
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 20
+external_identifiers:
+- pubmed:26242876
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Breast Cancer Res. 17(1), 2015
+label: 'Alkner S et al. (2015): '
+notes: ~
+pmid: 26242876
+title: 'Contralateral breast cancer can represent a metastatic spread of the first
+  primary tumor: determination of clonal relationship between contralateral breast
+  cancers using next-generation whole genome sequencing.'
+year: 2015

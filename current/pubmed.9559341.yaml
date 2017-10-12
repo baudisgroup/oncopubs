@@ -1,0 +1,66 @@
+---
+abstract: We used comparative genomic hybridization CGH to screen for DNA copy number
+  changes in 34 specimens from 27 cases of mantle cell lymphoma MCL . The most common
+  gains were detected at 3q 52 , 8q 30 , and 15q 26 , whereas the most frequent losses
+  involved 13q 41 , 1p 33 , 6q 30 , 9p 30 , and 11q 30 . The gain of 3q, with a minimal
+  common region at 3q26.1-27, appeared in more than half of the lymphomas, suggesting
+  the location of an important oncogene here. A common deleted region at 11q22 was
+  found in one-third of the patients, which suggests that this region may harbor a
+  tumor suppressor gene important in the tumorigenesis of MCL. The mean number of
+  changes was higher in more aggressive blastoid variants of MCL than in lymphomas
+  with typical morphology. Our results show that the chromosomal regions affected
+  in MCL are highly consistent and are different from those seen in other types of
+  non-Hodgkins lymphoma.
+authors: Monni O, Oinonen R, Elonen E, Franssila K, Teerenhovi L, Joensuu H and Knuutila
+  S.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9559341
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 21, 4 (1998): 298-307.'
+label: 'Monni et al. (1998): Gain of 3q and Deletion of 11q22 Are Frequent Aberrations
+  in Mantle Cell Lymphoma.'
+notes: ~
+pmid: 9559341
+title: Gain of 3q and Deletion of 11q22 Are Frequent Aberrations in Mantle Cell Lymphoma.
+year: 1998

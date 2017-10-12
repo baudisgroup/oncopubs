@@ -1,0 +1,72 @@
+---
+abstract: Fusion kinases FK like BCR ABL1 mediate leukemic transformation and represent
+  therapeutic targets. Fusion of ETV6 ETS translocation variant 6, previously known
+  as TEL to ABL1 due to t 9 12 has been observed in various hematological malignancies.
+  ETV6 ABL1 and BCR ABL1 FK display similar activity but they may not be identical
+  in function. Here we present the generation of an ETV6 ABL1 positive human acute
+  lymphoblastic leukemia ALL cell line, ALL-VG. The cell line expressed ETV6 ABL1
+  fusion transcripts and displayed sensitivity to imatinib with an IC 50 of 0.1 microM.
+  Karyotyping did not reveal overt t 9 12 , suggesting a cryptic translocation. Fluorescent
+  in situ hybridization and array-based comparative genomic hybridization were performed
+  to characterize the rearrangement. ETV6 ABL1 fusion was demonstrated to result from
+  insertion of a duplicated 300 to 1300 kb region of 9q34 that contained the distal
+  portion of the ABL1 gene, into the ETV6 locus on 12p13. With this insertion, an
+  1150 to 1750 kb region of 12p13 that contained the distal portion of the ETV6 gene
+  as well the cyclin dependent kinase inhibitor CDKN 1B gene was lost. Furthermore,
+  the cells displayed a del 9 p21.1 approximately p23 , typically associated with
+  loss of CDKN2A and CDKN2B. The ALL-VG cell line may serve as a tool for the study
+  of ETV6 ABL1.
+authors: Baeumler J, Szuhai K, Falkenburg JH, van Schie ML, Ottmann OG, and Nijmeijer
+  BA.
+cancertypes:
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+contact:
+  email: b.a.nijmeijer@lumc.nl
+  name: Bart A Nijmeijer
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18656692
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.68
+    - 50.12
+    type: Point
+  info:
+    city: Frankfurt am Main
+    continent: Europe
+    country: Germany
+    label: Frankfurt am Main, Germany, Europe
+    precision: city
+journal: Cancer Genet Cytogenet, 185(1) 2008, 37-42.
+label: 'Baeumler et al. (2008): Establishment and cytogenetic characterization of
+  a human acute lymphoblastic leukemia cell line ...'
+notes: ~
+pmid: 18656692
+title: Establishment and cytogenetic characterization of a human acute lymphoblastic
+  leukemia cell line (ALL-VG) with ETV6/ABL1 rearrangement.
+year: 2008

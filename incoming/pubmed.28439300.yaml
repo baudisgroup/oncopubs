@@ -26,8 +26,10 @@ abstract: Helicobacter pylori infection is associated with risk for chronic gast
 authors: Ogawa H, Iwamoto A, Tanahashi T, Okada R, Yamamoto K, Nishiumi S, Yoshida
   M, Azuma T.
 cancertypes:
-- term_id: seer:20050
-  term_label: Gum and Other Mouth
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: ~
   name: Jingzhou Hu

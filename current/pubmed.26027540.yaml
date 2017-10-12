@@ -1,0 +1,56 @@
+---
+abstract: Primary myelofibrosis (PMF) is a rare myeloproliferative stem cell disorder.
+  The genomic features in PMF are poorly understood. Characterization of genomic alternations
+  in PMF helps to determine their association with clinicopathologic features for
+  further therapeutic implications.  In this retrospective study, we investigated
+  genomic changes using array-based comparative genomic hybridization (aCGH) in 17
+  PMF patients with isolated del(13q) and confirmed our aCGH findings with quantitative
+  polymerase chain reaction (PCR) assay. We also compared the clinicopathologic features
+  of patients with del(13q) (nï¿½= 17) with those of patients with a normal karyotype
+  (NK) (nï¿½= 26).  Clinicopathologically, del(13q) PMF patients had significantly
+  higher blast counts (Pï¿½= .03) than did NK patients, who had significantly higher
+  marrow cellularity (Pï¿½= .02). The degree of bone marrow fibrosis of PMF-3 was
+  higher in the del(13q) group than in the NK group. Splenomegaly was present significantly
+  more often in the del(13q) PMF group than in the NK group (Pï¿½= .03). Genomically,
+  the Janus Kinase 2 V617F mutation was observed less often in del(13q) PMF patients
+  (Pï¿½= .07). The common deleted region in del(13q) was confined to 13q13-13q14.3
+  according to G-band karyotyping, demonstrating a minimal deleted region (MDR) of
+  15.323 Mb, identified using aCGH. The tumor suppressor genes, Retinoblastoma, Forkhead
+  box protein O1, and Succinyl -CoA ligase [ADP-forming] subunit beta in the MDR were
+  deleted, confirmed using real-time PCR to confirm our aCGH findings.  Accurate molecular
+  characterization of del(13q) in PMF using aCGH and quantitative PCR provided further
+  insight to define the MDR and analyze the genomic changes in del(13q) PMF patients.  Copyright
+  ï¿½ 2015 Elsevier Inc. All rights reserved.
+authors: Mehrotra M, Patel KP, Chen T, Miranda RN, Wang Y, Zuo Z, Muddasani R, Mishra
+  BM, Abraham R, Luthra R and Lu G
+cancertypes: []
+contact:
+  email: gglu@mdanderson.org
+  name: G Lu
+counts:
+  biosamples: 17
+  samples_acgh: 17
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26027540
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Clin Lymphoma Myeloma Leuk, 2015
+label: 'Mehrotra M et al. (2015): '
+notes: ~
+pmid: 26027540
+title: Genomic and Clinicopathologic Features of Primary Myelofibrosis With Isolated
+  13q Deletion.
+year: 2015

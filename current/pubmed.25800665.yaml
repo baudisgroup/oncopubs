@@ -1,0 +1,55 @@
+---
+abstract: Acquired aplastic anemia (aAA) is a nonmalignant disease caused by autoimmune
+  destruction of early hematopoietic cells. Clonal hematopoiesis is a late complication,
+  seen in 20-25% of older patients. We hypothesized that clonal hematopoiesis in aAA
+  is a more general phenomenon, which can arise early in disease, even in younger
+  patients. To evaluate clonal hematopoiesis in aAA, we used comparative whole exome
+  sequencing of paired bone marrow and skin samples in 22 patients. We found somatic
+  mutations in 16 patients (72.7%) with a median disease duration of 1ï¿½year; of
+  these, 12 (66.7%) were patients with pediatric-onset aAA. Fifty-eight mutations
+  in 51 unique genes were found primarily in pathways of immunity and transcriptional
+  regulation. Most frequently mutated was PIGA, with seven mutations. Only two mutations
+  were in genes recurrently mutated in myelodysplastic syndrome. Two patients had
+  oligoclonal loss of the HLA alleles, linking immune escape to clone emergence. Two
+  patients had activating mutations in key signaling pathways (STAT5B (p.N642H) and
+  CAMK2G (p.T306M)). Our results suggest that clonal hematopoiesis in aAA is common,
+  with two mechanisms emerging-immune escape and increased proliferation. Our findings
+  expand conceptual understanding of this nonneoplastic blood disorder. Future prospective
+  studies of clonal hematopoiesis in aAA will be critical for understanding outcomes
+  and for designing personalized treatment strategies.  Copyright ï¿½ 2015 Elsevier
+  Inc. All rights reserved.
+authors: Babushok DV, Perdigones N, Perin JC, Olson TS, Ye W, Roth JJ, Lind C, Cattier
+  C, Li Y, Hartung H, Paessler ME, Frank DM, Xie HM, Cross S, Cockroft JD, Podsakoff
+  GM, Monos D, Biegel JA, Mason PJ and Bessler M
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 22
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25800665
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Cancer Genet, 2015
+label: 'Babushok et al. (): Emergence of clonal hematopoiesis in the majority of patients
+  with acquired aplastic ...'
+notes: ~
+pmid: 25800665
+title: Emergence of clonal hematopoiesis in the majority of patients with acquired
+  aplastic anemia.
+year: 2015

@@ -1,0 +1,71 @@
+---
+abstract: Medulloblastoma MB is one of the most aggressive pediatric brain tumor.
+  We report genome-wide pooled-analysis of classic MB variant of patients over 3 years
+  of age at diagnosis. We combined array comparative genomic hybridization aCGH results
+  from experimental analysis 31 cases with two public databases 55 cases in a final
+  evaluation of 86 MBs. The most common chromosome structural aberrations were gains
+  of 17q 45.3 , 1q 22.1 , and losses of 8p 15.1 , 10q 19.8 , 17p 37.2 , and 16q 16.3
+  . Isochromome 17q was observed in 29.1 MBs. A significant association between poor
+  patients survival and losses of 9q p amp lt 0.0023 , 10q p amp lt 0.012 , and 16q
+  p amp lt 0.036 was observed. Univariate analysis showed association of 9q loss p
+  amp lt 0.008 and 16q loss p  0.05 with adverse overall survival OS . Chromosome
+  6 monosomy was a protective event although statistically borderline p  0.066 . After
+  adjusting for confounding factors, a poor OS was found for patients whose tumor
+  has 9q loss hazard ratio HR  3.97 p amp lt 0.006 or 16q loss HR  2.41 p  0.038 .
+  Our results highlight the importance of genomic studies in different MB histological
+  variants and indicate a genotype-phenotype correlation.
+authors: Coco S, Valdora F, Bonassi S, Scaruffi P, Stigliani S, Oberthuer A, Berthold
+  F, Andolfo I, Servidei T, Riccardi R, Basso E, Iolascon A and Tonini GP.
+cancertypes:
+- samples_arraymap: 31
+  samples_progenetix: 31
+  term_id: ncit:C3222
+  term_label: Medulloblastoma
+- samples_arraymap: 31
+  samples_progenetix: 31
+  term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- samples_arraymap: 31
+  samples_progenetix: 31
+  term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- samples_arraymap: 31
+  samples_progenetix: 31
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 31
+  samples_progenetix: 31
+  term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+contact:
+  email: ~
+  name: Gian Paolo Tonini
+counts:
+  biosamples: 31
+  samples_acgh: 31
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21348762
+- geo:GSE23005
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: 'OMICS 15, 5 (2011): 273-80.'
+label: 'Coco et al. (2011): Chromosome 9q and 16q Loss Identified By Genome-Wide Pooled-Analysis
+  Are Associated With Tumor ...'
+notes: ~
+pmid: 21348762
+title: Chromosome 9q and 16q Loss Identified By Genome-Wide Pooled-Analysis Are Associated
+  With Tumor Aggressiveness in Patients With Classic Medulloblastoma.
+year: 2011

@@ -1,0 +1,82 @@
+---
+abstract: 'BACKGROUND: Osteosarcomas are the most common non-haematological primary
+  malignant tumours of bone, and all conventional osteosarcomas are high-grade tumours
+  showing complex genomic aberrations. We have integrated genome-wide genetic and
+  epigenetic profiles from the EuroBoNeT panel of 19 human osteosarcoma cell lines
+  based on microarray technologies. PRINCIPAL FINDINGS: The cell lines showed complex
+  patterns of DNA copy number changes, where genomic copy number gains were significantly
+  associated with gene-rich regions and losses with gene-poor regions. By integrating
+  the datasets, 350 genes were identified as having two types of aberrations gain
+  over-expression, hypo-methylation over-expression, loss under-expression or hyper-methylation
+  under-expression using a recurrence threshold of 6 19 30 cell lines. The genes showed
+  in general alterations in either DNA copy number or DNA methylation, both within
+  individual samples and across the sample panel. These 350 genes are involved in
+  embryonic skeletal system development and morphogenesis, as well as remodelling
+  of extracellular matrix. The aberrations of three selected genes, CXCL5, DLX5 and
+  RUNX2, were validated in five cell lines and five tumour samples using PCR techniques.
+  Several genes were hyper-methylated and under-expressed compared to normal osteoblasts,
+  and expression could be reactivated by demethylation using 5-Aza-2-deoxycytidine
+  treatment for four genes tested AKAP12, CXCL5, EFEMP1 and IL11RA. Globally, there
+  was as expected a significant positive association between gain and over-expression,
+  loss and under-expression as well as hyper-methylation and under-expression, but
+  gain was also associated with hyper-methylation and under-expression, suggesting
+  that hyper-methylation may oppose the effects of increased copy number for detrimental
+  genes. CONCLUSIONS: Integrative analysis of genome-wide genetic and epigenetic alterations
+  identified dependencies and relationships between DNA copy number, DNA methylation
+  and mRNA expression in osteosarcomas, contributing to better understanding of osteosarcoma
+  biology.'
+authors: Kresse SH, Rydbeck H, Skarn M, Namlos HM, Barragan-Polania AH, Cleton-Jansen
+  AM, Serra M, Liestol K, Hogendoorn PC, Hovig E, Myklebost O and Meza-Zepeda LA.
+cancertypes:
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: ncit:C9145
+  term_label: Osteosarcoma
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:icdom:9180_3
+  term_label: Osteosarcoma, NOS
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: snmi:M-91803
+  term_label: Osteosarcoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23144859
+- geo:GSE36003
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'PLoS One (2012) 7: e48262.'
+label: 'Kresse et al. (2012): Integrative analysis reveals relationships of genetic
+  and epigenetic alterations in ...'
+notes: ~
+pmid: 23144859
+title: Integrative analysis reveals relationships of genetic and epigenetic alterations
+  in osteosarcoma.
+year: 2012

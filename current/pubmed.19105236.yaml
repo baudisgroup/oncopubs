@@ -1,0 +1,57 @@
+---
+abstract: Low-grade noninvasive papillary bladder tumors are genetically stable whereas
+  muscle invasive bladder tumors display high levels of chromosomal aberrations. As
+  cells deficient for nonhomologous end-joining NHEJ pathway components display increased
+  genomic instability, we sought to determine the NHEJ repair characteristics of bladder
+  tumors and correlate this with tumor stage and grade. A panel of 13 human bladder
+  tumors of defined stage and grade were investigated for chromosomal aberrations
+  by comparative genomic hybridization and for NHEJ repair fidelity and function.
+  Repair assays were conducted with extracts made directly from bladder tumor specimens
+  to avoid culture-induced phenotypic alterations and selection bias as only a minority
+  of bladder tumors grow in culture. Four noninvasive bladder tumors pTaG2 , which
+  were genetically stable, repaired a partially incompatible double-strand break DSB
+  by NHEJ-dependent annealing of termini and fill-in of overhangs with minimal loss
+  of nucleotides. In contrast, four muscle invasive bladder cancers pT2-3G3 , which
+  displayed gross chromosomal rearrangements, repaired DSBs in an error-prone manner
+  involving extensive resection and microhomology association. Four minimally invasive
+  bladder cancers pT1G3 had characteristics of both repair types. Error-prone repair
+  in bladder tumors correlated with reduced KU DNA-binding and loss of TP53 function.
+  In conclusion, there were distinct differences in DSB repair between noninvasive
+  papillary tumors and higher stage grade invasive cancers. End-joining fidelity correlated
+  with stage and was increasingly error-prone as tumors became more invasive and KU
+  binding activity reduced these changes may underlie the different genomic profiles
+  of these tumors.
+authors: Bentley J, LHote C, Platt F, Hurst CD, Lowery J, Taylor C, Sak SC, Harnden
+  P, Knowles MA and Kiltie AE.
+cancertypes: []
+contact:
+  email: j.bentley@leeds.ac.uk
+  name: Johanne Bentley
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19105236
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 53.8
+    type: Point
+  info:
+    city: Leeds
+    continent: Europe
+    country: United Kingdom
+    label: Leeds, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 48, 4 (2009): 310-21.'
+label: 'Bentley et al. (2009): Papillary and Muscle Invasive Bladder Tumors With Distinct
+  Genomic Stability Profiles Have ...'
+notes: ~
+pmid: 19105236
+title: Papillary and Muscle Invasive Bladder Tumors With Distinct Genomic Stability
+  Profiles Have Different DNA Repair Fidelity and Ku DNA-Binding Activities.
+year: 2009

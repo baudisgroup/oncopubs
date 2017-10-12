@@ -1,0 +1,67 @@
+---
+abstract: MET amplification activates ERBB3 PI3K AKT signaling in EGFR mutant lung
+  cancers and causes resistance to EGFR kinase inhibitors. We demonstrate that MET
+  activation by its ligand, HGF, also induces drug resistance, but through GAB1 signaling.
+  Using high-throughput FISH analyses in both cell lines and in patients with lung
+  cancer, we identify subpopulations of cells with MET amplification prior to drug
+  exposure. Surprisingly, HGF accelerates the development of MET amplification both
+  in vitro and in vivo. EGFR kinase inhibitor resistance, due to either MET amplification
+  or autocrine HGF production, was cured in vivo by combined EGFR and MET inhibition.
+  These findings highlight the potential to prospectively identify treatment naive,
+  patients with EGFR-mutant lung cancer who will benefit from initial combination
+  therapy.
+authors: Turke AB, Zejnullahu K, Wu YL, Song Y, Dias-Santagata D, Lifshits E, Toschi
+  L, Rogers A, Mok T, Sequist L, Lindeman NI, Murphy C, Akhavanfard S, Yeap BY, Xiao
+  Y, Capelletti M, Iafrate AJ, Lee C, Christensen JG, Engelman JA and Janne PA.
+cancertypes:
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: ncit:C2926
+  term_label: Non-Small Cell Lung Carcinoma
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: pgx:icdom:8046_3
+  term_label: Non-small cell carcinoma
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- samples_arraymap: 12
+  samples_progenetix: ~
+  term_id: snmi:M-80463
+  term_label: Non-small cell carcinoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20129249
+- geo:GSE18797
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Cell (2010) 17: 77-88.'
+label: 'Turke et al. (2010): Preexistence and clonal selection of MET amplification
+  in EGFR mutant NSCLC.'
+notes: ~
+pmid: 20129249
+title: Preexistence and clonal selection of MET amplification in EGFR mutant NSCLC.
+year: 2010

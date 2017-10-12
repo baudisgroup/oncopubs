@@ -1,0 +1,48 @@
+---
+abstract: Our previous studies revealed that pregnancy associated breast cancer PABC
+  had significantly reduced nuclear p63 expression in myoepithelia, while intense
+  cytoplasmic p63 expression in associated epithelia. Our current study assessed these
+  epithelia using immunohistochemistry with a panel of aggressiveness and invasiveness
+  related markers and comparative genomic hybridization array-CGH with over 30,000
+  DNA probes. These epithelia showed several unique alterations, including 1 immunohistochemical
+  and morphological resemblance to invasive cancer, 2 significant gain in copy numbers
+  of DNA coding genes for morphogenesis, angiogenesis, and metastasis, and 3 significant
+  loss in copy numbers of DNA coding genes for tumor suppressors, cell adhesion, and
+  macromolecular complex assembly or intra-cellular trafficking. Detected array-CGH
+  alterations correlated well with in vivo expression of a number of corresponding
+  proteins tested. These findings suggest that aberrant sub-cellular localization
+  of p63 expression in normal or hyperplastic appearing epithelial cells may significant
+  contribute to increased invasiveness and aggressiveness of these cells.
+authors: Hsiao YH, Su YA, Tsai HD, Mason JT, Chou MC and Man YG.
+cancertypes: []
+contact:
+  email: graduate@csmu.edu.tw
+  name: Ming-Chih Chou
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20714441
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Int J Biol Sci 6, 5 (2010): 428-42.'
+label: 'Hsiao et al. (2010): Increased Invasiveness and Aggressiveness in Breast Epithelia
+  With Cytoplasmic P63 ...'
+notes: ~
+pmid: 20714441
+title: Increased Invasiveness and Aggressiveness in Breast Epithelia With Cytoplasmic
+  P63 Expression.
+year: 2010

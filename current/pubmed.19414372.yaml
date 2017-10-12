@@ -1,0 +1,69 @@
+---
+abstract: Malignant peripheral nerve sheath tumors MPNSTs develop in patients with
+  underlying NF1, and usually arise as a result of malignant transformation of a pre-existing
+  plexiform neurofibroma. The clonal cytogenetic abnormalities reported in primary
+  MPNST include complex karyotypes with chromosome numbers in the triploid or tetraploid
+  range with recurrent abnormalities of several chromosomes including losses or imbalances.
+  As a prelude to cell biological, pharmacological, and functional studies to investigate
+  pathways and gene s associated with multistep tumorigenesis, which includes progression,
+  metastasis and resistance to therapy in MPNST, detailed molecular cytogenetic and
+  genetic analyses of cell lines from primary, metastatic and recurrent MPNST with
+  underlying NF1 disorder have been performed. The clonal cytogenetic abnormalities
+  detected in the primary tumor cell line were similar to those observed in primary
+  cultures of this tumor. Due to the complexity of the rearrangements seen by G-banded
+  karyotype analysis, further characterization of the clonal abnormalities in these
+  three cell lines was performed by molecular cytogenetic techniques, including CGH
+  and SKY. CGH analysis detected recurrent deletions of 9p, 12q21-q32, complete losses
+  of the X-chromosome, and gains of the chromosomal segment 17q25 in all three cell
+  lines. SKY analysis detected extensive clonal abnormalities in these cell lines.
+  The nature and the alterations of the cell cycle regulators, particularly those
+  associated with G1-S checkpoints and known to be deregulated in MPNST, were studied.
+  These cell cycle regulators included those associated with Rb1-cyclin D1 and the
+  p53 pathways. The findings are consistent with the argument that an imbalance between
+  the cyclin activators of CDKs and inhibitory proteins such as p16 result in uncontrollable
+  proliferation in the cell lines, associated with progression of the disease. LOH
+  and expression of the p53 gene in metastatic and recurrent cell lines was observed,
+  as reported by others. The role of biallelic inactivation of p53 gene in MPNST with
+  underlying NF1 mutations, however, needs further study. Overexpression of Rb1-protein
+  observed in metastatic and recurrent cell lines is indicative of its role in the
+  progression of the disease. One of the most important observations of this study
+  is that Nm23-H1 expression is closely associated with advanced or metastatic disease.
+  In summary, MPNST cell lines derived from a patient with metastatic and recurrent
+  disease with NF1 disorder were characterized and a gene associated with metastatic
+  potential which is amenable to therapeutic and chemo-preventative approaches was
+  identified. These cell lines with extensive characterization of genetic abnormalities
+  are likely to provide important reagents for biochemical, molecular and pharmacological
+  studies related to MPNST.
+authors: Fang Y, Elahi A, Denley RC, Rao PH, Brennan MF and Jhanwar SC.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19414372
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Anticancer Res 29, 4 (2009): 1255-62.'
+label: 'Fang et al. (2009): Molecular Characterization of Permanent Cell Lines From
+  Primary, Metastatic and Recurrent Malignant ...'
+notes: ~
+pmid: 19414372
+title: Molecular Characterization of Permanent Cell Lines From Primary, Metastatic
+  and Recurrent Malignant Peripheral Nerve Sheath Tumors (Mpnst) With Underlying Neurofibromatosis-1.
+year: 2009

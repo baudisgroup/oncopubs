@@ -1,0 +1,55 @@
+---
+abstract: The expression of apurinic apyrimidinic exonuclease 1 APEX1 in tumors has
+  been linked with chemoresistance, radioresistance, and shorter patient survival
+  times. We sought to gain insight into the role of APEX1 in human osteosarcoma by
+  evaluation of gene copy number alterations and its protein expression in osteosarcoma
+  patients treated at the Sarcoma Center of Tianjin Cancer Hospital Tianjin, China
+  . To evaluate the gene copy number alterations of APEX1, we acquired 10 fresh tissue
+  samples from 9 patients and performed whole-genome array-based comparative genomic
+  hybridization aCGH . We next acquired formalin-fixed and paraffin embedded tissues
+  from 57 well-annotated osteosarcoma cases and performed immunohistochemical analyses
+  for APEX1. APEX1 gene amplification was observed in 50 5 10 of the osteosarcoma
+  samples. The overexpression of APEX1 protein was detected in 64.9 37 57 of the osteosarcomas
+  ranging from negative 35.1 , 20 57 , weakly positive 35.1 , 20 57 , moderate 14
+  , 8 57 and strongly positive 15.8 , 9 57 . The APEX1 expression had significant
+  correlation with osteosarcoma local recurrence and or metastasis. Moreover, multivariate
+  analysis showed that APEX1 expression was an independent molecular predictor for
+  disease-free survival of patients with osteosarcomas. Our study for the first time
+  showed that APEX1 gene was amplified in osteosarcomas and that APEX1 expression
+  was an independent predictor of the osteosarcoma local recurrence and or metastasis.
+  Thus, APEX1 may serve as a prognostic marker and potential therapeutic target for
+  osteosarcoma.
+authors: Yang J, Yang D, Cogdell D, Du X, Li H, Pang Y, Sun Y, Hu L, Sun B, Trent
+  J, Chen K and Zhang W.
+cancertypes: []
+contact:
+  email: wzhang@mdanderson.org
+  name: Wei Zhang
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20218738
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.69
+    - 34.01
+    type: Point
+  info:
+    city: Chino
+    continent: North America
+    country: United States
+    label: Chino, United States, North America
+    precision: city
+journal: 'Technol Cancer Res Treat 9, 2 (2010): 161-69.'
+label: 'Yang et al. (2010): Apex1 Gene Amplification and Its Protein Overexpression
+  in Osteosarcoma: Correlation With ...'
+notes: ~
+pmid: 20218738
+title: 'Apex1 Gene Amplification and Its Protein Overexpression in Osteosarcoma: Correlation
+  With Recurrence, Metastasis, and Survival.'
+year: 2010

@@ -1,0 +1,59 @@
+---
+abstract: Acute myelomonocytic leukemia with eosinophilia is commonly associated with
+  pericentric inversions of chromosome 16, involving the core binding factor beta
+  gene CBFB on 16q22 and the myosin heavy chain gene MYH11 on 16p13. The inv 16 p13q22
+  results in a fusion gene comprising the 5CBFB gene and the 3MYH11 gene on the short
+  arm of chromosome 16. The fusion gene interferes with the normal transcription of
+  the CBFA CBFB heterodimer and disrupts myeloid differentiation. The inv 16 is associated
+  with a good prognosis. The inv 16 with deletion of the 3CBFB region of the gene
+  is a very rare occurrence. Although the number of cases is small, inv 16 with a
+  deleted 3CBFB seems to be associated with a poorer prognosis than that generally
+  associated with inv 16 . Our patient was a 30-year-old man with newly diagnosed
+  acute myeloid leukemia who was found to have a CBFB-MYH11 fusion by reverse transcriptase-polymerase
+  chain reaction. The high blast count and lack of differentiation were not typical
+  for this entity and suggested clonal progression. The initial karyotype by conventional
+  cytogenetic analysis, in all metaphases examined, was 46,XY,del 7 q32 ,del 16 q22
+  . Fluorescence in situ hybridization analysis with a dual-color, break-apart probe
+  corresponding to the CBFB gene locus Abbott, Des Plaines, IL showed a derivative
+  chromosome 16 resulting from an inversion of the CBFB gene with a deletion of the
+  3CBFB probe region. Oligonucleotide array comparative genetic hybridization analysis
+  was performed on this patients diagnostic bone marrow DNA referenced to a normal
+  male control DNA by using the DNAarray Heme Profile CombiMatrix Diagnostics, Irvine,
+  CA microarray. This analysis showed a 1.2 Mb loss of 16q22.1, which did not include
+  loss of the 3CBFB gene locus, but rather sequences distal to this locus. The DNAarray
+  Heme Profile results illustrate the importance of microarray in the correct identification
+  of abnormalities that will affect prognosis.
+authors: Dawson AJ, Bal S, McTavish B, Tomiuk M, Schroedter I, Ahsanuddin AN, Seftel
+  MD, Vallente R, Mai S, Cotter PD, Hovanes K, Gorre M and Gunn SR.
+cancertypes: []
+contact:
+  email: ~
+  name: Angelika Dawson
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21763633
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.15
+    - 49.88
+    type: Point
+  info:
+    city: Winnipeg
+    continent: North America
+    country: Canada
+    label: Winnipeg, Canada, North America
+    precision: city
+journal: 'Cancer Genet 204, 6 (2011): 344-47.'
+label: 'Dawson et al. (2011): Inversion and Deletion of 16q22 Defined By Array Cgh,
+  Fish, and Rt-Pcr in a Patient With ...'
+notes: ~
+pmid: 21763633
+title: Inversion and Deletion of 16q22 Defined By Array Cgh, Fish, and Rt-Pcr in a
+  Patient With Aml.
+year: 2011

@@ -1,0 +1,96 @@
+---
+abstract: 'To extend our understanding of potential stepwise genetic alterations that
+  may underlie tumor progression from low-grade astrocytomas to glioblastomas, histopathologic
+  and comparative genomic hybridization analyses were performed on tumor specimens
+  from 68 primary lesions, including 40 glioblastomas, 10 anaplastic and 18 low-grade
+  astrocytomas. The number of aberrations per case increased towards the higher grade
+  tumors grade II: 1.66 -1.49 grade III: 2.80 -1.68 grade IV: 3.02 -1.07 F 6.955,
+  p 0.002 . A gain of 7 7q was common and the most frequently seen aberration in low-grade
+  astrocytomas, whereas loss of 10q was the most frequently seen anomaly in anaplastic
+  astrocytomas and glioblastomas. Chromosome 7p amplification was only detected in
+  glioblastomas. Chromosome 10 10q deletion and combination of 1p, 19q and 17p deletions
+  were specific to high-grade astrocytic tumors. Sequences of chromosome 7 and 10
+  seem to have pivotal roles in the biology of human gliomas. The genomic copy deletions
+  of chromosomes 1p and 19q might provide an alternative mechanism in the genesis
+  of astrocytomas.'
+authors: Arslantas A, Artan S, Oner U, Muslumanoglu MH, Ozdemir M, Durmaz R, Arslantas
+  D, Vural M, Cosan E, and Atasoy MA.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- samples_arraymap: ~
+  samples_progenetix: 68
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: aali@ogu.edu.tr
+  name: Ali Arslantas
+counts:
+  biosamples: 68
+  samples_acgh: 0
+  samples_ccgh: 68
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17387387
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.52
+    - 39.78
+    type: Point
+  info:
+    city: Eskisehir
+    continent: Europe
+    country: Turkey
+    label: Eskisehir, Turkey, Europe
+    precision: city
+journal: Pathol Oncol Res, 13(1) 2007, 39-46.
+label: 'Arslantas et al. (2007): Genomic alterations in low-grade, anaplastic astrocytomas
+  and glioblastomas.'
+notes: ~
+pmid: 17387387
+title: Genomic alterations in low-grade, anaplastic astrocytomas and glioblastomas.
+year: 2007

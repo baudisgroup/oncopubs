@@ -1,0 +1,59 @@
+---
+abstract: Early genetic events in the development of high-grade serous ovarian cancer
+  HGSOC may define the molecular basis of the profound structural and numerical instability
+  of chromosomes in this disease. To discover candidate genetic changes we sequentially
+  passaged cells from a karyotypically normal hTERT immortalised human ovarian surface
+  epithelial line IOSE25 resulting in the spontaneous formation of colonies in soft
+  agar. Cell lines transformed ovarian surface epithelium 1 and 4 TOSE 1 and 4 established
+  from these colonies had an abnormal karyotype and altered morphology, but were not
+  tumourigenic in immunodeficient mice. TOSE cells showed loss of heterozygosity LOH
+  at TP53, increased nuclear p53 immunoreactivity and altered expression profile of
+  p53 target genes. The parental IOSE25 cells contained a missense, heterozygous R175H
+  mutation in TP53, whereas TOSE cells had LOH at the TP53 locus with a new R273H
+  mutation at the previous wild-type TP53 allele. Cytogenetic and array CGH analysis
+  of TOSE cells also revealed a focal genomic amplification of CXCR4, a chemokine
+  receptor commonly expressed by HGSOC cells. TOSE cells had increased functional
+  CXCR4 protein and its abrogation reduced epidermal growth factor receptor EGFR expression,
+  as well as colony size and number. The CXCR4 ligand, CXCL12, was epigenetically
+  silenced in TOSE cells and its forced expression increased TOSE colony size. TOSE
+  cells had other cytogenetic changes typical of those seen in HGSOC ovarian cancer
+  cell lines and biopsies. In addition, enrichment of CXCR4 pathway in expression
+  profiles from HGSOC correlated with enrichment of a mutated TP53 gene expression
+  signature and of EGFR pathway genes. Our data suggest that mutations in TP53 and
+  amplification of the CXCR4 gene locus may be early events in the development of
+  HGSOC, and associated with chromosomal instability.
+authors: Archibald KM, Kulbe H, Kwong J, Chakravarty P, Temple J, Chaplin T, Flak
+  MB, McNeish IA, Deen S, Brenton JD, Young BD and Balkwill F.
+cancertypes: []
+contact:
+  email: ~
+  name: Frances Balkwill
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22266861
+- geo:GSE25492
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Oncogene (2012)
+label: 'Archibald et al. (2012): Sequential Genetic Change At the Tp53 and Chemokine
+  Receptor Cxcr4 Locus During Transformation ...'
+notes: ~
+pmid: 22266861
+title: Sequential Genetic Change At the Tp53 and Chemokine Receptor Cxcr4 Locus During
+  Transformation of Human Ovarian Surface Epithelium.
+year: 2012

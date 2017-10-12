@@ -1,0 +1,105 @@
+---
+abstract: 'Biopsies routinely performed for the histopathological diagnosis of oral
+  epithelial lesions before treatment were screened for chromosomal imbalances by
+  comparative genomic hybridization. Comparative genomic hybridization was performed
+  on 12 oral premalignant lesions OPLs dysplasias and carcinomas in situ and 14 oral
+  squamous cell carcinomas OSCCs . Eight biopsies displayed areas of different histopathological
+  appearance, so that OPLs and OSCCs from the same patient were analyzed. To avoid
+  contamination with nonneoplastic cells, defined cell populations were isolated by
+  micromanipulation with a glass needle. Before comparative genomic hybridization
+  analysis, universal DNA amplification was performed using the DOP-polymerase chain
+  reaction protocol. In the 14 OSCCs examined, the average number of chromosomal imbalances
+  was significantly higher than in the 12 OPLs mean - SEM: 11.9 - 1.9 versus 3.2 -
+  1.2 P 0.003 . The DNA copy number changes identified in more than one OPL were gains
+  on 8q 3 of 12 and 16p 2 of 12 , as well as losses on 3p 5 of 12 5q 4 of 12 13q 3
+  of 12 and 4q, 8p, and 9p 2 of 12 each . In more than 30 of OSCCs, gains of chromosomal
+  material were identified on 20q 8 of 14 8q, 11q, 22q 7 of 14 each 3q, 15q, and 17p
+  6 of 14 each and 14q, 17q, and 20p 5 of 14 each , and losses were identified on
+  3p and 4q 9 of 14 each , 5q 7 of 14 , 13q 6 of 14 , and 2q and 9p 5 of 14 each .
+  These results were validated by positive and negative control comparative genomic
+  hybridization experiments and microsatellite analysis for the detection of allelic
+  loss. The vast majority of genomic alterations found in OPLs were again identified
+  in OSCCs from the same biopsy, supporting the hypothesis that multiple lesions in
+  the same patient are clonally related. In summary, we show that comprehensive information
+  on the genomic alterations in oral epithelial lesions can be obtained from small
+  biopsies. Such data may identify prognostic indicators that could eventually assist
+  in designing therapeutic strategies.'
+authors: Weber RG, Scheer M, Born IA, Joos S, Cobbers JM, Hofele C, Reifenberger G,
+  Zoller JE and Lichter P.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C27093
+  term_label: Stage 0 Squamous Cell Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:8070_1
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8070_2
+  term_label: Squamous cell carcinoma in situ, NOS
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-80701
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-80702
+  term_label: Squamous cell carcinoma in situ, NOS
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: weber.ruthild@mh-hannover.de
+  name: Ruthild G. Weber
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9665491
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Am J Pathol 153, 1 (1998): 295-303.'
+label: 'Weber et al. (1998): Recurrent Chromosomal Imbalances Detected in Biopsy Material
+  From Oral Premalignant and Malignant ...'
+notes: ~
+pmid: 9665491
+title: Recurrent Chromosomal Imbalances Detected in Biopsy Material From Oral Premalignant
+  and Malignant Lesions By Combined Tissue Microdissection, Universal DNA Amplification,
+  and Comparative Genomic Hybridization.
+year: 1998

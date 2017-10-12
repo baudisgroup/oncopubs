@@ -1,0 +1,66 @@
+---
+abstract: A case of acute myeloid leukemia M-3 with complex karyotypic aberrations
+  and double minute dmin chromosomes is presented. The patient had no history of prior
+  exposure to mutagenic or carcinogenic agents or of other malignancies. She died
+  from CNS involvement six weeks after the initial diagnosis. We used comparative
+  genomic hybridization to identify the amplified sequences presumed to represent
+  the dmin of the leukemic cells the tumor normal ratios indicated increased signal
+  intensity at 8q24. This localization prompted investigation by semi-quantitative
+  PCR that revealed amplification of the MYC oncogene. The extent of chromosome aberrations
+  and the oncogene amplification, both linked with poor prognosis, may relate to the
+  rapid course of this patients disease.
+authors: Mohamed AN, Macoska JA, Kallioniemi A, Kallioniemi OP, Waldman F, Ratanatharathorn
+  V and Wolman SR.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3182
+  term_label: Acute Promyelocytic Leukemia with PML-RARA
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9866_3
+  term_label: Acute promyelocytic leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-98663
+  term_label: Acute promyelocytic leukemia
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7509627
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.05
+    - 42.33
+    type: Point
+  info:
+    city: Detroit
+    continent: North America
+    country: United States
+    label: Detroit, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 8, 3 (1993): 185-89.'
+label: 'Mohamed et al. (1993): Extrachromosomal Gene Amplification in Acute Myeloid
+  Leukemia; Characterization By Metaphase ...'
+notes: ~
+pmid: 7509627
+title: Extrachromosomal Gene Amplification in Acute Myeloid Leukemia; Characterization
+  By Metaphase Analysis, Comparative Genomic Hybridization, and Semi-Quantitative
+  Pcr.
+year: 1993

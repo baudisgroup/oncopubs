@@ -1,0 +1,37 @@
+---
+abstract: Human tumors transplanted into immunodeficient mice xenografts are good
+  preclinical models, and it is important to identify possible systematic changes
+  during establishment and passaging in mice.
+authors: Kresse SH, Meza-Zepeda LA, Machado I, Llombart-Bosch A and Myklebost O.
+cancertypes: []
+contact:
+  email: ola.myklebost@biokjemi.uio.no
+  name: Ola Myklebost
+counts:
+  biosamples: 36
+  samples_acgh: 36
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21713766
+- arrayexpress:E-MEXP-2576
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Cancer 118, 2 (2012): 558-70.'
+label: 'Kresse et al. (2012): Preclinical Xenograft Models of Human Sarcoma Show Nonrandom
+  Loss of Aberrations.'
+notes: ~
+pmid: 21713766
+title: Preclinical Xenograft Models of Human Sarcoma Show Nonrandom Loss of Aberrations.
+year: 2012

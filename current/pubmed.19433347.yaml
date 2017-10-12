@@ -1,0 +1,46 @@
+---
+abstract: Richters transformation RT is the development of a high-grade lymphoma in
+  patients with B-cell chronic lymphocytic leukemia small lymphocytic lymphoma CLL
+  SLL . We report an extremely rare case with paraimmunoblastic transformation. A
+  78-year-old Taiwanese male had Rai stage 1 and Binet stage B CLL SLL involving skin,
+  peripheral blood PB , and bone marrow BM with paraimmunoblastic transformation in
+  the lymph node. Molecular genomic studies showed the same clonal origin of tumor
+  tissues at various locations with trisomy 12 and a deletion of chromosome 13q14.
+  Interestingly, there seemed to be no additional chromosomal aberrations in the transformed
+  nodal tissue, suggesting that the micro-environment rather than an additional genetic
+  lesion contributed to the transformation. The patient received chemotherapy and
+  was alive with disease after 33.5 months.
+authors: Chuang SS, Liao YL, Liou CP, Wiggins ML, Ye H, Du MQ, Isaacson PG and Chang
+  CC.
+cancertypes: []
+contact:
+  email: cmh5301@mail.chimei.org.tw
+  name: Shih-Sung Chuang
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19433347
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Pathol Res Pract 206, 4 (2010): 276-81.'
+label: 'Chuang et al. (2010): Chronic Lymphocytic Leukemia With Paraimmunoblastic
+  Transformation - With Comparative Genomic ...'
+notes: ~
+pmid: 19433347
+title: Chronic Lymphocytic Leukemia With Paraimmunoblastic Transformation - With Comparative
+  Genomic Hybridization and Review of the Literature.
+year: 2010

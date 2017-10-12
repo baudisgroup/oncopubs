@@ -1,0 +1,82 @@
+---
+abstract: Knowledge about the genetic lesions that occur in Burkitts lymphoma, besides
+  the pathognomonic IG-MYC translocations, is limited.
+authors: Scholtysik R, Kreuz M, Klapper W, Burkhardt B, Feller AC, Hummel M, Loeffler
+  M, Rosolowski M, Schwaenen C, Spang R, Stein H, Thorns C, Trumper L, Vater I, Wessendorf
+  S, Zenz T, Siebert R and Kuppers R.
+cancertypes:
+- samples_arraymap: 69
+  samples_progenetix: 39
+  term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 69
+  samples_progenetix: 39
+  term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- samples_arraymap: 68
+  samples_progenetix: 39
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 69
+  samples_progenetix: 39
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 69
+  samples_progenetix: 39
+  term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20823134
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: Europe
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: 'Haematologica 95, 12 (2010): 2047-55.'
+label: 'Scholtysik et al. (2010): Detection of Genomic Aberrations in Molecularly
+  Defined Burkitts Lymphoma By Array-Based, High ...'
+notes: ~
+pmid: 20823134
+title: Detection of Genomic Aberrations in Molecularly Defined Burkitts Lymphoma By
+  Array-Based, High Resolution, Single Nucleotide Polymorphism Analysis.
+year: 2010

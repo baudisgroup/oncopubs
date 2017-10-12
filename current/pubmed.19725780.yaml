@@ -1,0 +1,39 @@
+---
+abstract: Following exposure to radiation during the Chernobyl fallout tragedy, papillary
+  thyroid carcinoma PTC increased significantly in individuals who were children at
+  the time of the accident. We have used two high-throughput, whole genome platforms
+  to analyze radiation-induced PTCs from pediatric patients from the Chernobyl region.
+authors: Stein L, Rothschild J, Luce J, Cowell JK, Thomas G, Bogdanova TI, Tronko
+  MD and Hawthorn L.
+cancertypes: []
+contact:
+  email: lhawthorn@mcg.edu
+  name: Lesleyann Hawthorn
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19725780
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Thyroid 20, 5 (2010): 475-87.'
+label: 'Stein et al. (2010): Copy Number and Gene Expression Alterations in Radiation-Induced
+  Papillary Thyroid Carcinoma From ...'
+notes: ~
+pmid: 19725780
+title: Copy Number and Gene Expression Alterations in Radiation-Induced Papillary
+  Thyroid Carcinoma From Chernobyl Pediatric Patients.
+year: 2010

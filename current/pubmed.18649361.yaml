@@ -1,0 +1,76 @@
+---
+abstract: We tried to establish models that predict systemic recurrence in breast
+  cancer by selecting marker clones with DNA copy number alterations CNAs using an
+  array comparative genomic hybridization CGH . Array CGH containing 4,044 human bacterial
+  artificial chromosome clones was used to assess CNAs in 62 primary breast cancer
+  tissues from 31 patients with systemic recurrence within 5 years after surgery and
+  clinicopathologically well matched 31 patients who had no evidence of disease for
+  at least 5years. Fourteen significant clones 11 clones showing gain and 3 showing
+  loss were identified by systemic recurrence-free survival SRFS analysis and 23 significant
+  clones 17 clones showing gain and 6 showing loss identified by chi 2 test and FDR
+  test were selected as predictive markers of systemic breast cancer recurrence. The
+  significant CNAs were found in the chromosomal regions of 5p15.33, 11q13.3, 15q26.3,
+  17q25.3, 18q23 and 21q22.3 with gain and 9p12, 11q24.1 and 14q32.33 with loss. We
+  devised 2 prediction models for the systemic recurrence of breast cancer based on
+  the 14 clones and the 23 clones, respectively. The survivals of the patients were
+  significantly separated according to the scores from each model at the optimal cut
+  off values in SRFS and overall survival analysis. We found candidate clones and
+  genes of which CNAs were significantly associated with systemic recurrence of breast
+  cancer. The devised prediction models with these clones were effective at differentiating
+  the recurrence and nonrecurrence.
+authors: Hwang KT, Han W, Cho J, Lee JW, Ko E, Kim EK, Jung SY, Jeong EM, Bae JY,
+  Kang JJ, Yang SJ, Kim SW and Noh DY.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 62
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 62
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 62
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: ~
+  samples_progenetix: 62
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: ~
+  samples_progenetix: 62
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: dynoh@plaza.snu.ac.kr
+  name: Dong-Young Noh
+counts:
+  biosamples: 62
+  samples_acgh: 62
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18649361
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Int J Cancer 123, 8 (2008): 1807-15.'
+label: 'Hwang et al. (2008): Genomic Copy Number Alterations as Predictive Markers
+  of Systemic Recurrence in Breast ...'
+notes: Data has been deposited in GEO (GSE10128). Fpr inclusion into Progenetix, the
+  GEO data was converted using the aCGH2ProgenetiXML converter with fixed thresholds
+  and a 1Mb filter (due to some systematic noise).
+pmid: 18649361
+title: Genomic Copy Number Alterations as Predictive Markers of Systemic Recurrence
+  in Breast Cancer.
+year: 2008

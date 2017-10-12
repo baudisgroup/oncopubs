@@ -1,0 +1,63 @@
+---
+abstract: "Esophageal squamous cell carcinoma (ESCC) is one of the most lethal cancers
+  due to a high frequency of metastasis. However, little is known about the genomic
+  landscape of metastatic ESCC. To identify the genetic alterations that underlie
+  ESCC metastasis, whole-exome sequencing (WES) was performed for 41 primary tumors
+  and 15 lymph nodes (LNs) with metastatic ESCC. Eleven cases included matched primary
+  tumors, synchronous LN metastases and non-neoplastic mucosa. Approximately 50-76%
+  of the mutations identified in primary tumors appeared in the synchronous LN metastases.
+  Metastatic ESCC harbor frequent mutations of TP53, KMT2D, ZNF750, and IRF5. Importantly,
+  ZNF750 was recurrently mutated in metastatic ESCC. Combined analysis from current
+  and previous genomic ESCC studies indicated more frequent ZNF750 mutation occurred
+  in diagnosed cases with LN metastasis than those without metastasis (14% vs. 3.4%,
+  nâ\x80\x89=â\x80\x89629, pâ\x80\x89=â\x80\x891.78â\x80\x89Ã\x97â\x80\x8910-5) ).
+  The Cancer Genome Atlas (TCGA) data further showed that ZNF750 genetic alterations
+  were associated with early disease relapse. Previous ESCC studies demonstrated that
+  ZNF750 knockdown strongly promotes proliferation, migration and invasion. Collectively,
+  these results suggest a role for ZNF750 as a metastasis suppressor. TP53 is highly
+  mutated in ESCC and missense mutations are associated with poor overall survival,
+  independent of pathological stage, suggesting these missense mutations have important
+  functional impact for tumor progression, and are, thus, likely to be gain-of-function
+  (GOF) mutations. Additionally, mutations of epigenetic regulators, including KMT2D,
+  TET2 and KAT2A, and chromosomal 6p22 and 11q23 deletions of histone variants, important
+  for nucleosome assembly, were detected in 80% of LN metastases. Our study highlights
+  the important role of critical genetic events including ZNF750 mutations, TP53 putative
+  GOF mutations and nucleosome disorganization caused by genetic lesions seen with
+  ESCC metastasis."
+authors: Dai W, Ko JMY, Choi SSA, Yu Z, Ning L, Zheng H, Gopalan V, Chan KT, Lee NP,
+  Chan KW, Law SY, Lam AK, Lung ML.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: ~
+  name: Maria Li Lung
+counts:
+  biosamples: 56
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 56
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28608921
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: J. Pathol., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28608921
+title: Whole-exome sequencing reveals critical genes underlying metastasis in esophageal
+  squamous cell carcinoma.
+year: 2017

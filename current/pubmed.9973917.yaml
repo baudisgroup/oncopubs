@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: Su XY, Wong N, Cao Q, Yu LZ, Niu C, Wickham N, Johnson PJ, Chen Z, and Chen
+  SJ.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9973917
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Cancer Genet Cytogenet, 108(1) 1999, 6-12.
+label: 'Su et al. (1999): Chromosomal aberrations during progression of chronic myeloid
+  leukemia identified by cytogenetic and ...'
+notes: The data was previously published as 11601004.
+pmid: 9973917
+title: 'Chromosomal aberrations during progression of chronic myeloid leukemia identified
+  by cytogenetic and molecular cytogenetic tools: implication of 1q12-21.'
+year: 1999

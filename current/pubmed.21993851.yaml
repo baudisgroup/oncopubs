@@ -1,0 +1,37 @@
+---
+abstract: Gastric cancer is a leading cause of cancer-related mortality, and chemotherapeutic
+  options are currently limited. PIM1 kinase, an oncogene that promotes tumorigenesis
+  in several cancer types, might represent a novel therapeutic target in gastric cancer.
+authors: Yan B, Yau EX, Samanta S, Ong CW, Yong KJ, Ng LK, Bhattacharya B, Lim KH,
+  Soong R, Yeoh KG, Deng N, Tan P, Lam Y and Salto-Tellez M.
+cancertypes: []
+contact:
+  email: ~
+  name: Benedict Yan
+counts:
+  biosamples: 105
+  samples_acgh: 105
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21993851
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: Asia
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Gastric Cancer (2011)
+label: 'Yan et al. (2011): Clinical and Therapeutic Relevance of Pim1 Kinase in Gastric
+  Cancer.'
+notes: ~
+pmid: 21993851
+title: Clinical and Therapeutic Relevance of Pim1 Kinase in Gastric Cancer.
+year: 2011

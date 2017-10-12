@@ -1,0 +1,77 @@
+---
+abstract: Pediatric undifferentiated soft tissue sarcomas USTS are a diagnostically
+  challenging group of neoplasms. Recently, a subcategory of USTS with primitive round
+  cell morphology and a t 4 19 q35 q13 rearrangement has been defined. The present
+  study applied high-throughput array comparative genomic hybridization together with
+  spectral karyotyping, four-color fluorescence in situ hybridization FISH , and reverse
+  transcriptase-polymerase chain reaction RT-PCR to a series of three pediatric USTS.
+  Two of these had primitive round cell morphology with CD99 positivity the third
+  had a spindled and myxoid appearance. By genomic analyses, both primitive round
+  cell sarcomas had t 4 19 q35 q13 corrected rearrangements in addition to several
+  imbalances throughout the genome. Four-color FISH and in silico analyses of the
+  breakpoint region at 19q13 identified the potential involvement of the candidate
+  oncogene CIC. By RT-PCR, fusion transcripts involving CIC 19q13 and DUX4 4q35 were
+  confirmed to be present in both primitive round cell sarcomas, further defining
+  the breakpoints seen by genomic analysis. Described here are two tumors belonging
+  to the rare category of CIC-DUX4-positive primitive sarcomas, with detailed cytogenetic
+  and genomic information regarding this novel subclass of pediatric malignancy. Molecular
+  and cytogenetic techniques for the detection of the CIC-DUX4 fusion gene are described,
+  to aid in recognition and diagnosis.
+authors: Yoshimoto M, Graham C, Chilton-MacNeill S, Lee E, Shago M, Squire J, Zielenska
+  M and Somers GR.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C27096
+  term_label: ~
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C7059
+  term_label: Mesenchymal Cell Neoplasm
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: pgx:icdom:8805_3
+  term_label: Undifferentiated sarcoma
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: snmi:M-88053
+  term_label: Undifferentiated sarcoma
+contact:
+  email: gino.somers@sickkids.ca
+  name: Gino R Somers
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19837261
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.48
+    - 44.23
+    type: Point
+  info:
+    city: Kingston
+    continent: North America
+    country: Canada
+    label: Kingston, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 195, 1 (2009): 1-11.'
+label: 'Yoshimoto et al. (2009): Detailed Cytogenetic and Array Analysis of Pediatric
+  Primitive Sarcomas Reveals a Recurrent ...'
+notes: ~
+pmid: 19837261
+title: Detailed Cytogenetic and Array Analysis of Pediatric Primitive Sarcomas Reveals
+  a Recurrent Cic-Dux4 Fusion Gene Event.
+year: 2009

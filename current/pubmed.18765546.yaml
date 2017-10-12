@@ -1,0 +1,39 @@
+---
+abstract: Patients with stage IV neuroblastoma over the age of 500 days without MYCN
+  amplification have a survival rate of amp lt 30 and there are currently no reliable
+  means of predicting which of these patients will survive or succumb to the disease.
+  The goal of this study is to develop a DNA copy number-based prognostic profile
+  for these patients.
+authors: Bilke S, Chen QR, Wei JS and Khan J.
+cancertypes: []
+contact:
+  email: khanjav@mail.nih.gov
+  name: Javed Khan
+counts:
+  biosamples: 58
+  samples_acgh: 58
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18765546
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.2
+    - 39.14
+    type: Point
+  info:
+    city: Gaithersburg
+    continent: North America
+    country: United States
+    label: Gaithersburg, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 14, 17 (2008): 5540-47.'
+label: 'Bilke et al. (2008): Whole Chromosome Alterations Predict Survival in High-Risk
+  Neuroblastoma Without Mycn ...'
+notes: ~
+pmid: 18765546
+title: Whole Chromosome Alterations Predict Survival in High-Risk Neuroblastoma Without
+  Mycn Amplification.
+year: 2008

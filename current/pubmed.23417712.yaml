@@ -1,0 +1,59 @@
+---
+abstract: Recurrent mutations affecting the histone H3.3 residues Lys27 or indirectly
+  Lys36 are frequent drivers of pediatric high-grade gliomas over 30 of HGGs . To
+  identify additional driver mutations in HGGs, we investigated a cohort of 60 pediatric
+  HGGs using whole-exome sequencing WES and compared them to 543 exomes from non-cancer
+  control samples. We identified mutations in SETD2, a H3K36 trimethyltransferase,
+  in 15 of pediatric HGGs, a result that was genome-wide significant FDR 0.029 . Most
+  SETD2 alterations were truncating mutations. Sequencing the gene in this cohort
+  and another validation cohort 123 gliomas from all ages and grades showed SETD2
+  mutations to be specific to high-grade tumors affecting 15 of pediatric HGGs 11
+  73 and 8 of adult HGGs 5 65 while no SETD2 mutations were identified in low-grade
+  diffuse gliomas 0 45 . Furthermore, SETD2 mutations were mutually exclusive with
+  H3F3A mutations in HGGs P 0.0492 while they partly overlapped with IDH1 mutations
+  4 14 , and SETD2-mutant tumors were found exclusively in the cerebral hemispheres
+  P 0.0055 . SETD2 is the only H3K36 trimethyltransferase in humans, and SETD2-mutant
+  tumors showed a substantial decrease in H3K36me3 levels P lt 0.001 , indicating
+  that the mutations are loss-of-function. These data suggest that loss-of-function
+  SETD2 mutations occur in older children and young adults and are specific to HGG
+  of the cerebral cortex, similar to the H3.3 G34R V and IDH mutations. Taken together,
+  our results suggest that mutations disrupting the histone code at H3K36, including
+  H3.3 G34R V, IDH1 and or SETD2 mutations, are central to the genesis of hemispheric
+  HGGs in older children and young adults.
+authors: Fontebasso AM, Schwartzentruber J, Khuong-Quang D-A, Liu X-Y, Sturm D, Korshunov
+  A, Jones DTW, Witt H, Kool M, Albrecht S, Fleming A, Hadjadj D, Busche S, Lepage
+  P, Montpetit A, Staffa A, Gerges N, Zakrzewska M, Zakrzewski K, Liberski PP, Hauser
+  P, Garami M, Klekner A, Bogn  r L, Zadeh G, Faury D, Pfister SM, Jabado N and Majewski
+  J.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 60
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 60
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23417712
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: North America
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: 'Acta Neuropathologica (2013) 125: 659-669.'
+label: 'Fontebasso et al. (2013): Mutations in SETD2 and genes affecting histone H3K36
+  methylation target hemispheric high-grade ...'
+notes: ~
+pmid: 23417712
+title: Mutations in SETD2 and genes affecting histone H3K36 methylation target hemispheric
+  high-grade gliomas.
+year: 2013

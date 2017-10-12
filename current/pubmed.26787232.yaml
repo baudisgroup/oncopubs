@@ -1,0 +1,53 @@
+---
+abstract: 'whole genome sequencing studies have recently shown that osteosarcomas
+  display high rates of structural variation i.e. they contain many somatic mutations
+  and copy number alterations. TP53 and RB1 show recurrent somatic alterations in
+  concordant studies, suggesting that they could be key players in bone oncogenesis.  we
+  carried out whole genome sequencing of DNA from 7 high-grade osteosarcoma samples
+  matched with normal tissue from the same patients.  we confirmed the presence of
+  genetic alterations of the TP53 (including novel unreported mutations) and RB1 genes.
+  Most interestingly, we identified a total of 84 point mutations and 4 deletions
+  related to 82 different genes in osteosarcoma samples, of which only 15 have been
+  previously reported. Interestingly, the number of mutated genes (ranging from 4
+  to 8) was lower in TP53mut cases compared with TP53wt cases (ranging from 14 to
+  45). This was also true for the mutated RB1 case. We also observed that a dedifferentiated
+  osteosarcoma harbouring MDM2 amplification did not carry any other mutations.  This
+  study suggests that bone oncogenesis driven by TP53 or RB1 mutations occurs on a
+  background of relative genetic stability and that the dedifferentiated osteosarcoma
+  subtype represents a clinico-pathological entity with distinct oncogenic mechanisms
+  and thus requires different therapeutic management.  ï¿½ The Author 2016. Published
+  by Oxford University Press on behalf of the European Society for Medical Oncology.
+  All rights reserved. For permissions, please email: journals.permissions@oup.com.'
+authors: Bousquet M, Noirot C, Accadbled F, Sales de Gauzy J, Castex MP, Brousset
+  P and Gomez-Brouchet A
+cancertypes: []
+contact:
+  email: Brousset.p@chu-toulouse.fr
+  name: Prof Pierre Brousset
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 7
+external_identifiers:
+- pubmed:26787232
+geo_data:
+  geo_json:
+    coordinates:
+    - 1.44
+    - 43.6
+    type: Point
+  info:
+    city: Toulouse
+    continent: Europe
+    country: France
+    label: Toulouse, France, Europe
+    precision: city
+journal: Ann. Oncol., 2016
+label: 'Bousquet M et al. (2016): '
+notes: ~
+pmid: 26787232
+title: Whole exome sequencing in osteosarcoma reveals important heterogeneity of genetic
+  alterations.
+year: 2016

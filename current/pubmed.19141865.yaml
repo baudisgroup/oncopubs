@@ -1,0 +1,69 @@
+---
+abstract: Acquired homozygosity in the form of segmental acquired uniparental disomy
+  aUPD has been described in follicular lymphoma FL and is usually due to mitotic
+  recombination. SNP array analysis was performed with the use of the Affymetrix 10K
+  2.0 Gene-chip array on DNA from 185 diagnostic FL patients to assess the prognostic
+  relevance of aUPD. Genetic abnormalities were detected in 118 65 of 182 patients.
+  Number of abnormalities was predictive of outcome more than 3 abnormalities was
+  associated with inferior overall survival OS P amp lt .03 . Sites of recurrent aUPD
+  were detected on 6p n 25 , 16p n 22 , 12q n 17 , 1p36 n 14 , 10q n 8 , and 6q n
+  8 . On multivariate analysis aUPD on 1p36 correlated with shorter OS P .05 . aUPD
+  on 16p was predictive of transformation P .03 and correlated with poorer progression-free
+  survival P .02 . aUPD is frequent at diagnosis of FL and affects probability of
+  disease transformation and clinical outcome.
+authors: OShea D, ORiain C, Gupta M, Waters R, Yang Y, Wrench D, Gribben J, Rosenwald
+  A, Ott G, Rimsza LM, Holte H, Cazier JB, Johnson NA, Campo E, Chan WC, Gascoyne
+  RD, Young BD, Staudt LM, Lister TA and Fitzgibbon J.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 165
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 165
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 165
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 165
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 165
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 185
+  samples_acgh: 185
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19141865
+- geo:GSE14582
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Blood 113, 10 (2009): 2298-301.'
+label: 'OShea et al. (2009): Regions of Acquired Uniparental Disomy At Diagnosis of
+  Follicular Lymphoma Are Associated With Both ...'
+notes: ~
+pmid: 19141865
+title: Regions of Acquired Uniparental Disomy At Diagnosis of Follicular Lymphoma
+  Are Associated With Both Overall Survival and Risk of Transformation.
+year: 2009

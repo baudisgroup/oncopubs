@@ -1,0 +1,55 @@
+---
+abstract: Telomerase is a specialized cellular reverse transcriptase that adds telomeric
+  repeats TTAGGG at the ends of each chromosome. Nearly the complete spectrum of human
+  cancers has been shown to be telomerase positive. The understanding of the telomerase
+  regulation in concert with other genetic alterations in the process of malignant
+  transformation of human cells has important clinical and practical implications.
+  Regulation of telomerase activity TA is highly complex, and both putative positive
+  and negative regulators have been reported. However, the mechanisms involved in
+  telomerase regulation are not fully established. Identification of additional telomerase
+  components and associated proteins will certainly contribute to further investigations
+  of the effect of telomerase in telomere elongation, telomere length maintenance,
+  oncogenesis, and functionally new, unidentified cellular functions. In this study
+  our aim was to determine the chromosomal localizations of putative unidentified
+  telomerase activator s and or repressor s by high resolution-comparative genomic
+  hybridization HR-CGH in highly telomerase expressing gastric tumor samples. For
+  this purpose TAs and genomic imbalances were identified in the same tumor samples
+  and relation between these was evaluated. Genomic changes affecting telomerase activity
+  in 50 gastric tumor samples were investigated by HR-CGH. We have found that genomic
+  imbalances including 1q , 8p , 8q , 10q , 17p-, and 20p are associated with the
+  higher telomerase activity. Our results suggest that 1q24, 8p21-p11.2, 8q21.1-q23,
+  10q21-qter and 20pter-p11.2 may contain putative telomerase activator s , whereas
+  the 17p12 region may harbor candidate telomerase suppressor s .
+authors: Gumus-Akay G, Elhan AH, Unal AE, Demirkazik A, Sunguroglu A and Tukun A.
+cancertypes: []
+contact:
+  email: ~
+  name: Ajlan Tukun
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 50
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19725225
+geo_data:
+  geo_json:
+    coordinates:
+    - -91.15
+    - 38.7
+    type: Point
+  info:
+    city: Interlachen
+    continent: ~
+    country: United States
+    label: Interlachen, United States
+    precision: city [needs verification]
+journal: 'Oncol Res 17, 10 (2009): 455-62.'
+label: 'Gumus-Akay et al. (2009): Effects of Genomic Imbalances on Telomerase Activity
+  in Gastric Cancer: Clues to Telomerase ...'
+notes: ~
+pmid: 19725225
+title: 'Effects of Genomic Imbalances on Telomerase Activity in Gastric Cancer: Clues
+  to Telomerase Regulation.'
+year: 2009

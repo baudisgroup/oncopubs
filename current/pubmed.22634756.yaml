@@ -1,0 +1,53 @@
+---
+abstract: Hepatocellular carcinoma HCC is the third leading cause of cancer-related
+  death worldwide. We sequenced and analyzed the whole genomes of 27 HCCs, 25 of which
+  were associated with hepatitis B or C virus infections, including two sets of multicentric
+  tumors. Although no common somatic mutations were identified in the multicentric
+  tumor pairs, their whole-genome substitution patterns were similar, suggesting that
+  these tumors developed from independent mutations, although their shared etiological
+  backgrounds may have strongly influenced their somatic mutation patterns. Statistical
+  and functional analyses yielded a list of recurrently mutated genes. Multiple chromatin
+  regulators, including ARID1A, ARID1B, ARID2, MLL and MLL3, were mutated in 50 of
+  the tumors. Hepatitis B virus genome integration in the TERT locus was frequently
+  observed in a high clonal proportion. Our whole-genome sequencing analysis of HCCs
+  identified the influence of etiological background on somatic mutation patterns
+  and subsequent carcinogenesis, as well as recurrent mutations in chromatin regulators
+  in HCCs.
+authors: Fujimoto A, Totoki Y, Abe T, Boroevich KA, Hosoda F, Nguyen HH, Aoki M, Hosono
+  N, Kubo M, Miya F, Arai Y, Takahashi H, Shirakihara T, Nagasaki M, Shibuya T, Nakano
+  K, Watanabe-Makino K, Tanaka H, Nakamura H, Kusuda J, Ojima H, Shimada K, Okusaka
+  T, Ueno M, Shigekawa Y, Kawakami Y, Arihiro K, Ohdan H, Gotoh K, Ishikawa O, Ariizumi
+  S-, Yamamoto M, Yamada T, Chayama K, Kosuge T, Yamaue H, Kamatani N, Miyano S, Nakagama
+  H, Nakamura Y, Tsunoda T, Shibata T and Nakagawa H.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 27
+external_identifiers:
+- pubmed:22634756
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.64
+    - 35.45
+    type: Point
+  info:
+    city: Yokohama
+    continent: Asia
+    country: Japan
+    label: Yokohama, Japan, Asia
+    precision: city
+journal: 'Nature genetics (2012) 44: 760-764.'
+label: 'Fujimoto et al. (2012): Whole-genome sequencing of liver cancers identifies
+  etiological influences on mutation patterns ...'
+notes: ~
+pmid: 22634756
+title: Whole-genome sequencing of liver cancers identifies etiological influences
+  on mutation patterns and recurrent mutations in chromatin regulators.
+year: 2012

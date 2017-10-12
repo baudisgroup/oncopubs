@@ -1,0 +1,76 @@
+---
+abstract: Germline mutations in BRCA1 and BRCA2 explain approximately 25 of all familial
+  breast cancers. Despite intense efforts to find additional high-risk breast cancer
+  genes BRCAx using linkage analysis, none have been reported thus far. Here we explore
+  the hypothesis that BRCAx breast tumors from genetically related patients share
+  a somatic genetic etiology that might be revealed by array comparative genomic hybridization
+  aCGH profiling. As BRCA1 and BRCA2 tumors can be identified on the basis of specific
+  genomic profiles, the same may be true for a subset of BRCAx families. Analyses
+  used aCGH to compare 58 non-BRCA1 2 familial breast tumors designated BRCAx to sporadic
+  non-familiar controls, BRCA1 and BRCA2 tumors. The selection criteria for BRCAx
+  families included at least three cases of breast cancer diagnosed before the age
+  of 60 in the family, and the absence of ovarian or male breast cancer. Hierarchical
+  cluster analysis was performed to determine sub-groups within the BRCAx tumor class
+  and family heterogeneity. Analysis of aCGH profiles of BRCAx tumors indicated that
+  they constitute a heterogeneous class, but are distinct from both sporadic and BRCA1
+  2 tumors. The BRCAx class could be divided into sub-groups. One subgroup was characterized
+  by a gain of chromosome 22. Tumors from family members were classified within the
+  same sub-group in agreement with the hypothesis that tumors from the same family
+  would harbor a similar genetic background. This approach provides a method to target
+  a sub-group of BRCAx families for further linkage analysis studies.
+authors: Didraga MA, van Beers EH, Joosse SA, Brandwijk KI, Oldenburg RA, Wessels
+  LF, Hogervorst FB, Ligtenberg MJ, Hoogerbrugge N, Verhoef S, Devilee P and Nederlof
+  PM.
+cancertypes:
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 106
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: nederlof@nki.nl
+  name: Petra Nederlof
+counts:
+  biosamples: 106
+  samples_acgh: 106
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21286804
+- geo:GSE18626
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Breast Cancer Res Treat 130, 2 (2011): 425-36.'
+label: 'Didraga et al. (2011): A Non-Brca1/2 Hereditary Breast Cancer Sub-Group Defined
+  By Acgh Profiling of Genetically Related ...'
+notes: ~
+pmid: 21286804
+title: A Non-Brca1/2 Hereditary Breast Cancer Sub-Group Defined By Acgh Profiling
+  of Genetically Related Patients.
+year: 2011

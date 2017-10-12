@@ -1,0 +1,48 @@
+---
+abstract: Comparative genomic hybridization CGH was recently developed as a tool to
+  survey entire genomes for variations in DNA sequence copy numbers. We have applied
+  this technique to detect and map amplified regions in 54 soft tissue sarcomas. Aberrations
+  were detected by visual analysis of hybridizations or contrast-enhanced digital
+  images, followed by quantitative digital ratio imaging of the aberrant chromosomes.
+  Several tumors showed increased DNA sequence copy number at 12q14, as expected.
+  However, CGH analysis detected amplification of 12q14 also in some tumors where
+  neither MDM2 nor CDK4 was amplified, suggesting that another as yet unknown gene
+  s may drive amplification of this region in sarcomas. Furthermore, a novel recurring
+  amplicon was detected at 1q21-q22. DNA amplifications coinciding with this segment
+  were as frequent as those observed for 12q14, indicating that 1q21-q22-linked gene
+  s may also play an important role in the development and or progression of human
+  soft tissue sarcomas.
+authors: Forus A, Weghuis DO, Smeets D, Fodstad O, Myklebost O and van Kessel AG.
+cancertypes: []
+contact:
+  email: anne.forus@labmed.uio.no
+  name: Anne Forus
+counts:
+  biosamples: 54
+  samples_acgh: 0
+  samples_ccgh: 54
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8527390
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 14, 1 (1995): 8-14.'
+label: 'Forus et al. (1995): Comparative Genomic Hybridization Analysis of Human Sarcomas:
+  I. Occurrence of Genomic Imbalances ...'
+notes: ~
+pmid: 8527390
+title: 'Comparative Genomic Hybridization Analysis of Human Sarcomas: I. Occurrence
+  of Genomic Imbalances and Identification of a Novel Major Amplicon At 1q21-Q22 in
+  Soft Tissue Sarcomas.'
+year: 1995

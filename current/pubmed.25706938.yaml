@@ -1,0 +1,49 @@
+---
+abstract: 'Adult acute lymphoblastic leukemia (ALL) is characterized by a high frequency
+  of abnormal karyotypes some of which are related to outcome. Single nucleotide polymorphism
+  (SNP) array analysis provides a highly sensitive platform to detect large and small
+  genomic aberrations. SNP array profiling data in adult ALL are limited and further
+  systematic studies of this patient group are needed. We performed a population-based
+  SNP array analysis of genomic aberrations and their influence on survival in 66
+  Lithuanian 18-65 year old ALL patients diagnosed between 2007 and 2013. Most aberrations
+  were detected in chromosome arm 9p, chromosome arm 6q, chromosome arm 13q, and chromosome
+  17. The recurrently targeted copy number abnormalities involved several leukemia-related
+  genes-CDKN2A/B, MLL, IKZF1, PAX5, RB1, TP53, and ETV6. We identified several new
+  recurrent aberrations with possible new target genes: SMARCA4 in 19p13.2, RNASEL
+  in 1q25.3, ARHGEF12 in 11q23.3, and LYL1 in 19p13.2. Aberrations in chromosome 13
+  and the RB1 gene as well as CDKN2A/B gene status were related to the outcome. ï¿½
+  2015 Wiley Periodicals, Inc.  ï¿½ 2015 Wiley Periodicals, Inc.'
+authors: Dirse V, Bertasiute A, Gineikiene E, Zvirblis T, Dambrauskiene R, Gerbutavicius
+  R, Juozaityte E, Malciute L, Paulsson K and Griskevicius L
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 66
+  samples_acgh: 66
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25706938
+geo_data:
+  geo_json:
+    coordinates:
+    - 25.28
+    - 54.69
+    type: Point
+  info:
+    city: Vilnius
+    continent: Europe
+    country: Lithunia
+    label: Vilnius, Lithunia, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 54(5), 2015
+label: 'Dirse et al. (): A population-based single nucleotide polymorphism array analysis
+  of genomic aberrations in younger ...'
+notes: ~
+pmid: 25706938
+title: A population-based single nucleotide polymorphism array analysis of genomic
+  aberrations in younger adult acute lymphoblastic leukemia patients.
+year: 2015

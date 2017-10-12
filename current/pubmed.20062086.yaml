@@ -1,0 +1,56 @@
+---
+abstract: Endometrial cancer is one of the tumor types in which either chromosomal
+  instability CIN or microsatellite instability MSI may occur. It is known to possess
+  mutations frequently in the Ras-PI3K phosphatidylinositol 3-kinase pathway. We performed
+  a comprehensive genomic survey in 31 endometrial carcinomas with paired DNA for
+  chromosomal imbalances 25 by the 50K and 6 by the 250K single-nucleotide polymorphism
+  SNP array , and screened 25 of the 31 samples for MSI status and mutational status
+  in the Ras-PI3K pathway genes. We detected five or more copy number changes classified
+  as CIN-extensive in 9 29 , 1 to 4 changes CIN-intermediate in 17 55 and no changes
+  CIN-negative in 5 16 tumors. Positive MSI was less common in CIN-extensive tumors
+  14 , compared with CIN-intermediate negative tumors 50 , and multivariate analysis
+  showed that CIN-extensive is an independent poor prognostic factor. SNP array analysis
+  unveiled copy number neutral LOH at 54 loci in 13 tumors 42 , including four at
+  the locus of PTEN. In addition to eight 26 tumors with PTEN deletions, we detected
+  chromosomal imbalances of NF1, K-Ras and PIK3CA in four 13 , four 13 and six 19
+  tumors, respectively. In all, 7 of the 9 CIN-extensive tumors harbor deletions in
+  the loci of PTEN and or NF1, whereas all the 10 MSI-positive tumors possess PTEN,
+  PIK3CA and or K-Ras mutations. Our results showed that genomic alterations in the
+  Ras-PI3K pathway are remarkably widespread in endometrial carcinomas, regardless
+  of the type of genomic instability, and suggest that the degree of CIN is a useful
+  biomarker for prognosis in endometrial carcinomas.
+authors: Murayama-Hosokawa S, Oda K, Nakagawa S, Ishikawa S, Yamamoto S, Shoji K,
+  Ikeda Y, Uehara Y, Fukayama M, McCormick F, Yano T, Taketani Y and Aburatani H.
+cancertypes: []
+contact:
+  email: haburata-tky@umin.ac.jp
+  name: Hiroyuki Aburatani
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20062086
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Oncogene 29, 13 (2010): 1897-908.'
+label: 'Murayama-Hosokawa et al. (2010): Genome-Wide Single-Nucleotide Polymorphism
+  Arrays in Endometrial Carcinomas Associate ...'
+notes: ~
+pmid: 20062086
+title: Genome-Wide Single-Nucleotide Polymorphism Arrays in Endometrial Carcinomas
+  Associate Extensive Chromosomal Instability With Poor Prognosis and Unveil Frequent
+  Chromosomal Imbalances Involved in the Pi3-Kinase Pathway.
+year: 2010

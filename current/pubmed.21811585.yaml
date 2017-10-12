@@ -1,0 +1,60 @@
+---
+abstract: Genomic copy number aberrations CNAs in gastric cancer have already been
+  extensively characterized by array comparative genomic hybridization array CGH analysis.
+  However, involvement of genomic CNAs in the process of submucosal invasion and lymph
+  node metastasis in early gastric cancer is still poorly understood. In this study,
+  to address this issue, we collected a total of 59 tumor samples from 27 patients
+  with submucosal-invasive gastric cancers SMGC , analyzed their genomic profiles
+  by array CGH, and compared them between paired samples of mucosal MU and submucosal
+  SM invasion 23 pairs , and SM invasion and lymph node LN metastasis 9 pairs . Initially,
+  we hypothesized that acquisition of specific CNA s is important for these processes.
+  However, we observed no significant difference in the number of genomic CNAs between
+  paired MU and SM, and between paired SM and LN. Furthermore, we were unable to find
+  any CNAs specifically associated with SM invasion or LN metastasis. Among the 23
+  cases analyzed, 15 had some similar pattern of genomic profiling between SM and
+  MU. Interestingly, 13 of the 15 cases also showed some differences in genomic profiles.
+  These results suggest that the majority of SMGCs are composed of heterogeneous subpopulations
+  derived from the same clonal origin. Comparison of genomic CNAs between SMGCs with
+  and without LN metastasis revealed that gain of 11q13, 11q14, 11q22, 14q32 and amplification
+  of 17q21 were more frequent in metastatic SMGCs, suggesting that these CNAs are
+  related to LN metastasis of early gastric cancer. In conclusion, our data suggest
+  that generation of genetically distinct subclones, rather than acquisition of specific
+  CNA at MU, is integral to the process of submucosal invasion, and that subclones
+  that acquire gain of 11q13, 11q14, 11q22, 14q32 or amplification of 17q21 are likely
+  to become metastatic.
+authors: Kuroda A, Tsukamoto Y, Nguyen LT, Noguchi T, Takeuchi I, Uchida M, Uchida
+  T, Hijiya N, Nakada C, Okimoto T, Kodama M, Murakami K, Matsuura K, Seto M, Ito
+  H, Fujioka T and Moriyama M.
+cancertypes: []
+contact:
+  email: ~
+  name: Yoshiyuki Tsukamoto
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21811585
+- geo:GSE26800
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: Asia
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: 'PLoS One 6, 7 (2011): e22313.'
+label: 'Kuroda et al. (2011): Genomic Profiling of Submucosal-Invasive Gastric Cancer
+  By Array-Based Comparative Genomic ...'
+notes: ~
+pmid: 21811585
+title: Genomic Profiling of Submucosal-Invasive Gastric Cancer By Array-Based Comparative
+  Genomic Hybridization.
+year: 2011

@@ -1,0 +1,72 @@
+---
+abstract: The PI3K pathway is frequently activated in cancer; therefore, considerable
+  effort is focused on identifying compounds that can inhibit specific pathway components,
+  particularly the hallmark oncogene PIK3CA. Although targeted inhibition of a cancer
+  survival gene holds significant promise, there are concerns that drug resistance
+  may emerge within the cancerous cells, thus limiting clinical efficacy. Using genetically
+  defined human mammary epithelial cells, we evolved resistance to the PI3K/mammalian
+  target of rapamycin (mTOR) inhibitor BEZ235, and by genome-wide copy number analyses,
+  we identified MYC and eIF4E amplification within the resistant cells. Importantly,
+  either MYC or eukaryotic translation initiation factor 4E (eIF4E) was required to
+  bypass pharmacological PI3K/mTOR inhibition in resistant cells. Furthermore, these
+  cells displayed elevated 5' cap-dependent protein translation. Collectively, these
+  findings suggest that analysis of drivers of protein translation could facilitate
+  the identification of cancer lesions that confer resistance to PI3K pathway-targeted
+  drugs.
+authors: Ilic N, Utermark T, Widlund HR, Roberts TM.
+cancertypes:
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:null
+  term_label: ~
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-null
+  term_label: ~
+contact:
+  email: nina_ilic@dfci.harvard.edu
+  name: Nina Ilic
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21876152
+- geo:GSE25170
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 108(37), 2011
+label: ' (2011): '
+notes: ~
+pmid: 21876152
+title: PI3K-targeted therapy can be evaded by gene amplification along the MYC-eukaryotic
+  translation initiation factor 4E (eIF4E) axis.
+year: 2011

@@ -1,0 +1,49 @@
+---
+abstract: 'HER3 activating mutations have been shown in preclinical models to be oncogenic
+  and ligand-independent, but to depend on kinase-active HER2.  Whole exome sequencing
+  of the primary HER2-negative breast cancer and its HER2-negative synchronous liver
+  metastasis from a 46-year-old female revealed the presence of an activating and
+  clonal HER3 G284R mutation.  HER2 dual blockade with trastuzumab and lapatinib as
+  third-line therapy led to complete metabolic response in 2 weeks and confirmed radiological
+  partial response after 8 weeks. Following the resection of the liver metastasis,
+  the patient remains disease-free 40 weeks after initiation of the HER2 dual blockade
+  therapy. Immunohistochemical analysis demonstrated a substantial reduction of phospho-rpS6
+  and phospho-AKT in the post-therapy biopsy of the liver metastasis.  This is the
+  first-in-man evidence that anti-HER2 therapies are likely effective in breast cancers
+  harboring HER3 activating mutations.  ï¿½ The Author 2015. Published by Oxford University
+  Press on behalf of the European Society for Medical Oncology. All rights reserved.
+  For permissions, please email: journals.permissions@oup.com.'
+authors: Bidard FC, Ng CK, Cottu P, Piscuoglio S, Escalup L, Sakr RA, Reyal F, Mariani
+  P, Lim R, Wang L, Norton L, Servois V, Sigal B, Vincent-Salomon A, Weigelt B, Pierga
+  JY and Reis-Filho JS
+cancertypes: []
+contact:
+  email: fcbidard@curie.fr
+  name: Francois-Clement Bidard
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25953157
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Ann. Oncol., 2015
+label: 'Bidard FC et al. (2015): '
+notes: ~
+pmid: 25953157
+title: Response to dual HER2 blockade in a patient with HER3-mutant metastatic breast
+  cancer.
+year: 2015

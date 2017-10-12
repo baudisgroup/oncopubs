@@ -1,0 +1,54 @@
+---
+abstract: Most Wilms tumors are of low stage, favorable histology, and have a high
+  likelihood of cure with current multimodal therapy. Despite this, there remains
+  a group of patients whose tumors recur for whom intensive salvage regimens result
+  in survival of only 50 . Fitting a Cox proportional hazards model to microarray-based
+  comparative genomic hybridization aCGH data on 68 Wilms tumor samples, we identified
+  a significant correlation between increased copy number at chromosome 15q26.3 insulin-like
+  growth factor I receptor IGFIR and tumor relapse adjusted P 0.014 . Wilms tumors
+  13 exhibited a low-level gain corresponding to three to four copies of the gene
+  by aCGH analysis, 9 of 10 of which exhibited high IGFIR mRNA levels. Although IGFIR
+  protein expression was restricted to the epithelial cells of fetal kidney and Wilms
+  tumors in most cases, 12 of tumors were also found to express IGFIR in the blastemal
+  compartment. Blastemal IGFIR protein expression was associated with an increased
+  copy number and a shorter relapse-free survival time P 0.027, log-rank test . In
+  addition to the membrane localization, IGFIR was localized to the perinuclear region
+  of the blastemal cells in 6 of Wilms tumors. These data provide evidence that an
+  increase in IGFIR gene copy number results in aberrant expression in the blastemal
+  compartment of some Wilms tumors and is associated with an adverse outcome in these
+  patients. These findings suggest the possibility of use of targeted agents in the
+  therapy of these children.
+authors: Natrajan R, Reis-Filho JS, Little SE, Messahel B, Brundler MA, Dome JS, Grundy
+  PE, Vujanic GM, Pritchard-Jones K and Jones C.
+cancertypes: []
+contact:
+  email: chris.jones@icr.ac.uk
+  name: Chris Jones
+counts:
+  biosamples: 68
+  samples_acgh: 0
+  samples_ccgh: 68
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17145858
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Cancer Res 66, 23 (2006): 11148-55.'
+label: 'Natrajan et al. (2006): Blastemal Expression of Type I Insulin-Like Growth
+  Factor Receptor in Wilms Tumors is Driven By ...'
+notes: Data was reported previously (PMID 16823893).
+pmid: 17145858
+title: Blastemal Expression of Type I Insulin-Like Growth Factor Receptor in Wilms
+  Tumors is Driven By Increased Copy Number and Correlates With Relapse.
+year: 2006

@@ -1,0 +1,75 @@
+---
+abstract: Splenic marginal zone B-cell lymphoma is characterized by high genetic heterogeneity,
+  and hepatitis C virus infection seems to be involved in a subset of patients. The
+  aims of the analysis were to identify potential genetic alterations related to hepatitis
+  C virus status, IgV H gene mutational status, and prognostic categories identified
+  in a multicenter study Blood 2006 107:4643 . Genome-wide array comparative genomic
+  hybridization at a 100-kilobase kb resolution was performed in 34 patients with
+  splenic marginal zone B-cell lymphoma, 12 of whom were hepatitis C virus positive.
+  Array-comparative genomic hybridization experiments revealed no copy number alterations
+  in 10 patients 4 were hepatitis C virus positive . A median of 5.6 and 3.8 copy
+  number alterations were detected in hepatitis C virus-positive and in hepatitis
+  C virus-negative patients, respectively. The most frequent copy number alterations
+  involved chromosomes 7 and 17 21 and 24 , respectively . Except for Xp gain P .01
+  , no differences in common alterations were found between hepatitis C virus-positive
+  and hepatitis C virus-negative cases. Unmutated status of the IgV H gene was related
+  to del 7q P .04 and dup 12q P .03 . The high-risk group identified according to
+  the new splenic marginal zone B-cell lymphoma prognostic score was associated with
+  del 7q P .01 and del 17p P .02 . Hepatitis C virus-positive splenic marginal zone
+  B-cell lymphoma patients have no specific chromosome alterations. Patients with
+  poor prognosis are characterized by distinctive imbalances.
+authors: Novara F, Arcaini L, Merli M, Passamonti F, Zibellini S, Rizzi S, Rattotti
+  S, Rumi E, Pascutto C, Vetro A, Astori C, Boveri E, Lucioni M, Paulli M, Zuffardi
+  O and Lazzarino M.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: ncit:C4663
+  term_label: Splenic Marginal Zone Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdom:9689_3
+  term_label: Splenic marginal zone B-cell lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdot:C42.2
+  term_label: Spleen
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: snmi:M-96893
+  term_label: Splenic marginal zone B-cell lymphoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 34
+  samples_acgh: 34
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19647853
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.16
+    - 45.19
+    type: Point
+  info:
+    city: Pavia
+    continent: Europe
+    country: Italy
+    label: Pavia, Italy, Europe
+    precision: city
+journal: 'Hum Pathol 40, 11 (2009): 1628-37.'
+label: 'Novara et al. (2009): High-Resolution Genome-Wide Array Comparative Genomic
+  Hybridization in Splenic Marginal Zone ...'
+notes: ~
+pmid: 19647853
+title: High-Resolution Genome-Wide Array Comparative Genomic Hybridization in Splenic
+  Marginal Zone B-Cell Lymphoma.
+year: 2009

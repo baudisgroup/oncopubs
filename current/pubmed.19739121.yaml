@@ -1,0 +1,41 @@
+---
+abstract: We first analyzed the genomic profile of cutaneous type adult T-cell leukemia/lymphoma
+  (ATLL) in an attempt to clarify its clinical and biological characteristics. Genomic
+  gains of 1p, 7q and 18q and loss of 13q were frequently detected. Gain of 1p36.33-32
+  or loss of 13q33.1-3 indicated poor prognosis. Among cases with generalized lesions,
+  erythema/papule or nodule/tumor cases showed a distinct genomic profile, indicating
+  that these 2 groups were biologically different and developed via different genetic
+  pathways. Furthermore, cases with generalized nodule/tumor lesions tended to progress
+  to aggressive ATLL.
+authors: Miyata T, Yonekura K, Utsunomiya A, Kanekura T, Nakamura S and Seto M
+cancertypes: []
+contact:
+  email: mseto@aichi-cc.jp
+  name: Masao Seto
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19739121
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: Int. J. Cancer 126(6), 2010
+label: 'Miyata T et al. (2010): '
+notes: ~
+pmid: 19739121
+title: Cutaneous type adult T-cell leukemia/lymphoma is a characteristic subtype and
+  includes erythema/papule and nodule/tumor subgroups.
+year: 2010

@@ -1,0 +1,77 @@
+---
+abstract: Tamoxifen has been a very effective treatment for breast cancer for several
+  decades, however, at the same time increases the risk of endometrial cancer, especially
+  after prolonged exposure. In addition, tamoxifen has been associated with a higher
+  proportion of unfavorable uterine tumor subtypes carcinosarcomas and serous adenocarcinomas
+  with worse survival. We investigated whether endometrial tumors, which developed
+  after prolonged tamoxifen treatment for breast cancer, are genetically different
+  from endometrial tumors without preceding tamoxifen exposure. Array CGH was used
+  on archival formalin-fixed paraffin embedded endometrial tumors to determine genomic
+  aberrations. We compared the genomic profiles of 52 endometrial tumors from breast
+  cancer patients after long-term amp gt or 2 years tamoxifen use endometrioid adenocarcinomas,
+  n 26 carcinosarcomas, n 14 and serous adenocarcinomas, n 12 with endometrial tumors
+  from unexposed breast cancer patients n 45 . Genomic profiles were correlated with
+  tamoxifen exposure, tumor subtypes, and histopathological characteristics of the
+  endometrial tumors. The common uterine corpus cancers of the endometrioid subtype
+  show few genomic aberrations. Tumors with many genomic aberrations were in general
+  ER-negative. In contrast, carcinosarcomas and serous adenocarcinomas showed many
+  aberrations however, they were indistinguishable from each other. Tumors that developed
+  after prolonged tamoxifen use did not show more or different aberrations than unexposed
+  tumors. This was true for all tumor subtypes. Thus, endometrial carcinomas that
+  develop after prolonged tamoxifen use cannot be distinguished from nonusers on basis
+  of their tumor genomic profile.
+authors: Fles R, Hoogendoorn WE, Platteel I, Scheerman CE, de Leeuw-Mantel G, Mourits
+  MJ, Hollema H, van Leeuwen FE, van Boven HH and Nederlof PM.
+cancertypes:
+- samples_arraymap: 97
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 97
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 97
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 97
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 97
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: nederlof@nki.nl
+  name: Petra Nederlof
+counts:
+  biosamples: 97
+  samples_acgh: 97
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20544844
+- geo:GSE16680
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 49, 8 (2010): 699-710.'
+label: 'Fles et al. (2010): Genomic Profile of Endometrial Tumors Depends on Morphological
+  Subtype, Not on Tamoxifen ...'
+notes: ~
+pmid: 20544844
+title: Genomic Profile of Endometrial Tumors Depends on Morphological Subtype, Not
+  on Tamoxifen Exposure.
+year: 2010

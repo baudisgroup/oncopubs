@@ -1,0 +1,63 @@
+---
+abstract: 'We analysed whole-genome sequences of 560 breast cancers to advance understanding
+  of the driver mutations conferring clonal advantage and the mutational processes
+  generating somatic mutations. We found that 93 protein-coding cancer genes carried
+  probable driver mutations. Some non-coding regions exhibited high mutation frequencies,
+  but most have distinctive structural features probably causing elevated mutation
+  rates and do not contain driver mutations. Mutational signature analysis was extended
+  to genome rearrangements and revealed twelve base substitution and six rearrangement
+  signatures. Three rearrangement signatures, characterized by tandem duplications
+  or deletions, appear associated with defective homologous-recombination-based DNA
+  repair: one with deficient BRCA1 function, another with deficient BRCA1 or BRCA2
+  function, the cause of the third is unknown. This analysis of all classes of somatic
+  mutation across exons, introns and intergenic regions highlights the repertoire
+  of cancer genes and mutational processes operating, and progresses towards a comprehensive
+  account of the somatic genetic basis of breast cancer.'
+authors: Nik-Zainal S, Davies H, Staaf J, Ramakrishna M, Glodzik D, Zou X, Martincorena
+  I, Alexandrov LB, Martin S, Wedge DC, Van Loo P, Ju YS, Smid M, Brinkman AB, Morganella
+  S, Aure MR, Lingjï¿½rde OC, Langerï¿½d A, Ringnï¿½r M, Ahn SM, Boyault S, Brock
+  JE, Broeks A, Butler A, Desmedt C, Dirix L, Dronov S, Fatima A, Foekens JA, Gerstung
+  M, Hooijer GK, Jang SJ, Jones DR, Kim HY, King TA, Krishnamurthy S, Lee HJ, Lee
+  JY, Li Y, McLaren S, Menzies A, Mustonen V, O'Meara S, Pauportï¿½ I, Pivot X, Purdie
+  CA, Raine K, Ramakrishnan K, Rodrï¿½guez-Gonzï¿½lez FG, Romieu G, Sieuwerts AM,
+  Simpson PT, Shepherd R, Stebbings L, Stefansson OA, Teague J, Tommasi S, Treilleux
+  I, Van den Eynden GG, Vermeulen P, Vincent-Salomon A, Yates L, Caldas C, Veer LV,
+  Tutt A, Knappskog S, Tan BK, Jonkers J, Borg ï¿½, Ueno NT, Sotiriou C, Viari A,
+  Futreal PA, Campbell PJ, Span PN, Van Laere S, Lakhani SR, Eyfjord JE, Thompson
+  AM, Birney E, Stunnenberg HG, van de Vijver MJ, Martens JW, Bï¿½rresen-Dale AL,
+  Richardson AL, Kong G, Thomas G and Stratton MR
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: mrs@sanger.ac.uk
+  name: Michael R Stratton
+counts:
+  biosamples: 560
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 560
+external_identifiers:
+- pubmed:27135926
+- ega.study:EGAS00001001178
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.18
+    - 52.08
+    type: Point
+  info:
+    city: hinxton
+    continent: ~
+    country: United Kingdom
+    label: hinxton, United Kingdom
+    precision: city [needs verification]
+journal: Nature, 2016
+label: 'Nik-Zainal S et al. (2016): '
+notes: part of the ICGC studies
+pmid: 27135926
+title: Landscape of somatic mutations in 560 breast cancer whole-genome sequences.
+year: 2016

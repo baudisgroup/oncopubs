@@ -1,0 +1,51 @@
+---
+abstract: Optimal animal models of muscle invasive bladder cancer (MIBC) are necessary
+  to overcome the current lack of novel targeted therapies for this malignancy. Here
+  we report on the establishment and characterization of patient-derived primary xenografts
+  (PDX). Patient tumors were grafted under the renal capsule of mice and subsequently
+  transplanted over multiple generations. Patient tumor and PDX were processed for
+  analysis of copy number variations by aCGH, gene expression by microarray, and expression
+  of target pathways by immunohistochemistry (IHC). One PDX harbouring an FGFR3 mutation
+  was treated with an inhibitory monoclonal antibody targeting FGFR3. Five PDX were
+  successfully established. Tumor doubling time ranged from 5 to 11 days. Array CGH
+  revealed shared chromosomal aberrations in the patient tumors and PDX. Gene expression
+  microarray and IHC confirmed that PDXs maintain similar patterns to the parental
+  tumors. Tumor growth in the PDX with an FGFR3 mutation was inhibited by the FGFR3
+  inhibitor. PDXs recapitulate the tumor biology of the patients' primary tumors from
+  which they are derived. Investigations related to tumor biology and drug testing
+  in these models are therefore more likely to be relevant to the disease state in
+  patients. They represent a valuable tool for developing precision therapy in MIBC.
+authors: Jï¿½ger W, Xue H, Hayashi T, Janssen C, Awrey S, Wyatt AW, Anderson S, Moskalev
+  I, Haegert A, Alshalalfa M, Erho N, Davicioni E, Fazli L, Li E, Collins C, Wang
+  Y and Black PC
+cancertypes: []
+contact:
+  email: pblack@mail.ubc.ca
+  name: Peter C. Black
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26041878
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Oncotarget, 2015
+label: 'Jï¿½ger W et al. (2015): '
+notes: ~
+pmid: 26041878
+title: Patient-derived bladder cancer xenografts in the preclinical development of
+  novel targeted therapies.
+year: 2015

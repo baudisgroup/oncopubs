@@ -1,0 +1,54 @@
+---
+abstract: Thymomas and thymic carcinomas are peculiar epithelial tumors of the anterior
+  mediastinum. They may show aggressive clinical behavior and are a paradigm for the
+  interaction between the tumor and the immune system. So far, adequate functional
+  studies enabling a better understanding of this malignancy have not been performed,
+  since human thymoma thymic carcinoma cell lines have not been available. Here, the
+  authors describe the establishment, characterization and functional analyses of
+  epithelial cell lines from a Type B1-thymoma and a poorly differentiated thymic
+  carcinoma. By Fluorescence-activated cell sorting FACS analyses, both cell lines
+  were aneuploid. The aneuploid cell fraction of the thymic carcinoma cell line was
+  characterized by a high proliferation index of 55.9 , in contrast to a lower proliferation
+  rate of the aneuploid cell fraction of the thymoma 19.7 . Array-based comparative
+  genomic hybridization aCGH and conventional cytogenetic analysis of the thymoma
+  revealed only minor imbalances whereas the thymic carcinoma was characterized by
+  a complex karyotype in the hyperdiploid range that was readily defined with multicolor
+  FISH mFISH . Application of a selective COX-2 inhibitor reduced cell viability in
+  both cell lines in a dose-dependent manner. In conclusion, these first cell lines
+  of a thymoma and a CD5-positive thymic carcinoma are useful tools for further in
+  vitro studies of cellular, molecular and genetic aspects of the disease and for
+  functional tests to evaluate new therapeutic targets.
+authors: Ehemann V, Kern MA, Breinig M, Schnabel PA, Gunawan B, Schulten HJ, Schlaeger
+  C, Radlwimmer B, Steger CM, Dienemann H, Lichter P, Schirmacher P and Rieker RJ.
+cancertypes: []
+contact:
+  email: michael.kern@med.uni-heidelberg.de
+  name: Michael Kern
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18360827
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 122, 12 (2008): 2719-25.'
+label: 'Ehemann et al. (2008): Establishment, Characterization and Drug Sensitivity
+  Testing in Primary Cultures of Human Thymoma ...'
+notes: ~
+pmid: 18360827
+title: Establishment, Characterization and Drug Sensitivity Testing in Primary Cultures
+  of Human Thymoma and Thymic Carcinoma.
+year: 2008

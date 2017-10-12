@@ -1,0 +1,85 @@
+---
+abstract: Oesophageal cancer is one of the most aggressive cancers and is the sixth
+  leading cause of cancer death worldwide. Approximately 70 of global oesophageal
+  cancer cases occur in China, with oesophageal squamous cell carcinoma ESCC being
+  the histopathological form in the vast majority of cases 90 . Currently, there are
+  limited clinical approaches for the early diagnosis and treatment of ESCC, resulting
+  in a 10 five-year survival rate for patients. However, the full repertoire of genomic
+  events leading to the pathogenesis of ESCC remains unclear. Here we describe a comprehensive
+  genomic analysis of 158 ESCC cases, as part of the International Cancer Genome Consortium
+  research project. We conducted whole-genome sequencing in 17 ESCC cases and whole-exome
+  sequencing in 71 cases, of which 53 cases, plus an additional 70 ESCC cases not
+  used in the whole-genome and whole-exome sequencing, were subjected to array comparative
+  genomic hybridization analysis. We identified eight significantly mutated genes,
+  of which six are well known tumour-associated genes TP53, RB1, CDKN2A, PIK3CA, NOTCH1,
+  NFE2L2 , and two have not previously been described in ESCC ADAM29 and FAM135B .
+  Notably, FAM135B is identified as a novel cancer-implicated gene as assayed for
+  its ability to promote malignancy of ESCC cells. Additionally, MIR548K, a microRNA
+  encoded in the amplified 11q13.3-13.4 region, is characterized as a novel oncogene,
+  and functional assays demonstrate that MIR548K enhances malignant phenotypes of
+  ESCC cells. Moreover, we have found that several important histone regulator genes
+  MLL2 also called KMT2D , ASH1L, MLL3 KMT2C , SETD1B, CREBBP and EP300 are frequently
+  altered in ESCC. Pathway assessment reveals that somatic aberrations are mainly
+  involved in the Wnt, cell cycle and Notch pathways. Genomic analyses suggest that
+  ESCC and head and neck squamous cell carcinoma share some common pathogenic mechanisms,
+  and ESCC development is associated with alcohol drinking. This study has explored
+  novel biological markers and tumorigenic pathways that would greatly improve therapeutic
+  strategies for ESCC.
+authors: Song Y, Li L, Ou Y, Gao Z, Li E, Li X, Zhang W, Wang J, Xu L, Zhou Y, Ma
+  X, Liu L, Zhao Z, Huang X, Fan J, Dong L, Chen G, Ma L, Yang J, Chen L, He M, Li
+  M, Zhuang X, Huang K, Qiu K, Yin G, Guo G, Feng Q, Chen P, Wu Z, Wu J, Ma L, Zhao
+  J, Luo L, Fu M, Xu B, Chen B, Li Y, Tong T, Wang M, Liu Z, Lin D, Zhang X, Yang
+  H, Wang J and Zhan Q.
+cancertypes:
+- samples_arraymap: 69
+  samples_progenetix: ~
+  term_id: ncit:C3513
+  term_label: Esophageal Carcinoma
+- samples_arraymap: 69
+  samples_progenetix: ~
+  term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- samples_arraymap: 69
+  samples_progenetix: ~
+  term_id: pgx:icdot:C15
+  term_label: esophagus
+- samples_arraymap: 69
+  samples_progenetix: ~
+  term_id: pgx:seer:21010
+  term_label: Esophagus
+- samples_arraymap: 69
+  samples_progenetix: ~
+  term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 123
+  samples_acgh: 123
+  samples_ccgh: 0
+  samples_wes: 71
+  samples_wgs: 17
+external_identifiers:
+- pubmed:24670651
+- geo:GSE54993
+- geo:GSE54994
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Nature (2014).
+label: 'Song et al. (2014): Identification of genomic alterations in oesophageal squamous
+  cell cancer.'
+notes: ~
+pmid: 24670651
+title: Identification of genomic alterations in oesophageal squamous cell cancer.
+year: 2014

@@ -1,0 +1,83 @@
+---
+abstract: Topoisomerase IIalpha is a nuclear enzyme that regulates the tertiary structure
+  of DNA. The influence of topoisomerase IIalpha gene TOP2A or protein alterations
+  on disease progression and treatment response in colorectal cancer CRC is unknown.
+  The study investigated the clinical relevance of topoisomerase IIalpha in CRC using
+  in vivo and in vitro models. Differentially expressed genes in early and late-stage
+  CRC were identified by array comparative genomic hybridization CGH . Cellular location
+  of gene amplifications was determined by fluorescence in situ hybridization FISH
+  . Topoisomerase IIalpha levels, proliferation index, and HER2 expression were examined
+  in 228 colorectal tumors by immunohistochemistry. Overexpression of topoisomerase
+  IIalpha in vitro was achieved by liposome-based transfection. Cell growth inhibition
+  and apoptosis were quantified using the crystal violet assay and flow cytometry,
+  respectively, in response to drug treatment. Amplification of TOP2A was identified
+  in 3 7.7 tumors using array CGH and confirmed using FISH. At the protein level,
+  topoisomerase IIalpha staining was observed in 157 69 tumors, and both staining
+  and intensity levels were associated with an aggressive tumor phenotype p values
+  0.04 and 0.005, respectively . Using logistic regression analysis, topoisomerase
+  IIalpha remained significantly associated with advanced tumor stage when corrected
+  for tumor proliferation p 0.007 and differentiation p 0.001 . No association was
+  identified between topoisomerase IIalpha and HER2. In vitro, overexpression of topoisomerase
+  IIalpha was associated with resistance to irinotecan p 0.001 and etoposide chemotherapy
+  p 0.03 , an effect mediated by inhibition of apoptosis. Topoisomerase IIalpha overexpression
+  is significantly associated with alterations in tumor behavior and response to drug
+  treatment in CRC. Our results suggest that gene amplification may represent an important
+  mechanism underlying these changes.
+authors: Coss A, Tosetto M, Fox EJ, Sapetto-Rebow B, Gorman S, Kennedy BN, Lloyd AT,
+  Hyland JM, ODonoghue DP, Sheahan K, Leahy DT, Mulcahy HE and OSullivan JN.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 39
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: 38
+  samples_progenetix: ~
+  term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- samples_arraymap: 38
+  samples_progenetix: 39
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 38
+  samples_progenetix: 39
+  term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- samples_arraymap: 38
+  samples_progenetix: 39
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: 38
+  samples_progenetix: 39
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: jacintha.osullivan@ucd.ie
+  name: Jacintha N. O Sullivan
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19111388
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: Europe
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: 'Cancer Lett 276, 2 (2009): 228-38.'
+label: 'Coss et al. (2009): Increased Topoisomerase Iialpha Expression in Colorectal
+  Cancer is Associated With Advanced Disease ...'
+notes: The aCGH data was converted from the supplement.
+pmid: 19111388
+title: Increased Topoisomerase Iialpha Expression in Colorectal Cancer is Associated
+  With Advanced Disease and Chemotherapeutic Resistance Via Inhibition of Apoptosis.
+year: 2009

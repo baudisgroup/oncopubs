@@ -1,0 +1,52 @@
+---
+abstract: Diamond-Blackfan anemia DBA is a congenital BM failure syndrome characterized
+  by hypoproliferative anemia, associated physical abnormalities, and a predisposition
+  to cancer. Perturbations of the ribosome appear to be critically important in DBA
+  alterations in 9 different ribosomal protein genes have been identified in multiple
+  unrelated families, along with rarer abnormalities of additional ribosomal proteins.
+  However, at present, only 50 to 60 of patients have an identifiable genetic lesion
+  by ribosomal protein gene sequencing. Using genome-wide single-nucleotide polymorphism
+  array to evaluate for regions of recurrent copy variation, we identified deletions
+  at known DBA-related ribosomal protein gene loci in 17 9 of 51 of patients without
+  an identifiable mutation, including RPS19, RPS17, RPS26, and RPL35A. No recurrent
+  regions of copy variation at novel loci were identified. Because RPS17 is a duplicated
+  gene with 4 copies in a diploid genome, we demonstrate haploinsufficient RPS17 expression
+  and a small subunit ribosomal RNA processing abnormality in patients harboring RPS17
+  deletions. Finally, we report the novel identification of variable mosaic loss involving
+  known DBA gene regions in 3 patients from 2 kindreds. These data suggest that ribosomal
+  protein gene deletion is more common than previously suspected and should be considered
+  a component of the initial genetic evaluation in cases of suspected DBA.
+authors: Farrar JE, Vlachos A, Atsidaftos E, Carlson-Donohoe H, Markello TC, Arceci
+  RJ, Ellis SR, Lipton JM and Bodine DM.
+cancertypes: []
+contact:
+  email: ~
+  name: Jason Farrar
+counts:
+  biosamples: 51
+  samples_acgh: 51
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22045982
+- geo:GSE31575
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: North America
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: 'Blood 118, 26 (2011): 6943-51.'
+label: 'Farrar et al. (2011): Ribosomal Protein Gene Deletions in Diamond-Blackfan
+  Anemia.'
+notes: ~
+pmid: 22045982
+title: Ribosomal Protein Gene Deletions in Diamond-Blackfan Anemia.
+year: 2011

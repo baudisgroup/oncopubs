@@ -1,0 +1,73 @@
+---
+abstract: Myeloproliferative neoplasms MPNs result from genetically altered hematopoietic
+  stem cells that retain the capacity for multilineage differentiation. The study
+  of genomic mutations identified so far suggests that they occur after a common ancestral
+  event or that different mutations result in similar MPN phenotypes. We report analysis
+  of a chromosomal translocation, t 12 22 q14.3 q13.2 , in a patient with a BCR-ABL1-negative,
+  JAK2V617F-positive MPN. Comparative genomic hybridization CGH array and targeted
+  sequencing detected no mutation in nine genes reported to influence the JAK2V617F-driven
+  MPNs MPL, LNK, CBL, TET2, EZH2, IKZF1, IDH1, IDH2, ASXL1 . Next-generation sequencing
+  revealed a balanced HMGA2-EFCAB6 genomic rearrangement. The HMGA2 breakpoint leads
+  to the loss of seven 3UTR binding sites for the microRNA miRNA let-7 tumor suppressor.
+  The breakpoint in the EFCAB6 gene abrogates transcription of EFCAB6. Measurement
+  of expression showed retention of HMGA2 transcription and no detectable EFCAB6 transcript.
+  Allele burden comparison in a sample containing the translocation, showed 90 HMGA2-EFCAB6
+  versus 50 JAK2V617F allele dose, suggesting HMGA2-EFCAB6 rearrangement plays a more
+  ancestral role, pre-JAK2V617F, in the neoplastic process. The pathogenicity of the
+  translocation may rest on collaborations among JAK2V617F-induced constitutive activation
+  of JAK2, the oncogenic property of HMGA2, and disrupted pathways, such as alteration
+  in DJ-1 expression, resulting from the impact of EFCAB6 abrogation.
+authors: Martin SE, Sausen M, Joseph A, Kingham BF and Martin ES.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4345
+  term_label: Myeloproliferative Neoplasm
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9960_3
+  term_label: Myeloproliferative neoplasm, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99603
+  term_label: Myeloproliferative neoplasm, NOS
+contact:
+  email: ~
+  name: S. Eric Martin
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22749035
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.67
+    - 39.69
+    type: Point
+  info:
+    city: Newark, DE
+    continent: ~
+    country: United States
+    label: Newark, DE, United States
+    precision: city [needs verification]
+journal: 'Cancer Genet 205, 6 (2012): 295-303.'
+label: 'Martin et al. (2012): Identification of a Hmga2-Efcab6 Gene Rearrangement
+  Following Next-Generation Sequencing in a ...'
+notes: ~
+pmid: 22749035
+title: Identification of a Hmga2-Efcab6 Gene Rearrangement Following Next-Generation
+  Sequencing in a Patient With a T(12;22)(Q14.3;Q13.2) and Jak2V617F-Positive Myeloproliferative
+  Neoplasm.
+year: 2012

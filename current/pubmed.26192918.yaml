@@ -1,0 +1,50 @@
+---
+abstract: Barrett's esophagus is thought to progress to esophageal adenocarcinoma
+  (EAC) through a stepwise progression with loss of CDKN2A followed by TP53 inactivation
+  and aneuploidy. Here we present whole-exome sequencing from 25 pairs of EAC and
+  Barrett's esophagus and from 5 patients whose Barrett's esophagus and tumor were
+  extensively sampled. Our analysis showed that oncogene amplification typically occurred
+  as a late event and that TP53 mutations often occurred early in Barrett's esophagus
+  progression, including in non-dysplastic epithelium. Reanalysis of additional EAC
+  exome data showed that the majority (62.5%) of EACs emerged following genome doubling
+  and that tumors with genomic doubling had different patterns of genomic alterations,
+  with more frequent oncogenic amplification and less frequent inactivation of tumor
+  suppressors, including CDKN2A. These data suggest that many EACs emerge not through
+  the gradual accumulation of tumor-suppressor alterations but rather through a more
+  direct path whereby a TP53-mutant cell undergoes genome doubling, followed by the
+  acquisition of oncogenic amplifications.
+authors: Stachler MD, Taylor-Weiner A, Peng S, McKenna A, Agoston AT, Odze RD, Davison
+  JM, Nason KS, Loda M, Leshchiner I, Stewart C, Stojanov P, Seepo S, Lawrence MS,
+  Ferrer-Torres D, Lin J, Chang AC, Gabriel SB, Lander ES, Beer DG, Getz G, Carter
+  SL and Bass AJ
+cancertypes: []
+contact:
+  email: ~
+  name: Adam J Bass
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 50
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26192918
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Nat. Genet., 2015
+label: 'Stachler MD et al. (2015): '
+notes: For the sample number, only the histologically aberrant (Barrett, AdCa) were
+  counted for the database.
+pmid: 26192918
+title: Paired exome analysis of Barrett's esophagus and adenocarcinoma.
+year: 2015

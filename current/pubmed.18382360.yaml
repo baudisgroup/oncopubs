@@ -1,0 +1,56 @@
+---
+abstract: Comparative genomic hybridization and fluorescence in situ hybridization
+  were used to define genetic changes associated with multifocal bladder cancer and
+  to investigate whether the genetic relationship between synchronous urothelial tumors
+  is similar to that observed within different parts of the same tumor. We investigated
+  8 synchronous urothelial tumors from 3 patients and macroscopically different parts
+  of the same tumor from 2 other patients. The most frequent imbalances were gains
+  of 1q, 2p, and 17q, and losses in 4q. The high number of chromosome imbalances detected
+  in the present report confirms that a high level of chromosome instability could
+  be characteristic of multicentric bladder tumors. Comparative genomic hybridization
+  profiles obtained from independent tumors belonging to the same patient allowed
+  us to elaborate cytogenetic pedigrees portraying the accumulation of chromosome
+  alterations as a form of clonal evolution from a single precursor cell. The analysis
+  of different macroscopic parts of the same tumor allowed us to detect chromosomal
+  heterogeneity and to delineate intratumor clonal evolution. Some chromosome regions
+  that appeared as a gain in one subpopulation were amplified in others indicating
+  a genetic evolution process. Identical processes were observed in different tumors
+  of the same patient. Expansion of chromosome gains and losses between different
+  parts of the same tumor as well as in different tumors of the same patient was also
+  observed. Our results not only provide further evidence of a clonal relationship
+  between different synchronous bladder tumors but also show that the intratumor heterogeneity
+  present in different subpopulations of the same tumor reproduces the behavior of
+  independent synchronous tumors in a same patient.
+authors: Prat E, Del Rey J, Camps J, Ponsa I, Lloreta J, Egozcue J, Gelabert A, Campillo
+  M and Miro R.
+cancertypes: []
+contact:
+  email: eprat@imim.es
+  name: Esther Prat
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18382360
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Diagn Mol Pathol 17, 3 (2008): 134-40.'
+label: 'Prat et al. (2008): Genomic Imbalances in Urothelial Cancer: Intratumor Heterogeneity
+  Versus Multifocality.'
+notes: ~
+pmid: 18382360
+title: 'Genomic Imbalances in Urothelial Cancer: Intratumor Heterogeneity Versus Multifocality.'
+year: 2008

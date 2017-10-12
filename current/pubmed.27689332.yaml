@@ -1,0 +1,55 @@
+---
+abstract: Non-muscle-invasive bladder cancer (NMIBC) often has a worse prognosis following
+  its progression to muscle-invasive bladder cancer (MIBC), despite radical cystectomy
+  with pelvic lymph node dissection combined with chemotherapy. Therefore, the discovery
+  of novel biomarkers for predicting the progression of this disease and of therapeutic
+  targets for preventing it is crucial. We performed whole-exome sequencing to analyze
+  superficial tumor tissues (Tsup) and basal tumor tissues (Tbas) from 3 MIBC patients
+  and identified previously unreported copy number variations in IPO11 that warrants
+  further investigation as a molecular target. In addition, we identified a significant
+  association between the absolute copy number and mRNA expression of IPO11 and found
+  that high importin-11 expression was correlated with poor 3-year overall survival
+  (OS), cancer-specific survival (CSS) and cancer-free survival (CFS) compared with
+  low expression in the BCa patients. Importin-11 overexpression was also an independent
+  risk factor for CSS and CFS in the BCa patients. Our study has revealed that IPO11
+  copy number amplification contributes to its overexpression and that these changes
+  are unfavorable prognostic factors in NMIBC. Thus, IPO11 copy number amplification
+  and importin-11 overexpression are promising biomarkers for predicting the progression
+  and poor prognosis of patients with NMIBC.
+authors: Zhao J, Xu W, He M, Zhang Z, Zeng S, Ma C, Sun Y, Xu C.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: xuchuanliang@vip.126.com
+  name: Chuanliang Xu
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 6
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27689332
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.44
+    - 37.48
+    type: Point
+  info:
+    city: Yantai
+    continent: Asia
+    country: China
+    label: Yantai, China, Asia
+    precision: city
+journal: Oncotarget, 2016
+label: ' (2016): '
+notes: ~
+pmid: 27689332
+title: Whole-exome sequencing of muscle-invasive bladder cancer identifies recurrent
+  copy number variation in IPO11 and prognostic significance of importin-11 overexpression
+  on poor survival.
+year: 2016

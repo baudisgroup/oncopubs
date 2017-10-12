@@ -1,0 +1,38 @@
+---
+abstract: Accurate detection of recurrent chromosomal abnormalities is critical to
+  assign patients to risk-based therapeutic regimens for pediatric acute lymphoblastic
+  leukemia ALL .
+authors: Rabin KR, Man TK, Yu A, Folsom MR, Zhao YJ, Rao PH, Plon SE and Naeem RC.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 50
+  samples_acgh: 50
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18253961
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Pediatr Blood Cancer 51, 2 (2008): 171-77.'
+label: 'Rabin et al. (2008): Clinical Utility of Array Comparative Genomic Hybridization
+  for Detection of Chromosomal ...'
+notes: aCGH data was only represented as changes detected additionally to the banding
+  results.
+pmid: 18253961
+title: Clinical Utility of Array Comparative Genomic Hybridization for Detection of
+  Chromosomal Abnormalities in Pediatric Acute Lymphoblastic Leukemia.
+year: 2008

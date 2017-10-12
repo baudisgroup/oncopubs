@@ -1,0 +1,56 @@
+---
+abstract: Traditional in vitro culturing of tumor cells has been shown to induce changes
+  so that cultures no longer represent the tumor of origin. Serum-free culturing conditions
+  are used in a variety of cancers to propagate stem-like cells in vitro. Limited
+  reports, however, exist on the effects of such propagation. We have compared cells
+  from brain tumor biopsies cultivated under serum-free conditions at passages 2 and
+  10 to describe the effects of in vitro culturing. We were able to establish cell
+  lines from 7 of 10 biopsies from patients with glioblastoma. The cell lines adapted
+  to conditions and had 2.2 times increased population doubling rate at later passages.
+  Karyotyping and comparative genomic hybridization analysis revealed that all examined
+  cell lines had cytogenetic aberrations commonly found in glioblastomas, and there
+  were only minor differences between tumor and early and late passages in the same
+  culture. Whole-transcriptome analysis shows that tumors had interindividual differences.
+  Changes in the overall expression patterns through passaging were modest, with a
+  significant change in only 14 genes the variation among cultures was, however, reduced
+  through passages. The ability to differentiate differed among tumors but was maintained
+  throughout passaging. The cells initiated tumors upon transplantation to immunodeficient
+  mice with differing phenotypes, but a given cell culture maintained tumor phenotype
+  after serial cultivation. The cultures established maintained individual characteristics
+  specific to culture identity. Thus, each cell culture reflects an image of the tumor--or
+  a personalized model--from which it was derived and remains representative after
+  moderate expansion.
+authors: Vik-Mo EO, Sandberg C, Olstorn H, Varghese M, Brandal P, Ramm-Pettersen J,
+  Murrell W and Langmoen IA.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20843775
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Neuro Oncol 12, 12 (2010): 1220-30.'
+label: 'Vik-Mo et al. (2010): Brain Tumor Stem Cells Maintain Overall Phenotype and
+  Tumorigenicity After in Vitro Culturing in ...'
+notes: ~
+pmid: 20843775
+title: Brain Tumor Stem Cells Maintain Overall Phenotype and Tumorigenicity After
+  in Vitro Culturing in Serum-Free Conditions.
+year: 2010

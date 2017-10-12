@@ -1,0 +1,36 @@
+---
+abstract: Differentiating Spitz nevi from melanoma can be difficult. Pagetoid spread
+  of melanocytes is among the features making diagnosis difficult. Rare reports of
+  isolated pagetoid Spitz nevi exist.
+authors: Harris K, Florell SR, Papenfuss J, Kohlmann W, Jahromi M, Schiffman JD, Quackenbush
+  J, Cassidy P and Leachman S.
+cancertypes: []
+contact:
+  email: ~
+  name: Sancy Leachman
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22105811
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.89
+    - 40.76
+    type: Point
+  info:
+    city: Salt Lake City
+    continent: North America
+    country: United States
+    label: Salt Lake City, United States, North America
+    precision: city
+journal: Arch Dermatol (2011)
+label: 'Harris et al. (2011): Melanoma Mimic: A Case of Multiple Pagetoid Spitz Nevi.'
+notes: ~
+pmid: 22105811
+title: 'Melanoma Mimic: A Case of Multiple Pagetoid Spitz Nevi.'
+year: 2011

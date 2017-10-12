@@ -1,0 +1,51 @@
+---
+abstract: Melanocytic neoplasms with spitzoid features including spitz nevi, spitz
+  tumors and spitzoid melanomas are commonly encountered in the practice of dermatopathology.
+  Although many cases can be accurately diagnosed on the basis of morphology and histology,
+  a significant number of cases may be difficult to accurately classify. Several studies
+  have now shown that chromosomal copy number aberrations are typical of melanoma
+  while present in only a small percent and to a limited degree in spitz nevi. In
+  this study, we correlated the clinical, histologic and array CGH findings of 10
+  spiztoid melanocytic neoplasms. Our study shows that the clinical and histologic
+  changes correlate well with the molecular findings by array CGH. Further that array
+  CGH can be used to help classify and predict behavior of spitzoid melanocytic neoplasms.
+  A limited variety of copy number aberrations including gains of 11p and much more
+  rarely 7q may be seen in spitz nevi. Additionally in this report we present the
+  first case of a typical spitz nevus with copy number gains involving both 7q and
+  11p. Conversely, melanomas with spitzoid features typically have multiple chromsomal
+  copy number aberrations involving a variety of loci. A smaller number of chromosomal
+  aberrations, possibly a single aberrant locus, may be present in spitz tumors, but
+  their presence may predict more aggressive behavior.
+authors: Ali L, Helm T, Cheney R, Conroy J, Sait S, Guitart J and Gerami P.
+cancertypes: []
+contact:
+  email: ~
+  name: Pedram Gerami
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20661407
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Int J Clin Exp Pathol 3, 6 (2010): 593-99.'
+label: 'Ali et al. (2010): Correlating Array Comparative Genomic Hybridization Findings
+  With Histology and Outcome in Spitzoid ...'
+notes: ~
+pmid: 20661407
+title: Correlating Array Comparative Genomic Hybridization Findings With Histology
+  and Outcome in Spitzoid Melanocytic Neoplasms.
+year: 2010

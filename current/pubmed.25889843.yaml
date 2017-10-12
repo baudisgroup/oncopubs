@@ -1,0 +1,58 @@
+---
+abstract: "Malignant mesothelioma (MM) arises from mesothelial cells that line the
+  pleural, peritoneal and pericardial surfaces. The majority of MMs are pleural and
+  have been associated with asbestos exposure. Previously, pleural MMs have been genetically
+  characterized by the loss of BAP1 (40-60%) as well as loss of NF2 (75%) and CDKN2A
+  (60%). The rare peritoneal form of MM occurs in ~10% cases. With only ~300 cases
+  diagnosed in the US per year, its link to asbestos exposure is not clear and its
+  mutational landscape unknown.  We analyzed the somatic mutational landscape of 12
+  peritoneal MM of epitheloid subtype using copy number analysis (Nâ\x80\x89=â\x80\x899),
+  whole exome sequencing (Nâ\x80\x89=â\x80\x897) and targeted sequencing (Nâ\x80\x89=â\x80\x8912).
+  \ Peritoneal MM display few copy number alterations, with most samples having less
+  than 10 Mbp total changes, mostly through deletions and no high copy number amplification.
+  Chromosome band 3p21 encoding BAP1 is the most recurrently deleted region (5/9),
+  while, in contrast to pleural MM, NF2 and CDKN2A are not affected. We further identified
+  87 non-silent mutations across 7 sequenced tumors, with a median of 8 mutated genes
+  per tumor, resulting in a very low mutation rate (median 1.3 10(-6)). BAP1 was the
+  only recurrently mutated gene (Nâ\x80\x89=â\x80\x893/7). In one additional case,
+  loss of the entire chromosome 3 leaves a non-functional copy of BAP1 carrying a
+  rare nonsense germline variant, thus suggesting a potential genetic predisposition
+  in this patient. Finally, with targeted sequencing of BAP1 in 3 additional cases,
+  we conclude that BAP1 is frequently altered through copy number losses (Nâ\x80\x89=â\x80\x893/12),
+  mutations (Nâ\x80\x89=â\x80\x893/12) or both (Nâ\x80\x89=â\x80\x892/12) sometimes
+  at a sub-clonal level.  Our findings suggest a major role for BAP1 in peritoneal
+  MM susceptibility and oncogenesis and indicate important molecular differences to
+  pleural MM as well as potential strategies for therapy and prevention."
+authors: Alakus H, Yost SE, Woo B, French R, Lin GY, Jepsen K, Frazer KA, Lowy AM
+  and Harismendy O
+cancertypes: []
+contact:
+  email: oharismendy@ucsd.edu
+  name: O Harismendy
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 0
+  samples_wes: 7
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25889843
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.16
+    - 32.72
+    type: Point
+  info:
+    city: San Diego
+    continent: North America
+    country: United States
+    label: San Diego, United States, North America
+    precision: city
+journal: J Transl Med 13(1), 2015
+label: 'Alakus et al. (): BAP1 mutation is a frequent somatic event in peritoneal
+  malignant mesothelioma.'
+notes: ~
+pmid: 25889843
+title: BAP1 mutation is a frequent somatic event in peritoneal malignant mesothelioma.
+year: 2015

@@ -1,0 +1,52 @@
+---
+abstract: Meningiomas, derived from arachnoid cap cells, are the most common intracranial
+  tumor. High-grade meningiomas, as well as those located at the skull base or near
+  venous sinuses, frequently recur and are challenging to manage. Next-generation
+  sequencing is identifying novel pharmacologic targets in meningiomas to complement
+  surgery and radiation. However, due to the lack of in vitro models, the importance
+  and implications of these genetic variants in meningioma pathogenesis and therapy
+  remain unclear. We performed whole exome sequencing to assess single nucleotide
+  variants and somatic copy number variants in four human meningioma cell lines, including
+  two benign lines (HBL-52 and Ben-Men-1) and two malignant lines (IOMM-Lee and CH157-MN).
+  The two malignant cell lines harbored an elevated rate of mutations and copy number
+  alterations compared to the benign lines, consistent with the genetic profiles of
+  high-grade meningiomas. In addition, these cell lines also harbored known meningioma
+  driver mutations in neurofibromin 2 (NF2) and TNF receptor-associated factor 7 (TRAF7).
+  These findings demonstrate the relevance of meningioma cell lines as a model system,
+  especially as tools to investigate the signaling pathways of, and subsequent resistance
+  to, therapeutics currently in clinical trials.
+authors: Mei Y, Bi WL, Greenwald NF, Agar NY, Beroukhim R, Dunn GP, Dunn IF.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: idunn@partners.org
+  name: Ian F. Dunn
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 4
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28552950
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: PLoS ONE 12(5), 2017
+label: ' (2017): '
+notes: ~
+pmid: 28552950
+title: Genomic profile of human meningioma cell lines.
+year: 2017

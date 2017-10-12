@@ -1,0 +1,69 @@
+---
+abstract: The metastatic process is complex and remains a major obstacle in the management
+  of colorectal cancer. To gain a better insight into the pathology of metastasis,
+  we investigated genomic aberrations in a large cohort of matched colorectal cancer
+  primaries and distant metastases from various sites by high resolution array comparative
+  genomic hybridization. In total, 62 primary colorectal cancers, and 68 matched metastases
+  (22 liver, 11 lung, 12 ovary, 12 omentum, and 11 distant lymph nodes) were analyzed.
+  Public datasets were used for validation purposes. Metastases resemble their matched
+  primary tumors in the majority of the patients. This validates the significant overlap
+  in chromosomal aberrations between primary tumors and corresponding metastases observed
+  previously. We observed 15 statistically significant different regions between the
+  primary tumors and their matched metastases, of which only one recurrent event in
+  metastases was observed. We conclude, based on detailed analysis and large independent
+  datasets, that chromosomal copy number aberrations in colorectal metastases resemble
+  their primary counterparts, and differences are typically non-recurrent.
+authors: Mekenkamp LJ, Haan JC, Israeli D, van Essen HF, Dijkstra JR, van Cleef P,
+  Punt CJ, Meijer GA, Nagtegaal ID and Ylstra B
+cancertypes:
+- samples_arraymap: 130
+  samples_progenetix: ~
+  term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- samples_arraymap: 130
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 130
+  samples_progenetix: ~
+  term_id: pgx:icdot:C18.9
+  term_label: Colon, NOS
+- samples_arraymap: 130
+  samples_progenetix: ~
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: 130
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: B.Ylstra@vumc.nl
+  name: Ylstra, Bauke
+counts:
+  biosamples: 130
+  samples_acgh: 130
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24505270
+- geo:GSE38479
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: PLoS ONE 9(2), 2014
+label: 'Mekenkamp LJ et al. (2014): '
+notes: ~
+pmid: 24505270
+title: Chromosomal copy number aberrations in colorectal metastases resemble their
+  primary counterparts and differences are typically non-recurrent.
+year: 2014

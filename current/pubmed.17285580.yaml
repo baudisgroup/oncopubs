@@ -1,0 +1,99 @@
+---
+abstract: 'Deletions on chromosomes 1p and 19q are associated with favorable prognosis
+  in patients with oligodendroglial tumors. The aim of our study was to identify additional
+  genomic aberrations linked to patient survival. We performed a genome-wide screen
+  for genomic imbalances by comparative genomic hybridization on tumors from 70 patients,
+  including 40 oligodendrogliomas, 30 oligoastrocytomas 21 WHO grade II tumors, 49
+  WHO grade III tumors . Data were correlated with overall patient survival OS, median
+  follow-up: 5.8 years . The most frequent aberrations were losses on chromosome 19q
+  64 , 1p 59 , 9p 26 , 4q 21 , 10q 19 , 18q 17 gains on 7q 24 , 19p 19 , 7p 17 . In
+  univariate analyses, combined 1p 19q and 19q loss were significantly associated
+  with longer OS, and gains on 7, 8q, 19q, 20, losses on 9p, 10, 18q, Xp with shorter
+  OS. Multivariate analyses showed the most significant prognostic factors for OS
+  of patients with any oligodendroglial tumor to be WHO grade odds ratio OR 8 , 7p
+  gain OR 6 , 9p loss OR 3 for OS of patients with anaplastic tumors to be 7p gain
+  OR 10 , 8q gain OR 5 , 18q loss OR 3 . Patients with anaplastic oligodendroglial
+  tumors containing one or more prognostically unfavorable genomic aberration had
+  a poor outcome independent of the 1p 19q status. In summary, we identified several
+  independent genomic markers of shorter survival in patients with oligodendroglial
+  tumors. Thus, molecular diagnostic testing, which is usually restricted to 1p 19q
+  deletion analysis, may need to be refined by additionally assessing the prognostically
+  unfavorable genomic aberrations identified.'
+authors: Trost D, Ehrler M, Fimmers R, Felsberg J, Sabel MC, Kirsch L, Schramm J,
+  Wiestler OD, Reifenberger G and Weber RG.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:9451_3
+  term_label: Oligodendroglioma, anaplastic
+- samples_arraymap: ~
+  samples_progenetix: 70
+  term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- samples_arraymap: ~
+  samples_progenetix: 70
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: snmi:M-93823
+  term_label: Mixed glioma
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-94513
+  term_label: Oligodendroglioma, anaplastic
+contact:
+  email: weber.ruthild@mh-hannover.de
+  name: Ruthild G. Weber
+counts:
+  biosamples: 70
+  samples_acgh: 0
+  samples_ccgh: 70
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17285580
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.1
+    - 50.73
+    type: Point
+  info:
+    city: Bonn
+    continent: Europe
+    country: Germany
+    label: Bonn, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 120, 11 (2007): 2368-76.'
+label: 'Trost et al. (2007): Identification of Genomic Aberrations Associated With
+  Shorter Overall Survival in Patients With ...'
+notes: ~
+pmid: 17285580
+title: Identification of Genomic Aberrations Associated With Shorter Overall Survival
+  in Patients With Oligodendroglial Tumors.
+year: 2007

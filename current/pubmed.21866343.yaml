@@ -1,0 +1,55 @@
+---
+abstract: The proportion of never smoker non-small cell lung cancer NSCLC in Asia
+  is about 30-40 . Despite the striking demographics and high prevalence of never
+  smoker NSCLC, the exact causes still remain undetermined. Although several genome
+  wide association GWA studies were conducted to find susceptibility loci for lung
+  cancer in never smokers, no regions were replicated except for 5p15.33, suggesting
+  locus heterogeneity and different environmental toxic effects. To identify genetic
+  loci associated with susceptibility of lung cancer in never smokers, we performed
+  a GWA analysis using the Affymetrix 6.0 SNP array. For discovery GWA set, we recruited
+  446 never smoking Korean patients with NSCLC and 497 normal subjects. We tested
+  association of SNPs with lung cancer susceptibility using the Cochran-Armitage trend
+  test. For validation, 39 SNPs were selected from the top 50 SNPs and five additional
+  SNPs were selected in the DAB1 gene region which showed significant associations
+  in the GWA analysis. The validation SNPs were genotyped in an independent sample
+  including 434 patients and 1,000 controls. Among the 44 validation SNPs, two SNPs
+  rs11080466 and rs11663246 near the APCDD1, NAPG and FAM38B genes in the 18p11.22
+  region were replicated. P value of rs11080466 was 1.08 10 -6 in the combined sets
+  2.68 10 -5 in the discovery set and 2.60 10 -3 in the validation set and odds ratio
+  was 0.68 0.58-0.79 . We observed similar association for rs11663246. Our result
+  suggests the 18p11.22 region as a novel lung cancer susceptibility locus in never
+  smokers.
+authors: Ahn MJ, Won HH, Lee J, Lee ST, Sun JM, Park YH, Ahn JS, Kwon OJ, Kim H, Shim
+  YM, Kim J, Kim K, Kim YH, Park JY, Kim JW, and Park K.
+cancertypes: []
+contact:
+  email: ~
+  name: Keunchil Park
+counts:
+  biosamples: 446
+  samples_acgh: 446
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21866343
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Hum Genet, 2011.
+label: 'Ahn et al. (2011): The 18p11.22 locus is associated with never smoker non-small
+  cell lung cancer susceptibility in ...'
+notes: ~
+pmid: 21866343
+title: The 18p11.22 locus is associated with never smoker non-small cell lung cancer
+  susceptibility in Korean populations.
+year: 2011

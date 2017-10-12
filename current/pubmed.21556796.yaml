@@ -1,0 +1,40 @@
+---
+abstract: The prognosis of lung cancer remains poor and clinically applicable prognostic
+  markers have not yet been satisfactory identified. Several chromosomal copy number
+  alterations CNAs have been associated with metastasis, relapse, and survival of
+  patients with lung cancer however, no study has focused exclusively on identifying
+  CNAs at a gene level. The aim of this study was to identify genes whose CNAs are
+  associated with survival of patients with lung adenocarcinoma.
+authors: Zhao Y, Li Y, Wang S, Lu H, Chen J, Zhang Z, Jin Y and Zhu ZZ.
+cancertypes: []
+contact:
+  email: ~
+  name: Shengfa Wang
+counts:
+  biosamples: 56
+  samples_acgh: 56
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21556796
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.65
+    - 45.75
+    type: Point
+  info:
+    city: Harbin
+    continent: Asia
+    country: China
+    label: Harbin, China, Asia
+    precision: city
+journal: 'Int J Clin Oncol 16, 6 (2011): 679-85.'
+label: 'Zhao et al. (2011): The Relationship Between Egfr Gain and Vhl Loss in Lung
+  Adenocarcinoma and Poor Patient ...'
+notes: ~
+pmid: 21556796
+title: The Relationship Between Egfr Gain and Vhl Loss in Lung Adenocarcinoma and
+  Poor Patient Survival.
+year: 2011

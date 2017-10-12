@@ -1,0 +1,54 @@
+---
+abstract: Fanconi anemia (FA) predisposes to hematologic disorders and myeloid neoplasia
+  in childhood and to solid cancers, mainly oral carcinomas, in early adulthood. Few
+  cases of solid cancers have been reported in childhood.  We conducted a national
+  retrospective study of solid tumors occurring in patients registered with or determined
+  to have FA during childhood in France. Phenotypic features, tumor type, cancer treatment,
+  and outcome were analyzed. Whenever available, fresh-frozen tumors were analyzed
+  by microarray-based comparative genomics hybridization.  We identified eight patients
+  with FA with solid tumor from 1986 to 2012. For two patients, the diagnosis of FA
+  was unknown at the time of cancer diagnosis. Moreover, we identified one fetus with
+  a brain tumor. All patients showed failure to thrive and had dysmorphic features
+  and abnormal skin pigmentation. Seven patients had BRCA2/FANCD1 mutations; five
+  of these featured more than one malignancy and the median age at the time of cancer
+  diagnosis was 11 months (range 0.4-3 years). Solid tumor types included five nephroblastomas,
+  two rhabdomyosarcomas, two neuroblastomas, and three brain tumors. Two children
+  died from the toxic effects of chemotherapy, two patients from the cancer, and one
+  patient from secondary leukemia. Only one BRCA2 patient was alive more than 3 years
+  after diagnosis, after tailored chemotherapy.  Solid tumors are rare in FA during
+  childhood, except in patients with BRCA2/FANCD1 mutations. The proper genetic diagnosis
+  is mandatory to tailor the treatment.  ï¿½ 2014 Wiley Periodicals, Inc.
+authors: Malric A, Defachelles AS, Leblanc T, Lescoeur B, Lacour B, Peuchmaur M, Maurage
+  CA, Pierron G, Guillemot D, d'Enghien CD, Soulier J, Stoppa-Lyonnet D and Bourdeaut
+  F
+cancertypes: []
+contact:
+  email: franck.bourdeaut@curie.fr
+  name: Franck Bourdeaut
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25381700
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Pediatr Blood Cancer 62(3), 2015
+label: 'Malric A et al. (2015): '
+notes: ~
+pmid: 25381700
+title: 'Fanconi anemia and solid malignancies in childhood: a national retrospective
+  study.'
+year: 2015

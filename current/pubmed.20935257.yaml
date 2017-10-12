@@ -1,0 +1,42 @@
+---
+abstract: Chromosomal translocations in hematological malignancies often result in
+  novel fusion chimeric genes. We report a case of acute myeloid leukemia with a clonal
+  translocation t 11 12 p15 q13 displaying morphologic and immunophenotypic features
+  resembling the classical hypergranular subtype of acute promyelocytic leukemia.
+  The gene fused to NUP98 nucleoporin 98 was detected by comparative genomic hybridization
+  array as the retinoid acid receptor gamma gene RARG . The involvement of RARG in
+  a chimeric fusion transcript has not been reported previously in human leukemia.
+authors: Such E, Cervera J, Valencia A, Barragan E, Ibanez M, Luna I, Fuster O, Perez-Sirvent
+  ML, Senent L, Sempere A, Martinez J, Martin-Aragones G and Sanz MA.
+cancertypes: []
+contact:
+  email: msanz@uv.es
+  name: Miguel Sanz
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20935257
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: Europe
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: 'Blood 117, 1 (2011): 242-45.'
+label: 'Such et al. (2011): A Novel Nup98/Rarg Gene Fusion in Acute Myeloid Leukemia
+  Resembling Acute Promyelocytic ...'
+notes: ~
+pmid: 20935257
+title: A Novel Nup98/Rarg Gene Fusion in Acute Myeloid Leukemia Resembling Acute Promyelocytic
+  Leukemia.
+year: 2011

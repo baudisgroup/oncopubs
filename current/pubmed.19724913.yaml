@@ -1,0 +1,55 @@
+---
+abstract: Five osteosarcoma OS cell lines, 37 OS tumors and 9 corresponding non-neoplastic
+  samples were genotyped by Affymetrix 10 K 2.0 SNP array. Regions of high level amplification
+  and homozygous deletion were identified and validated by quantitative PCR and FISH.
+  Certain recurrent cytogenetic alterations were more frequent in recurrent metastatic
+  than in primary OS. These included deletion of 6q14.1, 6q16.2-q22.31, and 8p23.2-p12,
+  amplification of 8q21.12, 8q22.3-q24.3 and 17p12, and loss of heterozygosity LOH
+  at 2q24.3-q31.2, 5q11.2, 6p21.31-p21.1, 6q14.1-q16.2, 8p22-p12, 9q22.1, 10q21.1-q22.1,
+  10q23.31-q24.1, 12q15-q21.1 and 21q21.2-q21.3. Most of the LOH calls were associated
+  with deletion, but a subset of them was associated with normal or increased copy
+  number CN . A consensus 3q13.31 deletion localized to a region within the limbic
+  system-associated membrane protein LSAMP gene was also identified. The FISH evaluations
+  demonstrated highly-localized homozygous or heterozygous LSAMP deletions in 6 of
+  11 primary OS. qRT-PCR evaluations of the two major alternative LSAMP transcripts
+  demonstrated reduced expression of 1b isoform transcript in each of three OS with
+  LSAMP exon 1b deletion. Further, the 1a isoform transcripts in these same OS had
+  either reduced expression or a premature termination codon in LSAMP exon 2. This
+  SNP genotyping study identified chromosomal aberrations associated with disease
+  progression in OS and disclosed LSAMP as a novel tumor suppressor gene in OS. The
+  study also demonstrated that CN and LOH analyses were able to detect distinct subsets
+  of genetic abnormalities in OS.
+authors: Yen CC, Chen WM, Chen TH, Chen WY, Chen PC, Chiou HJ, Hung GY, Wu HT, Wei
+  CJ, Shiau CY, Wu YC, Chao TC, Tzeng CH, Chen PM, Lin CH, Chen YJ and Fletcher JA.
+cancertypes: []
+contact:
+  email: jfletcher@partners.org
+  name: Jonathan A. Fletcher
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19724913
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Int J Oncol (2009) 35: 775-788.'
+label: 'Yen et al. (2009): Identification of chromosomal aberrations associated with
+  disease progression and a novel 3q13.31 ...'
+notes: ~
+pmid: 19724913
+title: Identification of chromosomal aberrations associated with disease progression
+  and a novel 3q13.31 deletion involving LSAMP gene in osteosarcoma.
+year: 2009

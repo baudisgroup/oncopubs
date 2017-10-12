@@ -1,0 +1,44 @@
+---
+abstract: Genomic instability in cancer leads to abnormal genome copy number alterations
+  CNA as a mechanism underlying tumorigenesis. Using microarrays and other technologies,
+  tumor CNA are detected by comparing tumor sample CN to normal reference sample CN.
+  While advances in microarray technology have improved detection of copy number alterations,
+  the increase in the number of measured signals, noise from array probes, variations
+  in signal-to-noise ratio across batches and disparity across laboratories leads
+  to significant limitations for the accurate identification of CNA regions when comparing
+  tumor and normal samples.
+authors: Lisovich A, Chandran UR, Lyons-Weiler MA, LaFramboise WA, Brown AR, Jakacki
+  RI, Pollack IF and Sobol RW.
+cancertypes: []
+contact:
+  email: ~
+  name: Robert Sobol
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21269491
+- geo:GSE25589
+geo_data:
+  geo_json:
+    coordinates:
+    - -80
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: North America
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: 'BMC Med Genomics 4 (2011): 14.'
+label: 'Lisovich et al. (2011): A Novel Snp Analysis Method to Detect Copy Number
+  Alterations With an Unbiased Reference Signal ...'
+notes: ~
+pmid: 21269491
+title: A Novel Snp Analysis Method to Detect Copy Number Alterations With an Unbiased
+  Reference Signal Directly From Tumor Samples.
+year: 2011

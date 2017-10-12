@@ -1,0 +1,47 @@
+---
+abstract: T-cell/histiocyte-rich large B-cell lymphoma (THRLBCL) primarily presenting
+  on the skin is an extremely rare entity with only sporadic cases reported in the
+  literature.  We here report an extraordinary case of primary cutaneous THRLBCL with
+  self-healing and 24 months of follow-up.  The lesion was a dermohypodermal/subcutaneous
+  circumscribed ulcerated nodosity. Histological examination with immunohistochemical,
+  molecular analysis and comparative genomic hybridization were performed. A complete
+  staging was negative for secondary involvement.  Our case is remarkable because
+  it is the second well-documented primary cutaneous THRLBCL in which we observed
+  a complete self-regression of skin lesions without recurrences or dissemination
+  of the disease. According to the literature, we highlight that the tumoral microenvironment,
+  in our case, could play a relevant role in stopping lymphoma growth. Furthermore,
+  this case supports the observation that THRLBCL primarily presenting on the skin
+  shows an overall good prognosis.  Copyright ï¿½ 2011 S. Karger AG, Basel.
+authors: Vezzoli P, Fiorani R, Girgenti V, Fanoni D, Tavecchio S, Balice Y, Mozzana
+  R, Crosti C and Berti E
+cancertypes: []
+contact:
+  email: pamela.vezzoli@libero.it
+  name: Pamela Vezzoli
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21540569
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Dermatology (Basel) 222(3), 2011
+label: 'Vezzoli P et al. (2011): '
+notes: ~
+pmid: 21540569
+title: 'Cutaneous T-cell/histiocyte-rich B-cell lymphoma: a case report and review
+  of the literature.'
+year: 2011

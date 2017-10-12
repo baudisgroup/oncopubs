@@ -1,0 +1,56 @@
+---
+abstract: Smoothened SMO inhibitors recently entered clinical trials for sonic-hedgehog-driven
+  medulloblastoma SHH-MB . Clinical response is highly variable. To understand the
+  mechanism s of primary resistance and identify pathways cooperating with aberrant
+  SHH signaling, we sequenced and profiled a large cohort of SHH-MBs n 133 . SHH pathway
+  mutations involved PTCH1 across all age groups , SUFU infants, including germline
+  , and SMO adults . Children 3 years old harbored an excess of downstream MYCN and
+  GLI2 amplifications and frequent TP53 mutations, often in the germline, all of which
+  were rare in infants and adults. Functional assays in different SHH-MB xenograft
+  models demonstrated that SHH-MBs harboring a PTCH1 mutation were responsive to SMO
+  inhibition, whereas tumors harboring an SUFU mutation or MYCN amplification were
+  primarily resistant.
+authors: Kool M, Jones DT, Jager N, Northcott PA, Pugh TJ, Hovestadt V, Piro RM, Esparza
+  LA, Markant SL, Remke M, Milde T, Bourdeaut F, Ryzhova M, Sturm D, Pfaff E, Stark
+  S, Hutter S, Seker-Cin H, Johann P, Bender S, Schmidt C, Rausch T, Shih D, Reimand
+  J, Sieber L, Wittmann A, Linke L, Witt H, Weber UD, Zapatka M, Konig R, Beroukhim
+  R, Bergthold G, van Sluis P, Volckmann R, Koster J, Versteeg R, Schmidt S, Wolf
+  S, Lawerenz C, Bartholomae CC, von Kalle C, Unterberg A, Herold-Mende C, Hofer S,
+  Kulozik AE, von Deimling A, Scheurlen W, Felsberg J, Reifenberger G, Hasselblatt
+  M, Crawford JR, Grant GA, Jabado N, Perry A, Cowdrey C, Croul S, Zadeh G, Korbel
+  JO, Doz F, Delattre O, Bader GD, McCabe MG, Collins VP, Kieran MW, Cho YJ, Pomeroy
+  SL, Witt O, Brors B, Taylor MD, Schuller U, Korshunov A, Eils R, Wechsler-Reya RJ,
+  Lichter P and Pfister SM.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 45
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 45
+external_identifiers:
+- pubmed:24651015
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cancer Cell (2014) 25: 393-405.'
+label: 'Kool et al. (2014): Genome Sequencing of SHH Medulloblastoma Predicts Genotype-Related
+  Response to Smoothened ...'
+notes: Other WGS/WES samples discussed here were reported previously (Jones et al.,
+  2012; Pugh et al., 2012).
+pmid: 24651015
+title: Genome Sequencing of SHH Medulloblastoma Predicts Genotype-Related Response
+  to Smoothened Inhibition.
+year: 2014

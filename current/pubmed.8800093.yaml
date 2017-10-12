@@ -1,0 +1,72 @@
+---
+abstract: The cellular origin of the sarcomatous component of gliosarcomas is controversial.
+  It is not clear if the sarcoma arises in transition from the glial cells that comprise
+  the gliomatous component or independently arises from non-neoplastic mesenchymal
+  cells of the tumor stroma. Using comparative genomic hybridization CGH along with
+  cytogenetic analysis, fluorescence in situ hybridization FISH analysis, and polymerase
+  chain reaction PCR analysis of microsatellite allelic imbalance, we have evaluated
+  the genetic alterations in the gliomatous and sarcomatous components of five gliosarcomas.
+  The glial element was grade 4 fibrillary astrocytoma glioblastoma multiforme in
+  all five tumors. The sarcoma elements were fibroblastic without osseous, chondroid,
+  or angiosarcomatous differentiation. Gain of chromosome 7, loss of chromosome 10,
+  deletions of the chromosome 9 p-arm, and alterations of chromosome 3 were frequently
+  observed, demonstrating that gliosarcomas can be genetically classified as belonging
+  to the spectrum of glioblastomas. Furthermore, the sarcomatous and gliomatous portions
+  of each gliosarcoma investigated were similar with respect to both the presence
+  and absence of specific genetic alterations. This observation supports the hypothesis
+  that the sarcomatous component of a gliosarcoma either arises from the same common
+  precursor cell as the gliomatous portion, or it arises from the gliomatous portion
+  itself.
+authors: Boerman RH, Anderl K, Herath J, Borell T, Johnson N, Schaeffer-Klein J, Kirchhof
+  A, Raap AK, Scheithauer BW and Jenkins RB.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C3796
+  term_label: Gliosarcoma
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:9442_3
+  term_label: Gliosarcoma
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-94423
+  term_label: Gliosarcoma
+contact:
+  email: rjenkins@mayo.edu
+  name: Robert B. Jenkins
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8800093
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'J Neuropathol Exp Neurol 55, 9 (1996): 973-81.'
+label: 'Boerman et al. (1996): The Glial and Mesenchymal Elements of Gliosarcomas
+  Share Similar Genetic Alterations.'
+notes: ~
+pmid: 8800093
+title: The Glial and Mesenchymal Elements of Gliosarcomas Share Similar Genetic Alterations.
+year: 1996

@@ -1,0 +1,74 @@
+---
+abstract: The study of oral premalignant lesions OPL is crucial to the identification
+  of initiating genetic events in oral cancer. However, these lesions are minute in
+  size, making it a challenge to recover sufficient DNA from microdissected cells
+  for comprehensive genomic analysis. As a step toward identifying genetic aberrations
+  associated with oral cancer progression, we used tiling-path array comparative genomic
+  hybridization to compare alterations on chromosome 3p for 71 OPLs against 23 oral
+  squamous cell carcinomas. 3p was chosen because although it is frequently altered
+  in oral cancers and has been associated with progression risk, its alteration status
+  has only been evaluated at a small number of loci in OPLs. We identified six recurrent
+  losses in this region that were shared between high-grade dysplasias and oral squamous
+  cell carcinomas, including a 2.89-Mbp deletion spanning the FHIT gene previously
+  implicated in oral cancer progression . When the alteration status for these six
+  regions was examined in 24 low-grade dysplasias with known progression outcome,
+  we observed that they occurred at a significantly higher frequency in low-grade
+  dysplasias that later progressed to later-stage disease P amp lt 0.003 . Moreover,
+  parallel analysis of all profiled tissues showed that the extent of overall genomic
+  alteration at 3p increased with histologic stage. This first high-resolution analysis
+  of chromosome arm 3p in OPLs represents a significant step toward predicting progression
+  risk in early preinvasive disease and provides a keen example of how genomic instability
+  escalates with progression to invasive cancer.
+authors: Tsui IF, Rosin MP, Zhang L, Ng RT and Lam WL.
+cancertypes:
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: pgx:seer:20080
+  term_label: Oropharynx
+- samples_arraymap: 94
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: itsui@bccrc.ca
+  name: Ivy Tsui
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19138989
+- geo:GSE9193
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Cancer Prev Res (Phila) 1, 6 (2008): 424-29.'
+label: 'Tsui et al. (2008): Multiple Aberrations of Chromosome 3p Detected in Oral
+  Premalignant Lesions.'
+notes: ~
+pmid: 19138989
+title: Multiple Aberrations of Chromosome 3p Detected in Oral Premalignant Lesions.
+year: 2008

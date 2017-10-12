@@ -1,0 +1,53 @@
+---
+abstract: Rearrangements affecting the MLL gene in hematological malignancies are
+  associated with poor prognosis. Most often they are reciprocal translocations and
+  more rarely complex forms involving at least 3 chromosomes. We describe an unusual
+  case with cutaneous leukemic infiltrates that waxed and waned until progression
+  to acute myeloid leukemia, AML-M5. The leukemic cells harbored a novel apparent
+  3-way translocation t(6;19;11)(p22.2;p13.1;q23.3). We utilized advanced molecular
+  cytogenetic methods including 24-color karyotyping, high-resolution array comparative
+  genomic hybridization (aCGH) and DNA sequencing to characterize the genomic complement
+  in the leukemic cells from aspirated bone marrow cells at AML diagnosis. Karyotyping
+  showed 47,XY,t(6;19;11)(p22;p13;q23),+der(6)t(6;11)(p22;q23)[17]/48,sl,+8[3]/48,sl,+8,der(12)t(1;12)(q11;p13)[3]/
+  48,sdl,der(Y)t(Y;1)(q12;q11),+8[7] conferring MLL-ELL fusion. Oligo-aCGH analysis
+  confirmed gains of 6p22qter and 11q23.3qter involving the CMAHP and MLL genes, respectively.
+  DNA sequencing disclosed an additional breakpoint at 6p24.3 (at RREB1 gene). Retrospective
+  fluorescence in situ hybridization revealed presence of the MLL-involving rearrangement
+  in the initial stages of disease before clear morphological signs of bone marrow
+  involvement. The patient responded well to therapy and remains in remission>6 years
+  from diagnosis. This apparent 3-way translocation is remarkable because of its rarity
+  and presentation with myeloid sarcoma, and may, as more cases are characterized,
+  further our understanding onto how such complex translocations contribute to promote
+  leukemogenesis and respond to therapy.  Copyright ï¿½ 2013 S. Karger AG, Basel.
+authors: Tuborgh A, Meyer C, Marschalek R, Preiss B, Hasle H and Kjeldsen E
+cancertypes: []
+contact:
+  email: eigil.kjeldsen@ki.au.dk
+  name: Eigil Kjeldsen
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23735562
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: Cytogenet. Genome Res. 141(1), 2013
+label: 'Tuborgh A et al. (2013): '
+notes: ~
+pmid: 23735562
+title: Complex three-way translocation involving MLL, ELL, RREB1, and CMAHP genes
+  in an infant with acute myeloid leukemia and t(6;19;11)(p22.2;p13.1;q23.3).
+year: 2013

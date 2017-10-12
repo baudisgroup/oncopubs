@@ -1,0 +1,73 @@
+---
+abstract: Several phosphoinositide 3-kinase PI3K catalytic subunit inhibitors are
+  currently in clinical trial. We therefore sought to examine relationships between
+  pharmacologic inhibition and somatic mutations in PI3K catalytic subunits in estrogen
+  receptor ER -positive breast cancer, in which these mutations are particularly common.
+  RNA interference RNAi was used to determine the effect of selective inhibition of
+  PI3K catalytic subunits, p110alpha and p110beta, in ER breast cancer cells harboring
+  either mutation PIK3CA or gene amplification PIK3CB . p110alpha RNAi inhibited growth
+  and promoted apoptosis in all tested ER breast cancer cells under estrogen deprived-conditions,
+  whereas p110beta RNAi only affected cells harboring PIK3CB amplification. Moreover,
+  dual p110alpha p110beta inhibition potentiated these effects. In addition, treatment
+  with the clinical-grade PI3K catalytic subunit inhibitor BEZ235 also promoted apoptosis
+  in ER breast cancer cells. Importantly, estradiol suppressed apoptosis induced by
+  both gene knockdowns and BEZ235 treatment. Our results suggest that PI3K inhibitors
+  should target both p110alpha and p110beta catalytic subunits, whether wild-type
+  or mutant, and be combined with endocrine therapy for maximal efficacy when treating
+  ER breast cancer.
+authors: Crowder RJ, Phommaly C, Tao Y, Hoog J, Luo J, Perou CM, Parker JS, Miller
+  MA, Huntsman DG, Lin L, Snider J, Davies SR, Olson JA Jr, Watson MA, Saporita A,
+  Weber JD and Ellis MJ.
+cancertypes:
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 48
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: mellis@dom.wustl.edu
+  name: Matthew Ellis
+counts:
+  biosamples: 35
+  samples_acgh: 35
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19366795
+- geo:GSE15134
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ~
+    country: United States
+    label: st.louis, United States
+    precision: city [needs verification]
+journal: 'Cancer Res 69, 9 (2009): 3955-62.'
+label: 'Crowder et al. (2009): Pik3Ca and Pik3Cb Inhibition Produce Synthetic Lethality
+  When Combined With Estrogen Deprivation ...'
+notes: ~
+pmid: 19366795
+title: Pik3Ca and Pik3Cb Inhibition Produce Synthetic Lethality When Combined With
+  Estrogen Deprivation in Estrogen Receptor-Positive Breast Cancer.
+year: 2009

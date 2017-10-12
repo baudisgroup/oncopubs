@@ -1,0 +1,69 @@
+---
+abstract: The molecular basis of malignant mesothelioma is poorly known. We examined
+  genetic changes in 11 mesothelioma specimens by comparative genomic hybridization
+  CGH . Five DNA specimens originated from uncultured tumor tissues and six from cell
+  lines established from the same patients. Findings from the classical karyotypic
+  characterization of both primary tumors and cell lines have been reported previously.
+  In the CGH analyses the most common genetic alterations in the 11 mesothelioma specimens
+  were losses of chromosomal regions in 1p, 8p, 14q, and 22q and gains of 5p, 6p,
+  8q, 15q, 17q, and 20. The cell lines had on average a much higher total number of
+  genetic changes than the uncultured tumor specimens. Clonal relationship between
+  the cell lines and the uncultured tissue specimens could not usually be demonstrated
+  even though they originated from the same patient. The observed differences may
+  partly be due to high frequency of chromosomal rearrangements, which CGH cannot
+  detect, partly due to contamination of tumor specimens with normal tissue, and partly
+  due to genetic evolution in tumor cell lines.
+authors: Kivipensas P, Bjorkqvist AM, Karhu R, Pelin K, Linnainmaa K, Tammilehto L,
+  Mattson K, Kallioniemi QP and Knuutila S.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C3234
+  term_label: Mesothelioma
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:9050_3
+  term_label: Mesothelioma, malignant
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C38.4
+  term_label: pleura
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:seer:36010
+  term_label: Mesothelioma
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-90503
+  term_label: Mesothelioma, malignant
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8689616
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 89, 1 (1996): 7-13.'
+label: 'Kivipensas et al. (1996): Gains and Losses of DNA Sequences in Malignant Mesothelioma
+  By Comparative Genomic ...'
+notes: ~
+pmid: 8689616
+title: Gains and Losses of DNA Sequences in Malignant Mesothelioma By Comparative
+  Genomic Hybridization.
+year: 1996

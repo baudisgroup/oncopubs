@@ -1,0 +1,48 @@
+---
+abstract: Chondrosarcomas of the bone are malignant hyaline cartilage-forming tumors
+  with an annual incidence rate of 3.6 of all primary bone malignancies in the United
+  States. Specimens of 25 chondrosarcomas 10 grade I, 9 grade II, 1 grade III, and
+  5 dedifferentiated from 23 patients were collected from the Department of Pathology
+  at the University Hospital at UMDNJ-New Jersey Medical School from 1996 to 2007.
+  Array-based comparative genomic hybridization array-CGH studies were performed on
+  frozen tumor specimens. Recurrent deletions observed in at least in six tumors were
+  5q13.2, 5q14.2 approximately q21.3, 6q12 approximately q13, 6q16 approximately q25.3,
+  9p24.2 approximately q12, and 9p21.3. There was a statistically significant association
+  between high-grade tumor grade III and dedifferentiated and the recurrent genetic
+  deletions at 5q14.2 approximately q21.3, 6q16 approximately q25.3, 9p24.2 approximately
+  q12, and 9p21.3. There is consistency between increased levels of aneuploidy and
+  the progression of chondrosarcoma from lower to higher grades.
+authors: Hameed M, Ulger C, Yasar D, Limaye N, Kurvathi R, Streck D, Benevenia J,
+  Patterson F, Dermody JJ and Toruner GA.
+cancertypes: []
+contact:
+  email: torunega@umdnj.edu
+  name: Gokce A. Toruner
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19596254
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.75
+    - 39.68
+    type: Point
+  info:
+    city: Newark
+    continent: North America
+    country: United States
+    label: Newark, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 192, 2 (2009): 56-59.'
+label: 'Hameed et al. (2009): Genome Profiling of Chondrosarcoma Using Oligonucleotide
+  Array-Based Comparative Genomic ...'
+notes: ~
+pmid: 19596254
+title: Genome Profiling of Chondrosarcoma Using Oligonucleotide Array-Based Comparative
+  Genomic Hybridization.
+year: 2009

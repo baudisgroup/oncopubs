@@ -1,0 +1,75 @@
+---
+abstract: 'Glioblastomas are morphologically and genetically heterogeneous, but little
+  is known about the regional patterns of genomic imbalance within glioblastomas.
+  We recently established a reliable whole genome amplification WGA method to randomly
+  amplify DNA from paraffin-embedded histological sections with minimum amplification
+  bias Huang et al J Mol Diagn 11: 109-116, 2009 . In this study, chromosomal imbalance
+  was assessed by array comparative genomic hybridization CGH Agilent 105K, Agilent
+  Technologies, Santa Clara, CA, USA , using WGA-DNA from two to five separate tumor
+  areas of 14 primary glioblastomas total, 41 tumor areas . Chromosomal imbalances
+  significantly differed among glioblastomas the only alterations that were observed
+  in amp gt or 6 cases were loss of chromosome 10q, gain at 7p and loss of 10p. Genetic
+  alterations common to all areas analyzed within a single tumor included gains at
+  1q32.1 PIK3C2B, MDM4 , 4q11-q12 KIT, PDGFRA , 7p12.1-11.2 EGFR , 12q13.3-12q14.1
+  GLI1, CDK4 and 12q15 MDM2 , and loss at 9p21.1-24.3 p16 INK4a p14 ARF , 10p15.3-q26.3
+  PTEN, etc. and 13q12.11-q34 SPRY2, RB1 . These are likely to be causative in the
+  pathogenesis of glioblastomas driver mutations . In addition, there were numerous
+  tumor area-specific genomic imbalances, which may be either nonfunctional passenger
+  mutations or functional, but constitute secondary events reflecting progressive
+  genomic instability, a hallmark of glioblastomas.'
+authors: Nobusawa S, Lachuer J, Wierinckx A, Kim YH, Huang J, Legras C, Kleihues P
+  and Ohgaki H.
+cancertypes:
+- samples_arraymap: 41
+  samples_progenetix: 41
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 41
+  samples_progenetix: 41
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: 41
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: brain, NOS
+- samples_arraymap: 41
+  samples_progenetix: 41
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 41
+  samples_progenetix: 41
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: ohgaki@iarc.fr
+  name: Hiroko Ohgaki
+counts:
+  biosamples: 41
+  samples_acgh: 41
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20406234
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.85
+    - 45.75
+    type: Point
+  info:
+    city: Lyon
+    continent: Europe
+    country: France
+    label: Lyon, France, Europe
+    precision: city
+journal: 'Brain Pathol 20, 5 (2010): 936-44.'
+label: 'Nobusawa et al. (2010): Intratumoral Patterns of Genomic Imbalance in Glioblastomas.'
+notes: The data was presented as ISCN annotations (cytogenetic band resolution).
+pmid: 20406234
+title: Intratumoral Patterns of Genomic Imbalance in Glioblastomas.
+year: 2010

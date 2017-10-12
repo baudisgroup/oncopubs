@@ -1,0 +1,112 @@
+---
+abstract: Recent genome-wide microarray-based research investigations have revealed
+  a high frequency of submicroscopic copy number alterations CNAs in the myelodysplastic
+  syndromes MDS , suggesting microarray-based comparative genomic hybridization aCGH
+  has the potential to detect new clinically relevant genomic markers in a diagnostic
+  laboratory.
+authors: Slovak ML, Smith DD, Bedell V, Hsu YH, ODonnell M, Forman SJ, Gaal K, McDaniel
+  L, Schultz R, Ballif BC and Shaffer LG.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C27080
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C27722
+  term_label: Therapy-Related Myelodysplastic Syndrome
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C3247
+  term_label: Myelodysplastic Syndrome
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4036
+  term_label: Myelodysplastic Syndrome with Ring Sideroblasts
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C7506
+  term_label: Myelodysplastic Syndrome with Excess Blasts
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9982_3
+  term_label: Refractory anemia with sideroblasts
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:9983_3
+  term_label: Refractory anemia with excess blasts
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9984_3
+  term_label: Refractory anemia with excess blasts in transformation
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9987_3
+  term_label: Therapy-related myelodysplastic syndrome, NOS
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:9989_3
+  term_label: Myelodysplastic syndrome, NOS
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:35023
+  term_label: Other Myeloid/Monocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:37000
+  term_label: Miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99823
+  term_label: Refractory anemia with sideroblasts
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-99833
+  term_label: Refractory anemia with excess blasts
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-99843
+  term_label: Refractory anemia with excess blasts in transformation
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99873
+  term_label: Therapy-related myelodysplastic syndrome, NOS
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-99893
+  term_label: Myelodysplastic syndrome, NOS
+contact:
+  email: lisa.shaffer@perkinelmer.com
+  name: Lisa Shaffer
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21078186
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.43
+    - 47.66
+    type: Point
+  info:
+    city: Spokane
+    continent: North America
+    country: United States
+    label: Spokane, United States, North America
+    precision: city
+journal: 'Mol Cytogenet 3 (2010): 23.'
+label: 'Slovak et al. (2010): Assessing Karyotype Precision By Microarray-Based Comparative
+  Genomic Hybridization in the ...'
+notes: ~
+pmid: 21078186
+title: Assessing Karyotype Precision By Microarray-Based Comparative Genomic Hybridization
+  in the Myelodysplastic/Myeloproliferative Syndromes.
+year: 2010

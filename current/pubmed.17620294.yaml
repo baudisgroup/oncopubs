@@ -1,0 +1,73 @@
+---
+abstract: Copy number abnormalities CNAs in tumor cells are presumed to affect expression
+  levels of genes located in region of abnormality. To investigate this relationship
+  we have surveyed the losses, gains and amplifications in 30 glioblastomas using
+  array comparative genome hybridization and compared these data with gene expression
+  changes in the same tumors using the Affymetrix U133Plus2.0 oligonucleotide arrays.
+  The two datasets were overlaid using our in-house overlay tool which highlights
+  concordance between CNAs and expression level changes for the same tumors. In this
+  survey we have highlighted genes frequently overexpressed in amplified regions on
+  chromosomes 1, 4, 11, and 12 and have identified novel amplicons on these chromosomes.
+  Deletions of specific regions on chromosomes 9, 10, 11, 14, and 15 have also been
+  correlated with reduced gene expression in the regions of minimal overlap. In addition
+  we describe a novel approach for comparing gene expression levels between tumors
+  based on the presence or absence of chromosome CNAs. This genome wide screen provides
+  an efficient and comprehensive survey of genes which potentially serve as the drivers
+  for the CNAs in GBM.
+authors: Lo KC, Rossi MR, LaDuca J, Hicks DG, Turpaz Y, Hawthorn L and Cowell JK.
+cancertypes:
+- samples_arraymap: 29
+  samples_progenetix: 30
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 29
+  samples_progenetix: 30
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 29
+  samples_progenetix: 30
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 29
+  samples_progenetix: 30
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: jcowell@mcg.edu
+  name: John C. Cowell
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17620294
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 46, 10 (2007): 875-94.'
+label: 'Lo et al. (2007): Candidate Glioblastoma Development Gene Identification Using
+  Concordance Between Copy Number ...'
+notes: ~
+pmid: 17620294
+title: Candidate Glioblastoma Development Gene Identification Using Concordance Between
+  Copy Number Abnormalities and Gene Expression Level Changes.
+year: 2007

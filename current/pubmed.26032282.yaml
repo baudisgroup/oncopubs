@@ -1,0 +1,56 @@
+---
+abstract: As subsets of pheochromocytomas (PCCs) lack a defined molecular etiology,
+  we sought to characterize the mutational landscape of PCCs to identify novel gene
+  candidates involved in disease development. A discovery cohort of 15 PCCs wild type
+  for mutations in PCC susceptibility genes underwent whole-exome sequencing, and
+  an additional 83 PCCs served as a verification cohort for targeted sequencing of
+  candidate mutations. A low rate of nonsilent single nucleotide variants (SNVs) was
+  detected (6.1/sample). Somatic HRAS and EPAS1 mutations were observed in one case
+  each, whereas the remaining 13 cases did not exhibit variants in established PCC
+  genes. SNVs aggregated in apoptosis-related pathways, and mutations in COSMIC genes
+  not previously reported in PCCs included ZAN, MITF, WDTC1, and CAMTA1. Two somatic
+  mutations and one constitutional variant in the well-established cancer gene lysine
+  (K)-specific methyltransferase 2D (KMT2D, MLL2) were discovered in one sample each,
+  prompting KMT2D screening using focused exome-sequencing in the verification cohort.
+  An additional 11 PCCs displayed KMT2D variants, of which two were recurrent. In
+  total, missense KMT2D variants were found in 14 (11 somatic, two constitutional,
+  one undetermined) of 99 PCCs (14%). Five cases displayed somatic mutations in the
+  functional FYR/SET domains of KMT2D, constituting 36% of all KMT2D-mutated PCCs.
+  KMT2D expression was upregulated in PCCs compared to normal adrenals, and KMT2D
+  overexpression positively affected cell migration in a PCC cell line. We conclude
+  that KMT2D represents a recurrently mutated gene with potential implication for
+  PCC development. ï¿½ 2015 Wiley Periodicals, Inc.  ï¿½ 2015 Wiley Periodicals, Inc.
+authors: Juhlin CC, Stenman A, Haglund F, Clark VE, Brown TC, Baranoski J, Bilguvar
+  K, Goh G, Welander J, Svahn F, Rubinstein JC, Caramuta S, Yasuno K, Gï¿½nel M, Bï¿½ckdahl
+  M, Gimm O, Sï¿½derkvist P, Prasad ML, Korah R, Lifton RP and Carling T
+cancertypes: []
+contact:
+  email: tobias.carling@yale.edu
+  name: Tobias Carling
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 15
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26032282
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: North America
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer, 2015
+label: 'Juhlin CC et al. (2015): '
+notes: ~
+pmid: 26032282
+title: Whole-exome sequencing defines the mutational landscape of pheochromocytoma
+  and identifies KMT2D as a recurrently mutated gene.
+year: 2015

@@ -1,0 +1,50 @@
+---
+abstract: To identify transcriptional profiles predictive of the clinical benefit
+  of cisplatin and fluorouracil CF chemotherapy to gastric cancer patients, endoscopic
+  biopsy samples from 96 CF-treated metastatic gastric cancer patients were prospectively
+  collected before therapy and analyzed using high-throughput transcriptional profiling
+  and array comparative genomic hybridization. Transcriptional profiling identified
+  917 genes that are correlated with poor patient survival after CF at P amp lt 0.05
+  poor prognosis signature , in which protein synthesis and DNA replication recombination
+  repair functional categories are enriched. A survival risk predictor was then constructed
+  using genes, which are included in the poor prognosis signature and are contained
+  within identified genomic amplicons. The combined expression of three genes-MYC,
+  EGFR and FGFR2-was an independent predictor for overall survival of 27 CF-treated
+  patients in the validation set adjusted P 0.017 , and also for survival of 40 chemotherapy-treated
+  gastric cancer patients in a published data set adjusted P 0.026 . Thus, combined
+  expression of MYC, EGFR and FGFR2 is predictive of poor survival in CF-treated metastatic
+  gastric cancer patients.
+authors: Kim HK, Choi IJ, Kim CG, Kim HS, Oshima A, Yamada Y, Arao T, Nishio K, Michalowski
+  A and Green JE.
+cancertypes: []
+contact:
+  email: ~
+  name: Jeffery Green
+counts:
+  biosamples: 96
+  samples_acgh: 96
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21173787
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Pharmacogenomics J (2010)
+label: 'Kim et al. (2010): Three-Gene Predictor of Clinical Outcome for Gastric Cancer
+  Patients Treated With ...'
+notes: ~
+pmid: 21173787
+title: Three-Gene Predictor of Clinical Outcome for Gastric Cancer Patients Treated
+  With Chemotherapy.
+year: 2010

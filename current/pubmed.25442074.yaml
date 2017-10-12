@@ -1,0 +1,60 @@
+---
+abstract: Cytogenetic alterations are strong outcome prognosticators in uveal melanoma
+  (UVM). Monosomy 3 (-3) and MYC amplification at 8q24 are commonly tested by fluorescence
+  in situ hybridization (FISH). Alternatively, microarray analysis provides whole
+  genome data, detecting partial chromosome loss, loss of heterozygosity (LOH), or
+  abnormalities unrepresented by FISH probes. Nonfixed frozen tissue is conventionally
+  used for microarray analysis but may not always be available. We assessed the feasibility
+  of genomic microarray analysis for high resolution interrogation of UVM using formalin-fixed
+  paraffin-embedded tissue (FFPET) as an alternative to frozen tissue (FZT). Enucleations
+  from 44 patients (clinical trial NCT00952939) yielded sufficient DNA from FFPET
+  (n = 34) and/or frozen tissue (n = 41) for comparative genomic hybridization and
+  select single nucleotide polymorphism analysis (CGH/SNP) on Roche-NimbleGen OncoChip
+  arrays. CEP3 FISH analysis was performed on matched cytology ThinPrep material.
+  CGH/SNP analysis was successful in 30 of 34 FFPET and 41 of 41 FZT samples. Of 27
+  paired FFPET/FZT samples, 26 (96.3%) were concordant for at least four of six major
+  recurrent abnormalities (-3, +8q, -1p, +6p, -6q, -8p), and 25 of 27 (92.6%) were
+  concordant for -3. Results of CGH/SNP were concordant with the CEP3 FISH results
+  in 27 of 30 (90%) FFPET and 38 of 41 (92.6%) FZT cases; partial -3q was detected
+  in two CEP3 FISH-negative cases and whole chromosome 3, 4, and 6 SNP-LOH in one
+  case. CGH detection of -3, +8q, -8p on FFPET and FZT showed significant correlation
+  with the clinical outcome measures (metastasis development, time to progression,
+  survival). Results of the UVM genotyping by CGH/SNP on FFPET are highly concordant
+  with those of the FZT analysis and with those of the CEP3 FISH analysis, and therefore
+  CGH/SNP is a practical method for UVM prognostication. Genome-wide coverage provides
+  additional data with potential relevance to UVM biology, diagnosis, and prognosis.  Copyright
+  ï¿½ 2014. Published by Elsevier Inc.
+authors: Minca EC, Tubbs RR, Portier BP, Wang Z, Lanigan C, Aronow ME, Triozzi PL,
+  Singh A, Cook JR, Saunthararajah Y, Plesec TP, Schoenfield L, Cawich V, Sulpizio
+  S and Schultz RA
+cancertypes: []
+contact:
+  email: Roger.Schultz@PerkinElmer.com
+  name: Roger Schultz
+counts:
+  biosamples: 71
+  samples_acgh: 71
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25442074
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.43
+    - 47.66
+    type: Point
+  info:
+    city: Spokane
+    continent: North America
+    country: United States
+    label: Spokane, United States, North America
+    precision: city
+journal: Cancer Genet. 2014 Jul-Aug;207(7-8):306-15
+label: 'Minca EC et al. (): '
+notes: ~
+pmid: 25442074
+title: Genomic microarray analysis on formalin-fixed paraffin-embedded material for
+  uveal melanoma prognostication.
+year: 2014

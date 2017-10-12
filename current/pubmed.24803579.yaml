@@ -1,0 +1,58 @@
+---
+abstract: An improved understanding of the molecular pathogenesis of brain metastases,
+  one of the most common and devastating complications of advanced melanoma, may identify
+  and prioritize rational therapeutic approaches for this disease. In particular,
+  the identification of molecular differences between brain and extracranial metastases
+  would support the need for the development of organ-specific therapeutic approaches.Hotspot
+  mutations, copy number variations (CNV), global mRNA expression patterns, and quantitative
+  analysis of protein expression and activation by reverse-phase protein array (RPPA)
+  analysis were evaluated in pairs of melanoma brain metastases and extracranial metastases
+  from patients who had undergone surgical resection for both types of tumors.The
+  status of 154 previously reported hotspot mutations, including driver mutations
+  in BRAF and NRAS, were concordant in all evaluable patient-matched pairs of tumors.
+  Overall patterns of CNV, mRNA expression, and protein expression were largely similar
+  between the paired samples for individual patients. However, brain metastases demonstrated
+  increased expression of several activation-specific protein markers in the PI3K/AKT
+  pathway compared with the extracranial metastases.These results add to the understanding
+  of the molecular characteristics of melanoma brain metastases and support the rationale
+  for additional testing of the PI3K/AKT pathway as a therapeutic target in these
+  highly aggressive tumors.
+authors: Chen G, Chakravarti N, Aardalen K, Lazar AJ, Tetzlaff MT, Wubbenhorst B,
+  Kim SB, Kopetz S, Ledoux AA, Gopal YN, Pereira CG, Deng W, Lee JS, Nathanson KL,
+  Aldape KD, Prieto VG, Stuart D, Davies MA.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: gchen2@mdanderson.org
+  name: Guo Chen
+counts:
+  biosamples: 71
+  samples_acgh: 71
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24803579
+- geo:GSE50495
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: ~
+    country: United States (North America)
+    label: Houston, United States (North America)
+    precision: city [needs verification]
+journal: Clin. Cancer Res. 20(21), 2014
+label: ' (2014): '
+notes: ~
+pmid: 24803579
+title: Molecular profiling of patient-matched brain and extracranial melanoma metastases
+  implicates the PI3K pathway as a therapeutic target.
+year: 2014

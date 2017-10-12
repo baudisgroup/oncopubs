@@ -1,0 +1,36 @@
+---
+abstract: A high proportion of patients with uveal melanoma die of metastatic disease.
+  In a subgroup of uveal melanomas there is the loss of one chromosome 3. To assess
+  the prognostic implications of this genetic anomaly, we studied 54 patients for
+  a median of 3.4 years.
+authors: Prescher G, Bornfeld N, Hirche H, Horsthemke B, Jockel KH and Becher R.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8622452
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Lancet 347, 9010 (1996): 1222-25.'
+label: 'Prescher et al. (1996): Prognostic Implications of Monosomy 3 in Uveal Melanoma.'
+notes: ~
+pmid: 8622452
+title: Prognostic Implications of Monosomy 3 in Uveal Melanoma.
+year: 1996

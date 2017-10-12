@@ -1,0 +1,38 @@
+---
+abstract: To compare a gene expression-based classifier versus the standard genetic
+  prognostic marker, monosomy 3, for predicting metastasis in uveal melanoma.
+authors: Worley LA, Onken MD, Person E, Robirds D, Branson J, Char DH, Perry A and
+  Harbour JW.
+cancertypes: []
+contact:
+  email: harbour@wustl.edu
+  name: William J. Harbour
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17332290
+- geo:GSE42739
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ~
+    country: United States
+    label: st.louis, United States
+    precision: city [needs verification]
+journal: 'Clin Cancer Res 13, 5 (2007): 1466-71.'
+label: 'Worley et al. (2007): Transcriptomic Versus Chromosomal Prognostic Markers
+  and Clinical Outcome in Uveal ...'
+notes: Some of the aCGH data was published previously.
+pmid: 17332290
+title: Transcriptomic Versus Chromosomal Prognostic Markers and Clinical Outcome in
+  Uveal Melanoma.
+year: 2007

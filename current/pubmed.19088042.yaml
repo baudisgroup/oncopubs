@@ -1,0 +1,71 @@
+---
+abstract: Increased incidence of ductal carcinoma in situ DCIS associated with mammographic
+  screening for breast cancer has emphasized the challenges of managing this condition.
+  The aim of this study was to identify informative clinical indicators of DCIS biology
+  by molecular profiling.
+authors: Balleine RL, Webster LR, Davis S, Salisbury EL, Palazzo JP, Schwartz GF,
+  Cornfield DB, Walker RL, Byth K, Clarke CL, and Meltzer PS.
+cancertypes:
+- samples_arraymap: 49
+  samples_progenetix: ~
+  term_id: ncit:C2924
+  term_label: Ductal Breast Carcinoma In Situ
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:C4018
+  term_label: Lobular Breast Carcinoma In Situ
+- samples_arraymap: 49
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_2
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:8520_2
+  term_label: Lobular carcinoma in situ, NOS
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 49
+  samples_progenetix: ~
+  term_id: snmi:M-85002
+  term_label: Intraductal carcinoma, noninfiltrating, NOS
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-85202
+  term_label: Lobular carcinoma in situ, NOS
+contact:
+  email: pmeltzer@mail.nih.gov
+  name: Paul S. Meltzer
+counts:
+  biosamples: 145
+  samples_acgh: 145
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19088042
+- geo:GSE7882
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Clin Cancer Res, 14(24) 2008, 8244-52.
+label: 'Balleine et al. (2008): Molecular grading of ductal carcinoma in situ of the
+  breast.'
+notes: The patient samples were from Australia.
+pmid: 19088042
+title: Molecular grading of ductal carcinoma in situ of the breast.
+year: 2008

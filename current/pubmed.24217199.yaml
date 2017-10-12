@@ -1,0 +1,56 @@
+---
+abstract: ~
+authors: Roug AS, Wendtland P, Bendix K and Kjeldsen E.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24217199
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: Cytogenet Genome Res (2013).
+label: 'Roug et al. (2013): Supernumerary Isochromosome 1, idic(1)(p12), Leading to
+  Tetrasomy 1q in Burkitt Lymphoma.'
+notes: No exact coordinateswere provided for the aCGH profile of an additional relapse
+  sample.
+pmid: 24217199
+title: Supernumerary Isochromosome 1, idic(1)(p12), Leading to Tetrasomy 1q in Burkitt
+  Lymphoma.
+year: 2013

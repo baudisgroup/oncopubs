@@ -1,0 +1,41 @@
+---
+abstract: Neuroblastoma is characterized by two distinct types of genetic profiles,
+  consisting of either numerical or segmental chromosome alterations. The latter are
+  associated with a higher risk of relapse, even when occurring together with numerical
+  alterations. We explored the role of segmental alterations in tumor progression
+  and the possibility of evolution from indolent to aggressive genomic types.
+authors: Schleiermacher G, Janoueix-Lerosey I, Ribeiro A, Klijanienko J, Couturier
+  J, Pierron G, Mosseri V, Valent A, Auger N, Plantaz D, Rubie H, Valteau-Couanet
+  D, Bourdeaut F, Combaret V, Bergeron C, Michon J and Delattre O.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20516441
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'J Clin Oncol 28, 19 (2010): 3122-30.'
+label: 'Schleiermacher et al. (2010): Accumulation of Segmental Alterations Determines
+  Progression in Neuroblastoma.'
+notes: The study describes 394 cases, of which the aCGH data of 392 had been published
+  before.
+pmid: 20516441
+title: Accumulation of Segmental Alterations Determines Progression in Neuroblastoma.
+year: 2010

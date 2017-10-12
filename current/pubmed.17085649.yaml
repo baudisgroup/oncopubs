@@ -1,0 +1,65 @@
+---
+abstract: The genomic instability in colon cancer can be divided into at least two
+  major types, microsatellite instability MSI or chromosomal instability CIN . Although
+  initially felt to be mutually exclusive, recent evidence suggests that there may
+  be overlap between the two. The aim of this study was to identify chromosomal alterations
+  at high resolution in sporadic colon cancers with high-level microsatellite instability
+  MSI-H and to compare them to those present in a set of matched microsatellite stable
+  MSS tumors.
+authors: Trautmann K, Terdiman JP, French AJ, Roydasgupta R, Sein N, Kakar S, Fridlyand
+  J, Snijders AM, Albertson DG, Thibodeau SN and Waldman FM.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: 46
+  samples_progenetix: ~
+  term_id: ncit:C4349
+  term_label: Colon Adenocarcinoma
+- samples_arraymap: 46
+  samples_progenetix: 46
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 46
+  samples_progenetix: 46
+  term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- samples_arraymap: 46
+  samples_progenetix: 46
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: 46
+  samples_progenetix: 46
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: waldman@cc.ucsf.edu
+  name: Frederic M. Waldman
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17085649
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 12, 21 (2006): 6379-85.'
+label: 'Trautmann et al. (2006): Chromosomal Instability in Microsatellite-Unstable
+  and Stable Colon Cancer.'
+notes: supplementary data online
+pmid: 17085649
+title: Chromosomal Instability in Microsatellite-Unstable and Stable Colon Cancer.
+year: 2006

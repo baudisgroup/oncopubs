@@ -1,0 +1,78 @@
+---
+abstract: Similar to other malignancies, urothelial carcinoma (UC) is characterized
+  by specific recurrent chromosomal aberrations and gene mutations. However, the interconnection
+  between specific genomic alterations, and how patterns of chromosomal alterations
+  adhere to different molecular subgroups of UC, is less clear. We applied tiling
+  resolution array CGH to 146 cases of UC and identified a number of regions harboring
+  recurrent focal genomic amplifications and deletions. Several potential oncogenes
+  were included in the amplified regions, including known oncogenes like E2F3, CCND1,
+  and CCNE1, as well as new candidate genes, such as SETDB1 (1q21), and BCL2L1 (20q11).
+  We next combined genome profiling with global gene expression, gene mutation, and
+  protein expression data and identified two major genomic circuits operating in urothelial
+  carcinoma. The first circuit was characterized by FGFR3 alterations, overexpression
+  of CCND1, and 9q and CDKN2A deletions. The second circuit was defined by E3F3 amplifications
+  and RB1 deletions, as well as gains of 5p, deletions at PTEN and 2q36, 16q, 20q,
+  and elevated CDKN2A levels. TP53/MDM2 alterations were common for advanced tumors
+  within the two circuits. Our data also suggest a possible RAS/RAF circuit. The tumors
+  with worst prognosis showed a gene expression profile that indicated a keratinized
+  phenotype. Taken together, our integrative approach revealed at least two separate
+  networks of genomic alterations linked to the molecular diversity seen in UC, and
+  that these circuits may reflect distinct pathways of tumor development.
+authors: Lindgren D, Sjï¿½dahl G, Lauss M, Staaf J, Chebil G, Lï¿½vgren K, Gudjonsson
+  S, Liedberg F, Patschan O, Mï¿½nsson W, Fernï¿½ M and Hï¿½glund M
+cancertypes:
+- samples_arraymap: 146
+  samples_progenetix: ~
+  term_id: ncit:C9106
+  term_label: Urethral Carcinoma
+- samples_arraymap: 146
+  samples_progenetix: ~
+  term_id: pgx:icdom:8120_3
+  term_label: Transitional cell carcinoma, NOS
+- samples_arraymap: 146
+  samples_progenetix: ~
+  term_id: pgx:icdot:C68.0
+  term_label: other urinary organs
+- samples_arraymap: 146
+  samples_progenetix: ~
+  term_id: pgx:seer:29010
+  term_label: Urinary Bladder
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 146
+  samples_progenetix: ~
+  term_id: snmi:M-81203
+  term_label: Transitional cell carcinoma, NOS
+contact:
+  email: mattias.hoglund@med.lu.se
+  name: ~
+counts:
+  biosamples: 146
+  samples_acgh: 146
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22685613
+- geo:GSE32535
+geo_data:
+  geo_json:
+    coordinates:
+    - 13
+    - 55.61
+    type: Point
+  info:
+    city: Malmoe
+    continent: Europe
+    country: Sweden
+    label: Malmoe, Sweden, Europe
+    precision: city
+journal: PLoS ONE 7(6), 2012
+label: 'Lindgren D et al. (2012): '
+notes: ~
+pmid: 22685613
+title: Integrated genomic and gene expression profiling identifies two major genomic
+  circuits in urothelial carcinoma.
+year: 2012

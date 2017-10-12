@@ -1,0 +1,94 @@
+---
+abstract: We used genome-wide methylation microarrays to analyze differences in CpG
+  methylation patterns in cells relevant to the pathogenesis of myeloma plasma cells
+  B cells, normal plasma cells, monoclonal gammopathy of undetermined significance
+  MGUS , presentation myeloma, and plasma cell leukemia . We show that methylation
+  patterns in these cell types are capable of distinguishing nonmalignant from malignant
+  cells and the main reason for this difference is hypomethylation of the genome at
+  the transition from MGUS to presentation myeloma. In addition, gene-specific hypermethylation
+  was evident at the myeloma stage. Differential methylation was also evident at the
+  transition from myeloma to plasma cell leukemia with remethylation of the genome,
+  particularly of genes involved in cell-cell signaling and cell adhesion, which may
+  contribute to independence from the bone marrow microenvironment. There was a high
+  degree of methylation variability within presentation myeloma samples, which was
+  associated with cytogenetic differences between samples. More specifically, we found
+  methylation subgroups were defined by translocations and hyperdiploidy, with t 4
+  14 myeloma having the greatest impact on DNA methylation. Two groups of hyperdiploid
+  samples were identified, on the basis of unsupervised clustering, which had an impact
+  on overall survival. Overall, DNA methylation changes significantly during disease
+  progression and between cytogenetic subgroups.
+authors: Walker BA, Wardell CP, Chiecchio L, Smith EM, Boyd KD, Neri A, Davies FE,
+  Ross FM and Morgan GJ.
+cancertypes:
+- samples_arraymap: 60
+  samples_progenetix: ~
+  term_id: ncit:C3242
+  term_label: Plasma Cell Myeloma
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 60
+  samples_progenetix: ~
+  term_id: pgx:icdom:9731_3
+  term_label: Plasmacytoma, NOS
+- samples_arraymap: 60
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 60
+  samples_progenetix: ~
+  term_id: pgx:seer:34000
+  term_label: Myeloma
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 60
+  samples_progenetix: ~
+  term_id: snmi:M-97313
+  term_label: Plasmacytoma, NOS
+contact:
+  email: ~
+  name: Brian Walker
+counts:
+  biosamples: 190
+  samples_acgh: 190
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20944071
+- geo:GSE21304
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Blood 117, 2 (2011): 553-62.'
+label: 'Walker et al. (2011): Aberrant Global Methylation Patterns Affect the Molecular
+  Pathogenesis and Prognosis of Multiple ...'
+notes: ~
+pmid: 20944071
+title: Aberrant Global Methylation Patterns Affect the Molecular Pathogenesis and
+  Prognosis of Multiple Myeloma.
+year: 2011

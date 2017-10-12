@@ -1,0 +1,50 @@
+---
+abstract: 'Multiple basal cell carcinomas BCCs are a hallmark of Gorlin syndrome nevoid
+  basal cell carcinoma syndrome , which is caused by mutation in the PTCH1 gene on
+  9q22.3. However, there are several reports of familial cases with multiple BCCs
+  without the associated defects of Gorlin syndrome. The possibility of underlying
+  genetic abnormalities in these familial BCCs has not been explored previously. The
+  present study investigated a possible genetic abnormality in two members of a family
+  with multiple nonsyndromic BCCs. The possibility of Gorlin syndrome in this family
+  was excluded by both the absence of any clinical and radiological features and the
+  lack of mutation in PTCH1. Notably, whole-genome comparative genomic hybridization
+  CGH identified a microdeletion in chromosome 22q11.1 in both of the studied cases.
+  A tiling path CGH array of the 22q11.1 region confirmed this microdeletion and mapped
+  it between 14.46 and 14.5 Mb on chromosome 22q. The 34-kb region of this microdeletion
+  includes three annotated genes: LOC644525, LOC100132389, and LOC729057. Although
+  future studies of other families with the hereditary nonsyndromic BCCs are still
+  warranted, this study identified an association between a microdeletion of 22q11.1
+  and two familial cases of BCC.'
+authors: Naderi A.
+cancertypes: []
+contact:
+  email: a.naderi@uq.edu.au
+  name: Ali Naderi
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20875876
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.47
+    - 52.13
+    type: Point
+  info:
+    city: Bedford
+    continent: Europe
+    country: United Kingdom
+    label: Bedford, United Kingdom, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 202, 2 (2010): 133-35.'
+label: 'Naderi A. (2010): Microdeletion of 22q11.1 is Associated With Two Cases of
+  Familial Nonsyndromic Basal Cell ...'
+notes: ~
+pmid: 20875876
+title: Microdeletion of 22q11.1 is Associated With Two Cases of Familial Nonsyndromic
+  Basal Cell Carcinoma.
+year: 2010

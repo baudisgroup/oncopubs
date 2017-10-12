@@ -1,0 +1,116 @@
+---
+abstract: Gross cytogenetic anomalies are traditionally being used as diagnostic,
+  prognostic and therapeutic markers in the clinical management of cancer, including
+  childhood acute lymphoblastic leukemia ALL . Recently, it has become increasingly
+  clear that genetic lesions driving tumorigenesis frequently occur at the submicroscopic
+  level and, consequently, escape standard cytogenetic observations. Therefore, we
+  profiled the genomes of 40 childhood ALLs at high resolution. We detected multiple
+  de novo genetic lesions, including gross aneuploidies and segmental gains and losses,
+  some of which were subtle and affected single genes. Many of these lesions involved
+  recurrent partially overlapping deletions and duplications, containing various established
+  leukemia-associated genes, such as ETV6, RUNX1 and MLL. Importantly, the most frequently
+  affected genes were those controlling G1 S cell cycle progression e.g. CDKN2A, CDKN1B
+  and RB1 , followed by genes associated with B-cell development. The latter group
+  includes microdeletions of the B-lineage transcription factors PAX5, EBF, E2-2 and
+  IKZF1 Ikaros , as well as genes with other established roles in B-cell development,
+  that is RAG1 and RAG2, FYN, PBEF1 or CBP PAG. The fact that we frequently encountered
+  multiple lesions affecting genes involved in cell cycle regulation and B-cell differentiation
+  strongly suggests that both these processes need to be targeted independently and
+  simultaneously to trigger ALL development.
+authors: Kuiper RP, Schoenmakers EF, van Reijmersdal SV, Hehir-Kwa JY, van Kessel
+  AG, van Leeuwen FN and Hoogerbrugge PM.
+cancertypes:
+- samples_arraymap: 33
+  samples_progenetix: 16
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: ncit:C3183
+  term_label: T Acute Lymphoblastic Leukemia
+- samples_arraymap: 5
+  samples_progenetix: 21
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 33
+  samples_progenetix: 16
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:9836_3
+  term_label: Precursor B-cell lymphoblastic leukemia
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: pgx:icdom:9837_3
+  term_label: Precursor T-cell lymphoblastic leukemia
+- samples_arraymap: 40
+  samples_progenetix: 37
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 40
+  samples_progenetix: 37
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 33
+  samples_progenetix: 16
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-98363
+  term_label: Precursor B-cell lymphoblastic leukemia
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: snmi:M-98373
+  term_label: Precursor T-cell lymphoblastic leukemia
+contact:
+  email: p.hoogerbrugge@cukz.umcn.nl
+  name: P.M. Hoogerbrugge
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17443227
+- geo:GSE7255
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Leukemia 21, 6 (2007): 1258-66.'
+label: 'Kuiper et al. (2007): High-Resolution Genomic Profiling of Childhood All Reveals
+  Novel Recurrent Genetic Lesions ...'
+notes: The GEO raw data of the 37 cases analyzed with the 250k mapping arrays was
+  re-processed with the aroma.affymetrix software package.
+pmid: 17443227
+title: High-Resolution Genomic Profiling of Childhood All Reveals Novel Recurrent
+  Genetic Lesions Affecting Pathways Involved in Lymphocyte Differentiation and Cell
+  Cycle Progression.
+year: 2007

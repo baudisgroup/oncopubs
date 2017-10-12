@@ -1,0 +1,75 @@
+---
+abstract: 'PURPOSE: East-Asian EA patients with non-small-cell lung cancer NSCLC are
+  associated with a high proportion of nonsmoking women, epidermal growth factor receptor
+  EGFR -activating somatic mutations, and clinical responses to tyrosine kinase inhibitors.
+  We sought to identify novel molecular differences between NSCLCs from EA and Western
+  European WE patients. EXPERIMENTAL DESIGN: A total of 226 lung adenocarcinoma samples
+  from EA n 90 and WE n 136 patients were analyzed for copy number aberrations CNA
+  by using a common high-resolution SNP single nucleotide polymorphism microarray
+  platform. Univariate and multivariate analyses were carried out to identify CNAs
+  specifically related to smoking history, EGFR mutation status, and ethnicity. RESULTS:
+  The overall genomic profiles of adenocarcinomas from EA and WE patients were highly
+  similar. Univariate analyses revealed several CNAs significantly associated with
+  ethnicity, EGFR mutation, and smoking, but not to gender, and KRAS or p53 mutations.
+  A multivariate model identified four ethnic-specific recurrent CNAs-significantly
+  higher rates of copy number gain were observed on 16p13.13 and 16p13.11 in EA tumors,
+  whereas higher rates of genomic loss on 19p13.3 and 19p13.11 were observed in tumors
+  from WE patients. We identified several potential driver genes in these regions,
+  showing a positive correlation between cis-localized copy number changes and transcriptomic
+  changes. CONCLUSION: 16p copy number gains EA and 19p losses WE are ethnic-specific
+  chromosomal aberrations in lung adenocarcinoma. Patient ethnicity should be considered
+  when evaluating future NSCLC therapies targeting genes located on these areas.'
+authors: Broet P, Dalmasso C, Tan EH, Alifano M, Zhang S, Wu J, Lee MH, Regnard JF,
+  Lim D, Koong HN, Agasthian T, Miller LD, Lim E, Camilleri-Broet S and Tan P.
+cancertypes:
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 226
+  samples_acgh: 226
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21521776
+- geo:GSE33848
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: Asia
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: 'Clin Cancer Res (2011) 17: 3542-3550.'
+label: 'Broet et al. (2011): Genomic profiles specific to patient ethnicity in lung
+  adenocarcinoma.'
+notes: ~
+pmid: 21521776
+title: Genomic profiles specific to patient ethnicity in lung adenocarcinoma.
+year: 2011

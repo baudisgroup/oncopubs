@@ -1,0 +1,51 @@
+---
+abstract: A 70-year-old woman was diagnosed with a malignant melanoma of the occipital
+  skin which was resected; however, multiple lung metastases were detected. Nivolumab
+  therapy was initiated and partial response was obtained. However, the patient was
+  diagnosed with grade 2 interstitial pneumonitis. Prednisolone administration was
+  initiated and the interstitial pneumonitis shadow disappeared. However, then a right
+  rib metastasis was noticed and given radiation therapy. After progressive disease
+  was obtained, the metastatic lesion was resected, and no relapse occurred until
+  skeletal muscle metastasis was found. According to whole-exome sequencing and gene
+  expression profiling, the rib and skeletal muscle metastatic lesions showed an upregulated
+  expression of programmed death-ligand 1 mRNA and a high single-nucleotide variant
+  (SNV) number. The current melanoma case is representative of a patient who responded
+  to nivolumab therapy, and showed typical immunological markers for responders such
+  as high PD-L1 expression and high SNV.
+authors: Kiyohara Y, Yoshikawa S, Otsuka M, Kondou R, Iizuka A, Nonomura C, Ohshima
+  K, Urakami K, Kusuhara M, Nagashima T, Sugino T, Yamaguchi K, Akiyama Y.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28452169
+geo_data:
+  geo_json:
+    coordinates:
+    - 138.38
+    - 34.98
+    type: Point
+  info:
+    city: Shizuoka-shi
+    continent: Asia
+    country: Japan
+    label: Shizuoka-shi, Japan, Asia
+    precision: city
+journal: J. Dermatol., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28452169
+title: 'Melanoma patient response to nivolumab treatment for metastatic lung lesions:
+  Multi-OMICS analysis in Project HOPE.'
+year: 2017

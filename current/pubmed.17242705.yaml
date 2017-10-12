@@ -1,0 +1,55 @@
+---
+abstract: Pancreatic ductal adenocarcinoma PDAC is characterised pathologically by
+  a marked desmoplastic stromal reaction that significantly reduces the sensitivity
+  and specificity of cytogenetic analysis. To identify genetic alterations that reflect
+  the characteristics of the tumour in vivo, we screened a total of 23 microdissected
+  PDAC tissue samples using array-based comparative genomic hybridisation array CGH
+  with 1 Mb resolution. Highly stringent statistical analysis enabled us to define
+  the regions of nonrandom genomic changes. We detected a total of 41 contiguous regions
+  amp gt 3.0 Mb of copy number changes, such as a genetic gain at 7p22.2-p15.1 26.0
+  Mb and losses at 17p13.3-p11.2 13.6 Mb , 18q21.2-q22.1 12.0 Mb , 18q22.3-q23 7.1
+  Mb and 18q12.3-q21.2 6.9 Mb . To validate our array CGH results, fluorescence in
+  situ hybridisation was performed using four probes from those regions, showing that
+  these genetic alterations were observed in 37-68 of a separate sample set of 19
+  PDAC cases. In particular, deletion of the SEC11L3 gene 18q21.32 was detected at
+  a very high frequency 13 out of 19 cases 68 and in situ RNA hybridisation for this
+  gene demonstrated a significant correlation between deletion and expression levels.
+  It was further confirmed by reverse transcription-PCR that SEC11L3 mRNA was downregulated
+  in 16 out of 16 PDAC tissues 100 . In conclusion, the combination of tissue microdissection
+  and array CGH provided a valid data set that represents in vivo genetic changes
+  in PDAC. Our results raise the possibility that the SEC11L3 gene may play a role
+  as a tumour suppressor in this disease.
+authors: Harada T, Baril P, Gangeswaran R, Kelly G, Chelala C, Bhakta V, Caulee K,
+  Mahon PC and Lemoine NR.
+cancertypes: []
+contact:
+  email: ~
+  name: Nick R. Lemoine
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17242705
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Br J Cancer 96, 2 (2007): 373-82.'
+label: 'Harada et al. (2007): Identification of Genetic Alterations in Pancreatic
+  Cancer By the Combined Use of Tissue ...'
+notes: Some datafiles are available (incorrectly labeled .doc, though CSV).
+pmid: 17242705
+title: Identification of Genetic Alterations in Pancreatic Cancer By the Combined
+  Use of Tissue Microdissection and Array-Based Comparative Genomic Hybridisation.
+year: 2007

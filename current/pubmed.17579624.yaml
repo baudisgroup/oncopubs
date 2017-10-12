@@ -1,0 +1,51 @@
+---
+abstract: The purpose of this study was to investigate the accumulation of genetic
+  alterations during metachronous and or synchronous development of multifocal low-grade
+  superficial urothelial tumours in the same patient, by using array-based comparative
+  genomic hybridisation array-CGH and FGFR mutation analysis. We analysed 24 tumours
+  pTa-1 G1-2 from five patients. We had previously identified a clonal relationship
+  among the tumours of each patient by microsatellite analysis. This time, unsupervised
+  hierarchical cluster analysis revealed that the tumours from each patient were clustered
+  together independently of the tumours from the other patients. All of the tumours
+  from a single patient showed a set of 2-7 identical regional or whole-arm chromosomal
+  changes. In addition, several individual alterations were also found. Cladistic
+  diagrams revealed that the accumulation of genetic alterations could not be explained
+  by a linear model, and the existence of a hypothetical precursor cell was assumed
+  in four patients. In some cases, FGFR mutation seemed to occur later during multifocal
+  tumour development. Taken together, these findings suggest that low-grade superficial
+  urothelial tumours accumulate minor genetic alterations during multifocal development,
+  although these tumours are genetically stable.
+authors: Kawanishi H, Takahashi T, Ito M, Matsui Y, Watanabe J, Ito N, Kamoto T, Kadowaki
+  T, Tsujimoto G, Imoto I, Inazawa J, Nishiyama H and Ogawa O.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17579624
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.78
+    - 35.05
+    type: Point
+  info:
+    city: Sakyo Ward
+    continent: ~
+    country: Japan
+    label: Sakyo Ward, Japan
+    precision: city [needs verification]
+journal: 'Br J Cancer 97, 2 (2007): 260-66.'
+label: 'Kawanishi et al. (2007): Genetic Analysis of Multifocal Superficial Urothelial
+  Cancers By Array-Based Comparative ...'
+notes: ~
+pmid: 17579624
+title: Genetic Analysis of Multifocal Superficial Urothelial Cancers By Array-Based
+  Comparative Genomic Hybridisation.
+year: 2007

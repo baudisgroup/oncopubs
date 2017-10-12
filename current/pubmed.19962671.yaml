@@ -1,0 +1,117 @@
+---
+abstract: We discovered a high-level amplicon involving the chr19q13.41 microRNA miRNA
+  cluster C19MC in 11 45 approximately 25 primary CNS-PNET, which results in striking
+  overexpression of miR-517c and 520g. Constitutive expression of miR-517c or 520g
+  promotes in vitro and in vivo oncogenicity, modulates cell survival, and robustly
+  enhances growth of untransformed human neural stem cells hNSCs in part by upregulating
+  WNT pathway signaling and restricting differentiation of hNSCs. Remarkably, the
+  C19MC amplicon, which is very rare in other brain tumors 1 263 , identifies an aggressive
+  subgroup of CNS-PNET with distinct gene-expression profiles, characteristic histology,
+  and dismal survival. Our data implicate miR-517c and 520g as oncogenes and promising
+  biological markers for CNS-PNET and provide important insights into oncogenic properties
+  of the C19MC locus.
+authors: Li M, Lee KF, Lu Y, Clarke I, Shih D, Eberhart C, Collins VP, Van Meter T,
+  Picard D, Zhou L, Boutros PC, Modena P, Liang ML, Scherer SW, Bouffet E, Rutka JT,
+  Pomeroy SL, Lau CC, Taylor MD, Gajjar A, Dirks PB, Hawkins CE and Huang A.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C4915
+  term_label: Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
+- samples_arraymap: 79
+  samples_progenetix: 29
+  term_id: ncit:C5398
+  term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C66808
+  term_label: ~
+- samples_arraymap: 56
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 56
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9392_3
+  term_label: Ependymoma, anaplastic
+- samples_arraymap: 79
+  samples_progenetix: 29
+  term_id: pgx:icdom:9473_3
+  term_label: Primitive neuroectodermal tumor, NOS
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9501_3
+  term_label: Medulloepithelioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 36
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: 79
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 56
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 79
+  samples_progenetix: 36
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 56
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 56
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-93923
+  term_label: Ependymoma, anaplastic
+- samples_arraymap: 79
+  samples_progenetix: 29
+  term_id: snmi:M-94733
+  term_label: Primitive neuroectodermal tumor, NOS
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-95013
+  term_label: Medulloepithelioma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19962671
+- geo:GSE14087
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Cell 16, 6 (2009): 533-46.'
+label: 'Li et al. (2009): Frequent Amplification of a Chr19Q13.41 Microrna Polycistron
+  in Aggressive Primitive Neuroectodermal ...'
+notes: Copy number profiles were generated from the Affymetric CEL files available
+  through GEO, Some arrays were excluded due to high probe level noise.
+pmid: 19962671
+title: Frequent Amplification of a Chr19Q13.41 Microrna Polycistron in Aggressive
+  Primitive Neuroectodermal Brain Tumors.
+year: 2009

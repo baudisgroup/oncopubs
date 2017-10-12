@@ -1,0 +1,54 @@
+---
+abstract: 'Sporadic adrenocortical tumours are common, but their pathogenesis is poorly
+  elucidated. In this study, we present a meta-analysis and review of gene expression
+  microarray and comparative genome hybridization CGH studies performed to date on
+  these tumours, including our own data. Data of whole genome microarray studies from
+  altogether 164 tumours 97 benign, 67 malignant and 18 normal tissues were reclassified
+  and reanalysed. Significant gene sets and cytogenetic changes from publications
+  without available genomic data were also examined including 269 benign, 215 malignant
+  tumour and 30 normal tissues. In our experimental study, 11 tumour and four normal
+  samples were analysed by parallel mRNA and CGH profiling. Data were examined by
+  an integrative bioinformatics approach GeneSpring, Gene Set Enrichment Analysis
+  and Ingenuity Pathway Analysis softwares searching for common gene expression changes
+  and paralleling chromosome aberrations. Both meta-analysis of available mRNA and
+  CGH profiling data and our experimental study revealed three major pathogenetic
+  pathways: 1 cell cycle, 2 retinoic acid signalling including lipopolysaccharide
+  Toll like receptor 4 pathway , 3 complement system and antigen presentation. These
+  pathways include novel, previously undescribed pathomechanisms of adrenocortical
+  tumours, and associated gene products may serve as diagnostic markers of malignancy
+  and therapeutic targets.'
+authors: Szabo PM, Tamasi V, Molnar V, Andrasfalvy M, Tombol Z, Farkas R, Kovesdi
+  K, Patocs A, Toth M, Szalai C, Falus A, Racz K and Igaz P.
+cancertypes: []
+contact:
+  email: ~
+  name: P Igaz
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20305693
+- geo:GSE17396
+geo_data:
+  geo_json:
+    coordinates:
+    - 19.04
+    - 47.5
+    type: Point
+  info:
+    city: Budapest
+    continent: Europe
+    country: Hungary
+    label: Budapest, Hungary, Europe
+    precision: city
+journal: 'Oncogene 29, 21 (2010): 3163-72.'
+label: 'Szabo et al. (2010): Meta-Analysis of Adrenocortical Tumour Genomics Data:
+  Novel Pathogenic Pathways ...'
+notes: ~
+pmid: 20305693
+title: 'Meta-Analysis of Adrenocortical Tumour Genomics Data: Novel Pathogenic Pathways
+  Revealed.'
+year: 2010

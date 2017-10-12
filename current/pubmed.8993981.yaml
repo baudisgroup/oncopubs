@@ -1,0 +1,66 @@
+---
+abstract: Comparative genomic hybridization CGH was used to evaluate and map genomic
+  aberrations in 50 hepatocellular carcinomas HCCs from patients chronically infected
+  with hepatitis B virus HBV . CGH clearly detected nonrandom genomic imbalances.
+  Losses were most prevalent on chromosome regions 4q 70 , 8p 65 , 16q 54 , 17p 51
+  , 13q and 6q 37 each , and lp 30 . The most frequent gains occurred on 8q 60 , 1q
+  58 , and 6p and 17q 33 each . In a few cases, sequence amplifications were detected
+  that were mapped to bands 11q12, 12p11, 14q12, and 19q13.1. This study represents
+  the first analysis of primary liver cancers by CGH, and it confirms the presence
+  of previously known chromosomal aberrations in HCC and highlights new quantitative
+  abnormalities and sequence amplifications. These findings should lead to the characterization
+  of new loci involved in liver cancer pathogenesis.
+authors: Marchio A, Meddeb M, Pineau P, Danglot G, Tiollais P, Bernheim A and Dejean
+  A.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: pgx:icdot:C22
+  term_label: liver
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: pgx:seer:21071
+  term_label: Liver
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
+contact:
+  email: ~
+  name: NA Marchio
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 50
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8993981
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 18, 1 (1997): 59-65.'
+label: 'Marchio et al. (1997): Recurrent Chromosomal Abnormalities in Hepatocellular
+  Carcinoma Detected By Comparative Genomic ...'
+notes: ~
+pmid: 8993981
+title: Recurrent Chromosomal Abnormalities in Hepatocellular Carcinoma Detected By
+  Comparative Genomic Hybridization.
+year: 1997

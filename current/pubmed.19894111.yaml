@@ -1,0 +1,53 @@
+---
+abstract: 'Large genomic rearrangements are estimated to account for approximately
+  5-10 of all disease-causing mutations in BRCA1 and BRCA2 genes in patients with
+  hereditary breast and ovarian cancer syndrome HBOC . We use MRC-Holland Multiplex
+  Ligation-dependent Probe Amplification MLPA to screen for such rearrangements in
+  patients with HBOC and as a first step in our genetic testing workflow. The technique
+  was applied to a set of 310 independent patients and detected eight different copy
+  number alterations, corresponding to 2.6 of the studied samples. MLPA was also found
+  to identify point mutations located in probe sequences. As commercial MLPA tests
+  are not suitable for determining the specific breakpoints or for defining the exact
+  extent of rearrangements, we applied a set of different complementary techniques
+  to characterize these genetic alterations with greater precision. Long-range PCR
+  amplification, RNA analysis, SNP-array chips, non-commercial MLPA probes, and FISH
+  analysis were used to fully define the extent and mechanism of each alteration.
+  In BRCA1, six rearrangements were characterized: deletion of E22, duplication of
+  E9-E24, deletion of E16-E23, deletion of E1-E13, deletion of E1-E2 and duplication
+  of E1-E2. In BRCA2, we studied a deletion of E15-E16 and a deletion of E1-E24. To
+  the best of our knowledge, this is the most comprehensive study of the nature and
+  underlying molecular causes of these mutational events in the BRCA1 2 genes.'
+authors: del Valle J, Feliubadalo L, Nadal M, Teule A, Miro R, Cuesta R, Tornero E,
+  Menendez M, Darder E, Brunet J, Capella G, Blanco I and Lazaro C.
+cancertypes: []
+contact:
+  email: clazaro@iconcologia.net
+  name: Conxi La zaro
+counts:
+  biosamples: 310
+  samples_acgh: 310
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19894111
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Breast Cancer Res Treat 122, 3 (2010): 733-43.'
+label: 'del Valle et al. (2010): Identification and Comprehensive Characterization
+  of Large Genomic Rearrangements in the Brca1 ...'
+notes: ~
+pmid: 19894111
+title: Identification and Comprehensive Characterization of Large Genomic Rearrangements
+  in the Brca1 and Brca2 Genes.
+year: 2010

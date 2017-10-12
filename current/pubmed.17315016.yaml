@@ -1,0 +1,57 @@
+---
+abstract: ~
+authors: Kuchinskaya E, Nordgren A, Heyman M, Schoumans J, Corcoran M, Staaf J, Borg
+  A, Soderhall S, Grander D, Nordenskjold M, and Blennow E.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+contact:
+  email: Ekaterina.Kuchinskaya@ki.se
+  name: Ekaterina Kuchinskaya
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17315016
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Leukemia, 21(6) 2007, 1327-30.
+label: 'Kuchinskaya et al. (2007): Tiling-resolution array-CGH reveals the pattern
+  of DNA copy number alterations in acute ...'
+notes: ~
+pmid: 17315016
+title: 'Tiling-resolution array-CGH reveals the pattern of DNA copy number alterations
+  in acute lymphoblastic leukemia with 21q amplification: the result of telomere dysfunction
+  and breakage/fusion/breakage cycles '
+year: 2007

@@ -1,0 +1,53 @@
+---
+abstract: The tyrosine kinase TK family is an important regulator of signaling pathways
+  that control a variety of physiological and pathological conditions, and a substantial
+  proportion of TK genes are genetically altered in cancer. To clarify the somatic
+  mutation profile of TK genes and discover potential targets for gastric cancer GC
+  therapy, we undertook a systematic screening of mutations in the kinase domains
+  of all human TK genes 636 exons of 90 genes in 17 GC cell lines and 52 microdissected
+  primary GCs with poorly differentiated histology. We identified 26 non-synonymous
+  alterations 22 genes in total that included 11 sequence alterations in cell lines
+  and 15 somatic mutations in primary tumors. Recurrent mutations were found in four
+  genes including a known oncogene NTRK3 , the Src kinase family LTK and CSK and a
+  potential Wnt signal activator ROR2 . In addition, we analyzed copy number alterations
+  of all the TK gene loci in the same cohort samples by array-based comparative genomic
+  hybridization analysis and identified 24 high-level amplifications and two homozygous
+  deletions. Both sequence alteration and frequent copy number aberration were detected
+  in two TK genes HCK and ERBB2 , strongly suggesting that they encode potential oncogenes
+  in GC. Our focused and integrated analyses of systemic resequencing and gene copy
+  number have revealed the novel onco-kinome profile of GC and pave the way to a comprehensive
+  understanding of the GC genome.
+authors: Kubo T, Kuroda Y, Shimizu H, Kokubu A, Okada N, Hosoda F, Arai Y, Nakamura
+  Y, Taniguchi H, Yanagihara K, Imoto I, Inazawa J, Hirohashi S and Shibata T.
+cancertypes: []
+contact:
+  email: tashibat@ncc.go.jp
+  name: Tatsuhiro Shibata
+counts:
+  biosamples: 69
+  samples_acgh: 69
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19734198
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.77
+    - 35.67
+    type: Point
+  info:
+    city: Chuo
+    continent: ~
+    country: Japan
+    label: Chuo, Japan
+    precision: city [needs verification]
+journal: 'Carcinogenesis 30, 11 (2009): 1857-64.'
+label: 'Kubo et al. (2009): Resequencing and Copy Number Analysis of the Human Tyrosine
+  Kinase Gene Family in Poorly ...'
+notes: Two array-CGH platforms were used.
+pmid: 19734198
+title: Resequencing and Copy Number Analysis of the Human Tyrosine Kinase Gene Family
+  in Poorly Differentiated Gastric Cancer.
+year: 2009

@@ -1,0 +1,58 @@
+---
+abstract: Methods for predicting individual responsiveness to targeted chemotherapy
+  are urgently needed, considering the frequent resistance and extremely high cost.
+authors: Kim JC, Kim SY, Cho DH, Ha YJ, Choi EY, Kim CW, Roh SA, Kim TW, Ju H and
+  Kim YS.
+cancertypes:
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+contact:
+  email: ~
+  name: Jin Kim
+counts:
+  biosamples: 118
+  samples_acgh: 118
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21239504
+- geo:GSE21228
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Clin Cancer Res 17, 5 (2011): 1200-09.'
+label: 'Kim et al. (2011): Novel Chemosensitive Single-Nucleotide Polymorphism Markers
+  to Targeted Regimens in Metastatic ...'
+notes: ~
+pmid: 21239504
+title: Novel Chemosensitive Single-Nucleotide Polymorphism Markers to Targeted Regimens
+  in Metastatic Colorectal Cancer.
+year: 2011

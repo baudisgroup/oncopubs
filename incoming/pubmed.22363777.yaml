@@ -22,8 +22,10 @@ abstract: In colorectal cancer (CRC), chromosomal instability (CIN) is typically
 authors: Jasmine F, Rahaman R, Dodsworth C, Roy S, Paul R, Raza M, Paul-Brutus R,
   Kamal M, Ahsan H and Kibriya MG
 cancertypes:
-- term_id: seer:37000
-  term_label: miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: kibriya@uchicago.edu
   name: ~

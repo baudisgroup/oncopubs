@@ -1,0 +1,54 @@
+---
+abstract: Chromosomal aberrations are independent prognostic markers in chronic lymphocytic
+  leukemia CLL . Recent studies using genomic arrays have shown recurrent gains of
+  the short arm of chromosome 2 2p in a subset of CLL. We evaluated 178 CLL cases
+  for 2p gains using custom-designed oligonucleotide array-based comparative genomic
+  hybridization aCGH . A high frequency of 2p gains was observed in 53 of 178 30 cases,
+  which ranged from a small 29-kb region to large segments involving the entire short
+  arm. Besides several common chromosomal aberrations associated with 2p gain, we
+  demonstrated a novel observation that gain of the telomeric region 2p25.3 harboring
+  the ACP1 gene is common in CLL 25 , 44 of 178 cases . The ACP1 gene has been previously
+  shown to regulate T-cell receptor signaling through ZAP-70, and both genes are unfavorable
+  clinical markers for CLL. Quantitative polymerase chain reaction qPCR confirmed
+  the presence of 3-6 copies of ACP1 in 35 of 40 88 of these cases. Interestingly,
+  none of the aCGH diploid CLL cases showed gain of ACP1. Assessment of 73 healthy
+  individuals by qPCR revealed ACP1 copy number gain in only two cases 2.7 . Gain
+  of 2p25.3 was associated with ZAP-70 expression P amp lt .002 and unmutated immunoglobulin
+  heavy chain variable IGHV gene mutation P amp lt .0001 . A high frequency of MYCN
+  co-amplication with ACP1 was observed 14 of 40 cases, 35 . The frequent 2p25.3 gain
+  involving the ACP1 and MYCN genes may help define the critical region of 2p that
+  contributes to pathogenesis of CLL together with other chromosomal abnormalities.
+authors: Ma D, Chen Z, Patel KP, Mishra BM, Yao H, Abruzzo LV, Medeiros LJ, Wierda
+  W, Keating M, Sargent R and Luthra R.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 178
+  samples_acgh: 178
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22035742
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Clin Lymphoma Myeloma Leuk 11 Suppl 1 (2011): S17-24.'
+label: 'Ma et al. (2011): Array Comparative Genomic Hybridization Analysis Identifies
+  Recurrent Gain of Chromosome 2p25.3 ...'
+notes: ~
+pmid: 22035742
+title: Array Comparative Genomic Hybridization Analysis Identifies Recurrent Gain
+  of Chromosome 2p25.3 Involving the Acp1 and Mycn Genes in Chronic Lymphocytic Leukemia.
+year: 2011

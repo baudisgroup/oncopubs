@@ -1,0 +1,60 @@
+---
+abstract: ~
+authors: Pospisilova H, Baens M, Michaux L, Stul M, Van Hummelen P, Van Loo P, Vermeesch
+  J, Jarosova M, Zemanova Z, Michalova K, Van den Berghe I, Alexander HD, Hagemeijer
+  A, Vandenberghe P, Cools J, De Wolf-Peeters C, Marynen P and Wlodarska I
+cancertypes:
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: ncit:C8936
+  term_label: B Lymphoblastic Leukemia/Lymphoma
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: pgx:icdom:9591_3
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 23
+  samples_progenetix: ~
+  term_id: snmi:M-95913
+  term_label: Malignant lymphoma, non-Hodgkin, NOS
+contact:
+  email: Iwona.Wlodarska@uz.kuleuven.ac.be
+  name: ~
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17525729
+- geo:GSE6713
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: Leukemia 21(9), 2007
+label: 'Pospisilova H et al. (2007): '
+notes: ~
+pmid: 17525729
+title: 'Interstitial del(14)(q) involving IGH: a novel recurrent aberration in B-NHL.'
+year: 2007

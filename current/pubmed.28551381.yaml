@@ -1,0 +1,54 @@
+---
+abstract: 8-Oxoguanine, a common mutagenic DNA lesion, generates G:C>T:A transversions
+  via mispairing with adenine during DNA replication. When operating normally, the
+  MUTYH DNA glycosylase prevents 8-oxoguanine-related mutagenesis by excising the
+  incorporated adenine. Biallelic MUTYH mutations impair this enzymatic function and
+  are associated with colorectal cancer (CRC) in MUTYH-Associated Polyposis (MAP)
+  syndrome. Here, we perform whole-exome sequencing that reveals a modest mutator
+  phenotype in MAP CRCs compared to sporadic CRC stem cell lines or bulk tumours.
+  The excess G:C>T:A transversion mutations in MAP CRCs exhibits a novel mutational
+  signature, termed Signature 36, with a strong sequence dependence. The MUTYH mutational
+  signature reflecting persistent 8-oxoG:A mismatches occurs frequently in the APC,
+  KRAS, PIK3CA, FAT4, TP53, FAT1, AMER1, KDM6A, SMAD4 and SMAD2 genes that are associated
+  with CRC. The occurrence of Signature 36 in other types of human cancer indicates
+  that DNA 8-oxoguanine-related mutations might contribute to the development of cancer
+  in other organs.
+authors: Viel A, Bruselles A, Meccia E, Fornasarig M, Quaia M, Canzonieri V, Policicchio
+  E, Urso ED, Agostini M, Genuardi M, Lucci-Cordisco E, Venesio T, Martayan A, Diodoro
+  MG, Sanchez-Mete L, Stigliano V, Mazzei F, Grasso F, Giuliani A, Baiocchi M, Maestro
+  R, Giannini G, Tartaglia M, Alexandrov LB, Bignami M.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: margherita.bignami@gmail.com
+  name: Margherita Bignami
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 7
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28551381
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: Europe
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: EBioMedicine, 2017
+label: ' (2017): '
+notes: ~
+pmid: 28551381
+title: A Specific Mutational Signature Associated with DNA 8-Oxoguanine Persistence
+  in MUTYH-defective Colorectal Cancer.
+year: 2017

@@ -1,0 +1,55 @@
+---
+abstract: YWHAZ, also known as 14-3-3zeta, has been reportedly elevated in many human
+  tumors, including non-small cell lung carcinoma NSCLC but little is known about
+  its specific contribution to lung cancer malignancy. Through a combined array-based
+  comparative genomic hybridization and expression microarray analysis, we identified
+  YWHAZ as a potential metastasis enhancer in lung cancer. Ectopic expression of YWHAZ
+  on low invasive cancer cells showed enhanced cell invasion, migration in vitro,
+  and both the tumorigenic and metastatic potentials in vivo. Gene array analysis
+  has indicated these changes associated with an elevation of pathways relevant to
+  epithelial-mesenchymal transition EMT , with an increase of cell protrusions and
+  branchings. Conversely, knockdown of YWHAZ levels with siRNA or short hairpin RNA
+  shRNA in invasive cancer cells led to a reversal of EMT. We observed that high levels
+  of YWHAZ protein are capable of activating -catenin-mediated transcription by facilitating
+  the accumulation of -catenin in cytosol and nucleus. Coimmunoprecipitation assays
+  showed a decrease of ubiquitinated -catenin in presence of the interaction between
+  YWHAZ and -catenin. This interaction resulted in disassociating -catenin from the
+  binding of -TrCP leading to increase -catenin stability. Using enforced expression
+  of dominant-negative and -positive -catenin mutants, we confirmed that S552 phosphorylation
+  of -catenin increases the -catenin YWHAZ complex formation, which is important in
+  promoting cell invasiveness and the suppression of ubiquitnated -catenin. This is
+  the first demonstration showing YWHAZ through its complex with -catenin in mediating
+  lung cancer malignancy and -catenin protein stability.
+authors: Chen CH, Chuang SM, Yang MF, Liao JW, Yu SL and Chen JJ.
+cancertypes: []
+contact:
+  email: ~
+  name: Jeremy Chen
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22912335
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.45
+    - 25.03
+    type: Point
+  info:
+    city: Daan District
+    continent: '25.03'
+    country: Taiwan
+    label: Daan District, Taiwan, 25.03
+    precision: city
+journal: Mol Cancer Res (2012)
+label: 'Chen et al. (2012): A Novel Function of Ywhaz/Beta-Catenin Axis in Promoting
+  Epithelial-Mesenchymal Transition and Lung ...'
+notes: ~
+pmid: 22912335
+title: A Novel Function of Ywhaz/Beta-Catenin Axis in Promoting Epithelial-Mesenchymal
+  Transition and Lung Cancer Metastasis.
+year: 2012

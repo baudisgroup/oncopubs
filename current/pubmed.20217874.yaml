@@ -1,0 +1,83 @@
+---
+abstract: Although genomic copy number aberrations CNAs of gastric carcinoma at the
+  advanced stage have already been extensively characterized by array comparative
+  genomic hybridization array CGH analysis, those of gastric carcinoma in situ CIS
+  are still poorly understood. Furthermore, no reports have demonstrated correlations
+  between CNAs and histopathological features of gastric adenoma. In this study, we
+  investigated CNAs of 20 gastric CISs Vienna category 4.2 and 20 adenomas including
+  seven low-grade adenomas LGA Vienna category 3 and 13 high-grade adenomas HGA Vienna
+  category 4.1 , using oligonucleotide-based array CGH. The most frequent aberrations
+  in CIS were gains at 8q 85 and 20q 50 , and losses at 5q 50 and 17p 50 , suggesting
+  that these CNAs are involved in the development of CIS. We found that the pattern
+  of CNAs in HGA was quite different from that in LGA. The most frequent CNAs in HGA
+  were gains at 8q 62 and 7pq 54 , whereas those in LGA were gain at 7q21.3-q22.1
+  57 and loss at 5q 43 . Interestingly, gains at 8q and 7pq, both of which occurred
+  most frequently in HGA, were not detected in any cases of LGA. Of note, 8q gain
+  was detected most frequently in both HGA and CIS but was undetected in LGA. Since
+  HGA is believed to have a higher risk of progression to invasive carcinoma than
+  LGA, these data suggest that 8q gain is important for the malignant transformation
+  of gastric adenoma.
+authors: Uchida M, Tsukamoto Y, Uchida T, Ishikawa Y, Nagai T, Hijiya N, Nguyen LT,
+  Nakada C, Kuroda A, Okimoto T, Kodama M, Murakami K, Noguchi T, Matsuura K, Tanigawa
+  M, Seto M, Ito H, Fujioka T, Takeuchi I and Moriyama M.
+cancertypes:
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_0
+  term_label: Adenoma, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_2
+  term_label: Adenocarcinoma in situ, NOS
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: snmi:M-81400
+  term_label: Adenoma, NOS
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: snmi:M-81402
+  term_label: Adenocarcinoma in situ, NOS
+contact:
+  email: ~
+  name: Yoshiyuki Tsukamoto
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20217874
+- geo:GSE19575
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: Asia
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: 'J Pathol 221, 1 (2010): 96-105.'
+label: 'Uchida et al. (2010): Genomic Profiling of Gastric Carcinoma in Situ and Adenomas
+  By Array-Based Comparative Genomic ...'
+notes: ~
+pmid: 20217874
+title: Genomic Profiling of Gastric Carcinoma in Situ and Adenomas By Array-Based
+  Comparative Genomic Hybridization.
+year: 2010

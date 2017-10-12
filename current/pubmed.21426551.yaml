@@ -1,0 +1,43 @@
+---
+abstract: DNA methylation in the SHOX2 locus was previously used to reliably detect
+  lung cancer in a group of critical controls, including cytologically negative samples
+  with no visible tumor cell content, at a high specificity based on the analysis
+  of bronchial lavage samples. This study aimed to investigate, if the methylation
+  correlates with SHOX2 gene expression and or copy number alterations. An amplification
+  of the SHOX2 gene locus together with the observed tumor-specific hypermethylation
+  might explain the good performance of this marker in bronchial lavage samples.
+authors: Schneider KU, Dietrich D, Fleischhacker M, Leschber G, Merk J, Schaper F,
+  Stapert HR, Vossenaar ER, Weickmann S, Liebenberg V, Kneip C, Seegebarth A, Erdogan
+  F, Rappold G and Schmidt B.
+cancertypes: []
+contact:
+  email: ~
+  name: Dimo Dietrich
+counts:
+  biosamples: 55
+  samples_acgh: 55
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21426551
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'BMC Cancer 11 (2011): 102.'
+label: 'Schneider et al. (2011): Correlation of Shox2 Gene Amplification and DNA Methylation
+  in Lung Cancer Tumors.'
+notes: ~
+pmid: 21426551
+title: Correlation of Shox2 Gene Amplification and DNA Methylation in Lung Cancer
+  Tumors.
+year: 2011

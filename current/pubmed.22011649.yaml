@@ -1,0 +1,118 @@
+---
+abstract: 'INTRODUCTION: Non-small cell lung cancer NSCLC is characterized by a multitude
+  of genetic aberrations with unknown clinical impact. In this study, we aimed to
+  identify gene copy number changes that correlate with clinical outcome in NSCLC.
+  To maximize the chance to identify clinically relevant events, we applied a strategy
+  involving two prognostically extreme patient groups. METHODS: Short-term lt 20 month
+  n 53 and long-term survivors 58 month n 47 were selected from a clinically well-characterized
+  NSCLC patient cohort with available fresh frozen tumor specimens. The samples were
+  analyzed using high-resolution single-nucleotide polymorphism array technology to
+  assess gene copy number variations and array-based gene expression profiling. The
+  molecular data were combined with information on clinical parameters. RESULTS: Genetic
+  aberrations were strongly associated with tumor histology. In adenocarcinoma n 50
+  , gene copy number gains on chromosome 8q21-q24.3 177 genes were more frequent in
+  long-term than in short-term survivors. In squamous cell carcinoma n 28 , gains
+  on chromosome 14q23.1-24.3 133 genes were associated with shorter survival, whereas
+  losses in a neighboring region, 14q31.1-32.33 110 genes , correlated with favorable
+  outcome. In accordance with copy number gains and losses, messenger RNA expression
+  levels of corresponding genes were increased or decreased, respectively. CONCLUSION:
+  Comprehensive tumor profiling permits the integration of genomic, histologic, and
+  clinical data. We identified gene copy number gains and losses, with corresponding
+  changes in messenger RNA levels that were associated with prognosis in adenocarcinoma
+  and squamous cell carcinoma of the lung.'
+authors: Micke P, Edlund K, Holmberg L, Kultima HG, Mansouri L, Ekman S, Bergqvist
+  M, Scheibenflug L, Lamberg K, Myrdal G, Berglund A, Andersson A, Lambe M, Nyberg
+  F, Thomas A, Isaksson A and Botling J.
+cancertypes:
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: ncit:C4450
+  term_label: Large Cell Lung Carcinoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: pgx:icdom:8012_3
+  term_label: Large cell carcinoma, NOS
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 101
+  samples_progenetix: ~
+  term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- samples_arraymap: 100
+  samples_progenetix: ~
+  term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: snmi:M-80123
+  term_label: Large cell carcinoma, NOS
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 50
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 182
+  samples_acgh: 182
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22011649
+- geo:GSE28572
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: 'J Thorac Oncol (2011) 6: 1833-1840.'
+label: 'Micke et al. (2011): Gene copy number aberrations are associated with survival
+  in histologic subgroups of non-small cell ...'
+notes: ~
+pmid: 22011649
+title: Gene copy number aberrations are associated with survival in histologic subgroups
+  of non-small cell lung cancer.
+year: 2011

@@ -1,0 +1,61 @@
+---
+abstract: High grade serous ovarian cancer is characterised by high initial response
+  to chemotherapy but poor outcome in the long term due to acquired resistance. One
+  of the main genetic features of this disease is TP53 mutation. The majority of TP53
+  mutated tumors harbor missense mutations in this gene, correlated with p53 accumulation.
+  TP53 null tumors constitute a specific subgroup characterised by nonsense, frameshift
+  or splice-site mutations associated to complete absence of p53 expression. Different
+  studies show that this kind of tumors may have a worse prognosis than other TP53
+  mutated HGSC.  In this study, we sought to characterise the intra-tumor heterogeneity
+  of a TP53 null HGSC consisting of six primary tumor samples, two intra-pelvic and
+  four extra-pelvic recurrences using exome sequencing and comparative genome hybridisation.  Significant
+  heterogeneity was found among the different tumor samples, both at the mutational
+  and copy number levels. Exome sequencing identified 102 variants, of which only
+  42 were common to all three samples; whereas 7 of the 18 copy number changes found
+  by CGH analysis were presented in all samples. Sanger validation of 20 variants
+  found by exome sequencing in additional regions of the primary tumor and the recurrence
+  allowed us to establish a sequence of the tumor clonal evolution, identifying those
+  populations that most likely gave rise to recurrences and genes potentially involved
+  in this process, like GPNMB and TFDP1. Using functional annotation and network analysis,
+  we identified those biological functions most significantly altered in this tumor.
+  Remarkably, unexpected functions such as microtubule-based movement and lipid metabolism
+  emerged as important for tumor development and progression, suggesting its potential
+  interest as therapeutic targets.  Altogether, our results shed light on the clonal
+  evolution of the distinct tumor regions identifying the most aggressive subpopulations
+  and at least some of the genes that may be implicated in its progression and recurrence,
+  and highlights the importance of considering intra-tumor heterogeneity when carrying
+  out genetic and genomic studies, especially when these are aimed to diagnostic procedures
+  or to uncover possible therapeutic strategies.
+authors: Mota A, Triviï¿½o JC, Rojo-Sebastian A, Martï¿½nez-Ramï¿½rez ï¿½, Chiva L,
+  Gonzï¿½lez-Martï¿½n A, Garcia JF, Garcia-Sanz P and Moreno-Bueno G
+cancertypes: []
+contact:
+  email: amota@iib.uam.es
+  name: Alba Mota
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 4
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26620706
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: BMC Cancer 15(1), 2015
+label: 'Mota A et al. (2015): '
+notes: ~
+pmid: 26620706
+title: Intra-tumor heterogeneity in TP53 null High Grade Serous Ovarian Carcinoma
+  progression.
+year: 2015

@@ -1,0 +1,49 @@
+---
+abstract: Acute lymphoblastic leukemia ALL in infants is characterized by a high frequency
+  of MLL gene rearrangements. By contrast, the t 12 21 ETV6-RUNX1 fusion gene is typically
+  detected in children older than 2 years. In a series of Brazilian infant leukemia
+  cases, however, four younger cases harbored ETV6-RUNX1, at ages 2, 3, 5, and 7 months.
+  This finding could represent a unique model for delineating the additional genomic
+  hits required to accelerate the emergence of a frank leukemia in these t 12 21 -positive
+  cases. We applied a whole-genome copy number analysis with single-nucleotide polymorphism
+  SNP arrays, comparing t 12 21 infants with older pediatric age groups. Recurrent
+  deletions, including 9p21.3 CDKN2A, CKDN2B, and MTAP , 11p13 CD44 , 12p13.2 ETV6
+  , and patient-specific abnormalities were identified. Although infant cases with
+  t 12 21 did not display specific genetic abnormalities explaining the short latency
+  to overt leukemia, the frequency of copy number abnormalities increased proportionally
+  with age. This novel SNP array analysis in an extremely rare series of cases opens
+  new ideas about the etiology of ETV6-RUNX1-positive ALL.
+authors: Emerenciano M, Bungaro S, Cazzaniga G, Dorea MD, Coser VM, Magalhaes IQ,
+  Biondi A and Pombo-de-Oliveira MS.
+cancertypes: []
+contact:
+  email: mpombo@inca.gov.br
+  name: Maria S. Pombo-de-Oliveira
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19665068
+geo_data:
+  geo_json:
+    coordinates:
+    - -43.21
+    - -22.9
+    type: Point
+  info:
+    city: Rio de Janeiro
+    continent: South America
+    country: Brazil
+    label: Rio de Janeiro, Brazil, South America
+    precision: city
+journal: 'Cancer Genet Cytogenet 193, 2 (2009): 86-92.'
+label: 'Emerenciano et al. (2009): Etv6-Runx1 Fusion Gene and Additional Genetic Changes
+  in Infant Leukemia: A Genome-Wide ...'
+notes: ~
+pmid: 19665068
+title: 'Etv6-Runx1 Fusion Gene and Additional Genetic Changes in Infant Leukemia:
+  A Genome-Wide Analysis.'
+year: 2009

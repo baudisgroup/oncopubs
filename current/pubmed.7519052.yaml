@@ -1,0 +1,47 @@
+---
+abstract: Well-differentiated liposarcomas WDLPS are frequently characterized by a
+  near-diploid karyotype with supernumerary ring and or giant rod-shaped marker chromosomes.
+  We have shown, using fluorescence in situ hybridization FISH and molecular strategies,
+  that these markers contain chromosome 12-derived sequences. Here we report the analysis
+  of six WDLPS for the presence of amplified DNA segments by means of the recently
+  developed comparative genomic hybridization CGH strategy. Two distinct chromosome
+  12-derived amplification units could be identified in all tumors examined, one located
+  in the q14-q15 region as expected, the second unexpectedly mapping to q21.3-q22.
+  Our results indicate that the concerted amplification of these two distinct regions
+  on the long arm of chromosome 12 may be a consistent characteristic of WDLPS. These
+  amplifications are most likely directly related to the presence of supernumerary
+  ring and or giant marker chromosomes in this group of soft tissue tumors.
+authors: Suijkerbuijk RF, Olde Weghuis DE, Van den Berg M, Pedeutour F, Forus A, Myklebost
+  O, Glier C, Turc-Carel C and Geurts van Kessel A.
+cancertypes: []
+contact:
+  email: ~
+  name: Ron F. Suijkerbuijk
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7519052
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 9, 4 (1994): 292-95.'
+label: 'Suijkerbuijk et al. (1994): Comparative Genomic Hybridization as a Tool to
+  Define Two Distinct Chromosome 12-Derived ...'
+notes: ~
+pmid: 7519052
+title: Comparative Genomic Hybridization as a Tool to Define Two Distinct Chromosome
+  12-Derived Amplification Units in Well-Differentiated Liposarcomas.
+year: 1994

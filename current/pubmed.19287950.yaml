@@ -1,0 +1,55 @@
+---
+abstract: Neuroblastoma shows complex patterns of genetic aberrations including MYCN
+  amplification, deletion of chromosome 1p or 11q, and gain of chromosome 17q. The
+  17q gain is frequently observed in high-risk neuroblastomas, however, the candidate
+  genes still remain elusive. In the present study, we integrated the data of comparative
+  genomic hybridization of 236 tumors by BAC array and expression profiling of 136
+  tumors by using the in-house cDNA microarray carrying 5,340 genes derived from primary
+  neuroblastomas. A novel candidate gene mapped to chromosome 17q25.1 with two splicing
+  variants, Nbla10727 and Nbla12061, was identified. The transcript size appeared
+  to be 2.3 kb by Northern blot, however, the cDNA sequences had no obvious open reading
+  frame. The protein product was undetectable by both in vivo and in vitro translation
+  assays, suggesting that the transcript might not encode any protein product. Therefore,
+  we named it as ncRAN non-coding RNA expressed in aggressive neuroblastoma . In analysis
+  of 70 patients with sporadic neuroblastoma, the high levels of ncRAN mRNA expression
+  were significantly associated with poor outcome of the patients p amp lt 0.001 .
+  The multivariate analysis showed that expression of ncRAN mRNA was an independent
+  prognostic factor among age, stage, origin and MYCN expression. Ectopic expression
+  of ncRAN induced transformation of NIH3T3 cells in soft agar, while knockdown of
+  endogenous ncRAN with RNA interference significantly inhibited cell growth in SH-SY5Y
+  cells. Collectively, our results suggest that ncRAN may be a novel non-coding RNA
+  mapped to the region of 17q gain and act like an oncogene in aggressive neuroblastomas.
+authors: Yu M, Ohira M, Li Y, Niizuma H, Oo ML, Zhu Y, Ozaki T, Isogai E, Nakamura
+  Y, Koda T, Oba S, Yu B and Nakagawara A.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 236
+  samples_acgh: 236
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19287950
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: Asia
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: 'Int J Oncol 34, 4 (2009): 931-38.'
+label: 'Yu et al. (2009): High Expression of Ncran, a Novel Non-Coding RNA Mapped
+  to Chromosome 17q25.1, is Associated With Poor ...'
+notes: ~
+pmid: 19287950
+title: High Expression of Ncran, a Novel Non-Coding RNA Mapped to Chromosome 17q25.1,
+  is Associated With Poor Prognosis in Neuroblastoma.
+year: 2009

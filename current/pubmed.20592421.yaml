@@ -1,0 +1,74 @@
+---
+abstract: Distinct molecular subtypes of breast carcinomas have been identified, but
+  translation into clinical use has been limited. We have developed two platform-independent
+  algorithms to explore genomic architectural distortion using array comparative genomic
+  hybridization data to measure (i) whole-arm gains and losses [whole-arm aberration
+  index (WAAI)] and (ii) complex rearrangements [complex arm aberration index (CAAI)].
+  By applying CAAI and WAAI to data from 595 breast cancer patients, we were able
+  to separate the cases into eight subgroups with different distributions of genomic
+  distortion. Within each subgroup data from expression analyses, sequencing and ploidy
+  indicated that progression occurs along separate paths into more complex genotypes.
+  Histological grade had prognostic impact only in the luminal-related groups, whereas
+  the complexity identified by CAAI had an overall independent prognostic power. This
+  study emphasizes the relation among structural genomic alterations, molecular subtype,
+  and clinical behavior and shows that objective score of genomic complexity (CAAI)
+  is an independent prognostic marker in breast cancer.
+authors: Russnes HG, Vollan HK, Lingjaerde OC, Krasnitz A, Lundin P, Naume B, Sï¿½rlie
+  T, Borgen E, Rye IH, Langerï¿½d A, Chin SF, Teschendorff AE, Stephens PJ, Mï¿½nï¿½r
+  S, Schlichting E, Baumbusch LO, Kï¿½resen R, Stratton MP, Wigler M, Caldas C, Zetterberg
+  A, Hicks J and Bï¿½rresen-Dale AL
+cancertypes:
+- samples_arraymap: 677
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 677
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 677
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 677
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 677
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: a.l.borresen-dale@medisin.uio.no
+  name: Anne-Lise Boerresen-Dale
+counts:
+  biosamples: 167
+  samples_acgh: 167
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20592421
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Sci Transl Med 2(38), 2010
+label: 'Russnes HG et al. (2010): '
+notes: The publication contains a mix of new (167) and previously published samples.
+pmid: 20592421
+title: Genomic architecture characterizes tumor progression paths and fate in breast
+  cancer patients.
+year: 2010

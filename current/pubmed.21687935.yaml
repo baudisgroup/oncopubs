@@ -1,0 +1,56 @@
+---
+abstract: 'Breast cancer is a heterogeneous disease, marked by extensive chromosomal
+  aberrations. In this study, we aimed to explicate the underlying chromosomal copy
+  number CN alterations and loss of heterozygosity LOH implicated in a cohort of Malaysian
+  hospital-based primary breast carcinoma samples using a single nucleotide polymorphism
+  SNP array platform. The analysis was conducted by hybridizing the extracted DNA
+  of 70 primary breast carcinomas and 37 normal peripheral blood samples to the Affymetrix
+  250K Sty SNP arrays. Locus-specific CN aberrations and LOH were statistically summarized
+  using the binary segmentation algorithm and hidden Markov model. Selected genes
+  from the SNP array analysis were also validated using quantitative real-time PCR.
+  The merging of CN and LOH data fabricated distinctive integrated alteration profiles,
+  which were comprised of finely demarcated minimal sites of aberrations. The most
+  prevalent gains  30 were detected at the 8q arm: 8q23.1, 8q23.3, 8q24.11, 8q24.13,
+  8q24.21, 8q24.22, 8q24.23 and 8q24.3, whilst the most ubiquitous losses  20 were
+  noted at the 8p12, 8p21.1, 8p21.2, 8p21.1-p21.2, 8p21.3, 8p22, 8p23.1, 8p23.1 p23.2,
+  8p23.3, 17p11.2, 17p12, 17p11.2-p12, 17p13.1 and 17p13.2 regions. Copy-neutral LOH
+  was characterized as the most prevailing LOH event, in which the most frequent distributions  30
+  were revealed at 3p21.31, 5q33.2, 12q24.12, 12q24.12 q24.13 and 14q23.1. These findings
+  offer compre-hensive genome-wide views on breast cancer genomic changes, where the
+  most recurrent gain, loss and copy-neutral LOH events were harboured within the
+  8q24.21, 8p21.1 and 14q23.1 loci, respectively. This will facilitate the uncovering
+  of true driver genes pertinent to breast cancer biology and the develop-ment of
+  prospective therapeutics.'
+authors: Ching HC, Naidu R, Seong MK, Har YC and Taib NA.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 70
+  samples_acgh: 70
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21687935
+geo_data:
+  geo_json:
+    coordinates:
+    - 101.69
+    - 3.14
+    type: Point
+  info:
+    city: Kuala Lumpur
+    continent: Asia
+    country: Malaysia
+    label: Kuala Lumpur, Malaysia, Asia
+    precision: city
+journal: 'Int J Oncol 39, 3 (2011): 621-33.'
+label: 'Ching et al. (2011): Integrated Analysis of Copy Number and Loss of Heterozygosity
+  in Primary Breast Carcinomas Using ...'
+notes: ~
+pmid: 21687935
+title: Integrated Analysis of Copy Number and Loss of Heterozygosity in Primary Breast
+  Carcinomas Using High-Density Snp Array.
+year: 2011

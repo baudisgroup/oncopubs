@@ -1,0 +1,45 @@
+---
+abstract: Childhood pilocytic astrocytoma is the most frequent brain tumor affecting
+  children. Proteomics analysis is currently considered a powerful tool for global
+  evaluation of protein expression and has been widely applied in the field of cancer
+  research. In the present study, a series of proteomics, genomics, and bioinformatics
+  approaches were employed to identify, classify and characterize the proteome content
+  of low-grade brain tumors as it appears in early childhood. Through bioinformatics
+  database construction, protein profiles generated from pathological tissue samples
+  were compared against profiles of normal brain tissues. Additionally, experiments
+  of comparative genomic hybridization arrays were employed to monitor for genetic
+  aberrations and sustain the interpretation and evaluation of the proteomic data.
+  The current study confirms the dominance of MAPK pathway for the childhood pilocytic
+  astrocytoma occurrence and novel findings regarding the ERK-2 expression are reported.
+authors: Anagnostopoulos A, Dimas K, Papathanasiou C, Braoudaki M, Anastasiadou E,
+  Vougas K, Kontos H, Karamolegou K, Prodromou N, Tzortzatou F, and Tsangaris GT.
+cancertypes: []
+contact:
+  email: ~
+  name: George Tsangaris
+counts:
+  biosamples: 6
+  samples_acgh: 6
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21466243
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.72
+    - 37.98
+    type: Point
+  info:
+    city: Athens
+    continent: Europe
+    country: Greece
+    label: Athens, Greece, Europe
+    precision: city
+journal: J Proteome Res, 2011.
+label: 'Anagnostopoulos et al. (2011): Proteomics studies of childhood Pilocytic Astrocytoma.'
+notes: ~
+pmid: 21466243
+title: Proteomics studies of childhood Pilocytic Astrocytoma.
+year: 2011

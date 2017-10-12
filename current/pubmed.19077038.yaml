@@ -1,0 +1,68 @@
+---
+abstract: Meningiomas are recognized as the most common late complication following
+  radiotherapy. However, cytogenetic studies in childhood atypical radiation-induced
+  meningioma are sporadic, mainly because this condition generally occurs after a
+  long latent period. In the present study we show the results of conventional and
+  molecular cytogenetics in a 14-year-old boy with a secondary atypical meningioma.
+  Apart from numerical changes, we found complex aberrations with the participation
+  of chromosomes 1, 6 and 12. The invariable presence of loss of 1p was demonstrated
+  by fluorescent in situ hybridization FISH analysis with probes directed to telomeric
+  regions and by comparative genome hybridization CGH . Previous cytogenetic studies
+  on adult spontaneous and radiation-associated meningiomas showed loss of chromosome
+  22 as the most frequent change, followed by loss of the short arm of chromosome
+  1. To the best of our knowledge this is the first report of highly complex chromosome
+  aberrations in the pediatric setting of meningioma.
+authors: Brassesco MS, Valera ET, Neder L, Castro-Gamero AM, de Oliveira FM, Santos
+  AC, Scrideli CA, Oliveira RS, Machado HR and Tone LG.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3230
+  term_label: Meningioma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9530_0
+  term_label: Meningioma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-95300
+  term_label: Meningioma, NOS
+contact:
+  email: ~
+  name: Maria Sol Brassesco
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19077038
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: 'Neuropathology 29, 5 (2009): 585-90.'
+label: 'Brassesco et al. (2009): Childhood Radiation-Associated Atypical Meningioma
+  With Novel Complex Rearrangements Involving ...'
+notes: ~
+pmid: 19077038
+title: Childhood Radiation-Associated Atypical Meningioma With Novel Complex Rearrangements
+  Involving Chromosomes 1 and 12.
+year: 2009

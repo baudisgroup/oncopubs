@@ -1,0 +1,82 @@
+---
+abstract: The breast tumor microenvironment plays an active role in tumorigenesis.
+  Molecular alterations have been identified in tumor-associated stroma however, there
+  is considerable debate as to whether the stroma is characterized by genomic instability
+  or whether detection of chromosomal alterations reflects technological artifact
+  rather than the true genomic content of the tumor microenvironment. Thus, breast
+  stroma specimens from 112 women undergoing reductive mammoplasty n 7 , prophylactic
+  mastectomy n 6 , or mastectomy for a breast disease n 99 were frozen in optimal
+  cutting temperature medium. Allelic imbalance AI analysis was conducted using a
+  panel of 52 microsatellite markers in 484 stromal specimens from 98 women, of which
+  92 had no detectable AI events. When compared with previously generated AI data
+  from 77 formalin-fixed, paraffin-embedded FFPE stroma specimens, 42 of which harbored
+  at least one detectable AI event, the frequency of AI in the FFPE specimens 4.62
+  was significantly higher P lt 0.001 than that found in frozen specimens 0.45 . This
+  comparison of AI between FFPE and research-grade specimens suggests that past reports
+  of AI in breast stroma reflect artifact in the archival specimens caused by formalin-fixation,
+  paraffin-embedding and tissue storage. Furthermore, SNP data were generated from
+  a subset of 86 stromal specimens using SNP arrays and copy number alterations were
+  identified using Partek Genomics Suite. For 95 of the specimens, no detectable copy
+  number alterations were found and the 11 changes that were detected were small and
+  not shared between specimens. These data, therefore, support a model in which the
+  tumor microenvironment is genetically stable.
+authors: Rummel S, Valente AL, Kane JL, Shriver CD and Ellsworth RE.
+cancertypes:
+- samples_arraymap: 86
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 27
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 113
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 26
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 87
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 113
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 113
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 86
+  samples_acgh: 86
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23038813
+- geo:GSE38071
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.84
+    - 40.24
+    type: Point
+  info:
+    city: Windber
+    continent: ~
+    country: United States
+    label: Windber, United States
+    precision: city [needs verification]
+journal: 'Mol Cancer Res (2012) 10: 1526-1531.'
+label: 'Rummel et al. (2012): Genomic (in)stability of the breast tumor microenvironment.'
+notes: The analysis was performed on healthy stroma surrounding breast cancer tissue.
+pmid: 23038813
+title: Genomic (in)stability of the breast tumor microenvironment.
+year: 2012

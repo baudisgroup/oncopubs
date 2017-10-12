@@ -1,0 +1,50 @@
+---
+abstract: Gliomas are common malignant neoplasms of the central nervous system. Among
+  the major subtypes of gliomas, oligodendrogliomas are distinguished by their remarkable
+  sensitivity to chemotherapy, with approximately two thirds of anaplastic malignant
+  oligodendrogliomas responding dramatically to combination treatment with procarbazine,
+  lomustine, and vincristine termed PCV . Unfortunately, no clinical or pathologic
+  feature of these tumors allows accurate prediction of their response to chemotherapy.
+  Anaplastic oligodendrogliomas also are distinguished by a unique constellation of
+  molecular genetic alterations, including coincident loss of chromosomal arms 1p
+  and 19q in 50 -70 of tumors. We have hypothesized that these or other specific genetic
+  changes might predict the response to chemotherapy and prognosis in patients with
+  anaplastic oligodendrogliomas. Therefore, we have analyzed molecular genetic alterations
+  involving chromosomes 1p, 10q, and 19q and the TP53 on chromosome 17p and CDKN2A
+  on chromosome 9p genes, in addition to clinicopathologic features in 39 patients
+  with anaplastic oligodendrogliomas for whom chemotherapeutic response and survival
+  could be assessed.
+authors: Cairncross JG, Ueki K, Zlatescu MC, Lisle DK, Finkelstein DM, Hammond RR,
+  Silver JS, Stark PC, Macdonald DR, Ino Y, Ramsay DA and Louis DN.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 39
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9776413
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'J Natl Cancer Inst 90, 19 (1998): 1473-79.'
+label: 'Cairncross et al. (1998): Specific Genetic Predictors of Chemotherapeutic
+  Response and Survival in Patients With ...'
+notes: ~
+pmid: 9776413
+title: Specific Genetic Predictors of Chemotherapeutic Response and Survival in Patients
+  With Anaplastic Oligodendrogliomas.
+year: 1998

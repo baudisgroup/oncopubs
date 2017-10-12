@@ -1,0 +1,56 @@
+---
+abstract: Both hereditary and nonhereditary retinoblastoma Rb are commonly initiated
+  by loss of both copies of the retinoblastoma tumor suppressor gene RB1 , while additional
+  genomic changes are required for tumor initiation and progression. Our aim was to
+  determine whether there is genomic heterogeneity between different clinical Rb subtypes.
+  Therefore, 21 Rb tumors from 11 hereditary patients and 10 nonhereditary Rb patients
+  were analyzed using high-resolution single nucleotide polymorphism SNP arrays and
+  gene losses and gains were validated with Multiplex Ligation-dependent Probe Amplification.
+  In these tumors only a few focal aberrations were detected. The most frequent was
+  a focal gain on chromosome 2p24.3, the minimal region of gain encompassing the oncogene
+  MYCN. The genes BAZ1A, OTX2, FUT8, and AKT1 were detected in four focal regions
+  on chromosome 14 in one nonhereditary Rb. There was a large difference in number
+  of copy number aberrations between tumors. A subset of nonhereditary Rbs turned
+  out to be the most genomic unstable, while especially very young patients with hereditary
+  Rb display stable genomes. Established Rb copy number aberrations, including gain
+  of chromosome arm 1q and loss of chromosome arm 16q, turned out to be preferentially
+  associated with the nonhereditary Rbs with later age of diagnosis. In contrast,
+  copy number neutral loss of heterozygosity was detected mainly on chromosome 13,
+  where RB1 resides, irrespective of hereditary status or age. Focal amplifications
+  and deletions and copy number neutral loss of heterozygosity besides chromosome
+  13 appear to be rare events in retinoblastoma. 2013 Wiley Periodicals, Inc.
+authors: Mol BM, Massink MPG, van der Hout AH, Dommering CJ, Zaman JMA, Bosscha MI,
+  Kors WA, Meijers-Heijboer HE, Kaspers GJL, Riele HT, Moll AC, Cloos J and Dorsman
+  JC.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24249257
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Genes, chromosomes &amp; cancer (2014) 53: 1-14.'
+label: 'Mol et al. (2014): High resolution SNP array profiling identifies variability
+  in retinoblastoma genome ...'
+notes: ~
+pmid: 24249257
+title: High resolution SNP array profiling identifies variability in retinoblastoma
+  genome stability.
+year: 2014

@@ -1,0 +1,58 @@
+---
+abstract: Partial gain of chromosome arm 17q is an abundant aberrancy in various cancer
+  types such as lung and prostate cancer with a prominent occurrence and prognostic
+  significance in neuroblastoma--one of the most common embryonic tumors. The specific
+  genetic element s in 17q responsible for the cancer-promoting effect of these aberrancies
+  is yet to be defined although many genes located in 17q have been proposed to play
+  a role in malignancy. We report here the characterization of a naturally-occurring,
+  non-reciprocal translocation der X t X 17 in human lung embryonal-derived cells
+  following continuous culturing. This aberrancy was strongly correlated with an increased
+  proliferative capacity and with an acquired ability to form colonies in vitro. The
+  breakpoint region was mapped by fluorescence in situ hybridization FISH to the 17q24.3
+  locus. Further characterization by a custom-made comparative genome hybridization
+  array CGH localized the breakpoint within the Bromodomain PHD finger Transcription
+  Factor gene BPTF , a gene involved in transcriptional regulation and chromatin remodeling.
+  Interestingly, this translocation led to elevation in the mRNA levels of the endogenous
+  BPTF. Knock-down of BPTF restricted proliferation suggesting a role for BPTF in
+  promoting cellular growth. Furthermore, the BPTF chromosomal region was found to
+  be amplified in various human tumors, especially in neuroblastomas and lung cancers
+  in which 55 and 27 of the samples showed gain of 17q24.3, respectively. Additionally,
+  42 percent of the cancer cell lines comprising the NCI-60 had an abnormal BPTF locus
+  copy number. We suggest that deregulation of BPTF resulting from the translocation
+  may confer the cells with the observed cancer-promoting phenotype and that our cellular
+  model can serve to establish causality between 17q aberrations and carcinogenesis.
+authors: Buganim Y, Goldstein I, Lipson D, Milyavsky M, Polak-Charcon S, Mardoukh
+  C, Solomon H, Kalo E, Madar S, Brosh R, Perelman M, Navon R, Goldfinger N, Barshack
+  I, Yakhini Z and Rotter V.
+cancertypes: []
+contact:
+  email: varda.rotter@weizmann.ac.il
+  name: Varda Rotter
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20300178
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.81
+    - 31.89
+    type: Point
+  info:
+    city: Rechovot
+    continent: Asia
+    country: Israel
+    label: Rechovot, Israel, Asia
+    precision: city
+journal: 'PLoS One 5, 3 (2010): e9657.'
+label: 'Buganim et al. (2010): A Novel Translocation Breakpoint Within the Bptf Gene
+  is Associated With a Pre-Malignant ...'
+notes: ~
+pmid: 20300178
+title: A Novel Translocation Breakpoint Within the Bptf Gene is Associated With a
+  Pre-Malignant Phenotype.
+year: 2010

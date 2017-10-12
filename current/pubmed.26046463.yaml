@@ -1,0 +1,56 @@
+---
+abstract: Primary plasma cell leukemia (pPCL) is a rare and aggressive form of plasma
+  cell dyscrasia and may represent a valid model for high-risk multiple myeloma (MM).
+  To provide novel information concerning the mutational profile of this disease,
+  we performed the whole-exome sequencing of a prospective series of 12 pPCL cases
+  included in a Phase II multicenter clinical trial and previously characterized at
+  clinical and molecular levels. We identified 1, 928 coding somatic non-silent variants
+  on 1, 643 genes, with a mean of 166 variants per sample, and only few variants and
+  genes recurrent in two or more samples. An excess of C > T transitions and the presence
+  of two main mutational signatures (related to APOBEC over-activity and aging) occurring
+  in different translocation groups were observed. We identified 14 candidate cancer
+  driver genes, mainly involved in cell-matrix adhesion, cell cycle, genome stability,
+  RNA metabolism and protein folding. Furthermore, integration of mutation data with
+  copy number alteration profiles evidenced biallelically disrupted genes with potential
+  tumor suppressor functions. Globally, cadherin/Wnt signaling, extracellular matrix
+  and cell cycle checkpoint resulted the most affected functional pathways. Sequencing
+  results were finally combined with gene expression data to better elucidate the
+  biological relevance of mutated genes. This study represents the first whole-exome
+  sequencing screen of pPCL and evidenced a remarkable genetic heterogeneity of mutational
+  patterns. This may provide a contribution to the comprehension of the pathogenetic
+  mechanisms associated with this aggressive form of PC dyscrasia and potentially
+  with high-risk MM.
+authors: Cifola I, Lionetti M, Pinatel E, Todoerti K, Mangano E, Pietrelli A, Fabris
+  S, Mosca L, Simeon V, Petrucci MT, Morabito F, Offidani M, Di Raimondo F, Falcone
+  A, Caravita T, Battaglia C, De Bellis G, Palumbo A, Musto P and Neri A
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 12
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26046463
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Oncotarget, 2015
+label: 'Cifola I et al. (2015): '
+notes: ~
+pmid: 26046463
+title: Whole-exome sequencing of primary plasma cell leukemia discloses heterogeneous
+  mutational patterns.
+year: 2015

@@ -1,0 +1,51 @@
+---
+abstract: Central neurocytomas are rare central nervous system neoplasms. Since the
+  first description, approximately 500 cases of these tumors have been published to
+  date. Nevertheless, only a limited number of genetic studies on these tumors have
+  been reported. Here we investigated 20 amp quot typical amp quot central neurocytomas
+  using array-based comparative genomic hybridization array-CGH with the GenoSensor
+  Array 300. The functional significance of detected chromosomal aberrations harboring
+  potent candidate genes was also examined at the mRNA expression level. Each tumor
+  examined displayed DNA copy-number aberrations CNAs , and mean number of CNAs per
+  tumor was 38.1 - 7.1 range 19-53 . Frequent gains were mapped at 2p24.1-22.1, 10q23.3-26.3,
+  11q23-25, and 18q21.3-qter. Frequent losses were identified at 1pter-36.3, 1p34.3,
+  6q13-21, 12q23-qter, 17p13.3, 17q11-23, and 20pter-12.3. There were 10 gained and
+  23 lost single DNA clones affecting amp gt or 40 of samples tested. mRNA expression
+  levels of 24 selected candidate genes harbored in these imbalanced clones were analyzed.
+  MYCN, PTEN, and OR5BF1 were strongly overexpressed, whereas BIN1, SNRPN, and HRAS
+  were found to be strongly underrepresented at the transcriptional level. Thus these
+  data support that MYCN oncogene gain overexpression accompanied by reduced expression
+  of BIN1 tumor suppressor may contribute to central neurocytoma tumorigenesis.
+authors: Korshunov A, Sycheva R and Golanov A.
+cancertypes: []
+contact:
+  email: akorshunov@nsi.ru
+  name: Andrey Korshunov
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17123091
+geo_data:
+  geo_json:
+    coordinates:
+    - 37.62
+    - 55.75
+    type: Point
+  info:
+    city: Moscow
+    continent: Europe
+    country: Russia
+    label: Moscow, Russia, Europe
+    precision: city
+journal: 'Acta Neuropathol 113, 3 (2007): 303-12.'
+label: 'Korshunov et al. (2007): Recurrent Cytogenetic Aberrations in Central Neurocytomas
+  and Their Biological ...'
+notes: ~
+pmid: 17123091
+title: Recurrent Cytogenetic Aberrations in Central Neurocytomas and Their Biological
+  Relevance.
+year: 2007

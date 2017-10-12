@@ -1,0 +1,50 @@
+---
+abstract: In the rare case of a male patient presenting with a combined small cell
+  lung carcinoma SCLC , large cell neuroendocrine carcinoma and adenocarcinoma, we
+  used whole genome analysis by tiling-path array comparative genomic hybridization
+  to evaluate the clonal relationship between nodules. In two areas of SCLC distinguishable
+  by divergent neuroendocrine marker expression CD56 and chromogranin-A , the presence
+  of identical genomic breakpoints and rearrangements indicated a common origin, with
+  the presence of additional distinct genomic alterations in these two components
+  indicating diverging clonal evolution. The absence of shared genome alteration features
+  for the adenocarcinoma and large cell neuroendocrine carcinoma components suggested
+  that these tumors evolved independently from the SCLC. Taken together, the array
+  comparative genomic hybridization data demonstrate the development and evolution
+  of three independent primary lung cancers in close proximity to each other to form
+  a combined carcinoma. Application of whole genome analysis shows the potential utility
+  of high resolution molecular tools in resolving the origin and delineating the clonal
+  relationships of a tumor that contains heterogeneous histologic components leading
+  to an ambiguous histogenesis.
+authors: Buys TP, Aviel-Ronen S, Waddell TK, Lam WL and Tsao MS.
+cancertypes: []
+contact:
+  email: ming.tsao@uhn.on.ca
+  name: Ming-Rong Tsao
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19179901
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'J Thorac Oncol 4, 2 (2009): 227-39.'
+label: 'Buys et al. (2009): Defining Genomic Alteration Boundaries for a Combined
+  Small Cell and Non-Small Cell Lung ...'
+notes: ~
+pmid: 19179901
+title: Defining Genomic Alteration Boundaries for a Combined Small Cell and Non-Small
+  Cell Lung Carcinoma.
+year: 2009

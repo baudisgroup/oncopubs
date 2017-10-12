@@ -1,0 +1,47 @@
+---
+abstract: High hyperdiploid (51-67 chromosomes) acute lymphoblastic leukemia (ALL)
+  is one of the most common childhood malignancies, comprising 30% of all pediatric
+  B cell-precursor ALL. Its characteristic genetic feature is the nonrandom gain of
+  chromosomes X, 4, 6, 10, 14, 17, 18 and 21, with individual trisomies or tetrasomies
+  being seen in over 75% of cases, but the pathogenesis remains poorly understood.
+  We performed whole-genome sequencing (WGS) (n = 16) and/or whole-exome sequencing
+  (WES) (n = 39) of diagnostic and remission samples from 51 cases of high hyperdiploid
+  ALL to further define the genomic landscape of this malignancy. The majority of
+  cases showed involvement of the RTK-RAS pathway and of histone modifiers. No recurrent
+  fusion gene-forming rearrangement was found, and an analysis of mutations on trisomic
+  chromosomes indicated that the chromosomal gains were early events, strengthening
+  the notion that the high hyperdiploid pattern is the main driver event in this common
+  pediatric malignancy.
+authors: Paulsson K, Lilljebjï¿½rn H, Biloglav A, Olsson L, Rissler M, Castor A, Barbany
+  G, Fogelstrand L, Nordgren A, Sjï¿½gren H, Fioretos T and Johansson B
+cancertypes: []
+contact:
+  email: kajsa.paulsson@med.lu.se
+  name: Kajsa Paulsson
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 39
+  samples_wgs: 16
+external_identifiers:
+- pubmed:25961940
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Nat. Genet., 2015
+label: 'Paulsson et al. (): The genomic landscape of high hyperdiploid childhood acute
+  lymphoblastic leukemia.'
+notes: ~
+pmid: 25961940
+title: The genomic landscape of high hyperdiploid childhood acute lymphoblastic leukemia.
+year: 2015

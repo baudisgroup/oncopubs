@@ -1,0 +1,48 @@
+---
+abstract: Matching molecularly targeted therapies with cancer subtype-specific gene
+  mutations is revolutionizing oncology care. However, for rare cancers this approach
+  is problematic due to the often poor understanding of the disease's natural history
+  and phenotypic heterogeneity, making treatment of these cancers a particularly unmet
+  medical need in clinical oncology. Advanced Sezary syndrome (SS), an aggressive,
+  exceedingly rare variant of cutaneous T-cell lymphoma (CTCL) is a prototypical example
+  of a rare cancer. Through whole genome and RNA sequencing (RNA-seq) of a SS patient's
+  tumor we discovered a highly expressed gene fusion between CTLA4 (cytotoxic T lymphocyte
+  antigen 4) and CD28 (cluster of differentiation 28), predicting a novel stimulatory
+  molecule on the surface of tumor T cells. Treatment with the CTLA4 inhibitor ipilimumab
+  resulted in a rapid clinical response. Our findings suggest a novel driver mechanism
+  for SS, and cancer in general, and exemplify an emerging model of cancer treatment
+  using exploratory genomic analysis to identify a personally targeted treatment option
+  when conventional therapies are exhausted.
+authors: Sekulic A, Liang WS, Tembe W, Izatt T, Kruglyak S, Kiefer JA, Cuyugan L,
+  Zismann V, Legendre C, Pittelkow MR, Gohmann JJ, De Castro FR, Trent J, Carpten
+  J, Craig DW and McDaniel TK
+cancertypes: []
+contact:
+  email: Sekulic.aleksandar@mayo.edu
+  name: Aleksandar Sekulic
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 1
+external_identifiers:
+- pubmed:25802883
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: North America
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: Mol Genet Genomic Med 3(2), 2015
+label: 'Sekulic A et al. (2015): '
+notes: ~
+pmid: 25802883
+title: Personalized treatment of Sezary syndrome by targeting a novel CTLA4:CD28 fusion.
+year: 2015

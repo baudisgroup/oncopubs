@@ -1,0 +1,50 @@
+---
+abstract: Approximately 30% of patients with follicular lymphoma (FL) transform to
+  a more aggressive malignancy, most commonly diffuse large B cell lymphoma. Rarely,
+  FL transformation results in clinical findings, histology, and immunophenotype reminiscent
+  of B-lymphoblastic leukemia/lymphoma. We report the largest series to date with
+  detailed analysis of 7 such patients. Lymphoblastic transformation occurred on average
+  2 years after initial diagnosis of FL. Five patients had prior intensive chemotherapy.
+  Two patients developed mature high-grade lymphoma, followed by the lymphoblastic
+  transformation. FL had BCL2 gene rearrangement in 4 of 5 cases. High-grade transformation
+  was accompanied by MYC gene rearrangement (5 of 5). Transformation was characterized
+  by expression of TdT, loss of Bcl6, variable loss of immunoglobulin light chain,
+  and persistence of Pax-5, Bcl2, and CD10. Whole-exome sequencing in 1 case revealed
+  presence of several actionable mutations (CD79B, CCND3, CDK12). FL, aggressive mature
+  B cell lymphoma, and lymphoblastic transformation were clonally related in 6 evaluable
+  cases. After transformation, survival ranged from 1 to 14 months. Four patients
+  died of disease, 2 were in remission after stem cell transplant, and 1 was alive
+  with disease.  Copyright ï¿½ 2015 Elsevier Inc. All rights reserved.
+authors: Geyer JT, Subramaniyam S, Jiang Y, Elemento O, Ferry JA, de Leval L, Nakashima
+  MO, Liu YC, Martin P, Mathew S, Orazi A and Tam W
+cancertypes: []
+contact:
+  email: jut9021@med.cornell.edu
+  name: J T Geyer
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 1
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25529125
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Hum. Pathol. 46(2), 2015
+label: 'Geyer JT et al. (2015): '
+notes: ~
+pmid: 25529125
+title: 'Lymphoblastic transformation of follicular lymphoma: a clinicopathologic and
+  molecular analysis of 7 patients.'
+year: 2015

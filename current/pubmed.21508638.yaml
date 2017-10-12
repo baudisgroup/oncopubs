@@ -1,0 +1,54 @@
+---
+abstract: Amplification of oncogenes and closely linked flanking genes is common in
+  some types of cancer and can be associated with complex chromosome rearrangements
+  and or co-amplification of non-syntenic chromosomal regions. To better understand
+  the etiology and structural complexity of focal MYCN amplicons in human neuronal
+  cancer, we investigated the precise chromosomal locations of high copy number genomic
+  regions in MYCN amplified cell lines. An integrated cytogenetic map of the MYCN
+  amplicon was created using high-resolution array CGH, spectral karyotyping SKY ,
+  multi-color banding mBAND , and fluorescence in situ hybridization FISH in 4 human
+  neuronal tumor cell lines. The evidence of complex intra- and inter-chromosomal
+  events, providing clues concerning the nature of the genomic mechanisms that contributed
+  to the process of MYCN amplification, was observed. The presence of multiple co-amplified
+  syntenic or non-syntenic sequences in the MYCN amplicon is quite intriguing. MYCN
+  is usually centrally located in the amplicon however, the structure and complexity
+  of the amplicons were highly variable. It is noteworthy that clusters of unstable
+  repetitive regions characterized by CNV sequences were present throughout the regions
+  encompassed by MYCN gene amplification, and these sequences could provide a mechanism
+  to destabilize this region of the genome. Complex structural rearrangements involving
+  genomic losses and gains in the 2p24 region lead to MYCN amplification and that
+  these rearrangements can trigger amplification events.
+authors: Pandita A, Bayani J, Paderova J, Marrano P, Graham C, Barrett M, Prasad M,
+  Zielenska M and Squire JA.
+cancertypes: []
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21508638
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: North America
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: 'Cytogenet Genome Res 134, 1 (2011): 27-39.'
+label: 'Pandita et al. (2011): Integrated Cytogenetic and High-Resolution Array Cgh
+  Analysis of Genomic Alterations Associated ...'
+notes: ~
+pmid: 21508638
+title: Integrated Cytogenetic and High-Resolution Array Cgh Analysis of Genomic Alterations
+  Associated With Mycn Amplification.
+year: 2011

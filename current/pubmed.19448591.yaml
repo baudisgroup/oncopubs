@@ -1,0 +1,56 @@
+---
+abstract: The HER2 gene is an important prognostic and therapeutic marker in newly
+  diagnosed breast cancer. Currently, HER2 status is most frequently determined by
+  immunohistochemical detection of HER2 protein expression on the cellular membrane
+  surface or by fluorescence in situ hybridization analysis of HER2 gene copy number
+  in fixed tissue using locus-specific probes for the HER2 gene and chromosome 17
+  centromere. However, these methods are problematic because of issues with intra-
+  and inter-laboratory reproducibility and preanalytic variables, such as fixation
+  time. In addition, the commonly used HER2 chromosome 17 ratio presumes that chromosome
+  17 polysomy is present when the centromere is amplified, even though analysis of
+  the rest of the chromosome is not included in the assay. In this study, 97 frozen
+  samples of invasive lobular and invasive ductal carcinoma, with known immunohistochemistry
+  and fluorescence in situ hybridization results for HER2, were analyzed by comparative
+  genomic hybridization to a commercially available bacterial artificial chromosome
+  whole-genome array containing 99 probes targeted to chromosome 17 and the HER2 TOP2
+  amplicon. Results were 97 concordant for HER2 status, meeting the College of American
+  Pathologists American Society of Clinical Oncologys validation requirements for
+  HER2 testing. Surprisingly, not a single case of complete polysomy 17 was detected
+  even though multiple breast cancer cases showed clear polysomies of other chromosomes.
+  We conclude that array comparative genomic hybridization is an accurate and objective
+  DNA-based alternative for clinical evaluation of HER2 gene copy number, and that
+  polysomy 17 is a rare event in breast cancer.
+authors: Yeh IT, Martin MA, Robetorye RS, Bolla AR, McCaskill C, Shah RK, Gorre ME,
+  Mohammed MS and Gunn SR.
+cancertypes: []
+contact:
+  email: ~
+  name: I-Tien Yeh
+counts:
+  biosamples: 97
+  samples_acgh: 97
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19448591
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: North America
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: 'Mod Pathol 22, 9 (2009): 1169-75.'
+label: 'Yeh et al. (2009): Clinical Validation of an Array Cgh Test for Her2 Status
+  in Breast Cancer Reveals That Polysomy 17 is ...'
+notes: ~
+pmid: 19448591
+title: Clinical Validation of an Array Cgh Test for Her2 Status in Breast Cancer Reveals
+  That Polysomy 17 is a Rare Event.
+year: 2009

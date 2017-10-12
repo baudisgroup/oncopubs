@@ -1,0 +1,89 @@
+---
+abstract: Astrocytic, oligodendroglial and mixed gliomas are the commonest gliomas
+  in adults. They have distinct phenotypes and clinical courses, but as they exist
+  as a continuous histological spectrum, differentiating them can be difficult. Co-deletions
+  of total 1p and 19q are found in the majority of oligodendrogliomas and considered
+  as a diagnostic marker and a prognostic indicator. The 1p status of astrocytomas
+  has not yet been thoroughly examined. Using a chromosome 1 tile path array, we investigated
+  108 adult astrocytic tumours for copy number alterations. Total 1p deletions were
+  rare (2%), however partial deletions involving 1p36 were frequently identified in
+  anaplastic astrocytomas (22%) and glioblastomas (34%). Multivariate analysis showed
+  that patients with total 1p deletions had significantly longer survival (P=0.005).
+  In nine glioblastomas homozygous deletions at 1p36 were identified. No somatic mutations
+  were found among the five genes located in the homozygously deleted region. However,
+  the CpG island of TNFRSF9 was hypermethylated in 19% of astrocytic tumours and 87%
+  of glioma cell lines. TNFRSF9 expression was upregulated after demethylation of
+  glioma cell lines. Akt3 amplifications were found in four glioblastomas. Our results
+  indicate that 1p deletions are common anaplastic astrocytomas and glioblastomas
+  but are distinct from the 1p abnormalities in oligodendrogliomas.
+authors: Ichimura K, Vogazianou AP, Liu L, Pearson DM, Bï¿½cklund LM, Plant K, Baird
+  K, Langford CF, Gregory SG, Collins VP.
+cancertypes:
+- samples_arraymap: 77
+  samples_progenetix: ~
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 9
+  samples_progenetix: ~
+  term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: ncit:C9477
+  term_label: Anaplastic Astrocytoma
+- samples_arraymap: 9
+  samples_progenetix: ~
+  term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: pgx:icdom:9401_3
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: 77
+  samples_progenetix: ~
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 108
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 9
+  samples_progenetix: ~
+  term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- samples_arraymap: 22
+  samples_progenetix: ~
+  term_id: snmi:M-94013
+  term_label: Astrocytoma, anaplastic
+- samples_arraymap: 77
+  samples_progenetix: ~
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+contact:
+  email: ki212@cam.ac.uk
+  name: Koichi Ichimura
+counts:
+  biosamples: 108
+  samples_acgh: 108
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17934521
+- geo:GSE7427
+journal: Oncogene 27(14), 2008
+label: ' (2008): '
+notes: The platform is a chromosome 1 tiling array with very low probe density for
+  the rest of the genome.
+pmid: 17934521
+title: 1p36 is a preferential target of chromosome 1 deletions in astrocytic tumours
+  and homozygously deleted in a subset of glioblastomas.
+year: 2008

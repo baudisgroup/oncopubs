@@ -1,0 +1,78 @@
+---
+abstract: 'Osteosarcoma OS is an aggressive bone tumor characterized by complex abnormal
+  karyotypes and a high level of genomic instability. Using high-resolution array
+  comparative genomic hybridization aCGH , a novel class of localized copy number
+  variations called microaberrations has been detected. These genomic anomalies typically
+  involve DNA imbalances affecting 700 kb to 1 Mb DNA, and are often associated with
+  some type of genetic syndromes. Because the origin of instability in OS is poorly
+  understood, we used aCGH to determine whether microaberrations were a characteristic
+  of four OS cell lines: U-2 OS, HOS, MG-63, and SAOS-2. TP53 is mutated in SAOS-2,
+  a line in which 17 microaberrations were found. In contrast, U-2 OS, which has a
+  wild-type TP53, had only six such anomalies, the lowest incidence. A 500-kb microaberration
+  within a region of gain at 5p15.33 in SAOS-2 was confirmed by fluorescence in situ
+  hybridization. Significantly, this genomic location is close to the TERT gene, a
+  region of gain in all four cell lines. To our knowledge, this is the first systematic
+  analysis of the incidence of microaberrations in OS. The high levels of these anomalies
+  detected suggest that the instability processes in OS that lead to a highly abnormal
+  karyotypes may also be associated with acquisition of genomic microaberrations.'
+authors: Selvarajah S, Yoshimoto M, Maire G, Paderova J, Bayani J, Squire JA and Zielenska
+  M.
+cancertypes:
+- samples_arraymap: 4
+  samples_progenetix: 4
+  term_id: ncit:C9145
+  term_label: Osteosarcoma
+- samples_arraymap: 4
+  samples_progenetix: 4
+  term_id: pgx:icdom:9180_3
+  term_label: Osteosarcoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C40.0
+  term_label: bones and joints
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdot:C41.9
+  term_label: bone, NOS
+- samples_arraymap: 4
+  samples_progenetix: 4
+  term_id: pgx:seer:23000
+  term_label: Bones and Joints
+- samples_arraymap: 4
+  samples_progenetix: 4
+  term_id: snmi:M-91803
+  term_label: Osteosarcoma, NOS
+contact:
+  email: m.zielenska@utoronto.ca
+  name: Maria Zielenska
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17981215
+- geo:GSE7077
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 179, 1 (2007): 52-61.'
+label: 'Selvarajah et al. (2007): Identification of Cryptic Microaberrations in Osteosarcoma
+  By High-Definition Oligonucleotide ...'
+notes: The original CNA data from the article just lists the focal changes, on a cytoband
+  resolution. However, all 4 samples show very complex changes (but with borderline
+  QC result in 2 samples).
+pmid: 17981215
+title: Identification of Cryptic Microaberrations in Osteosarcoma By High-Definition
+  Oligonucleotide Array Comparative Genomic Hybridization.
+year: 2007

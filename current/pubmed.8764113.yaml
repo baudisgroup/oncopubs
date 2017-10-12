@@ -1,0 +1,98 @@
+---
+abstract: The DNA copy number changes were investigated in 13 malignant, 3 borderline,
+  and 16 benign gastrointestinal stromal tumors GISTs by comparative genomic hybridization.
+  A consistent finding was the loss of DNA copy numbers in chromosome 14q. This was
+  detected in 75 of the benign tumors, in 62 of the malignant tumors, and in two out
+  of the three borderline tumors with a minimal overlapping region located to 14q22.
+  Losses of DNA copy numbers were more frequent than gains, with 2-10 changes in malignant
+  GISTs and 1-3 changes in benign tumors. High-level DNA amplifications, detected
+  only in malignant GISTs, were assigned to 3q26-q29 40 , 5p 30 , and 8q22-24 40 .
+  Our results indicate that copy number losses in 14q are an early change during oncogenesis
+  of GISTs and suggest the possibility that a new tumor suppressor gene at 14q22 might
+  be involved in the regulation of differentiation or proliferation of such mesenchymal
+  cells.
+authors: el-Rifai W, Sarlomo-Rikala M, Miettinen M, Knuutila S and Andersson LC.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:8936_0
+  term_label: Gastrointestinal stromal tumor, benign
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C17
+  term_label: small intestine
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C18.7
+  term_label: sigmoid incl. rectosigmoid junction
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C20
+  term_label: rectum
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21030
+  term_label: Small Intestine
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:21048
+  term_label: Sigmoid Colon
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21052
+  term_label: Rectum
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-89360
+  term_label: Gastrointestinal stromal tumor, benign
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
+contact:
+  email: wael.el-rifai@Vanderbilt.Edu
+  name: W. El-Rifai
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8764113
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Res 56, 14 (1996): 3230-33.'
+label: 'el-Rifai et al. (1996): DNA Copy Number Losses in Chromosome 14: An Early
+  Change in Gastrointestinal Stromal ...'
+notes: ~
+pmid: 8764113
+title: 'DNA Copy Number Losses in Chromosome 14: An Early Change in Gastrointestinal
+  Stromal Tumors.'
+year: 1996

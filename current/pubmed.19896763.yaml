@@ -1,0 +1,45 @@
+---
+abstract: To evaluate the role of WWOX gene in human osteosarcoma, array comparative
+  genomic hybridization on 10 frozen osteosarcoma specimens and immunohistochemical
+  staining of 55 formalin-fixed and paraffin-embedded tissues for WWOX was performed.
+  Deletion of the WWOX gene was observed in 3 of 10 samples and the WWOX protein was
+  undetectable in 34 of 55 osteosarcomas. This is the first investigation of the role
+  of WWOX gene in human osteosarcoma. The WWOX gene deletion, loss of its protein
+  expression, and lack of correlation of WWOX expression with patient survival suggest
+  loss of WWOX expression is an early event in the pathogenesis of osteosarcoma and
+  the phenotypic results of its deletion do not imminently result in patient death.
+authors: Yang J, Cogdell D, Yang D, Hu L, Li H, Zheng H, Du X, Pang Y, Trent J, Chen
+  K and Zhang W.
+cancertypes: []
+contact:
+  email: wzhang@mdanderson.org
+  name: Wei zhang
+counts:
+  biosamples: 55
+  samples_acgh: 55
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19896763
+- geo:GSE19180
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: Asia
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: 'Cancer Lett 291, 1 (2010): 31-38.'
+label: 'Yang et al. (2010): Deletion of the Wwox Gene and Frequent Loss of Its Protein
+  Expression in Human Osteosarcoma.'
+notes: ~
+pmid: 19896763
+title: Deletion of the Wwox Gene and Frequent Loss of Its Protein Expression in Human
+  Osteosarcoma.
+year: 2010

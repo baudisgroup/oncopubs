@@ -1,0 +1,40 @@
+---
+abstract: Genomic alterations are important events in the origin and progression of
+  various cancers, with DNA copy number changes associated with progression and treatment
+  response in cancer. Array CGH is potentially useful in the identification of genomic
+  alterations from primary tumor and blood in breast cancer patients. The aim of our
+  study was to compare differences of DNA copy number changes in blood and tumor tissue
+  in breast cancer.
+authors: Bae JS, Choi JS, Baik SH, Park WC, Song BJ, Kim JS, Lim Y, and Jung SS.
+cancertypes: []
+contact:
+  email: ssjung@catholic.ac.kr
+  name: Sang Seol Jung
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20409316
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: World journal of surgical oncology, 8(1) 2010, 32.
+label: 'Bae et al. (2010): Genomic alterations of primary tumor and blood in invasive
+  ductal carcinoma of breast.'
+notes: ~
+pmid: 20409316
+title: Genomic alterations of primary tumor and blood in invasive ductal carcinoma
+  of breast.
+year: 2010

@@ -1,0 +1,51 @@
+---
+abstract: Pheochromocytomas PCC are catecholamine-producing tumors arising from the
+  adrenal medulla that occur either sporadically or in the context of hereditary cancer
+  syndromes, such as multiple endocrine neoplasia type 2 MEN2 , von Hippel-Lindau
+  disease VHL , neurofibromatosis type 1, and the PCC-paraganglioma syndrome. Conventional
+  comparative genomic hybridization studies have shown loss of 1p and 3q in the majority
+  of sporadic and MEN2-related PCC, and 3p and 11p loss in VHL-related PCC. The development
+  of a submegabase tiling resolution array enabled us to perform a genome-wide high-resolution
+  analysis of 36 sporadic benign PCC. The results show that there are two distinct
+  patterns of abnormalities in these sporadic PCC, one consisting of loss of 1p with
+  or without concomitant 3q loss in 20 36 cases 56 , the other characterized by loss
+  of 3p with or without concomitant 11p loss in 11 36 31 . In addition, we found loss
+  of chromosome 22q at high frequency 35 , as well as the novel finding of high frequency
+  chromosome 21q loss 21 . We conclude that there appear to be two subgroups of benign
+  sporadic PCC, one of which has a pattern of chromosomal abnormalities that is comparable
+  with PCC from patients with MEN2 and the other that is comparable with the PCC that
+  arise in patients with VHL disease. In addition, genes on 21q and 22q might play
+  a more important role in PCC pathogenesis than had been assumed thus far.
+authors: van Nederveen FH, Korpershoek E, deLeeuw RJ, Verhofstad AA, Lenders JW, Dinjens
+  WN, Lam WL and de Krijger RR.
+cancertypes: []
+contact:
+  email: ~
+  name: Francine van Nederveen
+counts:
+  biosamples: 36
+  samples_acgh: 36
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19153209
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Endocr Relat Cancer 16, 2 (2009): 505-13.'
+label: 'van Nederveen et al. (2009): Array-Comparative Genomic Hybridization in Sporadic
+  Benign Pheochromocytomas.'
+notes: ~
+pmid: 19153209
+title: Array-Comparative Genomic Hybridization in Sporadic Benign Pheochromocytomas.
+year: 2009

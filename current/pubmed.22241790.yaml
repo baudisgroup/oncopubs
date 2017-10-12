@@ -1,0 +1,39 @@
+---
+abstract: Molecular events underlying progression of well-differentiated liposarcoma
+  WDLS to dedifferentiated liposarcoma DDLS are poorly defined. This study sought
+  to identify copy number alterations CNA associated with dedifferentiation of WDLS,
+  with DDLS morphology, and with patient outcomes.
+authors: Crago A, Socci ND, Decarolis PL, OConnor R, Taylor BS, Qin LX, Antonescu
+  CR and Singer S.
+cancertypes: []
+contact:
+  email: ~
+  name: Samuel Singer
+counts:
+  biosamples: 107
+  samples_acgh: 107
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22241790
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Clin Cancer Res (2012)
+label: 'Crago et al. (2012): Copy Number Losses Define Subgroups of Dedifferentiated
+  Liposarcoma With Poor Prognosis and Genomic ...'
+notes: ~
+pmid: 22241790
+title: Copy Number Losses Define Subgroups of Dedifferentiated Liposarcoma With Poor
+  Prognosis and Genomic Instability.
+year: 2012

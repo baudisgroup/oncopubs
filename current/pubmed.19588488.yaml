@@ -1,0 +1,53 @@
+---
+abstract: Gastric cancer is the second common malignant neoplasia in Japan, and its
+  poorly differentiated form is a deadly disease. To identify novel candidate oncogenes
+  contributing to its genesis, we examined copy-number alterations in 50 primary poorly
+  differentiated gastric cancers using an array-based comparative genomic hybridization
+  array-CGH . Many genetic changes were identified, including a novel amplification
+  of the 13q22 locus. Several genes are located in this locus, and selective knockdown
+  of one for the Kr ppel-like factor 12 KLF12 induced significant growth-arrest in
+  the HGC27 gastric cancer cell line. Microarray analysis also demonstrated that genes
+  associated with cell proliferation were mostly changed by KLF12 knockdown. To explore
+  the oncogenic function of KLF12, we introduced a full length of human KLF12 cDNA
+  into NIH3T3 and AZ-521 cell lines and found that overexpression significantly enhanced
+  their invasive potential. In clinical samples, KLF12 mRNA in cancer tissue was increased
+  in 11 of 28 cases 39 when compared with normal gastric epithelium. Clinicopathological
+  analysis further demonstrated a significant correlation between KLF12mRNA levels
+  and tumor size p 0.038 . These data suggest that the KLF12 gene plays an important
+  role in poorly differentiated gastric cancer progression and is a potential target
+  of therapeutic measures.
+authors: Nakamura Y, Migita T, Hosoda F, Okada N, Gotoh M, Arai Y, Fukushima M, Ohki
+  M, Miyata S, Takeuchi K, Imoto I, Katai H, Yamaguchi T, Inazawa J, Hirohashi S,
+  Ishikawa Y and Shibata T.
+cancertypes: []
+contact:
+  email: tashibat@ncc.go.jp
+  name: Tatsuhiro Shibata
+counts:
+  biosamples: 50
+  samples_acgh: 50
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19588488
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.77
+    - 35.67
+    type: Point
+  info:
+    city: Chuo
+    continent: ~
+    country: Japan
+    label: Chuo, Japan
+    precision: city [needs verification]
+journal: 'Int J Cancer 125, 8 (2009): 1859-67.'
+label: 'Nakamura et al. (2009): Kruppel-Like Factor 12 Plays a Significant Role in
+  Poorly Differentiated Gastric Cancer ...'
+notes: ~
+pmid: 19588488
+title: Kruppel-Like Factor 12 Plays a Significant Role in Poorly Differentiated Gastric
+  Cancer Progression.
+year: 2009

@@ -5,8 +5,8 @@ authors: Nishio J, Iwasaki H, Ishiguro M, Ohjimi Y, Yo S, Isayama T, Naito M, an
 cancertypes:
 - samples_arraymap: ~
   samples_progenetix: ~
-  term_id: ~
-  term_label: ~
+  term_id: '37000'
+  term_label: miscellaneous
 contact:
   email: iwasaki@fukuoka-u.ac.jp
   name: Hiroshi Iwasaki

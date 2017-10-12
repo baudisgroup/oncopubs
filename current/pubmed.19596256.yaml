@@ -1,0 +1,47 @@
+---
+abstract: Abnormalities of chromosome 1 are among the most frequent chromosomal aberrations
+  in patients with multiple myeloma MM and are considered a poor-risk genetic feature.
+  To define the frequency and minimal region of 1q gain, we performed immunophenotyping
+  and fluorescence in situ hybridization, comparative genomic hybridization CGH ,
+  and array-CGH in 30 patients in relapse and progression of MM. Gain of 1q21 was
+  found in 15 patients 50 , and in 14 of them whole-arm gain was found. One of these
+  14 patients had trisomy of chromosome 1 together with whole arm 1q gain, and two
+  others had segmental duplication together with whole arm 1q gain. Segmental duplication
+  of 1q21.1 approximately q23.1 alone was found in one patient. These results confirmed
+  a high frequency of 1q aberrations and revealed that the vast majority of patients
+  with 1q aberration in relapse and progression of MM display whole arm 1q gain. Finally,
+  we observed that 1q gain is highly associated with number of additional changes.
+authors: Balcarkova J, Urbankova H, Scudla V, Holzerova M, Bacovsky J, Indrak K, and
+  Jarosova M.
+cancertypes: []
+contact:
+  email: j.balcarkova@seznam.cz
+  name: Jana Balcarkova
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19596256
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: Europe
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: Cancer Genet Cytogenet, 192(2) 2009, 68-72.
+label: 'Balcarkova et al. (2009): Gain of chromosome arm 1q in patients in relapse
+  and progression of multiple ...'
+notes: ~
+pmid: 19596256
+title: Gain of chromosome arm 1q in patients in relapse and progression of multiple
+  myeloma.
+year: 2009

@@ -1,0 +1,59 @@
+---
+abstract: Infants with an immobile arm may be easily overlooked in primary care settings.
+  Differential diagnoses include injuries, infections, neuropathies, ischemia and
+  rarely, neoplasms. We report the case of a one-year-old boy with weakness in his
+  left arm after minor trauma with a diagnosis of brachial plexus palsy initially.
+  After rehabilitation for 2months, his weakness progressed to unsteady gait and quadriparesis.
+  MRI revealed a huge solid tumor in the left supraclavicular fossa, which also involved
+  the left brachial plexus, upper thoracic cavity, and left paravertebral space with
+  invasion into the spinal canal. Microscopically, the medium-large polygonal tumor
+  cells had an eccentric eosinophilic cytoplasm and immunostaining showed a loss of
+  nuclear INI1 expression. Array comparative genomic hybridization of the tumor tissue
+  confirmed a segmental deletion at chromosome region 22q11.23 involving the SMARCB1
+  gene. The final diagnosis was cervical paravertebral malignant rhabdoid tumor with
+  intraspinal epidural and intradural invasion, a rare case of extrarenal extracranial
+  rhabdoid tumor (ERRT). The intraspinal part of the tumor was resected followed by
+  interval-compressed chemotherapy with vincristine-doxorubicin-cyclophosphamide alternating
+  with ifosfamide-etoposide (VDC/IE). The tumor showed very good partial response
+  to four cycles of chemotherapy with gradual recovery of neurological symptoms. ERRT
+  is a very rare and aggressive tumor that mainly occurs in infants and children and
+  may manifest with vague neurological symptoms when it involves the spinal cord and/or
+  peripheral nerves. A neoplasm such as ERRT originating from or involving the brachial
+  plexus should be considered in the differential diagnosis of an immobile arm in
+  infancy.
+authors: Chung CT, Liu YL, Cheng CJ, Hsieh KL, Tsai ML, Wong TT.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: minlan456@hotmail.com
+  name: Min-Lan Tsai
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28434767
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: Brain Dev., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28434767
+title: Extrarenal rhabdoid tumor presented with an immobile arm in a one-year-old
+  boy.
+year: 2017

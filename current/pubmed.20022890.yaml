@@ -1,0 +1,48 @@
+---
+abstract: We analyzed a series of young median age 52 years non-smoker lung cancer
+  patients and their unaffected siblings as controls, using a genome-wide 620 901
+  single-nucleotide polymorphism SNP array analysis and a case-control DNA pooling
+  approach. We identified 82 putatively associated SNPs that were retested by individual
+  genotyping followed by use of the sib transmission disequilibrium test, pointing
+  to 36 SNPs associated with lung cancer risk in the discordant sibs series. Analysis
+  of these 36 SNPs in a polygenic model characterized by additive and interchangeable
+  effects of rare alleles revealed a highly statistically significant dosage-dependent
+  association between risk allele carrier status and proportion of cancer cases. Replication
+  of the same 36 SNPs in a population-based series confirmed the association with
+  lung cancer for three SNPs, suggesting that phenocopies and genetic heterogeneity
+  can play a major role in the complex genetics of lung cancer risk in the general
+  population.
+authors: Galvan A, Falvella FS, Frullanti E, Spinola M, Incarbone M, Nosotti M, Santambrogio
+  L, Conti B, Pastorino U, Gonzalez-Neira A and Dragani TA.
+cancertypes: []
+contact:
+  email: tommaso.dragani@istitutotumori.mi.it
+  name: Tommaso A Dragani
+counts:
+  biosamples: 80
+  samples_acgh: 80
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20022890
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: 'Carcinogenesis 31, 3 (2010): 462-65.'
+label: 'Galvan et al. (2010): Genome-Wide Association Study in Discordant Sibships
+  Identifies Multiple Inherited Susceptibility ...'
+notes: ~
+pmid: 20022890
+title: Genome-Wide Association Study in Discordant Sibships Identifies Multiple Inherited
+  Susceptibility Alleles Linked to Lung Cancer.
+year: 2010

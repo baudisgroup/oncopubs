@@ -1,0 +1,61 @@
+---
+abstract: 'Hypereosinophilic syndrome (HES) is a clinically and pathologically heterogeneous
+  disease entity. It is characterized by persistent eosinophilia and organ damage
+  after excluding other causes. Clonal eosinophilia is distinguished from idiopathic
+  eosinophilia by the presence of histologic, cytogenetic, or molecular evidence of
+  an underlying malignancy. There are two distinct subcategories of clonal eosinophilia:
+  chronic eosinophilic leukemia, not otherwise specified and myeloid/lymphoid neoplasms
+  with eosinophilia and mutations involving platelet-derived growth factor receptor
+  Î±/Î² or fibroblast growth factor receptor 1. More than 50% of HES are without knowledge
+  of underlying pathogenic molecular pathways. Here we examined a HES patient by oligo-based
+  aCGH analysis and molecular cytogenetic methods. Examination for the common eosinophilia-related
+  cytogenetic abnormalities involving the genes PDGFRA, PDGFRB, and FGFR1 together
+  with BCR-ABL fusion gene was negative. Cytogenetic analysis and multi-color FISH
+  analysis revealed a novel cryptic three-way translocation t(2;11;5)(p21.3;q13.5;q23.2).
+  By oaCGH analysis we could not find any copy number changes related to the cytogenetic
+  breakpoints but instead detected a 0.9Mb submicroscopic deletion at 11p14.3. The
+  deleted region involved the 5''-upstream sequences and exons 1-4 of the LUZP2 gene,
+  which encodes a leucine zipper protein. Analysis of surrogate germ-line cells revealed
+  a normal result showing that the detected chromosomal aberrations were acquired.
+  This is the first report on a HES patient associated with a novel complex three-way
+  translocation t(2;11;5)(p21.3;q13.5;q23.2) and a submicroscopic deletion in chromosome
+  band 11p14.3. The study also demonstrates the benefits of oligo-based aCGH analysis
+  in detecting hidden disease related chromosomal abnormalities. The present findings
+  provide additional clues to unravel important molecular pathways in HES to obtain
+  the full spectrum of acquired chromosomal and genomic aberrations in this heterogeneous
+  disease entity. As more cases become characterized this may eventually improve on
+  classification and treatment options.  Copyright Â© 2015. Published by Elsevier
+  Inc.'
+authors: Kjeldsen E
+cancertypes: []
+contact:
+  email: Eigil.Kjeldsen@clin.au.dk
+  name: Eigil Kjeldsen
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25962659
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: Exp. Mol. Pathol., 2015
+label: 'Kjeldsen E (): A novel acquired cryptic three-way translocation t(2;11;5)(p21.3;q13.5;q23.2)
+  with a submicroscopic ...'
+notes: ~
+pmid: 25962659
+title: A novel acquired cryptic three-way translocation t(2;11;5)(p21.3;q13.5;q23.2)
+  with a submicroscopic deletion at 11p14.3 in an adult with hypereosinophilic syndrome.
+year: 2015

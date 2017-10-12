@@ -1,0 +1,54 @@
+---
+abstract: Single nucleotide polymorphism (SNP) array analysis is currently used as
+  a first tier test for pediatric brain tumors at The Children's Hospital of Philadelphia.
+  The results from 100 consecutive patients are summarized in the present report.
+  Eighty-seven percent of the tumors had at least one pathogenic copy number alteration.
+  Nineteen of 56 low grade gliomas (LGGs) demonstrated a duplication in 7q34, which
+  resulted in a KIAA1549-BRAF fusion. Chromosome band 7q34 deletions, which resulted
+  in a FAM131B-BRAF fusion, were identified in one pilocytic astrocytoma (PA) and
+  one dysembryoplastic neuroepithelial tumor (DNT). One ganglioglioma (GG) demonstrated
+  a 6q23.3q26 deletion that was predicted to result in a MYB-QKI fusion. Gains of
+  chromosomes 5, 6, 7, 11, and 20 were seen in a subset of LGGs. Monosomy 6, deletion
+  of 9q and 10q, and an i(17)(q10) were each detected in the medulloblastomas (MBs).
+  Deletions and regions of loss of heterozygosity that encompassed TP53, RB1, CDKN2A/B,
+  CHEK2, NF1, and NF2 were identified in a variety of tumors, which led to a recommendation
+  for germline testing. A BRAF p.Thr599dup or p.V600E mutation was identified by Sanger
+  sequencing in one and five gliomas, respectively, and a somatic TP53 mutation was
+  identified in a fibrillary astrocytoma. No TP53 hot-spot mutations were detected
+  in the MBs. SNP array analysis of pediatric brain tumors can be combined with pathologic
+  examination and molecular analyses to further refine diagnoses, offer more accurate
+  prognostic assessments, and identify patients who should be referred for cancer
+  risk assessment.  Copyright ï¿½ 2014 Elsevier Inc. All rights reserved.
+authors: Roth JJ, Santi M, Rorke-Adams LB, Harding BN, Busse TM, Tooke LS and Biegel
+  JA
+cancertypes: []
+contact:
+  email: biegel@mail.med.upenn.edu
+  name: Jaclyn A. Biegel
+counts:
+  biosamples: 100
+  samples_acgh: 100
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24767714
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Cancer Genet 207(4), 2014
+label: 'Roth JJ et al. (2014): '
+notes: ~
+pmid: 24767714
+title: Diagnostic application of high resolution single nucleotide polymorphism array
+  analysis for children with brain tumors.
+year: 2014

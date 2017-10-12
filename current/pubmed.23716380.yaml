@@ -1,0 +1,97 @@
+---
+abstract: Intratumour heterogeneity (ITH) may foster tumour adaptation and compromise
+  the efficacy of personalized medicine approaches. The scale of heterogeneity within
+  a tumour (intratumour heterogeneity) relative to genetic differences between tumours
+  (intertumour heterogeneity) is unknown. To address this, we obtained 48 biopsies
+  from eight stage III and IV clear cell renal cell carcinomas (ccRCCs) and used DNA
+  copy-number analyses to compare biopsies from the same tumour with 440 single tumour
+  biopsies from the Cancer Genome Atlas (TCGA). Unsupervised hierarchical clustering
+  of TCGA and multi-region ccRCC samples revealed segregation of samples from the
+  same tumour into unrelated clusters; 25% of multi-region samples appeared more similar
+  to unrelated samples than to any other sample originating from the same tumour.
+  We found that the majority of recurrent DNA copy number driver aberrations in single
+  biopsies were not present ubiquitously in late-stage ccRCCs and were likely to represent
+  subclonal events acquired during tumour progression. Such heterogeneous subclonal
+  genetic alterations within individual tumours may impair the identification of robust
+  ccRCC molecular subtypes classified by distinct copy number alterations and clinical
+  outcomes. The co-existence of distinct subclonal copy number events in different
+  regions of individual tumours reflects the diversification of individual ccRCCs
+  through multiple evolutionary routes and may contribute to tumour sampling bias
+  and impact upon tumour progression and clinical outcome.
+authors: Martinez P, Birkbak NJ, Gerlinger M, McGranahan N, Burrell RA, Rowan AJ,
+  Joshi T, Fisher R, Larkin J, Szallasi Z, Swanton C.
+cancertypes:
+- samples_arraymap: 63
+  samples_progenetix: ~
+  term_id: ncit:C4033
+  term_label: Clear Cell Renal Cell Carcinoma
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 63
+  samples_progenetix: ~
+  term_id: pgx:icdom:8310_3
+  term_label: Clear cell adenocarcinoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 66
+  samples_progenetix: ~
+  term_id: pgx:icdot:C64.9
+  term_label: kidney
+- samples_arraymap: 63
+  samples_progenetix: ~
+  term_id: pgx:seer:29020
+  term_label: Kidney and Renal Pelvis
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 63
+  samples_progenetix: ~
+  term_id: snmi:M-83103
+  term_label: Clear cell adenocarcinoma, NOS
+contact:
+  email: Charles.swanton@cancer.org.uk
+  name: Charles Swanton
+counts:
+  biosamples: 63
+  samples_acgh: 63
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23716380
+- geo:GSE47077
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J. Pathol. 230(4), 2013
+label: ' (2013): '
+notes: 63 overall tumor CNA profiles.
+pmid: 23716380
+title: Parallel evolution of tumour subclones mimics diversity between tumours.
+year: 2013

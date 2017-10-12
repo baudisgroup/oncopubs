@@ -1,0 +1,56 @@
+---
+abstract: The presence of disseminated tumor cells DTCs in bone marrow BM identifies
+  breast cancer patients with less favorable outcome. Furthermore, molecular characterization
+  is required to investigate the malignant potential of these cells. This study presents
+  a single-cell array comparative genomic hybridization SCaCGH method providing molecular
+  analysis of immunomorphologically detected DTCs. The resolution limit of the method
+  was estimated using the cancer cell line SK-BR-3 on 44 and 244k arrays. The technique
+  was further tested on 28 circulating tumor cells and four hematopoietic cells HCs
+  from peripheral blood n 8 patients . The SCaCGH method was finally applied to 24
+  DTCs, three immunopositive cells morphologically classified as probable HCs from
+  breast cancer patients and five HC controls from BM n 7 patients plus n 1 healthy
+  donor . The frequency of copy number changes of the DTCs revealed similarities with
+  primary breast tumor samples. Three of the patients had available profiles for DTCs
+  and the corresponding tumor tissue from primary surgery. More than two-third of
+  the analyzed DTCs disclosed equivalent changes, both to each other and to the corresponding
+  primary disease, whereas the rest of the cells showed balanced profiles. The probable
+  HCs revealed either balanced profiles n 2 or changes comparable to the tumor tissue
+  and DTCs n 1 , indicating morphological overlap between HCs and DTCs. Similar aberration
+  patterns were visible in DTCs collected at diagnosis and at 3 years relapse-free
+  follow-up. SCaCGH may be a powerful tool for the molecular characterization of DTCs.
+authors: Mathiesen RR, Fjelldal R, Liestol K, Due EU, Geigl JB, Riethdorf S, Borgen
+  E, Rye IH, Schneider IJ, Obenauf AC, Mauermann O, Nilsen G, Christian Lingjaerde
+  O, Borresen-Dale AL, Pantel K, Speicher MR, Naume B and Baumbusch LO.
+cancertypes: []
+contact:
+  email: ~
+  name: Bjorn Naume
+counts:
+  biosamples: 79
+  samples_acgh: 79
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21935921
+- geo:GSE27574
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Int J Cancer (2011)
+label: 'Mathiesen et al. (2011): High-Resolution Analyses of Copy Number Changes in
+  Disseminated Tumor Cells of Patients With ...'
+notes: ~
+pmid: 21935921
+title: High-Resolution Analyses of Copy Number Changes in Disseminated Tumor Cells
+  of Patients With Breast Cancer.
+year: 2011

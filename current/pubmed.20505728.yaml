@@ -1,0 +1,98 @@
+---
+abstract: Lung cancer is the leading cause of cancer-related mortality worldwide,
+  with non-small-cell lung carcinomas in smokers being the predominant form of the
+  disease. Although previous studies have identified important common somatic mutations
+  in lung cancers, they have primarily focused on a limited set of genes and have
+  thus provided a constrained view of the mutational spectrum. Recent cancer sequencing
+  efforts have used next-generation sequencing technologies to provide a genome-wide
+  view of mutations in leukaemia, breast cancer and cancer cell lines. Here we present
+  the complete sequences of a primary lung tumour 60x coverage and adjacent normal
+  tissue 46x . Comparing the two genomes, we identify a wide variety of somatic variations,
+  including amp gt 50,000 high-confidence single nucleotide variants. We validated
+  530 somatic single nucleotide variants in this tumour, including one in the KRAS
+  proto-oncogene and 391 others in coding regions, as well as 43 large-scale structural
+  variations. These constitute a large set of new somatic mutations and yield an estimated
+  17.7 per megabase genome-wide somatic mutation rate. Notably, we observe a distinct
+  pattern of selection against mutations within expressed genes compared to non-expressed
+  genes and in promoter regions up to 5 kilobases upstream of all protein-coding genes.
+  Furthermore, we observe a higher rate of amino acid-changing mutations in kinase
+  genes. We present a comprehensive view of somatic alterations in a single lung tumour,
+  and provide the first evidence, to our knowledge, of distinct selective pressures
+  present within the tumour environment.
+authors: Lee W, Jiang Z, Liu J, Haverty PM, Guan Y, Stinson J, Yue P, Zhang Y, Pant
+  KP, Bhatt D, Ha C, Johnson S, Kennemer MI, Mohan S, Nazarenko I, Watanabe C, Sparks
+  AB, Shames DS, Gentleman R, de Sauvage FJ, Stern H, Pandita A, Ballinger DG, Drmanac
+  R, Modrusan Z, Seshagiri S and Zhang Z.
+cancertypes:
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C3512
+  term_label: Lung Adenocarcinoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: zemin@gene.com
+  name: Zemin Zhang
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20505728
+- geo:GSE20585
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: North America
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: 'Nature 465, 7297 (2010): 473-77.'
+label: 'Lee et al. (2010): The Mutation Spectrum Revealed By Paired Genome Sequences
+  From a Lung Cancer Patient.'
+notes: ~
+pmid: 20505728
+title: The Mutation Spectrum Revealed By Paired Genome Sequences From a Lung Cancer
+  Patient.
+year: 2010

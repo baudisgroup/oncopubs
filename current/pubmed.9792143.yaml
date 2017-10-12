@@ -1,0 +1,52 @@
+---
+abstract: DNA copy number changes were compared in 29 histologically benign follicular
+  adenomas, of which five were atypical, and 13 follicular carcinomas of the thyroid
+  by comparative genomic hybridization. DNA copy number changes were frequent in adenomas
+  14 out of 29, 48 . Most changes were gains, and they always involved a gain of the
+  entire chromosome 7 10 out of 29, 34 other common gains involved chromosomes 5 28
+  , 9 10 , 12 24 , 14 21 , 17 17 , 18 14 and X 17 . Losses were found only in four
+  14 adenomas. Two of the five atypical adenomas had DNA copy number losses, and none
+  had gains. Unlike adenomas, gains were rare and losses were frequent in carcinomas.
+  A loss of chromosome 22 or 22q was particularly common in carcinomas 6 out of 13,
+  46 , whereas a loss of chromosome 22 was found in only two 7 adenomas, one of which
+  was atypical P 0.002 . A loss of 1p was also frequent in carcinomas 31 , but gains
+  of chromosomes 5, 7, 12, 14 or X that were common in adenomas were not found. Loss
+  of chromosome 22 or 22q was present in six of the eight widely invasive follicular
+  carcinomas, but in only one of the five minimally invasive carcinomas. We conclude
+  that large DNA copy number changes are common in thyroid adenomas. These changes
+  are strikingly different from those found in follicular carcinomas consisting of
+  few losses and frequent gains, especially those of chromosome 7. A loss of chromosome
+  22 is common in widely invasive follicular carcinoma.
+authors: Hemmer S, Wasenius VM, Knuutila S, Joensuu H and Franssila K.
+cancertypes: []
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 42
+  samples_acgh: 0
+  samples_ccgh: 42
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9792143
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Br J Cancer 78, 8 (1998): 1012-17.'
+label: 'Hemmer et al. (1998): Comparison of Benign and Malignant Follicular Thyroid
+  Tumours By Comparative Genomic ...'
+notes: ~
+pmid: 9792143
+title: Comparison of Benign and Malignant Follicular Thyroid Tumours By Comparative
+  Genomic Hybridization.
+year: 1998

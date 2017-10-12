@@ -1,0 +1,53 @@
+---
+abstract: Genetic changes in the tumorigenesis of sporadic pheochromocytomas are poorly
+  understood, and there are no good markers to discriminate benign from malignant
+  pheochromocytomas. p53 is a tumor suppressor gene and aberrations in this gene are
+  frequently found in many tumor types. The role of p53 in pheochromocytoma tumorigenesis
+  is unclear, with some studies suggesting that p53 mutations can be used to discriminate
+  benign from malignant pheochromocytomas while other studies do not find such an
+  association. Because most of these investigations were hampered by small series
+  of tumors and the use of varying methods, we have performed a comprehensive analysis
+  of p53 aberrations in a large series of pheochromocytomas. Comparative genomic hybridization
+  analysis of 31 benign and 20 malignant tumors showed loss of the p53 locus at chromosome
+  17p13.1 in 23 51 45 cases, and most of these results were confirmed by fluorescence
+  in situ hybridization. Forty-three tumors, including the malignant tumors and the
+  tumors with loss of the p53 locus, were analyzed for p53 mutations in exons 5-8,
+  but none were found. Furthermore, p53 immunohistochemistry on 35 cases revealed
+  strong nuclear p53 expression in only two pheochromocytoma metastases, all other
+  tumors being negative. We conclude that, although there is frequent loss of the
+  p53 locus on 17p, the p53 gene does not appear to play a major role in pheochromocytoma
+  tumorigenesis.
+authors: Petri BJ, Speel EJ, Korpershoek E, Claessen SM, van Nederveen FH, Giesen
+  V, Dannenberg H, van der Harst E, Dinjens WN and de Krijger RR.
+cancertypes: []
+contact:
+  email: b.petri@erasmusmc.nl
+  name: Bart-Jeroen Petri
+counts:
+  biosamples: 51
+  samples_acgh: 0
+  samples_ccgh: 51
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18223555
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Mod Pathol 21, 4 (2008): 407-13.'
+label: 'Petri et al. (2008): Frequent Loss of 17p, But No P53 Mutations Or Protein
+  Overexpression in Benign and Malignant ...'
+notes: ~
+pmid: 18223555
+title: Frequent Loss of 17p, But No P53 Mutations Or Protein Overexpression in Benign
+  and Malignant Pheochromocytomas.
+year: 2008

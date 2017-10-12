@@ -1,0 +1,44 @@
+---
+abstract: In order to investigate genomic imbalances, comparative genomic hybridization
+  was applied to 20 malignant fibrous histiocytomas. Deletions were rare and found
+  mainly in chromosomes 2q33-35, 4q32-qter, 8p, 9p21-pter, 12p and 19p, whereas, over-representations
+  frequently affected chromosomes 3, 4q31, 5p, 6, 7, 14q22-ter, 18p, as well as, five
+  distinct amplifications within the regions 12q12-15 and 15q24-qter. The total number
+  of genetic imbalances per tumor was slightly increased in primary tumors when compared
+  to relapses. No relationship was found between the patterns of gain and loss when
+  compared to the histological subtype, tumor grading, the clinical outcome and the
+  p53 mutation status.
+authors: Hinze R, Schagdarsurengin U, Taubert H, Meye A, Wurl P, Holzhausen HJ, Rath
+  FW and Schmidt H.
+cancertypes: []
+contact:
+  email: axel.meye@uniklinikum-dresden.de
+  name: Axel Meye
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9864389
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.36
+    - 52.06
+    type: Point
+  info:
+    city: Halle
+    continent: Europe
+    country: Germany
+    label: Halle, Germany, Europe
+    precision: city
+journal: 'Int J Mol Med 3, 1 (1999): 75-79.'
+label: 'Hinze et al. (1999): Assessment of Genomic Imbalances in Malignant Fibrous
+  Histiocytomas By Comparative Genomic ...'
+notes: ~
+pmid: 9864389
+title: Assessment of Genomic Imbalances in Malignant Fibrous Histiocytomas By Comparative
+  Genomic Hybridization.
+year: 1999

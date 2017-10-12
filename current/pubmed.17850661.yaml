@@ -1,0 +1,61 @@
+---
+abstract: Age is one of the most important risk factors for human malignancies, including
+  breast cancer in addition, age at diagnosis has been shown to be an independent
+  indicator of breast cancer prognosis. Except for inherited forms of breast cancer,
+  however, there is little genetic or epigenetic understanding of the biological basis
+  linking aging with sporadic breast cancer incidence and its clinical behavior.
+authors: Yau C, Fedele V, Roydasgupta R, Fridlyand J, Hubbard A, Gray JW, Chew K,
+  Dairkee SH, Moore DH, Schittulli F, Tommasi S, Paradiso A, Albertson DG and Benz
+  CC.
+cancertypes:
+- samples_arraymap: 71
+  samples_progenetix: 71
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 71
+  samples_progenetix: 71
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 71
+  samples_progenetix: 71
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 71
+  samples_progenetix: 71
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 71
+  samples_progenetix: 71
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: cbenz@buckinstitute.org
+  name: Christopher Benz
+counts:
+  biosamples: 71
+  samples_acgh: 71
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17850661
+- geo:GSE8801
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.57
+    - 38.11
+    type: Point
+  info:
+    city: Novato
+    continent: North America
+    country: United States
+    label: Novato, United States, North America
+    precision: city
+journal: 'Breast Cancer Res 9, 5 (2007): R59.'
+label: 'Yau et al. (2007): Aging Impacts Transcriptomes But Not Genomes of Hormone-Dependent
+  Breast Cancers.'
+notes: ~
+pmid: 17850661
+title: Aging Impacts Transcriptomes But Not Genomes of Hormone-Dependent Breast Cancers.
+year: 2007

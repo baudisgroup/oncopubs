@@ -1,0 +1,54 @@
+---
+abstract: Gastric cancer (GC) is the third leading cause of cancer-related deaths
+  worldwide. Recent high-throughput analyses of genomic alterations revealed several
+  driver genes and altered pathways in GC. However, therapeutic applications from
+  genomic data are limited, largely as a result of the lack of druggable molecular
+  targets and preclinical models for drug selection. To identify new therapeutic targets
+  for GC, we performed array comparative genomic hybridization (aCGH) of DNA from
+  103 patients with GC for copy number alteration (CNA) analysis, and whole-exome
+  sequencing from 55 GCs from the same patients for mutation profiling. Pathway analysis
+  showed recurrent alterations in the Wnt signaling [APC, CTNNB1, and DLC1 (deleted
+  in liver cancer 1)], ErbB signaling (ERBB2, PIK3CA, and KRAS), and p53 signaling/apoptosis
+  [TP53 and BCL2L1 (BCL2-like 1)] pathways. In 18.4% of GC cases (19/103), amplification
+  of the antiapoptotic gene BCL2L1 was observed, and subsequently a BCL2L1 inhibitor
+  was shown to markedly decrease cell viability in BCL2L1-amplified cell lines and
+  in similarly altered patient-derived GC xenografts, especially when combined with
+  other chemotherapeutic agents. In 10.9% of cases (6/55), mutations in DLC1 were
+  found and were also shown to confer a growth advantage for these cells via activation
+  of Rho-ROCK signaling, rendering these cells more susceptible to a ROCK inhibitor.
+  Taken together, our study implicates BCL2L1 and DLC1 as potential druggable targets
+  for specific subsets of GC cases.
+authors: Park H, Cho SY, Kim H, Na D, Han JY, Chae J, Park C, Park OK, Min S, Kang
+  J, Choi B, Min J, Kwon JY, Suh YS, Kong SH, Lee HJ, Liu ET, Kim JI, Kim S, Yang
+  HK and Lee C
+cancertypes: []
+contact:
+  email: Charles.Lee@jax.org
+  name: Charles Lee
+counts:
+  biosamples: 103
+  samples_acgh: 103
+  samples_ccgh: 0
+  samples_wes: 55
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26401016
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.42
+    - 37.78
+    type: Point
+  info:
+    city: Farmington
+    continent: North America
+    country: United States
+    label: Farmington, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 112(40), 2015
+label: 'Park H et al. (2015): '
+notes: ~
+pmid: 26401016
+title: Genomic alterations in BCL2L1 and DLC1 contribute to drug sensitivity in gastric
+  cancer.
+year: 2015

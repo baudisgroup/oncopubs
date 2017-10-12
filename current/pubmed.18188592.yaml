@@ -1,0 +1,51 @@
+---
+abstract: Sex cord-stromal tumors of the ovary comprise 8 of all ovarian neoplasms.
+  Because they consist of cells that resemble embryonic sex cord and or specialized
+  ovarian stroma cells, their cytologic and histologic features can be viewed as reflecting
+  a continuum from fibromas to thecomas with thecofibromas in between. Existing cytogenetic
+  knowledge about ovarian thecomas-thecofibromas-fibromas is restricted to 44 cases
+  with chromosomal abnormalities. The most common aberration has been trisomy 12,
+  identified either by karyotyping or using fluorescence in situ hybridization FISH
+  . We wanted to obtain more information about the genomic composition of these tumors,
+  and, therefore, examined 29 new thecoma-thecofibroma-fibroma tumors of the ovary
+  using karyotyping, comparative genomic hybridization, interphase FISH, and DNA ploidy
+  analysis. We detected aneuploidy in 21 tumors. Trisomy and or tetrasomy 12 was the
+  most common chromosomal aberration, found in 15 tumors 71.5 of the aneuploid tumors
+  or 51.5 of all analyzed tumors , followed by trisomy for chromosomes 10, 18, 4,
+  and 9. Some monosomies for chromosomes 4, 9, 10, and 18 were also identified, either
+  as the sole change or in combination with trisomies. The nonrandom occurrence of
+  these aneuploidies in these benign tumors strongly indicates that they play a major
+  pathogenetic role, but how trisomies and other aneuploidies contribute to tumorigenesis
+  remains unknown.
+authors: Micci F, Haugom L, Abeler VM, Trope CG, Danielsen HE and Heim S.
+cancertypes: []
+contact:
+  email: francesca.micci@labmed.uio.no
+  name: Francesca Micci
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18188592
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Virchows Arch 452, 3 (2008): 269-76.'
+label: 'Micci et al. (2008): Consistent Numerical Chromosome Aberrations in Thecofibromas
+  of the Ovary.'
+notes: ~
+pmid: 18188592
+title: Consistent Numerical Chromosome Aberrations in Thecofibromas of the Ovary.
+year: 2008

@@ -1,0 +1,51 @@
+---
+abstract: In this study, we correlated array-comparative genomic hybridization-defined
+  abnormalities with survival in two different cohorts of patients treated with therapy
+  based on high-dose melphalan with autologous stem-cell transplantation 64 from the
+  Mayo Clinic and 67 from the University of Arkansas Medical School and identified
+  that several regions of genomic gains and losses were significantly associated with
+  poorer survival. Three noncontiguous survival relevant regions covering 1p31-33
+  and two noncontiguous regions covering 20p12.3-12.1 were common between the two
+  datasets. The prognostic relevance of these hotspots was validated in an independent
+  cohort using fluorescent in situ hybridization, which showed that 1p31-32 loss is
+  significantly associated with shorter survival 24.5 months versus 40 months, log-rank
+  P-value 0.01 , whereas 20p12 loss has a trend toward shorter survival 26.3 months
+  versus 40 months, log-rank P-value 0.06 . On multivariate analysis, 1p31-32 loss
+  is an independent prognostic factor. On further analysis, the prognostic impact
+  of 1p31-32 loss is due to shortening of post-relapse survival as there is no impact
+  on complete response rates and progression-free survival.
+authors: Chng WJ, Gertz MA, Chung TH, Van Wier S, Keats JJ, Baker A, Bergsagel PL,
+  Carpten J and Fonseca R.
+cancertypes: []
+contact:
+  email: fonseca.rafael@mayo.edu
+  name: Rafael Fonseca
+counts:
+  biosamples: 131
+  samples_acgh: 131
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20220778
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Leukemia 24, 4 (2010): 833-42.'
+label: 'Chng et al. (2010): Correlation Between Array-Comparative Genomic Hybridization-Defined
+  Genomic Gains and Losses and ...'
+notes: ~
+pmid: 20220778
+title: 'Correlation Between Array-Comparative Genomic Hybridization-Defined Genomic
+  Gains and Losses and Survival: Identification of 1p31-32 Deletion as a Prognostic
+  Factor in Myeloma.'
+year: 2010

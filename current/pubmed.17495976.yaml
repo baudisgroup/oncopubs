@@ -1,0 +1,111 @@
+---
+abstract: Single-nucleotide polymorphism SNP array analysis was performed using the
+  10K GeneChip array on a series of 26 paired follicular lymphoma FL and transformed-FL
+  t-FL biopsies and the lymphoma cell lines SCI-1, DoHH2 and RL2261. Regions of acquired
+  homozygosity were detected in 43 52 83 primary specimens with a mean of 1.7 and
+  3.0 aberrations in the FL and t-FL, respectively. A notable feature was the occurrence
+  of recurring sites of acquired uniparental disomy aUDP on 6p, 9p, 12q and 17p in
+  cell lines and primary samples. Homozygosity of 9p and 17p arose predominantly in
+  t-FL and in three cases rendered the cell homozygous for a pre-existing mutation
+  of either CDKN2A or TP53. These data suggest that mutation precedes mitotic recombination,
+  which leads to the removal of the remaining wild-type allele. In all, 18 cases exhibited
+  abnormalities in both FL and t-FL samples. In 10 cases blocks of homozygosity were
+  detected in FL that were absent in the subsequent t-FL sample. These differences
+  support the notion that FL and t-FL may arise in a proportion of patients by divergence
+  from a common malignant ancestor cell rather than by clonal evolution from an antecedent
+  FL.
+authors: Fitzgibbon J, Iqbal S, Davies A, Oshea D, Carlotti E, Chaplin T, Matthews
+  J, Raghavan M, Norton A, Lister TA and Young BD.
+cancertypes:
+- samples_arraymap: 26
+  samples_progenetix: 26
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 29
+  samples_progenetix: 29
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: 26
+  samples_progenetix: 26
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 17
+  samples_progenetix: 55
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 38
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 55
+  samples_progenetix: 55
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 29
+  samples_progenetix: 29
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: 26
+  samples_progenetix: 26
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+contact:
+  email: jude.   tzgibbon@cancer.org.uk
+  name: Jude Fitzgibbon
+counts:
+  biosamples: 55
+  samples_acgh: 55
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17495976
+- geo:GSE7425
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Leukemia 21, 7 (2007): 1514-20.'
+label: 'Fitzgibbon et al. (2007): Genome-Wide Detection of Recurring Sites of Uniparental
+  Disomy in Follicular and Transformed ...'
+notes: ~
+pmid: 17495976
+title: Genome-Wide Detection of Recurring Sites of Uniparental Disomy in Follicular
+  and Transformed Follicular Lymphoma.
+year: 2007

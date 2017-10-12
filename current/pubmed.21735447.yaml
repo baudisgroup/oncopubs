@@ -1,0 +1,55 @@
+---
+abstract: The 11q13-q14 locus is frequently amplified in human cancers, with a complex
+  structure harbouring multiple potential oncogenic drivers. The EMSY gene has been
+  proposed as a driver of the third core of the 11q13-q14 amplicon. This gene encodes
+  a protein reported to be a BRCA2-binding partner, which when over-expressed would
+  lead to impairment of BRCA2 functions and could constitute a mechanism for BRCA2
+  inactivation in non-hereditary breast and ovarian cancers. We hypothesized that
+  if EMSY amplification abrogates BRCA2 functions, cells harbouring this aberration
+  would be unable to elicit competent homologous recombination DNA repair and, therefore,
+  may have increased sensitivity to genotoxic therapies and potent PARP inhibitors.
+  Microarray-based comparative genomic hybridization of cell lines from distinct tumour
+  sites, including breast, ovary, pancreas, oesophagus, lung and the oral cavity,
+  led to the identification of 10 cell lines with EMSY amplification and 18 without.
+  EMSY amplification was shown to correlate with EMSY mRNA levels, although not all
+  cell lines harbouring EMSY amplification displayed EMSY mRNA or protein over-expression.
+  RNA interference-mediated silencing of EMSY did not lead to a reduction in cell
+  viability in tumour models harbouring EMSY amplification. Cell lines with and without
+  EMSY amplification displayed a similar ability to elicit RAD51 foci in response
+  to DNA damaging agents, and similar sensitivity to cisplatin and olaparib. Taken
+  together, this suggests that EMSY is unlikely to be a driver of the 11q13-q14 amplicon
+  and does not have a dominant role in modulating the response to agents targeting
+  cells with defective homologous recombination.
+authors: Wilkerson PM, Dedes KJ, Wetterskog D, Mackay A, Lambros MB, Mansour M, Frankum
+  J, Lord CJ, Natrajan R, Ashworth A and Reis-Filho JS.
+cancertypes: []
+contact:
+  email: jorgerf@icr.ac.uk
+  name: Jorge Reis-Filho
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21735447
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'J Pathol 225, 1 (2011): 29-42.'
+label: 'Wilkerson et al. (2011): Functional Characterization of Emsy Gene Amplification
+  in Human Cancers.'
+notes: ~
+pmid: 21735447
+title: Functional Characterization of Emsy Gene Amplification in Human Cancers.
+year: 2011

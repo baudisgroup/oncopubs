@@ -1,0 +1,38 @@
+---
+abstract: The myelodysplastic syndromes and myeloproliferative disorders are associated
+  with deregulated production of myeloid cells. The mechanisms underlying these disorders
+  are not well defined.
+authors: Delhommeau F, Dupont S, Della Valle V, James C, Trannoy S, Masse A, Kosmider
+  O, Le Couedic JP, Robert F, Alberdi A, Lecluse Y, Plo I, Dreyfus FJ, Marzac C, Casadevall
+  N, Lacombe C, Romana SP, Dessen P, Soulier J, Viguie F, Fontenay M, Vainchenker
+  W and Bernard OA.
+cancertypes: []
+contact:
+  email: olivier.bernard@inserm.fr
+  name: Olivier A. Bernard
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19474426
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: Europe
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: 'N Engl J Med 360, 22 (2009): 2289-301.'
+label: 'Delhommeau et al. (2009): Mutation in Tet2 in Myeloid Cancers.'
+notes: ~
+pmid: 19474426
+title: Mutation in Tet2 in Myeloid Cancers.
+year: 2009

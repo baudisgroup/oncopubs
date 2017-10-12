@@ -1,0 +1,77 @@
+---
+abstract: 'BACKGROUND: Recurrence prediction of hepatitis B virus HBV -related hepatocellular
+  carcinoma HCC patients undergoing liver transplantation LT present a great challenge
+  because of a lack of biomarkers. Genetic variations play an important role in tumor
+  development and metastasis. METHODS: Oligonucleotide microarrays were used to evaluate
+  the genetic characteristics of tumor DNA in 30 HBV-related HCC patients who were
+  underwent LT. Recurrence-related single-nucleotide polymorphism were selected, and
+  their prognostic value was assessed and validated in two independent cohorts of
+  HCC patients N 102 and N 77 , using pretransplant plasma circulating DNA. Prognostic
+  significance was assessed by Kaplan-Meier survival estimates and log-rank tests.
+  Multivariate analyses were performed to evaluate prognosis-related factors. RESULTS:
+  rs894151 and rs12438080 were significantly associated with recurrence P .003 and
+  P .004, respectively . Multivariate analyses demonstrated that the co-index of the
+  2 SNPs was an independent prognostic factor for recurrence P .040 . Similar results
+  were obtained in the third cohort N 77 . Furthermore, for HCC patients all the 3
+  cohorts exceeding Milan criteria, the co-index was a prognostic factor for recurrence
+  and survival P lt .001 and P .002, respectively . CONCLUSIONS: Our study demonstrated
+  first that genetic variations of rs894151 and rs12438080 in pretransplant plasma
+  circulating DNA are promising prognostic markers for tumor recurrence in HCC patients
+  undergoing LT and identify a subgroup of patients who, despite having HCC exceeding
+  Milan criteria, have a low risk of post-transplant recurrence.'
+authors: Hu J, Wang Z, Fan J, Dai Z, He YF, Qiu SJ, Huang XW, Sun J, Xiao YS, Song
+  K, Shi YH, Sun QM, Yang XR, Shi GM, Yu L, Yang GH, Ding ZB, Gao Q, Tang ZY and Zhou
+  J.
+cancertypes:
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: ncit:C3099
+  term_label: Hepatocellular Carcinoma
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdom:8170_3
+  term_label: Hepatocellular carcinoma, NOS
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:icdot:C22
+  term_label: liver
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: pgx:seer:21071
+  term_label: Liver
+- samples_arraymap: 30
+  samples_progenetix: ~
+  term_id: snmi:M-81703
+  term_label: Hepatocellular carcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21998744
+- geo:GSE29667
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: 'PLoS One (2011) 6: e26003.'
+label: 'Hu et al. (2011): Genetic variations in plasma circulating DNA of HBV-related
+  hepatocellular carcinoma patients predict ...'
+notes: ~
+pmid: 21998744
+title: Genetic variations in plasma circulating DNA of HBV-related hepatocellular
+  carcinoma patients predict recurrence after liver transplantation.
+year: 2011

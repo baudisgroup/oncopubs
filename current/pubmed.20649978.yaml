@@ -1,0 +1,38 @@
+---
+abstract: The goal of our study was to investigate the molecular underpinnings associated
+  with the relatively aggressive clinical behavior of prostate cancer PCa in African
+  American AA compared to Caucasian American CA patients using a genome-wide approach.
+authors: Rose AE, Satagopan JM, Oddoux C, Zhou Q, Xu R, Olshen AB, Yu JZ, Dash A,
+  Jean-Gilles J, Reuter V, Gerald WL, Lee P and Osman I.
+cancertypes: []
+contact:
+  email: ~
+  name: Peng Lee
+counts:
+  biosamples: 41
+  samples_acgh: 41
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20649978
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'J Transl Med 8 (2010): 70.'
+label: 'Rose et al. (2010): Copy Number and Gene Expression Differences Between African
+  American and Caucasian American Prostate ...'
+notes: ~
+pmid: 20649978
+title: Copy Number and Gene Expression Differences Between African American and Caucasian
+  American Prostate Cancer.
+year: 2010

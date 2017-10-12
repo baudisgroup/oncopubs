@@ -1,0 +1,52 @@
+---
+abstract: Activating kinase fusions have recently been described as early oncogenic
+  events that are mutually exclusive with HRAS and BRAF mutations in Spitz tumors.
+  Here, we report a series of 32 Spitz tumors with ALK fusions (6 Spitz nevi, 22 atypical
+  Spitz tumors, and 4 spitzoid melanomas) in patients ranging from 5 months to 64
+  years (median=12 y) of age. The tumors typically presented as exophytic papules
+  on the extremities and were occasionally darkly pigmented. In addition to ALK fusions
+  previously described in other tumor types (NPM1-ALK, TPR-ALK), we identified 2 novel
+  ALK fusions (CLIP1-ALK and GTF3C2-ALK) in our cohort of Spitz tumors. Array comparative
+  genomic hybridization of 19 of these tumors demonstrated a high frequency of chromosome
+  2 aberrations (where ALK resides, 63%) and chromosome 1p loss in 37% of the cases.
+  Spitz tumors with ALK fusions demonstrated unique histopathologic features. Clefts
+  and small vesicle-like spaces were arrayed between plump spindled melanocytes with
+  fibrillar cytoplasm and enlarged nuclei. These melanocytes were typically arrayed
+  in elongated and fusiform nests with radial orientation. The tumors often had extension
+  into the dermis or subcutis with a wedge-shaped or bulbous lower border (45% and
+  17%, respectively). An infiltrative growth pattern was often present at the periphery
+  of the tumor and was highlighted by ALK immunohistochemistry. In conclusion, Spitz
+  tumors with ALK rearrangement show distinct histopathologic features that should
+  aid in improving classification of these diagnostically challenging tumors.
+authors: Yeh I, de la Fouchardiere A, Pissaloux D, Mully TW, Garrido MC, Vemula SS,
+  Busam KJ, LeBoit PE, McCalmont TH and Bastian BC
+cancertypes: []
+contact:
+  email: iwei.yeh@ucsf.edu
+  name: Iwei Yeh
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25602801
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Am. J. Surg. Pathol. 39(5), 2015
+label: 'Yeh I et al. (2015): '
+notes: ~
+pmid: 25602801
+title: Clinical, histopathologic, and genomic features of Spitz tumors with ALK fusions.
+year: 2015

@@ -1,0 +1,80 @@
+---
+abstract: Despite the recent consensus on the eligibility of adjuvant systemic therapy
+  in patients with lymph node-negative breast cancer NNBC based on clinicopathologic
+  criteria, specific biological markers are needed to predict sensitivity to the different
+  available therapeutic options. We examined the feasibility of developing a genomic
+  predictor of chemotherapy response and recurrence risk in 185 patients with NNBC
+  using assembled arrays containing 2,460 bacterial artificial chromosome clones for
+  scanning the genome for DNA copy number changes. After surgery, 90 patients received
+  anthracycline-based chemotherapy, whereas 95 did not. Tamoxifen was administered
+  to patients with hormone receptor-positive tumors. The association of genomic and
+  clinicopathologic data and outcome was computed using Cox proportional hazard models
+  and multiple testing adjustment procedures. Analysis of NNBC genomes revealed a
+  common genomic signature. Specific DNA copy number aberrations were associated with
+  hormonal receptor status, but not with other clinicopathologic variables. In patients
+  treated with chemotherapy, none of the genomic changes were significantly correlated
+  with recurrence. In patients not receiving chemotherapy, deletion of eight bacterial
+  artificial chromosome clones clustered to chromosome 11q was independently associated
+  with relapse disease-free survival at 10 years -SE, 40 -14 versus 86 -6 P amp lt
+  0.0001 . The 54 patients with deletion of 11q 29 did not present more aggressive
+  clinicopathologic features than those without 11q loss. The adverse influence of
+  11q deletion on clinical outcome was confirmed in an independent validation series
+  of 88 patients with NNBC. Our data suggests that patients with NNBC with the 11q
+  deletion might benefit from anthracycline-based chemotherapy despite other clinical,
+  pathologic, or genetic features. However, these initial findings should be evaluated
+  in randomized clinical trials.
+authors: Climent J, Dimitrow P, Fridlyand J, Palacios J, Siebert R, Albertson DG,
+  Gray JW, Pinkel D, Lluch A and Martinez-Climent JA.
+cancertypes:
+- samples_arraymap: 185
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 185
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 185
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 185
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 185
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: jamcliment@unav.es
+  name: Jose A. Martinez-Climent
+counts:
+  biosamples: 185
+  samples_acgh: 185
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17234794
+- geo:GSE6448
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: Europe
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: 'Cancer Res 67, 2 (2007): 818-26.'
+label: 'Climent et al. (2007): Deletion of Chromosome 11q Predicts Response to Anthracycline-Based
+  Chemotherapy in Early Breast ...'
+notes: ~
+pmid: 17234794
+title: Deletion of Chromosome 11q Predicts Response to Anthracycline-Based Chemotherapy
+  in Early Breast Cancer.
+year: 2007

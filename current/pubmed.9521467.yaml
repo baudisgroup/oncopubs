@@ -1,0 +1,66 @@
+---
+abstract: Alveolar soft part sarcoma ASPS is a rare, histologically distinctive soft
+  tissue sarcoma typically occurring in children and young adults. Although the tumor
+  often shows focal expression of muscle markers, its relationship with rhabdomyosarcoma
+  is not established. The genetic background of ASPS is poorly understood. This study
+  was undertaken to analyze the DNA copy number changes in 13 cases of ASPS using
+  comparative genomic hybridization CGH on formaldehyde-fixed, paraffin-embedded tissue
+  sections. Four ASPS cases showed DNA copy number changes. Gains were more common
+  than losses. Gains observed in more than one case included 1q, 8q, 12q and 16p.
+  Although these findings do not show consistent DNA copy number changes in ASPS,
+  they give preliminary clues to genomic areas that might be important in the pathogenesis
+  of ASPS.
+authors: Kiuru-Kuhlefelt S, El-Rifai W, Sarlomo-Rikala M, Knuutila S and Miettinen
+  M.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C3750
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:9581_3
+  term_label: Alveolar soft part sarcoma
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-95813
+  term_label: Alveolar soft part sarcoma
+contact:
+  email: wael.el-rifai@Vanderbilt.Edu
+  name: W. El-Rifai
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9521467
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Mod Pathol 11, 3 (1998): 227-31.'
+label: 'Kiuru-Kuhlefelt et al. (1998): DNA Copy Number Changes in Alveolar Soft Part
+  Sarcoma: A Comparative Genomic ...'
+notes: ~
+pmid: 9521467
+title: 'DNA Copy Number Changes in Alveolar Soft Part Sarcoma: A Comparative Genomic
+  Hybridization Study.'
+year: 1998

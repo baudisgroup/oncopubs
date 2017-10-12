@@ -1,0 +1,74 @@
+---
+abstract: In a study population of 45 patients who were previously enrolled in an
+  imatinib dose escalation trial, genome-wide screening for regions of genetic gains
+  and losses was performed using array comparative genomic hybridization aCGH . Early
+  molecular response EMR , defined as amp gt 50 reduction in the ratio of BCR-ABL1
+  to ABL1 within 6 months after dose escalation, was a major endpoint for analysis.
+  After aCGH analysis, copy number change of four genes was investigated in 52 patients
+  as a validation. Copy number gain in 16p11.2 was more frequently observed in patients
+  with EMR than in patients who failed to achieve EMR P 0.034 . A tendency for increased
+  copy number in 22q11.23 in patients without EMR and for decreased copy number in
+  17q12 in patients with EMR was observed P 0.072 and P 0.070, respectively . For
+  GSTT1, in 22q11.23, copy number gain was observed in patients without EMR P 0.035
+  . GSTT1 copy number gain was related to short time to treatment failure TTFx in
+  patients without BCR-ABL1 mutations P 0.007 . In multivariate analysis, GSTT1 copy
+  number gain was an independent predictive factor for short TTFx P 0.020 . We conclude
+  that chromosome regions 16p11.2, 22q11.23, and 17q12 are potential locations related
+  to response in imatinib dose escalation therapy for CML. GSTT1 copy number gain
+  is a genetic change affecting outcome in this setting.
+authors: Koh Y, Kim DY, Park SH, Jung SH, Park E, Kim HJ, Sohn SK, Joo YD, Kim SJ,
+  Shin HJ, Kim SH, Song HS, Chung J, Kim I, Yoon SS, Kim BK, Shin SH, Chung YJ and
+  Park S.
+cancertypes:
+- samples_arraymap: 45
+  samples_progenetix: ~
+  term_id: ncit:C3174
+  term_label: Chronic Myelogenous Leukemia BCR-ABL1 Positive
+- samples_arraymap: 45
+  samples_progenetix: ~
+  term_id: pgx:icdom:9863_3
+  term_label: Chronic myeloid leukemia, NOS
+- samples_arraymap: 45
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 45
+  samples_progenetix: ~
+  term_id: pgx:seer:35022
+  term_label: Chronic Myeloid Leukemia
+- samples_arraymap: 45
+  samples_progenetix: ~
+  term_id: snmi:M-98633
+  term_label: Chronic myeloid leukemia, NOS
+contact:
+  email: yejun@catholic.ac.kr
+  name: Yeun-Jun Chung
+counts:
+  biosamples: 45
+  samples_acgh: 45
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21156236
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 203, 2 (2010): 215-21.'
+label: 'Koh et al. (2010): Gstt1 Copy Number Gain is a Poor Predictive Marker for
+  Escalated-Dose Imatinib Treatment in Chronic ...'
+notes: ~
+pmid: 21156236
+title: 'Gstt1 Copy Number Gain is a Poor Predictive Marker for Escalated-Dose Imatinib
+  Treatment in Chronic Myeloid Leukemia: Genetic Predictive Marker Found Using Array
+  Comparative Genomic Hybridization.'
+year: 2010

@@ -1,0 +1,37 @@
+---
+abstract: ~
+authors: Presneau N, Shalaby A, Ye H, Pillay N, Halai D, Idowu B, Tirabosco R, Whitwell
+  D, Jacques TS, Kindblom LG, Bruderlein S, Moller P, Leithner A, Liegl B, Amary FM,
+  Athanasou NN, Hogendoorn PC, Mertens F, Szuhai K, and Flanagan AM.
+cancertypes: []
+contact:
+  email: ~
+  name: Adrienne Flanagan
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21105180
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.32
+    - 51.62
+    type: Point
+  info:
+    city: Stanmore
+    continent: ~
+    country: United Kingdom
+    label: Stanmore, United Kingdom
+    precision: city [needs verification]
+journal: J Pathol, 2010.
+label: 'Presneau et al. (2010): Role of the transcription factor T (brachyury) in
+  the pathogenesis of sporadic chordoma: a ...'
+notes: The aCGH data from 11 chordomas had been published previously.
+pmid: 21105180
+title: 'Role of the transcription factor T (brachyury) in the pathogenesis of sporadic
+  chordoma: a genetic and functional-based study.'
+year: 2010

@@ -1,0 +1,58 @@
+---
+abstract: The presence of multiple primary tumors (MPT) in a single patient has been
+  identified with an increasing frequency. A critical issue is to establish if the
+  second tumor represents an independent primary cancer or a metastasis. Therefore,
+  the assessment of MPT clonal origin might help understand the disease behavior and
+  improve the management/prognosis of the patient.Herein, we report a 73-year-old
+  male smoker who developed 2 primary lung cancers (adenocarcinoma and squamous cell
+  carcinoma) and a malignant peritoneal mesothelioma (PM).Whole exome sequencing (WES)
+  of the 3 tumors and of germline DNA was performed to determine the clonal origin
+  and identify genetic cancer susceptibility.Both lung cancers were characterized
+  by a high mutational rate with distinct mutational profiles and activation of tumor-specific
+  pathways. Conversely, the PM harbored a relative low number of genetic variants
+  and a novel mutation in the WT1 gene that might be involved in the carcinogenesis
+  of nonasbestos-related mesothelioma. Finally, WES of the germinal DNA displayed
+  several single nucleotide polymorphisms in DNA repair genes likely conferring higher
+  cancer susceptibility.Overall, WES did not disclose any somatic genetic variant
+  shared across the 3 tumors, suggesting their clonal independency; however, the carcinogenic
+  effect of smoke combined with a deficiency in DNA repair genes and the patient advanced
+  age might have been responsible for the MPT development. This case highlights the
+  WES importance to define the clonal origin of MPT and susceptibility to cancer.
+authors: Vanni I, Coco S, Bonfiglio S, Cittaro D, Genova C, Biello F, Mora M, Rossella
+  V, Dal Bello MG, Truini A, Banelli B, Lazarevic D, Alama A, Rijavec E, Barletta
+  G, Grossi F.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: simona.coco@hsanmartino.it
+  name: Simona Coco
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 3
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27902597
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: Medicine (Baltimore) 95(48), 2016
+label: ' (2016): '
+notes: ~
+pmid: 27902597
+title: 'Whole exome sequencing of independent lung adenocarcinoma, lung squamous cell
+  carcinoma, and malignant peritoneal mesothelioma: A case report.'
+year: 2016

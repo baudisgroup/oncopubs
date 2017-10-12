@@ -1,0 +1,58 @@
+---
+abstract: Neurofibromatosis type 2 (NF2) is a tumor syndrome that results from mutation
+  of the NF2 tumor suppressor gene. The hallmark of NF2 is the presence of bilateral
+  vestibular schwannoma (VS). Though NF2-associated and sporadic VS share identical
+  histopathologic findings and cytogenetic alterations, NF2-associated VS often appears
+  multilobulated, is less responsive to radiosurgery, and has worse surgical outcomes.
+  Temporal bone autopsy specimens and MRI of the inner ear performed on NF2 patients
+  suggest that multiple discrete tumors may be present within the labyrinth and cerebellopontine
+  angle.  Treatment-naï¿½ve ears in patients enrolled in a prospective NF2 natural
+  history study (NIH#08-N-0044) were included for MRI analysis. T2-weighted and postcontrast
+  T1-weighted MRIs were evaluated for the presence of multiple discrete tumors or
+  a multilobulated mass. Peripheral blood (germline) and regional samples of tumor
+  tissue were procured from consecutive patients enrolled in this study undergoing
+  resection of a multilobulated VS (MVS). Histopathologic evaluation and genetic analysis
+  (single nucleotide polymorphism array analysis, NF2 sequencing) were performed on
+  each specimen.  Over half of NF2 ears harbored either an MVS (60/139 ears) or multiple
+  discrete masses (19/139 ears). For 4 successive MVSs, genetic analysis revealed
+  an admixture of cell populations, each with its own somatic NF2 mutation or deletion.  These
+  findings suggest that the majority of NF2-associated VSs are polyclonal, such that
+  the tumor mass represents a collision of multiple, distinct tumor clones. This explains
+  the characteristic lobulated gross appearance of NF2-associated VS, and may also
+  explain the substantially different treatment outcomes compared with sporadic VS.  Published
+  by Oxford University Press on behalf of the Society for Neuro-Oncology 2014. This
+  work is written by (a) US Government employee(s) and is in the public domain in
+  the US.
+authors: Dewan R, Pemov A, Kim HJ, Morgan KL, Vasquez RA, Chittiboina P, Wang X, Chandrasekharappa
+  SC, Ray-Chaudhury A, Butman JA, Stewart DR and Asthagiri AR
+cancertypes: []
+contact:
+  email: asthagiri@virginia.edu
+  name: Ashok R. Asthagiri
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25452392
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.48
+    - 38.03
+    type: Point
+  info:
+    city: Charlottesville
+    continent: North America
+    country: United States
+    label: Charlottesville, United States, North America
+    precision: city
+journal: Neuro-oncology 17(4), 2015
+label: 'Dewan R et al. (2015): '
+notes: ~
+pmid: 25452392
+title: Evidence of polyclonality in neurofibromatosis type 2-associated multilobulated
+  vestibular schwannomas.
+year: 2015

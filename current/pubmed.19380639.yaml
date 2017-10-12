@@ -1,0 +1,75 @@
+---
+abstract: Proliferation and survival of Hodgkin and Reed Sternberg HRS cells, the
+  malignant cells of classical Hodgkin lymphoma cHL , are dependent on constitutive
+  activation of nuclear factor kappaB NF-kappaB . NF-kappaB activation through various
+  stimuli is negatively regulated by the zinc finger protein A20. To determine whether
+  A20 contributes to the pathogenesis of cHL, we sequenced TNFAIP3, encoding A20,
+  in HL cell lines and laser-microdissected HRS cells from cHL biopsies. We detected
+  somatic mutations in 16 out of 36 cHLs 44 , including missense mutations in 2 out
+  of 16 Epstein-Barr virus-positive EBV  cHLs and a missense mutation, nonsense mutations,
+  and frameshift-causing insertions or deletions in 14 out of 20 EBV - cHLs. In most
+  mutated cases, both TNFAIP3 alleles were inactivated, including frequent chromosomal
+  deletions of TNFAIP3. Reconstitution of wild-type TNFAIP3 in A20-deficient cHL cell
+  lines revealed a significant decrease in transcripts of selected NF-kappaB target
+  genes and caused cytotoxicity. Extending the mutation analysis to primary mediastinal
+  B cell lymphoma PMBL , another lymphoma with constitutive NF-kappaB activity, revealed
+  destructive mutations in 5 out of 14 PMBLs 36 . This report identifies TNFAIP3 A20
+  , a key regulator of NF-kappaB activity, as a novel tumor suppressor gene in cHL
+  and PMBL. The significantly higher frequency of TNFAIP3 mutations in EBV - than
+  EBV cHL suggests complementing functions of TNFAIP3 inactivation and EBV infection
+  in cHL pathogenesis.
+authors: Schmitz R, Hansmann ML, Bohle V, Martin-Subero JI, Hartmann S, Mechtersheimer
+  G, Klapper W, Vater I, Giefing M, Gesk S, Stanelle J, Siebert R and Kuppers R.
+cancertypes:
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C9357
+  term_label: Hodgkin Lymphoma
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:9650_3
+  term_label: Hodgkin lymphoma, NOS
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:seer:33011
+  term_label: Hodgkin - Nodal
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-96503
+  term_label: Hodgkin lymphoma, NOS
+contact:
+  email: ralf.kueppers@uk-essen.de
+  name: Ralf Kueppers
+counts:
+  biosamples: 54
+  samples_acgh: 54
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19380639
+- geo:GSE15264
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: Europe
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: 'J Exp Med 206, 5 (2009): 981-89.'
+label: 'Schmitz et al. (2009): Tnfaip3 (A20) is a Tumor Suppressor Gene in Hodgkin
+  Lymphoma and Primary Mediastinal B Cell ...'
+notes: ~
+pmid: 19380639
+title: Tnfaip3 (A20) is a Tumor Suppressor Gene in Hodgkin Lymphoma and Primary Mediastinal
+  B Cell Lymphoma.
+year: 2009

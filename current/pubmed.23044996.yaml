@@ -1,0 +1,79 @@
+---
+abstract: Recent studies have described chromosome 2p gain as a recurrent lesion in
+  chronic lymphocytic leukemia CLL . We investigated the 2p gain and its relationship
+  with common prognostic biomarkers in a prospective series of 69 clinical monoclonal
+  B-cell lymphocytosis cMBL and 218 early stage Binet A CLL patients. The 2p gain
+  was detected by FISH in 17 patients 6 , 16 CLL, and 1 cMBL and further characterized
+  by single nucleotide polymorphism-array. Overall, unfavorable cytogenetic deletions,
+  i.e., del 11 q23 and del 17 p13 P 0.002 , were significantly more frequent in 2p
+  gain cases, as well as unmutated status of IGHV P lt 1 x 10 -4 and CD38 P lt 1 x
+  10 -4 and ZAP-70 positive expression P 0.003 . Furthermore, 2p gain patients had
+  significantly higher utilization of stereotyped B-cell receptors compared with 2p
+  negative patients P 0.009 , and the incidence of stereotyped subset 1 in 2p gain
+  patients was significantly higher than that found in the remaining CLLs P 0.031
+  . Transcriptional profiling analysis identified several genes significantly upregulated
+  in 2p gain CLLs, most of which mapped to 2p. Among these, NCOA1 and ROCK2 are known
+  for their involvement in tumor progression in several human cancers, whereas among
+  those located in different chromosomes, CAV1 at 7q31.1 has been recently identified
+  to play a critical role in CLL progression. Thus, 2p gain can be present since the
+  early stages of the disease, particularly in those cases characterized by other
+  poor prognosis markers. The finding of genes upregulated in the cells with 2p gain
+  provides new insights to define the pathogenic role of this lesion.
+authors: Fabris S, Mosca L, Cutrona G, Lionetti M, Agnelli L, Ciceri G, Barbieri M,
+  Maura F, Matis S, Colombo M, Gentile M, Recchia AG, Anna Pesce E, Di Raimondo F,
+  Musolino C, Gobbi M, Di Renzo N, Mauro FR, Brugiatelli M, Ilariucci F, Lipari MG,
+  Angrilli F, Consoli U, Fragasso A, Molica S, Festini G, Vincelli I, Cortelezzi A,
+  Federico M, Morabito F, Ferrarini M and Neri A.
+cancertypes:
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 10
+  samples_progenetix: ~
+  term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 287
+  samples_acgh: 287
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23044996
+- geo:GSE38613
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: 'Am J Hematol (2013) 88: 24-31.'
+label: 'Fabris et al. (2013): Chromosome 2p gain in monoclonal B-cell lymphocytosis
+  and in early stage chronic lymphocytic ...'
+notes: ~
+pmid: 23044996
+title: Chromosome 2p gain in monoclonal B-cell lymphocytosis and in early stage chronic
+  lymphocytic leukemia.
+year: 2013

@@ -1,0 +1,52 @@
+---
+abstract: Pediatric high-grade glioma HGG is a devastating disease with a less than
+  20 survival rate 2 years after diagnosis. We analyzed 127 pediatric HGGs, including
+  diffuse intrinsic pontine gliomas DIPGs and non-brainstem HGGs NBS-HGGs , by whole-genome,
+  whole-exome and or transcriptome sequencing. We identified recurrent somatic mutations
+  in ACVR1 exclusively in DIPGs 32 , in addition to previously reported frequent somatic
+  mutations in histone H3 genes, TP53 and ATRX, in both DIPGs and NBS-HGGs. Structural
+  variants generating fusion genes were found in 47 of DIPGs and NBS-HGGs, with recurrent
+  fusions involving the neurotrophin receptor genes NTRK1, NTRK2 and NTRK3 in 40 of
+  NBS-HGGs in infants. Mutations targeting receptor tyrosine kinase-RAS-PI3K signaling,
+  histone modification or chromatin remodeling, and cell cycle regulation were found
+  in 68 , 73 and 59 of pediatric HGGs, respectively, including in DIPGs and NBS-HGGs.
+  This comprehensive analysis provides insights into the unique and shared pathways
+  driving pediatric HGG within and outside the brainstem.
+authors: Wu G, Diaz AK, Paugh BS, Rankin SL, Ju B, Li Y, Zhu X, Qu C, Chen X, Zhang
+  J, Easton J, Edmonson M, Ma X, Lu C, Nagahawatte P, Hedlund E, Rusch M, Pounds S,
+  Lin T, Onar-Thomas A, Huether R, Kriwacki R, Parker M, Gupta P, Becksfort J, Wei
+  L, Mulder HL, Boggs K, Vadodaria B, Yergeau D, Russell JC, Ochoa K, Fulton RS, Fulton
+  LL, Jones C, Boop FA, Broniscer A, Wetmore C, Gajjar A, Ding L, Mardis ER, Wilson
+  RK, Taylor MR, Downing JR, Ellison DW, Zhang J and Baker SJ.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 80
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 80
+  samples_wgs: 42
+external_identifiers:
+- pubmed:24705251
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'Nat Genet (2014) 46: 444-450.'
+label: 'Wu et al. (2014): The genomic landscape of diffuse intrinsic pontine glioma
+  and pediatric non-brainstem high-grade ...'
+notes: ~
+pmid: 24705251
+title: The genomic landscape of diffuse intrinsic pontine glioma and pediatric non-brainstem
+  high-grade glioma.
+year: 2014

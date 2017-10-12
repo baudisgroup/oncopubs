@@ -1,0 +1,80 @@
+---
+abstract: Angiosarcomas AS are rare vascular malignancies that arise either de novo
+  as primary tumors or secondary to irradiation or chronic lymphedema. The cytogenetics
+  of angiosarcomas are poorly characterized. We applied array-comparative genomic
+  hybridization as a screening method to identify recurrent alterations in 22 cases.
+  Recurrent genetic alterations were identified only in secondary but not in primary
+  AS. The most frequent recurrent alterations were high level amplifications on chromosome
+  8q24.21 50 , followed by 10p12.33 33 and 5q35.3 11 . Fluorescence in situ hybridization
+  analysis in 28 primary and 33 secondary angiosarcomas 31 tumors secondary to irradiation,
+  2 tumors secondary to chronic lymphedema confirmed high level amplification of MYC
+  on chromosome 8q24.21 as a recurrent genetic alteration found exclusively in 55
+  of AS secondary to irradiation or chronic lymphedema, but not in primary AS. Amplification
+  of MYC did not predispose to high grade morphology or increased cell turnover. In
+  conclusion, despite their identical morphology, secondary AS are genetically different
+  from primary AS and are characterized by a high frequency of high level amplifications
+  of MYC. This finding may have implications both for the diagnosis and treatment
+  of these tumors.
+authors: Manner J, Radlwimmer B, Hohenberger P, Mossinger K, Kuffer S, Sauer C, Belharazem
+  D, Zettl A, Coindre JM, Hallermann C, Hartmann JT, Katenkamp D, Katenkamp K, Schoffski
+  P, Sciot R, Wozniak A, Lichter P, Marx A and Strobel P.
+cancertypes:
+- samples_arraymap: 9
+  samples_progenetix: 9
+  term_id: ncit:C3088
+  term_label: Angiosarcoma
+- samples_arraymap: 9
+  samples_progenetix: 9
+  term_id: pgx:icdom:9120_3
+  term_label: Hemangiosarcoma
+- samples_arraymap: 2
+  samples_progenetix: 2
+  term_id: pgx:icdot:C49.9
+  term_label: connective and soft tissue, NOS
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 2
+  samples_progenetix: 2
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 7
+  samples_progenetix: 7
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 9
+  samples_progenetix: 9
+  term_id: snmi:M-91203
+  term_label: Hemangiosarcoma
+contact:
+  email: philipp.stroebel@umm.de
+  name: Philipp Stro bel
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20008140
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: Europe
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: 'Am J Pathol 176, 1 (2010): 34-39.'
+label: 'Manner et al. (2010): Myc High Level Gene Amplification is a Distinctive Feature
+  of Angiosarcomas After Irradiation Or ...'
+notes: ~
+pmid: 20008140
+title: Myc High Level Gene Amplification is a Distinctive Feature of Angiosarcomas
+  After Irradiation Or Chronic Lymphedema.
+year: 2010

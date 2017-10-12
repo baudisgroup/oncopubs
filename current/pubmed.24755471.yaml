@@ -1,0 +1,63 @@
+---
+abstract: Human colorectal cancer cell lines are used widely to investigate tumor
+  biology, experimental therapy, and biomarkers. However, to what extent these established
+  cell lines represent and maintain the genetic diversity of primary cancers is uncertain.
+  In this study, we profiled 70 colorectal cancer cell lines for mutations and DNA
+  copy number by whole-exome sequencing and SNP microarray analyses, respectively.
+  Gene expression was defined using RNA-Seq. Cell line data were compared with those
+  published for primary colorectal cancers in The Cancer Genome Atlas. Notably, we
+  found that exome mutation and DNA copy-number spectra in colorectal cancer cell
+  lines closely resembled those seen in primary colorectal tumors. Similarities included
+  the presence of two hypermutation phenotypes, as defined by signatures for defective
+  DNA mismatch repair and DNA polymerase Îµ proofreading deficiency, along with concordant
+  mutation profiles in the broadly altered WNT, MAPK, PI3K, TGFÎ², and p53 pathways.
+  Furthermore, we documented mutations enriched in genes involved in chromatin remodeling
+  (ARID1A, CHD6, and SRCAP) and histone methylation or acetylation (ASH1L, EP300,
+  EP400, MLL2, MLL3, PRDM2, and TRRAP). Chromosomal instability was prevalent in nonhypermutated
+  cases, with similar patterns of chromosomal gains and losses. Although paired cell
+  lines derived from the same tumor exhibited considerable mutation and DNA copy-number
+  differences, in silico simulations suggest that these differences mainly reflected
+  a preexisting heterogeneity in the tumor cells. In conclusion, our results establish
+  that human colorectal cancer lines are representative of the main subtypes of primary
+  tumors at the genomic level, further validating their utility as tools to investigate
+  colorectal cancer biology and drug responses.  Â©2014 American Association for Cancer
+  Research.
+authors: Mouradov D, Sloggett C, Jorissen RN, Love CG, Li S, Burgess AW, Arango D,
+  Strausberg RL, Buchanan D, Wormald S, O'Connor L, Wilding JL, Bicknell D, Tomlinson
+  IP, Bodmer WF, Mariadason JM and Sieber OM
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: John.Mariadason@ludwig.edu.au
+  name: 61-3-9345-2885
+counts:
+  biosamples: 70
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 70
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24755471
+- geo:GSE55832
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: Cancer Res. 74(12), 2014
+label: 'Mouradov D et al. (2014): '
+notes: 70 cell lines for SNP microarray analyses as well.
+pmid: 24755471
+title: Colorectal cancer cell lines are representative models of the main molecular
+  subtypes of primary cancer.
+year: 2014

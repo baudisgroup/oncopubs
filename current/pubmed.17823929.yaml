@@ -1,0 +1,84 @@
+---
+abstract: High-resolution array comparative genomic hybridization arrayCGH profiling
+  was performed on 75 primary tumors and 29 cell lines to gain further insight into
+  the genetic heterogeneity of neuroblastoma and to refine genomic subclassification.
+  Using a novel data-mining strategy, three major and two minor genomic subclasses
+  were delineated. Eighty-three percent of tumors could be assigned to the three major
+  genomic subclasses, corresponding to the three known clinically and biologically
+  relevant subsets in neuroblastoma. The remaining subclasses represented 1 tumors
+  with no few copy number alterations or an atypical pattern of aberrations and 2
+  tumors with 11q13 amplification. Inspection of individual arrayCGH profiles showed
+  that recurrent genomic imbalances were not exclusively associated with a specific
+  subclass. Of particular notice were tumors with numerical imbalances typically observed
+  in subtype 1 neuroblastoma, in association with genomic features of subtype 2A or
+  2B. A search for prognostically relevant genomic alterations disclosed 1q gain as
+  a predictive marker for therapy failure within the group of subtype 2A and 2B tumors.
+  In cell lines, a high incidence of 6q loss was observed, with a 3.87-5.32 Mb region
+  of common loss within 6q25.1-6q25.2. Our study clearly illustrates the importance
+  of genomic profiling in relation to tumor behavior in neuroblastoma. We propose
+  that genome-wide assessment of copy number alterations should ideally be included
+  in the genetic workup of neuroblastoma. Further multicentric studies on large tumor
+  series are warranted in order to improve therapeutic stratification in conjunction
+  with other features such as age at diagnosis, tumor stage, and gene expression signatures.
+authors: Michels E, Vandesompele J, De Preter K, Hoebeeck J, Vermeulen J, Schramm
+  A, Molenaar JJ, Menten B, Marques B, Stallings RL, Combaret V, Devalck C, De Paepe
+  A, Versteeg R, Eggert A, Laureys G, Van Roy N and Speleman F.
+cancertypes:
+- samples_arraymap: 103
+  samples_progenetix: 107
+  term_id: ncit:C3270
+  term_label: Neuroblastoma
+- samples_arraymap: 103
+  samples_progenetix: 107
+  term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- samples_arraymap: 103
+  samples_progenetix: ~
+  term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- samples_arraymap: ~
+  samples_progenetix: 107
+  term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- samples_arraymap: 103
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: ~
+  samples_progenetix: 107
+  term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- samples_arraymap: 103
+  samples_progenetix: 107
+  term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
+contact:
+  email: franki.speleman@rug.ac.be
+  name: Frank Speleman
+counts:
+  biosamples: 107
+  samples_acgh: 107
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17823929
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.72
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: Europe
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 46, 12 (2007): 1098-108.'
+label: 'Michels et al. (2007): Arraycgh-Based Classification of Neuroblastoma Into
+  Genomic Subgroups.'
+notes: Data was made available in an interpreted/supervised format (ISCN conform annotation).
+pmid: 17823929
+title: Arraycgh-Based Classification of Neuroblastoma Into Genomic Subgroups.
+year: 2007

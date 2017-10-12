@@ -1,0 +1,57 @@
+---
+abstract: Radiation-induced breast angiosarcomas are rare but recognized complication
+  of breast cancer radiotherapy and are of poor prognosis. Little is known about the
+  genetic abnormalities present in these secondary tumors. Herein, we investigated
+  the differences in the genome and in the transcriptome that discriminate these tumors
+  as a function of their etiology. Seven primary breast angiosarcomas and 18 secondary
+  breast angiosarcomas arising in the irradiation field of a radiotherapy were analyzed.
+  Copy number alterations and gene expression were analyzed using Affymetrix SNP 6.0
+  Array and Affymetrix Exon Arrays, respectively. We showed that two transcriptome
+  signatures of the radiation tumorigenesis coexisted in these tumors. One was histology
+  specific and correctly discriminated 100 of the primary tumors from the radiation-induced
+  tumors. The deregulation of marker genes, including podoplanin PDPN , prospero homeobox
+  1 PROX-1 , vascular endothelial growth factor 3 VEGFR3 and endothelin receptor A
+  EDNRA , suggests that the radiation-induced breast angiosarcomas developed from
+  radiation-stimulated lymphatic endothelial cells. None of the genes of the histology-specific
+  signature were present in our previously published signature of the radiation tumorigenesis
+  which shows the presence of a chronic oxidative stress in radiation-induced sarcomas
+  of various histologies. Nevertheless, this oxidative stress signature classified
+  correctly 88 of the breast angiosarcomas as a function of the etiology. In contrast,
+  MYC amplification, which is observed in all radiation-induced tumors but also at
+  a low rate in primary tumors, was not a marker of the radiation tumorigenesis.
+authors: Hadj-Hamou NS, Lae M, Almeida A, Grange PD, Kirova Y, Sastre-Garau X and
+  Malfoy B.
+cancertypes: []
+contact:
+  email: bernard.malfoy@curie.fr
+  name: Bernard Malfoy
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22532251
+- arrayexpress:E-MEXP-3252
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Carcinogenesis (2012)
+label: 'Hadj-Hamou et al. (2012): A Transcriptome Signature of Endothelial Lymphatic
+  Cells Coexists With the Chronic Oxidative ...'
+notes: ~
+pmid: 22532251
+title: A Transcriptome Signature of Endothelial Lymphatic Cells Coexists With the
+  Chronic Oxidative Stress Signature in Radiation-Induced Post-Radiotherapy Breast
+  Angiosarcomas.
+year: 2012

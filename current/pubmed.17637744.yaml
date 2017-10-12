@@ -1,0 +1,76 @@
+---
+abstract: 'Human neuroblastoma remains enigmatic because it often shows spontaneous
+  regression and aggressive growth. The prognosis of advanced stage of sporadic neuroblastomas
+  is still poor. Here, we investigated whether genomic and molecular signatures could
+  categorize new therapeutic risk groups in primary neuroblastomas. We conducted microarray-based
+  comparative genomic hybridization array-CGH with a DNA chip carrying 2464 BAC clones
+  to examine genomic aberrations of 236 neuroblastomas and used in-house cDNA microarrays
+  for gene-expression profiling. Array-CGH demonstrated three major genomic groups
+  of chromosomal aberrations: silent GGS , partial gains and or losses GGP and whole
+  gains and or losses GGW , which well corresponded with the patterns of chromosome
+  17 abnormalities. They were further classified into subgroups with different outcomes.
+  In 112 sporadic neuroblastomas, MYCN amplification was frequent in GGS 22 and GGP
+  53 and caused serious outcomes in patients. Sporadic tumors with a single copy of
+  MYCN showed the 5-year cumulative survival rates of 89 in GGS, 53 in GGP and 85
+  in GGW. Molecular signatures also segregated patients into the favorable and unfavorable
+  prognosis groups P 0.001 . Both univariate and multivariate analyses revealed that
+  genomic and molecular signatures were mutually independent, powerful prognostic
+  indicators. Thus, combined genomic and molecular signatures may categorize novel
+  risk groups and confer new clues for allowing tailored or even individualized medicine
+  to patients with neuroblastoma.'
+authors: Tomioka N, Oba S, Ohira M, Misra A, Fridlyand J, Ishii S, Nakamura Y, Isogai
+  E, Hirata T, Yoshida Y, Todo S, Kaneko Y, Albertson DG, Pinkel D, Feuerstein BG
+  and Nakagawara A.
+cancertypes:
+- samples_arraymap: 236
+  samples_progenetix: ~
+  term_id: ncit:C3270
+  term_label: Neuroblastoma
+- samples_arraymap: 236
+  samples_progenetix: ~
+  term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- samples_arraymap: 236
+  samples_progenetix: ~
+  term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- samples_arraymap: 236
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 236
+  samples_progenetix: ~
+  term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
+contact:
+  email: akiranak@chiba-cc.jp
+  name: Akira Nakagawara
+counts:
+  biosamples: 236
+  samples_acgh: 236
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17637744
+- geo:GSE5784
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: Asia
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: 'Oncogene 27, 4 (2008): 441-49.'
+label: 'Tomioka et al. (2008): Novel Risk Stratification of Patients With Neuroblastoma
+  By Genomic Signature, Which is ...'
+notes: ~
+pmid: 17637744
+title: Novel Risk Stratification of Patients With Neuroblastoma By Genomic Signature,
+  Which is Independent of Molecular Signature.
+year: 2008

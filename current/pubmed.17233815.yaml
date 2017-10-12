@@ -1,0 +1,53 @@
+---
+abstract: We analyzed the subchromosomal numerical aberrations of 44 surgically resected
+  pancreatic adenocarcinomas by array-based comparative genomic hybridization. The
+  aberration profile ranged widely between cases, suggesting the presence of multiple
+  or complementary mechanisms of evolution in pancreatic cancer, and was associated
+  with lymph node metastasis and venous or serosal invasion. A large number of small
+  loci, previously uncharacterized in pancreatic cancer, showed non-random loss or
+  gain. Frequent losses at 1p36, 4p16, 7q36, 9q34, 11p15, 11q13, 14q32-33, 16p13,
+  17p11-13, 17q11-25, 18q21-tel, 19p13, 21q22 and 22q11-12, and gains at 1q25, 2p16,
+  2q21-37, 3q25, 5p14, 5q11-13, 7q21, 7p22, 8p22, 8q21-23, 10q21, 12p13, 13q22, 15q13-22
+  and 18q11 were identified. Sixteen loci were amplified recurrently. We identified
+  novel chromosomal alterations that were significantly associated with a range of
+  malignant phenotypes. Gain of LUNX, HCK, E2F1 and DNMT3b at 20q11, loss of p73 at
+  1p36 and gain of PPM1D at 17q23 independently predicted patient outcome. Expression
+  profiling of amplified genes identified Smurf1 and TRRAP at 7q22.1, BCAS1 at 20q13.2-3,
+  and VCL at 10q22.1 as potential novel oncogenes. Our results contribute to a complete
+  description of genomic structural aberrations and the identification of potential
+  therapeutic targets and genetic indicators that predict patient outcome in pancreatic
+  adenocarcinoma.
+authors: Loukopoulos P, Shibata T, Katoh H, Kokubu A, Sakamoto M, Yamazaki K, Kosuge
+  T, Kanai Y, Hosoda F, Imoto I, Ohki M, Inazawa J and Hirohashi S.
+cancertypes: []
+contact:
+  email: tashibat@ncc.go.jp
+  name: Tatsuhiro Shibata
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17233815
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: North America
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: 'Cancer Sci 98, 3 (2007): 392-400.'
+label: 'Loukopoulos et al. (2007): Genome-Wide Array-Based Comparative Genomic Hybridization
+  Analysis of Pancreatic ...'
+notes: ~
+pmid: 17233815
+title: 'Genome-Wide Array-Based Comparative Genomic Hybridization Analysis of Pancreatic
+  Adenocarcinoma: Identification of Genetic Indicators That Predict Patient Outcome.'
+year: 2007

@@ -1,0 +1,59 @@
+---
+abstract: Small lymphocytic lymphoma SLL is morphologically and immunologically similar
+  to chronic lymphocytic leukemia CLL , and the new REAL classification refers to
+  them as a single disease termed SLL CLL. Recently, frequent losses in 6q, 11q and
+  or 13q were observed in CLL using comparative genomic hybridization CGH . We performed
+  CGH analyses in order to find out whether these two entities contain the same DNA
+  copy number changes.
+authors: Autio K, Aalto Y, Franssila K, Elonen E, Joensuu H, and Knuutila S.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+contact:
+  email: ~
+  name: NA Knuutila
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9793251
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Haematologica, 83(8) 1998, 690-92.
+label: 'Autio et al. (1998): Low number of DNA copy number changes in small lymphocytic
+  lymphoma.'
+notes: ~
+pmid: 9793251
+title: Low number of DNA copy number changes in small lymphocytic lymphoma.
+year: 1998

@@ -1,0 +1,47 @@
+---
+abstract: We used two molecular cytogenetic techniques, multicolor fluorescence in
+  situ hybridization M-FISH and comparative genomic hybridization CGH , to analyze
+  three established lung adenocarcinoma cell lines A549, H1650, and SPC-A-1 and primary
+  lung adenocarcinoma samples, to identify common chromosomal aberrations. M-FISH
+  revealed numerous complex chromosomal rearrangements. Chromosomes 5, 6, 11, 12,
+  and 17 were most frequently involved in interchromosomal translocations. CGH revealed
+  regions on 1q, 2p, 3q, 5p, 5q, 7p, 8q, 11q, 12q, 14q, 16p, 17p, 19q, 20q, 21q, and
+  22q to be commonly overrepresented and regions on 2q, 3p, 4p, 5q, 7q, 8p, 9p, 13q,
+  14q, and 17p to be underrepresented. The most common gains were found in 16p13 in
+  50 of samples , and 16p13 amplification was associated with relatively poor differentiation
+  and late stage. M-FISH and CGH can be a powerful tool in identification of genomic
+  alterations in lung cancer, as well as in diagnosis. The overrepresented regions
+  may harbor potential candidate genes involved in lung adenocarcinoma pathogenesis.
+authors: Shen H, Zhu Y, Wu YJ, Qiu HR and Shu YQ.
+cancertypes: []
+contact:
+  email: shuyongqian@csco.org.cn
+  name: Yong-qian Shu
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18295661
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.78
+    - 32.06
+    type: Point
+  info:
+    city: Nanjing
+    continent: Asia
+    country: China
+    label: Nanjing, China, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 181, 2 (2008): 100-07.'
+label: 'Shen et al. (2008): Genomic Alterations in Lung Adenocarcinomas Detected By
+  Multicolor Fluorescence in Situ ...'
+notes: Only composite karyotypes were provided.
+pmid: 18295661
+title: Genomic Alterations in Lung Adenocarcinomas Detected By Multicolor Fluorescence
+  in Situ Hybridization and Comparative Genomic Hybridization.
+year: 2008

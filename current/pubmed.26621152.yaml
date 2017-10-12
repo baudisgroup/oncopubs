@@ -1,0 +1,55 @@
+---
+abstract: To identify potential biomarkers that may provide new therapeutic targets
+  or prognostic indicators for non-small cell lung cancer (NSCLC), we investigated
+  the three-dimensional (3D) organization of telomeres and cytoband 17q25.3 copy number
+  in NSCLC tissues.  NSCLC paraffin-embedded tissue specimens from 18 patients were
+  assessed for 3D telomere organization by 3D nuclear telomere imaging followed by
+  quantitative analysis. Patients were stratified by smoking, histology, and EGFR
+  status. Cytoband 17q25.3 was examined by fluorescent in situ hybridization. Data
+  from comparative genomic hybridization and/or single nucleotide polymorphism arrays
+  for cytoband 17q25.3 were obtained and correlated with Q-FISH and 3D telomere results.  3D
+  telomeric profiling demonstrated that the smokers, EGFR-negative, and squamous cell
+  carcinoma subgroups tended to have higher numbers of lower-intensity telomeres,
+  indicative of shorter telomeres, as well as higher numbers of telomeric aggregations
+  compared to non-smokers, EGFR-positive, and adenocarcinomas, respectively. Gains
+  of cytoband 17q25.3 in conjunction with an increase in the control region 17p11.2
+  were observed in 7 of 18 (38.9ï¿½%) patients, reflecting a gain of chromosome 17.
+  Clonal gains of cytoband 17q25.3 were observed in 11 of 18 (61ï¿½%) patients, highlighting
+  a potential biological significance for the genes in this region in NSCLC tumourigenesis.  The
+  3D telomere profiles may differentiate NSCLC patients with different histologies,
+  EGFR, and smoking statuses, rendering them a potential biomarker for distinguishing
+  these clinically relevant histological and molecular subtypes of lung cancer. Highly
+  frequent clonal gain of cytoband 17q25.3 was also demonstrated, suggesting an important
+  biological role for the genes in this region.
+authors: Sunpaweravong P, Thu KL, Lam WL and Mai S
+cancertypes: []
+contact:
+  email: Sabine.Mai@umanitoba.ca
+  name: Sabine Mai
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26621152
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.15
+    - 49.88
+    type: Point
+  info:
+    city: Winnipeg
+    continent: North America
+    country: Canada
+    label: Winnipeg, Canada, North America
+    precision: city
+journal: J. Cancer Res. Clin. Oncol., 2015
+label: 'Sunpaweravong P et al. (2015): '
+notes: ~
+pmid: 26621152
+title: Assessment of the clinical relevance of 17q25.3 copy number and three-dimensional
+  telomere organization in non-small lung cancer patients.
+year: 2015

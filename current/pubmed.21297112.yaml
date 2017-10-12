@@ -1,0 +1,44 @@
+---
+abstract: Tumor suppressor genes are often located in frequently deleted chromosomal
+  regions of colorectal cancers CRCs . In contrast to microsatellite stable MSS tumors,
+  only few loss of heterozygosity LOH studies were performed in microsatellite instable
+  MSI tumors, because MSI carcinomas are generally considered to be chromosomally
+  stable and classical LOH studies are not feasible due to MSI. The single nucleotide
+  polymorphism SNP array technique enables LOH studies also in MSI CRC. The aim of
+  our study was to analyse tissue from MSI and MSS CRC for the existence of frequently
+  deleted chromosomal regions and tumor suppressor genes located therein.
+authors: Melcher R, Hartmann E, Zopf W, Herterich S, Wilke P, Muller L, Rosler E,
+  Kudlich T, Al-Taie O, Rosenwald A, Katzenberger T, Scholtka B, Seibold S, Rogoll
+  D, Scheppach W, Scheurlen M and Luhrs H.
+cancertypes: []
+contact:
+  email: ~
+  name: Ralph Melcher
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21297112
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: Europe
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: 'Carcinogenesis 32, 4 (2011): 636-42.'
+label: 'Melcher et al. (2011): Loh and Copy Neutral Loh (Cnloh) Act as Alternative
+  Mechanism in Sporadic Colorectal Cancers With ...'
+notes: ~
+pmid: 21297112
+title: Loh and Copy Neutral Loh (Cnloh) Act as Alternative Mechanism in Sporadic Colorectal
+  Cancers With Chromosomal and Microsatellite Instability.
+year: 2011

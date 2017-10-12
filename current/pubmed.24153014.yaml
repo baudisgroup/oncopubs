@@ -1,0 +1,61 @@
+---
+abstract: ~
+authors: Schmidt J, Salaverria I, Haake A, Bonzheim I, Adam P, Montes-Moreno S, Piris
+  MA, Fend F, Siebert R and Quintanilla-Martinez L.
+cancertypes:
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24153014
+- geo:GSE48548
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.05
+    - 48.52
+    type: Point
+  info:
+    city: Tuebingen
+    continent: Europe
+    country: Germany
+    label: Tuebingen, Germany, Europe
+    precision: city
+journal: Leukemia (2013).
+label: 'Schmidt et al. (2013): Increasing genomic and epigenomic complexity in the
+  clonal evolution from in situ to manifest ...'
+notes: Some of the samples may have been published previously.
+pmid: 24153014
+title: Increasing genomic and epigenomic complexity in the clonal evolution from in
+  situ to manifest t(14;18)-positive follicular lymphoma.
+year: 2013

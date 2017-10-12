@@ -1,0 +1,54 @@
+---
+abstract: Women with clinically node-negative breast cancer have a better prognosis
+  than do those with axillary lymph node metastasis. Nonetheless, approximately 20
+  of node-negative patients die within 15 years of diagnosis, and thus additional
+  prognostic markers are greatly needed. To identify specific copy number alterations
+  CNAs that differed in frequency between 10-year survivors and deceased patients
+  with node-negative breast cancer, array comparative genomic hybridization aCGH was
+  applied to 41 primary node-negative breast tumors. Fishers exact test was used to
+  identify significantly different CNAs between 10-year survivors and deceased patients.
+  Losses at 8p21.2 approximately p21.3, 8p23.1 approximately p23.2, Xp21.3, and Xp22.31
+  approximately p22.33 were significantly more common in tumors from deceased patients,
+  suggesting that these alterations may contribute to tumor aggressiveness. Gains
+  at 1q25.2 approximately q25.3 and 1q31.3 approximately q41 were more prevalent in
+  tumors from survivors specific gains at these genomic regions may inhibit further
+  tumor progression, resulting in a less aggressive form of node-negative breast cancer.
+  Evaluation of the identified CNAs in an independent external data set verified the
+  prognostic potential of the 1q31.3 approximately q41 region. Although further extensive
+  validation is needed, the prognostic CNAs identified in this work may in time facilitate
+  the clinical assessment of breast cancer.
+authors: Mollerstrom E, Delle U, Danielsson A, Parris T, Olsson B, Karlsson P and
+  Helou K.
+cancertypes: []
+contact:
+  email: elin.karlsson@gu.se
+  name: Elin Mollerstrom
+counts:
+  biosamples: 41
+  samples_acgh: 41
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20362222
+- geo:GSE12071
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 198, 2 (2010): 79-89.'
+label: 'Mollerstrom et al. (2010): High-Resolution Genomic Profiling to Predict 10-Year
+  Overall Survival in Node-Negative Breast ...'
+notes: ~
+pmid: 20362222
+title: High-Resolution Genomic Profiling to Predict 10-Year Overall Survival in Node-Negative
+  Breast Cancer.
+year: 2010

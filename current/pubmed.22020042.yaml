@@ -1,0 +1,56 @@
+---
+abstract: Atypical teratoid rhabdoid tumor AT RT is a highly malignant central nervous
+  system tumor often misdiagnosed as some other type of pediatric embryonal tumor,
+  such as medulloblastoma MB . Distinguishing AT RT from primitive neuroectodermal
+  tumor MB is of clinical significance, as the reported survival rate of patients
+  with AT RT is much lower than that of patients with average-risk primitive neuroectodermal
+  tumor MB. The diagnosis of AT RT currently relies primarily on the morphologic assessment
+  and immunostaining of a few known markers, such as the lack of INI1 protein expression.
+  Immunohistochemical staining of INI1 is considered very sensitive and is highly
+  specific for the detection of INI1 genetic defects. Genetic studies have shown that
+  deletion or mutation of the INI1 gene, which is located on 22q11.2, occurs in AT
+  RT lesions. During our gene expression microarray analysis, we unexpectedly found
+  a subgroup of AT RT patients still expressing INI1 mRNA, even though INI1 proteins
+  were negative by immunohistochemistry in those cases. Direct DNA sequencing showed
+  no INI1 sequence alternation in 3 of 4 AT RTs. Point mutation was found in only
+  1 allele of the fourth case, which would result in a frameshift mutation and generate
+  a new INI1 protein with an extra 100-aa tail. Global array comparative genomic hybridization
+  analysis confirmed no aberration around the INI1 gene at 22q11.2. It also extended
+  our knowledge on the chromosomal aberration situations in our series. This study
+  reveals that a novel yet unidentified posttranscriptional regulatory mechanism s
+  for INI1 protein synthesis exists in AT RT tumor cells.
+authors: Tsai CY, Wong TT, Lee YH, Chao ME, Lin SC, Liu DJ, Liang ML, Wang HW and
+  Ho DM.
+cancertypes: []
+contact:
+  email: ~
+  name: Hsei-Wei Wang
+counts:
+  biosamples: 15
+  samples_acgh: 15
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22020042
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Am J Surg Pathol 36, 1 (2012): 128-33.'
+label: 'Tsai et al. (2012): Intact Ini1 Gene Region With Paradoxical Loss of Protein
+  Expression in At/Rt: Implications for a ...'
+notes: ~
+pmid: 22020042
+title: 'Intact Ini1 Gene Region With Paradoxical Loss of Protein Expression in At/Rt:
+  Implications for a Possible Novel Mechanism Associated With Absence of Ini1 Protein
+  Immunoreactivity.'
+year: 2012

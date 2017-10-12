@@ -15,17 +15,29 @@ authors: Harder L, Eschenburg G, Zech A, Kriebitzsch N, Otto B, Streichert T, Be
   AS, Dierck K, Klingler B, Hansen A, Stanulla M, Zimmermann M, Kremmer E, Stocking
   C and Horstmann MA
 cancertypes:
-- term_id: ncit:C3167
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: ncit:C3167
   term_label: Acute Lymphoblastic Leukemia
-- term_id: pgx:icdom:9835_3
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: pgx:icdom:9835_3
   term_label: Precursor cell lymphoblastic leukemia, NOS
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35011
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: pgx:seer:35011
   term_label: Acute Lymphocytic Leukemia
-- term_id: seer:37000
-  term_label: miscellaneous
-- term_id: snmi:M-98353
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: snmi:M-98353
   term_label: Precursor cell lymphoblastic leukemia, NOS
 contact:
   email: horstman@uke.de

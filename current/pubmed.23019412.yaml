@@ -1,0 +1,58 @@
+---
+abstract: Inflammatory leiomyosarcoma (ILMS) is a soft tissue tumor that morphologically
+  resembles conventional leiomyosarcoma (LMS) admixed with a prominent inflammatory
+  infiltrate. Genetic data on ILMS are still limited but have suggested that this
+  entity is characterized by hyperhaploidy (24-34 chromosomes). This low chromosome
+  number is otherwise uncommon in neoplasia and has been found only in 0.2% to 0.3%
+  of cytogenetically investigated tumors. Here, three ILMS were investigated using
+  cytogenetic, single-nucleotide polymorphism (SNP) array, and global gene expression
+  analyses. All cases displayed a hyperhaploid origin. Combined with previously reported
+  cases, hyperhaploidy has been found in six of seven cytogenetically investigated
+  ILMS. The copy number distribution of individual chromosomes is clearly nonrandom;
+  the hyperhaploid clones of all six cases displayed disomy for chromosomes 5 and
+  20, and two copies of chromosomes 18, 21, and 22 were also common. All chromosomes
+  identified as disomic showed a biparental origin by SNP array analysis; whether
+  this is of pathogenetic importance is not known. Compared with conventional LMS,
+  ILMS had a distinct gene expression signature. Furthermore, the number of chromosome
+  copies correlated well with gene expression levels; disomic chromosomes showed higher
+  gene expression levels than monosomic chromosomes, a finding that has not previously
+  been reported for hyperhaploid tumors. Taken together, our findings suggest that
+  disomy for some chromosomes, notably 5 and 20, as well as distorted gene expression
+  achieved through massive loss of other chromosomes are essential features of ILMS.
+authors: Nord KH, Paulsson K, Veerla S, Wejde J, Brosjï¿½ O, Mandahl N, Mertens F.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: Karolin.Hansen_Nord@med.lu.se
+  name: Karolin Hansen
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23019412
+- geo:GSE38015
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Neoplasia 14(9), 2012
+label: ' (2012): '
+notes: ~
+pmid: 23019412
+title: Retained heterodisomy is associated with high gene expression in hyperhaploid
+  inflammatory leiomyosarcoma.
+year: 2012

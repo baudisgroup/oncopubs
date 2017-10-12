@@ -1,0 +1,56 @@
+---
+abstract: Angiopoietin-like protein 2 ANGPTL2 is a secreted protein belonging to the
+  angiopoietin family, the members of which are implicated in various biological processes,
+  although its receptor remains unknown. We identified a homozygous loss of ANGPTL2
+  9q33.3 in the course of screening a panel of ovarian cancer OC cell lines for genomic
+  copy-number aberrations using in-house array-based comparative genomic hybridization.
+  ANGPTL2 mRNA expression was observed in normal ovarian tissue and immortalized normal
+  ovarian epithelial cells, but was reduced in some OC lines without its homozygous
+  deletion 18 of 23 lines and restored after treatment with 5-aza 2-deoxycytidine.
+  The methylation status of sequences around the ANGPTL2 CpG-island with clear promoter
+  activity inversely correlated with expression. ANGPTL2 methylation was frequently
+  observed in primary OC tissues as well. In an immunohistochemical analysis of primary
+  OCs, ANGPTL2 expression was frequently reduced 51 of 100 cases , and inversely correlated
+  with methylation status. Patients with OC showing reduced ANGPTL2 immunoreactivity
+  had significantly worse survival in the earlier stages stages I and II , but better
+  survival in advanced stages stages III and IV . The restoration of ANGPTL2 expression
+  or treatment with conditioned medium containing ANGPTL2 inhibited the growth of
+  OC cells originally lacking the expression of this gene, whereas the knockdown of
+  endogenous ANGPTL2 accelerated the growth of OC cells with the expression of ANGPTL2.
+  These results suggest that, at least partly, epigenetic silencing by hypermethylation
+  of the ANGPTL2 promoter leads to a loss of ANGPTL2 function, which may be a factor
+  in the carcinogenesis of OC in a stage-dependent manner.
+authors: Kikuchi R, Tsuda H, Kozaki K, Kanai Y, Kasamatsu T, Sengoku K, Hirohashi
+  S, Inazawa J and Imoto I.
+cancertypes: []
+contact:
+  email: johinaz.cgen@mri.tmd.ac.jp
+  name: Johji Inazawa
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18593905
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Cancer Res 68, 13 (2008): 5067-75.'
+label: 'Kikuchi et al. (2008): Frequent Inactivation of a Putative Tumor Suppressor,
+  Angiopoietin-Like Protein 2, in Ovarian ...'
+notes: ~
+pmid: 18593905
+title: Frequent Inactivation of a Putative Tumor Suppressor, Angiopoietin-Like Protein
+  2, in Ovarian Cancer.
+year: 2008

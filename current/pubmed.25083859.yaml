@@ -1,0 +1,64 @@
+---
+abstract: Lymph-node metastasis (LNM) predict high recurrence rates in breast cancer
+  patients. Systemic treatment aims to eliminate (micro)metastatic cells. However
+  decisions regarding systemic treatment depend largely on clinical and molecular
+  characteristics of primary tumours. It remains, however, unclear to what extent
+  metastases resemble the cognate primary breast tumours, especially on a genomic
+  level, and as such will be eradicated by the systemic therapy chosen. In this study
+  we used high-resolution aCGH to investigate DNA copy number differences between
+  primary breast cancers and their paired LNMs. To date, no recurrent LNM-specific
+  genomic aberrations have been identified using array comparative genomic hybridization
+  (aCGH) analysis. In our study we employ a high-resolution platform and we stratify
+  on different breast cancer subtypes, both aspects that might have underpowered previously
+  performed studies.To test the possibility that genomic instability in triple-negative
+  breast cancers (TNBCs) might cause increased random and potentially also recurrent
+  copy number aberrations (CNAs) in their LNMs, we studied 10 primary TNBC-LNM pairs
+  and 10 ER-positive (ER+) pairs and verified our findings adding additionally 5 TNBC-LNM
+  and 22 ER+-LNM pairs. We found that all LNMs clustered nearest to their matched
+  tumour except for two cases, of which one was due to the presence of two distinct
+  histological components in one tumour. We found no significantly altered CNAs between
+  tumour and their LNMs in the entire group or in the subgroups. Within the TNBC subgroup,
+  no absolute increase in CNAs was found in the LNMs compared to their primary tumours,
+  suggesting that increased genomic instability does not lead to more CNAs in LNMs.
+  Our findings suggest a high clonal relationship between primary breast tumours and
+  its LNMs, at least prior to treatment, and support the use of primary tumour characteristics
+  to guide adjuvant systemic chemotherapy in breast cancer patients.
+authors: Vollebergh MA, Klijn C, Schouten PC, Wesseling J, Israeli D, Ylstra B, Wessels
+  LF, Jonkers J, Linn SC.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: s.linn@nki.nl
+  name: Sabine C. Linn
+counts:
+  biosamples: 94
+  samples_acgh: 94
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25083859
+- geo:GSE56765
+- geo:GSE38888
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: PLoS ONE 9(8), 2014
+label: ' (2014): '
+notes: ~
+pmid: 25083859
+title: Lack of genomic heterogeneity at high-resolution aCGH between primary breast
+  cancers and their paired lymph node metastases.
+year: 2014

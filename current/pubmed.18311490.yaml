@@ -1,0 +1,54 @@
+---
+abstract: 'The World Health Organization-European Organization for Research and Treatment
+  of Cancer has individualized three main categories among the primary cutaneous B
+  cell lymphoma PCBCL : leg-type primary cutaneous large B cell lymphoma PCLBCL leg
+  type , primary cutaneous follicle center lymphoma PCFCL , and primary cutaneous
+  marginal zone lymphoma PCMZL . The genetic features of 21 PCBCL cases six PCLBCL
+  leg type four PCFCL large cells, seven PCFCL small cells, and four PCMZL were investigated
+  by comparative genomic hybridization CGH array . Fluorescent in situ hybridization
+  FISH analysis was performed to confirm CGH array data and to detect lymphoma-associated
+  gene rearrangements. p14 ARF p16 INK4a CDKN2A gene quantification, methylation analysis,
+  and immunohistochemical detection were also performed. CGH array showed a higher
+  number of recurrent genetic imbalances in PCLBCL leg type mean 62 than in PCFCL
+  large cells mean 34 . PCFCL small cells and PCMZL exhibited fewer chromosomal alterations
+  mean 24 and 9 . FISH analysis provided concordant results with CGH array data in
+  97 98 of 101 assays and demonstrated a t 8 14 q24 q32 in two of six PCLBCL leg type.
+  Recurrent deletions in 9p21 p14 ARF p16 INK4a CDKN2A were a constant finding in
+  PCLBCL leg type six of six . Conversely, PCFCL large cells exhibited recurrent 1p36
+  deletions four of four without deletion in 9p21 zero of four . The diagnostic and
+  prognostic impact of the p16 INK4a CDKN2A gene status in PCBCL should therefore
+  be confirmed on a larger series.'
+authors: Belaud-Rotureau MA, Marietta V, Vergier B, Mainhaguiet G, Turmo M, Idrissi
+  Y, Ferrer J, Beylot-Barry M, Dubus P and Merlio JP.
+cancertypes: []
+contact:
+  email: MA.Belaud-Rotureau@histo.u-bordeaux2.fr
+  name: Marc-Antoine Belaud-Rotureau
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18311490
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: 'Virchows Arch 452, 6 (2008): 607-20.'
+label: 'Belaud-Rotureau et al. (2008): Inactivation of P16Ink4A/Cdkn2A Gene May be
+  a Diagnostic Feature of Large B Cell Lymphoma ...'
+notes: ~
+pmid: 18311490
+title: Inactivation of P16Ink4A/Cdkn2A Gene May be a Diagnostic Feature of Large B
+  Cell Lymphoma Leg Type Among Cutaneous B Cell Lymphomas.
+year: 2008

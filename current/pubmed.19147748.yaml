@@ -1,0 +1,40 @@
+---
+abstract: We used high-resolution oligonucleotide comparative genomic hybridization
+  CGH arrays and matching gene expression array data to identify dysregulated genes
+  and to classify breast cancers according to gene copy number anomalies.
+authors: Andre F, Job B, Dessen P, Tordai A, Michiels S, Liedtke C, Richon C, Yan
+  K, Wang B, Vassal G, Delaloge S, Hortobagyi GN, Symmans WF, Lazar V, and Pusztai
+  L.
+cancertypes: []
+contact:
+  email: fandre@igr.fr
+  name: Fabrice Andre
+counts:
+  biosamples: 106
+  samples_acgh: 106
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19147748
+- arrayexpress:E-TABM-484
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Clin Cancer Res, 15(2) 2009, 441-51.
+label: 'Andre et al. (2009): Molecular characterization of breast cancer with high-resolution
+  oligonucleotide comparative ...'
+notes: ~
+pmid: 19147748
+title: Molecular characterization of breast cancer with high-resolution oligonucleotide
+  comparative genomic hybridization array.
+year: 2009

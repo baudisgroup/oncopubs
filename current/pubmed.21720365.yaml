@@ -1,0 +1,48 @@
+---
+abstract: A catalogue of molecular aberrations that cause ovarian cancer is critical
+  for developing and deploying therapies that will improve patients apos lives. The
+  Cancer Genome Atlas project has analysed messenger RNA expression, microRNA expression,
+  promoter methylation and DNA copy number in 489 high-grade serous ovarian adenocarcinomas
+  and the DNA sequences of exons from coding genes in 316 of these tumours. Here we
+  report that high-grade serous ovarian cancer is characterized by TP53 mutations
+  in almost all tumours 96 low prevalence but statistically recurrent somatic mutations
+  in nine further genes including NF1, BRCA1, BRCA2, RB1 and CDK12 113 significant
+  focal DNA copy number aberrations and promoter methylation events involving 168
+  genes. Analyses delineated four ovarian cancer transcriptional subtypes, three microRNA
+  subtypes, four promoter methylation subtypes and a transcriptional signature associated
+  with survival duration, and shed new light on the impact that tumours with BRCA1
+  2 BRCA1 or BRCA2 and CCNE1 aberrations have on survival. Pathway analyses suggested
+  that homologous recombination is defective in about half of the tumours analysed,
+  and that NOTCH and FOXM1 signalling are involved in serous ovarian cancer pathophysiology.
+authors: The Cancer Genome Atlas Research Network
+cancertypes: []
+contact:
+  email: spellmap@ohsu.edu
+  name: Paul T. Spellman
+counts:
+  biosamples: 489
+  samples_acgh: 489
+  samples_ccgh: 0
+  samples_wes: 316
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21720365
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.27
+    - 37.87
+    type: Point
+  info:
+    city: Berkeley
+    continent: North America
+    country: United States
+    label: Berkeley, United States, North America
+    precision: city
+journal: 'Nature (2011) 474: 609-615.'
+label: 'The Cancer Genome Atlas Research Network (2011): Integrated genomic analyses
+  of ovarian carcinoma.'
+notes: ~
+pmid: 21720365
+title: Integrated genomic analyses of ovarian carcinoma.
+year: 2011

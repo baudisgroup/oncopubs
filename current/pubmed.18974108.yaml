@@ -1,0 +1,99 @@
+---
+abstract: Brain tumors are the most common solid tumors of childhood, and pilocytic
+  astrocytomas PA are the most common central nervous system tumor in 5 to 19 year
+  olds. Little is known about the genetic alterations underlying their development.
+  Here, we describe a tandem duplication of approximately 2 Mb at 7q34 occurring in
+  66 of PAs. This rearrangement, which was not observed in a series of 244 higher-grade
+  astrocytomas, results in an in-frame fusion gene incorporating the kinase domain
+  of the BRAF oncogene. We further show that the resulting fusion protein has constitutive
+  BRAF kinase activity and is able to transform NIH3T3 cells. This is the first report
+  of BRAF activation through rearrangement as a frequent feature in a sporadic tumor.
+  The frequency and specificity of this change underline its potential both as a therapeutic
+  target and as a diagnostic tool.
+authors: Jones DT, Kocialkowski S, Liu L, Pearson DM, Backlund LM, Ichimura K and
+  Collins VP.
+cancertypes:
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: ncit:C4047
+  term_label: Pilocytic Astrocytoma
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: pgx:icdom:9421_1
+  term_label: Pilocytic astrocytoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.0
+  term_label: cerebrum
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.5
+  term_label: ventricle
+- samples_arraymap: 24
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.7
+  term_label: brain stem
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:icdot:C72.3
+  term_label: Optic chiasm
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C75.3
+  term_label: pineal gland
+- samples_arraymap: 37
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 6
+  samples_progenetix: ~
+  term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:32020
+  term_label: Other Endocrine including Thymus
+- samples_arraymap: 44
+  samples_progenetix: ~
+  term_id: snmi:M-94211
+  term_label: Pilocytic astrocytoma
+contact:
+  email: davidjones@cantab.net
+  name: David Jones
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18974108
+- geo:GSE11265
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Cancer Res 68, 21 (2008): 8673-77.'
+label: 'Jones et al. (2008): Tandem Duplication Producing a Novel Oncogenic Braf Fusion
+  Gene Defines the Majority of Pilocytic ...'
+notes: ~
+pmid: 18974108
+title: Tandem Duplication Producing a Novel Oncogenic Braf Fusion Gene Defines the
+  Majority of Pilocytic Astrocytomas.
+year: 2008

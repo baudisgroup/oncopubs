@@ -1,0 +1,55 @@
+---
+abstract: Diagnostic biopsy is not routinely performed for children with diffuse intrinsic
+  pontine glioma DIPG . Consequently, our understanding of DIPG biology is hindered
+  by limited tissue availability. We performed comparative genomic hybridization CGH
+  on autopsy specimens to examine the feasibility of determining DNA genomic copy
+  number aberrations on formalin-fixed, paraffin-embedded FFPE blocks. Histology on
+  FFPE blocks obtained from autopsy of pediatric patients with DIPG was reviewed.
+  Regions were marked for processing, and DNA was extracted from the tissue core,
+  labeled by chemical coupling with Cy5, and hybridized to 105K oligonucleotide CGH
+  arrays. After hybridization and washing, arrays were scanned, and data segmented
+  and processed with Nexus software. Twenty-two samples from 13 subjects were obtained.
+  Histologic variability was noted. CGH was successfully performed on 18 of 22 samples,
+  representing 11 of 13 subjects. All demonstrated DNA copy number abnormalities.
+  High copy number amplification of known oncogenes and homozygous deletions of known
+  tumor suppressor genes were observed. Additional regions of high copy number amplification
+  and homozygous deletion and geographical variations in the CGH patterns were found.
+  CGH performed on FFPE tissue obtained from autopsy yields satisfactory results.
+  This sample set from patients with DIPG was highly informative, with the majority
+  of specimens showing 1 abnormality related to a known cancer gene. Aberrations in
+  candidate drug targets were observed. This study establishes the feasibility of
+  genomic DNA analysis from DIPG autopsy material, identifies several targets for
+  which molecular targeted therapy exists, and suggests significant heterogeneity
+  among patients with DIPG.
+authors: Warren KE, Killian K, Suuriniemi M, Wang Y, Quezado M and Meltzer PS.
+cancertypes: []
+contact:
+  email: warrenk@mail.nih.gov
+  name: Katherine Warren
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22064882
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Neuro Oncol (2011)
+label: 'Warren et al. (2011): Genomic Aberrations in Pediatric Diffuse Intrinsic Pontine
+  Gliomas.'
+notes: ~
+pmid: 22064882
+title: Genomic Aberrations in Pediatric Diffuse Intrinsic Pontine Gliomas.
+year: 2011

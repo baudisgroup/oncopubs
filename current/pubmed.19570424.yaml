@@ -1,0 +1,37 @@
+---
+abstract: To investigate the relationship of the metastasis-associated genes and its
+  copy numbers variation in the highly metastatic human epithelial ovarian cancer
+  cell line HO-8910PM.
+authors: Ying LS, Xu SH, Su D, Mou HZ, Gu LH, Zhu CH and Liu XL.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19570424
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.16
+    - 30.29
+    type: Point
+  info:
+    city: Hangzhou
+    continent: Asia
+    country: China
+    label: Hangzhou, China, Asia
+    precision: city
+journal: 'Zhonghua Fu Chan Ke Za Zhi 44, 2 (2009): 126-30.'
+label: 'Ying et al. (2009): [Study of the Metastasis-Associated Genes and Its Copy
+  Numbers Variation in Highly Metastatic ...'
+notes: ~
+pmid: 19570424
+title: '[Study of the Metastasis-Associated Genes and Its Copy Numbers Variation in
+  Highly Metastatic Epithelial Ovarian Cancer].'
+year: 2009

@@ -1,0 +1,50 @@
+---
+abstract: Wilms tumor is the fourth most common malignancy of childhood its pathogenesis,
+  however, remains largely unknown. With advancements in cytogenetic techniques, such
+  as array comparative genomic hybridization aCGH , there is new hope for uncovering
+  small chromosomal microdeletions or microduplications that may contribute to our
+  understanding of Wilms tumor. We performed aCGH on 10 samples of Wilms tumor with
+  normal conventional cytogenetic and chromosomal CGH findings. Array CGH revealed
+  abnormalities in 3 of the 10 samples, including microdeletions 2q37.1, 7q31 approximately
+  q32, and 11q22.3 , microduplication 18q21.1 , and gains and losses of larger chromosomal
+  areas 1q and 7q gain and loss of 7p, 11q, 14q, and 16q . Fluorescence in situ hybridization
+  FISH analysis confirmed the abnormalities and revealed the majority of them existed
+  only in a proportion cells amp gt or 30 of cells . We also performed aCGH on three
+  samples of Wilms tumor with previously identified translocations between chromosomes
+  1 and 16, to determine the breakpoints. The breakpoints were seen in the pericentromeric
+  regions of both chromosomes. Array CGH is useful for identifying submicroscopic
+  changes in Wilms tumor and is more sensitive for detecting clonal abnormalities
+  than conventional methods.
+authors: Rassekh SR, Chan S, Harvard C, Dix D, Qiao Y and Rajcan-Separovic E.
+cancertypes: []
+contact:
+  email: rrassekh@cw.bc.ca
+  name: Shahrad Rod Rassekh
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18406869
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 182, 2 (2008): 84-94.'
+label: 'Rassekh et al. (2008): Screening for Submicroscopic Chromosomal Rearrangements
+  in Wilms Tumor Using Whole-Genome ...'
+notes: ~
+pmid: 18406869
+title: Screening for Submicroscopic Chromosomal Rearrangements in Wilms Tumor Using
+  Whole-Genome Microarrays.
+year: 2008

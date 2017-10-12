@@ -1,0 +1,51 @@
+---
+abstract: Oral squamous cell carcinoma OSCC is highly invasive and is associated with
+  frequent tumour recurrences and lymph node metastases. Identification of genes involved
+  in the aggressiveness of OSCC may provide new targets for clinical intervention.
+  A genome-wide study based on the Sty1 250K SNP array indicated the involvement of
+  the Talin-1 TLN1 gene in the 9p13.3 amplicon, which was further validated by dual
+  colour fluorescence in situ hybridization FISH . Comparative analyses revealed that
+  TLN1 was the most highly expressed integrin-cytoskeleton cross-linker that can trigger
+  integrin activation. IHC analyses and mouse study also revealed an association between
+  TLN1 overexpression and advanced OSCC with invasion to adjacent tissues. Survival
+  analyses indicated a significant association between TLN1 genetic gain overexpression
+  and a reduced overall survival in patients. Functional knockdown by a dominant negative
+  TLN1 fragment reduced cell growth and invasiveness in TLN1-overexpressing cells
+  via inactivation of downstream oncogenic signalling. The present study suggests
+  an important role for TLN1 in oral cancer development. TLN1 overexpression could
+  serve as a diagnostic marker for aggressive phenotypes and a potential target for
+  treating OSCC.
+authors: Lai MT, Hua CH, Tsai MH, Wan L, Lin YJ, Chen CM, Chiu IW, Chan C, Tsai FJ
+  and Jinn-Chyuan Sheu J.
+cancertypes: []
+contact:
+  email: ~
+  name: Jinn-Chyuan Sheu
+counts:
+  biosamples: 200
+  samples_acgh: 200
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21547905
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'J Pathol 224, 3 (2011): 367-76.'
+label: 'Lai et al. (2011): Talin-1 Overexpression Defines High Risk for Aggressive
+  Oral Squamous Cell Carcinoma and Promotes ...'
+notes: ~
+pmid: 21547905
+title: Talin-1 Overexpression Defines High Risk for Aggressive Oral Squamous Cell
+  Carcinoma and Promotes Cancer Metastasis.
+year: 2011

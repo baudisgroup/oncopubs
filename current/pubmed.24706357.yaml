@@ -1,0 +1,59 @@
+---
+abstract: Molecular changes associated with the progression of glioblastoma after
+  standard radiochemotherapy remain poorly understood. We compared genomic profiles
+  of 27 paired primary and recurrent IDH1 2 wild-type glioblastomas by genome-wide
+  array-based comparative genomic hybridization. By bioinformatic analysis, primary
+  and recurrent tumor profiles were normalized and segmented, chromosomal gains and
+  losses identified taking the tumor cell content into account, and difference profiles
+  deduced. Seven of 27 26 pairs lacked DNA copy number differences between primary
+  and recurrent tumors equal pairs . The recurrent tumors in 9 27 33 pairs contained
+  all chromosomal imbalances of the primary tumors plus additional ones, suggesting
+  a sequential acquisition of and or selection for aberrations during progression
+  sequential pairs . In 11 27 41 pairs, the profiles of primary and recurrent tumors
+  were divergent, i.e., the recurrent tumors contained additional aberrations but
+  had lost others, suggesting a polyclonal composition of the primary tumors and considerable
+  clonal evolution discrepant pairs . Losses on 9p21.3 harboring the CDKN2A B locus
+  were significantly more common in primary tumors from sequential and discrepant
+  nonequal pairs. Nonequal pairs showed ten regions of recurrent genomic differences
+  between primary and recurrent tumors harboring 46 candidate genes associated with
+  tumor recurrence. In particular, copy numbers of genes encoding apoptosis regulators
+  were frequently changed at progression. In summary, approximately 25 of IDH1 2 wild-type
+  glioblastoma pairs have stable genomic imbalances. In contrast, approximately 75
+  of IDH1 2 wild-type glioblastomas undergo further genomic aberrations and alter
+  their clonal composition upon recurrence impacting their genomic profile, a process
+  possibly facilitated by 9p21.3 loss in the primary tumor. c 2014 Wiley Periodicals,
+  Inc.
+authors: Riehmer V, Gietzelt J, Beyer U, Hentschel B, Westphal M, Schackert G, Sabel
+  MC, Radlwimmer B, Pietsch T, Reifenberger G, Weller M, Weber RG and Loeffler M.
+cancertypes: []
+contact:
+  email: weber.ruthild@mh-hannover.de
+  name: Ruthild G. Weber
+counts:
+  biosamples: 54
+  samples_acgh: 54
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24706357
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer (2014).
+label: 'Riehmer et al. (2014): Genomic profiling reveals distinctive molecular relapse
+  patterns in IDH1/2 wild-type ...'
+notes: ~
+pmid: 24706357
+title: Genomic profiling reveals distinctive molecular relapse patterns in IDH1/2
+  wild-type glioblastoma.
+year: 2014

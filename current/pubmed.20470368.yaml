@@ -1,0 +1,92 @@
+---
+abstract: Oncogenic point mutations in KIT or PDGFRA are recognized as the primary
+  events responsible for the pathogenesis of most gastrointestinal stromal tumors
+  GIST , but additional genomic alterations are frequent and presumably required for
+  tumor progression. The relative contribution of such alterations for the biology
+  and clinical behavior of GIST, however, remains elusive.
+authors: Silva M, Veiga I, Ribeiro FR, Vieira J, Pinto C, Pinheiro M, Mesquita B,
+  Santos C, Soares M, Dinis J, Santos L, Lopes P, Afonso M, Lopes C and Teixeira MR.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:8936_3
+  term_label: Gastrointestinal stromal sarcoma
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C17
+  term_label: small intestine
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C18.9
+  term_label: large intestine, excl. rectum and rectosigmoid junction
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C20
+  term_label: rectum
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C48
+  term_label: retroperitoneum and peritoneum
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:seer:21030
+  term_label: Small Intestine
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21049
+  term_label: Large Intestine, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21052
+  term_label: Rectum
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21110
+  term_label: Retroperitoneum
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-89363
+  term_label: Gastrointestinal stromal sarcoma
+contact:
+  email: mteixeir@ipoporto.min-saude.pt
+  name: Manuel Teixeira
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20470368
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: Europe
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: 'BMC Med 8 (2010): 26.'
+label: 'Silva et al. (2010): Chromosome Copy Number Changes Carry Prognostic Information
+  Independent of Kit/Pdgfra Point ...'
+notes: ~
+pmid: 20470368
+title: Chromosome Copy Number Changes Carry Prognostic Information Independent of
+  Kit/Pdgfra Point Mutations in Gastrointestinal Stromal Tumors.
+year: 2010

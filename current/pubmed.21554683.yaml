@@ -1,0 +1,46 @@
+---
+abstract: The results of cytogenetic investigations on unbalanced chromosome anomalies,
+  both constitutional and acquired, were largely improved by comparative genomic hybridization
+  on microarray a-CGH , but in mosaicism the ability of a-CGH to reliably detect imbalances
+  is not yet well established. This problem of sensitivity is even more relevant in
+  acquired mosaicism in neoplastic diseases, where cells carrying acquired imbalances
+  coexist with normal cells, in particular when the proportion of abnormal cells may
+  be low.We constructed a synthetic mosaicism by mixing the DNA of three patients
+  carrying altogether seven chromosome imbalances with normal sex-matched DNA. Dilutions
+  were prepared mimicking 5 , 6 , 7 , 8 , 10 and 15 levels of mosaicism. Oligomer-based
+  a-CGH 244 K whole-genome system was applied on the patients DNA and customized slides
+  designed around the regions of imbalance were used for the synthetic mosaics.
+authors: Valli R, Marletta C, Pressato B, Montalbano G, Lo Curto F, Pasquali F and
+  Maserati E.
+cancertypes: []
+contact:
+  email: ~
+  name: Emanuela Maserati
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21554683
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.82
+    - 45.82
+    type: Point
+  info:
+    city: Varese
+    continent: Europe
+    country: Italy
+    label: Varese, Italy, Europe
+    precision: city
+journal: 'Mol Cytogenet 4 (2011): 13.'
+label: 'Valli et al. (2011): Comparative Genomic Hybridization on Microarray (a-Cgh)
+  in Constitutional and Acquired Mosaicism ...'
+notes: ~
+pmid: 21554683
+title: Comparative Genomic Hybridization on Microarray (a-Cgh) in Constitutional and
+  Acquired Mosaicism May Detect as Low as 8  Abnormal Cells.
+year: 2011

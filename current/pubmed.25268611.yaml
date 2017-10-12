@@ -1,0 +1,50 @@
+---
+abstract: Gender-related differences in colorectal cancer CRC are not fully understood.
+  Recent studies have shown that CRC arising in females are significantly associated
+  with CpG island methylator phenotype CIMP-high . Using array comparative genomic
+  hybridization, we analyzed a cohort of 116 CRCs 57 males, 59 females for chromosomal
+  copy number aberrations CNA and found that CRC in females had significantly higher
+  numbers of gains involving chromosome arms 1q21.2-q21.3, 4q13.2, 6p21.1 and 16p11.2
+  and copy number losses of chromosome arm 11q25 compared to males. Interestingly,
+  a subset of male CRCs 46 exhibited a feminization phenomenon in the form of gains
+  of X chromosomes or an arm of X and or losses of the Y chromosome. Feminization
+  of cancer cells was significantly associated with microsatellite-stable CRCs p-value
+  0.003 and wild-type BRAF gene status p-value 0.009 . No significant association
+  with other clinicopathological parameters was identified including disease-free
+  survival. In summary, our data show that some CNAs in CRC may be gender specific
+  and that male cancers characterized by feminization may constitute a specific subset
+  of CRCs that warrants further investigation.
+authors: Ali RH, Marafie MJ, Bitar MS, Al-Dousari F, Ismael S, Haider HB, Al-Ali W,
+  Jacob SP and Al-Mulla F.
+cancertypes: []
+contact:
+  email: ~
+  name: Fahd Al-Mulla
+counts:
+  biosamples: 116
+  samples_acgh: 116
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25268611
+geo_data:
+  geo_json:
+    coordinates:
+    - 47.98
+    - 29.37
+    type: Point
+  info:
+    city: Kuwait City
+    continent: Asia
+    country: Kuwait
+    label: Kuwait City, Kuwait, Asia
+    precision: city
+journal: 'Int J Mol Sci (2014) 15: 17344-17365.'
+label: 'Ali et al. (2014): Gender-Associated Genomic Differences in Colorectal Cancer:
+  Clinical Insight from Feminization of ...'
+notes: ~
+pmid: 25268611
+title: 'Gender-Associated Genomic Differences in Colorectal Cancer: Clinical Insight
+  from Feminization of Male Cancer Cells.'
+year: 2014

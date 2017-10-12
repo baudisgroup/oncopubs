@@ -1,0 +1,58 @@
+---
+abstract: Chemotherapy resistance remains a major obstacle to successful treatment
+  of ovarian cancer patients. Therefore, increased knowledge of underlying mechanisms
+  and identification of predictive factors are of great importance. Standard treatment
+  for ovarian carcinoma is surgery followed by platinum-based chemotherapy. In this
+  study, we aimed to search for genes or genomic regions involved in platinum resistance
+  in ovarian carcinoma. Array-based comparative genomic hybridization CGH was used
+  to identify genetic alterations in 32 early-stage epithelial ovarian carcinomas
+  homogeneously treated with single-agent carboplatin. The arrays contain 33,370 bacterial
+  artificial chromosome BAC clones and form a contiguous and tiling coverage of the
+  human genome with an average resolution of approximately 100 kb. We found certain
+  genetic changes associated with carboplatin response. Gains in 1q25.1-q41 were significantly
+  more frequent in carboplatin-resistant tumours. In this region, we further detected
+  two smallest regions of overlap SRO at 1q25.2 and 1q32.2 approximately 690 and approximately
+  830 kb in size, respectively . Interestingly, we found some regions that were lost
+  exclusively in the sensitive tumours 17q24.1, Xq21.33-q22.1, and 6 regions in 15q.
+  We also detected genetic differences with regard to histologic subtype. Gain in
+  8q was found highly associated with serous and clear cell subtypes, and an SRO was
+  identified at 8q24.22-q24.23. The genomic regions found altered in this study confirm
+  some of our previous metaphase CGH results. The alteration found in chromosome arm
+  1q was verified and specified, and is therefore of great interest as a candidate
+  for predictive markers. Identifying predictive markers of chemosensitive and chemoresistant
+  disease would greatly help in the choice of chemotherapy in the clinic, and thus
+  improve treatment of women with ovarian cancer.
+authors: Osterberg L, Levan K, Partheen K, Staaf J, Sundfeldt K and Horvath G.
+cancertypes: []
+contact:
+  email: lovisa.osterberg@gu.se
+  name: Lovisa Osterberg
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19617691
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 125, 1 (2009): 8-18.'
+label: 'Osterberg et al. (2009): High-Resolution Genomic Profiling of Carboplatin
+  Resistance in Early-Stage Epithelial Ovarian ...'
+notes: Though the article mentions a deposition in GEO, the data could not be identified
+  there yet.
+pmid: 19617691
+title: High-Resolution Genomic Profiling of Carboplatin Resistance in Early-Stage
+  Epithelial Ovarian Carcinoma.
+year: 2009

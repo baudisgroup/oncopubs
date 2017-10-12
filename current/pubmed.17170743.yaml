@@ -1,0 +1,113 @@
+---
+abstract: Follicular lymphoma is commonly transformed to a more aggressive diffuse
+  large B-cell lymphoma DLBCL . In order to provide molecular characterization of
+  this histological and clinical transformation, comparative genomic hybridization
+  was applied to 23 follicular lymphoma and 35 transformed DLBCL tumors from a total
+  of 30 patients. The results were also compared with our published findings in de
+  novo DLBCL. Copy number changes were detected in 70 of follicular lymphoma and in
+  97 of transformed DLBCL. In follicular lymphoma, the most common alterations were
+  18q21 33 , Xq25-26 28 , 1q31-32 23 , and -17p 23 , whereas transformed DLBCL most
+  frequently exhibited Xq25-26 36 , 12q15 29 , 7pter-q22 25 , 8q21 21 , and -6q16-21
+  25 . Transformed DLBCL showed significantly more alterations as compared to follicular
+  lymphoma P 0.0001 , and the alterations -6q16-21 and 7pter-q22 were only found in
+  transformed DLBCL but not in follicular lymphoma P 0.02 . Alterations involving
+  13q22 were significantly less frequent, whereas -4q13-21 was more common in transformed
+  as compared to de novo DLBCL P 0.01 and P 0.02, respectively . Clinical progression
+  from follicular lymphoma to transformed DLBCL is on the genetic level associated
+  with acquisition of increasing number of genomic copy number changes, with non-random
+  involvement of specific target regions. The findings support diverse genetic background
+  between transformed and de novo DLBCL.
+authors: Berglund M, Enblad G, Thunberg U, Amini RM, Sundstrom C, Roos G, Erlanson
+  M, Rosenquist R, Larsson C and Lagercrantz S.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:9691_3
+  term_label: Follicular lymphoma, grade 2
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:9695_3
+  term_label: Follicular lymphoma, grade 1
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9698_3
+  term_label: Follicular lymphoma, grade 3
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-96913
+  term_label: Follicular lymphoma, grade 2
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-96953
+  term_label: Follicular lymphoma, grade 1
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-96983
+  term_label: Follicular lymphoma, grade 3
+contact:
+  email: Mattias.Berglund@genpat.uu.se
+  name: Mattias Berglund
+counts:
+  biosamples: 58
+  samples_acgh: 0
+  samples_ccgh: 58
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17170743
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Mod Pathol 20, 1 (2007): 63-75.'
+label: 'Berglund et al. (2007): Genomic Imbalances During Transformation From Follicular
+  Lymphoma to Diffuse Large B-Cell ...'
+notes: ~
+pmid: 17170743
+title: Genomic Imbalances During Transformation From Follicular Lymphoma to Diffuse
+  Large B-Cell Lymphoma.
+year: 2007

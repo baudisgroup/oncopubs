@@ -1,0 +1,39 @@
+---
+abstract: The epidermal growth factor receptor EGFR and its downstream factors KRAS
+  and BRAF are mutated with different frequencies in non-small cell lung cancer and
+  mutations predict clinical response to EGFR inhibitors. The present study compared
+  the mutational status of EGFR, KRAS, and BRAF in primary tumors with the one in
+  corresponding lymph node metastases.
+authors: Schmid K, Oehl N, Wrba F, Pirker R, Pirker C and Filipits M.
+cancertypes: []
+contact:
+  email: katharina.schmid@meduniwien.ac.at
+  name: Katharina Schmid
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19584155
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.37
+    - 48.21
+    type: Point
+  info:
+    city: Vienna
+    continent: Europe
+    country: Austria
+    label: Vienna, Austria, Europe
+    precision: city
+journal: 'Clin Cancer Res 15, 14 (2009): 4554-60.'
+label: 'Schmid et al. (2009): Egfr/Kras/Braf Mutations in Primary Lung Adenocarcinomas
+  and Corresponding Locoregional Lymph Node ...'
+notes: ~
+pmid: 19584155
+title: Egfr/Kras/Braf Mutations in Primary Lung Adenocarcinomas and Corresponding
+  Locoregional Lymph Node Metastases.
+year: 2009

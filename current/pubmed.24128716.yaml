@@ -1,0 +1,58 @@
+---
+abstract: INTRODUCTION:Arsenic exposure is a significant cause of lung cancer in North
+  America and worldwide. Arsenic-related tumors are structurally indistinguishable
+  from those induced by other carcinogens. Because carcinogens, like tobacco, induce
+  distinctive mutational signatures, we sought to characterize the mutational signature
+  of an arsenic-related lung tumor from a never smoker with the use of whole-genome
+  sequencing.METHODS:Tumor and lung tissues were obtained from a never smoker with
+  lung squamous cell carcinoma LUSC , without familiar history of lung cancer and
+  chronically exposed to high levels of arsenic-contaminated drinking water. The Illumina
+  HiSeq-2000 platform was used to sequence each genome at approximately 30-fold haploid
+  coverage. The mutational signature was compared with those observed in previously
+  characterized lung tumors.RESULTS:The arsenic-related tumor exhibited alterations
+  common in LUSC, such as the increased number of copies at 3q26 SOX2 locus . However,
+  the arsenic-related genome not only harbored a lower number of point mutations,
+  but also had a remarkably high fraction of T gt G A gt C mutations and low fraction
+  of C gt A G gt T transversions, which is uncharacteristic of LUSCs. Furthermore,
+  at the gene level, we identified a rare G gt C mutation in TP53, which is uncommon
+  in lung tumors in general lt 0.2 but has been observed in other arsenic-related
+  malignancies.CONCLUSIONS:We generated the first whole-genome sequence of an LUSC
+  from a never-smoker patient chronically exposed to arsenic, and identified a distinct
+  mutational spectrum associated with arsenic exposure, providing novel evidence supporting
+  the hypothesis that arsenic-induced lung tumors arise through molecular mechanisms
+  that differ from those of the common lung cancer.
+authors: Martinez VD, Thu KL, Vucic EA, Hubaux R, Adonis M, Gil L, MacAulay C, Lam
+  S and Lam WL.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 1
+external_identifiers:
+- pubmed:24128716
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.65
+    - -33.46
+    type: Point
+  info:
+    city: Santiago
+    continent: South America
+    country: Chile
+    label: Santiago, Chile, South America
+    precision: city
+journal: 'Journal of thoracic oncology : official publication of the International
+  Association for the Study of Lung Cancer (2013) 8: 1451-1455.'
+label: 'Martinez et al. (2013): Whole-genome sequencing analysis identifies a distinctive
+  mutational spectrum in an ...'
+notes: ~
+pmid: 24128716
+title: Whole-genome sequencing analysis identifies a distinctive mutational spectrum
+  in an arsenic-related lung tumor.
+year: 2013

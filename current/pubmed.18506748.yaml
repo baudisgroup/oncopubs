@@ -1,0 +1,130 @@
+---
+abstract: Recurrent karyotypic abnormalities are a characteristic feature of cervical
+  cancer CC cells, which may result in deregulated expression of important genes that
+  contribute to tumor initiation and progression. To examine the role of gain of the
+  long arm of chromosome 20 20q , one of the common chromosomal gains in CC, we evaluated
+  CC at various stages of progression using single nucleotide polymorphism SNP array,
+  gene expression profiling, and fluorescence in situ hybridization FISH analyses.
+  This analysis revealed copy number increase CNI of 20q in amp gt 50 of invasive
+  CC and identified two focal amplicons at 20q11.2 and 20q13.13 in a subset of tumors.
+  We further demonstrate that the acquisition of 20q gain occurs at an early stage
+  in CC development and the high-grade squamous intraepithelial lesions HSIL that
+  exhibit 20q CNI are associated P 0.05 with persistence or progression to invasive
+  cancer. We identified a total of 26 overexpressed genes as consequence of 20q gain
+  N 14 , as targets of amplicon 1 N 9 two genes also commonly expressed with 20q gain
+  and amplicon 2 N 6 one gene also commonly expressed with 20q gain . These include
+  a number of functionally important genes in cell cycle regulation E2F1, TPX2, KIF3B,
+  PIGT, and B4GALT5 , nuclear function CSEL1 , viral replication PSMA7 and LAMA5 ,
+  methylation and chromatin remodeling ASXL1, AHCY, and C20orf20 , and transcription
+  regulation TCEA2 . Our findings implicate a role for these genes in CC tumorigenesis,
+  represent an important step toward the development of clinically significant biomarkers,
+  and form a framework for testing as molecular therapeutic targets.
+authors: Scotto L, Narayan G, Nandula SV, Arias-Pulido H, Subramaniyam S, Schneider
+  A, Kaufmann AM, Wright JD, Pothuri B, Mansukhani M and Murty VV.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C2852
+  term_label: Adenocarcinoma
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C2916
+  term_label: Carcinoma
+- samples_arraymap: ~
+  samples_progenetix: 76
+  term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- samples_arraymap: 83
+  samples_progenetix: ~
+  term_id: ncit:C4028
+  term_label: Cervical Squamous Cell Carcinoma, Not Otherwise Specified
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C4029
+  term_label: Cervical Adenocarcinoma
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8010_3
+  term_label: Carcinoma, NOS
+- samples_arraymap: 83
+  samples_progenetix: 76
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: 6
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 88
+  samples_progenetix: 88
+  term_id: pgx:icdot:C53
+  term_label: cervix uteri
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
+  term_label: ill-defined
+- samples_arraymap: 88
+  samples_progenetix: 88
+  term_id: pgx:seer:27010
+  term_label: Cervix Uteri
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-80103
+  term_label: Carcinoma, NOS
+- samples_arraymap: 83
+  samples_progenetix: 76
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 5
+  samples_progenetix: 6
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: murty.vundavalli@gmail.com
+  name: Vundavalli V. Murty
+counts:
+  biosamples: 100
+  samples_acgh: 100
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18506748
+- geo:GSE10092
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 9 (2008): 755-65.'
+label: 'Scotto et al. (2008): Identification of Copy Number Gain and Overexpressed
+  Genes on Chromosome Arm 20q By an Integrative ...'
+notes: While the article reports on 20q gains, the data is discussed also in PMID
+  18559093. For the analysis, GEO raw CEL files were processed using the aroma.affymetrix
+  package. 5 cell lines were omitted due to high segmentation inhomogeneities.
+pmid: 18506748
+title: 'Identification of Copy Number Gain and Overexpressed Genes on Chromosome Arm
+  20q By an Integrative Genomic Approach in Cervical Cancer: Potential Role in Progression.'
+year: 2008

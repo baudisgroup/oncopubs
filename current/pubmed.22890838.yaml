@@ -1,0 +1,72 @@
+---
+abstract: We studied marginal zone B-cell lymphomas of the gastrointestinal tract
+  including seven small cell lymphomas, eight large cell areas of composite lymphomas
+  and 13 large cell variants using SNP array profiling. We found an increase of genomic
+  complexity with lymphoma progression from small to large cytology, and identified
+  gains of prominent proto oncogenes such as REL, BCL11A, ETS1, PTPN1, PTEN and KRAS
+  which were found exclusively in the large cell variants. Copy numbers of ADAM3A,
+  SCAPER and SIRPB1 were varying between the three different modes of presentation,
+  hence suggestive for aberrations associated with progression from small to large
+  cell lymphoma. The number of aberrations was slightly higher in the large cell part
+  of composite lymphomas than in large cell lymphomas, suggesting that clonal selection
+  takes place and that composite lymphomas are in a transition state. To further investigate
+  this, we comparatively analyzed samples of two morphologically different regions
+  of the same small cell tumor with a BIRC3-MALT1 translocation, as well as material
+  acquired at two different time points from one composite lymphoma. We found genomic
+  heterogeneity in both cases, supporting the theory of competing subclones in the
+  evolution and progression of extranodal marginal zone B-cell lymphoma.
+authors: Flossbach L, Holzmann K, Mattfeldt T, Buck M, Lanz K, Held M, Moller P and
+  Barth TF.
+cancertypes:
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: ncit:C8863
+  term_label: Nodal Marginal Zone Lymphoma
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: pgx:icdom:9699_3
+  term_label: Marginal zone B-cell lymphoma, NOS
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: snmi:M-96993
+  term_label: Marginal zone B-cell lymphoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 28
+  samples_acgh: 28
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22890838
+- geo:GSE36311
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Int J Cancer (2013) 132: E116-27.'
+label: 'Flossbach et al. (2013): High-resolution genomic profiling reveals clonal
+  evolution and competition in gastrointestinal ...'
+notes: ~
+pmid: 22890838
+title: High-resolution genomic profiling reveals clonal evolution and competition
+  in gastrointestinal marginal zone B-cell lymphoma and its large cell variant.
+year: 2013

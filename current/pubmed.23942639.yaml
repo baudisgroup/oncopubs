@@ -1,0 +1,75 @@
+---
+abstract: We report a rare case of peripheral T-cell lymphoma arising in a 52-year-old
+  man with biopsy-proven aggressive polymyositis, who had cardiac involvement, progressive
+  bulbar symptoms, and died 11 months post diagnosis due to multiorgan failure. Using
+  a multimodality approach including immunohistochemistry, genome-wide single nucleotide
+  polymorphism SNP -array analysis, and high-throughput sequencing of the complementary
+  determining region 3 CDR3 of T-cell receptor beta TCR genes, our study demonstrates
+  a molecular link between polymyositis and T-cell lymphoma, and provides evidence
+  of the rapid and possibly late occurrence of genomic instability during neoplastic
+  transformation of an oligoclonal T-cell population. Immunohistochemical analysis
+  revealed loss of CD5, CD7, and CD8 antigen expression in autopsy tissue samples,
+  as well as the occurrence of aberrant CD56 expression, not seen in pre-mortem biopsies,
+  supporting the emergence of a neoplastic T-cell population. Multiplex polymerase
+  chain reaction and next-generation sequencing of the TCR CDR3 region displayed two
+  unique T-cell clones in both the diagnostic biopsy confirming polymyositis and the
+  autopsy muscle tissue exhibiting T-cell lymphoma, linking the two pathological processes.
+  SNP-array analysis revealed complex genomic abnormalities at autopsy but not in
+  the pre-mortem muscle biopsies displaying polymyositis, confirming malignant transformation
+  of the oligoclonal T-cell infiltrate. Our findings raise the possibility that clinically
+  aggressive polymyositis might represent a preneoplastic condition in some instances,
+  similar to certain other autoimmune and inflammatory disorders.
+authors: Tsankova NM, Bevan C, Jobanputra V, Ko YC, Mayer EW, Lefkowitch JH, Mansukhani
+  M, Rowland LP, Bhagat G and Tanji K.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:NA
+  term_label: ~
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C44
+  term_label: skin
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:NA
+  term_label: NA
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-NA
+  term_label: ~
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23942639
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Acta Neuropathol (2013).
+label: 'Tsankova et al. (2013): Peripheral T-cell lymphoma emerging in a patient with
+  aggressive polymyositis: molecular ...'
+notes: ~
+pmid: 23942639
+title: 'Peripheral T-cell lymphoma emerging in a patient with aggressive polymyositis:
+  molecular evidence for neoplastic transformation of an oligoclonal T-cell infiltrate.'
+year: 2013

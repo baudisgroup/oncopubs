@@ -1,0 +1,48 @@
+---
+abstract: Copy number variations CNVs have been shown to contribute substantially
+  to disease susceptibility in several inherited diseases including cancer. We conducted
+  a genome-wide search for CNVs in blood-derived DNA from 79 individuals 62 melanoma
+  patients and 17 spouse controls of 30 high-risk melanoma-prone families without
+  known segregating mutations using genome-wide comparative genomic hybridization
+  CGH tiling arrays. We identified a duplicated region on chromosome 4q13 in germline
+  DNA of all melanoma patients in a melanoma-prone family with three affected siblings.
+  We confirmed the duplication using quantitative PCR and a custom-made CGH array
+  design spanning the 4q13 region. The duplicated region contains 10 genes, most of
+  which encode CXC chemokines. Among them, CXCL1 melanoma growth-stimulating activity  and
+  IL8 interleukin 8 have been shown to stimulate melanoma growth in vitro and in vivo.
+  Our data suggest that the alteration of CXC chemokine genes may confer susceptibility
+  to melanoma.
+authors: Yang XR, Brown K, Landi MT, Ghiorzo P, Badenas C, Xu M, Hayward NK, Calista
+  D, Landi G, Bruno W, Bianchi-Scarra G, Aguilera P, Puig S, Goldstein AM and Tucker
+  MA.
+cancertypes: []
+contact:
+  email: ~
+  name: Xiaohong Yang
+counts:
+  biosamples: 62
+  samples_acgh: 62
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22225770
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Pigment Cell Melanoma Res (2012)
+label: 'Yang et al. (2012): Duplication of Cxc Chemokine Genes on Chromosome 4q13
+  in a Melanoma-Prone Family.'
+notes: ~
+pmid: 22225770
+title: Duplication of Cxc Chemokine Genes on Chromosome 4q13 in a Melanoma-Prone Family.
+year: 2012

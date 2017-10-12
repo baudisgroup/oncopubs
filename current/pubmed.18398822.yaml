@@ -1,0 +1,53 @@
+---
+abstract: We have used a combination of gene expression profiling, array comparative
+  genomic hybridization aCGH , fluorescent in situ hybridization FISH and tissue microarrays
+  TMAs to investigate chromosome 11 genetic changes in subsets of benign parathyroid
+  tumors. Integration of gene expression profiling and aCGH was done using differential
+  gene locus mapping analysis. We have identified three distinct relatively common
+  chromosome 11 genomic changes in various subsets of parathyroid tumors. The simplest
+  and least common of these genomic changes involves translocation of the CCND1 gene
+  with subsequent strong CCND1 expression. This genetic change is essentially limited
+  to parathyroid adenomas 8 , although expression of CCND1 without translocation is
+  common in uremic hyperparathyroidism. Not surprisingly, deletion of the MEN1 locus
+  at 11q13 or loss of a large portion or an entire chromosome 11 was a common finding.
+  This particular genomic change appears to have a prominent effect on the overall
+  results of gene expression profiling and was present in slightly less than one-half
+  of adenomas. Genomic changes in primary nonfamilial hyperplasia were for the most
+  part restricted to 11q13 deletion or loss of chromosome 11. The third genomic change
+  we identified was 11q23 deletion. This genetic change was relatively independent
+  of other chromosome 11 changes and present in slightly less than one-half of adenomas.
+  11q23 deletion along with relatively strong CCND1 expression was common in uremic
+  hyperparathyroidism.
+authors: Yi Y, Nowak NJ, Pacchia AL and Morrison C.
+cancertypes: []
+contact:
+  email: carl.morrison@roswellpark.org
+  name: Carl Morrison
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18398822
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.78
+    - 36.17
+    type: Point
+  info:
+    city: Nashville
+    continent: North America
+    country: United States
+    label: Nashville, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 8 (2008): 639-48.'
+label: 'Yi et al. (2008): Chromosome 11 Genomic Changes in Parathyroid Adenoma and
+  Hyperplasia: Array Cgh, Fish, and Tissue ...'
+notes: ~
+pmid: 18398822
+title: 'Chromosome 11 Genomic Changes in Parathyroid Adenoma and Hyperplasia: Array
+  Cgh, Fish, and Tissue Microarrays.'
+year: 2008

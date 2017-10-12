@@ -1,0 +1,69 @@
+---
+abstract: Olfactory neuroblastoma esthesioneuroblastoma is a very rare tumour of the
+  olfactory mucosa. Morphological features and cytogenetic studies strongly suggest
+  a neuro-ectodermal origin. Up to now, cytogenetic studies are inconsistent. Some
+  of them have proposed that the tumour belongs to the pPNET family. In the present
+  study we describe genomic imbalances in olfactory neuroblastoma in a 46-year-old
+  woman by using the molecular cytogenetic technique--comparative genomic hybridization
+  CGH --in order to define the spectrum of genetic abnormalities in the tumour. The
+  anatomical location and morphological findings were the basis for the diagnosis
+  of esthesionearoblastoma. Immunohistochemical reactions for NSE, synaptophysin,
+  chromogranin A, HNK-1 Leu-7 and S-100 revealed a characteristic immunophenotype.
+  The CGH analysis showed multiple changes including DNA overrepresentations of chromosomes
+  4, 8, 11 and 14, partial DNA gains of the long arms of chromosomes 1 and 17, deletions
+  of the entire chromosomes 16, 18, 19 and X, and partial losses of chromosomes 5q
+  and 17p. This study represents an early utilisation of the CGH technique in olfactory
+  neuroblastoma and demonstrates that the tumour carries complex chromosomal aberrations.
+authors: Szymas J, Wolf G, Kowalczyk D, Nowak S and Petersen I.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3789
+  term_label: Olfactory Neuroblastoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9522_3
+  term_label: Olfactory neuroblastoma
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C72.9
+  term_label: Nervous system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:31040
+  term_label: Cranial Nerves Other Nervous System
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-95223
+  term_label: Olfactory neuroblastoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9351988
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: Europe
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: 'Acta Neurochir (Wien) 139, 9 (1997): 839-44.'
+label: 'Szymas et al. (1997): Olfactory Neuroblastoma: Detection of Genomic Imbalances
+  By Comparative Genomic ...'
+notes: ~
+pmid: 9351988
+title: 'Olfactory Neuroblastoma: Detection of Genomic Imbalances By Comparative Genomic
+  Hybridization.'
+year: 1997

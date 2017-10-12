@@ -1,0 +1,53 @@
+---
+abstract: Classical and molecular cytogenetic analysis, including fluorescence in
+  situ hybridization FISH and chromosomal comparative genomic hybridization CGH ,
+  were used to examine genetic changes involved in the development and or progression
+  of oral squamous cell carcinoma OSCC . Of 31 OSCC cell lines studied, more than
+  one-third expressed clonal structural abnormalities involving chromosomes 3, 7,
+  8, 9, and 11. Eleven OSCC cell lines were evaluated using CGH to identify novel
+  genome-wide gains, losses, or amplifications. By CGH, more than half of the cell
+  lines showed loss of 3p, gain of 3q, 8q, and 20q. Further, molecular cytogenetic
+  analyses by FISH of primary tumors showed that the karyotypes of cell lines derived
+  from those tumors correlated with specific gains and losses in the tumors from which
+  they were derived. The most frequent nonrandom aberration identified by both karyotype
+  and CGH analyses was amplification of chromosomal band 11q13 in the form of a homogeneously
+  staining region. Our data suggest that loss of 9p and 11q13 amplification may be
+  of prognostic benefit in the management of OSCC, which is consistent with the literature.
+  The results of this study validate the relationship between these OSCC cell lines
+  and the tumors from which they were derived. The results also emphasize the usefulness
+  of these cell lines as in vitro experimental models and provide important genetic
+  information on these OSCC cell lines that were recently reported in this journal.
+authors: Martin CL, Reshmi SC, Ried T, Gottberg W, Wilson JW, Reddy JK, Khanna P,
+  Johnson JT, Myers EN and Gollin SM.
+cancertypes: []
+contact:
+  email: sgollin@hgen.pitt.edu
+  name: Susanne M. Gollin
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 31
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17681875
+geo_data:
+  geo_json:
+    coordinates:
+    - -80
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: North America
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: 'Oral Oncol 44, 4 (2008): 369-82.'
+label: 'Martin et al. (2008): Chromosomal Imbalances in Oral Squamous Cell Carcinoma:
+  Examination of 31 Cell Lines and Review of ...'
+notes: The data is presented as compound karyotype.
+pmid: 17681875
+title: 'Chromosomal Imbalances in Oral Squamous Cell Carcinoma: Examination of 31
+  Cell Lines and Review of the Literature.'
+year: 2008

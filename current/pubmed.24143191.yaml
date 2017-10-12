@@ -1,0 +1,78 @@
+---
+abstract: 'BACKGROUND: The accurate prognosis definition to tailor treatment for early
+  luminal invasive breast carcinoma patients remains challenging. MATERIALS AND METHODS:
+  Two hundred fourteen early luminal breast carcinomas were genotyped with single
+  nucleotide polymorphisms (SNPs) array to determine the number of chromosomal breakpoints
+  as a marker of genomic instability. Proliferation was assessed by KI67 (immunohistochemistry)
+  and genomic grade index (transcriptomic analysis). IHC3 (IHC4 score for HER2 negative
+  tumors) was also determined. RESULTS: In the training set (109 cases), the optimal
+  cut-off was 34 breakpoints with a specificity of 0.94 and a sensitivity of 0.57
+  (Area under the curve (AUC): 0.81[0.71; 0.91]). In the validation set (105 cases),
+  the outcome of patients with > 34 breakpoints (11 events / 22 patients) was poorer
+  (logrank test p < 0.001; Relative Risk (RR): 3.7 [1.73; 7.92]), than that of patients
+  with < 34 breakpoints (19 events / 83 patients).Whereas genomic grade and KI67 had
+  a significant prognostic value in univariate analysis in contrast to IHC3 that failed
+  to have a statistical significant prognostic value in this series, the number of
+  breakpoints remained the only significant parameter predictive of outcome (RR: 3.47,
+  Confidence Interval (CI [1.29; 9.31], p = 0.014)) in multivariate analysis . CONCLUSION:
+  Genomic instability, defined herein as a high number of chromosomal breakpoints,
+  in early stage luminal breast carcinoma is a stronger prognostic marker than proliferation.'
+authors: Vincent-Salomon A, Benhamo V, Gravier E, Rigaill G, Gruel N, Robin S, de
+  Rycke Y, Mariani O, Pierron G, Gentien D, Reyal F, Cottu P, Fourquet A, Rouzier
+  R, Sastre-Garau X, Delattre O.
+cancertypes:
+- samples_arraymap: 214
+  samples_progenetix: ~
+  term_id: ncit:C4017
+  term_label: Ductal Breast Carcinoma
+- samples_arraymap: 214
+  samples_progenetix: ~
+  term_id: pgx:icdom:8500_3
+  term_label: Infiltrating duct carcinoma, NOS
+- samples_arraymap: 214
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 214
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 214
+  samples_progenetix: ~
+  term_id: snmi:M-85003
+  term_label: Infiltrating duct carcinoma, NOS
+contact:
+  email: anne.salomon@curie.net
+  name: Anne Vincent-Salomon
+counts:
+  biosamples: 214
+  samples_acgh: 214
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24143191
+- geo:GSE48064
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: PLoS ONE 8(10), 2013
+label: ' (2013): '
+notes: ~
+pmid: 24143191
+title: 'Genomic instability: a stronger prognostic marker than proliferation for early
+  stage luminal breast carcinomas.'
+year: 2013

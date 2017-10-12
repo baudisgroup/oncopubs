@@ -1,0 +1,47 @@
+---
+abstract: Accumulated understanding of the molecular networks in the state of oncogene
+  addiction, i.e., the amp quot Achilles heel of cancer, amp quot has led to the development
+  of novel targeted therapies. Using genome-wide gene expression and network analysis,
+  we have identified amp quot Aurora kinase B amp quot as a unique molecule to predict
+  the lethal recurrence of hepatocellular carcinoma HCC even after curative hepatectomy.
+  Comparative genomic hybridization CGH -array analysis revealed the genomic instability
+  was closely related to Aurora kinase B expression in HCC. Then, we analyzed the
+  in vitro and in vivo effects of a selective inhibitor of Aurora kinase B on human
+  HCC cells. Treatment with Aurora B inhibitor in vitro resulted in polyploidy and
+  apoptotic cell death. The growth of orthotopic liver tumors was significantly suppressed
+  by the Aurora B inhibitor. Our preclinical studies indicate that Aurora kinase B
+  is a promising molecular target amp quot Achilles heel amp quot for the treatment
+  of aggressive HCC.
+authors: Tanaka S and Arii S.
+cancertypes: []
+contact:
+  email: ~
+  name: Shinji Tanaka
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19941009
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'J Hepatobiliary Pancreat Sci 17, 4 (2010): 413-19.'
+label: 'Tanaka et al. (2010): Medical Treatments: In Association Or Alone, Their Role
+  and Their Future Perspectives: Novel ...'
+notes: ~
+pmid: 19941009
+title: 'Medical Treatments: In Association Or Alone, Their Role and Their Future Perspectives:
+  Novel Molecular-Targeted Therapy for Hepatocellular Carcinoma.'
+year: 2010

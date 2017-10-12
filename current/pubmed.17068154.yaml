@@ -1,0 +1,50 @@
+---
+abstract: CD4+CD56+ hematodermic neoplasm (CD4+CD56+HN) is an aggressive hematopoietic
+  malignancy with distinct clinicopathologic and immunophenotypic features that commonly
+  involve the skin, bone marrow, and blood. Differentiation from cutaneous myelomonocytic
+  leukemia (c-AML) may be exceedingly difficult and requires extensive phenotyping.
+  The molecular mechanisms involved in the development of CD4+CD56+HN are largely
+  unresolved. Moreover, recurrent chromosomal alterations have not yet been precisely
+  defined in CD4+CD56+HN and c-AML. In the present study an integrated genomic analysis
+  using expression profiling and array-based comparative genomic hybridization (CGH)
+  was performed on lesional skin biopsy samples of patients with CD4+CD56+HN and c-AML.
+  Our results demonstrate that CD4+CD56+HN and c-AML show distinct gene-expression
+  profiles and distinct patterns of chromosomal aberrations. CD4+CD56+HN is characterized
+  by recurrent deletion of regions on chromosome 4 (4q34), chromosome 9 (9p13-p11
+  and 9q12-q34), and chromosome 13 (13q12-q31) that contain several tumor suppressor
+  genes with diminished expression (Rb1, LATS2). Elevated expression of the oncogenes
+  HES6, RUNX2, and FLT3 was found but was not associated with genomic amplification.
+  We noted high expression of various plasmacytoid dendritic-cell (pDC)-related genes,
+  pointing to the cell of origin of this malignancy.
+authors: Dijkman R, van Doorn R, Szuhai K, Willemze R, Vermeer MH and Tensen CP
+cancertypes: []
+contact:
+  email: c.p.tensen@lumc.nl
+  name: Cornelius P Tensen
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17068154
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: Blood 109(4), 2007
+label: 'Dijkman R et al. (2007): '
+notes: ~
+pmid: 17068154
+title: Gene-expression profiling and array-based CGH classify CD4+CD56+ hematodermic
+  neoplasm and cutaneous myelomonocytic leukemia as distinct disease entities.
+year: 2007

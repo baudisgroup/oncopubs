@@ -1,0 +1,74 @@
+---
+abstract: Chromosomal abnormalities are important for the classification and risk
+  stratification of patients with acute lymphoblastic leukemia ALL . However, approximately
+  30 of childhood and 50 of adult patients lack abnormalities with clinical relevance.
+  Here, we describe the use of array-based comparative genomic hybridization aCGH
+  to identify copy number alterations CNA in 58 ALL patients. CNA were identified
+  in 83 of cases, and most frequently involved chromosomes 21 n 42 , 9 n 21 , 6 n
+  16 , 12 n 11 , 15 n 11 , 8 n 10 and 17 n 10 . Deletions of 6q del 6q were heterogeneous
+  in size, in agreement with previous data, demonstrating the sensitivity of aCGH
+  to measure CNA. Although 9p deletions showed considerable variability in both the
+  extent and location, all encompassed the CDKN2A locus. Six patients showed del 12p
+  , with a common region encompassing the ETV6 gene. Complex CNA were observed involving
+  chromosomes 6 n 2 , 15 n 2 and 21 n 11 with multiple regions of loss and gain along
+  each chromosome. Chromosome 21 CNA shared a common region of gain, with associated
+  subtelomeric deletions. Other recurrent findings included dim 13q , dim 16q and
+  enh 17q . This is the first report of genome-wide detection of CNA in ALL patients
+  using aCGH, and it has demonstrated a higher level of karyotype complexity than
+  anticipated from conventional cytogenetic analysis.
+authors: Strefford JC, Worley H, Barber K, Wright S, Stewart AR, Robinson HM, Bettney
+  G, van Delft FW, Atherton MG, Davies T, Griffiths M, Hing S, Ross FM, Talley P,
+  Saha V, Moorman AV and Harrison CJ.
+cancertypes:
+- samples_arraymap: 38
+  samples_progenetix: 48
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: 38
+  samples_progenetix: 48
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: 38
+  samples_progenetix: 48
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 38
+  samples_progenetix: 48
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: 38
+  samples_progenetix: 48
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+contact:
+  email: jcs@soton.ac.uk
+  name: J. C. Strefford
+counts:
+  biosamples: 48
+  samples_acgh: 48
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17237825
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: Europe
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: 'Oncogene 26, 29 (2007): 4306-18.'
+label: 'Strefford et al. (2007): Genome Complexity in Acute Lymphoblastic Leukemia
+  is Revealed By Array-Based Comparative ...'
+notes: Here, 48 of the total 58 cases are reported. The other 10 cases were previously
+  published (PMID 16702559).
+pmid: 17237825
+title: Genome Complexity in Acute Lymphoblastic Leukemia is Revealed By Array-Based
+  Comparative Genomic Hybridization.
+year: 2007

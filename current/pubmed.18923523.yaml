@@ -1,0 +1,76 @@
+---
+abstract: Neuroblastoma, a tumour derived from the peripheral sympathetic nervous
+  system, is one of the most frequent solid tumours in childhood. It usually occurs
+  sporadically but familial cases are observed, with a subset of cases occurring in
+  association with congenital malformations of the neural crest being linked to germline
+  mutations of the PHOX2B gene. Here we conducted genome-wide comparative genomic
+  hybridization analysis on a large series of neuroblastomas. Copy number increase
+  at the locus encoding the anaplastic lymphoma kinase ALK tyrosine kinase receptor
+  was observed recurrently. One particularly informative case presented a high-level
+  gene amplification that was strictly limited to ALK, indicating that this gene may
+  contribute on its own to neuroblastoma development. Through subsequent direct sequencing
+  of cell lines and primary tumour DNAs we identified somatic mutations of the ALK
+  kinase domain that mainly clustered in two hotspots. Germline mutations were observed
+  in two neuroblastoma families, indicating that ALK is a neuroblastoma predisposition
+  gene. Mutated ALK proteins were overexpressed, hyperphosphorylated and showed constitutive
+  kinase activity. The knockdown of ALK expression in ALK-mutated cells, but also
+  in cell lines overexpressing a wild-type ALK, led to a marked decrease of cell proliferation.
+  Altogether, these data identify ALK as a critical player in neuroblastoma development
+  that may hence represent a very attractive therapeutic target in this disease that
+  is still frequently fatal with current treatments.
+authors: Janoueix-Lerosey I, Lequin D, Brugieres L, Ribeiro A, de Pontual L, Combaret
+  V, Raynal V, Puisieux A, Schleiermacher G, Pierron G, Valteau-Couanet D, Frebourg
+  T, Michon J, Lyonnet S, Amiel J and Delattre O.
+cancertypes:
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:C3270
+  term_label: Neuroblastoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdom:9500_3
+  term_label: Neuroblastoma, NOS
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:icdot:C47
+  term_label: peripheral nervs incl. autonomous
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: pgx:seer:24000
+  term_label: Soft Tissue including Heart
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: snmi:M-95003
+  term_label: Neuroblastoma, NOS
+contact:
+  email: olivier.delattre@curie.fr
+  name: Olivier Delattre
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18923523
+- geo:GSE12461
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Nature 455, 7215 (2008): 967-70.'
+label: 'Janoueix-Lerosey et al. (2008): Somatic and Germline Activating Mutations
+  of the Alk Kinase Receptor in ...'
+notes: The aCGH data from most cases of this paper was published in PMID 19171713.
+  Here, only one cell line analyzed by SNP is referenced.
+pmid: 18923523
+title: Somatic and Germline Activating Mutations of the Alk Kinase Receptor in Neuroblastoma.
+year: 2008

@@ -23,8 +23,10 @@ abstract: "Recommendations by the International Society of Urologic Pathology an
   five-tiered system."
 authors: Rubin MA, Girelli G, Demichelis F.
 cancertypes:
-- term_id: seer:37000
-  term_label: miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: ~
   name: ~

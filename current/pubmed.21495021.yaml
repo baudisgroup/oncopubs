@@ -1,0 +1,41 @@
+---
+abstract: Osteosarcoma is the most common primary tumor of bone. It is a highly vascular
+  and extremely destructive malignancy that mainly affects children and young adults.
+  The authors conducted microarray-based comparative genomic hybridization aCGH and
+  pathway analyses to gain a systemic view of pathway alterations in the genetically
+  altered genes.
+authors: Yang J, Yang D, Sun Y, Sun B, Wang G, Trent JC, Araujo DM, Chen K and Zhang
+  W.
+cancertypes: []
+contact:
+  email: wzhang@mdanderson.org
+  name: Wei Zhang
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21495021
+- geo:GSE19180
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: Asia
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: 'Cancer 117, 21 (2011): 4925-38.'
+label: 'Yang et al. (2011): Genetic Amplification of the Vascular Endothelial Growth
+  Factor (Vegf) Pathway Genes, Including ...'
+notes: ~
+pmid: 21495021
+title: Genetic Amplification of the Vascular Endothelial Growth Factor (Vegf) Pathway
+  Genes, Including Vegfa, in Human Osteosarcoma.
+year: 2011

@@ -1,0 +1,51 @@
+---
+abstract: Array comparative genomic hybridization aCGH provides a genome-wide technique
+  for identifying chromosomal aberrations in human diseases, including cancer. Chromosomal
+  aberrations in cancers are defined as regions that contain an increased or decreased
+  DNA copy number, relative to normal samples. The identification of genomic regions
+  associated with systematic aberrations provides insights into initiation and progression
+  of cancer, and improves diagnosis, prognosis, and therapy strategies. The McNemar
+  test can be used to detect differentially expressed genes after discretization of
+  gene expressions in a microarray experiment for the matched dataset. In this study,
+  we propose a method to detect significantly altered DNA regions, shifted McNemar
+  test, which is based on the standard McNemar test and takes into account changes
+  in copy number variations and the region size throughout the whole genome. In addition,
+  this novel method can be used to detect genomic regions associated with the progress
+  of oral squamous cell carcinoma OSCC . The performance of the proposed method was
+  evaluated based on the homogeneity within the selected regions and the classification
+  accuracies of the selected regions. This method might be useful for identifying
+  new candidate genes that neighbor known genes based on the whole-genomic variation
+  because it detects significant chromosomal regions, not independent probes.
+authors: Kim KY, Kim J, Kim HJ, Nam W and Cha IH.
+cancertypes: []
+contact:
+  email: cha8764@yuhs.ac
+  name: In-Ho Cha
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20306232
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Med Biol Eng Comput 48, 5 (2010): 459-68.'
+label: 'Kim et al. (2010): A Method for Detecting Significant Genomic Regions Associated
+  With Oral Squamous Cell Carcinoma Using ...'
+notes: ~
+pmid: 20306232
+title: A Method for Detecting Significant Genomic Regions Associated With Oral Squamous
+  Cell Carcinoma Using Acgh.
+year: 2010

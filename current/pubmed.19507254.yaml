@@ -1,0 +1,50 @@
+---
+abstract: A consistent feature of the Hodgkin and Reed-Sternberg HRS cells in classical
+  Hodgkin lymphoma cHL is the constitutive activation of NF-kappaB transcription factors.
+  In Epstein-Barr virus EBV -associated cases of cHL, expression of viral antigens
+  most probably leads to NF-kappaB activation but for non-EBV-associated cases, the
+  mechanism is not clear. Previous small studies have demonstrated deleterious mutations
+  of NFKBIA, the gene encoding IkappaB alpha, in HRS cells. In the present study,
+  we aimed to establish the frequency of NFKBIA mutation in cHL by investigating a
+  larger series of cases and to determine whether these mutations are a characteristic
+  feature of non-EBV-associated cHL. Single HRS cells from 20 cases of cHL were analysed
+  by PCRs covering all 6 exons of the gene. Clonal deleterious mutations were detected
+  in 3 cases and in 1 case both alleles of the gene were shown to harbour mutations.
+  NFKBIA mutations were detected only in non-EBV-associated cases but the majority
+  of these cases had wild-type NFKBIA. It remains possible that defects in genes encoding
+  other inhibitors of NF-kappaB, such as TNFAIP3 A20 and CYLD, are involved in the
+  latter cases, as described for one case in this series.
+authors: Lake A, Shield LA, Cordano P, Chui DT, Osborne J, Crae S, Wilson KS, Tosi
+  S, Knight SJ, Gesk S, Siebert R, Hay RT and Jarrett RF.
+cancertypes: []
+contact:
+  email: ~
+  name: Ruth F Jarrett
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19507254
+geo_data:
+  geo_json:
+    coordinates:
+    - -4.26
+    - 55.87
+    type: Point
+  info:
+    city: Glasgow
+    continent: Europe
+    country: United Kingdom
+    label: Glasgow, United Kingdom, Europe
+    precision: city
+journal: 'Int J Cancer 125, 6 (2009): 1334-42.'
+label: 'Lake et al. (2009): Mutations of Nfkbia, Encoding Ikappab Alpha, Are a Recurrent
+  Finding in Classical Hodgkin Lymphoma ...'
+notes: ~
+pmid: 19507254
+title: Mutations of Nfkbia, Encoding Ikappab Alpha, Are a Recurrent Finding in Classical
+  Hodgkin Lymphoma But Are Not a Unifying Feature of Non-Ebv-Associated Cases.
+year: 2009

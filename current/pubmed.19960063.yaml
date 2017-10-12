@@ -1,0 +1,54 @@
+---
+abstract: Angiogenesis is involved in the pathogenesis of B-cell chronic lymphocytic
+  leukemia CLL , and high microvascular density has been found in CLL to be associated
+  with a poor prognosis. In this study, we assessed serum levels of adiponectin in
+  69 patients with Binet stage A B-CLL, and these values were retrospectively correlated
+  with bone marrow BM microvessel area and serum levels of vascular endothelial growth
+  factor VEGF , fibroblast growth factor-2 FGF-2 , angiogenin, PECAM-1 CD31 , matrix
+  metalloproteinase-9 MMP-9 , interleukin-8 IL-8 , syndecan-1, and the percentage
+  of CD38 or ZAP-70 CLL cells. The positive correlation between serum levels of adiponectin
+  and VEGF P .03 does not translate into an increase of the extent of BM angiogenesis
+  P .404 , FGF-2 P .348 , angiogenin P .402 , and CD31 P .248 serum concentrations.
+  Accordingly, IL-8 P .175 , syndecan-1 P .06 , and MMP-9 P .144 circulating levels
+  were not likely to reflect adiponectin concentration. Furthermore, patients with
+  higher levels of adiponectin had a more favorable biological profile as defined
+  by a lower number of both CD38 - r -0.294 P .02 and ZAP-70  r -0.285 P .04 . Finally,
+  we evaluated the presence of adiponectin in B-CLL cells at gene expression level.
+  RMA intensity values for adiponectin gene transcript denote a homogeneous low expression
+  in B-CLL cells, whereas VEGF transcript was highly expressed with a degree of interpatient
+  variability. Overall, these data seem to indicate that adiponectin could be involved
+  as an antiangiogenic factor in B-CLL.
+authors: Molica S, Digiesi G, Vacca A, Mirabelli R, Todoerti K, Battaglia C, Morabito
+  F, Neri A and Ribatti D.
+cancertypes: []
+contact:
+  email: smolica@libero.it
+  name: Stefano Molica
+counts:
+  biosamples: 69
+  samples_acgh: 69
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19960063
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.6
+    - 38.88
+    type: Point
+  info:
+    city: Catanzaro
+    continent: Europe
+    country: Italy
+    label: Catanzaro, Italy, Europe
+    precision: city
+journal: 'Adv Hematol 2009 (2009): 287974.'
+label: 'Molica et al. (2009): Does Adiponectin Act as an Antiangiogenic Factor in
+  B-Cell Chronic Lymphocytic Leukemia ...'
+notes: ~
+pmid: 19960063
+title: 'Does Adiponectin Act as an Antiangiogenic Factor in B-Cell Chronic Lymphocytic
+  Leukemia '
+year: 2009

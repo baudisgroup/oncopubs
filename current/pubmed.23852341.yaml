@@ -1,0 +1,76 @@
+---
+abstract: The B cell-specific transcription factor BACH2 is required for affinity
+  maturation of B cells. Here we show that Bach2-mediated activation of p53 is required
+  for stringent elimination of pre-B cells that failed to productively rearrange immunoglobulin
+  VH-DJH gene segments. After productive VH-DJH gene rearrangement, pre-B cell receptor
+  signaling ends BACH2-mediated negative selection through B cell lymphoma 6 (BCL6)-mediated
+  repression of p53. In patients with pre-B acute lymphoblastic leukemia, the BACH2-mediated
+  checkpoint control is compromised by deletions, rare somatic mutations and loss
+  of its upstream activator, PAX5. Low levels of BACH2 expression in these patients
+  represent a strong independent predictor of poor clinical outcome. In this study,
+  we demonstrate that Bach2(+/+) pre-B cells resist leukemic transformation by Myc
+  through Bach2-dependent upregulation of p53 and do not initiate fatal leukemia in
+  transplant-recipient mice. Chromatin immunoprecipitation sequencing and gene expression
+  analyses carried out by us revealed that BACH2 competes with BCL6 for promoter binding
+  and reverses BCL6-mediated repression of p53 and other cell cycle checkpoint-control
+  genes. These findings identify BACH2 as a crucial mediator of negative selection
+  at the pre-B cell receptor checkpoint and a safeguard against leukemogenesis.
+authors: Swaminathan S, Huang C, Geng H, Chen Z, Harvey R, Kang H, Ng C, Titz B, Hurtz
+  C, Sadiyah MF, Nowak D, Thoennissen GB, Rand V, Graeber TG, Koeffler HP, Carroll
+  WL, Willman CL, Hall AG, Igarashi K, Melnick A, Mï¿½schen M.
+cancertypes:
+- samples_arraymap: 64
+  samples_progenetix: ~
+  term_id: ncit:C3167
+  term_label: Acute Lymphoblastic Leukemia
+- samples_arraymap: 64
+  samples_progenetix: ~
+  term_id: pgx:icdom:9835_3
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+- samples_arraymap: 64
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 64
+  samples_progenetix: ~
+  term_id: pgx:seer:35011
+  term_label: Acute Lymphocytic Leukemia
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 64
+  samples_progenetix: ~
+  term_id: snmi:M-98353
+  term_label: Precursor cell lymphoblastic leukemia, NOS
+contact:
+  email: markus.muschen@ucsf.edu
+  name: Markus Muschen
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23852341
+- geo:GSE43060
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Nat. Med. 19(8), 2013
+label: ' (2013): '
+notes: ~
+pmid: 23852341
+title: BACH2 mediates negative selection and p53-dependent tumor suppression at the
+  pre-B cell receptor checkpoint.
+year: 2013

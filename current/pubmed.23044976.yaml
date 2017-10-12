@@ -1,0 +1,78 @@
+---
+abstract: Primary plasma cell leukemia pPCL is a rare, yet aggressive form of de novo
+  plasma cell tumor, distinct from secondary PCL sPCL which represents a leukemic
+  transformation of pre-existing multiple myeloma MM . Herein, we performed a comprehensive
+  molecular analysis of a prospective series of pPCLs by means of FISH, single nucleotide
+  polymorphism SNP array and gene expression profiling GEP . IGH translocations were
+  identified in 87 of pPCL cases, with prevalence of t 11 14 40 and t 14 16 30.5 ,
+  whereas the most frequent numerical alterations involved 1p 38 , 1q 48 , 6q 29 ,
+  8p 42 , 13q 74 , 14q 71 , 16q 53 , and 17p 35 . We identified a minimal biallelic
+  deletion 1.5 Mb in 8p21.2 encompassing the PPP2R2A gene, belonging to a family of
+  putative tumor suppressors and found to be significantly down-regulated in deleted
+  cases. Mutations of TP53 were identified in four cases, all but one associated with
+  a monoallelic deletion of the gene, whereas activating mutations of the BRAF oncogene
+  occurred in one case and were absent in N- and K-RAS. To evaluate the influence
+  of allelic imbalances in transcriptional expression we performed an integrated genomic
+  analysis with GEP data, showing a significant dosage effect of genes involved in
+  transcription, translation, methyltransferase activity, apoptosis as well as Wnt
+  and NF-kB signaling pathways. Overall, we provide a compendium of genomic alterations
+  in a prospective series of pPCLs which may contribute to improve our understanding
+  of the pathogenesis of this aggressive form of plasma cell dyscrasia and the mechanisms
+  of tumor progression in MM.
+authors: Mosca L, Musto P, Todoerti K, Barbieri M, Agnelli L, Fabris S, Tuana G, Lionetti
+  M, Bonaparte E, Sirchia SM, Grieco V, Bianchino G, DAuria F, Statuto T, Mazzoccoli
+  C, De Luca L, Petrucci MT, Morabito F, Offidani M, Di Raimondo F, Falcone A, Caravita
+  T, Omede P, Boccadoro M, Palumbo A and Neri A.
+cancertypes:
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: ncit:C3180
+  term_label: Plasma Cell Leukemia
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdom:9733_3
+  term_label: Plasma cell leukemia
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:seer:35043
+  term_label: Aleukemic, subleukemic and NOS
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: snmi:M-97333
+  term_label: Plasma cell leukemia
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 17
+  samples_acgh: 17
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23044976
+- geo:GSE39380
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: 'Am J Hematol (2013) 88: 16-23.'
+label: 'Mosca et al. (2013): Genome-wide analysis of primary plasma cell leukemia
+  identifies recurrent imbalances associated ...'
+notes: ~
+pmid: 23044976
+title: Genome-wide analysis of primary plasma cell leukemia identifies recurrent imbalances
+  associated with changes in transcriptional profiles.
+year: 2013

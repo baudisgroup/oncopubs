@@ -1,0 +1,112 @@
+---
+abstract: 'Recent developments in genomic technologies have resulted in increased
+  understanding of pathogenic mechanisms and emphasized the importance of central
+  survival pathways. Here, we use a novel bioinformatic based integrative genomic
+  profiling approach to elucidate conserved mechanisms of lymphomagenesis in the three
+  commonest non-Hodgkins lymphoma NHL entities: diffuse large B-cell lymphoma, follicular
+  lymphoma, and B-cell chronic lymphocytic leukemia. By integrating genome-wide DNA
+  copy number analysis and transcriptome profiling of tumor cohorts, we identified
+  genetic lesions present in each entity and highlighted their likely target genes.
+  This revealed a significant enrichment of components of both the apoptosis pathway
+  and the mitogen activated protein kinase pathway, including amplification of the
+  MAP3K12 locus in all three entities, within the set of genes targeted by genetic
+  alterations in these diseases. Furthermore, amplification of 12p13.33 was identified
+  in all three entities and found to target the FOXM1 oncogene. Amplification of FOXM1
+  was subsequently found to be associated with an increased MYC oncogenic signaling
+  signature, and siRNA-mediated knock-down of FOXM1 resulted in decreased MYC expression
+  and induced G2 arrest. Together, these findings underscore genetic alteration of
+  the MAPK and apoptosis pathways, and genetic amplification of FOXM1 as conserved
+  mechanisms of lymphomagenesis in common NHL entities. Integrative genomic profiling
+  identifies common central survival mechanisms and highlights them as attractive
+  targets for directed therapy.'
+authors: Green MR, Aya-Bonilla C, Gandhi MK, Lea RA, Wellwood J, Wood P, Marlton P
+  and Griffiths LR.
+cancertypes:
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: ncit:C3163
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 19
+  samples_progenetix: 11
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- samples_arraymap: 20
+  samples_progenetix: ~
+  term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- samples_arraymap: 20
+  samples_progenetix: 12
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: 19
+  samples_progenetix: 11
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: pgx:icdom:9823_3
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+- samples_arraymap: 27
+  samples_progenetix: 11
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 23
+  samples_progenetix: 23
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 39
+  samples_progenetix: 23
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: pgx:seer:35012
+  term_label: Chronic Lymphocytic Leukemia
+- samples_arraymap: 20
+  samples_progenetix: 12
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: 19
+  samples_progenetix: 11
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 11
+  samples_progenetix: 11
+  term_id: snmi:M-98233
+  term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 48
+  samples_acgh: 48
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21305641
+- geo:GSE22082
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.05
+    - -27.55
+    type: Point
+  info:
+    city: Nathan
+    continent: Australia
+    country: Australia
+    label: Nathan, Australia, Australia
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 5 (2011): 313-26.'
+label: 'Green et al. (2011): Integrative Genomic Profiling Reveals Conserved Genetic
+  Mechanisms for Tumorigenesis in Common ...'
+notes: ~
+pmid: 21305641
+title: Integrative Genomic Profiling Reveals Conserved Genetic Mechanisms for Tumorigenesis
+  in Common Entities of Non-Hodgkins Lymphoma.
+year: 2011

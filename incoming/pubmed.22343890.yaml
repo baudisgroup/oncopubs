@@ -21,17 +21,29 @@ authors: Wu X, Northcott PA, Dubuc A, Dupuy AJ, Shih DJ, Witt H, Croul S, Bouffe
   K, MacDonald TJ, Koster J, McCabe MG, Sarver AL, Collins VP, Weiss WA, Largaespada
   DA, Collier LS, Taylor MD.
 cancertypes:
-- term_id: ncit:C3222
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: ncit:C3222
   term_label: Medulloblastoma
-- term_id: pgx:icdom:9470_3
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdom:9470_3
   term_label: Medulloblastoma, NOS
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:seer:31010
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: seer:37000
-  term_label: miscellaneous
-- term_id: snmi:M-94703
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: snmi:M-94703
   term_label: Medulloblastoma, NOS
 contact:
   email: mdtaylor@sickkids.ca

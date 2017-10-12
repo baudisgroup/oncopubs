@@ -1,0 +1,44 @@
+---
+abstract: To identify somatic mutations in pediatric diffuse intrinsic pontine glioma
+  (DIPG), we performed whole-genome sequencing of DNA from seven DIPGs and matched
+  germline tissue and targeted sequencing of an additional 43 DIPGs and 36 non-brainstem
+  pediatric glioblastomas (non-BS-PGs). We found that 78% of DIPGs and 22% of non-BS-PGs
+  contained a mutation in H3F3A, encoding histone H3.3, or in the related HIST1H3B,
+  encoding histone H3.1, that caused a p.Lys27Met amino acid substitution in each
+  protein. An additional 14% of non-BS-PGs had somatic mutations in H3F3A causing
+  a p.Gly34Arg alteration.
+authors: Wu G, Broniscer A, McEachron TA, Lu C, Paugh BS, Becksfort J, Qu C, Ding
+  L, Huether R, Parker M, Zhang J, Gajjar A, Dyer MA, Mullighan CG, Gilbertson RJ,
+  Mardis ER, Wilson RK, Downing JR, Ellison DW, Zhang J and Baker SJ
+cancertypes: []
+contact:
+  email: suzanne.baker@stjude.org
+  name: Suzanne J Baker
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 7
+external_identifiers:
+- pubmed:22286216
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Nat. Genet. 44(3), 2012
+label: 'Wu et al. (): Somatic histone H3 alterations in pediatric diffuse intrinsic
+  pontine gliomas and non-brainstem ...'
+notes: ~
+pmid: 22286216
+title: Somatic histone H3 alterations in pediatric diffuse intrinsic pontine gliomas
+  and non-brainstem glioblastomas.
+year: 2012

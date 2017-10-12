@@ -1,0 +1,40 @@
+---
+abstract: With the improvement of therapeutic options for the treatment of breast
+  cancer, the development of brain metastases has become a major limitation to life
+  expectancy in many patients. Therefore, our aim was to identify molecular markers
+  associated with the development of brain metastases in breast cancer.
+authors: Wikman H, Lamszus K, Detels N, Uslar L, Wrage M, Benner C, Hohensee I, Ylstra
+  B, Eylmann K, Zapatka M, Sauter G, Kemming D, Glatzel M, Muller V, Westphal M and
+  Pantel K.
+cancertypes: []
+contact:
+  email: ~
+  name: Harriet Wikman
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22429330
+- arrayexpress:E-MTAB-354
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.02
+    - 53.58
+    type: Point
+  info:
+    city: Hamburg
+    continent: Europe
+    country: Germany
+    label: Hamburg, Germany, Europe
+    precision: city
+journal: 'Breast Cancer Res 14, 2 (2012): R49.'
+label: 'Wikman et al. (2012): Relevance of Pten Loss in Brain Metastasis Formation
+  of Breast Cancer Patients.'
+notes: ~
+pmid: 22429330
+title: Relevance of Pten Loss in Brain Metastasis Formation of Breast Cancer Patients.
+year: 2012

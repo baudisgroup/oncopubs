@@ -1,0 +1,56 @@
+---
+abstract: ' BACKGROUND: Epidermal Growth Factor (EGF) is a key regulatory growth factor
+  activating many processes relevant to normal development and disease, affecting
+  cell proliferation and survival. Here we use a combined approach to study the EGF
+  dependent transcriptome of HeLa cells by using multiple long oligonucleotide based
+  microarray platforms (from Agilent, Operon, and Illumina) in combination with digital
+  gene expression profiling (DGE) with the Illumina Genome Analyzer. RESULTS: By applying
+  a procedure for cross-platform data meta-analysis based on RankProd and GlobalAncova
+  tests, we establish a well validated gene set with transcript levels altered after
+  EGF treatment. We use this robust gene list to build higher order networks of gene
+  interaction by interconnecting associated networks, supporting and extending the
+  important role of the EGF signaling pathway in cancer. In addition, we find an entirely
+  new set of genes previously unrelated to the currently accepted EGF associated cellular
+  functions. CONCLUSIONS: We propose that the use of global genomic cross-validation
+  derived from high content technologies (microarrays or deep sequencing) can be used
+  to generate more reliable datasets. This approach should help to improve the confidence
+  of downstream in silico functional inference analyses based on high content data.'
+authors: Llorens F, Hummel M, Pastor X, Ferrer A, Pluvinet R, Vivancos A, Castillo
+  E, Iraola S, Mosquera AM, Gonzï¿½lez E, Lozano J, Ingham M, Dohm JC, Noguera M,
+  Kofler R, del Rï¿½o JA, Bayï¿½s M, Himmelbauer H, Sumoy L.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: LSumoy@imppc.org
+  name: Lauro Sumoy
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21699700
+- geo:GSE17403
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: BMC Genomics 12, 2011
+label: ' (2011): '
+notes: Mostly expression, but HeLa genomic arrays too.
+pmid: 21699700
+title: Multiple platform assessment of the EGF dependent transcriptome by microarray
+  and deep tag sequencing analysis.
+year: 2011

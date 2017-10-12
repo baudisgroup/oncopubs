@@ -1,0 +1,48 @@
+---
+abstract: Uveal melanoma UM is the most common primary intraocular tumor in the Western
+  world. Cytogenetically, this tumor is characterized by typical chromosomal aberrations
+  such as loss of 1p, 3, and 6q, and gain of 6p and 8q. Routinely, karyotyping and
+  fluorescent in situ hybridization FISH on fresh tumor-biopsies are used to identify
+  chromosomal changes. In addition, archival UM samples can be examined using comparative
+  genomic hybridization CGH . In the presented study, we used CGH on a series of 46
+  archival uveal melanomas to identify chromosomal changes. In 44 tumors aberrations
+  were present and classic prognostic markers as loss of 1p 12 tumors, 26.1 , monosomy
+  3 26 tumors, 56.5 , loss of 6q 10 tumors, 21.7 , and gain of chromosome arm 8q 27
+  tumors, 58.7 were observed. Gain of chromosome arms 18q or 21q was found in three
+  UMs. Multiplex ligation-dependent probe amplification MLPA , a novel technique in
+  UM, was performed to verify this low number of chromosome 18 and 21 abnormalities,
+  but we could not confirm the previously reported gain of 18q11.2 and 21q11.2 as
+  poor prognostic factors in UM.
+authors: Mensink HW, Kilic E, Vaarwater J, Douben H, Paridaens D and de Klein A.
+cancertypes: []
+contact:
+  email: a.deklein@erasmusmc.nl
+  name: Annelies de Klein
+counts:
+  biosamples: 46
+  samples_acgh: 0
+  samples_ccgh: 46
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18295662
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 181, 2 (2008): 108-11.'
+label: 'Mensink et al. (2008): Molecular Cytogenetic Analysis of Archival Uveal Melanoma
+  With Known Clinical ...'
+notes: ~
+pmid: 18295662
+title: Molecular Cytogenetic Analysis of Archival Uveal Melanoma With Known Clinical
+  Outcome.
+year: 2008

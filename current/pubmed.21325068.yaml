@@ -1,0 +1,38 @@
+---
+abstract: LOH at the p53 locus has been reported to be associated with esophageal
+  squamous cell carcinogenesis. The aim of this study is to identify potential mechanisms
+  resulting in LOH around the p53 locus in its carcinogenesis.
+authors: Saeki H, Kitao H, Yoshinaga K, Nakanoko T, Kubo N, Kakeji Y, Morita M and
+  Maehara Y.
+cancertypes: []
+contact:
+  email: ~
+  name: Hiroshi Saeki
+counts:
+  biosamples: 101
+  samples_acgh: 4
+  samples_ccgh: 101
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21325068
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: 'Clin Cancer Res 17, 7 (2011): 1731-40.'
+label: 'Saeki et al. (2011): Copy-Neutral Loss of Heterozygosity At the P53 Locus
+  in Carcinogenesis of Esophageal Squamous Cell ...'
+notes: ~
+pmid: 21325068
+title: Copy-Neutral Loss of Heterozygosity At the P53 Locus in Carcinogenesis of Esophageal
+  Squamous Cell Carcinomas Associated With P53 Mutations.
+year: 2011

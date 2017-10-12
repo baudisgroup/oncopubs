@@ -1,0 +1,75 @@
+---
+abstract: Medulloblastoma is the most common malignant brain tumor in children. Despite
+  recent improvements in cure rates, prediction of disease outcome remains a major
+  challenge and survivors suffer from serious therapy-related side-effects. Recent
+  data showed that patients with WNT-activated tumors have a favorable prognosis,
+  suggesting that these patients could be treated less intensively, thereby reducing
+  the side-effects. This illustrates the potential benefits of a robust classification
+  of medulloblastoma patients and a detailed knowledge of associated biological mechanisms.
+authors: Kool M, Koster J, Bunt J, Hasselt NE, Lakeman A, van Sluis P, Troost D, Meeteren
+  NS, Caron HN, Cloos J, Mrsic A, Ylstra B, Grajkowska W, Hartmann W, Pietsch T, Ellison
+  D, Clifford SC and Versteeg R.
+cancertypes:
+- samples_arraymap: 39
+  samples_progenetix: 1
+  term_id: ncit:C3222
+  term_label: Medulloblastoma
+- samples_arraymap: 13
+  samples_progenetix: ~
+  term_id: ncit:C4956
+  term_label: Desmoplastic/Nodular Medulloblastoma
+- samples_arraymap: 39
+  samples_progenetix: 1
+  term_id: pgx:icdom:9470_3
+  term_label: Medulloblastoma, NOS
+- samples_arraymap: 13
+  samples_progenetix: ~
+  term_id: pgx:icdom:9471_3
+  term_label: Desmoplastic nodular medulloblastoma
+- samples_arraymap: 52
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.6
+  term_label: cerebellum
+- samples_arraymap: 52
+  samples_progenetix: 1
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 39
+  samples_progenetix: 1
+  term_id: snmi:M-94703
+  term_label: Medulloblastoma, NOS
+- samples_arraymap: 13
+  samples_progenetix: ~
+  term_id: snmi:M-94713
+  term_label: Desmoplastic nodular medulloblastoma
+contact:
+  email: m.kool@amc.uva.nl
+  name: Marcel Kool
+counts:
+  biosamples: 52
+  samples_acgh: 52
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18769486
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'PLoS One 3, 8 (2008): e3088.'
+label: 'Kool et al. (2008): Integrated Genomics Identifies Five Medulloblastoma Subtypes
+  With Distinct Genetic Profiles, Pathway ...'
+notes: ~
+pmid: 18769486
+title: Integrated Genomics Identifies Five Medulloblastoma Subtypes With Distinct
+  Genetic Profiles, Pathway Signatures and Clinicopathological Features.
+year: 2008

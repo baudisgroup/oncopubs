@@ -1,0 +1,123 @@
+---
+abstract: Primary brain tumors are the fourth leading cause of cancer mortality in
+  adults under the age of 54 years and the leading cause of cancer mortality in children
+  in the United States. Therapy for the most common type of primary brain tumors,
+  gliomas, remains suboptimal. The development of new and more effective treatments
+  will likely require a better understanding of the biology of these tumors. Here,
+  we show that use of the high-density 100K single-nucleotide polymorphism arrays
+  in a large number of primary tumor samples allows for a much higher resolution survey
+  of the glioma genome than has been previously reported in any tumor type. We not
+  only confirmed alterations in genomic areas previously reported to be affected in
+  gliomas, but we also refined the location of those sites and uncovered multiple,
+  previously unknown regions that are affected by copy number alterations amplifications,
+  homozygous and heterozygous deletions as well as allelic imbalances loss of heterozygosity
+  gene conversions . The wealth of genomic data produced may allow for the development
+  of a more rational molecular classification of gliomas and serve as an important
+  starting point in the search for new molecular therapeutic targets.
+authors: Kotliarov Y, Steed ME, Christopher N, Walling J, Su Q, Center A, Heiss J,
+  Rosenblum M, Mikkelsen T, Zenklusen JC and Fine HA.
+cancertypes:
+- samples_arraymap: 156
+  samples_progenetix: ~
+  term_id: ncit:C3058
+  term_label: Glioblastoma
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: ncit:C3059
+  term_label: Glioma
+- samples_arraymap: 104
+  samples_progenetix: ~
+  term_id: ncit:C3288
+  term_label: Oligodendroglioma
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: ncit:C4050
+  term_label: Oligoastrocytoma
+- samples_arraymap: 66
+  samples_progenetix: ~
+  term_id: ncit:C7173
+  term_label: Diffuse Astrocytoma
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: pgx:icdom:9380_3
+  term_label: Glioma, malignant
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: pgx:icdom:9382_3
+  term_label: Mixed glioma
+- samples_arraymap: 66
+  samples_progenetix: ~
+  term_id: pgx:icdom:9400_3
+  term_label: Astrocytoma, NOS
+- samples_arraymap: 156
+  samples_progenetix: ~
+  term_id: pgx:icdom:9440_3
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 104
+  samples_progenetix: ~
+  term_id: pgx:icdom:9450_3
+  term_label: Oligodendroglioma, NOS
+- samples_arraymap: 356
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: 'pgx:seer:'
+  term_label: ''
+- samples_arraymap: 349
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
+  term_label: Brain
+- samples_arraymap: 19
+  samples_progenetix: ~
+  term_id: snmi:M-93803
+  term_label: Glioma, malignant
+- samples_arraymap: 11
+  samples_progenetix: ~
+  term_id: snmi:M-93823
+  term_label: Mixed glioma
+- samples_arraymap: 66
+  samples_progenetix: ~
+  term_id: snmi:M-94003
+  term_label: Astrocytoma, NOS
+- samples_arraymap: 156
+  samples_progenetix: ~
+  term_id: snmi:M-94403
+  term_label: Glioblastoma, NOS
+- samples_arraymap: 104
+  samples_progenetix: ~
+  term_id: snmi:M-94503
+  term_label: Oligodendroglioma, NOS
+contact:
+  email: jz44m@nih.gov
+  name: Jean C. Zenklusen
+counts:
+  biosamples: 178
+  samples_acgh: 178
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17018597
+- geo:GSE6109
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 66, 19 (2006): 9428-36.'
+label: 'Kotliarov et al. (2006): High-Resolution Global Genomic Survey of 178 Gliomas
+  Reveals Novel Regions of Copy Number ...'
+notes: ~
+pmid: 17018597
+title: High-Resolution Global Genomic Survey of 178 Gliomas Reveals Novel Regions
+  of Copy Number Alteration and Allelic Imbalances.
+year: 2006

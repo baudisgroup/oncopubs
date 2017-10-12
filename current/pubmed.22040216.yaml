@@ -1,0 +1,51 @@
+---
+abstract: Most high-risk neuroblastomas develop resistance to cytostatics and therefore
+  there is a need to develop new drugs. In previous studies, we found that ellipticine
+  induces apoptosis in human neuroblastoma cells. We also investigated whether ellipticine
+  was able to induce resistance in the UKF-NB-4 neuroblastoma line and concluded that
+  it may be possible after long-term treatment with increasing concentrations of ellipticine.
+  The aim of the present study was to investigate the mechanisms responsible for ellipticine
+  resistance. To elucidate the mechanisms involved, we used the ellipticine-resistant
+  subline UKF-NB-4 ELLI and performed comparative genomic hybridization, multicolor
+  and interphase FISH, expression microarray, real-time RT-PCR, flow cytometry and
+  western blotting analysis of proteins. On the basis of our results, it appears that
+  ellipticine resistance in neuroblastoma is caused by a combination of overexpression
+  of Bcl-2, efflux or degradation of the drug and downregulation of topoisomerases.
+  Other mechanisms, such as upregulation of enzymes involved in oxidative phosphorylation,
+  cellular respiration, V-ATPases, aerobic respiration or spermine synthetase, as
+  well as reduced growth rate, may also be involved. Some changes are expressed at
+  the DNA level, including gains, amplifications or deletions. The present study demonstrates
+  that resistance to ellipticine is caused by a combination of mechanisms.
+authors: Prochazka P, Libra A, Zemanova Z, Hrebackova J, Poljakova J, Hrabeta J, Buncek
+  M, Stiborova M and Eckschlager T.
+cancertypes: []
+contact:
+  email: ~
+  name: Tomas Eckschlager
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22040216
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.42
+    - 50.09
+    type: Point
+  info:
+    city: Prague
+    continent: Europe
+    country: Czech Republic
+    label: Prague, Czech Republic, Europe
+    precision: city
+journal: 'Cancer Sci 103, 2 (2012): 334-41.'
+label: 'Prochazka et al. (2012): Mechanisms of Ellipticine-Mediated Resistance in
+  Ukf-Nb-4 Neuroblastoma Cells.'
+notes: ~
+pmid: 22040216
+title: Mechanisms of Ellipticine-Mediated Resistance in Ukf-Nb-4 Neuroblastoma Cells.
+year: 2012

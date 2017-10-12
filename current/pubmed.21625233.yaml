@@ -1,0 +1,43 @@
+---
+abstract: Despite recent therapeutic improvements, the prognosis for patients suffering
+  from SÃ©zary syndrome (SS), a disseminated form of cutaneous T-cell lymphomas, is
+  still poor. We identified bi- and monoallelic deletions of the tumor necrosis factor-Î±-induced
+  protein 3 gene (TNFAIP3; A20) in a high proportion of SS patients as well as biallelic
+  A20 deletion in the SS-derived cell line SeAx. Furthermore, we demonstrate that
+  inhibition of A20 activates the NF-ÎºB pathway thereby increasing the proliferation
+  of normal T lymphocytes. On the other hand, the reconstitution of A20 expression
+  slowed down the cell cycle in SeAx cells. Recently A20 inactivation has been reported
+  in various B-cell lymphomas. In this study, we show that A20 is also a putative
+  tumor suppressor in the T-cell malignancy-SS.
+authors: Braun FC, Grabarczyk P, Mï¿½bs M, Braun FK, Eberle J, Beyer M, Sterry W,
+  Busse F, Schrï¿½der J, Delin M, Przybylski GK and Schmidt CA
+cancertypes: []
+contact:
+  email: christian.schmidt@uni-greifswald.de
+  name: Christian A Schmidt
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21625233
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.39
+    - 54.09
+    type: Point
+  info:
+    city: Greifswald
+    continent: Europe
+    country: Germany
+    label: Greifswald, Germany, Europe
+    precision: city
+journal: Leukemia 25(9), 2011
+label: 'Braun FC et al. (2011): '
+notes: The array was specific for chromosome 6 (other regions covered?).
+pmid: 21625233
+title: Tumor suppressor TNFAIP3 (A20) is frequently deleted in Sï¿½zary syndrome.
+year: 2011

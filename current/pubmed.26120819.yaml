@@ -1,0 +1,55 @@
+---
+abstract: We identified the genomic signature of ocular adnexal lymphoproliferative
+  disorders (LPDs), especially ocular adnexal mucosa-associated lymphoid tissue (MALT)
+  lymphoma, IgG4-related ophthalmic disease (IgG4-ROD), reactive lymphoid hyperplasia
+  (RLH), and diffuse large B-cell lymphoma (DLBCL).  We included 52 subjects with
+  ocular adnexal LPDs (13 orbital MALT lymphomas, 16 conjunctival MALT lymphomas,
+  13 IgG4-RODs, 4 RLHs, and 6 DLBCLs) who had been treated at the Tokyo Medical University
+  Hospital from 2008 to 2012. Genomic DNA was extracted from the tumor tissues and
+  subjected to high-resolution single nucleotide polymorphism array (SNP-A) karyotyping
+  using GeneChip Human Mapping 250K SNP arrays. The array data were investigated using
+  Copy Number Analysis for GeneChips (CNAG) software.  In ocular adnexal MALT lymphomas,
+  the most frequent copy number (CN) gain region was trisomy 3 detected in 31% (9/29),
+  followed by trisomy 18 in 17% (5/29), and 6p and 21q in 14% (4/29). The most frequent
+  CN loss regions were 6q and 9p, detected in 7% (2/29). Uniparental disomy was detected
+  on 6q in 14% (4/29), followed by 3q in 10% (3/29). Copy number variations (CNVs)
+  were not detected in IgG4-RODs and RLHs. Conversely, CNVs were more frequent in
+  DLBCLs than in ocular adnexal MALT lymphomas. Copy number variations were detected
+  in 77% (10/13) of orbital MALT lymphomas and in 67% (11/16) of conjunctival MALT
+  lymphomas.  High-resolution single nucleotide polymorphism array is a useful method
+  for discriminating ocular adnexal lymphomas from benign LPDs. The differences in
+  the chromosomal abnormality patterns may reflect the activity of ocular adnexal
+  LPDs.
+authors: Takahashi H, Usui Y, Ueda S, Yamakawa N, Sato-Otsubo A, Sato Y, Ogawa S and
+  Goto H
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 52
+  samples_acgh: 52
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26120819
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Invest. Ophthalmol. Vis. Sci. 56(6), 2015
+label: 'Takahashi H et al. (2015): '
+notes: ~
+pmid: 26120819
+title: Genome-Wide Analysis of Ocular Adnexal Lymphoproliferative Disorders Using
+  High-Resolution Single Nucleotide Polymorphism Array.
+year: 2015

@@ -1,0 +1,79 @@
+---
+abstract: 'When compared with other epithelial ovarian cancers, the clinical characteristics
+  of ovarian clear cell adenocarcinoma (CCC) include 1) a higher incidence among Japanese,
+  2) an association with endometriosis, 3) poor prognosis in advanced stages, and
+  4) a higher incidence of thrombosis as a complication. We used high resolution comparative
+  genomic hybridization (CGH) to identify somatic copy number alterations (SCNAs)
+  associated with each of these clinical characteristics of CCC. The Human Genome
+  CGH 244A Oligo Microarray was used to examine 144 samples obtained from 120 Japanese,
+  15 Korean, and nine German patients with CCC. The entire 8q chromosome (minimum
+  corrected p-value: q = 0.0001) and chromosome 20q13.2 including the ZNF217 locus
+  (q = 0.0078) were amplified significantly more in Japanese than in Korean or German
+  samples. This copy number amplification of the ZNF217 gene was confirmed by quantitative
+  real-time polymerase chain reaction (Q-PCR). ZNF217 RNA levels were also higher
+  in Japanese tumor samples than in non-Japanese samples (P = 0.027). Moreover, endometriosis
+  was associated with amplification of EGFR gene (q = 0.047), which was again confirmed
+  by Q-PCR and correlated with EGFR RNA expression. However, no SCNAs were significantly
+  associated with prognosis or thrombosis. These results indicated that there may
+  be an association between CCC and ZNF217 amplification among Japanese patients as
+  well as between endometriosis and EGFR gene amplifications.'
+authors: Okamoto A, Sehouli J, Yanaihara N, Hirata Y, Braicu I, Kim BG, Takakura S,
+  Saito M, Yanagida S, Takenaka M, Yamaguchi N, Morikawa A, Tanabe H, Yamada K, Yoshihara
+  K, Enomoto T, Itamochi H, Kigawa J, Matsumura N, Konishi I, Aida S, Aoki Y, Ishii
+  N, Ochiai K, Akiyama T and Urashima M
+cancertypes:
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: ncit:C8181
+  term_label: Oropharyngeal Squamous Cell Carcinoma
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: pgx:icdot:C10
+  term_label: Oropharynx
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: pgx:seer:20080
+  term_label: Oropharynx
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 225
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: urashima@jikei.ac.jp
+  name: ~
+counts:
+  biosamples: 225
+  samples_acgh: 225
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25658832
+- geo:GSE47443
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: PLoS ONE 10(2), 2015
+label: 'Okamoto A et al. (2015): '
+notes: ~
+pmid: 25658832
+title: Somatic copy number alterations associated with Japanese or endometriosis in
+  ovarian clear cell adenocarcinoma.
+year: 2015

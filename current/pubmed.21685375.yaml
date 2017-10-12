@@ -1,0 +1,107 @@
+---
+abstract: Primary effusion lymphoma PEL is a diffuse-large B-cell lymphoma with poor
+  prognosis. One hundred percent of PELs carry the genome of Kaposi sarcoma-associated
+  herpesvirus and a majority are coinfected with Epstein-Barr virus EBV . We profiled
+  genomic aberrations in PEL cells using the Affymetrix 6.0 SNP array. This identified
+  for the first time individual genes that are altered in PEL cells. Eleven of 13
+  samples 85 were deleted for the fragile site tumor suppressors WWOX and FHIT. Alterations
+  were also observed in the DERL1, ETV1, RASA4, TPK1, TRIM56, and VPS41 genes, which
+  are yet to be characterized for their roles in cancer. Coinfection with EBV was
+  associated with significantly fewer gross genomic aberrations, and PEL could be
+  segregated into EBV-positive and EBV-negative clusters on the basis of host chromosome
+  alterations. This suggests a model in which both host genetic aberrations and the
+  2 viruses contribute to the PEL phenotype.
+authors: Roy D, Sin SH, Damania B and Dittmer DP.
+cancertypes:
+- samples_arraymap: 37
+  samples_progenetix: ~
+  term_id: ncit:C6915
+  term_label: Primary Effusion Lymphoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: ncit:C6917
+  term_label: Atypical Burkitt/Burkitt-Like Lymphoma
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 37
+  samples_progenetix: ~
+  term_id: pgx:icdom:9678_3
+  term_label: Primary effusion lymphoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdom:9687_3
+  term_label: Burkitt lymphoma, NOS
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdot:C09
+  term_label: tonsil
+- samples_arraymap: 37
+  samples_progenetix: ~
+  term_id: pgx:icdot:C38.4
+  term_label: pleura
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 37
+  samples_progenetix: ~
+  term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 37
+  samples_progenetix: ~
+  term_id: snmi:M-96783
+  term_label: Primary effusion lymphoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: snmi:M-96873
+  term_label: Burkitt lymphoma, NOS
+contact:
+  email: ~
+  name: Dirk Dittmer
+counts:
+  biosamples: 49
+  samples_acgh: 49
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21685375
+- geo:GSE25839
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: North America
+    country: United States
+    label: Chapel Hill, United States, North America
+    precision: city
+journal: 'Blood 118, 7 (2011): e32-9.'
+label: 'Roy et al. (2011): Tumor Suppressor Genes Fhit and Wwox Are Deleted in Primary
+  Effusion Lymphoma (Pel) Cell ...'
+notes: ~
+pmid: 21685375
+title: Tumor Suppressor Genes Fhit and Wwox Are Deleted in Primary Effusion Lymphoma
+  (Pel) Cell Lines.
+year: 2011

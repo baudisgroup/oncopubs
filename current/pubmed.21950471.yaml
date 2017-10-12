@@ -1,0 +1,38 @@
+---
+abstract: Field cancerization is an accepted model for oral carcinogenesis. So far,
+  genetically altered fields have been just reported in the presence of carcinomas.
+  This study assessed the distant mirror fields MFs of oral precancer by DNA high-resolution
+  flow cytometry hr DNA-FCM and array-Comparative Genomic Hybridization a-CGH .
+authors: Pentenero M, Donadini A, Di Nallo E, Maffei M, Marino R, Familiari U, Castagnola
+  P, Gandolfo S and Giaretti W.
+cancertypes: []
+contact:
+  email: ~
+  name: Monica Pentenero
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21950471
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.69
+    - 45.07
+    type: Point
+  info:
+    city: Turin
+    continent: Europe
+    country: Italy
+    label: Turin, Italy, Europe
+    precision: city
+journal: 'J Oral Pathol Med 41, 2 (2012): 119-23.'
+label: 'Pentenero et al. (2012): Field Effect in Oral Precancer as Assessed By DNA
+  Flow Cytometry and Array-Cgh.'
+notes: ~
+pmid: 21950471
+title: Field Effect in Oral Precancer as Assessed By DNA Flow Cytometry and Array-Cgh.
+year: 2012

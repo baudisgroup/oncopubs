@@ -1,0 +1,71 @@
+---
+abstract: HL60RG, a subline of human promyelocytic leukemia HL60 cells, has a increased
+  growth rate than their parental cells. To gain information of the mechanisms involved
+  in the increased growth rate of HL60RG, we performed a multiplex fluorescence in
+  situ hybridization M-FISH , standard cytogenetics analysis G-banding and genome
+  scan using 10K SNP mapping array on both cell types. Characteristic genomic alterations
+  in HL60RG cells were identified including uniparental disomy UPD of chromosome 1,
+  and hemizygous deletion in 10p and 11p. However, no such defects were observed in
+  HL60 cells. Changes in gene expression in HL60RG cells were determined using expression
+  arrays Affymetrix GeneChip, HU133A . Candidate genes associated with the rapid growth
+  of HL60RG cells were identified. Two tumor necrosis factor receptors, TNFRSF1B type
+  II tumor necrosis factor- receptor and TNFRSF8 also known as a tumor marker CD30
+  , which are adjacently located on chromosome 1 showed opposing changes in gene expression
+  in HL60RG cells-over-expression of TNFRSF8 and repression of TNFRSF1B. Differences
+  in the DNA methylation status in the transcriptional regulatory regions of both
+  genes between HL60 and HL60RG was detected by a methylation-specific PCR assay.
+  In conclusion, alterations in chromosome and gene expression in HL60RG may be associated
+  with increased growth rate.
+authors: Luan Y, Kogi M, Rajaguru P, Ren J, Yamaguchi T, Suzuki K and Suzuki T.
+cancertypes:
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C3182
+  term_label: Acute Promyelocytic Leukemia with PML-RARA
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:9866_3
+  term_label: Acute promyelocytic leukemia
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:seer:35021
+  term_label: Acute Myeloid Leukemia
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-98663
+  term_label: Acute promyelocytic leukemia
+contact:
+  email: ~
+  name: Takayoshi Suzuki
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22032829
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Mutat Res 731, 1-2 (2012): 20-26.'
+label: 'Luan et al. (2012): Microarray Analysis of Responsible Genes in Increased
+  Growth Rate in the Subline of Hl60 (Hl60Rg) ...'
+notes: ~
+pmid: 22032829
+title: Microarray Analysis of Responsible Genes in Increased Growth Rate in the Subline
+  of Hl60 (Hl60Rg) Cells.
+year: 2012

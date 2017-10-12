@@ -1,0 +1,80 @@
+---
+abstract: Gastroesophageal reflux has recently been implicated as a causative factor
+  in upper aerodigestive tract carcinogenesis. Esophageal squamous cell carcinomas
+  ESCCs have developed in duodenal-content reflux animals without any known carcinogen
+  present. We established a cell line, designated ESCC-DR, from a thoracic metastatic
+  tumor in a reflux animal. To gain insight into the genomic alterations associated
+  with duodenal content reflux-induced carcinogenesis, we first performed comparative
+  genomic hybridization using an Agilent rat 244K array in ESCC-DR and identified
+  many chromosomal gains and losses. Of the many genes identified, we detected an
+  interesting ezrin amplicon that has been recently reported in human ESCC. Ezrin,
+  which cross-links the cytoskeleton and plasma membrane, is involved in the growth
+  and metastatic potential of cancer cells. Overexpression of ezrin protein in ESCC-DR
+  was confirmed by Western blotting. We also compared ezrin protein expression levels
+  and patterns in hyperplastic, dysplastic, ESCC, and metastatic sites developed in
+  two distinct reflux models using immunohistochemistry. Immunohistochemical staining
+  of ezrin revealed overexpression in the nucleus, and the cytoplasm as well as plasma
+  membrane of ESCC cells. Phosphorylated ERM ezrin, radixin, moesin was expressed
+  at the leading edge, or invasive front, of larger metastatic sites. Taken together,
+  duodenal reflux has a great potential for initiating malignancy, and thus likely
+  plays a role in development of ESCC. Ezrin probably influences the growth and invasiveness
+  of ESCC cells, and phosphorylation is only required in metastatic behavior of tumor
+  cells at the leading edge and invasive front.
+authors: Ling ZQ, Mukaisho K, Yamamoto H, Chen KH, Asano S, Araki Y, Sugihara H, Mao
+  WM and Hattori T.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2929
+  term_label: Squamous Cell Carcinoma
+- samples_arraymap: 1
+  samples_progenetix: ~
+  term_id: ncit:C4024
+  term_label: Esophageal Squamous Cell Carcinoma
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdot:C15
+  term_label: esophagus
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:seer:21010
+  term_label: Esophagus
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: mukaisho@belle.shiga-med.ac.jp
+  name: Ken-ichi Mukaisho
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20128822
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: Asia
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Sci 101, 3 (2010): 624-30.'
+label: 'Ling et al. (2010): Initiation of Malignancy By Duodenal Contents Reflux and
+  the Role of Ezrin in Developing Esophageal ...'
+notes: ~
+pmid: 20128822
+title: Initiation of Malignancy By Duodenal Contents Reflux and the Role of Ezrin
+  in Developing Esophageal Squamous Cell Carcinoma.
+year: 2010

@@ -1,0 +1,40 @@
+---
+abstract: In breast cancer, the basal-like subtype has high levels of genomic instability
+  relative to other breast cancer subtypes with many basal-like-specific regions of
+  aberration. There is evidence that this genomic instability extends to smaller scale
+  genomic aberrations, as shown by a previously described micro-deletion event in
+  the PTEN gene in the Basal-like SUM149 breast cancer cell line.
+authors: Chao HH, He X, Parker JS, Zhao W and Perou CM.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 192
+  samples_acgh: 192
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23284754
+- geo:GSE36889
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: North America
+    country: United States
+    label: Chapel Hill, United States, North America
+    precision: city
+journal: 'PLoS One (2012) 7: e51719.'
+label: 'Chao et al. (2012): Micro-scale genomic DNA copy number aberrations as another
+  means of mutagenesis in breast ...'
+notes: ~
+pmid: 23284754
+title: Micro-scale genomic DNA copy number aberrations as another means of mutagenesis
+  in breast cancer.
+year: 2012

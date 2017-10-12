@@ -1,0 +1,94 @@
+---
+abstract: 'Primary diffuse large B-cell lymphomas of different immune-privileged sites
+  IP-DLBCLs share many clinical and biological features, such as a relatively poor
+  prognosis, preferential dissemination to other immune-privileged sites, and deletion
+  of the HLA region, which suggests that IP-DLBCL represents a separate entity. To
+  further investigate the nature of IP-DLBCL, we investigated site-specific genomic
+  aberrations in 16 testicular, nine central nervous system CNS , and 15 nodal DLBCLs
+  using array CGH. We also determined minimal common regions of gain and loss. Using
+  robust algorithms including multiple testing procedures and the ACE-it script, which
+  is specifically designed for this task, the array CGH data were combined with gene
+  expression data to explore pathways deregulated by chromosomal aberrations. Loss
+  of 6p21.32-p25.3, including the HLA genes, was associated with both types of IP-DLBCL,
+  whereas gain of 2p16.1-p25.3 was associated with nodal DLBCL. Gain of 12q15-q21.1
+  and 12q24.32-q24.33 was associated with CNS DLBCL and gain of 19q13.12-q13.43 with
+  testicular DLBCL. Analysis of candidate genes in site-specific regions and minimal
+  common regions revealed two major groups of genes: one involved in the immune response,
+  including regulation of HLA expression, and the other involved in apoptosis, including
+  the p53 pathway. Many of these genes were also involved in homozygous deletions
+  or high-level gains. The presence of both shared and site-specific aberrations in
+  CNS and testicular DLBCLs underlines the concept of IP-DLBCL but also indicates
+  that IP-DLBCLs of the CNS and testis do not form a single entity. The observed aberrations
+  emphasize the importance of the deregulation of anti-tumour immune response and
+  apoptosis pathways.'
+authors: Booman M, Szuhai K, Rosenwald A, Hartmann E, Kluin-Nelemans H, de Jong D,
+  Schuuring E and Kluin P.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: ncit:C4342
+  term_label: Intravascular Large B-Cell Lymphoma
+- samples_arraymap: 40
+  samples_progenetix: ~
+  term_id: ncit:C8851
+  term_label: Diffuse Large B-Cell Lymphoma
+- samples_arraymap: 40
+  samples_progenetix: 40
+  term_id: pgx:icdom:9680_3
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+- samples_arraymap: 16
+  samples_progenetix: 16
+  term_id: pgx:icdot:C62
+  term_label: testis
+- samples_arraymap: 9
+  samples_progenetix: 9
+  term_id: pgx:icdot:C71.9
+  term_label: Brain, NOS
+- samples_arraymap: 15
+  samples_progenetix: 15
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 15
+  samples_progenetix: 15
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 25
+  samples_progenetix: 25
+  term_id: pgx:seer:33042
+  term_label: NHL - Extranodal
+- samples_arraymap: 40
+  samples_progenetix: 40
+  term_id: snmi:M-96803
+  term_label: Malignant lymphoma, large B-cell, diffuse, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18729069
+- geo:GSE10524
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ~
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city [needs verification]
+journal: 'J Pathol 216, 2 (2008): 209-17.'
+label: 'Booman et al. (2008): Genomic Alterations and Gene Expression in Primary Diffuse
+  Large B-Cell Lymphomas of ...'
+notes: ~
+pmid: 18729069
+title: 'Genomic Alterations and Gene Expression in Primary Diffuse Large B-Cell Lymphomas
+  of Immune-Privileged Sites: The Importance of Apoptosis and Immunomodulatory Pathways.'
+year: 2008

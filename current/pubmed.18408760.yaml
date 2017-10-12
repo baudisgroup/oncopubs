@@ -1,0 +1,50 @@
+---
+abstract: Pilocytic astrocytomas PAs, WHO grade I are the most common brain tumors
+  in the pediatric and adolescent population, accounting for approximately one-fifth
+  of central nervous system tumors. Because few consistent molecular alterations have
+  been identified in PAs compared to higher grade gliomas, we performed array comparative
+  genomic hybridization using two independent commercial array platforms. Although
+  whole chromosomal gains and losses were not observed, a 1-Mb amplified region of
+  7q34 was detected in multiple patient samples using both array platforms. Copy-number
+  gain was confirmed in an independent tumor sample set by quantitative PCR, and this
+  amplification was correlated to both increased mRNA and protein expression of HIPK2,
+  a homeobox-interacting protein kinase associated with malignancy, contained within
+  this locus. Furthermore, overexpression of wild-type HIPK2, but not a kinase-inactive
+  mutant, in a glioma cell line conferred a growth advantage in vitro. Collectively,
+  these results illustrate the power and necessity of implementing high-resolution,
+  multiple-platform genomic analyses to discover small and subtle, but functionally
+  significant, genomic alterations associated with low-grade tumor formation and growth.
+authors: Deshmukh H, Yeh TH, Yu J, Sharma MK, Perry A, Leonard JR, Watson MA, Gutmann
+  DH and Nagarajan R.
+cancertypes: []
+contact:
+  email: gutmannd@neuro.wustl.edu
+  name: D.H. Gutmann
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18408760
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ~
+    country: United States
+    label: st.louis, United States
+    precision: city [needs verification]
+journal: 'Oncogene 27, 34 (2008): 4745-51.'
+label: 'Deshmukh et al. (2008): High-Resolution, Dual-Platform Acgh Analysis Reveals
+  Frequent Hipk2 Amplification and Increased ...'
+notes: ~
+pmid: 18408760
+title: High-Resolution, Dual-Platform Acgh Analysis Reveals Frequent Hipk2 Amplification
+  and Increased Expression in Pilocytic Astrocytomas.
+year: 2008

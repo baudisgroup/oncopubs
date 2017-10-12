@@ -1,0 +1,85 @@
+---
+abstract: The development of oral squamous cell carcinoma OSCC is a multistep process
+  that requires the accumulation of genetic alterations. To identify genes responsible
+  for OSCC development, we performed high-density single nucleotide polymorphism array
+  analysis and genome-wide gene expression profiling on OSCC tumors. These analyses
+  indicated that the absent in melanoma 2 AIM2 gene and the interferon-inducible gene
+  16 IFI16 mapped to the hematopoietic interferon-inducible nuclear proteins. The
+  200-amino-acid repeat gene cluster in the amplified region of chromosome 1q23 is
+  overexpressed in OSCC. Both AIM2 and IFI16 are cytoplasmic double-stranded DNA sensors
+  for innate immunity and act as tumor suppressors in several human cancers. Knockdown
+  of AIM2 or IFI16 in OSCC cells results in the suppression of cell growth and apoptosis,
+  accompanied by the downregulation of nuclear factor kappa-light-chain-enhancer of
+  activated B cells activation. Because all OSCC cell lines have reduced p53 activity,
+  wild-type p53 was introduced in p53-deficient OSCC cells. The expression of wild-type
+  p53 suppressed cell growth and induced apoptosis via suppression of nuclear factor
+  kappa-light-chain-enhancer of activated B cells activity. Finally, the co-expression
+  of AIM2 and IFI16 significantly enhanced cell growth in p53-deficient cells in contrast,
+  the expression of AIM2 and or IFI16 in cells bearing wild-type p53 suppressed cell
+  growth. Moreover, AIM2 and IFI16 synergistically enhanced nuclear factor kappa-light-chain-enhancer
+  of activated B cells signaling in p53-deficient cells. Thus, expression of AIM2
+  and IFI16 may have oncogenic activities in the OSCC cells that have inactivated
+  the p53 system.
+authors: Kondo Y, Nagai K, Nakahata S, Saito Y, Ichikawa T, Suekane A, Taki T, Iwakawa
+  R, Enari M, Taniwaki M, Yokota J, Sakoda S and Morishita K.
+cancertypes:
+- samples_arraymap: 33
+  samples_progenetix: ~
+  term_id: ncit:C4833
+  term_label: Oral Cavity Squamous Cell Carcinoma
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_1
+  term_label: ~
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 33
+  samples_progenetix: ~
+  term_id: pgx:icdot:C06
+  term_label: mouth, NOS
+- samples_arraymap: 33
+  samples_progenetix: ~
+  term_id: pgx:seer:20050
+  term_label: Gum and Other Mouth
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-80701
+  term_label: ~
+- samples_arraymap: 28
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 28
+  samples_acgh: 28
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22320325
+- geo:GSE34507
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.42
+    - 31.91
+    type: Point
+  info:
+    city: Miyazaki-shi
+    continent: Asia
+    country: Japan
+    label: Miyazaki-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Sci (2012) 103: 782-790.'
+label: 'Kondo et al. (2012): Overexpression of the DNA sensor proteins, absent in
+  melanoma 2 and interferon-inducible 16, ...'
+notes: ~
+pmid: 22320325
+title: Overexpression of the DNA sensor proteins, absent in melanoma 2 and interferon-inducible
+  16, contributes to tumorigenesis of oral squamous cell carcinoma with p53 inactivation.
+year: 2012

@@ -1,0 +1,40 @@
+---
+abstract: The prognosis of colorectal cancer patients is to a considerable extent
+  determined by the metastatic potency of the primary tumor. However, despite the
+  fact that liver metastases are the leading cause of death for cancer patients, the
+  molecular basis still remains poorly understood and independent prognostic markers
+  have not been established.
+authors: Ghadimi BM, Grade M, Monkemeyer C, Kulle B, Gaedcke J, Gunawan B, Langer
+  C, Liersch T and Becker H.
+cancertypes: []
+contact:
+  email: mghadim@uni-goettingen.de
+  name: B. Michael Ghadimi
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17167180
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Cell Oncol 28, 5-6 (2006): 273-81.'
+label: 'Ghadimi et al. (2006): Distinct Chromosomal Profiles in Metastasizing and
+  Non-Metastasizing Colorectal ...'
+notes: ~
+pmid: 17167180
+title: Distinct Chromosomal Profiles in Metastasizing and Non-Metastasizing Colorectal
+  Carcinomas.
+year: 2006

@@ -1,0 +1,56 @@
+---
+abstract: Cutaneous T-cell lymphoma (CTCL) patients have an increased risk of certain
+  secondary cancers, the most common of which are lung cancers, especially small cell
+  lung cancer. To reveal the molecular pathogenesis underlying CTCL-associated lung
+  cancer, we analyzed genomic aberrations in CTCL-associated and reference lung cancer
+  samples. DNA derived from microdissected lung cancer cells of five CTCL-associated
+  lung cancers and five reference lung cancers without CTCL association was analyzed
+  by comparative genomic hybridization (CGH). Fluorescent in situ hybridization (FISH),
+  immunohistochemistry (IHC), and loss of heterozygosity (LOH) analysis were performed
+  for selected genes. In CTCL-associated lung cancer, CGH revealed chromosomal aberrations
+  characterizing both lung cancer and CTCL, but also losses of 1p, and 19, and gains
+  of 4q and 7, hallmarks of CTCL. LOH for the CTCL-associated NAV3 gene was detected
+  in two of the four informative primary lung cancers. FISH revealed increased copy
+  number of the KIT gene in 3/4 of CTCL-associated lung cancers and 1/5 of primary
+  lung cancers. PDGFRA and VEGFR2 copy numbers were also increased. IHC showed moderate
+  KIT expression when the gene copy number was increased. CTCL-associated lung cancer
+  shows chromosomal aberrations different from primary lung cancer, especially amplifications
+  of 4q, a chromosome arm frequently deleted in the latter tumor type. Copy numbers
+  and expression of selected genes in chromosome 4 differed between CTCL-associated
+  and reference lung cancers. These preliminary observations warrant further prospective
+  studies to identify the common underlying factors between CTCL and CTCL-associated
+  lung cancer.  (c) 2007 Wiley-Liss, Inc.
+authors: Hahtola S, Burghart E, Puputti M, Karenko L, Abdel-Rahman WM, Vï¿½kevï¿½
+  L, Jeskanen L, Virolainen S, Karvonen J, Salmenkivi K, Kinnula V, Joensuu H, Peltomï¿½ki
+  P, Klein CA and Ranki A
+cancertypes: []
+contact:
+  email: sonja.hahtola@helsinki.fi
+  name: Sonja Hahtola
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17985357
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 47(2), 2008
+label: 'Hahtola S et al. (2008): '
+notes: ~
+pmid: 17985357
+title: Cutaneous T-cell lymphoma-associated lung cancers show chromosomal aberrations
+  differing from primary lung cancer.
+year: 2008

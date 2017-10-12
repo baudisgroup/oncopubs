@@ -1,0 +1,55 @@
+---
+abstract: Post-transplant lymphoproliferative disorders PTLD are complications of
+  solid organ transplantation associated with severe morbidity and mortality. Diffuse
+  large B-cell lymphoma DLBCL represents the most common form of monomorphic PTLD.
+  We studied 44 cases of post-transplant DLBCL PT-DLBCL with high-density genome wide
+  single nucleotide polymorphism-based arrays, and compared them with 105 cases of
+  immunocompetent DLBCL IC-DLBCL and 28 cases of Human Immunodeficiency Virus-associated
+  DLBCL HIV-DLBCL . PT-DLBCL showed a genomic profile with specific features, although
+  their genomic complexity was overall similar to that observed in IC- and HIV-DLBCL.
+  Among the loci more frequently deleted in PT-DLBCL there were small interstitial
+  deletions targeting known fragile sites, such as FRA1B, FRA2E and FRA3B. Deletions
+  at 2p16.1 FRA2E were the most common lesions in PT-DLBCL, occurring at a frequency
+  that was significantly higher than in IC-DLBCL. Genetic lesions that characterized
+  post-germinal center IC-DLBCL were under-represented in our series of PT-DLBCL.
+  Two other differences between IC-DLBCL and PT-DLBCL were the lack of del 13q14.3
+  MIR15 MIR16 and of copy neutral LOH affecting 6p major histocompatibility complex
+  MHC locus in the latter group. In conclusion, PT-DLBCL presented unique features
+  when compared with IC-DLBCL. Changes in PT-DLBCL were partially different to those
+  in HIV-DLBCL, suggesting different pathogenetic mechanisms in the two conditions
+  linked to immunodeficiency.
+authors: Rinaldi A, Capello D, Scandurra M, Greiner TC, Chan WC, Bhagat G, Rossi D,
+  Morra E, Paulli M, Rambaldi A, Rancoita PM, Inghirami G, Ponzoni M, Moreno SM, Piris
+  MA, Mian M, Chigrinova E, Zucca E, Favera RD, Gaidano G, Kwee I and Bertoni F.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20230398
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.02
+    - 46.19
+    type: Point
+  info:
+    city: Bellinzona
+    continent: Europe
+    country: Switzerland
+    label: Bellinzona, Switzerland, Europe
+    precision: city
+journal: 'Br J Haematol 149, 4 (2010): 569-77.'
+label: 'Rinaldi et al. (2010): Single Nucleotide Polymorphism-Arrays Provide New Insights
+  in the Pathogenesis of Post-Transplant ...'
+notes: ~
+pmid: 20230398
+title: Single Nucleotide Polymorphism-Arrays Provide New Insights in the Pathogenesis
+  of Post-Transplant Diffuse Large B-Cell Lymphoma.
+year: 2010

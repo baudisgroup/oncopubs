@@ -1,0 +1,57 @@
+---
+abstract: Histologically it is nearly impossible to distinguish the dedifferentiated
+  component of dedifferentiated chondrosarcoma from undifferentiated pleomorphic sarcoma
+  of bone when the low-grade cartilaginous component is absent. Previous studies have
+  revealed that isocitrate dehydrogenase 1 (IDH1) and IDH2 mutations are present in
+  a significant number of cartilaginous tumors including the majority of conventional
+  chondrosarcoma and dedifferentiated chondrosarcomas. These mutations have not been
+  studied in undifferentiated pleomorphic sarcomas of bone. We sought to investigate
+  whether an IDH1 or IDH2 mutation signature could be used as a clinically diagnostic
+  marker for the distinction of dedifferentiated component of chondrosarcoma from
+  undifferentiated pleomorphic sarcoma of bone. Sixty-eight bone tumor cases, including
+  31 conventional chondrosarcomas, 23 dedifferentiated chondrosarcomas, and 14 undifferentiated
+  pleomorphic sarcomas of bone, were collected for IDH1/2 mutation analysis either
+  using the Qiagen IDH1/2 RGQ PCR Kit or using whole exome sequencing. IDH1/2 mutations
+  were detected in 87% (20/23) of dedifferentiated chondrosarcomas and 30% (6/20)
+  of conventional chondrosarcomas. No mutations were detected in the IDH1/2 codon
+  132 or codon 172 among 14 UPS of bone. Identification of IDH1 or IDH2 mutations
+  supports the diagnosis of dedifferentiated chondrosarcoma rather than undifferentiated
+  pleomorphic sarcoma of bone while also providing some insight into the pathogenesis
+  of these two lesions.
+authors: Chen S, Fritchie K, Wei S, Ali N, Curless K, Shen T, Brini AT, Latif F, Sumathi
+  V, Siegal GP, Cheng L.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+contact:
+  email: chen251@iupui.edu
+  name: Shaoxiong Chen
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 14
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28552826
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.16
+    - 39.77
+    type: Point
+  info:
+    city: Indianapolis
+    continent: North America
+    country: United States
+    label: Indianapolis, United States, North America
+    precision: city
+journal: Hum. Pathol., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28552826
+title: Diagnostic Utility of IDH1/2 Mutations to Distinguish Dedifferentiated Chondrosarcoma
+  from Undifferentiated Pleomorphic Sarcoma of Bone.
+year: 2017

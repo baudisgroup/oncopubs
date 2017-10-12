@@ -1,0 +1,98 @@
+---
+abstract: The purpose of this study was to identify key genetic pathways involved
+  in non-small cell lung cancer NSCLC and understand their role in tumor progression.
+  We performed a genome wide scanning using paired tumors and corresponding 16 mucosal
+  biopsies from four follow-up lung cancer patients on Affymetrix 250K-NSpI array
+  platform. We found that a single gene SH3GL2 located on human chromosome 9p22 was
+  most frequently deleted in all the tumors and corresponding mucosal biopsies. We
+  further validated the alteration pattern of SH3GL2 in a substantial number of primary
+  NSCLC tumors at DNA and protein level. We also overexpressed wild-type SH3GL2 in
+  three NSCLC cell lines to understand its role in NSCLC progression. Validation in
+  116 primary NSCLC tumors confirmed frequent loss of heterozygosity of SH3GL2 in
+  overall 51 49 97 of the informative cases. We found significantly low p 0.0015 SH3GL2
+  protein expression in 71 43 60 primary tumors. Forced overexpression of wild-type
+  wt SH3GL2 in three NSCLC cell lines resulted in a marked reduction of active epidermal
+  growth factor receptor EGFR expression and an increase in EGFR internalization and
+  degradation. Significantly decreased in vitro p 0.0015-0.030 and in vivo p 0.016
+  cellular growth, invasion p 0.029-0.049 , and colony formation p 0.023-0.039 were
+  also evident in the wt-SH3GL2-transfected cells accompanied by markedly low expression
+  of activated AKT Ser 473 , STAT3 Tyr 705 , and PI3K. Downregulation of SH3GL2 interactor
+  USP9X and activated ss-catenin was also evident in the SH3GL2-transfected cells.
+  Our results indicate that SH3GL2 is frequently deleted in NSCLC and regulates cellular
+  growth and invasion by modulating EGFR function.
+authors: Dasgupta S, Jang JS, Shao C, Mukhopadhyay ND, Sokhi UK, Das SK, Brait M,
+  Talbot C, Yung RC, Begum S, Westra WH, Hoque MO, Yang P, Yi JE, Lam S, Gazdar AF,
+  Fisher PB, Jen J and Sidransky D.
+cancertypes:
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: ncit:C3493
+  term_label: Squamous Cell Lung Carcinoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdom:8070_3
+  term_label: Squamous cell carcinoma, NOS
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:icdot:C34
+  term_label: lung and bronchus
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: pgx:seer:22030
+  term_label: Lung and Bronchus
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 21
+  samples_progenetix: ~
+  term_id: snmi:M-80703
+  term_label: Squamous cell carcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22968441
+- geo:GSE29365
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.29
+    - 37.75
+    type: Point
+  info:
+    city: Richmond
+    continent: North America
+    country: United States
+    label: Richmond, United States, North America
+    precision: city
+journal: 'J Mol Med (Berl) (2013) 91: 381-393.'
+label: 'Dasgupta et al. (2013): SH3GL2 is frequently deleted in non-small cell lung
+  cancer and downregulates tumor growth by ...'
+notes: ~
+pmid: 22968441
+title: SH3GL2 is frequently deleted in non-small cell lung cancer and downregulates
+  tumor growth by modulating EGFR signaling.
+year: 2013

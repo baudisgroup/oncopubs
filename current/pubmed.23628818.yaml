@@ -1,0 +1,54 @@
+---
+abstract: Ewing sarcoma family tumors are aggressive sarcomas of childhood and adolescence
+  with continuing poor outcomes. Decades of research on the characteristics of the
+  often solitary-known oncogenic-genomic aberration in Ewing sarcoma family tumors,
+  namely a TET-ETS fusion, have provided little advancement in the understanding of
+  the molecular pathogenesis of Ewing sarcoma or treatment thereof. In this study,
+  the high-resolution single-nucleotide polymorphism technology was used to identify
+  additional secondary copy-number alterations CNAs in Ewing sarcoma that might elucidate
+  the aggressive biology of this sarcoma. We compared paired constitutional and tumor
+  DNA samples. Commonly known genomic alterations including gain of 1q and chromosome
+  8 were the most frequently detected changes in this study. In addition, deletions
+  and loss of heterozygosity were identified in 10q, 11p, and 17p. Furthermore, tumor-specific
+  CNAs were identified not only in genes previously known to be of interest, including
+  CDKN2A, but also in genes not previously associated with Ewing sarcoma, including
+  SOX6 and PTEN. Selected array-based findings were confirmed by fluorescence in situ
+  hybridization, immunohistochemical studies, or sequencing. The results highlight
+  an unexpected level of cytogenetic complexity associated with several of the samples,
+  2 of which contained TP53 mutations. In summary, our high-resolution genome-wide
+  copy-number data identify several novel CNAs associated with Ewing sarcoma, which
+  are promising targets for novel therapeutic strategies in this aggressive sarcoma.
+authors: Lynn M, Wang Y, Slater J, Shah N, Conroy J, Ennis S, Morris T, Betts DR,
+  Fletcher JA and OSullivan MJ.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23628818
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: Europe
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: 'Diagn Mol Pathol (2013) 22: 76-84.'
+label: 'Lynn et al. (2013): High-resolution Genome-wide Copy-number Analyses Identify
+  Localized Copy-number Alterations in Ewing ...'
+notes: ~
+pmid: 23628818
+title: High-resolution Genome-wide Copy-number Analyses Identify Localized Copy-number
+  Alterations in Ewing Sarcoma.
+year: 2013

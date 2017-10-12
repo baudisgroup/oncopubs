@@ -1,0 +1,53 @@
+---
+abstract: To search for new copy number alterations CNAs in acute promyelocytic leukemia
+  APL , we analyzed DNA from leukemic blasts of 93 acute promyelocytic leukemia APL
+  patients with Genome-Wide SNP 6.0 arrays SNP-A . We identified 259 CNAs consisting
+  of 170 heterozygous deletions, 82 amplifications, and 7 regions of copy number neutral
+  loss of heterozygosity. One of the most common CNAs was a deletion on chromosomal
+  subband 1q31.3 in 13 of 93 14 patients encompassing the coding regions for the microRNAs
+  mir181a1 b1. In multivariable analysis with the covariates age, white blood cell
+  count, platelet count, and FLT3-ITD FLT3 D835 mutations we found that after adjustment
+  for patients age P amp lt 0.0001 , patients with 2 or more CNAs detected by SNP-A
+  had a higher risk of death hazard ratio 5.942, P 0.0015 than patients with 0 or
+  1 CNA. Deletions of 1q31.3 were associated with a higher number of CNAs median 2
+  vs. 8, P amp lt 0.0001 and were a strong independent prognostic factor for an increased
+  risk of relapse hazard ratio 28.9, P 0.0031 . This study presents a comprehensive
+  assessment of new CNAs as pathomechanistically relevant targets and possible prognostic
+  factors which could refine risk stratification of APL.
+authors: Nowak D, Klaumuenzer M, Hanfstein B, Mossner M, Nolte F, Nowak V, Oblaender
+  J, Hecht A, Hutter G, Ogawa S, Kohlmann A, Haferlach C, Schlegelberger B, Braess
+  J, Seifarth W, Fabarius A, Erben P, Saussele S, Muller MC, Reiter A, Buechner T,
+  Weiss C, Hofmann WK and Lengfelder E.
+cancertypes: []
+contact:
+  email: Daniel.nowak@medma.uni-heidelberg.de
+  name: Daniel Nowak
+counts:
+  biosamples: 93
+  samples_acgh: 93
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22488577
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: Europe
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer (2012)
+label: 'Nowak et al. (2012): Snp Array Analysis of Acute Promyelocytic Leukemia May
+  be of Prognostic Relevance and Identifies a ...'
+notes: ~
+pmid: 22488577
+title: Snp Array Analysis of Acute Promyelocytic Leukemia May be of Prognostic Relevance
+  and Identifies a Potential High Risk Group With Recurrent Deletions on Chromosomal
+  Subband 1q31.3.
+year: 2012

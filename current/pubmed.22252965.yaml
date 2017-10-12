@@ -1,0 +1,57 @@
+---
+abstract: The mechanisms underlying the progression from ductal carcinoma in situ
+  DCIS to invasive ductal carcinoma IDC of the breast are yet to be fully elucidated.
+  Several hypotheses have been put forward to explain the progression from DCIS to
+  IDC, including the selection of a subpopulation of cancer cells with specific genetic
+  aberrations, and the acquisition of new genetic aberrations or non-genetic mechanisms
+  mediated by the tumour microenvironment. To determine whether synchronously diagnosed
+  ipsilateral DCI and IDCs have modal populations with distinct repertoires of gene
+  copy number aberrations and mutations in common oncogenes, matched frozen samples
+  of DCIS and IDC were retrieved from 13 patients and subjected to microarray-based
+  comparative genomic hybridization aCGH and Sequenom MassARRAY Oncocarta v 1.0 panel
+  . Fluorescence in situ hybridization and Sanger sequencing were employed to validate
+  the aCGH and Sequenom findings, respectively. Although the genomic profiles of matched
+  DCI and IDCs were similar, in three of 13 matched pairs amplification of distinct
+  loci ie 1q41, 2q24.2, 6q22.31, 7q11.21, 8q21.2 and 9p13.3 was either restricted
+  to, or more prevalent in, the modal population of cancer cells of one of the components.
+  Sequenom MassARRAY identified PIK3CA mutations restricted to the DCIS component
+  in two cases, and in a third case the frequency of the PIK3CA mutant allele reduced
+  from 49 in the DCIS to 25 in the IDC component. Despite the genomic similarities
+  between synchronous DCIS and IDC, our data provide strong circumstantial evidence
+  to suggest that in some cases the progression from DCIS to IDC is driven by the
+  selection of non-modal clones that harbour a specific repertoire of genetic aberrations.
+authors: Hernandez L, Wilkerson PM, Lambros MB, Campion-Flora A, Rodrigues DN, Gauthier
+  A, Cabral C, Pawar V, Mackay A, Ahern R, Marchio C, Palacios J, Natrajan R, Weigelt
+  B and Reis-Filho JS.
+cancertypes: []
+contact:
+  email: jorgerf@icr.ac.uk
+  name: Jorge Reis-Filho
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22252965
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: J Pathol (2012)
+label: 'Hernandez et al. (2012): Genomic and Mutational Profiling of Ductal Carcinomas
+  in Situ and Matched Adjacent Invasive ...'
+notes: ~
+pmid: 22252965
+title: Genomic and Mutational Profiling of Ductal Carcinomas in Situ and Matched Adjacent
+  Invasive Breast Cancers Reveals Intra-Tumour Genetic Heterogeneity and Clonal Selection.
+year: 2012

@@ -1,0 +1,87 @@
+---
+abstract: To determine whether intraductal papillary mucinous neoplasms of the pancreas
+  IPMNs have a different genetic background compared with ductal adenocarcinoma PDAC
+  .
+authors: Fritz S, Fernandez-del Castillo C, Mino-Kenudson M, Crippa S, Deshpande V,
+  Lauwers GY, Warshaw AL, Thayer SP and Iafrate AJ.
+cancertypes:
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: ncit:C5726
+  term_label: Pancreatic Intraductal Papillary-Mucinous Neoplasm with an Associated
+    Invasive Carcinoma
+- samples_arraymap: 10
+  samples_progenetix: 21
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:8453_0
+  term_label: Intraductal papillary-mucinous adenoma
+- samples_arraymap: 5
+  samples_progenetix: 5
+  term_id: pgx:icdom:8453_1
+  term_label: Intraductal papillary-mucinous tumor with moderate dysplasia
+- samples_arraymap: 5
+  samples_progenetix: 5
+  term_id: pgx:icdom:8453_2
+  term_label: Intraductal papillary-mucinous carcinoma, non-invasive
+- samples_arraymap: 4
+  samples_progenetix: 4
+  term_id: pgx:icdom:8453_3
+  term_label: Intraductal papillary-mucinous carcinoma, invasive
+- samples_arraymap: 14
+  samples_progenetix: 21
+  term_id: pgx:icdot:C25
+  term_label: pancreas
+- samples_arraymap: 14
+  samples_progenetix: 21
+  term_id: pgx:seer:21100
+  term_label: Pancreas
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-84530
+  term_label: Intraductal papillary-mucinous adenoma
+- samples_arraymap: 5
+  samples_progenetix: 5
+  term_id: snmi:M-84531
+  term_label: Intraductal papillary-mucinous tumor with moderate dysplasia
+- samples_arraymap: 5
+  samples_progenetix: 5
+  term_id: snmi:M-84532
+  term_label: Intraductal papillary-mucinous carcinoma, non-invasive
+- samples_arraymap: 4
+  samples_progenetix: 4
+  term_id: snmi:M-84533
+  term_label: Intraductal papillary-mucinous carcinoma, invasive
+contact:
+  email: aiafrate@partners.org
+  name: A. John Iafrate
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19247032
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Ann Surg 249, 3 (2009): 440-47.'
+label: 'Fritz et al. (2009): Global Genomic Analysis of Intraductal Papillary Mucinous
+  Neoplasms of the Pancreas Reveals ...'
+notes: ~
+pmid: 19247032
+title: Global Genomic Analysis of Intraductal Papillary Mucinous Neoplasms of the
+  Pancreas Reveals Significant Molecular Differences Compared to Ductal Adenocarcinoma.
+year: 2009

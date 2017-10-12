@@ -1,0 +1,48 @@
+---
+abstract: Glioblastoma is the most common and aggressive primary brain cancer. Recent
+  isolation and characterization of brain tumor-initiating cells supports the concept
+  that transformed neural stem cells may seed glioblastoma. We previously identified
+  a wide array of mesenchymal tissue transcripts overexpressed in a broad set of primary
+  glioblastoma de novo tumors but not in secondary glioblastoma derived from lower-grade
+  tumors, low-grade astrocytomas, or normal brain tissues. Here, we extend this observation
+  and show that a subset of primary glioblastoma tumors and their derived tumor lines
+  express cellular and molecular markers that are associated with mesenchymal stem
+  cells MSC and that glioblastoma cell cultures can be induced to differentiate into
+  multiple mesenchymal lineage-like cell types. These findings suggest either that
+  a subset of primary glioblastomas derive from transformed stem cells containing
+  MSC-like properties and retain partial phenotypic aspects of a MSC nature in tumors
+  or that glioblastomas activate a series of genes that result in mesenchymal properties
+  of the cancer cells to effect sustained tumor growth and malignant progression.
+authors: Tso CL, Shintaku P, Chen J, Liu Q, Liu J, Chen Z, Yoshimoto K, Mischel PS,
+  Cloughesy TF, Liau LM and Nelson SF.
+cancertypes: []
+contact:
+  email: snelson@ucla.edu
+  name: Stanley F. Nelson
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16966431
+- geo:GSE5082
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Mol Cancer Res 4, 9 (2006): 607-19.'
+label: 'Tso et al. (2006): Primary Glioblastomas Express Mesenchymal Stem-Like Properties.'
+notes: ~
+pmid: 16966431
+title: Primary Glioblastomas Express Mesenchymal Stem-Like Properties.
+year: 2006

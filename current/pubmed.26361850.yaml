@@ -1,0 +1,51 @@
+---
+abstract: Leiomyosarcomas are malignant mesenchymal tumors that recapitulate smooth
+  muscle cell differentiation. Tumors are characterized by a genetic heterogeneity
+  with complex karyotypes without a tumor-specific genetic aberration. Their pathobiology
+  is still poorly understood and no specific targeted treatment is currently available
+  for these aggressive tumors. For six leiomyosarcomas, cells were cultured and analyzed
+  by combined binary ratio labeling fluorescence in situ hybridization (COBRA-FISH)
+  karyotyping. A t(6;14) was identified in two cases. FISH breakpoint mapping of case
+  L1339 reveals a breakpoint at chromosome 6p21.31 close to HMGA1, and a small deletion
+  was observed on the distal side of the gene. A small homozygous deletion was also
+  found in the breakpoint region of chromosome 14q24.1 involving ACTN1. The second
+  case revealed a der(6)t(6;14)(p21.1;q21.3), with a duplication adjacent to the breakpoint
+  at chromosome 6. Confirmatory FISH revealed a second leiomyosarcoma with an aberration
+  at 14q24.1. Alterations at this locus were found in 5% (2 of 39) of the leiomyosarcomas
+  in this study. The other identified breakpoints appeared to be non-recurrent, because
+  they were not detected in other leiomyosarcomas, uterine leiomyomas, undifferentiated
+  spindle cell sarcomas, or undifferentiated pleomorphic sarcomas.  Copyright ï¿½
+  2015 Elsevier Inc. All rights reserved.
+authors: de Graaff MA, de Jong D, Briaire-de Bruijn IH, Hogendoorn PC, Bovï¿½e JV
+  and Szuhai K
+cancertypes: []
+contact:
+  email: k.szuhai@lumc.nl
+  name: KÃ¡roly Szuhai
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26361850
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: Cancer Genet, 2015
+label: 'de Graaff MA et al. (2015): '
+notes: ~
+pmid: 26361850
+title: 'A translocation t(6;14) in two cases of leiomyosarcoma: Molecular cytogenetic
+  and array-based comparative genomic hybridization characterization.'
+year: 2015

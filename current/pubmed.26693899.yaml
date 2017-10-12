@@ -1,0 +1,59 @@
+---
+abstract: Most high-grade serous ovarian carcinoma (HGSOC) patients benefit from first-line
+  platinum-based chemotherapy, but progressively develop resistance during subsequent
+  lines. Re-activating BRCA1 or MDR1 mutations can underlie platinum resistance in
+  end-stage patients. However, little is known about resistance mechanisms occurring
+  after a single line of platinum, when patients still qualify for other treatments.  In
+  31 patients with primary platinum-sensitive HGSOC, we profiled tumours collected
+  during debulking surgery before and after first-line chemotherapy using whole-exome
+  sequencing and single nucleotide polymorphism profiling.  Besides germline BRCA1/2
+  mutations, we observed frequent loss-of-heterozygosity in homologous recombination
+  (HR) genes and mutation spectra characteristic of HR-deficiency in all tumours.
+  At relapse, tumours differed considerably from their primary counterparts. There
+  was, however, no evidence of events reactivating the HR pathway, also not in tumours
+  resistant to second-line platinum. Instead, a platinum score of 13 copy number regions,
+  among other genes including MECOM, CCNE1 and ERBB2, correlated with platinum-free
+  interval (PFI) after first-line therapy, whereas an increase of this score in recurrent
+  tumours predicted the change in PFI during subsequent therapy.  Already after a
+  single line of platinum, there is huge variability between primary and recurrent
+  tumours, advocating that in HGSOC biopsies need to be collected at relapse to tailor
+  treatment options to the underlying genetic profile. Nevertheless, all primary platinum-sensitive
+  HGSOCs remained HR-deficient, irrespective of whether they became resistant to second-line
+  platinum, further suggesting these tumours qualify for second-line Poly APD ribose
+  polymerase (PARP) inhibitor treatment. Finally, chromosomal instability contributes
+  to acquired resistance after a single line of platinum therapy.  Copyright ï¿½ 2015
+  Elsevier Ltd. All rights reserved.
+authors: Lambrechts S, Smeets D, Moisse M, Braicu EI, Vanderstichele A, Zhao H, Van
+  Nieuwenhuysen E, Berns E, Sehouli J, Zeillinger R, Darb-Esfahani S, Cacsire Castillo-Tong
+  D, Lambrechts D and Vergote I
+cancertypes: []
+contact:
+  email: Diether.Lambrechts@vib-kuleuven.be
+  name: Diether Lambrechts
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 31
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26693899
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: Eur. J. Cancer 53, 2015
+label: 'Lambrechts S et al. (2015): '
+notes: ~
+pmid: 26693899
+title: Genetic heterogeneity after first-line chemotherapy in high-grade serous ovarian
+  cancer.
+year: 2015

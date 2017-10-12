@@ -1,0 +1,61 @@
+---
+abstract: To compare the genetic relationship between cyclin D1-positive and cyclin
+  D1-negative mantle cell lymphomas MCLs and to determine whether specific genetic
+  alterations may add prognostic information to survival prediction based on the proliferation
+  signature of MCLs.
+authors: Salaverria I, Zettl A, Bea S, Moreno V, Valls J, Hartmann E, Ott G, Wright
+  G, Lopez-Guillermo A, Chan WC, Weisenburger DD, Gascoyne RD, Grogan TM, Delabie
+  J, Jaffe ES, Montserrat E, Muller-Hermelink HK, Staudt LM, Rosenwald A and Campo
+  E.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: ncit:C4337
+  term_label: Mantle Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: pgx:icdom:9673_3
+  term_label: Mantle cell lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: snmi:M-96733
+  term_label: Mantle cell lymphoma
+contact:
+  email: ISALAVER@clinic.ub.es
+  name: Itziar Salaverria
+counts:
+  biosamples: 77
+  samples_acgh: 0
+  samples_ccgh: 77
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17296973
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'J Clin Oncol 25, 10 (2007): 1216-22.'
+label: 'Salaverria et al. (2007): Specific Secondary Genetic Alterations in Mantle
+  Cell Lymphoma Provide Prognostic Information ...'
+notes: ~
+pmid: 17296973
+title: Specific Secondary Genetic Alterations in Mantle Cell Lymphoma Provide Prognostic
+  Information Independent of the Gene Expression-Based Proliferation Signature.
+year: 2007

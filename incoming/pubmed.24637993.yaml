@@ -3,8 +3,10 @@ abstract: ~
 authors: Menke J, Pauli S, Sigler M, Kï¿½hnle I, Shoukier M, Zoll B, Ganster C, Salinas-Riester
   G, Schaefer IM.
 cancertypes:
-- term_id: seer:37000
-  term_label: miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: menke-j@t-online.de
   name: ~

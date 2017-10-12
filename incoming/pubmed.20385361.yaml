@@ -13,17 +13,29 @@ authors: Chen R, Nishimura MC, Bumbaca SM, Kharbanda S, Forrest WF, Kasman IM, G
   Wallin JJ, Lamszus K, Westphal M, Heim S, James CD, VandenBerg SR, Costello JF,
   Moorefield S, Cowdrey CJ, Prados M and Phillips HS
 cancertypes:
-- term_id: ncit:C3058
+- samples_arraymap: 53
+  samples_progenetix: ~
+  term_id: ncit:C3058
   term_label: Glioblastoma
-- term_id: pgx:icdom:9440_3
+- samples_arraymap: 53
+  samples_progenetix: ~
+  term_id: pgx:icdom:9440_3
   term_label: Glioblastoma, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: 53
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
   term_label: Brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: 53
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: seer:37000
-  term_label: miscellaneous
-- term_id: snmi:M-94403
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 53
+  samples_progenetix: ~
+  term_id: snmi:M-94403
   term_label: Glioblastoma, NOS
 contact:
   email: hsp@gene.com

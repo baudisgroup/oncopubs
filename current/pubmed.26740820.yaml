@@ -1,0 +1,57 @@
+---
+abstract: 'Deletion of 13q14 is the most common cytogenetic change in chronic lymphocytic
+  leukemia/small lymphocytic lymphoma (CLL/SLL) and is detected in about 50ï¿½% of
+  patients by fluorescence in situ hybridization (FISH), which can reveal presence
+  of del(13)(q14) and mono- or biallelic deletion status without information about
+  the size of the lost region. Array-comparative genomic hybridization (aCGH) and
+  single nucleotide polymorphism (SNP) can detect submicroscopic copy number changes,
+  loss of heterozygosity (LOH) and uniparental disomy (UPD) regions. The purpose of
+  this study was detection of the size of del(13)(q14) deletion in our group of patients,
+  comparing the size of the monoallelic and biallelic deletions, detection of LOH
+  and UPD regions.  We have investigated 40 CLL/SLL patients by karyotype, FISH and
+  CGH and SNP array. Mutational status was of immunoglobulin heavy-chain variable-region
+  (IGVH) was also examined. The size of deletion ranged from 348,12 Kb to 38.97ï¿½Mb.
+  Detected minimal deleted region comprised genes: TRIM13, miR-3613, KCNRG, DLEU2,
+  miR-16-1, miR-15a, DLEU1. The RB1 deletions were detected in 41ï¿½% of cases. The
+  average size in monoallelic 13q14 deletion group was 7,2ï¿½Mb while in biallelic
+  group was 4,8ï¿½Mb. In two cases 13q14 deletions were located in the bigger UPD
+  regions.  Our results indicate that bigger deletion including RB1 or presence of
+  biallelic 13q14 deletion is not sufficient to be considered as adverse prognostic
+  factor in CLL/SLL. CytoSure Haematological Cancer and SNP array (8x60k) can precisely
+  detect recurrent copy number changes with known prognostic significance in CLL/SLL
+  as well as other chromosomal imbalances. The big advantage of this array is simultaneous
+  detection of LOH and UPD regions during the same test.'
+authors: "Grygalewicz B, Woroniecka R, Rygier J, Borkowska K, Rzepecka I, Å\x81ukasik
+  M, BudziÅ\x82owska A, Rymkiewicz G, BÅ\x82achnio K, Nowakowska B, Bartnik M, Gos
+  M and PieÅ\x84kowska-Grela B"
+cancertypes: []
+contact:
+  email: beata.grygalewicz@coi.pl
+  name: Beata Grygalewicz
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26740820
+geo_data:
+  geo_json:
+    coordinates:
+    - 21.01
+    - 52.23
+    type: Point
+  info:
+    city: Warsaw
+    continent: Europe
+    country: Poland
+    label: Warsaw, Poland, Europe
+    precision: city
+journal: Mol Cytogenet 9, 2016
+label: 'Grygalewicz B et al. (2016): '
+notes: ~
+pmid: 26740820
+title: Monoallelic and biallelic deletions of 13q14 in a group of CLL/SLL patients
+  investigated by CGH Haematological Cancer and SNP array (8x60K).
+year: 2016

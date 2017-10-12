@@ -1,0 +1,84 @@
+---
+abstract: High-grade serous cancer HGSC is the most common cancer of the ovary and
+  is characterized by chromosomal instability. Defects in homologous recombination
+  repair HRR are associated with genomic instability in HGSC, and are exploited by
+  therapy targeting DNA repair. Defective HRR causes uniparental deletions and loss
+  of heterozygosity LOH . Our purpose is to profile LOH in HGSC and correlate our
+  findings to clinical outcome, and compare HGSC and high-grade breast cancers.
+authors: Wang ZC, Birkbak NJ, Culhane A, Drapkin RI, Fatima A, Tian R, Schwede M,
+  Alsop K, Daniels KE, Piao H, Liu J, Etemadmoghadam D, Miron A, Salvesen HB, Mitchell
+  G, Defazio A, Quackenbush J, Berkowitz RS, Iglehart JD, Bowtell DD and Matulonis
+  UA.
+cancertypes:
+- samples_arraymap: 47
+  samples_progenetix: ~
+  term_id: ncit:C3778
+  term_label: ~
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: ncit:null
+  term_label: 'null'
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: pgx:icdom:0000_0
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 47
+  samples_progenetix: ~
+  term_id: pgx:icdom:8441_3
+  term_label: Serous cystadenocarcinoma, NOS
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: 47
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
+  term_label: ovary
+- samples_arraymap: 47
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
+  term_label: Ovary
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 18
+  samples_progenetix: ~
+  term_id: snmi:M-00000
+  term_label: not in ICD-O (e.g. non-neoplastic, reference)
+- samples_arraymap: 47
+  samples_progenetix: ~
+  term_id: snmi:M-84413
+  term_label: Serous cystadenocarcinoma, NOS
+contact:
+  email: ~
+  name: Dirk Iglehart
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22912389
+- geo:GSE39130
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Clin Cancer Res (2012)
+label: 'Wang et al. (2012): Profiles of Genomic Instability in High-Grade Serous Ovarian
+  Cancer Predict Treatment ...'
+notes: ~
+pmid: 22912389
+title: Profiles of Genomic Instability in High-Grade Serous Ovarian Cancer Predict
+  Treatment Outcome.
+year: 2012

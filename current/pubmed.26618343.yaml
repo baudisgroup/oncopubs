@@ -1,0 +1,51 @@
+---
+abstract: Gliomas represent approximately 30% of all central nervous system tumors
+  and 80% of malignant brain tumors. To understand the molecular mechanisms underlying
+  the malignant progression of low-grade gliomas with mutations in IDH1 (encoding
+  isocitrate dehydrogenase 1), we studied paired tumor samples from 41 patients, comparing
+  higher-grade, progressed samples to their lower-grade counterparts. Integrated genomic
+  analyses, including whole-exome sequencing and copy number, gene expression and
+  DNA methylation profiling, demonstrated nonlinear clonal expansion of the original
+  tumors and identified oncogenic pathways driving progression. These include activation
+  of the MYC and RTK-RAS-PI3K pathways and upregulation of the FOXM1- and E2F2-mediated
+  cell cycle transitions, as well as epigenetic silencing of developmental transcription
+  factor genes bound by Polycomb repressive complex 2 in human embryonic stem cells.
+  Our results not only provide mechanistic insight into the genetic and epigenetic
+  mechanisms driving glioma progression but also identify inhibition of the bromodomain
+  and extraterminal (BET) family as a potential therapeutic approach.
+authors: "Bai H, HarmancÄ± AS, Erson-Omay EZ, Li J, CoÅ\x9Fkun S, Simon M, Krischek
+  B, Ã\x96zduman K, Omay SB, Sorensen EA, Turcan Å\x9E, BakÄ±rcÄ±Ä\x9Flu M, CarriÃ³n-Grant
+  G, Murray PB, Clark VE, Ercan-Sencicek AG, Knight J, Sencar L, AltÄ±nok S, Kaulen
+  LD, GÃ¼lez B, Timmer M, Schramm J, Mishra-Gorur K, Henegariu O, Moliterno J, Louvi
+  A, Chan TA, Tannheimer SL, Pamir MN, Vortmeyer AO, Bilguvar K, Yasuno K and GÃ¼nel
+  M"
+cancertypes: []
+contact:
+  email: murat.gunel@yale.edu
+  name: Murat GÃ¼nel
+counts:
+  biosamples: 41
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 41
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26618343
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: North America
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Nat. Genet. 48(1), 2016
+label: 'Bai H et al. (2016): '
+notes: ~
+pmid: 26618343
+title: Integrated genomic characterization of IDH1-mutant glioma malignant progression.
+year: 2016

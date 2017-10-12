@@ -1,0 +1,60 @@
+---
+abstract: Unknown primary adenocarcinoma UPA comprises a group of heterogeneous cancers
+  of great clinical and biological interest. UPA presents as metastatic disease without
+  a detectable primary site after medical workup. Here we investigated whether or
+  not a clonal relationship exists between multiple tumors within individual UPA patients.
+  A molecular resemblance would argue for an early clonal outgrowth of tumor cells
+  from the primary lesion, a mutual feature observed within this group of neoplasms.
+  In 14 patients with UPA multiple tumors, obtained at autopsy, were analyzed by molecular
+  allelotyping and immunohistochemistry. In addition, tumors of 4 patients could be
+  analyzed by comparative genomic hybridization CGH . Similar genetic and phenotypic
+  profiles were used as indicator for a clonal relationship, whereas different profiles
+  implicate independent tumors. The molecular data indicated that the multiple lesions
+  in the 14 UPA patients, including the primary tumors, are clonally related. In agreement
+  with the theory of tumor progression, some metastatic lesions showed additional
+  genetic alterations besides the characteristics that were shared with the primary
+  tumor. Furthermore, 8 UPA patients had tumors with a high frequency of allelic loss
+  and or imbalance FALI 43-71 , while 6 patients demonstrated a lower FALI 14-29 ,
+  suggesting the occurrence of chromosomal instability in the former group. Our data
+  provide molecular evidence for a clonal relationship between multiple metastases
+  and the primary tumor within individual UPA patients, independent of the anatomical
+  origin of the cancer. This finding is in agreement with the suggestion that tumor
+  progression is rapid in UPA patients, limiting the chance of clonal divergence.
+  The identification of 2 groups of UPAs with either a high or low FALI indicates
+  that chromosomal instability is not the only driving force behind early tumor cell
+  dissemination. Thus, other molecular mechanisms must underlie the common biology
+  of these tumors.
+authors: Speel EJ, van de Wouw AJ, Claessen SM, Haesevoets A, Hopman AH, van der Wurff
+  AA, Osieka R, Buettner R, Hillen HF and Ramaekers FC.
+cancertypes: []
+contact:
+  email: ernstjan.speel@molcelb.unimaas.nl
+  name: Ernst Jan Speel
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18561313
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.69
+    - 50.85
+    type: Point
+  info:
+    city: Maastricht
+    continent: ~
+    country: The Netherlands
+    label: Maastricht, The Netherlands
+    precision: city [needs verification]
+journal: 'Int J Cancer 123, 6 (2008): 1292-300.'
+label: 'Speel et al. (2008): Molecular Evidence for a Clonal Relationship Between
+  Multiple Lesions in Patients With Unknown ...'
+notes: ~
+pmid: 18561313
+title: Molecular Evidence for a Clonal Relationship Between Multiple Lesions in Patients
+  With Unknown Primary Adenocarcinoma.
+year: 2008

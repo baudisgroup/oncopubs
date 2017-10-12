@@ -1,0 +1,47 @@
+---
+abstract: The aim of the present study was to detect complex genetic alterations in
+  human glioblastoma multiforme GBM by comparative genomic in situ hybridization CGH
+  . Of the 24 GBM that were examined, increased fluorescence intensities indicating
+  chromosomal polysomy of chromosome 7 and gene amplification at chromosome 7p were
+  found in 42 of the tumors. In addition, signal enhancement of chromosome 19 was
+  present in 29 and at 12q13-15 in 21 of the tumors. We also detected reduction of
+  fluorescence intensities indicating gross deletions on chromosomes 10 58 , 9p 46
+  , and 13 29 . There was a close correlation of CGH results when compared with Southern
+  analysis of the EGFR gene localized on chromosome 7 and loss of heterozygosity detection
+  of chromosome 9 and 10 by microsatellite PCR. A close correlation was also observed
+  between copy number changes of chromosome 7 and deletions of chromosome 10. Amplification
+  of chromosome 12q and deletions of chromosomes 9p and 13 seemed to be complementary
+  in the tumors investigated in the present study.
+authors: Schlegel J, Scherthan H, Arens N, Stumm G and Kiessling M.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8558174
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.77
+    - 50.8
+    type: Point
+  info:
+    city: Marburg
+    continent: Europe
+    country: Germany
+    label: Marburg, Germany, Europe
+    precision: city
+journal: 'J Neuropathol Exp Neurol 55, 1 (1996): 81-87.'
+label: 'Schlegel et al. (1996): Detection of Complex Genetic Alterations in Human
+  Glioblastoma Multiforme Using Comparative ...'
+notes: ~
+pmid: 8558174
+title: Detection of Complex Genetic Alterations in Human Glioblastoma Multiforme Using
+  Comparative Genomic Hybridization.
+year: 1996

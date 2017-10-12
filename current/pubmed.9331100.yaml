@@ -1,0 +1,62 @@
+---
+abstract: 'In a separate study F. Courjal et al., Cancer Res., 57: 4360-4367, 1997
+  , we have analyzed by Southern blotting the relationship between DNA amplification
+  and clinicopathological features of breast cancer. Six regions of recurrent amplifications
+  were tested 8p12, 8q24, 11q13, 12q13, 17q12, and 20q13 , and the results suggested
+  that there was a relationship between DNA amplification profiles and breast tumor
+  phenotype. We had delineated three subgroups of tumors showing distinct DNA amplification
+  profiles and clinicopathological characteristics: group A, tumors showing amplification
+  at 11q13 and or 8p12 and or 20q13 group B, tumors amplified at ERBB2 and or MYC
+  and or MDM2 SAS and group C, tumors with no detectable amplification. The aim of
+  the present work was to characterize extensively the amplification profiles in the
+  different subgroups of tumors. Sixty-one breast tumors distributed in all three
+  subgroups were studied by comparative genomic hybridization CGH . There was an overall
+  good agreement between Southern blotting results and CGH data. As expected, CGH
+  revealed gains undetected by Southern blotting. Most of these gains occurred in
+  regions for which no adapted probes were available but also revealed nondetected
+  amplifications at 8q24 or 20q13. Tumors showed multiple aberrations with a medium
+  number of 5.6 copy number variations tumor, whereas, according to Southern blotting
+  results, 38 of the tumors analyzed were devoid of any amplification. This proportion
+  fell to 6.5 after CGH analysis. Recurrent gains were observed in tumors from all
+  three subgroups, albeit at varying incidences, and involved 1q, 8q, 17q23-q24, and
+  20q13. Gains covered large regions of DNA and could possibly include several cores
+  of amplification. Some events, such as gains at 16p11-p12 and 14q or losses at 22q,
+  showed more restricted distributions, suggesting the existence of additional sets
+  of preferential coamplifications. The complexity of genetic profiles revealed by
+  CGH indicates that breast cancer development depends on a large yet undetermined
+  number of genetic events. The description of molecular phenotypes in breast cancer
+  may therefore prove to be complex, and it should be interesting to see how many
+  breast tumor subtypes will be defined in the end.'
+authors: Courjal F and Theillet C.
+cancertypes: []
+contact:
+  email: theillet@valdorel.fnclcc.fr
+  name: Charles Theillet
+counts:
+  biosamples: 61
+  samples_acgh: 0
+  samples_ccgh: 61
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9331100
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.06
+    - 50.63
+    type: Point
+  info:
+    city: Lille
+    continent: Europe
+    country: France
+    label: Lille, France, Europe
+    precision: city
+journal: 'Cancer Res 57, 19 (1997): 4368-77.'
+label: 'Courjal et al. (1997): Comparative Genomic Hybridization Analysis of Breast
+  Tumors With Predetermined Profiles of DNA ...'
+notes: ~
+pmid: 9331100
+title: Comparative Genomic Hybridization Analysis of Breast Tumors With Predetermined
+  Profiles of DNA Amplification.
+year: 1997

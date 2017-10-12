@@ -1,0 +1,76 @@
+---
+abstract: Follicular lymphoma (FL) is incurable with conventional therapies and has
+  a clinical course typified by multiple relapses after therapy. These tumors are
+  genetically characterized by B-cell leukemia/lymphoma 2 (BCL2) translocation and
+  mutation of genes involved in chromatin modification. By analyzing purified tumor
+  cells, we identified additional novel recurrently mutated genes and confirmed mutations
+  of one or more chromatin modifier genes within 96% of FL tumors and two or more
+  in 76% of tumors. We defined the hierarchy of somatic mutations arising during tumor
+  evolution by analyzing the phylogenetic relationship of somatic mutations across
+  the coding genomes of 59 sequentially acquired biopsies from 22 patients. Among
+  all somatically mutated genes, CREBBP mutations were most significantly enriched
+  within the earliest inferable progenitor. These mutations were associated with a
+  signature of decreased antigen presentation characterized by reduced transcript
+  and protein abundance of MHC class II on tumor B cells, in line with the role of
+  CREBBP in promoting class II transactivator (CIITA)-dependent transcriptional activation
+  of these genes. CREBBP mutant B cells stimulated less proliferation of T cells in
+  vitro compared with wild-type B cells from the same tumor. Transcriptional signatures
+  of tumor-infiltrating T cells were indicative of reduced proliferation, and this
+  corresponded to decreased frequencies of tumor-infiltrating CD4 helper T cells and
+  CD8 memory cytotoxic T cells. These observations therefore implicate CREBBP mutation
+  as an early event in FL evolution that contributes to immune evasion via decreased
+  antigen presentation.
+authors: Green MR, Kihira S, Liu CL, Nair RV, Salari R, Gentles AJ, Irish J, Stehr
+  H, Vicente-Dueï¿½as C, Romero-Camarero I, Sanchez-Garcia I, Plevritis SK, Arber
+  DA, Batzoglou S, Levy R and Alizadeh AA
+cancertypes:
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: ncit:C3209
+  term_label: Follicular Lymphoma
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: pgx:icdom:9690_3
+  term_label: Follicular lymphoma, NOS
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: pgx:icdot:C77
+  term_label: lymph nodes
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: snmi:M-96903
+  term_label: Follicular lymphoma, NOS
+contact:
+  email: arasha@stanford.edu
+  name: Michael R. Green
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 22
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25713363
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: Proc. Natl. Acad. Sci. U.S.A. 112(10), 2015
+label: 'Green MR et al. (2015): '
+notes: ~
+pmid: 25713363
+title: Mutations in early follicular lymphoma progenitors are associated with suppressed
+  antigen presentation.
+year: 2015

@@ -1,0 +1,47 @@
+---
+abstract: We have used comparative genomic hybridization CGH to survey genomic regions
+  with aberrant copy numbers of DNA sequences in pancreatic adenocarcinoma. In 12
+  cell lines and 6 primary tumors from 18 patients with pancreatic adenocarcinomas,
+  highly frequent losses amp gt 60 were observed on chromosome arms 6q, 9p, and 18q
+  and the Y chromosome. Moderately frequent losses 40-60 were observed on chromosome
+  arms 3p, 4q, 8p, and 21q. Interestingly, these samples showed extremely high frequencies
+  of increases in copy numbers of DNA sequences on the long arm of chromosome 20 15
+  18, 83 . We further analyzed five cell lines by fluorescence in situ hybridization
+  FISH with probes on chromosome 20 to define the increase in copy number more accurately,
+  and we found that 20q was increased to between 5 and 8 copies per cell. These results
+  suggest the existence of an oncogene or oncogenes in 20q that play a role in the
+  development and or the progression of pancreatic carcinogenesis.
+authors: Fukushige S, Waldman FM, Kimura M, Abe T, Furukawa T, Sunamura M, Kobari
+  M and Horii A.
+cancertypes: []
+contact:
+  email: horii@mail.cc.tohoku.ac.jp
+  name: Akira Horii
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9218997
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.87
+    - 38.26
+    type: Point
+  info:
+    city: Sendai
+    continent: Asia
+    country: Japan
+    label: Sendai, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 19, 3 (1997): 161-69.'
+label: 'Fukushige et al. (1997): Frequent Gain of Copy Number on the Long Arm of Chromosome
+  20 in Human Pancreatic ...'
+notes: ~
+pmid: 9218997
+title: Frequent Gain of Copy Number on the Long Arm of Chromosome 20 in Human Pancreatic
+  Adenocarcinoma.
+year: 1997

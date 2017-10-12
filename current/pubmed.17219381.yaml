@@ -1,0 +1,37 @@
+---
+abstract: Focal atrophy is presumed to be an indirect forerunner of prostate cancer.
+  The aim of this study was to examine genetic alterations in prostate epithelia deriving
+  from atrophic areas and compare these findings with those of cells deriving from
+  paired prostate cancer in the same patient.
+authors: Yildiz-Sezer S, Verdorfer I, Schafer G, Rogatsch H, Bartsch G and Mikuz G.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17219381
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.39
+    - 47.26
+    type: Point
+  info:
+    city: Innsbruck
+    continent: Europe
+    country: Austria
+    label: Innsbruck, Austria, Europe
+    precision: city
+journal: 'Prostate 67, 4 (2007): 433-38.'
+label: 'Yildiz-Sezer et al. (2007): Gain of Chromosome X in Prostatic Atrophy Detected
+  By Cgh and Fish Analyses.'
+notes: ~
+pmid: 17219381
+title: Gain of Chromosome X in Prostatic Atrophy Detected By Cgh and Fish Analyses.
+year: 2007

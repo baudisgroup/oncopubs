@@ -1,0 +1,54 @@
+---
+abstract: Pheochromocytoma and paraganglioma (PPGL) patients display heterogeneity
+  in the clinical presentation and underlying genetic cause. The degree of inter-
+  and intratumour genetic heterogeneity has not yet been defined.  In PPGLs from 94
+  patients we analysed Loss of heterozygosity, copy number variations and mutation
+  status of SDHA, SDHB, SDHC, SDHD, SDHAF2, VHL, EPAS1, NF1, RET, TMEM127, MAX and
+  HRAS using high density SNP array and targeted deep sequencing respectively. Genetic
+  heterogeneity were determined through (1) bioinformatics analysis of individual
+  samples that estimated absolute purity and ploidy from SNP array data, and (2) comparison
+  of paired tumour samples that allowed reconstruction of phylogenetic trees.  Mutations
+  were found in 61% of the tumours and correlated to specific patterns of somatic
+  copy number aberrations (SCNA) and degree of non-tumoural cell admixture. Intratumour
+  genetic heterogeneity was observed in 74/136 of samples using absolute bioinformatics
+  estimations and in 22/24 patients by comparison of paired samples. In addition a
+  low genetic concordance was observed between paired primary tumours and distant
+  metastases. This allowed for reconstructing the life history of individual tumours
+  identifying somatic mutations as well as copy number loss of 3p and 11p (VHL subgroup),
+  1p (Cluster 2) and 17q (NF1 subgroup) as early events in PPGL tumourigenesis.  Genomic
+  landscapes of PPGL are specific to mutation subtype and characterized by genetic
+  heterogeneity both within and between tumour lesions of the same patient.  Copyright
+  ï¿½ 2015, American Association for Cancer Research.
+authors: Crona J, Backman S, Maharjan R, Mayrhofer M, Stalberg P, Isakson A, Hellman
+  P and Bjorklund P
+cancertypes: []
+contact:
+  email: joakim.crona@surgsci.uu.se
+  name: Joakim Crona
+counts:
+  biosamples: 136
+  samples_acgh: 136
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25991818
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: Clin. Cancer Res., 2015
+label: 'Crona J et al. (2015): '
+notes: ~
+pmid: 25991818
+title: Spatio-temporal heterogeneity characterizes the genetic landscape of pheochromocytoma
+  and defines early events in tumourigenesis.
+year: 2015

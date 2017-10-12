@@ -1,0 +1,46 @@
+---
+abstract: Secondary peripheral chondrosarcoma is a malignant chondroid tumor arising
+  in a benign precursor, either an osteochondroma or an enchondroma. Multiple osteochondromas
+  syndrome MO is an autosomal dominant skeletal disorder associated with bony growths
+  in the form of osteochondromas that occasionally undergo malignant transformation
+  to secondary peripheral chondrosarcomas. We describe the genetic examination of
+  three secondary peripheral chondrosarcomas that had arisen synchronously from osteochondromas
+  in a patient with MO by chromosome banding, high resolution chromosomal comparative
+  genomic hybridization, and mutation analysis of the EXT1 and EXT2 genes. In two
+  of the tumors the third was not genetically informative , very similar chromosome
+  abnormalities were found, indicating that they must somehow be part of the same
+  neoplastic process in spite of being anatomically distinct.
+authors: Kyriazoglou AI, Dimitriadis E, Arnogiannaki N, Brandal P, Heim S and Pandis
+  N.
+cancertypes: []
+contact:
+  email: ~
+  name: Anastasios Kyriazoglou
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22285020
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.72
+    - 37.98
+    type: Point
+  info:
+    city: Athens
+    continent: Europe
+    country: Greece
+    label: Athens, Greece, Europe
+    precision: city
+journal: 'Cancer Genet 204, 12 (2011): 677-81.'
+label: 'Kyriazoglou et al. (2011): Similar Cytogenetic Findings in Two Synchronous
+  Secondary Peripheral Chondrosarcomas in a ...'
+notes: ~
+pmid: 22285020
+title: Similar Cytogenetic Findings in Two Synchronous Secondary Peripheral Chondrosarcomas
+  in a Patient With Multiple Osteochondromas.
+year: 2011

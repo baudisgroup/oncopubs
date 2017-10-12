@@ -1,0 +1,47 @@
+---
+abstract: The prognosis in children harboring a glioblastoma multiforme GBM is usually
+  poor. Few GBMs in children, however, seem to respond quite well to adjuvant chemotherapy.
+  The biological basis for such chemotherapy sensitivity remains uncertain. In this
+  paper the authors report the case of a 2-month-old girl with a histologically confirmed
+  GBM WHO Grade IV in whom chemotherapy was accompanied by differentiation of the
+  malignant primary tumor into a typical gangliocytoma WHO Grade I showing ganglioid
+  differentiation and expression of neuronal markers synaptophysin, neurofilament,
+  and NeuN as well as a low Ki 67 MIB-1 proliferation index. Array-comparative genomic
+  hybridization did not reveal genetic alterations in either specimen. Even though
+  the underlying biological mechanisms remain to be elucidated, closer examination
+  of frequency and prognostic significance of neuronal differentiation in pediatric
+  GBMs within ongoing and future clinical trials may be warranted.
+authors: Jeibmann A, Hasselblatt M, Pfister S, Strater R, Brentrup A, Holling M, Niederstadt
+  T, Paulus W and Fruhwald MC.
+cancertypes: []
+contact:
+  email: jeibmann@uni-muenster.de
+  name: Astrid JeibmAnn
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19877783
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'J Neurosurg Pediatr 4, 5 (2009): 475-78.'
+label: 'Jeibmann et al. (2009): From Glioblastoma to Gangliocytoma: An Unforeseen
+  But Welcome Shift in Biological ...'
+notes: ~
+pmid: 19877783
+title: 'From Glioblastoma to Gangliocytoma: An Unforeseen But Welcome Shift in Biological
+  Behavior.'
+year: 2009

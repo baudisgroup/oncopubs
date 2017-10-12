@@ -1,0 +1,58 @@
+---
+abstract: Superficial spreading melanoma SSM and nodular melanoma NM are believed
+  to represent sequential phases of linear progression from radial to vertical growth.
+  Several lines of clinical, pathologic, and epidemiologic evidence suggest, however,
+  that SSM and NM might be the result of independent pathways of tumor development.
+  We utilized an integrative genomic approach that combines single nucleotide polymorphism
+  array 6.0 Affymetrix with gene expression array U133A 2.0 Affymetrix to examine
+  molecular differences between SSM and NM. Pathway analysis of the most differentially
+  expressed genes between SSM and NM N 114 revealed significant differences related
+  to metabolic processes. We identified 8 genes DIS3, FGFR1OP, G3BP2, GALNT7, MTAP,
+  SEC23IP, USO1, and ZNF668 in which NM SSM-specific copy number alterations correlated
+  with differential gene expression P lt 0.05 Spearmans rank . SSM-specific genomic
+  deletions in G3BP2, MTAP, and SEC23IP were independently verified in two external
+  data sets. Forced overexpression of metabolism-related gene MTAP methylthioadenosine
+  phosphorylase in SSM resulted in reduced cell growth. The differential expression
+  of another metabolic-related gene, aldehyde dehydrogenase 7A1 ALDH7A1 , was validated
+  at the protein level by using tissue microarrays of human melanoma. In addition,
+  we show that the decreased ALDH7A1 expression in SSM may be the result of epigenetic
+  modifications. Our data reveal recurrent genomic deletions in SSM not present in
+  NM, which challenge the linear model of melanoma progression. Furthermore, our data
+  suggest a role for altered regulation of metabolism-related genes as a possible
+  cause of the different clinical behavior of SSM and NM.
+authors: Rose AE, Poliseno L, Wang J, Clark M, Pearlman A, Wang G, Vega YSdMEC, Medicherla
+  R, Christos PJ, Shapiro R, Pavlick A, Darvishian F, Zavadil J, Polsky D, Hernando
+  E, Ostrer H and Osman I.
+cancertypes: []
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21343389
+- geo:GSE22305
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Cancer Res (2011) 71: 2561-2571.'
+label: 'Rose et al. (2011): Integrative genomics identifies molecular alterations
+  that challenge the linear model of melanoma ...'
+notes: ~
+pmid: 21343389
+title: Integrative genomics identifies molecular alterations that challenge the linear
+  model of melanoma progression.
+year: 2011

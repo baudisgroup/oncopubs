@@ -1,0 +1,72 @@
+---
+abstract: Anaplastic large cell lymphoma ALCL is a T null-cell neoplasm characterized
+  by chromosomal translocations involving the anaplastic lymphoma kinase ALK gene
+  ALK . Tumours with similar morphology and phenotype but negative for ALK have been
+  also recognized. The secondary chromosomal imbalances of these lymphomas are not
+  well known. We have examined 74 ALCL, 43 ALK-positive and 31 ALK-negative, cases
+  by comparative genomic hybridization CGH , and locus-specific alterations for TP53
+  and ATM were examined by fluorescence in situ hybridization and real-time quantitative
+  polymerase chain reaction. Chromosomal imbalances were detected in 25 58 ALK-positive
+  and 20 65 ALK-negative ALCL. ALK-positive ALCL with NPM-ALK or other ALK variant
+  translocations showed a similar profile of secondary genetic alterations. Gains
+  of 17p and 17q24-qter and losses of 4q13-q21, and 11q14 were associated with ALK-positive
+  cases P 0.05 , whereas gains of 1q and 6p21 were more frequent in ALK-negative tumours
+  P 0.03 . Gains of chromosome 7 and 6q and 13q losses were seen in both types of
+  tumours. ALCL-negative tumours had a significantly worse prognosis than ALK-positive.
+  However no specific chromosomal alterations were associated with survival. In conclusion,
+  ALK-positive and negative ALCL have different secondary genomic aberrations, suggesting
+  they correspond to different genetic entities.
+authors: Salaverria I, Bea S, Lopez-Guillermo A, Lespinet V, Pinyol M, Burkhardt B,
+  Lamant L, Zettl A, Horsman D, Gascoyne R, Ott G, Siebert R, Delsol G and Campo E.
+cancertypes:
+- samples_arraymap: ~
+  samples_progenetix: 74
+  term_id: ncit:C3720
+  term_label: Anaplastic Large Cell Lymphoma
+- samples_arraymap: ~
+  samples_progenetix: 74
+  term_id: pgx:icdom:9714_3
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+- samples_arraymap: ~
+  samples_progenetix: 74
+  term_id: pgx:icdot:C42.4
+  term_label: Hematopoietic system, NOS
+- samples_arraymap: ~
+  samples_progenetix: 74
+  term_id: pgx:seer:33041
+  term_label: NHL - Nodal
+- samples_arraymap: ~
+  samples_progenetix: 74
+  term_id: snmi:M-97143
+  term_label: Anaplastic large cell lymphoma, T cell and Null cell type
+contact:
+  email: ISALAVER@clinic.ub.es
+  name: Itziar Salaverria
+counts:
+  biosamples: 74
+  samples_acgh: 0
+  samples_ccgh: 74
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18275429
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Br J Haematol 140, 5 (2008): 516-26.'
+label: 'Salaverria et al. (2008): Genomic Profiling Reveals Different Genetic Aberrations
+  in Systemic Alk-Positive and ...'
+notes: ~
+pmid: 18275429
+title: Genomic Profiling Reveals Different Genetic Aberrations in Systemic Alk-Positive
+  and Alk-Negative Anaplastic Large Cell Lymphomas.
+year: 2008

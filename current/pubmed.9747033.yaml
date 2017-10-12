@@ -1,0 +1,44 @@
+---
+abstract: Double minute chromosomes dmin are cytogenetic hallmarks of amplified genes.
+  Using spectral karyotyping SKY and comparative genomic hybridization CGH , we identified
+  the origin of amplified DNA in a leukemic cell line, KY821, that harbors numerous
+  dmin. The SKY revealed that the DNA sequences of dmin are derived from materials
+  of chromosome 8, and CGH showed a high degree of overrepresentation only at 8q22-24,
+  indicating that in KY821 only chromosomal material of 8q22-24, containing MYC, is
+  amplified in dmin. An approach combining SKY with CGH should facilitate efforts
+  to identify novel chromosomal regions of gene amplification and contribute information
+  about genetic lesions that underly neoplastic tumors.
+authors: Ariyama Y, Sakabe T, Shinomiya T, Mori T, Fukuda Y, and Inazawa J.
+cancertypes: []
+contact:
+  email: ~
+  name: NA Inazawa
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9747033
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: J Hum Genet, 43(3) 1998, 187-90.
+label: 'Ariyama et al. (1998): Identification of amplified DNA sequences on double
+  minute chromosomes in a leukemic cell line ...'
+notes: ~
+pmid: 9747033
+title: Identification of amplified DNA sequences on double minute chromosomes in a
+  leukemic cell line KY821 by means of spectral karyotyping and comparative genomic
+  hybridization.
+year: 1998

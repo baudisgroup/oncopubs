@@ -1,0 +1,86 @@
+---
+abstract: 'INTRODUCTION: Mucinous tumors are the second most common form of epithelial
+  ovarian tumor, yet the cell of origin for this histologic subtype remains undetermined.
+  Although these tumors are thought to arise through a stepwise progression from benign
+  cystadenoma to borderline tumor to invasive carcinoma, few studies have attempted
+  to comprehensively characterize the genetic changes specific to this subtype or
+  its precursors. METHODS: To explore the spectrum of genomic alterations common to
+  mucinous tumors we carried out high-resolution genome-wide copy number analysis,
+  mutation screening by Sanger sequencing and immunohistochemistry on a series of
+  primary ovarian mucinous cystadenomas n 20 and borderline tumors n 22 . RESULTS:
+  Integration of copy number data, targeted mutation screening of RAS RAF pathway
+  members and immunohistochemistry reveals that p16 loss and RAS RAF pathway alterations
+  are highly recurrent events that occur early during mucinous tumor development.
+  The frequency of concurrence of these events was observed in 40 of benign cystadenomas
+  and 68 of borderline tumors. CONCLUSIONS: This study is the largest and highest
+  resolution analysis of mucinous benign and borderline tumors carried out to date
+  and provides strong support for these lesions being precursors of primary ovarian
+  mucinous adenocarcinoma. The high level of uniformity in the molecular events underlying
+  the pathogenesis of mucinous ovarian tumors provides an opportunity for treatments
+  targeting specific mutations and pathways.'
+authors: Hunter SM, Gorringe KL, Christie M, Rowley SM, Bowtell DD and Campbell IG.
+cancertypes:
+- samples_arraymap: 119
+  samples_progenetix: ~
+  term_id: ncit:C4512
+  term_label: Ovarian Mucinous Cystadenoma
+- samples_arraymap: 58
+  samples_progenetix: ~
+  term_id: pgx:icdom:8470_0
+  term_label: Mucinous cystadenoma, NOS
+- samples_arraymap: 61
+  samples_progenetix: ~
+  term_id: pgx:icdom:8480_0
+  term_label: Mucinous adenoma
+- samples_arraymap: 119
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
+  term_label: ovary
+- samples_arraymap: 61
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
+  term_label: Ovary
+- samples_arraymap: 58
+  samples_progenetix: ~
+  term_id: pgx:seer:99999
+  term_label: invalid
+- samples_arraymap: 58
+  samples_progenetix: ~
+  term_id: snmi:M-84700
+  term_label: Mucinous cystadenoma, NOS
+- samples_arraymap: 61
+  samples_progenetix: ~
+  term_id: snmi:M-84800
+  term_label: Mucinous adenoma
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22891197
+- geo:GSE39076
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: 'Clin Cancer Res (2012) 18: 5267-5277.'
+label: 'Hunter et al. (2012): Pre-invasive ovarian mucinous tumors are characterized
+  by CDKN2A and RAS pathway ...'
+notes: ~
+pmid: 22891197
+title: Pre-invasive ovarian mucinous tumors are characterized by CDKN2A and RAS pathway
+  aberrations.
+year: 2012

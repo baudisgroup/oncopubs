@@ -1,0 +1,87 @@
+---
+abstract: The identification of lobular carcinoma in situ LCIS in a patients specimen
+  confers an appreciable increased risk of development of future invasive mammary
+  carcinoma. However, the study of LCIS presents a challenge as it is usually only
+  recognized in fixed specimens. Recent advances in high throughput genomics have
+  made possible comprehensive copy number analysis of lesions such as this. Using
+  array comparative genomic hybridization aCGH , we characterized eight cases of lobular
+  carcinoma four invasive and four non-invasive from microdissected samples of archival
+  specimens and validated our results by quantitative real-time PCR qRT-PCR . Immunohistochemistry
+  IHC was performed on an independent set of 80 in situ ductal DCIS and lobular breast
+  lesions to confirm our results. Amplification of the prolactin receptor gene PRLr
+  was identified in 4 4 cases of LCIS by aCGH. We confirmed this amplification by
+  qRT-PCR and demonstrated PRLr expression in 29 40 73 cases of lobular neoplasia
+  by IHC. Amplification of PRLr was neither detected in 10 cases of DCIS nor in 5
+  areas of normal breast tissue by qRT-PCR and only 14 40 35 cases of DCIS showed
+  PRLr expression by IHC P 0.0008 . Our study suggests the prolactin receptor gene
+  is a molecular target that may be important in the pathogenesis and progression
+  of lobular neoplasia. Investigation of the status of this gene in cases of DCIS
+  has indicated that it may not be as important in the progression of this type of
+  breast cancer, supporting the view that lobular and ductal carcinomas may evolve
+  along separate pathways.
+authors: Tran-Thanh D, Arneson NC, Pintilie M, Deliallisi A, Warren KS, Bane A and
+  Done SJ.
+cancertypes:
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: ncit:C3771
+  term_label: Lobular Breast Carcinoma
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: ncit:C4018
+  term_label: Lobular Breast Carcinoma In Situ
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdom:8520_2
+  term_label: Lobular carcinoma in situ, NOS
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: pgx:icdom:8520_3
+  term_label: Lobular carcinoma, NOS
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdot:C50.9
+  term_label: Breast, NOS
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:seer:26000
+  term_label: Breast
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: snmi:M-85202
+  term_label: Lobular carcinoma in situ, NOS
+- samples_arraymap: 4
+  samples_progenetix: ~
+  term_id: snmi:M-85203
+  term_label: Lobular carcinoma, NOS
+contact:
+  email: ~
+  name: Danh Tran-Thanh
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20658264
+- geo:GSE20474
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Breast Cancer Res Treat 128, 1 (2011): 31-40.'
+label: 'Tran-Thanh et al. (2011): Amplification of the Prolactin Receptor Gene in
+  Mammary Lobular Neoplasia.'
+notes: ~
+pmid: 20658264
+title: Amplification of the Prolactin Receptor Gene in Mammary Lobular Neoplasia.
+year: 2011

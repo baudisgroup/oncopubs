@@ -1,0 +1,41 @@
+---
+abstract: Currently, two main technologies are used for screening of DNA copy number
+  the BAC Bacterial Artificial Chromosome and the recently developed oligonucleotide-based
+  CGH Chromosomal Comparative Genomic Hybridization arrays which are capable of detecting
+  small genomic regions with amplification or deletion. The correlation as well as
+  the discriminative power of these platforms has never been compared statistically
+  on a significant set of human patient samples.
+authors: Wicker N, Carles A, Mills IG, Wolf M, Veerakumarasivam A, Edgren H, Boileau
+  F, Wasylyk B, Schalken JA, Neal DE, Kallioniemi O and Poch O.
+cancertypes: []
+contact:
+  email: wicker@igbmc.u-strasbg.fr
+  name: Nicolas Wicker
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17394638
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.72
+    - 48.53
+    type: Point
+  info:
+    city: Illkirch-Graffenstaden
+    continent: Europe
+    country: France
+    label: Illkirch-Graffenstaden, France, Europe
+    precision: city
+journal: 'BMC Genomics 8 (2007): 84.'
+label: 'Wicker et al. (2007): A New Look Towards Bac-Based Array Cgh Through a Comprehensive
+  Comparison With Oligo-Based Array ...'
+notes: ~
+pmid: 17394638
+title: A New Look Towards Bac-Based Array Cgh Through a Comprehensive Comparison With
+  Oligo-Based Array Cgh.
+year: 2007

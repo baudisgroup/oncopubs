@@ -1,0 +1,52 @@
+---
+abstract: Genetic events mediating transformation from premalignant monoclonal gammopathies
+  MG to multiple myeloma MM are unknown. To obtain a comprehensive genomic profile
+  of MG from the early to late stages, we performed high-resolution analysis of purified
+  plasma cells from 20 MGUS, 20 smoldering MM SMM and 34 MM by high-density 6.0 SNP
+  array. A progressive increase in the incidence of copy number abnormalities CNA
+  from MGUS to SMM and to MM median 5, 7.5 and 12 per case, respectively was observed
+  P 0.006 . Gains on 1q, 3p, 6p, 9p, 11q, 19p, 19q and 21q along with 1p, 16q and
+  22q deletions were significantly less frequent in MGUS than in MM. Although 11q
+  and 21q gains together with 16q and 22q deletions were apparently exclusive of MM
+  status, we observed that these abnormalities were also present in minor subclones
+  in MGUS. Overall, a total of 65 copy number-neutral LOH CNN-LOH were detected. Their
+  frequency was higher in active MM than in the asymptomatic entities P 0.047 . A
+  strong association between genetic lesions and fragile sites was also detected.
+  In summary, our study shows an increasing genomic complexity from MGUS to MM and
+  identifies new chromosomal regions involved in CNA and CNN-LOH.
+authors: Lopez-Corral L, Sarasquete ME, Bea S, Garcia-Sanz R, Mateos MV, Corchete
+  LA, Garcia EM, Blade J, Oriol A, Hernandez-Garcia MT, Giraldo P, Hernandez J, Gonzalez
+  M, Hernandez-Rivas JM, Miguel JS and Gutierrez NC.
+cancertypes: []
+contact:
+  email: normagu@usal.es
+  name: Norma Gutierrez
+counts:
+  biosamples: 74
+  samples_acgh: 74
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22565645
+- geo:GSE31339
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: Europe
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: Leukemia (2012)
+label: 'Lopez-Corral et al. (2012): Snp-Based Mapping Arrays Reveal High Genomic Complexity
+  in Monoclonal Gammopathies, From ...'
+notes: ~
+pmid: 22565645
+title: Snp-Based Mapping Arrays Reveal High Genomic Complexity in Monoclonal Gammopathies,
+  From Mgus to Myeloma Status.
+year: 2012

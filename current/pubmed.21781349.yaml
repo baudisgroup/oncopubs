@@ -1,0 +1,67 @@
+---
+abstract: 'BACKGROUND: Globally, gastric cancer is the second most common cause of
+  cancer-related death, with the majority of the health burden borne by economically
+  less-developed countries. METHODS: Here, we report a genetic characterization of
+  50 gastric adenocarcinoma samples, using affymetrix SNP arrays and Illumina mRNA
+  expression arrays as well as Illumina sequencing of the coding regions of 384 genes
+  belonging to various pathways known to be altered in other cancers. RESULTS: Genetic
+  alterations were observed in the WNT, Hedgehog, cell cycle, DNA damage and epithelial-to-mesenchymal-transition
+  pathways. CONCLUSIONS: The data suggests targeted therapies approved or in clinical
+  development for gastric carcinoma would be of benefit to 22 of the patients studied.
+  In addition, the novel mutations detected here, are likely to influence clinical
+  response and suggest new targets for drug discovery.'
+authors: Holbrook JD, Parker JS, Gallagher KT, Halsey WS, Hughes AM, Weigman VJ, Lebowitz
+  PF and Kumar R.
+cancertypes:
+- samples_arraymap: 99
+  samples_progenetix: ~
+  term_id: ncit:C4004
+  term_label: Gastric Adenocarcinoma
+- samples_arraymap: 99
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
+  term_label: Adenocarcinoma, NOS
+- samples_arraymap: 99
+  samples_progenetix: ~
+  term_id: pgx:icdot:C16
+  term_label: stomach
+- samples_arraymap: 99
+  samples_progenetix: ~
+  term_id: pgx:seer:21020
+  term_label: Stomach
+- samples_arraymap: 99
+  samples_progenetix: ~
+  term_id: snmi:M-81403
+  term_label: Adenocarcinoma, NOS
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 199
+  samples_acgh: 199
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21781349
+- geo:GSE29996
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.45
+    - 40.19
+    type: Point
+  info:
+    city: Collegeville
+    continent: ~
+    country: United States
+    label: Collegeville, United States
+    precision: city [needs verification]
+journal: 'J Transl Med (2011) 9: 119.'
+label: 'Holbrook et al. (2011): Deep sequencing of gastric carcinoma reveals somatic
+  mutations relevant to personalized ...'
+notes: ~
+pmid: 21781349
+title: Deep sequencing of gastric carcinoma reveals somatic mutations relevant to
+  personalized medicine.
+year: 2011
