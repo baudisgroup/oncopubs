@@ -9,15 +9,25 @@ abstract: Comparative genomic hybridization CGH was used to detect chromosomal i
 authors: Arranz E, Martinez-Delgado B, Richart A, Osorio A, Cebrian A, Robledo M,
   Rivas C, and Benitez J.
 cancertypes:
-- term_id: ncit:C7204
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C7204
   term_label: T-Zone Variant Peripheral T-Cell Lymphoma
-- term_id: pgx:icdom:9702_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9702_3
   term_label: Mature T-cell lymphoma, NOS
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-97023
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-97023
   term_label: Mature T-cell lymphoma, NOS
 contact:
   email: ~

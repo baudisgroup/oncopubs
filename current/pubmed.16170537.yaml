@@ -19,51 +19,97 @@ abstract: 'We examined 14 spindle cell tumours of the pleura that were sent to a
   CGH analysis may disclose chromosomal changes characteristic of sarcomas or mesotheliomas.'
 authors: Knuuttila A, Jee KJ, Taskinen E, Wolff H, Knuutila S and Anttila S.
 cancertypes:
-- term_id: ncit:C27004
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C27004
   term_label: Sarcomatoid Carcinoma
-- term_id: ncit:C3359
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3359
   term_label: Rhabdomyosarcoma
-- term_id: ncit:C4094
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4094
   term_label: ~
-- term_id: ncit:C6747
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C6747
   term_label: Desmoplastic Mesothelioma
-- term_id: ncit:C9145
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C9145
   term_label: Osteosarcoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8022_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8022_3
   term_label: Pleomorphic carcinoma
-- term_id: pgx:icdom:8032_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8032_3
   term_label: Spindle cell carcinoma, NOS
-- term_id: pgx:icdom:8815_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8815_3
   term_label: Solitary fibrous tumor, malignant
-- term_id: pgx:icdom:8900_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8900_3
   term_label: Rhabdomyosarcoma, NOS
-- term_id: pgx:icdom:9051_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:9051_3
   term_label: Fibrous mesothelioma, malignant
-- term_id: pgx:icdom:9133_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9133_3
   term_label: Epithelioid hemangioendothelioma, malignant
-- term_id: pgx:icdom:9180_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9180_3
   term_label: Osteosarcoma, NOS
-- term_id: pgx:icdot:C38.4
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C38.4
   term_label: pleura
-- term_id: pgx:seer:22050
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:22050
   term_label: Pleura
-- term_id: pgx:seer:36010
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:36010
   term_label: Mesothelioma
-- term_id: snmi:M-80223
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80223
   term_label: Pleomorphic carcinoma
-- term_id: snmi:M-80323
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80323
   term_label: Spindle cell carcinoma, NOS
-- term_id: snmi:M-88153
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-88153
   term_label: Solitary fibrous tumor, malignant
-- term_id: snmi:M-89003
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-89003
   term_label: Rhabdomyosarcoma, NOS
-- term_id: snmi:M-90513
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-90513
   term_label: Fibrous mesothelioma, malignant
-- term_id: snmi:M-91333
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-91333
   term_label: Epithelioid hemangioendothelioma, malignant
-- term_id: snmi:M-91803
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-91803
   term_label: Osteosarcoma, NOS
 contact:
   email: ioana.borze@helsinki.fi

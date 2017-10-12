@@ -6,25 +6,45 @@ abstract: Barrett adenocarcinoma BA and gastric adenocarcinoma comprise a relate
 authors: El-Rifai W, Frierson HF Jr, Moskaluk CA, Harper JC, Petroni GR, Bissonette
   EA, Jones DR, Knuutila S and Powell SM.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdom:8144_3
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdom:8144_3
   term_label: Adenocarcinoma, intestinal type
-- term_id: pgx:icdot:C15
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdot:C15
   term_label: esophagus
-- term_id: pgx:icdot:C16
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:seer:21010
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:seer:21010
   term_label: Esophagus
-- term_id: pgx:seer:21020
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:seer:21020
   term_label: Stomach
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
-- term_id: snmi:M-81443
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: snmi:M-81443
   term_label: Adenocarcinoma, intestinal type
 contact:
   email: wael.el-rifai@Vanderbilt.Edu

@@ -4,15 +4,25 @@ abstract: To identify genetic alteration in primary sporadic nasopharyngeal carc
 authors: Li Z, Wang L, Zhang X, Zhang L, Zhang B, Yu Y, Zeng Z, Zhou M, Huang W, Chen
   Z, Chen S and Li G.
 cancertypes:
-- term_id: ncit:C4107
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C4107
   term_label: ~
-- term_id: pgx:icdom:8082_3
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:8082_3
   term_label: Lymphoepithelial carcinoma
-- term_id: pgx:icdot:C11
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdot:C11
   term_label: nasopharynx
-- term_id: pgx:seer:20060
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:seer:20060
   term_label: Nasopharynx
-- term_id: snmi:M-80823
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-80823
   term_label: Lymphoepithelial carcinoma
 contact:
   email: ~

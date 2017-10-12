@@ -17,15 +17,25 @@ abstract: 'Ovarian cancer is the leading cause of death among patients with gyne
   in specific regions predicts a good clinical outcome for individual patients.'
 authors: Partheen K, Levan K, Osterberg L, Helou K and Horvath G.
 cancertypes:
-- term_id: ncit:C6882
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: ncit:C6882
   term_label: ~
-- term_id: pgx:icdom:8460_3
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: pgx:icdom:8460_3
   term_label: Papillary serous cystadenocarcinoma
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-84603
+- samples_arraymap: ~
+  samples_progenetix: 98
+  term_id: snmi:M-84603
   term_label: Papillary serous cystadenocarcinoma
 contact:
   email: ~

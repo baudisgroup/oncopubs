@@ -21,17 +21,29 @@ abstract: Taxanes are important drugs in the treatment of ovarian and other canc
 authors: Wang YC, Juric D, Francisco B, Yu RX, Duran GE, Chen GK, Chen X and Sikic
   BI
 cancertypes:
-- term_id: ncit:C4908
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: ncit:C4908
   term_label: Ovarian Carcinoma
-- term_id: pgx:icdom:8010_3
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdom:8010_3
   term_label: Carcinoma, NOS
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: seer:27040
-  term_label: ovary
-- term_id: snmi:M-80103
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: snmi:M-80103
   term_label: Carcinoma, NOS
 contact:
   email: brandy@stanford.edu

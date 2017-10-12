@@ -19,19 +19,33 @@ abstract: 'Many detailed genetic studies have been reported on prostate carcinog
 authors: Wullich B, Riedinger S, Brinck U, Stoeckle M, Kamradt J, Ketter R and Jung
   V.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C61.9
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C61.9
   term_label: prostate gland
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:28010
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:28010
   term_label: Prostate
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: urbwul@uniklinik-saarland.de

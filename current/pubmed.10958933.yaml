@@ -18,21 +18,37 @@ abstract: Uterine leiomyomata are among the most common of human neoplasms and a
   argues against their being benign-malignant counterparts.
 authors: Levy B, Mukherjee T and Hirschhorn K.
 cancertypes:
-- term_id: ncit:C3157
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C3157
   term_label: Leiomyoma
-- term_id: ncit:C3158
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C3158
   term_label: Leiomyosarcoma
-- term_id: pgx:icdom:8890_0
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:8890_0
   term_label: Leiomyoma, NOS
-- term_id: pgx:icdom:8890_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:8890_3
   term_label: Leiomyosarcoma, NOS
-- term_id: pgx:icdot:C55.9
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C55.9
   term_label: uterus, nos
-- term_id: pgx:seer:27030
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:27030
   term_label: Uterus, NOS
-- term_id: snmi:M-88900
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-88900
   term_label: Leiomyoma, NOS
-- term_id: snmi:M-88903
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-88903
   term_label: Leiomyosarcoma, NOS
 contact:
   email: levyb01@doc.mssm.edu

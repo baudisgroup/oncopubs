@@ -19,17 +19,29 @@ abstract: 'Genomic instability can be divided into 2 categories: chromosomal ins
   CIN phenotype.'
 authors: Vauhkonen H, Vauhkonen M, Sajantila A, Sipponen P and Knuutila S.
 cancertypes:
-- term_id: ncit:C9157
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C9157
   term_label: Gastric Intestinal Type Adenocarcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8144_3
+- samples_arraymap: 5
+  samples_progenetix: 7
+  term_id: pgx:icdom:8144_3
   term_label: Adenocarcinoma, intestinal type
-- term_id: pgx:icdot:C16
+- samples_arraymap: 5
+  samples_progenetix: 7
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:seer:21020
+- samples_arraymap: 5
+  samples_progenetix: 7
+  term_id: pgx:seer:21020
   term_label: Stomach
-- term_id: snmi:M-81443
+- samples_arraymap: 5
+  samples_progenetix: 7
+  term_id: snmi:M-81443
   term_label: Adenocarcinoma, intestinal type
 contact:
   email: hanna.vauhkonen@helsinki.fi

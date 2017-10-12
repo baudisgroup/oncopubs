@@ -23,15 +23,25 @@ abstract: 495 medulloblastomas MBs from 6 Pediatric Oncology Group POG protocols
 authors: Brown HG, Kepner JL, Perlman EJ, Friedman HS, Strother DR, Duffner PK, Kun
   LE, Goldthwaite PT and Burger PC.
 cancertypes:
-- term_id: ncit:C6904
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C6904
   term_label: Large Cell Medulloblastoma
-- term_id: pgx:icdom:9474_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9474_3
   term_label: Large cell medulloblastoma
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94743
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-94743
   term_label: Large cell medulloblastoma
 contact:
   email: pburger@jhmi.edu

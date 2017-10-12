@@ -21,15 +21,25 @@ abstract: 'The current classification system of renal tumors is based on morphol
   collecting duct origin: tubular-mucinous renal tumors of low malignant potential.'
 authors: Rakozy C, Schmahl GE, Bogner S and Storkel S.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C2855
   term_label: ~
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
 contact:
   email: stoerkel@klinikum-wuppertal.de

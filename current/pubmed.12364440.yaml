@@ -23,21 +23,37 @@ abstract: H rthle cell thyroid neoplasms are classified as variants of follicula
   be predictive for recurrent disease in patients with H rthle cell thyroid carcinoma.
 authors: Wada N, Duh QY, Miura D, Brunaud L, Wong MG and Clark OH.
 cancertypes:
-- term_id: ncit:C3679
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: ncit:C3679
   term_label: Oxyphilic Adenocarcinoma
-- term_id: ncit:C3759
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: ncit:C3759
   term_label: ~
-- term_id: pgx:icdom:8290_0
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:icdom:8290_0
   term_label: Oxyphilic adenoma
-- term_id: pgx:icdom:8290_3
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:8290_3
   term_label: Oxyphilic adenocarcinoma
-- term_id: pgx:icdot:C73.9
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdot:C73.9
   term_label: thyroid gland
-- term_id: pgx:seer:32010
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:seer:32010
   term_label: Thyroid
-- term_id: snmi:M-82900
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: snmi:M-82900
   term_label: Oxyphilic adenoma
-- term_id: snmi:M-82903
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-82903
   term_label: Oxyphilic adenocarcinoma
 contact:
   email: clarko@surgery.ucsf.edu

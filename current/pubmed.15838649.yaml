@@ -13,15 +13,25 @@ abstract: Pyloric gland adenoma is a recently described and very rare entity. Th
 authors: Kushima R, Vieth M, Mukaisho K, Sakai R, Okabe H, Hattori T, Neuhaus H, Borchard
   F and Stolte M.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2855
   term_label: ~
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdot:C15
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C15
   term_label: esophagus
-- term_id: pgx:seer:21010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21010
   term_label: Esophagus
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
 contact:
   email: kushima@belle.shiga-med.ac.jp

@@ -3,8 +3,10 @@ abstract: ~
 authors: Alimov A, Sundelin B, Bergerheim U, Pavlenko M, Pisa P, Zetterberg A, Larsson
   C, and Lagercrantz S.
 cancertypes:
-- term_id: seer:37000
-  term_label: miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: ~
   name: ~

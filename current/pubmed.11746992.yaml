@@ -19,21 +19,37 @@ abstract: Invasive cervical carcinoma is thought to arise from cervical intraepi
 authors: Umayahara K, Numa F, Suehiro Y, Sakata A, Nawata S, Ogata H, Suminami Y,
   Sakamoto M, Sasaki K and Kato H.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 48
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8070_1
+- samples_arraymap: ~
+  samples_progenetix: 48
+  term_id: pgx:icdom:8070_1
   term_label: ~
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C53
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: pgx:icdot:C53
   term_label: cervix uteri
-- term_id: pgx:seer:27010
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: pgx:seer:27010
   term_label: Cervix Uteri
-- term_id: snmi:M-80701
+- samples_arraymap: ~
+  samples_progenetix: 48
+  term_id: snmi:M-80701
   term_label: ~
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: kenji-u@po.cc.yamaguchi-u.ac.jp

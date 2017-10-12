@@ -6,23 +6,41 @@ abstract: Atypical teratoid rhabdoid tumours AT RT are highly malignant embryona
   22 not much data exists on additional chromosomal aberrations.
 authors: Rickert CH and Paulus W.
 cancertypes:
-- term_id: ncit:C6906
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C6906
   term_label: Atypical Teratoid/Rhabdoid Tumor
-- term_id: pgx:icdom:9508_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9508_3
   term_label: Atypical teratoid/rhabdoid tumor
-- term_id: pgx:icdot:C71.0
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C71.0
   term_label: cerebrum
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C71.9
   term_label: Brain, NOS
-- term_id: pgx:icdot:C75.3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C75.3
   term_label: pineal gland
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-95083
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-95083
   term_label: Atypical teratoid/rhabdoid tumor
 contact:
   email: ~

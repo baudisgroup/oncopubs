@@ -23,19 +23,33 @@ abstract: 'Mucoepidermoid carcinoma, the most common human malignant salivary gl
   or serous glands mediating chromosomal rearrangements.'
 authors: Tonon G, Gehlhaus KS, Yonescu R, Kaye FJ and Kirsch IR.
 cancertypes:
-- term_id: ncit:C3772
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3772
   term_label: ~
-- term_id: pgx:icdom:8430_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8430_3
   term_label: Mucoepidermoid carcinoma
-- term_id: pgx:icdot:C07
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C07
   term_label: parotid gland
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:seer:20030
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:20030
   term_label: Salivary Gland
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: snmi:M-84303
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-84303
   term_label: Mucoepidermoid carcinoma
 contact:
   email: ~

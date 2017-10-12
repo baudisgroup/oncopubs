@@ -5,15 +5,25 @@ abstract: Pathogenesis of ependymomas is still poorly understood and molecular m
 authors: Mendrzyk F, Korshunov A, Benner A, Toedt G, Pfister S, Radlwimmer B and Lichter
   P.
 cancertypes:
-- term_id: ncit:C6903
+- samples_arraymap: 68
+  samples_progenetix: ~
+  term_id: ncit:C6903
   term_label: Tanycytic Ependymoma
-- term_id: pgx:icdom:9391_3
+- samples_arraymap: 68
+  samples_progenetix: ~
+  term_id: pgx:icdom:9391_3
   term_label: Ependymoma, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: 68
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
   term_label: Brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: 68
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-93913
+- samples_arraymap: 68
+  samples_progenetix: ~
+  term_id: snmi:M-93913
   term_label: Ependymoma, NOS
 contact:
   email: m.macleod@dkfz.de

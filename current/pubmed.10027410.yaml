@@ -19,21 +19,37 @@ abstract: To screen pancreatic carcinomas for chromosomal aberrations we have ap
 authors: Ghadimi BM, Schrock E, Walker RL, Wangsa D, Jauho A, Meltzer PS and Ried
   T.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C2916
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C2916
   term_label: Carcinoma
-- term_id: pgx:icdom:8010_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8010_3
   term_label: Carcinoma, NOS
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C25
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C25
   term_label: pancreas
-- term_id: pgx:seer:21100
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:21100
   term_label: Pancreas
-- term_id: snmi:M-80103
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-80103
   term_label: Carcinoma, NOS
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: ~

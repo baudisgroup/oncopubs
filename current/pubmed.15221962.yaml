@@ -25,29 +25,53 @@ abstract: 'Intratumor heterogeneity in chromosomal aberrations is believed to re
 authors: Lyng H, Beigi M, Svendsrud DH, Brustugun OT, Stokke T, Kristensen GB, Sundfor
   K, Skjonsberg A and De Angelis PM.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:C3727
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3727
   term_label: Adenosquamous Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdom:8560_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8560_3
   term_label: Adenosquamous carcinoma
-- term_id: pgx:icdom:NA
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:NA
   term_label: ~
-- term_id: pgx:icdot:C53
+- samples_arraymap: ~
+  samples_progenetix: 42
+  term_id: pgx:icdot:C53
   term_label: cervix uteri
-- term_id: pgx:seer:27010
+- samples_arraymap: ~
+  samples_progenetix: 39
+  term_id: pgx:seer:27010
   term_label: Cervix Uteri
-- term_id: pgx:seer:NA
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:NA
   term_label: NA
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
-- term_id: snmi:M-85603
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-85603
   term_label: Adenosquamous carcinoma
-- term_id: snmi:M-NA
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-NA
   term_label: ~
 contact:
   email: ~

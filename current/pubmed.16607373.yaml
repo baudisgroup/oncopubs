@@ -24,53 +24,101 @@ abstract: 'The limited information available to date regarding the genetic alter
 authors: Schneider DT, Zahn S, Sievers S, Alemazkour K, Reifenberger G, Wiestler OD,
   Calaminus G, Gobel U and Perlman EJ.
 cancertypes:
-- term_id: ncit:C3011
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3011
   term_label: Yolk Sac Tumor
-- term_id: ncit:C3708
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C3708
   term_label: Germ Cell Tumor
-- term_id: ncit:C3752
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3752
   term_label: Embryonal Carcinoma
-- term_id: ncit:C3756
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3756
   term_label: ~
-- term_id: ncit:C4286
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C4286
   term_label: Immature Teratoma
-- term_id: ncit:C9014
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C9014
   term_label: Cystic Teratoma
-- term_id: pgx:icdom:9064_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9064_3
   term_label: Germinoma
-- term_id: pgx:icdom:9070_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9070_3
   term_label: Embryonal carcinoma, NOS
-- term_id: pgx:icdom:9071_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9071_3
   term_label: Yolk sac tumor
-- term_id: pgx:icdom:9080_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9080_0
   term_label: Teratoma, benign
-- term_id: pgx:icdom:9080_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9080_3
   term_label: Teratoma, malignant, NOS
-- term_id: pgx:icdom:9081_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9081_3
   term_label: Teratocarcinoma
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:icdot:C72.0
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C72.0
   term_label: Spinal cord
-- term_id: pgx:icdot:C75.3
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdot:C75.3
   term_label: pineal gland
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: pgx:seer:31040
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:31040
   term_label: Cranial Nerves Other Nervous System
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-90643
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-90643
   term_label: Germinoma
-- term_id: snmi:M-90703
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-90703
   term_label: Embryonal carcinoma, NOS
-- term_id: snmi:M-90713
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-90713
   term_label: Yolk sac tumor
-- term_id: snmi:M-90800
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-90800
   term_label: Teratoma, benign
-- term_id: snmi:M-90803
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-90803
   term_label: Teratoma, malignant, NOS
-- term_id: snmi:M-90813
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-90813
   term_label: Teratocarcinoma
 contact:
   email: dominik.schneider@uni-duesseldorf.de

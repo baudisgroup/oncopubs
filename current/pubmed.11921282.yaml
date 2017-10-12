@@ -17,31 +17,57 @@ abstract: 'Identification of gene amplifications in human tumors is important fo
   and resolution compared to that of conventional CGH.'
 authors: Zhao J, Roth J, Bode-Lesniewska B, Pfaltz M, Heitz PU and Komminoth P.
 cancertypes:
-- term_id: ncit:C9003
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: ncit:C9003
   term_label: Adrenal Cortex Adenoma
-- term_id: ncit:C9306
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C9306
   term_label: Soft Tissue Sarcoma
-- term_id: ncit:C9325
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C9325
   term_label: Adrenal Cortex Carcinoma
-- term_id: pgx:icdom:8370_0
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdom:8370_0
   term_label: Adrenal cortical adenoma, NOS
-- term_id: pgx:icdom:8370_3
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:8370_3
   term_label: Adrenal cortical carcinoma
-- term_id: pgx:icdom:8800_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:8800_3
   term_label: Sarcoma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:icdot:C74.0
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: pgx:icdot:C74.0
   term_label: adrenal cortex
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-83700
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: snmi:M-83700
   term_label: Adrenal cortical adenoma, NOS
-- term_id: snmi:M-83703
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-83703
   term_label: Adrenal cortical carcinoma
-- term_id: snmi:M-88003
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-88003
   term_label: Sarcoma, NOS
 contact:
   email: jianming.zhao@pty.usz.ch

@@ -17,15 +17,25 @@ abstract: Leiomyosarcomas of soft tissues are an aggressive group of tumors with
 authors: Wang R, Titley JC, Lu YJ, Summersgill BM, Bridge JA, Fisher C and Shipley
   J.
 cancertypes:
-- term_id: ncit:C3158
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: ncit:C3158
   term_label: Leiomyosarcoma
-- term_id: pgx:icdom:8890_3
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdom:8890_3
   term_label: Leiomyosarcoma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88903
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: snmi:M-88903
   term_label: Leiomyosarcoma, NOS
 contact:
   email: janet.shipley@icr.ac.uk

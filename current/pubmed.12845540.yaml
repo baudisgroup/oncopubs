@@ -26,15 +26,25 @@ abstract: Glial tumors are the most common tumors of the nervous system, affecti
 authors: Arslantas A, Artan S, Oner U, Muslumanoglu H, Durmaz R, Cosan E, Atasoy MA,
   Basaran N, and Tel E.
 cancertypes:
-- term_id: ncit:C3058
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:C3058
   term_label: Glioblastoma
-- term_id: pgx:icdom:9440_3
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:9440_3
   term_label: Glioblastoma, NOS
-- term_id: pgx:icdot:C71.0
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C71.0
   term_label: cerebrum
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94403
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-94403
   term_label: Glioblastoma, NOS
 contact:
   email: aali@ogu.edu.tr

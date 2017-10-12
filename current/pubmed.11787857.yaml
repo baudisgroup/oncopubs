@@ -18,15 +18,25 @@ abstract: Distinction of spitzoid malignant melanomas SMM from Spitz nevi may be
   number of lesions must be investigated.
 authors: Mihic-Probst D, Zhao J, Saremaslani P, Baer A, Komminoth P and Heitz PU.
 cancertypes:
-- term_id: ncit:C66756
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C66756
   term_label: Mixed Epithelioid and Spindle Cell Melanoma
-- term_id: pgx:icdom:8770_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8770_3
   term_label: Mixed epithelioid and spindle cell melanoma
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25010
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:25010
   term_label: Melanoma of the Skin
-- term_id: snmi:M-87703
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-87703
   term_label: Mixed epithelioid and spindle cell melanoma
 contact:
   email: daniela.mihic@pty.usz.ch

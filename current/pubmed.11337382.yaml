@@ -19,15 +19,25 @@ abstract: Splenic marginal zone lymphoma SMZL has recently been recognized in th
 authors: Hernandez JM, Garcia JL, Gutierrez NC, Mollejo M, Martinez-Climent JA, Flores
   T, Gonzalez MB, Piris MA and San Miguel JF.
 cancertypes:
-- term_id: ncit:C4663
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C4663
   term_label: Splenic Marginal Zone Lymphoma
-- term_id: pgx:icdom:9689_3
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:9689_3
   term_label: Splenic marginal zone B-cell lymphoma
-- term_id: pgx:icdot:C42.2
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdot:C42.2
   term_label: Spleen
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96893
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-96893
   term_label: Splenic marginal zone B-cell lymphoma
 contact:
   email: ~

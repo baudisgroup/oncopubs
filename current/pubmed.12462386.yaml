@@ -23,15 +23,25 @@ abstract: Mucinous cancers of the breast are distinguished histologically by the
   be substantially different than that of usual ductal breast cancer.
 authors: Fujii H, Anbazhagan R, Bornman DM, Garrett ES, Perlman E and Gabrielson E.
 cancertypes:
-- term_id: ncit:C26712
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C26712
   term_label: Mucinous Adenocarcinoma
-- term_id: pgx:icdom:8480_3
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8480_3
   term_label: Mucinous adenocarcinoma
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-84803
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-84803
   term_label: Mucinous adenocarcinoma
 contact:
   email: egabriel@jhmi.edu

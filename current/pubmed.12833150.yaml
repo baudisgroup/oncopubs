@@ -19,15 +19,25 @@ abstract: Fallopian tube carcinoma FTC is a rare, poorly studied and aggressive 
 authors: Snijders AM, Nowee ME, Fridlyand J, Piek JM, Dorsman JC, Jain AN, Pinkel
   D, van Diest PJ, Verheijen RH and Albertson DG.
 cancertypes:
-- term_id: ncit:C3867
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: ncit:C3867
   term_label: Fallopian Tube Carcinoma
-- term_id: pgx:icdom:8010_3
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: pgx:icdom:8010_3
   term_label: Carcinoma, NOS
-- term_id: pgx:icdot:C57.0
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: pgx:icdot:C57.0
   term_label: fallopian tube
-- term_id: pgx:seer:27040
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-80103
+- samples_arraymap: 14
+  samples_progenetix: ~
+  term_id: snmi:M-80103
   term_label: Carcinoma, NOS
 contact:
   email: albertson@cc.ucsf.edu

@@ -3,15 +3,25 @@ abstract: ~
 authors: Serio G, Scattone A, Gentile M, Nazzaro P, Pennella A, Buonadonna AL, Pollice
   L, and Musti M.
 cancertypes:
-- term_id: ncit:C3234
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3234
   term_label: Mesothelioma
-- term_id: pgx:icdom:9050_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9050_3
   term_label: Mesothelioma, malignant
-- term_id: pgx:icdot:C38.4
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C38.4
   term_label: pleura
-- term_id: pgx:seer:36010
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:36010
   term_label: Mesothelioma
-- term_id: snmi:M-90503
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-90503
   term_label: Mesothelioma, malignant
 contact:
   email: ~

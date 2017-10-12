@@ -8,17 +8,29 @@ authors: Hidalgo A, Baudis M, Petersen I, Arreola H, Pina P, Vazquez-Ortiz G, He
   D, Gonzalez J, Lazos M, Lopez R, Perez C, Garcia J, Vazquez K, Alatorre B and Salcedo
   M.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:C4028
+- samples_arraymap: 16
+  samples_progenetix: ~
+  term_id: ncit:C4028
   term_label: Cervical Squamous Cell Carcinoma, Not Otherwise Specified
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: 16
+  samples_progenetix: 20
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C53
+- samples_arraymap: 16
+  samples_progenetix: 20
+  term_id: pgx:icdot:C53
   term_label: cervix uteri
-- term_id: pgx:seer:27010
+- samples_arraymap: 16
+  samples_progenetix: 20
+  term_id: pgx:seer:27010
   term_label: Cervix Uteri
-- term_id: snmi:M-80703
+- samples_arraymap: 16
+  samples_progenetix: 20
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: mbaudis@gmail.com

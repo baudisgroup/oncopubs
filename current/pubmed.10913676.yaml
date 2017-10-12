@@ -18,15 +18,25 @@ abstract: Neuroblastoma, the most common extracranial solid tumor of childhood, 
   association between 3p and 11q loss and more clinically aggressive tumors.
 authors: Breen CJ, OMeara A, McDermott M, Mullarkey M and Stallings RL.
 cancertypes:
-- term_id: ncit:C3270
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:C3270
   term_label: Neuroblastoma
-- term_id: pgx:icdom:9500_3
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:9500_3
   term_label: Neuroblastoma, NOS
-- term_id: pgx:icdot:C72.9
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdot:C72.9
   term_label: Nervous system, NOS
-- term_id: pgx:seer:31040
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:seer:31040
   term_label: Cranial Nerves Other Nervous System
-- term_id: snmi:M-95003
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-95003
   term_label: Neuroblastoma, NOS
 contact:
   email: ~

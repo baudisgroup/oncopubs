@@ -18,15 +18,25 @@ abstract: The purpose of this study was to determine the molecular relationship 
   liver biopsies or fine needle aspirates.
 authors: Ng IO, Guan XY, Poon RT, Fan ST and Lee JM.
 cancertypes:
-- term_id: ncit:C3099
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: ncit:C3099
   term_label: Hepatocellular Carcinoma
-- term_id: pgx:icdom:8170_3
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:icdom:8170_3
   term_label: Hepatocellular carcinoma, NOS
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-81703
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: snmi:M-81703
   term_label: Hepatocellular carcinoma, NOS
 contact:
   email: iolng@hku.hk

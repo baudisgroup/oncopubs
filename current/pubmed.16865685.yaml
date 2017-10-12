@@ -17,17 +17,29 @@ abstract: Despite the fact that numerous studies have been performed on diffuse 
 authors: Bosga-Bouwer AG, Kok K, Booman M, Boven L, van der Vlies P, van den Berg
   A, van den Berg E, de Jong B, Poppema S and Kluin P.
 cancertypes:
-- term_id: ncit:C4342
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C4342
   term_label: Intravascular Large B-Cell Lymphoma
-- term_id: ncit:C8851
+- samples_arraymap: 9
+  samples_progenetix: ~
+  term_id: ncit:C8851
   term_label: Diffuse Large B-Cell Lymphoma
-- term_id: pgx:icdom:9680_3
+- samples_arraymap: 9
+  samples_progenetix: 11
+  term_id: pgx:icdom:9680_3
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: pgx:icdot:C62
+- samples_arraymap: 9
+  samples_progenetix: 11
+  term_id: pgx:icdot:C62
   term_label: testis
-- term_id: pgx:seer:33042
+- samples_arraymap: 9
+  samples_progenetix: 11
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96803
+- samples_arraymap: 9
+  samples_progenetix: 11
+  term_id: snmi:M-96803
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: a.g.bosga-bouwer@medgen.umcg.nl

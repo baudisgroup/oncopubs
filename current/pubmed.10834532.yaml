@@ -22,15 +22,25 @@ abstract: Comparative genomic hybridisation CGH is a technique which identifies 
 authors: Wilkens L, Benten D, Tchinda J, Brabant G, Potter E, Dralle H and von Wasielewski
   R.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8021_3
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8021_3
   term_label: Carcinoma, anaplastic, NOS
-- term_id: pgx:icdot:C73.9
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C73.9
   term_label: thyroid gland
-- term_id: pgx:seer:32010
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:32010
   term_label: Thyroid
-- term_id: snmi:M-80213
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-80213
   term_label: Carcinoma, anaplastic, NOS
 contact:
   email: ~

@@ -18,15 +18,25 @@ abstract: Neoplasm of the vulva is a rare malignancy accounting for amp lt 5 of 
   to these two squamous cell carcinomas.
 authors: Jee KJ, Kim YT, Kim KR, Kim HS, Yan A and Knuutila S.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C51.9
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C51.9
   term_label: vulva, nos
-- term_id: pgx:seer:27060
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:27060
   term_label: Vulva
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: ~

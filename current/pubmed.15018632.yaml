@@ -8,15 +8,25 @@ abstract: Carcinoma of uterine cervix is the second most common cancers among wo
 authors: Rao PH, Arias-Pulido H, Lu XY, Harris CP, Vargas H, Zhang FF, Narayan G,
   Schneider A, Terry MB and Murty VV.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 83
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 83
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C53
+- samples_arraymap: ~
+  samples_progenetix: 83
+  term_id: pgx:icdot:C53
   term_label: cervix uteri
-- term_id: pgx:seer:27010
+- samples_arraymap: ~
+  samples_progenetix: 83
+  term_id: pgx:seer:27010
   term_label: Cervix Uteri
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 83
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: phrao@txccc.org

@@ -15,57 +15,109 @@ abstract: High-resolution genome-wide mapping of exact boundaries of chromosomal
   genes TOPORS, FANCG, RAD51, TP53BP1, and BIK that could have a role in gliomagenesis.
 authors: Bredel M, Bredel C, Juric D, Harsh GR, Vogel H, Recht LD and Sikic BI.
 cancertypes:
-- term_id: ncit:C3058
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: ncit:C3058
   term_label: Glioblastoma
-- term_id: ncit:C3059
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C3059
   term_label: Glioma
-- term_id: ncit:C3288
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C3288
   term_label: Oligodendroglioma
-- term_id: ncit:C3796
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: ncit:C3796
   term_label: Gliosarcoma
-- term_id: ncit:C4047
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C4047
   term_label: Pilocytic Astrocytoma
-- term_id: ncit:C4050
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: ncit:C4050
   term_label: Oligoastrocytoma
-- term_id: ncit:C4326
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C4326
   term_label: Anaplastic Oligodendroglioma
-- term_id: ncit:C9477
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C9477
   term_label: Anaplastic Astrocytoma
-- term_id: pgx:icdom:9380_3
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:9380_3
   term_label: Glioma, malignant
-- term_id: pgx:icdom:9382_3
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: pgx:icdom:9382_3
   term_label: Mixed glioma
-- term_id: pgx:icdom:9401_3
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:9401_3
   term_label: Astrocytoma, anaplastic
-- term_id: pgx:icdom:9421_1
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:9421_1
   term_label: Pilocytic astrocytoma
-- term_id: pgx:icdom:9440_3
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: pgx:icdom:9440_3
   term_label: Glioblastoma, NOS
-- term_id: pgx:icdom:9442_3
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: pgx:icdom:9442_3
   term_label: Gliosarcoma
-- term_id: pgx:icdom:9450_3
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:9450_3
   term_label: Oligodendroglioma, NOS
-- term_id: pgx:icdom:9451_3
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:9451_3
   term_label: Oligodendroglioma, anaplastic
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: pgx:icdot:C71.9
   term_label: Brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: 54
+  samples_progenetix: ~
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-93803
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-93803
   term_label: Glioma, malignant
-- term_id: snmi:M-93823
+- samples_arraymap: 7
+  samples_progenetix: ~
+  term_id: snmi:M-93823
   term_label: Mixed glioma
-- term_id: snmi:M-94013
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-94013
   term_label: Astrocytoma, anaplastic
-- term_id: snmi:M-94211
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-94211
   term_label: Pilocytic astrocytoma
-- term_id: snmi:M-94403
+- samples_arraymap: 29
+  samples_progenetix: ~
+  term_id: snmi:M-94403
   term_label: Glioblastoma, NOS
-- term_id: snmi:M-94423
+- samples_arraymap: 2
+  samples_progenetix: ~
+  term_id: snmi:M-94423
   term_label: Gliosarcoma
-- term_id: snmi:M-94503
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-94503
   term_label: Oligodendroglioma, NOS
-- term_id: snmi:M-94513
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-94513
   term_label: Oligodendroglioma, anaplastic
 contact:
   email: mbredel@stanford.edu

@@ -27,23 +27,41 @@ abstract: Flat urothelial hyperplasia, defined as markedly thickened urothelium 
 authors: Obermann EC, Junker K, Stoehr R, Dietmaier W, Zaak D, Schubert J, Hofstaedter
   F, Knuechel R and Hartmann A.
 cancertypes:
-- term_id: ncit:C2930
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C2930
   term_label: Transitional Cell Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8120_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8120_3
   term_label: Transitional cell carcinoma, NOS
-- term_id: pgx:icdot:C67.0
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C67.0
   term_label: urinary bladder
-- term_id: pgx:seer:29010
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:29010
   term_label: Urinary Bladder
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-81203
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-81203
   term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~

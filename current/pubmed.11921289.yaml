@@ -27,33 +27,61 @@ abstract: Primary mediastinal germ cell tumors M-GCTs represent a heterogeneous 
 authors: Schneider DT, Schuster AE, Fritsch MK, Calaminus G, Gobel U, Harms D, Lauer
   S, Olson T and Perlman EJ.
 cancertypes:
-- term_id: ncit:C2948
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2948
   term_label: Choriocarcinoma
-- term_id: ncit:C3011
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C3011
   term_label: Yolk Sac Tumor
-- term_id: ncit:C4286
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: ncit:C4286
   term_label: Immature Teratoma
-- term_id: ncit:C9010
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C9010
   term_label: Mixed Teratoma and Seminoma
-- term_id: pgx:icdom:9071_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:9071_3
   term_label: Yolk sac tumor
-- term_id: pgx:icdom:9080_3
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:icdom:9080_3
   term_label: Teratoma, malignant, NOS
-- term_id: pgx:icdom:9085_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:9085_3
   term_label: Mixed germ cell tumor
-- term_id: pgx:icdom:9100_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9100_3
   term_label: Choriocarcinoma, NOS
-- term_id: pgx:icdot:C38
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: pgx:icdot:C38
   term_label: mediastinum
-- term_id: pgx:seer:22060
+- samples_arraymap: ~
+  samples_progenetix: 35
+  term_id: pgx:seer:22060
   term_label: Trachea, Mediastinum and Other Respiratory Organs
-- term_id: snmi:M-90713
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-90713
   term_label: Yolk sac tumor
-- term_id: snmi:M-90803
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: snmi:M-90803
   term_label: Teratoma, malignant, NOS
-- term_id: snmi:M-90853
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-90853
   term_label: Mixed germ cell tumor
-- term_id: snmi:M-91003
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-91003
   term_label: Choriocarcinoma, NOS
 contact:
   email: ~

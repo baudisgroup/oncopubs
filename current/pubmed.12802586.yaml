@@ -19,17 +19,29 @@ abstract: Primary central nervous system lymphoma PCNSL is a rare disease. A sma
   of lymphomas at immunoprivileged sites, like the CNS.
 authors: Boonstra R, Koning A, Mastik M, van den Berg A and Poppema S.
 cancertypes:
-- term_id: ncit:C4342
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C4342
   term_label: Intravascular Large B-Cell Lymphoma
-- term_id: pgx:icdom:9680_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:9680_3
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:icdot:C72.0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C72.0
   term_label: Spinal cord
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96803
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-96803
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: s.poppema@med.rug.nl

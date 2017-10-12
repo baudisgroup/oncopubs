@@ -4,15 +4,25 @@ abstract: The aim of this study was to characterize gene expression and DNA copy
   lines on a genome-wide scale.
 authors: Zhao H, Kim Y, Wang P, Lapointe J, Tibshirani R, Pollack JR and Brooks JD.
 cancertypes:
-- term_id: ncit:C2919
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:C2919
   term_label: Prostate Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C61.9
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdot:C61.9
   term_label: Prostate gland
-- term_id: pgx:seer:28010
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:seer:28010
   term_label: Prostate
-- term_id: snmi:M-81403
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: jdbrooks@stanford.edu

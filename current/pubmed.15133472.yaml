@@ -18,15 +18,25 @@ abstract: To clarify the genetic aberrations involved in the development and pro
 authors: Hashimoto K, Mori N, Tamesa T, Okada T, Kawauchi S, Oga A, Furuya T, Tangoku
   A, Oka M and Sasaki K.
 cancertypes:
-- term_id: ncit:C3099
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: ncit:C3099
   term_label: Hepatocellular Carcinoma
-- term_id: pgx:icdom:8170_3
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdom:8170_3
   term_label: Hepatocellular carcinoma, NOS
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-81703
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: snmi:M-81703
   term_label: Hepatocellular carcinoma, NOS
 contact:
   email: kohsuke@yamaguchi-u.ac.jp

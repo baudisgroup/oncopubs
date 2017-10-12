@@ -6,15 +6,25 @@ authors: Rucker FG, Bullinger L, Schwaenen C, Lipka DB, Wessendorf S, Frohling S
   Bentz M, Miller S, Scholl C, Schlenk RF, Radlwimmer B, Kestler HA, Pollack JR, Lichter
   P, Dohner K and Dohner H.
 cancertypes:
-- term_id: ncit:C27753
+- samples_arraymap: 56
+  samples_progenetix: 60
+  term_id: ncit:C27753
   term_label: Acute Myeloid Leukemia Not Otherwise Specified
-- term_id: pgx:icdom:9861_3
+- samples_arraymap: 56
+  samples_progenetix: 60
+  term_id: pgx:icdom:9861_3
   term_label: Acute myeloid leukemia, NOS
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: 56
+  samples_progenetix: 60
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35021
+- samples_arraymap: 56
+  samples_progenetix: 60
+  term_id: pgx:seer:35021
   term_label: Acute Myeloid Leukemia
-- term_id: snmi:M-98613
+- samples_arraymap: 56
+  samples_progenetix: 60
+  term_id: snmi:M-98613
   term_label: Acute myeloid leukemia, NOS
 contact:
   email: hartmut.doehner@uniklinik-ulm.de

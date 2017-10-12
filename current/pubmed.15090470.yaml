@@ -24,27 +24,49 @@ abstract: A number of distinct subtypes of neuroblastoma exist with different ge
 authors: McArdle L, McDermott M, Purcell R, Grehan D, OMeara A, Breatnach F, Catchpoole
   D, Culhane AC, Jeffery I, Gallagher WM and Stallings RL.
 cancertypes:
-- term_id: ncit:C3049
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3049
   term_label: Ganglioneuroma
-- term_id: ncit:C3270
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C3270
   term_label: Neuroblastoma
-- term_id: ncit:C3790
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C3790
   term_label: Ganglioneuroblastoma
-- term_id: pgx:icdom:9490_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9490_0
   term_label: Ganglioneuroma
-- term_id: pgx:icdom:9490_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9490_3
   term_label: Ganglioneuroblastoma
-- term_id: pgx:icdom:9500_3
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:9500_3
   term_label: Neuroblastoma, NOS
-- term_id: pgx:icdot:C72.9
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C72.9
   term_label: Nervous system, NOS
-- term_id: pgx:seer:31040
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:31040
   term_label: Cranial Nerves Other Nervous System
-- term_id: snmi:M-94900
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-94900
   term_label: Ganglioneuroma
-- term_id: snmi:M-94903
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-94903
   term_label: Ganglioneuroblastoma
-- term_id: snmi:M-95003
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-95003
   term_label: Neuroblastoma, NOS
 contact:
   email: ~

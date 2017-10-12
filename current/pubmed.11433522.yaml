@@ -22,16 +22,26 @@ abstract: 'Extranodal B-cell lymphoma of mucosa-associated lymphoid tissue MALT 
 authors: Barth TF, Bentz M, Leithauser F, Stilgenbauer S, Siebert R, Schlotter M,
   Schlenk RF, Dohner H and Moller P.
 cancertypes:
-- term_id: ncit:C7230
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C7230
   term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
     Tissue
-- term_id: pgx:icdom:9699_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9699_3
   term_label: Marginal zone B-cell lymphoma, NOS
-- term_id: pgx:icdot:C16
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96993
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-96993
   term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: thomas.barth@medizin.uni-ulm.de

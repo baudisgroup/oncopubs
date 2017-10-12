@@ -19,15 +19,25 @@ abstract: Prognosis of patients with renal cell carcinoma RCC is mainly determin
 authors: Junker K, Sanger J, Schmidt A, Hindermann W, Presselt N, Helfritzsch H and
   Schubert J.
 cancertypes:
-- term_id: ncit:C4033
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: ncit:C4033
   term_label: Clear Cell Renal Cell Carcinoma
-- term_id: pgx:icdom:8312_3
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: pgx:icdom:8312_3
   term_label: Renal cell carcinoma, NOS
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-83123
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: snmi:M-83123
   term_label: Renal cell carcinoma, NOS
 contact:
   email: kerstin.junker@med.uni-jena.de

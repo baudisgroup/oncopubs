@@ -10,15 +10,25 @@ abstract: Leiomyosarcomas are rare in the head and neck region. The treatment of
   tumors located in the nasal cavity.
 authors: Peters I, Brunner C, Urbschat S and Schick B.
 cancertypes:
-- term_id: ncit:C3158
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3158
   term_label: Leiomyosarcoma
-- term_id: pgx:icdom:8890_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8890_3
   term_label: Leiomyosarcoma, NOS
-- term_id: pgx:icdot:C30
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C30
   term_label: nasal cavity including nasal cartilage
-- term_id: pgx:seer:22010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22010
   term_label: Nose, Nasal Cavity and Middle Ear
-- term_id: snmi:M-88903
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-88903
   term_label: Leiomyosarcoma, NOS
 contact:
   email: ~

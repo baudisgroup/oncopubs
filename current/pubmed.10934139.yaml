@@ -20,25 +20,45 @@ abstract: Despite several loss of heterozygosity studies, a comprehensive genomi
 authors: Dannenberg H, Speel EJ, Zhao J, Saremaslani P, van Der Harst E, Roth J, Heitz
   PU, Bonjer HJ, Dinjens WN, Mooi WJ, Komminoth P and de Krijger RR.
 cancertypes:
-- term_id: ncit:C3326
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: ncit:C3326
   term_label: Adrenal Gland Pheochromocytoma
-- term_id: ncit:C4220
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C4220
   term_label: Malignant Adrenal Gland Pheochromocytoma
-- term_id: pgx:icdom:8700_0
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdom:8700_0
   term_label: Pheochromocytoma, NOS
-- term_id: pgx:icdom:8700_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8700_3
   term_label: Pheochromocytoma, malignant
-- term_id: pgx:icdot:C47
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C47
   term_label: peripheral nervs incl. Autonomous
-- term_id: pgx:icdot:C74
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdot:C74
   term_label: adrenal glands
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-87000
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: snmi:M-87000
   term_label: Pheochromocytoma, NOS
-- term_id: snmi:M-87003
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-87003
   term_label: Pheochromocytoma, malignant
 contact:
   email: h.dannenberg@azr.nl

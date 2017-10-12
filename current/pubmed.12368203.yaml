@@ -27,15 +27,25 @@ abstract: Multiple parathyroid tumors, as opposed to hyperplasia, have been repo
 authors: Dwight T, Nelson AE, Theodosopoulos G, Richardson AL, Learoyd DL, Philips
   J, Delbridge L, Zedenius J, Teh BT, Larsson C, Marsh DJ and Robinson BG.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C2855
   term_label: ~
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdot:C75.0
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C75.0
   term_label: parathyroid gland
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
 contact:
   email: trisha.dwight@cmm.ki.se

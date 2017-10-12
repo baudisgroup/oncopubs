@@ -22,19 +22,33 @@ abstract: Chromosomal imbalances were examined by comparative genomic hybridizat
 authors: Bea S, Lopez-Guillermo A, Ribas M, Puig X, Pinyol M, Carrio A, Zamora L,
   Soler F, Bosch F, Stilgenbauer S, Colomer D, Miro R, Montserrat E and Campo E.
 cancertypes:
-- term_id: ncit:C3163
+- samples_arraymap: ~
+  samples_progenetix: 59
+  term_id: ncit:C3163
   term_label: Chronic Lymphocytic Leukemia
-- term_id: pgx:icdom:9823_3
+- samples_arraymap: ~
+  samples_progenetix: 59
+  term_id: pgx:icdom:9823_3
   term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
-- term_id: pgx:icdot:C18.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C18.9
   term_label: large intestine, excl. rectum and rectosigmoid junction
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: pgx:seer:35012
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:seer:35012
   term_label: Chronic Lymphocytic Leukemia
-- term_id: snmi:M-98233
+- samples_arraymap: ~
+  samples_progenetix: 59
+  term_id: snmi:M-98233
   term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: ecampo@clinic.ub.es

@@ -18,49 +18,93 @@ abstract: 'Ovarian cancer is one of the most common types of malignancy in women
 authors: Helou K, Padilla-Nash H, Wangsa D, Karlsson E, Osterberg L, Karlsson P, Ried
   T and Knutsen T.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C3766
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3766
   term_label: Clear Cell Adenocarcinoma
-- term_id: ncit:C3769
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C3769
   term_label: ~
-- term_id: ncit:C4183
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C4183
   term_label: ~
-- term_id: ncit:C6882
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C6882
   term_label: ~
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdom:8310_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8310_3
   term_label: Clear cell adenocarcinoma, NOS
-- term_id: pgx:icdom:8380_3
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8380_3
   term_label: Endometrioid adenocarcinoma, NOS
-- term_id: pgx:icdom:8442_1
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8442_1
   term_label: Serous cystadenoma, borderline malignancy
-- term_id: pgx:icdom:8460_3
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:8460_3
   term_label: Papillary serous cystadenocarcinoma
-- term_id: pgx:icdom:8462_1
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8462_1
   term_label: Serous papillary cystic tumor of borderline malignancy
-- term_id: pgx:icdom:8472_1
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8472_1
   term_label: Mucinous cystic tumor of borderline malignancy
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
-- term_id: snmi:M-83103
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-83103
   term_label: Clear cell adenocarcinoma, NOS
-- term_id: snmi:M-83803
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-83803
   term_label: Endometrioid adenocarcinoma, NOS
-- term_id: snmi:M-84421
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-84421
   term_label: Serous cystadenoma, borderline malignancy
-- term_id: snmi:M-84603
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-84603
   term_label: Papillary serous cystadenocarcinoma
-- term_id: snmi:M-84621
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-84621
   term_label: Serous papillary cystic tumor of borderline malignancy
-- term_id: snmi:M-84721
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-84721
   term_label: Mucinous cystic tumor of borderline malignancy
 contact:
   email: knutsent@mail.nih.gov

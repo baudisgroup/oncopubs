@@ -18,15 +18,25 @@ authors: Shridhar V, Lee J, Pandita A, Iturria S, Avula R, Staub J, Morrissey M,
   E, Sen A, Kalli K, Keeney G, Roche P, Cliby W, Lu K, Schmandt R, Mills GB, Bast
   RC Jr, James CD, Couch FJ, Hartmann LC, Lillie J and Smith DI.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: ~

@@ -23,15 +23,25 @@ abstract: We carried out molecular cytogenetic characterization of 11 cell lines
   HCCs.
 authors: Yasui K, Arii S, Zhao C, Imoto I, Ueda M, Nagai H, Emi M and Inazawa J.
 cancertypes:
-- term_id: ncit:C3099
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C3099
   term_label: Hepatocellular Carcinoma
-- term_id: pgx:icdom:8170_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:8170_3
   term_label: Hepatocellular carcinoma, NOS
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-81703
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-81703
   term_label: Hepatocellular carcinoma, NOS
 contact:
   email: johinaz.cgen@mri.tmd.ac.jp

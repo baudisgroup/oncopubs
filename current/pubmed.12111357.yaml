@@ -14,15 +14,25 @@ abstract: In the present study the clinical data, histology, proliferation rate,
 authors: Kros JM, Delwel EJ, de Jong TH, Tanghe HL, van Run PR, Vissers K and Alers
   JC.
 cancertypes:
-- term_id: ncit:C9476
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C9476
   term_label: Desmoplastic Infantile Astrocytoma
-- term_id: pgx:icdom:9412_1
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9412_1
   term_label: Desmoplastic infantile astrocytoma
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94121
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-94121
   term_label: Desmoplastic infantile astrocytoma
 contact:
   email: kros@path.fgg.eur.nl

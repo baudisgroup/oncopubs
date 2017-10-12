@@ -23,27 +23,49 @@ abstract: Endometrial hyperplasia is a common disorder that is now observed with
   but is an integral part of the malignant process.
 authors: Baloglu H, Cannizzaro LA, Jones J, and Koss LG.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:C3769
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C3769
   term_label: ~
-- term_id: ncit:C7983
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C7983
   term_label: ~
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdom:8380_1
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8380_1
   term_label: Endometrioid adenoma, borderline malignancy
-- term_id: pgx:icdom:8380_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8380_3
   term_label: Endometrioid adenocarcinoma, NOS
-- term_id: pgx:icdot:C55.9
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C55.9
   term_label: uterus, nos
-- term_id: pgx:seer:27030
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:seer:27030
   term_label: Uterus, NOS
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
-- term_id: snmi:M-83801
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-83801
   term_label: Endometrioid adenoma, borderline malignancy
-- term_id: snmi:M-83803
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-83803
   term_label: Endometrioid adenocarcinoma, NOS
 contact:
   email: ~

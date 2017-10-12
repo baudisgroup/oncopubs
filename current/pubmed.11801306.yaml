@@ -12,15 +12,25 @@ abstract: The ganglioneuroblastoma are rare lesions with widespread neuronal dif
   of ganglioneuroblastoma.
 authors: Toraman AD, Keser I, Luleci G, Tunali N and Gelen T.
 cancertypes:
-- term_id: ncit:C3790
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C3790
   term_label: Ganglioneuroblastoma
-- term_id: pgx:icdom:9490_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9490_3
   term_label: Ganglioneuroblastoma
-- term_id: pgx:icdot:C48
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C48
   term_label: retroperitoneum and peritoneum
-- term_id: pgx:seer:21110
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:21110
   term_label: Retroperitoneum
-- term_id: snmi:M-94903
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-94903
   term_label: Ganglioneuroblastoma
 contact:
   email: ~

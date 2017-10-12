@@ -28,15 +28,25 @@ abstract: Using comparative genomic hybridisation, we investigated chromosomal i
 authors: Penzel R, Hoegel J, Schmitz W, Blaeker H, Morresi-Hauf A, Aulmann S, Hecker
   E, Mechtersheimer G, Otto HF and Rieker RJ.
 cancertypes:
-- term_id: ncit:C3773
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: ncit:C3773
   term_label: Neuroendocrine Carcinoma
-- term_id: pgx:icdom:8246_3
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdom:8246_3
   term_label: Neuroendocrine carcinoma, NOS
-- term_id: pgx:icdot:C37
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdot:C37
   term_label: thymus
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-82463
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: snmi:M-82463
   term_label: Neuroendocrine carcinoma, NOS
 contact:
   email: ralf_rieker@med.uni-heidelberg.de

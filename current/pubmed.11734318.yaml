@@ -17,33 +17,61 @@ abstract: We analyzed genomic aberrations in 20 cervical adenocarcinomas by comp
 authors: Yang YC, Shyong WY, Chang MS, Chen YJ, Lin CH, Huang ZD, Wang, Hsu MT and
   Chen ML.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C3769
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3769
   term_label: ~
-- term_id: ncit:C66951
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C66951
   term_label: ~
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdom:8144_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8144_3
   term_label: Adenocarcinoma, intestinal type
-- term_id: pgx:icdom:8380_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8380_3
   term_label: Endometrioid adenocarcinoma, NOS
-- term_id: pgx:icdom:8384_3
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8384_3
   term_label: Adenocarcinoma, endocervical type
-- term_id: pgx:icdot:C53
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C53
   term_label: cervix uteri
-- term_id: pgx:seer:27010
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:27010
   term_label: Cervix Uteri
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
-- term_id: snmi:M-81443
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-81443
   term_label: Adenocarcinoma, intestinal type
-- term_id: snmi:M-83803
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-83803
   term_label: Endometrioid adenocarcinoma, NOS
-- term_id: snmi:M-83843
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-83843
   term_label: Adenocarcinoma, endocervical type
 contact:
   email: ~

@@ -11,19 +11,33 @@ abstract: Very little is known about genetic abnormalities involved in the devel
   and one paediatric .
 authors: Sanoudou D, Tingby O, Ferguson-Smith MA, Collins VP and Coleman N.
 cancertypes:
-- term_id: ncit:C4047
+- samples_arraymap: ~
+  samples_progenetix: 51
+  term_id: ncit:C4047
   term_label: Pilocytic Astrocytoma
-- term_id: pgx:icdom:9421_1
+- samples_arraymap: ~
+  samples_progenetix: 51
+  term_id: pgx:icdom:9421_1
   term_label: Pilocytic astrocytoma
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:icdot:C71.7
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.7
   term_label: brain stem
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 51
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94211
+- samples_arraymap: ~
+  samples_progenetix: 51
+  term_id: snmi:M-94211
   term_label: Pilocytic astrocytoma
 contact:
   email: ~

@@ -19,15 +19,25 @@ abstract: 'Cytogenetic information on chordomas is rudimentary and restricted to
 authors: Scheil S, Bruderlein S, Liehr T, Starke H, Herms J, Schulte M and Moller
   P.
 cancertypes:
-- term_id: ncit:C2947
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: ncit:C2947
   term_label: Chordoma
-- term_id: pgx:icdom:9370_3
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:9370_3
   term_label: Chordoma, NOS
-- term_id: pgx:icdot:C40.0
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C40.0
   term_label: bones and joints
-- term_id: pgx:seer:23000
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:seer:23000
   term_label: Bones and Joints
-- term_id: snmi:M-93703
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-93703
   term_label: Chordoma, NOS
 contact:
   email: ~

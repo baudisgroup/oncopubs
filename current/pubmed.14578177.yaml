@@ -21,53 +21,101 @@ abstract: Melanoma and benign melanocytic nevi can overlap significantly in thei
   that potential therapeutic targets might vary among melanoma types.
 authors: Bastian BC, Olshen AB, LeBoit PE and Pinkel D.
 cancertypes:
-- term_id: ncit:C27007
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C27007
   term_label: Spitz Nevus
-- term_id: ncit:C3074
+- samples_arraymap: ~
+  samples_progenetix: 45
+  term_id: ncit:C3074
   term_label: ~
-- term_id: ncit:C3224
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: ncit:C3224
   term_label: Melanoma
-- term_id: ncit:C4225
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C4225
   term_label: Nodular Melanoma
-- term_id: ncit:C9151
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: ncit:C9151
   term_label: Lentigo Maligna Melanoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8720_0
+- samples_arraymap: ~
+  samples_progenetix: 45
+  term_id: pgx:icdom:8720_0
   term_label: Pigmented nevus, NOS
-- term_id: pgx:icdom:8720_3
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: pgx:icdom:8720_3
   term_label: Malignant melanoma, NOS
-- term_id: pgx:icdom:8721_3
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8721_3
   term_label: Nodular melanoma
-- term_id: pgx:icdom:8742_3
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:icdom:8742_3
   term_label: Lentigo maligna melanoma
-- term_id: pgx:icdom:8744_3
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdom:8744_3
   term_label: Acral lentiginous melanoma, malignant
-- term_id: pgx:icdom:8761_0
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:8761_0
   term_label: Small congenital nevus
-- term_id: pgx:icdom:8770_0
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8770_0
   term_label: Epithelioid and spindle cell nevus
-- term_id: pgx:icdom:8780_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8780_3
   term_label: Blue nevus, malignant
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 189
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25010
+- samples_arraymap: ~
+  samples_progenetix: 189
+  term_id: pgx:seer:25010
   term_label: Melanoma of the Skin
-- term_id: snmi:M-87200
+- samples_arraymap: ~
+  samples_progenetix: 45
+  term_id: snmi:M-87200
   term_label: Pigmented nevus, NOS
-- term_id: snmi:M-87203
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: snmi:M-87203
   term_label: Malignant melanoma, NOS
-- term_id: snmi:M-87213
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-87213
   term_label: Nodular melanoma
-- term_id: snmi:M-87423
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: snmi:M-87423
   term_label: Lentigo maligna melanoma
-- term_id: snmi:M-87443
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: snmi:M-87443
   term_label: Acral lentiginous melanoma, malignant
-- term_id: snmi:M-87610
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-87610
   term_label: Small congenital nevus
-- term_id: snmi:M-87700
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-87700
   term_label: Epithelioid and spindle cell nevus
-- term_id: snmi:M-87803
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-87803
   term_label: Blue nevus, malignant
 contact:
   email: bastian@cc.ucsf.edu

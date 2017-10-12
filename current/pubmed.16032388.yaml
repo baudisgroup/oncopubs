@@ -18,15 +18,25 @@ abstract: The case of a soft tissue myoepithelioma is presented including clinic
   to the literature, a complete resection with thorough follow-up should be recommended.
 authors: Kuhnen C, Herter P, Kasprzynski A, Vogt M, Jaworska M and Johnen G.
 cancertypes:
-- term_id: ncit:C40392
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C40392
   term_label: ~
-- term_id: pgx:icdom:8982_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8982_0
   term_label: Myoepithelioma
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-89820
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-89820
   term_label: Myoepithelioma
 contact:
   email: Cornelius.Kuhnen@ruhr-uni-bochum.de

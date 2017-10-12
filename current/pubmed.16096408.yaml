@@ -35,15 +35,25 @@ abstract: Intimal sarcoma IS is defined as a malignant tumor arising in the tuni
 authors: Sebenik M, Ricci A Jr, DiPasquale B, Mody K, Pytel P, Jee KJ, Knuutila S
   and Scholes J.
 cancertypes:
-- term_id: ncit:C9306
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C9306
   term_label: Soft Tissue Sarcoma
-- term_id: pgx:icdom:8800_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8800_3
   term_label: Sarcoma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88003
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-88003
   term_label: Sarcoma, NOS
 contact:
   email: msebenik@yahoo.com

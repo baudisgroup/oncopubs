@@ -6,21 +6,37 @@ abstract: Nonmedullary thyroid cancer is the most common form of thyroid cancer 
 authors: Brunaud L, Zarnegar R, Wada N, Magrane G, Wong M, Duh QY, Davis O and Clark
   OH.
 cancertypes:
-- term_id: ncit:C4035
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C4035
   term_label: Thyroid Gland Papillary Carcinoma
-- term_id: ncit:C79951
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C79951
   term_label: ~
-- term_id: pgx:icdom:8260_0
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8260_0
   term_label: Papillary adenoma, NOS
-- term_id: pgx:icdom:8260_3
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:8260_3
   term_label: Papillary adenocarcinoma, NOS
-- term_id: pgx:icdot:C73.9
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C73.9
   term_label: Thyroid gland
-- term_id: pgx:seer:32010
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:32010
   term_label: Thyroid
-- term_id: snmi:M-82600
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-82600
   term_label: Papillary adenoma, NOS
-- term_id: snmi:M-82603
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-82603
   term_label: Papillary adenocarcinoma, NOS
 contact:
   email: clarko@surgery.ucsf.edu

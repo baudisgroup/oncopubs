@@ -19,15 +19,25 @@ abstract: 'Cancer cells progress through the accumulation of genetic alterations
 authors: Tarafa G, Prat E, Risques RA, Gonzalez S, Camps J, Grau M, Guino E, Moreno
   V, Esteller M, Herman JG, Germa JR, Miro R, Peinado MA and Capella G.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: ncit:C2855
   term_label: ~
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdot:C18.9
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:icdot:C18.9
   term_label: large intestine, excl. rectum and rectosigmoid junction
-- term_id: pgx:seer:21049
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:seer:21049
   term_label: Large Intestine, NOS
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
 contact:
   email: gcapella@ico.scs.es

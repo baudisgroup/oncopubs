@@ -21,15 +21,25 @@ abstract: In this study we have characterized chromosomal imbalances in a panel 
 authors: Kytola S, Farnebo F, Obara T, Isola J, Grimelius L, Farnebo LO, Sandelin
   K and Larsson C.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C75.0
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdot:C75.0
   term_label: parathyroid gland
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: catharina.larsson@cmm.ki.se

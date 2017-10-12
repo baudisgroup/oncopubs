@@ -24,27 +24,49 @@ abstract: Renal cancer consists of a heterogeneous tumor group which is characte
 authors: Hoefling C, Schmidt H, Meinhardt M, Lohse A, Taubert H, Fuessel S, Schmidt
   U, Schuster K, Baretton G, Wirth MP and Meye A.
 cancertypes:
-- term_id: ncit:C4033
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C4033
   term_label: Clear Cell Renal Cell Carcinoma
-- term_id: ncit:C4035
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4035
   term_label: Thyroid Gland Papillary Carcinoma
-- term_id: ncit:C4146
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C4146
   term_label: Chromophobe Renal Cell Carcinoma
-- term_id: pgx:icdom:8260_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8260_3
   term_label: Papillary adenocarcinoma, NOS
-- term_id: pgx:icdom:8312_3
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8312_3
   term_label: Renal cell carcinoma, NOS
-- term_id: pgx:icdom:8317_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8317_3
   term_label: Renal cell carcinoma, chromophobe type
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-82603
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-82603
   term_label: Papillary adenocarcinoma, NOS
-- term_id: snmi:M-83123
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-83123
   term_label: Renal cell carcinoma, NOS
-- term_id: snmi:M-83173
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-83173
   term_label: Renal cell carcinoma, chromophobe type
 contact:
   email: axel.meye@uniklinikum-dresden.de

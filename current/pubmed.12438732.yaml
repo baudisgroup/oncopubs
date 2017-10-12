@@ -25,15 +25,25 @@ abstract: Supernumerary ring chromosomes and or giant marker chromosomes are oft
   clear impression of being nonrandomly involved.
 authors: Micci F, Teixeira MR, Bjerkehagen B and Heim S.
 cancertypes:
-- term_id: ncit:C3192
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C3192
   term_label: Lipoma
-- term_id: pgx:icdom:8850_0
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:8850_0
   term_label: Lipoma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88500
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-88500
   term_label: Lipoma, NOS
 contact:
   email: sverre.heim@labmed.uio.no

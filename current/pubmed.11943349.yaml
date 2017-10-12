@@ -17,17 +17,29 @@ abstract: Capillary hemangioblastomas CHB of the central nervous system, the mos
 authors: Lemeta S, Aalto Y, Niemela M, Jaaskelainen J, Sainio M, Kere J, Knuutila
   S and Bohling T.
 cancertypes:
-- term_id: ncit:C3801
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C3801
   term_label: Hemangioblastoma
-- term_id: pgx:icdom:9161_1
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:9161_1
   term_label: Hemangioblastoma
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:icdot:C71.7
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C71.7
   term_label: brain stem
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-91611
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-91611
   term_label: Hemangioblastoma
 contact:
   email: sakari.knuutila@helsinki.fi

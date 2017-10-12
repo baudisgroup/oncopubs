@@ -22,15 +22,25 @@ abstract: 'As data on the genomic alterations in hepatoblastoma HB are limited, 
   significance in HB.'
 authors: Weber RG, Pietsch T, von Schweinitz D and Lichter P.
 cancertypes:
-- term_id: ncit:C3728
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: ncit:C3728
   term_label: Hepatoblastoma
-- term_id: pgx:icdom:8970_3
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdom:8970_3
   term_label: Hepatoblastoma
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-89703
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: snmi:M-89703
   term_label: Hepatoblastoma
 contact:
   email: weber.ruthild@mh-hannover.de

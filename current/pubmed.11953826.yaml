@@ -18,35 +18,65 @@ abstract: Using comparative genomic hybridisation, we have analysed genetic imba
 authors: Carter M, Nicholson J, Ross F, Crolla J, Allibone R, Balaji V, Perry R, Walker
   D, Gilbertson R and Ellison DW.
 cancertypes:
-- term_id: ncit:C3697
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C3697
   term_label: Myxopapillary Ependymoma
-- term_id: ncit:C4915
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:C4915
   term_label: Embryonal Tumor with Multilayered Rosettes, C19MC-Altered
-- term_id: ncit:C6903
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: ncit:C6903
   term_label: Tanycytic Ependymoma
-- term_id: pgx:icdom:9391_3
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: pgx:icdom:9391_3
   term_label: Ependymoma, NOS
-- term_id: pgx:icdom:9392_3
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:9392_3
   term_label: Ependymoma, anaplastic
-- term_id: pgx:icdom:9394_1
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:9394_1
   term_label: Myxopapillary ependymoma
-- term_id: pgx:icdot:C71.0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C71.0
   term_label: cerebrum
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 39
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:icdot:C71.7
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C71.7
   term_label: brain stem
-- term_id: pgx:icdot:C72.0
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdot:C72.0
   term_label: Spinal cord
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 63
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: pgx:seer:31040
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:seer:31040
   term_label: Cranial Nerves Other Nervous System
-- term_id: snmi:M-93913
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: snmi:M-93913
   term_label: Ependymoma, NOS
-- term_id: snmi:M-93923
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-93923
   term_label: Ependymoma, anaplastic
-- term_id: snmi:M-93941
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-93941
   term_label: Myxopapillary ependymoma
 contact:
   email: D.W.Ellison@ncl.ac.uk

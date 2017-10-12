@@ -4,15 +4,25 @@ abstract: Central neurocytomas are rare neuronal tumors commonly found in the in
   this study was to provide an overview of genetic imbalances in central neurocytomas.
 authors: Yin XL, Pang JC, Hui AB and Ng HK.
 cancertypes:
-- term_id: ncit:C6905
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C6905
   term_label: Cerebellar Liponeurocytoma
-- term_id: pgx:icdom:9506_1
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9506_1
   term_label: Central neurocytoma
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-95061
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-95061
   term_label: Central neurocytoma
 contact:
   email: hkng@cuhk.edu.hk

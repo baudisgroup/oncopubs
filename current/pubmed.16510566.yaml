@@ -18,25 +18,45 @@ abstract: The vast majority of colorectal cancers display genetic instability, e
 authors: Cardoso J, Molenaar L, de Menezes RX, van Leerdam M, Rosenberg C, Moslein
   G, Sampson J, Morreau H, Boer JM and Fodde R.
 cancertypes:
-- term_id: ncit:C3494
+- samples_arraymap: 53
+  samples_progenetix: 52
+  term_id: ncit:C3494
   term_label: Lung Papillary Adenoma
-- term_id: ncit:null
+- samples_arraymap: 31
+  samples_progenetix: 20
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: 31
+  samples_progenetix: 20
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8140_1
+- samples_arraymap: 53
+  samples_progenetix: 52
+  term_id: pgx:icdom:8140_1
   term_label: Atypical adenoma
-- term_id: pgx:icdot:C18.9
+- samples_arraymap: 53
+  samples_progenetix: 72
+  term_id: pgx:icdot:C18.9
   term_label: large intestine, excl. rectum and rectosigmoid junction
-- term_id: pgx:icdot:C76
+- samples_arraymap: 31
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
   term_label: ill-defined
-- term_id: pgx:seer:21049
+- samples_arraymap: 53
+  samples_progenetix: 52
+  term_id: pgx:seer:21049
   term_label: Large Intestine, NOS
-- term_id: pgx:seer:99999
+- samples_arraymap: 31
+  samples_progenetix: 20
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: 31
+  samples_progenetix: 20
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-81401
+- samples_arraymap: 53
+  samples_progenetix: 52
+  term_id: snmi:M-81401
   term_label: Atypical adenoma
 contact:
   email: r.fodde@erasmusmc.nl

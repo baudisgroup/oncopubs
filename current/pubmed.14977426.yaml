@@ -10,15 +10,25 @@ abstract: Colorectal cancer CRC is one of the most common causes of cancer-relat
 authors: Diep CB, Teixeira MR, Thorstensen L, Wiig JN, Eknaes M, Nesland JM, Giercksky
   KE, Johansson B and Lothe RA.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C18.9
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: pgx:icdot:C18.9
   term_label: large intestine, excl. rectum and rectosigmoid junction
-- term_id: pgx:seer:21049
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: pgx:seer:21049
   term_label: Large Intestine, NOS
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 56
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: ~

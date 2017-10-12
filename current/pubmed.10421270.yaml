@@ -7,31 +7,57 @@ abstract: Intracranial primitive neuroectodermal tumors PNETs occur in the supra
 authors: Russo C, Pellarin M, Tingby O, Bollen AW, Lamborn KR, Mohapatra G, Collins
   VP and Feuerstein BG.
 cancertypes:
-- term_id: ncit:C3222
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: ncit:C3222
   term_label: Medulloblastoma
-- term_id: ncit:C5398
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C5398
   term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
-- term_id: ncit:C6967
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C6967
   term_label: Pineal Parenchymal Tumor of Intermediate Differentiation
-- term_id: pgx:icdom:9362_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9362_3
   term_label: Pineoblastoma
-- term_id: pgx:icdom:9470_3
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: pgx:icdom:9470_3
   term_label: Medulloblastoma, NOS
-- term_id: pgx:icdom:9473_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:9473_3
   term_label: Primitive neuroectodermal tumor, NOS
-- term_id: pgx:icdot:C71.0
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C71.0
   term_label: cerebrum
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 43
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 53
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-93623
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-93623
   term_label: Pineoblastoma
-- term_id: snmi:M-94703
+- samples_arraymap: ~
+  samples_progenetix: 40
+  term_id: snmi:M-94703
   term_label: Medulloblastoma, NOS
-- term_id: snmi:M-94733
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-94733
   term_label: Primitive neuroectodermal tumor, NOS
 contact:
   email: bfeuerstein@email.arizona.edu

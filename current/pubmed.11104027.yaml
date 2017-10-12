@@ -15,15 +15,25 @@ abstract: In this study, we used comparative genomic hybridization to provide an
   in ependymomas.
 authors: Zheng PP, Pang JC, Hui AB and Ng HK.
 cancertypes:
-- term_id: ncit:C6903
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: ncit:C6903
   term_label: Tanycytic Ependymoma
-- term_id: pgx:icdom:9391_3
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdom:9391_3
   term_label: Ependymoma, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-93913
+- samples_arraymap: ~
+  samples_progenetix: 28
+  term_id: snmi:M-93913
   term_label: Ependymoma, NOS
 contact:
   email: ~

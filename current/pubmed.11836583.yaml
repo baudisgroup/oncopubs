@@ -23,27 +23,49 @@ abstract: Fluorescence diagnosis of superficial bladder cancer using 5-aminolevu
   to be shown in ongoing clinical studies.
 authors: Junker K, Kania K, Fiedler W, Hartmann A, Schubert J and Werner W.
 cancertypes:
-- term_id: ncit:C2930
+- samples_arraymap: ~
+  samples_progenetix: 39
+  term_id: ncit:C2930
   term_label: Transitional Cell Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 42
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8070_1
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8070_1
   term_label: ~
-- term_id: pgx:icdom:8120_3
+- samples_arraymap: ~
+  samples_progenetix: 39
+  term_id: pgx:icdom:8120_3
   term_label: Transitional cell carcinoma, NOS
-- term_id: pgx:icdot:C67.0
+- samples_arraymap: ~
+  samples_progenetix: 83
+  term_id: pgx:icdot:C67.0
   term_label: urinary bladder
-- term_id: pgx:seer:29010
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:seer:29010
   term_label: Urinary Bladder
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 42
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 42
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-80701
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-80701
   term_label: ~
-- term_id: snmi:M-81203
+- samples_arraymap: ~
+  samples_progenetix: 39
+  term_id: snmi:M-81203
   term_label: Transitional cell carcinoma, NOS
 contact:
   email: ~

@@ -19,16 +19,26 @@ abstract: Primary orbital non-Hodgkin lymphoma is a mucosa-associated lymphoid t
 authors: Matteucci C, Galieni P, Leoncini L, Lazzi S, Lauria F, Polito E, Martelli
   MF and Mecucci C.
 cancertypes:
-- term_id: ncit:C7230
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C7230
   term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
     Tissue
-- term_id: pgx:icdom:9699_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9699_3
   term_label: Marginal zone B-cell lymphoma, NOS
-- term_id: pgx:icdot:C69.0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C69.0
   term_label: orbit and lacrimal gland, excl. Retina, eye, nos
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96993
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-96993
   term_label: Marginal zone B-cell lymphoma, NOS
 contact:
   email: crimecux@unipg.it

@@ -8,15 +8,25 @@ abstract: The diagnosis of polycythemia vera PV is supported by the finding of a
   evaluated the diagnostic utility of CGH applied to blood granulocytes in PV.
 authors: Westwood NB, Gruszka-Westwood AM, Atkinson S and Pearson TC.
 cancertypes:
-- term_id: ncit:C3336
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C3336
   term_label: Polycythemia Vera
-- term_id: pgx:icdom:9950_3
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:9950_3
   term_label: Polycythemia vera
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35023
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:seer:35023
   term_label: Other Myeloid/Monocytic Leukemia
-- term_id: snmi:M-99503
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-99503
   term_label: Polycythemia vera
 contact:
   email: nigel.westwood@kcl.ac.uk

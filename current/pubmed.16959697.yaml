@@ -14,45 +14,85 @@ abstract: Matrix-producing bone lesions consist of a wide variety of benign and 
 authors: Gebert C, Brinkschmidt C, Bielack S, Bernhardt T, Jurgens H, Bocker W, Winkelmann
   W, Burger H and Gosheger G.
 cancertypes:
-- term_id: ncit:C2945
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C2945
   term_label: Chondroblastoma
-- term_id: ncit:C3294
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3294
   term_label: Osteoblastoma
-- term_id: ncit:C3297
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3297
   term_label: Osteoid Osteoma
-- term_id: ncit:C3738
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C3738
   term_label: Osteoclastic Giant Cell-Rich Tumor of Bone
-- term_id: ncit:C3779
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3779
   term_label: Giant Cell Carcinoma
-- term_id: ncit:C3830
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3830
   term_label: ~
-- term_id: pgx:icdom:8031_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8031_3
   term_label: Giant cell carcinoma
-- term_id: pgx:icdom:9191_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9191_0
   term_label: Osteoid osteoma, NOS
-- term_id: pgx:icdom:9200_0
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9200_0
   term_label: Osteoblastoma, NOS
-- term_id: pgx:icdom:9230_0
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9230_0
   term_label: Chondroblastoma, NOS
-- term_id: pgx:icdom:9241_0
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9241_0
   term_label: Chondromyxoid fibroma
-- term_id: pgx:icdom:9250_1
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:9250_1
   term_label: Giant cell tumor of bone, NOS
-- term_id: pgx:icdot:C41.9
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdot:C41.9
   term_label: bone, NOS
-- term_id: pgx:seer:23000
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:seer:23000
   term_label: Bones and Joints
-- term_id: snmi:M-80313
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-80313
   term_label: Giant cell carcinoma
-- term_id: snmi:M-91910
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-91910
   term_label: Osteoid osteoma, NOS
-- term_id: snmi:M-92000
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-92000
   term_label: Osteoblastoma, NOS
-- term_id: snmi:M-92300
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-92300
   term_label: Chondroblastoma, NOS
-- term_id: snmi:M-92410
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-92410
   term_label: Chondromyxoid fibroma
-- term_id: snmi:M-92501
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-92501
   term_label: Giant cell tumor of bone, NOS
 contact:
   email: ~

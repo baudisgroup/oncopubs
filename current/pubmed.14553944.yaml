@@ -9,39 +9,73 @@ abstract: Gains or amplifications involving chromosome arm 8q are one of the mos
   head and neck carcinomas.
 authors: da Silva Veiga LC, Bergamo NA, dos Reis PP, Kowalski LP and Rogatto SR.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C01
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C01
   term_label: tongue
-- term_id: pgx:icdot:C06
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C06
   term_label: mouth, NOS
-- term_id: pgx:icdot:C09
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C09
   term_label: tonsil
-- term_id: pgx:icdot:C10
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C10
   term_label: Oropharynx
-- term_id: pgx:icdot:C11
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C11
   term_label: nasopharynx
-- term_id: pgx:icdot:C13
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C13
   term_label: hypopharynx
-- term_id: pgx:icdot:C32
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C32
   term_label: larynx
-- term_id: pgx:seer:20020
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:20020
   term_label: Tongue
-- term_id: pgx:seer:20050
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:20050
   term_label: Gum and Other Mouth
-- term_id: pgx:seer:20060
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:20060
   term_label: Nasopharynx
-- term_id: pgx:seer:20070
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:20070
   term_label: Tonsil
-- term_id: pgx:seer:20080
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:20080
   term_label: Oropharynx
-- term_id: pgx:seer:20090
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:20090
   term_label: Hypopharynx
-- term_id: pgx:seer:22020
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:22020
   term_label: Larynx
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: rogatto@ibb.unesp.br

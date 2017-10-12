@@ -21,15 +21,25 @@ abstract: Conventional cytogenetic and comparative genomic hybridization CGH stu
 authors: Squire JA, Pei J, Marrano P, Beheshti B, Bayani J, Lim G, Moldovan L and
   Zielenska M.
 cancertypes:
-- term_id: ncit:C9145
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C9145
   term_label: Osteosarcoma
-- term_id: pgx:icdom:9180_3
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:9180_3
   term_label: Osteosarcoma, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C71.9
   term_label: Brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-91803
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-91803
   term_label: Osteosarcoma, NOS
 contact:
   email: ~

@@ -19,27 +19,49 @@ abstract: Hodgkin- and Reed-Sternberg HRS cells microdissected from 41 classical
 authors: Joos S, Menz CK, Wrobel G, Siebert R, Gesk S, Ohl S, Mechtersheimer G, Trumper
   L, Moller P, Lichter P and Barth TF.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9651_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:9651_3
   term_label: Hodgkin lymphoma, lymphocyte-rich
-- term_id: pgx:icdom:9652_3
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:icdom:9652_3
   term_label: Hodgkin lymphoma, mixed cellularity, NOS
-- term_id: pgx:icdom:9653_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9653_3
   term_label: Hodgkin lymphoma, lymphocyte depletion, NOS
-- term_id: pgx:icdom:9663_3
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:9663_3
   term_label: Hodgkin lymphoma, nodular sclerosis, NOS
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33011
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:seer:33011
   term_label: Hodgkin - Nodal
-- term_id: snmi:M-96513
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-96513
   term_label: Hodgkin lymphoma, lymphocyte-rich
-- term_id: snmi:M-96523
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: snmi:M-96523
   term_label: Hodgkin lymphoma, mixed cellularity, NOS
-- term_id: snmi:M-96533
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-96533
   term_label: Hodgkin lymphoma, lymphocyte depletion, NOS
-- term_id: snmi:M-96633
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-96633
   term_label: Hodgkin lymphoma, nodular sclerosis, NOS
 contact:
   email: s.joos@dkfz.de

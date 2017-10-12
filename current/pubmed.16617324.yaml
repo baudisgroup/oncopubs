@@ -19,21 +19,37 @@ authors: La Starza R, Aventin A, Matteucci C, Crescenzi B, Romoli S, Testoni N, 
   V, Ciolli S, Sambani C, Locasciulli A, Di Bona E, Lafage-Pochitaloff M, Martelli
   MF, Marynen P and Mecucci C.
 cancertypes:
-- term_id: ncit:C27080
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C27080
   term_label: ~
-- term_id: ncit:C3247
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3247
   term_label: Myelodysplastic Syndrome
-- term_id: pgx:icdom:9984_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9984_3
   term_label: Refractory anemia with excess blasts in transformation
-- term_id: pgx:icdom:9989_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9989_3
   term_label: Myelodysplastic syndrome, NOS
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35023
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:35023
   term_label: Other Myeloid/Monocytic Leukemia
-- term_id: snmi:M-99843
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99843
   term_label: Refractory anemia with excess blasts in transformation
-- term_id: snmi:M-99893
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99893
   term_label: Myelodysplastic syndrome, NOS
 contact:
   email: crimecux@unipg.it

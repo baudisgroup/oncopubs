@@ -14,15 +14,25 @@ abstract: 'Comparative genomic hybridization CGH , microsatellite instability MS
 authors: Tay ST, Leong SH, Yu K, Aggarwal A, Tan SY, Lee CH, Wong K, Visvanathan J,
   Lim D, Wong WK, Soo KC, Kon OL and Tan P.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C16
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:seer:21020
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: pgx:seer:21020
   term_label: Stomach
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 60
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: cmrtan@nccs.com.sg

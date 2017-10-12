@@ -17,15 +17,25 @@ abstract: Twenty-two primary central nervous system lymphomas of immunocompetent
   however, they may be prognostically relevant.
 authors: Rickert CH, Dockhorn-Dworniczak B, Simon R and Paulus W.
 cancertypes:
-- term_id: ncit:C3208
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C3208
   term_label: Lymphoma
-- term_id: pgx:icdom:9590_3
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:9590_3
   term_label: Malignant lymphoma, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-95903
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-95903
   term_label: Malignant lymphoma, NOS
 contact:
   email: ~

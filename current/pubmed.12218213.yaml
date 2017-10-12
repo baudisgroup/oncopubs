@@ -19,15 +19,25 @@ abstract: The cytogenetic abnormalities of granulosa cell tumors GCT of the ovar
   monosomy 22 seemingly is even more prevalent.
 authors: Mayr D, Kaltz-Wittmer C, Arbogast S, Amann G, Aust DE and Diebold J.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8620_3
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:8620_3
   term_label: Granulosa cell tumor, malignant
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-86203
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-86203
   term_label: Granulosa cell tumor, malignant
 contact:
   email: doris.mayr@lrz.uni-muenchen.de

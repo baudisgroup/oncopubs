@@ -21,23 +21,41 @@ abstract: Distinguishing between Spitz nevus and melanoma presents a challenging
 authors: Harvell JD, Kohler S, Zhu S, Hernandez-Boussard T, Pollack JR and van de
   Rijn M.
 cancertypes:
-- term_id: ncit:C27007
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: ncit:C27007
   term_label: Spitz Nevus
-- term_id: ncit:C3224
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C3224
   term_label: Melanoma
-- term_id: pgx:icdom:8720_3
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdom:8720_3
   term_label: Malignant melanoma, NOS
-- term_id: pgx:icdom:8770_0
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:icdom:8770_0
   term_label: Epithelioid and spindle cell nevus
-- term_id: pgx:icdot:C44
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25010
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:seer:25010
   term_label: Melanoma of the Skin
-- term_id: pgx:seer:CONTROL
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: pgx:seer:CONTROL
   term_label: ''
-- term_id: snmi:M-87203
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: snmi:M-87203
   term_label: Malignant melanoma, NOS
-- term_id: snmi:M-87700
+- samples_arraymap: 5
+  samples_progenetix: ~
+  term_id: snmi:M-87700
   term_label: Epithelioid and spindle cell nevus
 contact:
   email: mrijn@stanford.edu

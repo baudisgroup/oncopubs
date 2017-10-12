@@ -4,15 +4,25 @@ abstract: Nasal-type NK T-cell lymphoma is a rare type of non-Hodgkins lymphoma.
   investigates the nonrandom genetic alteration of nasal-type NK T-cell lymphoma.
 authors: Ko YH, Choi KE, Han JH, Kim JM and Ree HJ.
 cancertypes:
-- term_id: ncit:C4684
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C4684
   term_label: Nasal Type Extranodal NK/T-Cell Lymphoma
-- term_id: pgx:icdom:9719_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9719_3
   term_label: NK/T-cell lymphoma, nasal and nasal-type
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-97193
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-97193
   term_label: NK/T-cell lymphoma, nasal and nasal-type
 contact:
   email: ~

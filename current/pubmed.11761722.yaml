@@ -19,21 +19,37 @@ abstract: Eight pituitary adenomas four gonadotroph cell adenomas, three prolact
 authors: Rickert CH, Dockhorn-Dworniczak B, Busch G, Moskopp D, Albert FK, Rama B
   and Paulus W.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C2855
   term_label: ~
-- term_id: ncit:C3342
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C3342
   term_label: Prolactin-Producing Pituitary Gland Adenoma
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdom:8271_0
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8271_0
   term_label: Prolactinoma
-- term_id: pgx:icdot:C75.1
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C75.1
   term_label: pituitary gland
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
-- term_id: snmi:M-82710
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-82710
   term_label: Prolactinoma
 contact:
   email: ~

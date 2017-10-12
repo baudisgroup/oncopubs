@@ -25,15 +25,25 @@ abstract: Cell lines and xenografts derived from medulloblastomas are useful too
 authors: Aldosari N, Wiltshire RN, Dutra A, Schrock E, McLendon RE, Friedman HS, Bigner
   DD and Bigner SH.
 cancertypes:
-- term_id: ncit:C3222
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C3222
   term_label: Medulloblastoma
-- term_id: pgx:icdom:9470_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9470_3
   term_label: Medulloblastoma, NOS
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94703
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-94703
   term_label: Medulloblastoma, NOS
 contact:
   email: bigne002@mc.duke.edu

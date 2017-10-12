@@ -17,27 +17,49 @@ abstract: We correlate chromosomal changes in medulloblastomas with histologic s
 authors: Eberhart CG, Kratz JE, Schuster A, Goldthwaite P, Cohen KJ, Perlman EJ and
   Burger PC.
 cancertypes:
-- term_id: ncit:C3222
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C3222
   term_label: Medulloblastoma
-- term_id: ncit:C4956
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C4956
   term_label: Desmoplastic/Nodular Medulloblastoma
-- term_id: ncit:C6904
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C6904
   term_label: Large Cell Medulloblastoma
-- term_id: pgx:icdom:9470_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9470_3
   term_label: Medulloblastoma, NOS
-- term_id: pgx:icdom:9471_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9471_3
   term_label: Desmoplastic nodular medulloblastoma
-- term_id: pgx:icdom:9474_3
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:9474_3
   term_label: Large cell medulloblastoma
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94703
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-94703
   term_label: Medulloblastoma, NOS
-- term_id: snmi:M-94713
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-94713
   term_label: Desmoplastic nodular medulloblastoma
-- term_id: snmi:M-94743
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-94743
   term_label: Large cell medulloblastoma
 contact:
   email: ceberha@jhmi.edu

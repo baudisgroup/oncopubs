@@ -16,15 +16,25 @@ abstract: Although astrocytomas are the most common central nervous system tumou
 authors: Warr T, Ward S, Burrows J, Harding B, Wilkins P, Harkness W, Hayward R, Darling
   J and Thomas D.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9401_3
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:9401_3
   term_label: Astrocytoma, anaplastic
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94013
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-94013
   term_label: Astrocytoma, anaplastic
 contact:
   email: ~

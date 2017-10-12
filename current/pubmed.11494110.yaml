@@ -16,39 +16,73 @@ abstract: In order to find common genetic abnormalities that may identify loci o
   suggest that the 12q12--q13 region may harbor a new tumor-suppressor gene.
 authors: El-Rifai W, Rutherford S, Knuutila S, Frierson HF Jr and Moskaluk CA.
 cancertypes:
-- term_id: ncit:C2970
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:C2970
   term_label: Adenoid Cystic Carcinoma
-- term_id: pgx:icdom:8200_3
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:8200_3
   term_label: Adenoid cystic carcinoma
-- term_id: pgx:icdot:C01
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C01
   term_label: tongue
-- term_id: pgx:icdot:C06
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C06
   term_label: mouth, NOS
-- term_id: pgx:icdot:C07
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C07
   term_label: parotid gland
-- term_id: pgx:icdot:C30
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C30
   term_label: nasal cavity including nasal cartilage
-- term_id: pgx:icdot:C33
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C33
   term_label: trachea
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:icdot:C69.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C69.9
   term_label: eye, nos
-- term_id: pgx:seer:20020
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:20020
   term_label: Tongue
-- term_id: pgx:seer:20030
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:seer:20030
   term_label: Salivary Gland
-- term_id: pgx:seer:20050
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:20050
   term_label: Gum and Other Mouth
-- term_id: pgx:seer:22010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22010
   term_label: Nose, Nasal Cavity and Middle Ear
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: pgx:seer:22060
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:22060
   term_label: Trachea, Mediastinum and Other Respiratory Organs
-- term_id: pgx:seer:30000
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:30000
   term_label: Eye and Orbit
-- term_id: snmi:M-82003
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-82003
   term_label: Adenoid cystic carcinoma
 contact:
   email: wael.el-rifai@Vanderbilt.Edu

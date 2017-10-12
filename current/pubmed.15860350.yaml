@@ -20,29 +20,53 @@ abstract: Here we report the complex pattern of genomic imbalances and rearrange
   reflect important pathways in renal cancer pathogenesis.
 authors: Strefford JC, Stasevich I, Lane TM, Lu YJ, Oliver T and Young BD.
 cancertypes:
-- term_id: ncit:C4033
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C4033
   term_label: Clear Cell Renal Cell Carcinoma
-- term_id: ncit:C4035
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4035
   term_label: Thyroid Gland Papillary Carcinoma
-- term_id: pgx:icdom:8260_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8260_3
   term_label: Papillary adenocarcinoma, NOS
-- term_id: pgx:icdom:8312_3
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:8312_3
   term_label: Renal cell carcinoma, NOS
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-82603
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-82603
   term_label: Papillary adenocarcinoma, NOS
-- term_id: snmi:M-83123
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-83123
   term_label: Renal cell carcinoma, NOS
 contact:
   email: jcs@soton.ac.uk

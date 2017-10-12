@@ -19,15 +19,25 @@ abstract: To define the location of potential oncogenes and tumor suppressor gen
 authors: Vajdic CM, Hutchins AM, Kricker A, Aitken JF, Armstrong BK, Hayward NK and
   Armes JE.
 cancertypes:
-- term_id: ncit:C3224
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: ncit:C3224
   term_label: Melanoma
-- term_id: pgx:icdom:8720_3
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:icdom:8720_3
   term_label: Malignant melanoma, NOS
-- term_id: pgx:icdot:C69.9
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:icdot:C69.9
   term_label: eye, nos
-- term_id: pgx:seer:30000
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:seer:30000
   term_label: Eye and Orbit
-- term_id: snmi:M-87203
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: snmi:M-87203
   term_label: Malignant melanoma, NOS
 contact:
   email: hutchins@unimelb.edu.au

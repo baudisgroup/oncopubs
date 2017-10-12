@@ -19,15 +19,25 @@ abstract: Spitz nevus is a benign neoplasm of melanocytes that can be difficult 
   of spitzoid melanocytic neoplasms.
 authors: Bastian BC, Wesselmann U, Pinkel D and Leboit PE.
 cancertypes:
-- term_id: ncit:C27007
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C27007
   term_label: Spitz Nevus
-- term_id: pgx:icdom:8770_0
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:8770_0
   term_label: Epithelioid and spindle cell nevus
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25010
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:seer:25010
   term_label: Melanoma of the Skin
-- term_id: snmi:M-87700
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-87700
   term_label: Epithelioid and spindle cell nevus
 contact:
   email: ~

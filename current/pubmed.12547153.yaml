@@ -14,33 +14,61 @@ abstract: Increasing clinical and pathological evidence suggests that malignant 
 authors: Chibon F, Mariani O, Derre J, Malinge S, Coindre JM, Guillou L, Lagace R
   and Aurias A.
 cancertypes:
-- term_id: ncit:C3704
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3704
   term_label: Dedifferentiated Liposarcoma
-- term_id: ncit:C4247
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C4247
   term_label: Undifferentiated Pleomorphic Sarcoma
-- term_id: ncit:C4253
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: ncit:C4253
   term_label: Mixed Liposarcoma
-- term_id: ncit:C6505
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: ncit:C6505
   term_label: Atypical Lipomatous Tumor
-- term_id: pgx:icdom:8830_3
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:8830_3
   term_label: Malignant fibrous histiocytoma
-- term_id: pgx:icdom:8851_3
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:icdom:8851_3
   term_label: Liposarcoma, well differentiated
-- term_id: pgx:icdom:8855_3
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:8855_3
   term_label: Mixed liposarcoma
-- term_id: pgx:icdom:8858_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8858_3
   term_label: Dedifferentiated liposarcoma
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88303
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-88303
   term_label: Malignant fibrous histiocytoma
-- term_id: snmi:M-88513
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: snmi:M-88513
   term_label: Liposarcoma, well differentiated
-- term_id: snmi:M-88553
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-88553
   term_label: Mixed liposarcoma
-- term_id: snmi:M-88583
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-88583
   term_label: Dedifferentiated liposarcoma
 contact:
   email: alain.aurias@curie.fr

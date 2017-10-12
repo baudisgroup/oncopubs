@@ -14,21 +14,37 @@ abstract: Occasionally hepatocellular carcinomas HCCs occur synchronously with o
   and that the synchronous occurrence of FNH and HCC is coincidental in our case.
 authors: Kellner U, Jacobsen A, Kellner A, Mantke R, Roessner A and Rocken C.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C2855
   term_label: ~
-- term_id: ncit:C3099
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3099
   term_label: Hepatocellular Carcinoma
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdom:8170_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8170_3
   term_label: Hepatocellular carcinoma, NOS
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
-- term_id: snmi:M-81703
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81703
   term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~

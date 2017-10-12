@@ -26,53 +26,101 @@ abstract: In acute myeloid leukemia AML and myelodysplastic syndromes MDS there 
   is no clue provided from the analysis of G-banded chromosomes.
 authors: Kim MH, Stewart J, Devlin C, Kim YT, Boyd E and Connor M.
 cancertypes:
-- term_id: ncit:C27080
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C27080
   term_label: ~
-- term_id: ncit:C27753
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C27753
   term_label: Acute Myeloid Leukemia Not Otherwise Specified
-- term_id: ncit:C3182
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3182
   term_label: Acute Promyelocytic Leukemia with PML-RARA
-- term_id: ncit:C3249
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C3249
   term_label: Acute Myeloid Leukemia without Maturation
-- term_id: ncit:C3250
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3250
   term_label: Acute Myeloid Leukemia with Maturation
-- term_id: ncit:C7463
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C7463
   term_label: Acute Myelomonocytic Leukemia
-- term_id: ncit:C9289
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C9289
   term_label: Acute Myeloid Leukemia with Multilineage Dysplasia
-- term_id: pgx:icdom:9861_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9861_3
   term_label: Acute myeloid leukemia, NOS
-- term_id: pgx:icdom:9866_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9866_3
   term_label: Acute promyelocytic leukemia
-- term_id: pgx:icdom:9867_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9867_3
   term_label: Acute myelomonocytic leukemia
-- term_id: pgx:icdom:9873_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9873_3
   term_label: Acute myeloid leukemia without maturation
-- term_id: pgx:icdom:9874_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9874_3
   term_label: Acute myeloid leukemia with maturation
-- term_id: pgx:icdom:9895_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9895_3
   term_label: Acute myeloid leukemia with myelodysplasia-related changes
-- term_id: pgx:icdom:9984_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9984_3
   term_label: Refractory anemia with excess blasts in transformation
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35021
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:seer:35021
   term_label: Acute Myeloid Leukemia
-- term_id: pgx:seer:35023
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:35023
   term_label: Other Myeloid/Monocytic Leukemia
-- term_id: snmi:M-98613
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-98613
   term_label: Acute myeloid leukemia, NOS
-- term_id: snmi:M-98663
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-98663
   term_label: Acute promyelocytic leukemia
-- term_id: snmi:M-98673
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-98673
   term_label: Acute myelomonocytic leukemia
-- term_id: snmi:M-98733
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-98733
   term_label: Acute myeloid leukemia without maturation
-- term_id: snmi:M-98743
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-98743
   term_label: Acute myeloid leukemia with maturation
-- term_id: snmi:M-98953
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-98953
   term_label: Acute myeloid leukemia with myelodysplasia-related changes
-- term_id: snmi:M-99843
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99843
   term_label: Refractory anemia with excess blasts in transformation
 contact:
   email: ~

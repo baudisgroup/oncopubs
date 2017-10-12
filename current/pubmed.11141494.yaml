@@ -19,25 +19,45 @@ abstract: The relationship of apocrine metaplasia to invasive breast cancer is c
   of apocrine carcinoma.
 authors: Jones C, Damiani S, Wells D, Chaggar R, Lakhani SR and Eusebi V.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8401_2
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8401_2
   term_label: ~
-- term_id: pgx:icdom:8401_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8401_3
   term_label: Apocrine adenocarcinoma
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-84012
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-84012
   term_label: ~
-- term_id: snmi:M-84013
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-84013
   term_label: Apocrine adenocarcinoma
 contact:
   email: s.lakhani@uq.edu.au

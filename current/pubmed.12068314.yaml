@@ -18,15 +18,25 @@ abstract: Gastric signet-ring cell carcinoma comprises a distinct category of ga
 authors: Kurihara Y, Ghazizadeh M, Bo H, Shimizu H, Kawanami O, Moriyama Y and Onda
   M.
 cancertypes:
-- term_id: ncit:C3774
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C3774
   term_label: Signet Ring Cell Carcinoma
-- term_id: pgx:icdom:8490_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:8490_3
   term_label: Signet ring cell carcinoma
-- term_id: pgx:icdot:C16
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:seer:21020
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:seer:21020
   term_label: Stomach
-- term_id: snmi:M-84903
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-84903
   term_label: Signet ring cell carcinoma
 contact:
   email: ~

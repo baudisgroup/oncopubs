@@ -6,15 +6,25 @@ abstract: Placental site trophoblastic tumor PSTT is a rare form of gestational 
   and cytogenetic information is scanty.
 authors: Xue WC, Guan XY, Ngan HY, Shen DH, Khoo US and Cheung AN.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9104_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9104_3
   term_label: ~
-- term_id: pgx:icdot:C58.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C58.9
   term_label: placenta
-- term_id: pgx:seer:27070
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:27070
   term_label: Other Female Genital Organs
-- term_id: snmi:M-91043
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-91043
   term_label: ~
 contact:
   email: ~

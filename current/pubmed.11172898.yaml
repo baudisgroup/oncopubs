@@ -18,19 +18,33 @@ authors: Scholz I, Popp S, Granzow M, Schoell B, Holtgreve-Grez H, Takeuchi S, S
   M, Harbott J, Teigler-Schlegel A, Zimmermann M, Fischer C, Koeffler HP, Bartram
   CR and Jauch A.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9836_3
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: pgx:icdom:9836_3
   term_label: Precursor B-cell lymphoblastic leukemia
-- term_id: pgx:icdom:9837_3
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:icdom:9837_3
   term_label: Precursor T-cell lymphoblastic leukemia
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35011
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: pgx:seer:35011
   term_label: Acute Lymphocytic Leukemia
-- term_id: snmi:M-98363
+- samples_arraymap: ~
+  samples_progenetix: 50
+  term_id: snmi:M-98363
   term_label: Precursor B-cell lymphoblastic leukemia
-- term_id: snmi:M-98373
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: snmi:M-98373
   term_label: Precursor T-cell lymphoblastic leukemia
 contact:
   email: Anna_Jauch@med.uni-heidelberg.de

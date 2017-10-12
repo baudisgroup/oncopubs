@@ -4,28 +4,50 @@ abstract: To identify chromosomal gains and losses in lymphoid tumors of the orb
   severity, or risk for recurrent disease.
 authors: Ness GO, Lybaek H, Arnes J and Rodahl E.
 cancertypes:
-- term_id: ncit:C3163
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C3163
   term_label: Chronic Lymphocytic Leukemia
-- term_id: ncit:C4342
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C4342
   term_label: Intravascular Large B-Cell Lymphoma
-- term_id: ncit:C7230
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C7230
   term_label: Primary Cutaneous Marginal Zone Lymphoma of Mucosa-Associated Lymphoid
     Tissue
-- term_id: pgx:icdom:9680_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9680_3
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: pgx:icdom:9699_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9699_3
   term_label: Marginal zone B-cell lymphoma, NOS
-- term_id: pgx:icdom:9823_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9823_3
   term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
-- term_id: pgx:icdot:C69.9
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdot:C69.9
   term_label: eye, nos
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96803
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-96803
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: snmi:M-96993
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-96993
   term_label: Marginal zone B-cell lymphoma, NOS
-- term_id: snmi:M-98233
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-98233
   term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: ~

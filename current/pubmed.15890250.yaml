@@ -12,15 +12,25 @@ abstract: Neuroendocrine carcinoid tumours of the thymus are rare neoplasms char
 authors: Rieker RJ, Aulmann S, Penzel R, Schnabel PA, Blaeker H, Esposito I, Morresi-Hauf
   A, Otto HF, Hecker E, Dienemann H, Schirmacher P and Mechtersheimer G.
 cancertypes:
-- term_id: ncit:C3773
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C3773
   term_label: Neuroendocrine Carcinoma
-- term_id: pgx:icdom:8246_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8246_3
   term_label: Neuroendocrine carcinoma, NOS
-- term_id: pgx:icdot:C37
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C37
   term_label: thymus
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-82463
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-82463
   term_label: Neuroendocrine carcinoma, NOS
 contact:
   email: ralf_rieker@med.uni-heidelberg.de

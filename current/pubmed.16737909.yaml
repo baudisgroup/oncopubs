@@ -19,19 +19,33 @@ abstract: 'We investigated relationships between DNA copy number aberrations and
 authors: Uchida K, Oga A, Okafuji M, Mihara M, Kawauchi S, Furuya T, Chochi Y, Ueyama
   Y and Sasaki K.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C01
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C01
   term_label: tongue
-- term_id: pgx:icdot:C06
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C06
   term_label: mouth, NOS
-- term_id: pgx:seer:20020
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:20020
   term_label: Tongue
-- term_id: pgx:seer:20050
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:seer:20050
   term_label: Gum and Other Mouth
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: kohsuke@yamaguchi-u.ac.jp

@@ -6,15 +6,25 @@ abstract: The pathological entity of primitive neuroectodermal tumour medullobla
 authors: Fruhwald MC, ODorisio MS, Rush LJ, Reiter JL, Smiraglia DJ, Wenger G, Costello
   JF, White PS, Krahe R, Brodeur GM and Plass C.
 cancertypes:
-- term_id: ncit:C3222
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3222
   term_label: Medulloblastoma
-- term_id: pgx:icdom:9470_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9470_3
   term_label: Medulloblastoma, NOS
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C71.6
   term_label: Cerebellum
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94703
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-94703
   term_label: Medulloblastoma, NOS
 contact:
   email: ~

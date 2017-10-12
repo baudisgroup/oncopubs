@@ -7,15 +7,25 @@ abstract: Angiofibromas are clinically well characterized by their origin at the
   imbalances in angiofibromas.
 authors: Schick B, Brunner C, Praetorius M, Plinkert PK and Urbschat S.
 cancertypes:
-- term_id: ncit:C3799
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3799
   term_label: Angiofibroma
-- term_id: pgx:icdom:9160_0
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9160_0
   term_label: Angiofibroma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-91600
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-91600
   term_label: Angiofibroma, NOS
 contact:
   email: ~

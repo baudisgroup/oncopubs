@@ -13,15 +13,25 @@ abstract: Four pituitary carcinoma metastases two adrenocorticotropic hormone AC
   and metastatic dissemination of pituitary carcinomas.
 authors: Rickert CH, Scheithauer BW and Paulus W.
 cancertypes:
-- term_id: ncit:C4536
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C4536
   term_label: Pituitary Gland Carcinoma
-- term_id: pgx:icdom:8272_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8272_3
   term_label: Pituitary carcinoma, NOS
-- term_id: pgx:icdot:C75.1
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C75.1
   term_label: pituitary gland
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-82723
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-82723
   term_label: Pituitary carcinoma, NOS
 contact:
   email: christian.rickert@rch.org.au

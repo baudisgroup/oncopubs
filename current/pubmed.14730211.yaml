@@ -20,37 +20,69 @@ abstract: Gastrointestinal stromal tumors GISTs are the most common mesenchymal 
   during malignant transformation of GISTs.
 authors: Chen Y, Tzeng CC, Liou CP, Chang MY, Li CF and Lin CN.
 cancertypes:
-- term_id: ncit:C27940
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C27940
   term_label: ~
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8936_0
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:8936_0
   term_label: Gastrointestinal stromal tumor, benign
-- term_id: pgx:icdom:8936_1
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8936_1
   term_label: Gastrointestinal stromal tumor, NOS
-- term_id: pgx:icdom:8936_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:8936_3
   term_label: Gastrointestinal stromal sarcoma
-- term_id: pgx:icdot:C15
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C15
   term_label: Esophagus
-- term_id: pgx:icdot:C16
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:icdot:C17
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C17
   term_label: small intestine
-- term_id: pgx:icdot:C20
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C20
   term_label: Rectum
-- term_id: pgx:seer:21010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21010
   term_label: Esophagus
-- term_id: pgx:seer:21020
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:seer:21020
   term_label: Stomach
-- term_id: pgx:seer:21030
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:seer:21030
   term_label: Small Intestine
-- term_id: pgx:seer:21052
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:21052
   term_label: Rectum
-- term_id: snmi:M-89360
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-89360
   term_label: Gastrointestinal stromal tumor, benign
-- term_id: snmi:M-89361
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-89361
   term_label: Gastrointestinal stromal tumor, NOS
-- term_id: snmi:M-89363
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-89363
   term_label: Gastrointestinal stromal sarcoma
 contact:
   email: tzeng-tainan@yahoo.com.tw

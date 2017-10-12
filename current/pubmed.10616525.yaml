@@ -12,21 +12,37 @@ abstract: Comparative genomic hybridization CGH was utilized to investigate gene
   the utility of this technique in elucidating genetic changes in gynecological tumors.
 authors: Ahmed MN, Kim K, Haddad B, Berchuck A, and Qumsiyeh MB.
 cancertypes:
-- term_id: ncit:C2948
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C2948
   term_label: Choriocarcinoma
-- term_id: ncit:C3110
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C3110
   term_label: ~
-- term_id: pgx:icdom:9100_0
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9100_0
   term_label: Hydatidiform mole, NOS
-- term_id: pgx:icdom:9100_3
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:9100_3
   term_label: Choriocarcinoma, NOS
-- term_id: pgx:icdot:C58.9
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C58.9
   term_label: placenta
-- term_id: pgx:seer:27070
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:27070
   term_label: Other Female Genital Organs
-- term_id: snmi:M-91000
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-91000
   term_label: Hydatidiform mole, NOS
-- term_id: snmi:M-91003
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-91003
   term_label: Choriocarcinoma, NOS
 contact:
   email: ~

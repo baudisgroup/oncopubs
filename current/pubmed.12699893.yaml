@@ -10,15 +10,25 @@ abstract: We applied a comparative genomic hybridization CGH technique to paraff
 authors: Amiel A, Kaufman Z, Goldstein E, Bruchim RB, Kidron D, Gaber E, and Fejgin
   MD.
 cancertypes:
-- term_id: ncit:C3744
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C3744
   term_label: Breast Fibroadenoma
-- term_id: pgx:icdom:9010_0
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:9010_0
   term_label: Fibroadenoma, NOS
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-90100
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-90100
   term_label: Fibroadenoma, NOS
 contact:
   email: amielaliza@clalit.org.il

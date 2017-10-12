@@ -18,15 +18,25 @@ abstract: Neurofibromatosis type 1 von Recklinghausens NF1 is an autosomal domin
   common regions were 19q13.2-- amp gt qter in seven cases .
 authors: Koga T, Iwasaki H, Ishiguro M, Matsuzaki A and Kikuchi M.
 cancertypes:
-- term_id: ncit:C3272
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:C3272
   term_label: Neurofibroma
-- term_id: pgx:icdom:9540_0
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:9540_0
   term_label: Neurofibroma, NOS
-- term_id: pgx:icdot:C47
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdot:C47
   term_label: peripheral nervs incl. Autonomous
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-95400
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-95400
   term_label: Neurofibroma, NOS
 contact:
   email: iwasaki@fukuoka-u.ac.jp

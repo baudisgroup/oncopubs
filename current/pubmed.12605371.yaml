@@ -13,21 +13,37 @@ abstract: The differential diagnosis between benign Spitz nevus and malignant me
 authors: Takata M, Maruo K, Kageshita T, Ikeda S, Ono T, Shirasaki F, Takehara K and
   Bastian BC.
 cancertypes:
-- term_id: ncit:C3074
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3074
   term_label: ~
-- term_id: ncit:C3224
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3224
   term_label: Melanoma
-- term_id: pgx:icdom:8720_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8720_0
   term_label: Pigmented nevus, NOS
-- term_id: pgx:icdom:8720_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8720_3
   term_label: Malignant melanoma, NOS
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25010
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:25010
   term_label: Melanoma of the Skin
-- term_id: snmi:M-87200
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-87200
   term_label: Pigmented nevus, NOS
-- term_id: snmi:M-87203
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-87203
   term_label: Malignant melanoma, NOS
 contact:
   email: ~

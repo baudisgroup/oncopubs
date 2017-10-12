@@ -12,15 +12,25 @@ abstract: Little is known of the molecular events underlying the genesis of panc
 authors: Barenboim-Stapleton L, Yang X, Tsokos M, Wigginton JM, Padilla-Nash H, Ried
   T and Thiele CJ.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:NA
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:NA
   term_label: ~
-- term_id: pgx:icdot:C25
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C25
   term_label: pancreas
-- term_id: pgx:seer:NA
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:NA
   term_label: NA
-- term_id: snmi:M-NA
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-NA
   term_label: ~
 contact:
   email: ~

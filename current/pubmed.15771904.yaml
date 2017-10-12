@@ -3,8 +3,10 @@ abstract: ~
 authors: Babicz M, Kowalczyk JR, Winnicka D, Gaworczyk A, Lejman M, Dmowski R, and
   Kaczanowska K.
 cancertypes:
-- term_id: seer:37000
-  term_label: miscellaneous
+- samples_arraymap: ~
+  samples_progenetix: ~
+  term_id: ~
+  term_label: ~
 contact:
   email: mmbababicz@dsk.lublin.pl
   name: M Babicz

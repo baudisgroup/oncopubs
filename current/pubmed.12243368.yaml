@@ -5,15 +5,25 @@ abstract: Balkan endemic nephropathy BEN is seen in certain regions of the Balka
 authors: Toncheval DI, Atanassova SY, Gergov TD, Todorovska EG, Roeva IG, Georgiev
   TH, Fink-Gremmels J and Zaharieva BM.
 cancertypes:
-- term_id: ncit:C2930
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C2930
   term_label: Transitional Cell Carcinoma
-- term_id: pgx:icdom:8120_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8120_3
   term_label: Transitional cell carcinoma, NOS
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-81203
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-81203
   term_label: Transitional cell carcinoma, NOS
 contact:
   email: draga@spnet.net

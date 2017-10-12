@@ -22,15 +22,25 @@ abstract: The comprehensive cytogenetic profiles of a panel of 10 Burkitts lymph
 authors: Karpova MB, Schoumans J, Blennow E, Ernberg I, Henter JI, Smirnov AF, Nordenskjold
   M and Fadeel B.
 cancertypes:
-- term_id: ncit:C6917
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C6917
   term_label: Atypical Burkitt/Burkitt-Like Lymphoma
-- term_id: pgx:icdom:9687_3
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9687_3
   term_label: Burkitt lymphoma, NOS
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-96873
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-96873
   term_label: Burkitt lymphoma, NOS
 contact:
   email: ~

@@ -21,15 +21,25 @@ authors: Linn SC, West RB, Pollack JR, Zhu S, Hernandez-Boussard T, Nielsen TO, 
   BP, Patel R, Goldblum JR, Siegmund D, Botstein D, Brown PO, Gilks CB and van de
   Rijn M.
 cancertypes:
-- term_id: ncit:C9430
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: ncit:C9430
   term_label: Pigmented Dermatofibrosarcoma Protuberans
-- term_id: pgx:icdom:8833_3
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdom:8833_3
   term_label: Pigmented dermatofibrosarcoma protuberans
-- term_id: pgx:icdot:C44
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25020
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: pgx:seer:25020
   term_label: Other Non-Epithelial Skin
-- term_id: snmi:M-88333
+- samples_arraymap: 17
+  samples_progenetix: ~
+  term_id: snmi:M-88333
   term_label: Pigmented dermatofibrosarcoma protuberans
 contact:
   email: mrijn@stanford.edu

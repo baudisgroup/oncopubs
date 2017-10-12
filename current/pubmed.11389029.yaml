@@ -24,15 +24,25 @@ abstract: 'Sixty-four patients with adult T-cell leukemia lymphoma ATL 18 patien
 authors: Tsukasaki K, Krebs J, Nagai K, Tomonaga M, Koeffler HP, Bartram CR and Jauch
   A.
 cancertypes:
-- term_id: ncit:C3184
+- samples_arraymap: ~
+  samples_progenetix: 82
+  term_id: ncit:C3184
   term_label: ~
-- term_id: pgx:icdom:9827_3
+- samples_arraymap: ~
+  samples_progenetix: 82
+  term_id: pgx:icdom:9827_3
   term_label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 82
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35043
+- samples_arraymap: ~
+  samples_progenetix: 82
+  term_id: pgx:seer:35043
   term_label: Aleukemic, subleukemic and NOS
-- term_id: snmi:M-98273
+- samples_arraymap: ~
+  samples_progenetix: 82
+  term_id: snmi:M-98273
   term_label: Adult T-cell leukemia/lymphoma (HTLV-1 positive)
 contact:
   email: ~

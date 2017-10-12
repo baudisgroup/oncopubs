@@ -23,21 +23,37 @@ abstract: Carcinomas are believed to develop by incremental steps of increasingl
 authors: Foster NA, Banerjee AK, Xian J, Roberts I, Pezzella F, Coleman N, Nicholson
   AG, Goldstraw P, George JP and Rabbitts PH.
 cancertypes:
-- term_id: ncit:C2916
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2916
   term_label: Carcinoma
-- term_id: ncit:C2917
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2917
   term_label: Carcinoma In Situ
-- term_id: pgx:icdom:8010_2
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8010_2
   term_label: Carcinoma in situ, NOS
-- term_id: pgx:icdom:8010_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8010_3
   term_label: Carcinoma, NOS
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: snmi:M-80102
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80102
   term_label: Carcinoma in situ, NOS
-- term_id: snmi:M-80103
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80103
   term_label: Carcinoma, NOS
 contact:
   email: p.rabbitts@ucl.ac.uk

@@ -23,15 +23,25 @@ abstract: 'A small number of human epithelioid sarcoma cell lines have been repo
 authors: Nishio J, Iwasaki H, Nabeshima K, Ishiguro M, Naumann S, Isayama T, Naito
   M, Kaneko Y, Kikuchi M and Bridge JA.
 cancertypes:
-- term_id: ncit:C3714
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3714
   term_label: ~
-- term_id: pgx:icdom:8804_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8804_3
   term_label: Epithelioid sarcoma
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:37000
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:37000
   term_label: Miscellaneous
-- term_id: snmi:M-88043
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-88043
   term_label: Epithelioid sarcoma
 contact:
   email: nishio@minf.med.fukuoka-u.ac.jp

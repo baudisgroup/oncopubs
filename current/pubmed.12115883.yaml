@@ -21,33 +21,61 @@ abstract: It is established that subtypes of human malignant mesotheliomas MM ar
   the subtypes.
 authors: Krismann M, Muller KM, Jaworska M and Johnen G.
 cancertypes:
-- term_id: ncit:C3234
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3234
   term_label: Mesothelioma
-- term_id: ncit:C6747
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: ncit:C6747
   term_label: Desmoplastic Mesothelioma
-- term_id: ncit:C7985
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: ncit:C7985
   term_label: Epithelioid Mesothelioma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9050_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9050_3
   term_label: Mesothelioma, malignant
-- term_id: pgx:icdom:9051_3
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: pgx:icdom:9051_3
   term_label: Fibrous mesothelioma, malignant
-- term_id: pgx:icdom:9052_3
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:icdom:9052_3
   term_label: Epithelioid mesothelioma, malignant
-- term_id: pgx:icdom:9053_3
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:9053_3
   term_label: Mesothelioma, biphasic, malignant
-- term_id: pgx:icdot:C38.4
+- samples_arraymap: ~
+  samples_progenetix: 72
+  term_id: pgx:icdot:C38.4
   term_label: pleura
-- term_id: pgx:seer:36010
+- samples_arraymap: ~
+  samples_progenetix: 72
+  term_id: pgx:seer:36010
   term_label: Mesothelioma
-- term_id: snmi:M-90503
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-90503
   term_label: Mesothelioma, malignant
-- term_id: snmi:M-90513
+- samples_arraymap: ~
+  samples_progenetix: 30
+  term_id: snmi:M-90513
   term_label: Fibrous mesothelioma, malignant
-- term_id: snmi:M-90523
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: snmi:M-90523
   term_label: Epithelioid mesothelioma, malignant
-- term_id: snmi:M-90533
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-90533
   term_label: Mesothelioma, biphasic, malignant
 contact:
   email: ~

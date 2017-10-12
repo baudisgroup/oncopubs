@@ -20,15 +20,25 @@ abstract: Nasopharyngeal carcinoma NPC occurs with a high incidence in Southeast
 authors: Rodriguez S, Khabir A, Keryer C, Perrot C, Drira M, Ghorbel A, Jlidi R, Bernheim
   A, Valent A and Busson P.
 cancertypes:
-- term_id: ncit:C4107
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: ncit:C4107
   term_label: ~
-- term_id: pgx:icdom:8082_3
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdom:8082_3
   term_label: Lymphoepithelial carcinoma
-- term_id: pgx:icdot:C11
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:icdot:C11
   term_label: nasopharynx
-- term_id: pgx:seer:20060
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: pgx:seer:20060
   term_label: Nasopharynx
-- term_id: snmi:M-80823
+- samples_arraymap: ~
+  samples_progenetix: 23
+  term_id: snmi:M-80823
   term_label: Lymphoepithelial carcinoma
 contact:
   email: pbusson@igr.fr

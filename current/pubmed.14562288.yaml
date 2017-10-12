@@ -20,29 +20,53 @@ abstract: The histological transformation from a follicular lymphoma FL to a dif
 authors: Boonstra R, Bosga-Bouwer A, Mastik M, Haralambieva E, Conradie J, van den
   Berg E, van den Berg A and Poppema S.
 cancertypes:
-- term_id: ncit:C4342
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C4342
   term_label: Intravascular Large B-Cell Lymphoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9680_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9680_3
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: pgx:icdom:9691_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9691_3
   term_label: Follicular lymphoma, grade 2
-- term_id: pgx:icdom:9695_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9695_3
   term_label: Follicular lymphoma, grade 1
-- term_id: pgx:icdom:9698_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9698_3
   term_label: Follicular lymphoma, grade 3
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-96803
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-96803
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: snmi:M-96913
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-96913
   term_label: Follicular lymphoma, grade 2
-- term_id: snmi:M-96953
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-96953
   term_label: Follicular lymphoma, grade 1
-- term_id: snmi:M-96983
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-96983
   term_label: Follicular lymphoma, grade 3
 contact:
   email: ~

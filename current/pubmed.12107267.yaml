@@ -23,21 +23,37 @@ abstract: Comparative genomic hybridization CGH is a molecular cytogenetic techn
 authors: Sidhu S, Marsh DJ, Theodosopoulos G, Philips J, Bambach CP, Campbell P, Magarey
   CJ, Russell CF, Schulte KM, Roher HD, Delbridge L and Robinson BG.
 cancertypes:
-- term_id: ncit:C9003
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: ncit:C9003
   term_label: Adrenal Cortex Adenoma
-- term_id: ncit:C9325
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C9325
   term_label: Adrenal Cortex Carcinoma
-- term_id: pgx:icdom:8370_0
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdom:8370_0
   term_label: Adrenal cortical adenoma, NOS
-- term_id: pgx:icdom:8370_3
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8370_3
   term_label: Adrenal cortical carcinoma
-- term_id: pgx:icdot:C74.0
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: pgx:icdot:C74.0
   term_label: adrenal cortex
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 32
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-83700
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: snmi:M-83700
   term_label: Adrenal cortical adenoma, NOS
-- term_id: snmi:M-83703
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-83703
   term_label: Adrenal cortical carcinoma
 contact:
   email: ~

@@ -19,15 +19,25 @@ abstract: The etiology of Hodgkin lymphoma HL is poorly understood, and studies 
   role in the pathogenesis of cHL.
 authors: Chui DT, Hammond D, Baird M, Shield L, Jackson R and Jarrett RF.
 cancertypes:
-- term_id: ncit:C9357
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:C9357
   term_label: Hodgkin Lymphoma
-- term_id: pgx:icdom:9650_3
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:9650_3
   term_label: Hodgkin lymphoma, NOS
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33011
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:33011
   term_label: Hodgkin - Nodal
-- term_id: snmi:M-96503
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-96503
   term_label: Hodgkin lymphoma, NOS
 contact:
   email: dtychui@aol.com

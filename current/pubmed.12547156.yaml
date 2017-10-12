@@ -14,15 +14,25 @@ abstract: A molecular cytogenetic study was performed on the diagnostic tumor sa
 authors: Flordal E, Berglund M, Rosenquist R, Erlanson M, Enblad G, Roos G, Larsson
   C and Lagercrantz S.
 cancertypes:
-- term_id: ncit:C4337
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C4337
   term_label: Mantle Cell Lymphoma
-- term_id: pgx:icdom:9673_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9673_3
   term_label: Mantle cell lymphoma
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-96733
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-96733
   term_label: Mantle cell lymphoma
 contact:
   email: Emma.Flordal.Thelander@ki.se

@@ -18,15 +18,25 @@ abstract: Autosomal dominant polycystic kidney disease ADPKD is a genetically he
 authors: Gogusev J, Murakami I, Doussau M, Telvi L, Stojkoski A, Lesavre P and Droz
   D.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
 contact:
   email: ~

@@ -20,15 +20,25 @@ abstract: Although recent molecular investigations have identified a number of g
   adenomas.
 authors: Hui AB, Pang JC, Ko CW and Ng HK.
 cancertypes:
-- term_id: ncit:C3379
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C3379
   term_label: ~
-- term_id: pgx:icdom:8156_1
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8156_1
   term_label: Somatostatinoma, NOS
-- term_id: pgx:icdot:C75.1
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C75.1
   term_label: pituitary gland
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-81561
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-81561
   term_label: Somatostatinoma, NOS
 contact:
   email: hkng@cuhk.edu.hk

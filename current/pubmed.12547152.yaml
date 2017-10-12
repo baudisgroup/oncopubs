@@ -16,19 +16,33 @@ abstract: We analyzed 25 ovarian borderline tumors 13 serous and 12 mucinous tum
   be critical for the development and the differentiation of borderline serous tumors.
 authors: Hu J, Khanna V, Jones MM and Surti U.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8442_1
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:8442_1
   term_label: Serous cystadenoma, borderline malignancy
-- term_id: pgx:icdom:8472_1
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:8472_1
   term_label: Mucinous cystic tumor of borderline malignancy
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-84421
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-84421
   term_label: Serous cystadenoma, borderline malignancy
-- term_id: snmi:M-84721
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-84721
   term_label: Mucinous cystic tumor of borderline malignancy
 contact:
   email: ~

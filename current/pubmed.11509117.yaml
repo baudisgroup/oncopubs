@@ -18,15 +18,25 @@ abstract: In a cytogenetic and comparative genomic hybridization CGH study of 38
 authors: Kumon K, Kobayashi H, Namiki T, Tsunematsu Y, Miyauchi J, Kikuta A, Horikoshi
   Y, Komada Y, Hatae Y, Eguchi H and Kaneko Y.
 cancertypes:
-- term_id: ncit:C3728
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: ncit:C3728
   term_label: Hepatoblastoma
-- term_id: pgx:icdom:8970_3
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: pgx:icdom:8970_3
   term_label: Hepatoblastoma
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-89703
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: snmi:M-89703
   term_label: Hepatoblastoma
 contact:
   email: kaneko@cancer-c.pref.saitama.jp

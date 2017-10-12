@@ -27,33 +27,61 @@ abstract: 'The genetic changes involved in the pathogenesis of ovarian carcinoma
 authors: Hauptmann S, Denkert C, Koch I, Petersen S, Schluns K, Reles A, Dietel M
   and Petersen I.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C2855
   term_label: ~
-- term_id: ncit:C3778
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C3778
   term_label: ~
-- term_id: ncit:C4123
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C4123
   term_label: Adenocarcinoma In Situ
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdom:8140_2
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:8140_2
   term_label: Adenocarcinoma in situ, NOS
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdom:8441_3
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8441_3
   term_label: Serous cystadenocarcinoma, NOS
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
-- term_id: snmi:M-81402
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-81402
   term_label: Adenocarcinoma in situ, NOS
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
-- term_id: snmi:M-84413
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-84413
   term_label: Serous cystadenocarcinoma, NOS
 contact:
   email: steffen.hauptmann@charite.de

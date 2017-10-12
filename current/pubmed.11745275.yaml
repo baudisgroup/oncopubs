@@ -5,41 +5,77 @@ abstract: Radiotherapy is a known risk factor for sarcoma development. Postirrad
 authors: Tarkkanen M, Wiklund TA, Virolainen MJ, Larramendy ML, Mandahl N, Mertens
   F, Blomqvist CP, Tukiainen EJ, Miettinen MM, Elomaa AI and Knuutila YS.
 cancertypes:
-- term_id: ncit:C3043
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C3043
   term_label: Fibrosarcoma
-- term_id: ncit:C3088
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3088
   term_label: Angiosarcoma
-- term_id: ncit:C4247
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C4247
   term_label: Undifferentiated Pleomorphic Sarcoma
-- term_id: ncit:C9145
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C9145
   term_label: Osteosarcoma
-- term_id: pgx:icdom:8810_3
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8810_3
   term_label: Fibrosarcoma, NOS
-- term_id: pgx:icdom:8830_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:8830_3
   term_label: Malignant fibrous histiocytoma
-- term_id: pgx:icdom:9120_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9120_3
   term_label: Hemangiosarcoma
-- term_id: pgx:icdom:9180_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9180_3
   term_label: Osteosarcoma, NOS
-- term_id: pgx:icdot:C40.0
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdot:C40.0
   term_label: bones and joints
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:23000
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:seer:23000
   term_label: Bones and Joints
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: pgx:seer:25020
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:25020
   term_label: Other Non-Epithelial Skin
-- term_id: snmi:M-88103
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-88103
   term_label: Fibrosarcoma, NOS
-- term_id: snmi:M-88303
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-88303
   term_label: Malignant fibrous histiocytoma
-- term_id: snmi:M-91203
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-91203
   term_label: Hemangiosarcoma
-- term_id: snmi:M-91803
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-91803
   term_label: Osteosarcoma, NOS
 contact:
   email: ~

@@ -22,29 +22,53 @@ abstract: 'Biopsies of oropharyngeal cancer were screened for chromosomal imbala
 authors: Brieger J, Jacob R, Riazimand HS, Essig E, Heinrich UR, Bittinger F and Mann
   WJ.
 cancertypes:
-- term_id: ncit:C27093
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C27093
   term_label: Stage 0 Squamous Cell Carcinoma
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8070_2
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8070_2
   term_label: Squamous cell carcinoma in situ, NOS
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C14.0
+- samples_arraymap: ~
+  samples_progenetix: 44
+  term_id: pgx:icdot:C14.0
   term_label: pharynx, NOS
-- term_id: pgx:seer:20100
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:seer:20100
   term_label: Other Oral Cavity and Pharynx
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-80702
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-80702
   term_label: Squamous cell carcinoma in situ, NOS
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: brieger@mail.uni-mainz.de

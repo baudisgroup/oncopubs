@@ -22,15 +22,25 @@ abstract: 'It is widely believed that most human tumors, including esophageal sq
 authors: Shiomi H, Sugihara H, Kamitani S, Tokugawa T, Tsubosa Y, Okada K, Tamura
   H, Tani T, Kodama M and Hattori T.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C15
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C15
   term_label: esophagus
-- term_id: pgx:seer:21010
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:seer:21010
   term_label: Esophagus
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: shiomi@belle.shiga-med.ac.jp

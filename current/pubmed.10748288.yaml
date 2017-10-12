@@ -16,15 +16,25 @@ authors: Simons A, Schepens M, Jeuken J, Sprenger S, van de Zande G, Bjerkehagen
   Forus A, Weibolt V, Molenaar I, van den Berg E, Myklebost O, Bridge J, van Kessel
   AG and Suijkerbuijk R.
 cancertypes:
-- term_id: ncit:C4247
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C4247
   term_label: Undifferentiated Pleomorphic Sarcoma
-- term_id: pgx:icdom:8830_3
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:8830_3
   term_label: Malignant fibrous histiocytoma
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88303
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-88303
   term_label: Malignant fibrous histiocytoma
 contact:
   email: ~

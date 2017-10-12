@@ -18,17 +18,29 @@ abstract: Pleomorphic adenoma is the most common benign tumor of the salivary gl
   in a subset of CPA.
 authors: Morio T, Morimitsu Y, Hisaoka M, Makishima K and Hashimoto H.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C2855
   term_label: ~
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdot:C07
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdot:C07
   term_label: parotid gland
-- term_id: pgx:icdot:C08.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C08.9
   term_label: salivary gland, NOS
-- term_id: pgx:seer:20030
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:seer:20030
   term_label: Salivary Gland
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
 contact:
   email: hiroshi@med.uoeh-u.ac.jp

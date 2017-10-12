@@ -24,21 +24,37 @@ abstract: Nongestational choriocarcinomas are rare tumors. In the gastrointestin
 authors: Verbeek W, Schulten HJ, Sperling M, Tiesmeier J, Stoop H, Dinjens W, Looijenga
   L, Wormann B, Fuzesi L and Donhuijsen K.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C2948
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2948
   term_label: Choriocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdom:9100_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9100_3
   term_label: Choriocarcinoma, NOS
-- term_id: pgx:icdot:C20
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C20
   term_label: rectum
-- term_id: pgx:seer:21052
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:21052
   term_label: Rectum
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
-- term_id: snmi:M-91003
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-91003
   term_label: Choriocarcinoma, NOS
 contact:
   email: ~

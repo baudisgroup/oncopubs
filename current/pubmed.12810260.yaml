@@ -9,15 +9,25 @@ abstract: Benign cystic teratoma, also known as dermoid cyst, is the most common
 authors: Amiel A, Atzmon H, Klein Z, Kidron D, Gaber E, Vassilyev O, Shalom-Paz E,
   Fishman A, and Fejgin MD.
 cancertypes:
-- term_id: ncit:C9014
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C9014
   term_label: Cystic Teratoma
-- term_id: pgx:icdom:9080_0
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:9080_0
   term_label: Teratoma, benign
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-90800
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-90800
   term_label: Teratoma, benign
 contact:
   email: amielaliza@clalit.org.il

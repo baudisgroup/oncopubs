@@ -20,15 +20,25 @@ abstract: 'We describe a case of leukemic mantle cell lymphoma MCL with complex 
 authors: Gruszka-Westwood AM, Atkinson S, Summersgill BM, Shipley J, Elnenaei MO,
   Jain P, Hamoudi RA, Kaeda JS, Wotherspoon AC, Matutes E and Catovsky D.
 cancertypes:
-- term_id: ncit:C4337
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C4337
   term_label: Mantle Cell Lymphoma
-- term_id: pgx:icdom:9673_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9673_3
   term_label: Mantle cell lymphoma
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-96733
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-96733
   term_label: Mantle cell lymphoma
 contact:
   email: ~

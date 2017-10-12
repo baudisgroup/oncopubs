@@ -22,15 +22,25 @@ abstract: Although it is established that the loss of function of both alleles o
 authors: Herzog S, Lohmann DR, Buiting K, Schuler A, Horsthemke B, Rehder H and Rieder
   H.
 cancertypes:
-- term_id: ncit:C7541
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: ncit:C7541
   term_label: Retinoblastoma
-- term_id: pgx:icdom:9510_3
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:icdom:9510_3
   term_label: Retinoblastoma, NOS
-- term_id: pgx:icdot:C69.2
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:icdot:C69.2
   term_label: retina
-- term_id: pgx:seer:30000
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:seer:30000
   term_label: Eye and Orbit
-- term_id: snmi:M-95103
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: snmi:M-95103
   term_label: Retinoblastoma, NOS
 contact:
   email: ~

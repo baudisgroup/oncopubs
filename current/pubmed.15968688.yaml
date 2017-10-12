@@ -5,15 +5,25 @@ abstract: Juxtaglomerular cell tumors JGCT also known as reninomas are considere
   tumors are well established, whereas nothing is known about their cytogenetic characteristics.
 authors: Brandal P, Busund LT and Heim S.
 cancertypes:
-- term_id: ncit:C4162
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C4162
   term_label: ~
-- term_id: pgx:icdom:8361_0
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8361_0
   term_label: Juxtaglomerular tumor
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-83610
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-83610
   term_label: Juxtaglomerular tumor
 contact:
   email: sverre.heim@labmed.uio.no

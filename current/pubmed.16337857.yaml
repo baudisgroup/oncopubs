@@ -16,33 +16,61 @@ abstract: Ovarian carcinoma is the leading cause of death among women with gynec
   and specifically reveal chromosomal regions of interest for platinum resistance.
 authors: Osterberg L, Levan K, Partheen K, Helou K and Horvath G.
 cancertypes:
-- term_id: ncit:C2916
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C2916
   term_label: Carcinoma
-- term_id: ncit:C3766
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: ncit:C3766
   term_label: Clear Cell Adenocarcinoma
-- term_id: ncit:C3776
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C3776
   term_label: ~
-- term_id: ncit:C6882
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C6882
   term_label: ~
-- term_id: pgx:icdom:8010_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8010_3
   term_label: Carcinoma, NOS
-- term_id: pgx:icdom:8310_3
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: pgx:icdom:8310_3
   term_label: Clear cell adenocarcinoma, NOS
-- term_id: pgx:icdom:8460_3
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:8460_3
   term_label: Papillary serous cystadenocarcinoma
-- term_id: pgx:icdom:8470_3
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:8470_3
   term_label: Mucinous cystadenocarcinoma, NOS
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 63
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 63
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: snmi:M-80103
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-80103
   term_label: Carcinoma, NOS
-- term_id: snmi:M-83103
+- samples_arraymap: ~
+  samples_progenetix: 21
+  term_id: snmi:M-83103
   term_label: Clear cell adenocarcinoma, NOS
-- term_id: snmi:M-84603
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-84603
   term_label: Papillary serous cystadenocarcinoma
-- term_id: snmi:M-84703
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-84703
   term_label: Mucinous cystadenocarcinoma, NOS
 contact:
   email: ~

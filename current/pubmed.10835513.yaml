@@ -8,19 +8,33 @@ abstract: A rare subset of human immunodeficiency virus HIV lymphomas, known as 
   in these rare lymphomas.
 authors: Mullaney BP, Ng VL, Herndier BG, McGrath MS and Pallavicini MG.
 cancertypes:
-- term_id: ncit:C6915
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C6915
   term_label: Primary Effusion Lymphoma
-- term_id: pgx:icdom:9678_3
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:9678_3
   term_label: Primary effusion lymphoma
-- term_id: pgx:icdot:C38.0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C38.0
   term_label: heart
-- term_id: pgx:icdot:C38.4
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C38.4
   term_label: pleura
-- term_id: pgx:icdot:C48
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C48
   term_label: retroperitoneum and peritoneum
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96783
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-96783
   term_label: Primary effusion lymphoma
 contact:
   email: ~

@@ -8,27 +8,49 @@ abstract: Gastric cancer is one of the most frequent malignancies in the world, 
 authors: Weiss MM, Kuipers EJ, Postma C, Snijders AM, Stolte M, Vieth M, Pinkel D,
   Meuwissen SG, Albertson D and Meijer GA.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C2855
   term_label: ~
-- term_id: ncit:C4004
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:C4004
   term_label: Gastric Adenocarcinoma
-- term_id: ncit:null
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: 8
+  samples_progenetix: 8
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdot:C16
+- samples_arraymap: 8
+  samples_progenetix: 11
+  term_id: pgx:icdot:C16
   term_label: stomach
-- term_id: pgx:icdot:C76
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: pgx:icdot:C76
   term_label: ill-defined
-- term_id: pgx:seer:21020
+- samples_arraymap: 8
+  samples_progenetix: 8
+  term_id: pgx:seer:21020
   term_label: Stomach
-- term_id: pgx:seer:99999
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: 3
+  samples_progenetix: 3
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-81400
+- samples_arraymap: 8
+  samples_progenetix: 8
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
 contact:
   email: ~

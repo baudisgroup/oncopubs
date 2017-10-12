@@ -12,15 +12,25 @@ abstract: Mutation of both alleles of the retinoblastoma gene RB1 initiate oncog
   loss of RB1 alleles.
 authors: Chen D, Gallie BL and Squire JA.
 cancertypes:
-- term_id: ncit:C7541
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: ncit:C7541
   term_label: Retinoblastoma
-- term_id: pgx:icdom:9510_3
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:icdom:9510_3
   term_label: Retinoblastoma, NOS
-- term_id: pgx:icdot:C69.2
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:icdot:C69.2
   term_label: retina
-- term_id: pgx:seer:30000
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:seer:30000
   term_label: Eye and Orbit
-- term_id: snmi:M-95103
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: snmi:M-95103
   term_label: Retinoblastoma, NOS
 contact:
   email: ~

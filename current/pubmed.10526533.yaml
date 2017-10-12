@@ -18,25 +18,45 @@ abstract: Our previous comparative genomic hybridization CGH study of Ewing sarc
 authors: Tarkkanen M, Kiuru-Kuhlefelt S, Blomqvist C, Armengol G, Bohling T, Ekfors
   T, Virolainen M, Lindholm P, Monge O, Picci P, Knuutila S and Elomaa I.
 cancertypes:
-- term_id: ncit:C4817
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: ncit:C4817
   term_label: Ewing Sarcoma
-- term_id: ncit:C5398
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C5398
   term_label: Central Nervous System Embryonal Tumor, Not Otherwise Specified
-- term_id: pgx:icdom:9260_3
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: pgx:icdom:9260_3
   term_label: Ewing sarcoma
-- term_id: pgx:icdom:9473_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9473_3
   term_label: Primitive neuroectodermal tumor, NOS
-- term_id: pgx:icdot:C40.0
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:icdot:C40.0
   term_label: bones and joints
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:23000
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:seer:23000
   term_label: Bones and Joints
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-92603
+- samples_arraymap: ~
+  samples_progenetix: 25
+  term_id: snmi:M-92603
   term_label: Ewing sarcoma
-- term_id: snmi:M-94733
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-94733
   term_label: Primitive neuroectodermal tumor, NOS
 contact:
   email: ~

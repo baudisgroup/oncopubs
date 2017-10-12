@@ -10,25 +10,45 @@ abstract: 'We studied DNA copy number changes by CGH and allelic imbalance AI on
   Colour figure can be viewed on http: www.esacp.org acp 2003 25-2 jee.htm'
 authors: Jee KJ, Gong G, Ahn SH, Park JM and Knuutila S.
 cancertypes:
-- term_id: ncit:C2977
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C2977
   term_label: Phyllodes Tumor
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:9020_0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:9020_0
   term_label: Phyllodes tumor, benign
-- term_id: pgx:icdom:9020_1
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9020_1
   term_label: Phyllodes tumor, borderline
-- term_id: pgx:icdom:9020_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9020_3
   term_label: Phyllodes tumor, malignant
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-90200
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-90200
   term_label: Phyllodes tumor, benign
-- term_id: snmi:M-90201
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-90201
   term_label: Phyllodes tumor, borderline
-- term_id: snmi:M-90203
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-90203
   term_label: Phyllodes tumor, malignant
 contact:
   email: sakari.knuutila@helsinki.fi

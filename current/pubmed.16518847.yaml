@@ -20,15 +20,25 @@ abstract: 'We evaluated the WT1 and IGF2 status and performed chromosome and or 
 authors: Watanabe N, Nakadate H, Haruta M, Sugawara W, Sasaki F, Tsunematsu Y, Kikuta
   A, Fukuzawa M, Okita H, Hata J, Soejima H and Kaneko Y.
 cancertypes:
-- term_id: ncit:C40407
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: ncit:C40407
   term_label: Kidney Wilms Tumor
-- term_id: pgx:icdom:8960_3
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdom:8960_3
   term_label: Nephroblastoma, NOS
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-89603
+- samples_arraymap: ~
+  samples_progenetix: 34
+  term_id: snmi:M-89603
   term_label: Nephroblastoma, NOS
 contact:
   email: kaneko@cancer-c.pref.saitama.jp

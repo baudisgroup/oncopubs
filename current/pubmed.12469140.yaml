@@ -9,15 +9,25 @@ abstract: Spindle-cell ameloblastic carcinoma is a classification proposed for a
   of 5q13 was detected in the tumor by comparative genomic hybridization.
 authors: Kawauchi S, Hayatsu Y, Takahashi M, Furuya T, Oga A, Niwa S and Sasaki K.
 cancertypes:
-- term_id: ncit:C2916
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2916
   term_label: Carcinoma
-- term_id: pgx:icdom:8010_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8010_3
   term_label: Carcinoma, NOS
-- term_id: pgx:icdot:C06
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C06
   term_label: mouth, NOS
-- term_id: pgx:seer:20050
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:20050
   term_label: Gum and Other Mouth
-- term_id: snmi:M-80103
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80103
   term_label: Carcinoma, NOS
 contact:
   email: kohsuke@yamaguchi-u.ac.jp

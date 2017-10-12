@@ -23,15 +23,25 @@ abstract: Non-melanoma skin cancers, in particular keratoacanthomas KAs and squa
 authors: Burnworth B, Popp S, Stark HJ, Steinkraus V, Brocker EB, Hartschuh W, Birek
   C and Boukamp P.
 cancertypes:
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8070_1
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdom:8070_1
   term_label: ~
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: pgx:seer:99999
   term_label: Invalid
-- term_id: snmi:M-80701
+- samples_arraymap: ~
+  samples_progenetix: 24
+  term_id: snmi:M-80701
   term_label: ~
 contact:
   email: p.boukamp@dkfz.de

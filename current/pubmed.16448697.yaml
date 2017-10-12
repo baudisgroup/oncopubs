@@ -15,15 +15,25 @@ abstract: Mantle-cell lymphoma MCL is genetically characterized by 11q13 chromos
 authors: Camps J, Salaverria I, Garcia MJ, Prat E, Bea S, Pole JC, Hernandez L, Del
   Rey J, Cigudosa JC, Bernues M, Caldas C, Colomer D, Miro R and Campo E.
 cancertypes:
-- term_id: ncit:C4337
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C4337
   term_label: Mantle Cell Lymphoma
-- term_id: pgx:icdom:9673_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9673_3
   term_label: Mantle cell lymphoma
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-96733
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-96733
   term_label: Mantle cell lymphoma
 contact:
   email: ~

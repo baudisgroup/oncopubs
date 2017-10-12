@@ -19,15 +19,25 @@ abstract: Tumors with defects in mismatch repair MMR show fewer chromosomal chan
 authors: Snijders AM, Fridlyand J, Mans DA, Segraves R, Jain AN, Pinkel D and Albertson
   DG.
 cancertypes:
-- term_id: ncit:C4349
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: ncit:C4349
   term_label: Colon Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C18.9
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: pgx:icdot:C18.9
   term_label: Colon, NOS
-- term_id: pgx:seer:21049
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: pgx:seer:21049
   term_label: Large Intestine, NOS
-- term_id: snmi:M-81403
+- samples_arraymap: 55
+  samples_progenetix: ~
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: albertson@cc.ucsf.edu

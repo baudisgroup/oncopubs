@@ -2,27 +2,49 @@
 abstract: To examine benign orbital tumours for chromosomal imbalances.
 authors: Rodahl E, Lybaek H, Arnes J and Ness GO.
 cancertypes:
-- term_id: ncit:C2855
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:C2855
   term_label: ~
-- term_id: ncit:C3085
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C3085
   term_label: Hemangioma
-- term_id: ncit:C6970
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C6970
   term_label: ~
-- term_id: pgx:icdom:8140_0
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdom:8140_0
   term_label: Adenoma, NOS
-- term_id: pgx:icdom:9120_0
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:9120_0
   term_label: Hemangioma, NOS
-- term_id: pgx:icdom:9560_0
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:9560_0
   term_label: Neurilemoma, NOS
-- term_id: pgx:icdot:C69.0
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C69.0
   term_label: orbit and lacrimal gland, excl. retina, eye, nos
-- term_id: pgx:seer:30000
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:30000
   term_label: Eye and Orbit
-- term_id: snmi:M-81400
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: snmi:M-81400
   term_label: Adenoma, NOS
-- term_id: snmi:M-91200
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-91200
   term_label: Hemangioma, NOS
-- term_id: snmi:M-95600
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-95600
   term_label: Neurilemoma, NOS
 contact:
   email: eyvind.rodahl@helse-bergen.no

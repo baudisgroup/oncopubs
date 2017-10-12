@@ -22,27 +22,49 @@ abstract: Immunohistochemical analysis of E-cadherin has changed the way lobular
 authors: Reis-Filho JS, Simpson PT, Jones C, Steele D, Mackay A, Iravani M, Fenwick
   K, Valgeirsson H, Lambros M, Ashworth A, Palacios J, Schmitt F and Lakhani SR.
 cancertypes:
-- term_id: ncit:C2917
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2917
   term_label: Carcinoma In Situ
-- term_id: ncit:C3771
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: ncit:C3771
   term_label: Lobular Breast Carcinoma
-- term_id: ncit:C4018
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: ncit:C4018
   term_label: Lobular Breast Carcinoma In Situ
-- term_id: pgx:icdom:8010_2
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8010_2
   term_label: Carcinoma in situ, NOS
-- term_id: pgx:icdom:8520_2
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdom:8520_2
   term_label: Lobular carcinoma in situ, NOS
-- term_id: pgx:icdom:8520_3
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdom:8520_3
   term_label: Lobular carcinoma, NOS
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: 2
+  samples_progenetix: 3
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: 2
+  samples_progenetix: 3
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-80102
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-80102
   term_label: Carcinoma in situ, NOS
-- term_id: snmi:M-85202
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: snmi:M-85202
   term_label: Lobular carcinoma in situ, NOS
-- term_id: snmi:M-85203
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: snmi:M-85203
   term_label: Lobular carcinoma, NOS
 contact:
   email: s.lakhani@uq.edu.au

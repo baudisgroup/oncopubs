@@ -24,15 +24,25 @@ abstract: Primary cutaneous CD30 large T-cell lymphoma CD30 CTCL is a subset of 
 authors: Prochazkova M, Chevret E, Beylot-Barry M, Sobotka J, Vergier B, Delaunay
   M, Turmo M, Ferrer J, Kuglik P and Merlio JP.
 cancertypes:
-- term_id: ncit:C3721
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: ncit:C3721
   term_label: Lymphomatoid Papulosis
-- term_id: pgx:icdom:9718_3
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdom:9718_3
   term_label: Anaplastic large cell lymphoma, cutaneous type
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-97183
+- samples_arraymap: ~
+  samples_progenetix: 13
+  term_id: snmi:M-97183
   term_label: Anaplastic large cell lymphoma, cutaneous type
 contact:
   email: edith.chevret@histo.u-bordeaux2.fr

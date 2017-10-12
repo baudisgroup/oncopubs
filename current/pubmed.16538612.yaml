@@ -20,31 +20,57 @@ authors: Wilting SM, Snijders PJ, Meijer GA, Ylstra B, van den Ijssel PR, Snijde
   AM, Albertson DG, Coffa J, Schouten JP, van de Wiel MA, Meijer CJ and Steenbergen
   RD.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:icdot:C53
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C53
   term_label: cervix uteri
-- term_id: pgx:seer:27010
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:seer:27010
   term_label: Cervix Uteri
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: r.steenbergen@vumc.nl

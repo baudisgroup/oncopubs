@@ -19,71 +19,137 @@ abstract: Human germ cell tumors GCTs of neonates and infants comprise a heterog
 authors: Veltman I, Veltman J, Janssen I, Hulsbergen-van de Kaa C, Oosterhuis W, Schneider
   D, Stoop H, Gillis A, Zahn S, Looijenga L, Gobel U and van Kessel AG.
 cancertypes:
-- term_id: ncit:C2996
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C2996
   term_label: Dysgerminoma
-- term_id: ncit:C3011
+- samples_arraymap: 6
+  samples_progenetix: 9
+  term_id: ncit:C3011
   term_label: Yolk Sac Tumor
-- term_id: ncit:C3403
+- samples_arraymap: 3
+  samples_progenetix: ~
+  term_id: ncit:C3403
   term_label: Tetratoma
-- term_id: ncit:C4286
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:C4286
   term_label: Immature Teratoma
-- term_id: ncit:C9010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C9010
   term_label: Mixed Teratoma and Seminoma
-- term_id: ncit:C9014
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:C9014
   term_label: Cystic Teratoma
-- term_id: ncit:C9015
+- samples_arraymap: 8
+  samples_progenetix: ~
+  term_id: ncit:C9015
   term_label: Mature Teratoma
-- term_id: pgx:icdom:9060_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9060_3
   term_label: Dysgerminoma
-- term_id: pgx:icdom:9071_3
+- samples_arraymap: 6
+  samples_progenetix: 9
+  term_id: pgx:icdom:9071_3
   term_label: Yolk sac tumor
-- term_id: pgx:icdom:9080_0
+- samples_arraymap: 8
+  samples_progenetix: 12
+  term_id: pgx:icdom:9080_0
   term_label: Teratoma, benign
-- term_id: pgx:icdom:9080_3
+- samples_arraymap: 3
+  samples_progenetix: 8
+  term_id: pgx:icdom:9080_3
   term_label: Teratoma, malignant, NOS
-- term_id: pgx:icdom:9085_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9085_3
   term_label: Mixed germ cell tumor
-- term_id: pgx:icdot:C38
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C38
   term_label: mediastinum
-- term_id: pgx:icdot:C40.0
+- samples_arraymap: 12
+  samples_progenetix: 17
+  term_id: pgx:icdot:C40.0
   term_label: bones and joints
-- term_id: pgx:icdot:C48
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C48
   term_label: retroperitoneum and peritoneum
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:icdot:C55.9
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:icdot:C55.9
   term_label: uterus, nos
-- term_id: pgx:icdot:C56.9
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C56.9
   term_label: ovary
-- term_id: pgx:icdot:C62
+- samples_arraymap: 3
+  samples_progenetix: 4
+  term_id: pgx:icdot:C62
   term_label: testis
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:seer:21110
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21110
   term_label: Retroperitoneum
-- term_id: pgx:seer:22060
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22060
   term_label: Trachea, Mediastinum and Other Respiratory Organs
-- term_id: pgx:seer:23000
+- samples_arraymap: 12
+  samples_progenetix: 17
+  term_id: pgx:seer:23000
   term_label: Bones and Joints
-- term_id: pgx:seer:24000
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: pgx:seer:27030
+- samples_arraymap: 1
+  samples_progenetix: 1
+  term_id: pgx:seer:27030
   term_label: Uterus, NOS
-- term_id: pgx:seer:27040
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:seer:27040
   term_label: Ovary
-- term_id: pgx:seer:28020
+- samples_arraymap: 3
+  samples_progenetix: 4
+  term_id: pgx:seer:28020
   term_label: Testis
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: snmi:M-90603
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-90603
   term_label: Dysgerminoma
-- term_id: snmi:M-90713
+- samples_arraymap: 6
+  samples_progenetix: 9
+  term_id: snmi:M-90713
   term_label: Yolk sac tumor
-- term_id: snmi:M-90800
+- samples_arraymap: 8
+  samples_progenetix: 12
+  term_id: snmi:M-90800
   term_label: Teratoma, benign
-- term_id: snmi:M-90803
+- samples_arraymap: 3
+  samples_progenetix: 8
+  term_id: snmi:M-90803
   term_label: Teratoma, malignant, NOS
-- term_id: snmi:M-90853
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-90853
   term_label: Mixed germ cell tumor
 contact:
   email: a.geurtsvankessel@antrg.umcn.nl

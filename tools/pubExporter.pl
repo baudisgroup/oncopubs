@@ -69,13 +69,18 @@ my $progress_bar = Term::ProgressBar->new(scalar @$pgPMIDs);
 
 for my $i (0..$#{ $pgPMIDs }) {
 
-  my $pub       =   $dbcoll->find_one( { PMID => qr/^$pgPMIDs->[$i]$/ } );
+  my $pgPMID    =   $pgPMIDs->[$i];
+
+  if ($pgPMID !~ /^\w+?$/) { next }
+
+  my $pub       =   $dbcoll->find_one( { PMID => qr/^$pgPMID$/ } );
 
   foreach (keys %$pub) {
     if ($pub->{$_} !~ /\w/)     { delete $pub->{$_} }
     if ($pub->{$_} =~ /^NA$/)   { delete $pub->{$_} }
   }
 
+  # this should serve as the
   my $pubDump   =   {
     label       =>  $pub->{CITETAG},
     authors     =>  $pub->{AUTHORS},
@@ -121,36 +126,41 @@ for my $i (0..$#{ $pgPMIDs }) {
   }
 
 
-  my %bioOntologies        =   ();
+  my %bioOntologies     =   ();
 
   # cancertype currently using SEER
   if ($pub->{CANCERTYPE} =~ /^seer\s(\d{5})\:\s*?(\w.*?)$/) {
     $bioOntologies{ 'seer:'.$1 } =   $2 }
 
   # from samples ...
+  my @dblabels  =   qw(arraymap progenetix);
+  my $dbindex   =   0;
   foreach my $coll ($amga4ghbs, $pgga4ghbs) {
     my $cursor	=		$coll->find( { "external_identifiers.identifier" => qr/^(?:(?:pubmed)|(?:pmid)\:)?$pub->{PMID}$/ } )->fields( { bio_characteristics => 1 } );
     my @samples	=		$cursor->all;
     foreach my $sample (@samples) {
       foreach my $bioC (@{$sample->{bio_characteristics}}) {
         foreach my $ontology (@{$bioC->{ontology_terms}}) {
-          $bioOntologies{ $ontology->{term_id} } =   $ontology->{term_label};
+          $bioOntologies{ $ontology->{term_id} }->{term_id}     =   $ontology->{term_id};
+          $bioOntologies{ $ontology->{term_id} }->{term_label}  =   $ontology->{term_label};
+          $bioOntologies{ $ontology->{term_id} }->{'samples_'.$dblabels[$dbindex] }  += 1;
         }
       }
     }
+    $dbindex++;
   }
 
   foreach (sort keys %bioOntologies) {
     push(
       @{ $pubDump->{cancertypes} },
       {
-        term_id           =>  $_,
-        term_label        =>  $bioOntologies{ $_ },
+        term_id                 =>  $bioOntologies{ $_ }->{term_id},
+        term_label              =>  $bioOntologies{ $_ }->{term_label},
+        samples_arraymap        =>  $bioOntologies{ $_ }->{samples_arraymap},
+        samples_progenetix      =>  $bioOntologies{ $_ }->{samples_progenetix},
       }
     );
   }
-
-
 
   if ($pub->{geo_data}->{geo_json}->{coordinates}->[1] =~ /^\-?\d+?(\.\d)?\d*?$/) {
     $pubDump->{geo_data}        =  {
@@ -190,6 +200,8 @@ for my $i (0..$#{ $pgPMIDs }) {
 
 }
 
+$progress->update(scalar @$pgPMIDs);
+
 if ($args{'-cleanup'} =~ /y/) {
   foreach my $dirPMID (@dirPMIDs) {
     if (! grep { /^$dirPMID$/ } @$pgPMIDs) {
@@ -204,8 +216,8 @@ if ($args{'-cleanup'} =~ /y/) {
 }
 
 
-
-
+################################################################################
+################################################################################
 ################################################################################
 
 sub _checkPathsExit {

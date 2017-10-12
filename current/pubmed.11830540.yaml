@@ -20,15 +20,25 @@ abstract: The aim of this study is to explore the mechanisms of intratumoral cyt
   cancer.
 authors: Harada T, Okita K, Shiraishi K, Kusano N, Kondoh S and Sasaki K.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C25
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: pgx:icdot:C25
   term_label: pancreas
-- term_id: pgx:seer:21100
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: pgx:seer:21100
   term_label: Pancreas
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 71
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: tharada@po.cc.yamaguchi-u.ac.jp

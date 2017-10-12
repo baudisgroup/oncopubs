@@ -25,27 +25,49 @@ abstract: 'It was recently shown by flow and static cytometry that a large sub-g
 authors: Castro P, Eknaes M, Teixeira MR, Danielsen HE, Soares P, Lothe RA and Sobrinho-Simoes
   M.
 cancertypes:
-- term_id: ncit:C3502
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C3502
   term_label: Thyroid Gland Follicular Adenoma
-- term_id: ncit:C4160
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: ncit:C4160
   term_label: ~
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8330_0
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8330_0
   term_label: Follicular adenoma
-- term_id: pgx:icdom:8333_0
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdom:8333_0
   term_label: Microfollicular adenoma, NOS
-- term_id: pgx:icdom:8335_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8335_3
   term_label: Follicular carcinoma, minimally invasive
-- term_id: pgx:icdot:C73.9
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:icdot:C73.9
   term_label: thyroid gland
-- term_id: pgx:seer:32010
+- samples_arraymap: ~
+  samples_progenetix: 18
+  term_id: pgx:seer:32010
   term_label: Thyroid
-- term_id: snmi:M-83300
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-83300
   term_label: Follicular adenoma
-- term_id: snmi:M-83330
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: snmi:M-83330
   term_label: Microfollicular adenoma, NOS
-- term_id: snmi:M-83353
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-83353
   term_label: Follicular carcinoma, minimally invasive
 contact:
   email: sobrinho.simoes@ipatimup.pt

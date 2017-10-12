@@ -10,21 +10,37 @@ abstract: 'We have examined 11 cases of childhood adrenocortical tumours for cop
   , and we propose that this indicates that childhood tumours are of embryonal origin.'
 authors: James LA, Kelsey AM, Birch JM and Varley JM.
 cancertypes:
-- term_id: ncit:C9003
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C9003
   term_label: Adrenal Cortex Adenoma
-- term_id: ncit:C9325
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C9325
   term_label: Adrenal Cortex Carcinoma
-- term_id: pgx:icdom:8370_0
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8370_0
   term_label: Adrenal cortical adenoma, NOS
-- term_id: pgx:icdom:8370_3
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8370_3
   term_label: Adrenal cortical carcinoma
-- term_id: pgx:icdot:C74.0
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C74.0
   term_label: adrenal cortex
-- term_id: pgx:seer:32020
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:seer:32020
   term_label: Other Endocrine including Thymus
-- term_id: snmi:M-83700
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-83700
   term_label: Adrenal cortical adenoma, NOS
-- term_id: snmi:M-83703
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-83703
   term_label: Adrenal cortical carcinoma
 contact:
   email: ~

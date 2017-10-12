@@ -15,15 +15,25 @@ abstract: 'New therapeutic strategies are needed to improve survival in glioblas
   and might be further studied as a candidate therapeutic agent in other testing systems.'
 authors: Fan X, Aalto Y, Sanko SG, Knuutila S, Klatzmann D and Castresana JS.
 cancertypes:
-- term_id: ncit:C3058
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: ncit:C3058
   term_label: Glioblastoma
-- term_id: pgx:icdom:9440_3
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdom:9440_3
   term_label: Glioblastoma, NOS
-- term_id: pgx:icdot:C71.0
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:icdot:C71.0
   term_label: cerebrum
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94403
+- samples_arraymap: ~
+  samples_progenetix: 22
+  term_id: snmi:M-94403
   term_label: Glioblastoma, NOS
 contact:
   email: jscastresana@unav.es

@@ -18,23 +18,41 @@ abstract: Keratoacanthoma KA is a benign keratinocytic neoplasm that usually pre
 authors: Clausen OP, Aass HC, Beigi M, Purdie KJ, Proby CM, Brown VL, Mattingsdal
   M, Micci F, Kolvraa S, Bolund L and Deangelis PM.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 37
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:C3712
+- samples_arraymap: ~
+  samples_progenetix: 132
+  term_id: ncit:C3712
   term_label: Squamous Papilloma
-- term_id: pgx:icdom:8052_0
+- samples_arraymap: ~
+  samples_progenetix: 132
+  term_id: pgx:icdom:8052_0
   term_label: Squamous cell papilloma, NOS
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 37
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 169
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:37000
+- samples_arraymap: ~
+  samples_progenetix: 37
+  term_id: pgx:seer:37000
   term_label: Miscellaneous
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 132
+  term_id: pgx:seer:99999
   term_label: Invalid
-- term_id: snmi:M-80520
+- samples_arraymap: ~
+  samples_progenetix: 132
+  term_id: snmi:M-80520
   term_label: Squamous cell papilloma, NOS
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 37
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: ole.petter.clausen@rikshospitalet.no

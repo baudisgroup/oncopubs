@@ -23,19 +23,33 @@ authors: Bea S, Zettl A, Wright G, Salaverria I, Jehn P, Moreno V, Burek C, Ott 
   S, Holte H, Delabie J, Simon R, Powell J, Wilson WH, Jaffe ES, Montserrat E, Muller-Hermelink
   HK, Staudt LM, Campo E and Rosenwald A.
 cancertypes:
-- term_id: ncit:C4342
+- samples_arraymap: ~
+  samples_progenetix: 255
+  term_id: ncit:C4342
   term_label: Intravascular Large B-Cell Lymphoma
-- term_id: pgx:icdom:9680_3
+- samples_arraymap: ~
+  samples_progenetix: 255
+  term_id: pgx:icdom:9680_3
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
-- term_id: pgx:icdot:C38
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C38
   term_label: mediastinum
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 236
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 236
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-96803
+- samples_arraymap: ~
+  samples_progenetix: 255
+  term_id: snmi:M-96803
   term_label: Malignant lymphoma, large B-cell, diffuse, NOS
 contact:
   email: ecampo@clinic.ub.es

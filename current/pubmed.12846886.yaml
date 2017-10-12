@@ -18,23 +18,41 @@ abstract: Chromosomal abnormalities, such as 13q deletions, are emerging as impo
 authors: Liebisch P, Viardot A, Bassermann N, Wendl C, Roth K, Goldschmidt H, Einsele
   H, Straka C, Stilgenbauer S, Dohner H and Bentz M.
 cancertypes:
-- term_id: ncit:C3180
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3180
   term_label: Plasma Cell Leukemia
-- term_id: ncit:C3242
+- samples_arraymap: ~
+  samples_progenetix: 43
+  term_id: ncit:C3242
   term_label: Plasma Cell Myeloma
-- term_id: pgx:icdom:9732_3
+- samples_arraymap: ~
+  samples_progenetix: 43
+  term_id: pgx:icdom:9732_3
   term_label: Multiple myeloma
-- term_id: pgx:icdom:9733_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9733_3
   term_label: Plasma cell leukemia
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 46
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:34000
+- samples_arraymap: ~
+  samples_progenetix: 43
+  term_id: pgx:seer:34000
   term_label: Myeloma
-- term_id: pgx:seer:35043
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:35043
   term_label: Aleukemic, subleukemic and NOS
-- term_id: snmi:M-97323
+- samples_arraymap: ~
+  samples_progenetix: 43
+  term_id: snmi:M-97323
   term_label: Multiple myeloma
-- term_id: snmi:M-97333
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-97333
   term_label: Plasma cell leukemia
 contact:
   email: hartmut.doehner@uniklinik-ulm.de

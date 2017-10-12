@@ -21,25 +21,45 @@ abstract: Patients with ulcerative colitis have a significantly increased lifeti
 authors: Habermann JK, Upender MB, Roblick UJ, Kruger S, Freitag S, Blegen H, Bruch
   HP, Schimmelpenning H, Auer G and Ried T.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C3774
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3774
   term_label: Signet Ring Cell Carcinoma
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdom:8490_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8490_3
   term_label: Signet ring cell carcinoma
-- term_id: pgx:icdot:C18.9
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:icdot:C18.9
   term_label: large intestine, excl. rectum and rectosigmoid junction
-- term_id: pgx:icdot:C20
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C20
   term_label: rectum
-- term_id: pgx:seer:21049
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:21049
   term_label: Large Intestine, NOS
-- term_id: pgx:seer:21052
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:21052
   term_label: Rectum
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 17
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
-- term_id: snmi:M-84903
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-84903
   term_label: Signet ring cell carcinoma
 contact:
   email: riedt@mail.nih.gov

@@ -24,15 +24,25 @@ authors: Ozaki T, Schaefer KL, Wai D, Buerger H, Flege S, Lindner N, Kevric M, D
   R, Bankfalvi A, Brinkschmidt C, Juergens H, Winkelmann W, Dockhorn-Dworniczak B,
   Bielack SS and Poremba C.
 cancertypes:
-- term_id: ncit:C9145
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: ncit:C9145
   term_label: Osteosarcoma
-- term_id: pgx:icdom:9180_3
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:icdom:9180_3
   term_label: Osteosarcoma, NOS
-- term_id: pgx:icdot:C40.0
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:icdot:C40.0
   term_label: bones and joints
-- term_id: pgx:seer:23000
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: pgx:seer:23000
   term_label: Bones and Joints
-- term_id: snmi:M-91803
+- samples_arraymap: ~
+  samples_progenetix: 47
+  term_id: snmi:M-91803
   term_label: Osteosarcoma, NOS
 contact:
   email: poremba@med.uni-duesseldorf.de

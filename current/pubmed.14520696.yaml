@@ -17,39 +17,73 @@ abstract: 'Sporadic breast cancer in young women is different from the one in ol
 authors: Weber-Mangal S, Sinn HP, Popp S, Klaes R, Emig R, Bentz M, Mansmann U, Bastert
   G, Bartram CR and Jauch A.
 cancertypes:
-- term_id: ncit:C3771
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C3771
   term_label: Lobular Breast Carcinoma
-- term_id: ncit:C4017
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: ncit:C4017
   term_label: Ductal Breast Carcinoma
-- term_id: ncit:C65192
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C65192
   term_label: ~
-- term_id: ncit:C66718
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C66718
   term_label: ~
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8211_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8211_3
   term_label: Tubular adenocarcinoma
-- term_id: pgx:icdom:8500_3
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: pgx:icdom:8500_3
   term_label: Infiltrating duct carcinoma, NOS
-- term_id: pgx:icdom:8510_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8510_3
   term_label: Medullary carcinoma, NOS
-- term_id: pgx:icdom:8520_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:8520_3
   term_label: Lobular carcinoma, NOS
-- term_id: pgx:icdom:8523_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8523_3
   term_label: Infiltrating duct mixed with other types of carcinoma
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: ~
+  samples_progenetix: 88
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: ~
+  samples_progenetix: 88
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-82113
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-82113
   term_label: Tubular adenocarcinoma
-- term_id: snmi:M-85003
+- samples_arraymap: ~
+  samples_progenetix: 77
+  term_id: snmi:M-85003
   term_label: Infiltrating duct carcinoma, NOS
-- term_id: snmi:M-85103
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-85103
   term_label: Medullary carcinoma, NOS
-- term_id: snmi:M-85203
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-85203
   term_label: Lobular carcinoma, NOS
-- term_id: snmi:M-85233
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-85233
   term_label: Infiltrating duct mixed with other types of carcinoma
 contact:
   email: Anna_Jauch@med.uni-heidelberg.de

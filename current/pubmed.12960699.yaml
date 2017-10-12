@@ -17,15 +17,25 @@ abstract: Dedifferentiated and differentiated liposarcoma are characterized by 1
   and that it allows more tumors to be analyzed in retrospective studies.
 authors: Hostein I, Coindre JM, Derre J, Mariani O, Chibon F and Aurias A.
 cancertypes:
-- term_id: ncit:C3194
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: ncit:C3194
   term_label: Liposarcoma
-- term_id: pgx:icdom:8850_3
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdom:8850_3
   term_label: Liposarcoma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88503
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: snmi:M-88503
   term_label: Liposarcoma, NOS
 contact:
   email: hostein@bergonie.org

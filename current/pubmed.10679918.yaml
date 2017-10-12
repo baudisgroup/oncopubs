@@ -22,15 +22,25 @@ abstract: 'Until now, few data on additional chromosomal aberrations in t 11 14 
 authors: Bentz M, Plesch A, Bullinger L, Stilgenbauer S, Ott G, Muller-Hermelink HK,
   Baudis M, Barth TF, Moller P, Lichter P and Dohner H.
 cancertypes:
-- term_id: ncit:C4337
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: ncit:C4337
   term_label: Mantle Cell Lymphoma
-- term_id: pgx:icdom:9673_3
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:icdom:9673_3
   term_label: Mantle cell lymphoma
-- term_id: pgx:icdot:C77
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:icdot:C77
   term_label: lymph nodes
-- term_id: pgx:seer:33041
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:seer:33041
   term_label: NHL - Nodal
-- term_id: snmi:M-96733
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: snmi:M-96733
   term_label: Mantle cell lymphoma
 contact:
   email: ~

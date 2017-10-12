@@ -15,15 +15,25 @@ abstract: In a previous study that used comparative genomic hybridization CGH to
 authors: Molist R, Gerbault-Seureau M, Sastre-Garau X, Sigal-Zafrani B, Dutrillaux
   B and Muleris M.
 cancertypes:
-- term_id: ncit:C4017
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: ncit:C4017
   term_label: Ductal Breast Carcinoma
-- term_id: pgx:icdom:8500_3
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdom:8500_3
   term_label: Infiltrating duct carcinoma, NOS
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-85003
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: snmi:M-85003
   term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: martine.muleris@cephb.fr

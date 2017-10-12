@@ -13,15 +13,25 @@ abstract: Cytogenetic and molecular studies of radiation-induced meningiomas RIM
   to further investigate the role of 7p loss in RIM.
 authors: Rajcan-Separovic E, Maguire J, Loukianova T, Nisha M and Kalousek D.
 cancertypes:
-- term_id: ncit:C4073
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: ncit:C4073
   term_label: ~
-- term_id: pgx:icdom:9530_3
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdom:9530_3
   term_label: Meningioma, malignant
-- term_id: pgx:icdot:C70.0
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:icdot:C70.0
   term_label: meninges cerebral, spinal
-- term_id: pgx:seer:31040
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: pgx:seer:31040
   term_label: Cranial Nerves Other Nervous System
-- term_id: snmi:M-95303
+- samples_arraymap: ~
+  samples_progenetix: 7
+  term_id: snmi:M-95303
   term_label: Meningioma, malignant
 contact:
   email: eseparovic@cw.bc.ca

@@ -16,15 +16,25 @@ abstract: Adenoid cystic carcinoma ACC of the salivary gland is a neoplasm chara
 authors: Freier K, Flechtenmacher C, Walch A, Ohl S, Devens F, Burke B, Hassfeld S,
   Lichter P, Joos S and Hofele C.
 cancertypes:
-- term_id: ncit:C2970
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: ncit:C2970
   term_label: Adenoid Cystic Carcinoma
-- term_id: pgx:icdom:8200_3
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:icdom:8200_3
   term_label: Adenoid cystic carcinoma
-- term_id: pgx:icdot:C08.9
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:icdot:C08.9
   term_label: salivary gland, NOS
-- term_id: pgx:seer:20030
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: pgx:seer:20030
   term_label: Salivary Gland
-- term_id: snmi:M-82003
+- samples_arraymap: ~
+  samples_progenetix: 27
+  term_id: snmi:M-82003
   term_label: Adenoid cystic carcinoma
 contact:
   email: christof_hofele@med.uni-heidelberg.de

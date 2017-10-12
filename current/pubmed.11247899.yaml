@@ -5,33 +5,61 @@ abstract: Chromosomal instability is observed in a wide spectrum of human cancer
 authors: Tonnies H, Toliat MR, Ramel C, Pape UF, Neitzel H, Berger W and Wiedenmann
   B.
 cancertypes:
-- term_id: ncit:C3773
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: ncit:C3773
   term_label: Neuroendocrine Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:8151_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8151_3
   term_label: Insulinoma, malignant
-- term_id: pgx:icdom:8153_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8153_3
   term_label: Gastrinoma, malignant
-- term_id: pgx:icdom:8246_3
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdom:8246_3
   term_label: Neuroendocrine carcinoma, NOS
-- term_id: pgx:icdot:C17
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:icdot:C17
   term_label: small intestine
-- term_id: pgx:icdot:C25
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C25
   term_label: pancreas
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:seer:21030
+- samples_arraymap: ~
+  samples_progenetix: 16
+  term_id: pgx:seer:21030
   term_label: Small Intestine
-- term_id: pgx:seer:21100
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:21100
   term_label: Pancreas
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: snmi:M-81513
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-81513
   term_label: Insulinoma, malignant
-- term_id: snmi:M-81533
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-81533
   term_label: Gastrinoma, malignant
-- term_id: snmi:M-82463
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: snmi:M-82463
   term_label: Neuroendocrine carcinoma, NOS
 contact:
   email: ~

@@ -20,15 +20,25 @@ abstract: Comparative genomic hybridization CGH was used to search for gains, hi
   compared to tumors with no DNA alterations.
 authors: Larramendy ML, Koljonen V, Bohling T, Tukiainen E and Knuutila S.
 cancertypes:
-- term_id: ncit:C9231
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: ncit:C9231
   term_label: Merkel Cell Carcinoma
-- term_id: pgx:icdom:8247_3
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdom:8247_3
   term_label: Merkel cell carcinoma
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:25020
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: pgx:seer:25020
   term_label: Other Non-Epithelial Skin
-- term_id: snmi:M-82473
+- samples_arraymap: ~
+  samples_progenetix: 19
+  term_id: snmi:M-82473
   term_label: Merkel cell carcinoma
 contact:
   email: sakari.knuutila@helsinki.fi

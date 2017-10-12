@@ -43,23 +43,41 @@ abstract: The worldwide incidence of hepatocellular carcinoma HCC is approximate
 authors: Zondervan PE, Wink J, Alers JC, IJzermans JN, Schalm SW, de Man RA and van
   Dekken H.
 cancertypes:
-- term_id: ncit:C3099
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: ncit:C3099
   term_label: Hepatocellular Carcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8170_3
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:icdom:8170_3
   term_label: Hepatocellular carcinoma, NOS
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 38
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 12
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-81703
+- samples_arraymap: ~
+  samples_progenetix: 26
+  term_id: snmi:M-81703
   term_label: Hepatocellular carcinoma, NOS
 contact:
   email: ~

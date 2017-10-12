@@ -12,15 +12,25 @@ abstract: Hyperdiploidy sometimes is found in mycosis fungoides-S zary syndrome,
   is indicated.
 authors: So CC, Wong KF, Siu LL and Kwong YL.
 cancertypes:
-- term_id: ncit:C3366
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3366
   term_label: Sezary Syndrome
-- term_id: pgx:icdom:9701_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9701_3
   term_label: Sezary syndrome
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:seer:33042
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:33042
   term_label: NHL - Extranodal
-- term_id: snmi:M-97013
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-97013
   term_label: Sezary syndrome
 contact:
   email: ~

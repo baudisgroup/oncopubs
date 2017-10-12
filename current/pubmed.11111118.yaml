@@ -14,67 +14,129 @@ abstract: Comparative genomic hybridization CGH was used to detect chromosomal i
   prognosis and outcome of myeloid neoplasias.
 authors: Castuma MV, Rao PH, Acevedo SH and Larripa IB.
 cancertypes:
-- term_id: ncit:C27080
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C27080
   term_label: ~
-- term_id: ncit:C2872
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C2872
   term_label: Refractory Anemia
-- term_id: ncit:C3178
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3178
   term_label: Chronic Myelomonocytic Leukemia
-- term_id: ncit:C3182
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3182
   term_label: Acute Promyelocytic Leukemia with PML-RARA
-- term_id: ncit:C3249
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3249
   term_label: Acute Myeloid Leukemia without Maturation
-- term_id: ncit:C3250
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C3250
   term_label: Acute Myeloid Leukemia with Maturation
-- term_id: ncit:C7463
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C7463
   term_label: Acute Myelomonocytic Leukemia
-- term_id: ncit:C7467
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C7467
   term_label: ~
-- term_id: ncit:C7506
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C7506
   term_label: Myelodysplastic Syndrome with Excess Blasts
-- term_id: pgx:icdom:9840_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9840_3
   term_label: Acute myeloid leukemia, M6 type
-- term_id: pgx:icdom:9866_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9866_3
   term_label: Acute promyelocytic leukemia
-- term_id: pgx:icdom:9867_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9867_3
   term_label: Acute myelomonocytic leukemia
-- term_id: pgx:icdom:9873_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9873_3
   term_label: Acute myeloid leukemia without maturation
-- term_id: pgx:icdom:9874_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:9874_3
   term_label: Acute myeloid leukemia with maturation
-- term_id: pgx:icdom:9945_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9945_3
   term_label: Chronic myelomonocytic leukemia, NOS
-- term_id: pgx:icdom:9980_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9980_3
   term_label: Refractory anemia
-- term_id: pgx:icdom:9983_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9983_3
   term_label: Refractory anemia with excess blasts
-- term_id: pgx:icdom:9984_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9984_3
   term_label: Refractory anemia with excess blasts in transformation
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 20
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35021
+- samples_arraymap: ~
+  samples_progenetix: 10
+  term_id: pgx:seer:35021
   term_label: Acute Myeloid Leukemia
-- term_id: pgx:seer:35022
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:35022
   term_label: Chronic Myeloid Leukemia
-- term_id: pgx:seer:35023
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:35023
   term_label: Other Myeloid/Monocytic Leukemia
-- term_id: snmi:M-98403
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-98403
   term_label: Acute myeloid leukemia, M6 type
-- term_id: snmi:M-98663
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-98663
   term_label: Acute promyelocytic leukemia
-- term_id: snmi:M-98673
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-98673
   term_label: Acute myelomonocytic leukemia
-- term_id: snmi:M-98733
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-98733
   term_label: Acute myeloid leukemia without maturation
-- term_id: snmi:M-98743
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-98743
   term_label: Acute myeloid leukemia with maturation
-- term_id: snmi:M-99453
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-99453
   term_label: Chronic myelomonocytic leukemia, NOS
-- term_id: snmi:M-99803
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-99803
   term_label: Refractory anemia
-- term_id: snmi:M-99833
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-99833
   term_label: Refractory anemia with excess blasts
-- term_id: snmi:M-99843
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-99843
   term_label: Refractory anemia with excess blasts in transformation
 contact:
   email: ~

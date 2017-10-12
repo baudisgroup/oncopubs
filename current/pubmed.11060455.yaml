@@ -19,27 +19,49 @@ abstract: Leiomyosarcomas comprise a group of malignant soft-tissue tumors with 
 authors: Otano-Joos M, Mechtersheimer G, Ohl S, Wilgenbus KK, Scheurlen W, Lehnert
   T, Willeke F, Otto HF, Lichter P and Joos S.
 cancertypes:
-- term_id: ncit:C3158
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: ncit:C3158
   term_label: Leiomyosarcoma
-- term_id: pgx:icdom:8890_3
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdom:8890_3
   term_label: Leiomyosarcoma, NOS
-- term_id: pgx:icdot:C44
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C44
   term_label: skin
-- term_id: pgx:icdot:C48
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdot:C48
   term_label: retroperitoneum and peritoneum
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:icdot:C55.9
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C55.9
   term_label: uterus, nos
-- term_id: pgx:seer:21110
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:seer:21110
   term_label: Retroperitoneum
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 6
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: pgx:seer:25020
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:25020
   term_label: Other Non-Epithelial Skin
-- term_id: pgx:seer:27030
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:27030
   term_label: Uterus, NOS
-- term_id: snmi:M-88903
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: snmi:M-88903
   term_label: Leiomyosarcoma, NOS
 contact:
   email: s.joos@dkfz.de

@@ -17,21 +17,37 @@ abstract: Esophageal cancer EC is the leading cause of cancer death in the Black
 authors: Du Plessis L, Dietzsch E, Van Gele M, Van Roy N, Van Helden P, Parker MI,
   Mugwanya DK, De Groot M, Marx MP, Kotze MJ and Speleman F.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 54
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 54
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C15
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:icdot:C15
   term_label: esophagus
-- term_id: pgx:seer:21010
+- samples_arraymap: ~
+  samples_progenetix: 58
+  term_id: pgx:seer:21010
   term_label: Esophagus
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 54
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 4
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: ~

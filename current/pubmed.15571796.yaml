@@ -26,15 +26,25 @@ abstract: Array-comparative genomic hybridization a-CGH is a molecular cytogenet
 authors: Somiari SB, Shriver CD, He J, Parikh K, Jordan R, Hooke J, Hu H, Deyarmin
   B, Lubert S, Malicki L, Heckman C and Somiari RI.
 cancertypes:
-- term_id: ncit:C4017
+- samples_arraymap: 14
+  samples_progenetix: 14
+  term_id: ncit:C4017
   term_label: Ductal Breast Carcinoma
-- term_id: pgx:icdom:8500_3
+- samples_arraymap: 14
+  samples_progenetix: 14
+  term_id: pgx:icdom:8500_3
   term_label: Infiltrating duct carcinoma, NOS
-- term_id: pgx:icdot:C50.9
+- samples_arraymap: 14
+  samples_progenetix: 14
+  term_id: pgx:icdot:C50.9
   term_label: Breast, NOS
-- term_id: pgx:seer:26000
+- samples_arraymap: 14
+  samples_progenetix: 14
+  term_id: pgx:seer:26000
   term_label: Breast
-- term_id: snmi:M-85003
+- samples_arraymap: 14
+  samples_progenetix: 14
+  term_id: snmi:M-85003
   term_label: Infiltrating duct carcinoma, NOS
 contact:
   email: s.somiari@wriwindber.org

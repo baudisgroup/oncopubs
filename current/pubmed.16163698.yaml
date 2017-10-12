@@ -6,19 +6,33 @@ abstract: The prognostic divergence of laryngeal and hypopharyngeal carcinomas i
   aggressive behavior of hypopharyngeal tumors.
 authors: Juhasz A, Balazs M, Sziklay I, Rakosy Z, Treszl A, Repassy G and Adany R.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C13
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:icdot:C13
   term_label: Hypopharynx
-- term_id: pgx:icdot:C32
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:icdot:C32
   term_label: Larynx
-- term_id: pgx:seer:20090
+- samples_arraymap: ~
+  samples_progenetix: 15
+  term_id: pgx:seer:20090
   term_label: Hypopharynx
-- term_id: pgx:seer:22020
+- samples_arraymap: ~
+  samples_progenetix: 14
+  term_id: pgx:seer:22020
   term_label: Larynx
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 29
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: margo@jaguar.dote.hu

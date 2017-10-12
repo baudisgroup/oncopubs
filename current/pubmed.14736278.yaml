@@ -18,21 +18,37 @@ abstract: An unusual case of fibrolamellar carcinoma of the liver developed 5 ye
 authors: Terracciano LM, Tornillo L, Avoledo P, Von Schweinitz D, Kuhne T and Bruder
   E.
 cancertypes:
-- term_id: ncit:C3099
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3099
   term_label: Hepatocellular Carcinoma
-- term_id: ncit:C3758
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3758
   term_label: Hepatocellular Adenoma
-- term_id: pgx:icdom:8170_0
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8170_0
   term_label: Liver cell adenoma
-- term_id: pgx:icdom:8170_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8170_3
   term_label: Hepatocellular carcinoma, NOS
-- term_id: pgx:icdot:C22
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C22
   term_label: liver
-- term_id: pgx:seer:21071
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:21071
   term_label: Liver
-- term_id: snmi:M-81700
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81700
   term_label: Liver cell adenoma
-- term_id: snmi:M-81703
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-81703
   term_label: Hepatocellular carcinoma, NOS
 contact:
   email: lterracciano@uhbs.ch

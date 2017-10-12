@@ -16,17 +16,29 @@ abstract: Genomes of solid tumors are characterized by gains and losses of regio
 authors: Snijders AM, Schmidt BL, Fridlyand J, Dekker N, Pinkel D, Jordan RC and Albertson
   DG.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 89
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: ncit:C4833
+- samples_arraymap: 84
+  samples_progenetix: ~
+  term_id: ncit:C4833
   term_label: Oral Cavity Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: 84
+  samples_progenetix: 89
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C06
+- samples_arraymap: 84
+  samples_progenetix: 89
+  term_id: pgx:icdot:C06
   term_label: mouth, NOS
-- term_id: pgx:seer:20050
+- samples_arraymap: 84
+  samples_progenetix: 89
+  term_id: pgx:seer:20050
   term_label: Gum and Other Mouth
-- term_id: snmi:M-80703
+- samples_arraymap: 84
+  samples_progenetix: 89
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: albertson@cc.ucsf.edu

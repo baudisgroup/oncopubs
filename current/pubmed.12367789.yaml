@@ -22,15 +22,25 @@ abstract: 'The aim of this study was to provide cytogenetic data about squamous 
   the lung.'
 authors: Chujo M, Noguchi T, Miura T, Arinaga M, Uchida Y and Tagawa Y.
 cancertypes:
-- term_id: ncit:C2929
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: ncit:C2929
   term_label: Squamous Cell Carcinoma
-- term_id: pgx:icdom:8070_3
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:icdom:8070_3
   term_label: Squamous cell carcinoma, NOS
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: snmi:M-80703
+- samples_arraymap: ~
+  samples_progenetix: 41
+  term_id: snmi:M-80703
   term_label: Squamous cell carcinoma, NOS
 contact:
   email: chujo@oita-med.ac.jp

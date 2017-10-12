@@ -19,15 +19,25 @@ abstract: High-resolution comparative genomic hybridization HR-CGH analysis was 
 authors: Ottesen AM, Skakkebaek NE, Lundsteen C, Leffers H, Larsen J and Rajpert-De
   Meyts E.
 cancertypes:
-- term_id: ncit:C2917
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: ncit:C2917
   term_label: Carcinoma In Situ
-- term_id: pgx:icdom:8010_2
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdom:8010_2
   term_label: Carcinoma in situ, NOS
-- term_id: pgx:icdot:C62
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C62
   term_label: testis
-- term_id: pgx:seer:28020
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:28020
   term_label: Testis
-- term_id: snmi:M-80102
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: snmi:M-80102
   term_label: Carcinoma in situ, NOS
 contact:
   email: rh06096@rh.dk

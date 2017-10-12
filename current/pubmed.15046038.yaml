@@ -13,15 +13,25 @@ abstract: Non-epithelial tumors only rarely affect the pancreas. In this report,
 authors: Bergmann F, Hackert T, Mechtersheimer G, Penzel R, Blaker H, Berger I, Esposito
   I, Buchler MW and Otto HF.
 cancertypes:
-- term_id: ncit:C3798
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3798
   term_label: Malignant Peripheral Nerve Sheath Tumor
-- term_id: pgx:icdom:9540_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9540_3
   term_label: Malignant peripheral nerve sheath tumor
-- term_id: pgx:icdot:C25
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C25
   term_label: pancreas
-- term_id: pgx:seer:21100
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:21100
   term_label: Pancreas
-- term_id: snmi:M-95403
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-95403
   term_label: Malignant peripheral nerve sheath tumor
 contact:
   email: frank_bergmann@med.uni-heidelberg.de

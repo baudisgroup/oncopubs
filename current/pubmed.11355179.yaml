@@ -18,15 +18,25 @@ abstract: Clear-cell odontogenic carcinoma CCOC is a rare neoplasm with malignan
   of these morphologically peculiar pulmonary CCOC metastases.
 authors: Brinck U, Gunawan B, Schulten HJ, Pinzon W, Fischer U and Fuzesi L.
 cancertypes:
-- term_id: ncit:C7492
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C7492
   term_label: ~
-- term_id: pgx:icdom:9270_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:9270_3
   term_label: Odontogenic tumor, malignant
-- term_id: pgx:icdot:C06
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdot:C06
   term_label: mouth, NOS
-- term_id: pgx:seer:20050
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:seer:20050
   term_label: Gum and Other Mouth
-- term_id: snmi:M-92703
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-92703
   term_label: Odontogenic tumor, malignant
 contact:
   email: ubrinck@aol.com

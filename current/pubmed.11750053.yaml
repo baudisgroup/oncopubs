@@ -17,15 +17,25 @@ abstract: Ionizing irradiation to the skull is a known risk factor for meningiom
 authors: Rienstein S, Loven D, Israeli O, Ram Z, Rappaport ZH, Barkai G, Goldman B,
   Aviram-Goldring A and Friedman E.
 cancertypes:
-- term_id: ncit:C3230
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: ncit:C3230
   term_label: Meningioma
-- term_id: pgx:icdom:9530_0
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:icdom:9530_0
   term_label: Meningioma, NOS
-- term_id: pgx:icdot:C70.0
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:icdot:C70.0
   term_label: meninges cerebral, spinal
-- term_id: pgx:seer:31040
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: pgx:seer:31040
   term_label: Cranial Nerves Other Nervous System
-- term_id: snmi:M-95300
+- samples_arraymap: ~
+  samples_progenetix: 33
+  term_id: snmi:M-95300
   term_label: Meningioma, NOS
 contact:
   email: ~

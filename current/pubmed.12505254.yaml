@@ -8,15 +8,25 @@ abstract: A case of glioblastoma multiforme GBM that was investigated with a bro
   in GBM are reported.
 authors: Zuber MA, Krupp W, Holland H and Froster UG.
 cancertypes:
-- term_id: ncit:C7173
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C7173
   term_label: Diffuse Astrocytoma
-- term_id: pgx:icdom:9400_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9400_3
   term_label: Astrocytoma, NOS
-- term_id: pgx:icdot:C71.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.9
   term_label: brain, NOS
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-94003
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-94003
   term_label: Astrocytoma, NOS
 contact:
   email: zubm@medizin.uni-leipig.de

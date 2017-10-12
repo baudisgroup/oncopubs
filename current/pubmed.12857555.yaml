@@ -9,15 +9,25 @@ abstract: B-cell chronic lymphocytic leukemia B-CLL results from the accumulatio
 authors: Ottaggio L, Viaggi S, Zunino A, Zupo S, Rossi E, Spriano M, Abbondandolo
   A and Ferrarini M.
 cancertypes:
-- term_id: ncit:C3163
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: ncit:C3163
   term_label: Chronic Lymphocytic Leukemia
-- term_id: pgx:icdom:9823_3
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: pgx:icdom:9823_3
   term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
-- term_id: pgx:icdot:C42.4
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: pgx:icdot:C42.4
   term_label: Hematopoietic system, NOS
-- term_id: pgx:seer:35012
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: pgx:seer:35012
   term_label: Chronic Lymphocytic Leukemia
-- term_id: snmi:M-98233
+- samples_arraymap: ~
+  samples_progenetix: 52
+  term_id: snmi:M-98233
   term_label: B-cell chronic lymphocytic leukemia/small lymphocytic lymphoma
 contact:
   email: laura.ottaggio@istge.it

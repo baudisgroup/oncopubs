@@ -23,27 +23,49 @@ abstract: 'Well-differentiated liposarcomas WDLPS , especially those located in 
 authors: Forus A, Larramendy ML, Meza-Zepeda LA, Bjerkehagen B, Godager LH, Dahlberg
   AB, Saeter G, Knuutila S and Myklebost O.
 cancertypes:
-- term_id: ncit:C3194
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C3194
   term_label: Liposarcoma
-- term_id: ncit:C9145
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: ncit:C9145
   term_label: Osteosarcoma
-- term_id: ncit:C9306
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: ncit:C9306
   term_label: Soft Tissue Sarcoma
-- term_id: pgx:icdom:8800_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8800_3
   term_label: Sarcoma, NOS
-- term_id: pgx:icdom:8850_3
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: pgx:icdom:8850_3
   term_label: Liposarcoma, NOS
-- term_id: pgx:icdom:9180_3
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: pgx:icdom:9180_3
   term_label: Osteosarcoma, NOS
-- term_id: pgx:icdot:C49.9
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:icdot:C49.9
   term_label: connective and soft tissue, NOS
-- term_id: pgx:seer:24000
+- samples_arraymap: ~
+  samples_progenetix: 9
+  term_id: pgx:seer:24000
   term_label: Soft Tissue including Heart
-- term_id: snmi:M-88003
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-88003
   term_label: Sarcoma, NOS
-- term_id: snmi:M-88503
+- samples_arraymap: ~
+  samples_progenetix: 2
+  term_id: snmi:M-88503
   term_label: Liposarcoma, NOS
-- term_id: snmi:M-91803
+- samples_arraymap: ~
+  samples_progenetix: 5
+  term_id: snmi:M-91803
   term_label: Osteosarcoma, NOS
 contact:
   email: sakari.knuutila@helsinki.fi

@@ -10,25 +10,45 @@ abstract: Rhabdoid tumors represent an independent entity among embryonal neopla
 authors: Fruhwald MC, Hasselblatt M, Wirth S, Kohler G, Schneppenheim R, Subero JI,
   Siebert R, Kordes U, Jurgens H and Vormoor J.
 cancertypes:
-- term_id: ncit:C3808
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C3808
   term_label: Rhabdoid Tumor
-- term_id: ncit:C6906
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: ncit:C6906
   term_label: Atypical Teratoid/Rhabdoid Tumor
-- term_id: pgx:icdom:8963_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:8963_3
   term_label: Malignant rhabdoid tumor
-- term_id: pgx:icdom:9508_3
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdom:9508_3
   term_label: Atypical teratoid/rhabdoid tumor
-- term_id: pgx:icdot:C64.9
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C64.9
   term_label: kidney
-- term_id: pgx:icdot:C71.6
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:icdot:C71.6
   term_label: cerebellum
-- term_id: pgx:seer:29020
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:29020
   term_label: Kidney and Renal Pelvis
-- term_id: pgx:seer:31010
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: pgx:seer:31010
   term_label: Brain
-- term_id: snmi:M-89633
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-89633
   term_label: Malignant rhabdoid tumor
-- term_id: snmi:M-95083
+- samples_arraymap: ~
+  samples_progenetix: 1
+  term_id: snmi:M-95083
   term_label: Atypical teratoid/rhabdoid tumor
 contact:
   email: ~

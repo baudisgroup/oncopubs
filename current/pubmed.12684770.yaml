@@ -11,23 +11,41 @@ abstract: Atypical adenomatous hyperplasia is the only known precursor lesion of
 authors: Ullmann R, Bongiovanni M, Halbwedl I, Petzmann S, Gogg-Kammerer M, Sapino
   A, Papotti M, Bussolati G and Popper HH.
 cancertypes:
-- term_id: ncit:C2852
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: ncit:C2852
   term_label: Adenocarcinoma
-- term_id: ncit:null
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: ncit:null
   term_label: 'null'
-- term_id: pgx:icdom:0000_0
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:icdom:0000_0
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: pgx:icdom:8140_3
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:icdom:8140_3
   term_label: Adenocarcinoma, NOS
-- term_id: pgx:icdot:C34
+- samples_arraymap: ~
+  samples_progenetix: 11
+  term_id: pgx:icdot:C34
   term_label: lung and bronchus
-- term_id: pgx:seer:22030
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: pgx:seer:22030
   term_label: Lung and Bronchus
-- term_id: pgx:seer:99999
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: pgx:seer:99999
   term_label: invalid
-- term_id: snmi:M-00000
+- samples_arraymap: ~
+  samples_progenetix: 8
+  term_id: snmi:M-00000
   term_label: not in ICD-O (e.g. non-neoplastic, reference)
-- term_id: snmi:M-81403
+- samples_arraymap: ~
+  samples_progenetix: 3
+  term_id: snmi:M-81403
   term_label: Adenocarcinoma, NOS
 contact:
   email: popper@uni-graz.at
