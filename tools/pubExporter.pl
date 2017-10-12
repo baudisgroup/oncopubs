@@ -65,7 +65,7 @@ my $pgga4ghbs   =   MongoDB::MongoClient->new()->get_database('progenetix_ga4gh'
 
 # reformatting the publication entries & exporting them
 
-my $progress_bar = Term::ProgressBar->new(@$pgPMIDs);
+my $progress_bar = Term::ProgressBar->new(scalar @$pgPMIDs);
 
 for my $i (0..$#{ $pgPMID }) {
 
