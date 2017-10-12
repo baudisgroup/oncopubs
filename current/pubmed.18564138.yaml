@@ -1,0 +1,55 @@
+---
+abstract: Colorectal carcinoma CRC remains the major cause of cancer death in humans.
+  Although chromosomal structural anomaly is presumed to play an important role in
+  the carcinogenesis of CRC, chromosomal copy number alterations CNA and loss of heterozygosity
+  LOH have not yet been analyzed extensively at high resolution in CRC. Here we aim
+  to identify recurrent CNA and LOH in human CRC with the use of single nucleotide
+  polymorphism-typing microarrays, and to reveal their relevance to clinical outcome.
+  Surgically resected CRC specimens and paired normal mucosa were obtained from a
+  consecutive series of 94 patients with CRC, and both of them were subjected to genotyping
+  with Affymetrix Mapping 50K arrays. CNA and LOH were inferred computationally on
+  every single nucleotide polymorphism site by integrating the array data for paired
+  specimens. Our large dataset reveals recurrent CNA in CRC at chromosomes 7, 8, 13,
+  18, and 20, and recurrent LOH at chromosomes 1p, 4q, 5q, 8p, 11q, 14q, 15q, 17p,
+  18, and 22. Frequent uniparental disomy was also identified in chromosomes 8p, 17p,
+  and 18q. Very common CNA and LOH were present at narrow loci of amp lt 1 Mbp containing
+  only a few genes. In addition, we revealed a number of novel CNA and LOH that were
+  linked statistically to the prognosis of the patients. The precise and large-scale
+  measurement of CNA and LOH in the CRC genome is efficient for pinpointing prognosis-related
+  genome regions as well as providing a list of unknown genes that are likely to be
+  involved in CRC development.
+authors: Kurashina K, Yamashita Y, Ueno T, Koinuma K, Ohashi J, Horie H, Miyakura
+  Y, Hamada T, Haruta H, Hatanaka H, Soda M, Choi YL, Takada S, Yasuda Y, Nagai H
+  and Mano H.
+contact:
+  email: hmano@jichi.ac.jp
+  name: Hiroyuki Mano
+counts:
+  biosamples: 94
+  samples_acgh: 94
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18564138
+- geo:GSE11417
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.85
+    - 36.4
+    type: Point
+  info:
+    city: Shimotsuke-shi
+    continent: Asia
+    country: Japan
+    label: Shimotsuke-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Sci 99, 9 (2008): 1835-40.'
+label: 'Kurashina et al. (2008): Chromosome Copy Number Analysis in Screening for
+  Prognosis-Related Genomic Regions in ...'
+notes: ~
+pmid: 18564138
+title: Chromosome Copy Number Analysis in Screening for Prognosis-Related Genomic
+  Regions in Colorectal Carcinoma.
+year: 2008

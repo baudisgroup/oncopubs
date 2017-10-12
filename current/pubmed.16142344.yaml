@@ -1,0 +1,57 @@
+---
+abstract: Despite the continuous progress in molecular methodology, the genetic events
+  involved in the carcinogenesis of pancreatic head ductal carcinomas PHDCs and ampulla
+  of Vater cancer AVC remain largely unknown. Their proximity within the confined
+  region lends them to very similar clinical presentations and operative approaches.
+  However, it is unclear why AVC has a significantly better outcome than PHDCs. The
+  drastic difference may arise from the distinct tumor origins. Therefore, the study
+  of genetic alterations within these two neighboring tumors may elucidate their mechanisms.
+  However, previous genetic analysis of PHDCs may have been influenced by contamination
+  of excessive stromal and inflammatory cells in the background. To date, most comparative
+  genomic hybridization CGH studies of pancreatic cancer are based in cell lines or
+  specimens that were not microdissected. Even AVC has a paucity of data. To determine
+  the differences of the genetic alterations of PHDCs and AVC, we used laser capture
+  microdissection combined with degenerated oligonucleotide polymerase chain reaction
+  and CGH to identify the chromosomal aberrations. Frequent gains were found on 5p,
+  13q, 3q, 8q, 1p, 2p, 2q, 3q, 7p, 8p, 9p, 13q, and 21q, while frequent losses were
+  located on 7p, 18q, 1p, 11q, 16q, 19q, 1q, 2q, 3p, 19p, and 17p in PHDCs. In AVC,
+  chromosomal gains occurred frequently in 7p, 8q, 1q, 2q, 3p, 4p, 7p, 3q, 5p, 20p,
+  20q, 4q, 5q, 7q, 11p, 12p, 13q, 14q, 18p, 18q, 21q, 9p, 10p, and 15q, and losses
+  frequently in 17q, 1p, 18q, 19p, 5q, 10p, and 10q. This is the first report on the
+  CGH profiles of AVC. These data provide evidence that chromosomal gains amplifications
+  of AVC differ from those of PHDCs. Among them, chromosomal gains on 1q25, 7p15,
+  8q23, and 3p21, and losses on 17q24, were statistically higher in AVC than PHDCs
+  P amp lt 0.05 . The gains and losses suggest possible putative tumor suppressors
+  and oncogenes that may be involved in the different carcinogenic pathways of AVC.
+authors: Chang MC, Chang YT, Tien YW, Sun CT, Wu MS and Lin JT.
+contact:
+  email: mcc@ha.mc.ntu.edu.tw
+  name: Jaw-Town Lin
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16142344
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Oncol Rep 14, 4 (2005): 867-72.'
+label: 'Chang et al. (2005): Distinct Chromosomal Aberrations of Ampulla of Vater
+  and Pancreatic Head Cancers Detected By Laser ...'
+notes: ~
+pmid: 16142344
+title: Distinct Chromosomal Aberrations of Ampulla of Vater and Pancreatic Head Cancers
+  Detected By Laser Capture Microdissection and Comparative Genomic Hybridization.
+year: 2005

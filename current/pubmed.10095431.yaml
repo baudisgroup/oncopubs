@@ -1,0 +1,53 @@
+---
+abstract: Osteosarcoma is one of the most commonly biopsied primary tumor of bone.
+  High-grade osteosarcomas in particular exhibit a wide spectrum of cytogenetic changes.
+  Molecular cytogenetic studies on osteosarcomas have shown that genomic amplification,
+  especially of both the TP53-binding MDM2 gene and the flanking SAS gene, plays an
+  important role in the biology of these tumors. We applied CGH in order to obtain
+  a global view of DNA-sequence losses and gains in osteosarcoma. CGH was performed
+  on 20 high-grade medullary osteosarcomas 13 primary tumors prior to chemotherapy,
+  5 tumors after chemotherapy, 2 established cell lines MB63, HOS58 using genomic
+  DNA of snap-frozen tumor specimens. CGH revealed DNA copy number aberrations, mostly
+  gains, in all the tumors studied with an average of 18.5 aberrations tumor range
+  8-32 . High-level amplifications were observed in all cases average 4.1 amplifications
+  tumor range 1-10 . Amplicons affecting at least five tumors were mapped to 1p21-31
+  9 20 cases , 3q25-qter 6 20 , 6p12-21 6 20 , 8q12-qter 10 20 , 12p11-12 9 20 , 12q12-15
+  enclosing MDM2 and SAS loci, 7 20 . Losses were most frequently seen at 3p, 10q,
+  11p and 13 all 10 20 . In conclusion, our CGH data indicated that genomic amplification
+  plays an important role in the biology of osteosarcoma. CGH demonstrated the complexity
+  of genetic aberrations in osteosarcomas. The detection of novel non-random DNA amplifications
+  in our study has defined regions for further targeted molecular genetic research
+  aimed at identifying those oncogenes that are characteristic of osteosarcoma development.
+authors: Brinkschmidt C, Blasius S, Burger H, Simon R, Diallo R, Battmann A, Winkelmann
+  W, Bocker W and Dockhorn-Dworniczak B.
+contact:
+  email: brinkch@uni-muenster.de
+  name: Christian Brinkschmidt
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10095431
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Verh Dtsch Ges Pathol 82 (1998): 184-88.'
+label: 'Brinkschmidt et al. (1998): [Comparative Genomic Hybridization (Cgh) for Detecting
+  a Heretofore Undescribed Amplified ...'
+notes: ~
+pmid: 10095431
+title: '[Comparative Genomic Hybridization (Cgh) for Detecting a Heretofore Undescribed
+  Amplified Chromosomal Segment in High-Grade Medullary Osteosarcoma].'
+year: 1998

@@ -1,0 +1,40 @@
+---
+abstract: Only a limited number of genetic studies have been conducted in primary
+  central nervous system lymphomas PCNSL , partly due to the rarity of the tumors
+  and the very limited amount of available tissue. In this report, we present the
+  first molecular characterization of copy number abnormalities CNA of newly diagnosed
+  PCNSL by array-based comparative genomic hybridization aCGH in formalin-fixed paraffin-embedded
+  FFPE specimens and compare the results with matched, frozen tumor specimens.
+authors: Braggio E, McPhail ER, Macon W, Lopes MB, Schiff D, Law M, Fink S, Sprau
+  D, Giannini C, Dogan A, Fonseca R and ONeill BP.
+contact:
+  email: ~
+  name: Brian Patrick O       Neill
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21562036
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 17, 13 (2011): 4245-53.'
+label: 'Braggio et al. (2011): Primary Central Nervous System Lymphomas: A Validation
+  Study of Array-Based Comparative Genomic ...'
+notes: ~
+pmid: 21562036
+title: 'Primary Central Nervous System Lymphomas: A Validation Study of Array-Based
+  Comparative Genomic Hybridization in Formalin-Fixed Paraffin-Embedded Tumor Specimens.'
+year: 2011

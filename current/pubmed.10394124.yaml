@@ -1,0 +1,43 @@
+---
+abstract: In order to elucidate cytogenetic changes characteristic of biliary tract
+  cancer, we examined the genetic imbalances in 18 biliary tract cancers using comparative
+  genomic hybridization CGH . The most common sites of increases in copy number, in
+  order of frequency, were 17q 33 of the cases , 5p 28 , 3q 22 , 7p 22 , 8q 22 , and
+  12p 22 , whereas copy number decreases of 6q 28 , 18q 28 , 4q 22 , 5q 22 , and 9p
+  22 were frequent. The average number of chromosomal aberrations was significantly
+  greater in stage IV than in stage III tumors 7.9 vs. 2.2 tumor, p amp lt 0.05 .
+  The frequent aberrations detected in this study may be related to the development
+  and or progression of biliary tract cancers. This is the first report on CGH of
+  biliary tract cancers.
+authors: Shiraishi K, Kusano N, Okita S, Oga A, Okita K and Sasaki K.
+contact:
+  email: 2byouri@po.cc.yamaguchi-u.ac.jp
+  name: Kei Shiraishi
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10394124
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Oncology 57, 1 (1999): 42-49.'
+label: 'Shiraishi et al. (1999): Genetic Aberrations Detected By Comparative Genomic
+  Hybridization in Biliary Tract ...'
+notes: ~
+pmid: 10394124
+title: Genetic Aberrations Detected By Comparative Genomic Hybridization in Biliary
+  Tract Cancers.
+year: 1999

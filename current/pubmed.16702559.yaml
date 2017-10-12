@@ -1,0 +1,53 @@
+---
+abstract: We have previously identified a unique subtype of acute lymphoblastic leukemia
+  ALL associated with a poor outcome and characterized by intrachromosomal amplification
+  of chromosome 21 including the RUNX1 gene iAMP21 . In this study, array-based comparative
+  genomic hybridization aCGH n 10 detected a common region of amplification CRA between
+  33.192 and 39.796 Mb and a common region of deletion CRD between 43.7 and 47 Mb
+  in 100 and 70 of iAMP21 patients, respectively. High-resolution genotypic analysis
+  n 3 identified allelic imbalances in the CRA. Supervised gene expression analysis
+  showed a distinct signature for eight patients with iAMP21, with 10 of overexpressed
+  genes located within the CRA. The mean expression of these genes was significantly
+  higher in iAMP21 when compared to other ALL samples n 45 . Although genomic copy
+  number correlated with overall gene expression levels within areas of loss or gain,
+  there was considerable individual variation. A unique subset of differentially expressed
+  genes, outside the CRA and CRD, were identified when gene expression signatures
+  of iAMP21 were compared to ALL samples with ETV6-RUNX1 fusion n 21 or high hyperdiploidy
+  with additional chromosomes 21 n 23 . From this analysis, LGMN was shown to be overexpressed
+  in patients with iAMP21 P 0.0012 . Genomic and expression data has further characterized
+  this ALL subtype, demonstrating high levels of 21q instability in these patients
+  leading to proposals for mechanisms underlying this clinical phenotype and plausible
+  alternative treatments.
+authors: Strefford JC, van Delft FW, Robinson HM, Worley H, Yiannikouris O, Selzer
+  R, Richmond T, Hann I, Bellotti T, Raghavan M, Young BD, Saha V and Harrison CJ.
+contact:
+  email: jcs@soton.ac.uk
+  name: J. C. Strefford
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16702559
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: Europe
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: 'Proc Natl Acad Sci U S A 103, 21 (2006): 8167-72.'
+label: 'Strefford et al. (2006): Complex Genomic Alterations and Gene Expression in
+  Acute Lymphoblastic Leukemia With ...'
+notes: ~
+pmid: 16702559
+title: Complex Genomic Alterations and Gene Expression in Acute Lymphoblastic Leukemia
+  With Intrachromosomal Amplification of Chromosome 21.
+year: 2006

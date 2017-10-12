@@ -1,0 +1,36 @@
+---
+abstract: To investigate the status of chromosome 17 in a series of medulloblastomas
+  using comparative genomic hybridisation CGH and fluorescence in situ hybridisation
+  FISH .
+authors: Nicholson J, Wickramasinghe C, Ross F, Crolla J and Ellison D.
+contact:
+  email: D.W.Ellison@ncl.ac.uk
+  name: David W. Ellison
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11193050
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: Europe
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: 'Mol Pathol 53, 6 (2000): 313-19.'
+label: 'Nicholson et al. (2000): Imbalances of Chromosome 17 in Medulloblastomas Determined
+  By Comparative Genomic Hybridisation ...'
+notes: ~
+pmid: 11193050
+title: Imbalances of Chromosome 17 in Medulloblastomas Determined By Comparative Genomic
+  Hybridisation and Fluorescence in Situ Hybridisation.
+year: 2000

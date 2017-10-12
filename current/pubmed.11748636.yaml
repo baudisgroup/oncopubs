@@ -1,0 +1,51 @@
+---
+abstract: 'Comparative genomic hybridization CGH was used to screen 83 lung adenocarcinomas
+  of 60 patients for chromosomal imbalances. The most common alteration was DNA overrepresentation
+  on chromosome 1q, with a peak incidence at 1q22-q23 in 73 of the primary tumours,
+  followed by DNA overrepresentation on chromosomes 8q and 20q, and deletions on chromosomes
+  3p, 4q, 6q, 9p, 9q, and 13q, in at least 60 . The generation of a difference histogram
+  of metastasizing versus non-metastasizing tumours and a case-by-case histogram for
+  the comparison of 23 paired samples of primary tumours and corresponding metastases
+  suggested that deletions on chromosomes 3p12-p14, 3p22-p24, 4p13-15.1, 4q21-qter,
+  6q21-qter, 8p, 10q, 14q21, 17p12-p13, 20p12, and 21q, and overrepresentations on
+  chromosomes 1q21-q25, 7q11.2, 9q34, 11q12-q13, 14q11-q13, and 17q25 are associated
+  with the metastatic phenotype. In contrast, losses on chromosome 19 and gains on
+  3p, 4q, 5p, and 6q were preferentially found in non-metastasizing tumours. The analysis
+  of the paired samples revealed considerable chromosomal instability, but indicated
+  a clonal relationship in each case. The primary tumours often showed additional
+  deletions, suggesting that loss of function mutations are critical in the initial
+  phase of tumour dissemination, whereas the metastases preferentially acquired DNA
+  gains, probably modulating the metastatic phenotype. The primary data from this
+  study ratio profiles, clinicopathological parameters, histograms are also available
+  at http: amba.charite.de cgh.'
+authors: Goeze A, Schluns K, Wolf G, Thasler Z, Petersen S and Petersen I.
+contact:
+  email: ~
+  name: NA Petersen
+counts:
+  biosamples: 83
+  samples_acgh: 0
+  samples_ccgh: 83
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11748636
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'J Pathol 196, 1 (2002): 8-16.'
+label: 'Goeze et al. (2002): Chromosomal Imbalances of Primary and Metastatic Lung
+  Adenocarcinomas.'
+notes: ~
+pmid: 11748636
+title: Chromosomal Imbalances of Primary and Metastatic Lung Adenocarcinomas.
+year: 2002

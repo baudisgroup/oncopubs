@@ -1,0 +1,44 @@
+---
+abstract: Chromosomal instability, as assessed by many techniques, including DNA content
+  aneuploidy, loss of heterozygosity, and comparative genomic hybridization, has consistently
+  been reported to be common in cancer and rare in normal tissues. Recently, a panel
+  of chromosome instability biomarkers, including loss of heterozygosity and DNA content,
+  has been reported to identify patients at high and low risk of progression from
+  Barretts esophagus BE to esophageal adenocarcinoma EA , but required multiple platforms
+  for implementation. Although chromosomal instability involving amplifications and
+  deletions of chromosome regions have been observed in nearly all cancers, copy number
+  alterations CNA in premalignant tissues have not been well characterized or evaluated
+  in cohort studies as biomarkers of cancer risk.
+authors: Paulson TG, Maley CC, Li X, Li H, Sanchez CA, Chao DL, Odze RD, Vaughan TL,
+  Blount PL and Reid BJ.
+contact:
+  email: tpaulson@fhcrc.org
+  name: Thomas G. Paulson
+counts:
+  biosamples: 98
+  samples_acgh: 98
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19417022
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 15, 10 (2009): 3305-14.'
+label: 'Paulson et al. (2009): Chromosomal Instability and Copy Number Alterations
+  in Barretts Esophagus and Esophageal ...'
+notes: ~
+pmid: 19417022
+title: Chromosomal Instability and Copy Number Alterations in Barretts Esophagus and
+  Esophageal Adenocarcinoma.
+year: 2009

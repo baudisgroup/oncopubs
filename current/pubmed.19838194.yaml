@@ -1,0 +1,48 @@
+---
+abstract: Aneuploidy and translocations are hallmarks of B-progenitor acute lymphoblastic
+  leukemia ALL , but many individuals with this cancer lack recurring chromosomal
+  alterations. Here we report a recurring interstitial deletion of the pseudoautosomal
+  region 1 of chromosomes X and Y in B-progenitor ALL that juxtaposes the first, noncoding
+  exon of P2RY8 with the coding region of CRLF2. We identified the P2RY8-CRLF2 fusion
+  in 7 of individuals with B-progenitor ALL and 53 of individuals with ALL associated
+  with Down syndrome. CRLF2 alteration was associated with activating JAK mutations,
+  and expression of human P2RY8-CRLF2 together with mutated mouse Jak2 resulted in
+  constitutive Jak-Stat activation and cytokine-independent growth of Ba F3 cells
+  overexpressing interleukin-7 receptor alpha. Our findings indicate that these two
+  genetic lesions together contribute to leukemogenesis in B-progenitor ALL.
+authors: Mullighan CG, Collins-Underwood JR, Phillips LA, Loudin MG, Liu W, Zhang
+  J, Ma J, Coustan-Smith E, Harvey RC, Willman CL, Mikhail FM, Meyer J, Carroll AJ,
+  Williams RT, Cheng J, Heerema NA, Basso G, Pession A, Pui CH, Raimondi SC, Hunger
+  SP, Downing JR, Carroll WL and Rabin KR.
+contact:
+  email: ~
+  name: Charles Mullighan
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19838194
+- geo:GSE16724
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'Nat Genet 41, 11 (2009): 1243-46.'
+label: 'Mullighan et al. (2009): Rearrangement of Crlf2 in B-Progenitor- and Down
+  Syndrome-Associated Acute Lymphoblastic ...'
+notes: ~
+pmid: 19838194
+title: Rearrangement of Crlf2 in B-Progenitor- and Down Syndrome-Associated Acute
+  Lymphoblastic Leukemia.
+year: 2009

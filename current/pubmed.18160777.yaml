@@ -1,0 +1,49 @@
+---
+abstract: Deletion of the CDKN2A locus at 9p21.3 has been reported to be a poor prognostic
+  sign in the Ewing sarcoma family of tumours. In clinical applications CDKN2A deletion
+  is primarily detected using fluorescent in situ hybridisation FISH with a commercial
+  probe, size approximately 190 kb. Due to limitations in resolution, FISH analysis
+  may fail to detect microdeletions smaller than 190 kb. In the present study, we
+  performed 44K array comparative genomic hybridisation CGH on eleven Ewing sarcoma
+  cell lines and 26 tissue samples in order to define the sizes of 9p21.3 deletions.
+  Microarray CGH analysis revealed 9p21.3 deletions encompassing the CDKN2A locus
+  in eight cell lines 73 and in six tumours 23 . In four cases two cell lines and
+  two tissue samples the deletion was less than 190 kb in size. In one cell line sample,
+  we detected a microdeletion of approximately 58 kb in 9p21.3 harbouring the CDKN2A
+  locus. We confirmed this result using 244K microarray CGH and TaqMan quantitative
+  RT-PCR analysis and further performed FISH analysis on this cell line sample. Here,
+  we show that CDKN2A FISH analysis can give false negative results in cases with
+  small microdeletions. Our results suggest that new and more accurate FISH methods
+  should be developed for detection of deletions in the CDKN2A locus.
+authors: Savola S, Nardi F, Scotlandi K, Picci P and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18160777
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 119, 1-2 (2007): 21-26.'
+label: 'Savola et al. (2007): Microdeletions in 9p21.3 Induce False Negative Results
+  in Cdkn2A Fish Analysis of Ewing ...'
+notes: Hybridizations were performed to Agilent 44k and 244k oligonucleotide arrays.
+pmid: 18160777
+title: Microdeletions in 9p21.3 Induce False Negative Results in Cdkn2A Fish Analysis
+  of Ewing Sarcoma.
+year: 2007

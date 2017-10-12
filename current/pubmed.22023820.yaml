@@ -1,0 +1,44 @@
+---
+abstract: We describe a bioinformatic tool, Tumor Aberration Prediction Suite TAPS
+  , for the identification of allele-specific copy numbers in tumor samples using
+  data from Affymetrix SNP arrays. It includes detailed visualization of genomic segment
+  characteristics and iterative pattern recognition for copy number identification,
+  and does not require patient-matched normal samples. TAPS can be used to identify
+  chromosomal aberrations with high sensitivity even when the proportion of tumor
+  cells is as low as 30 . Analysis of cancer samples indicates that TAPS is well suited
+  to investigate samples with aneuploidy and tumor heterogeneity, which is commonly
+  found in many types of solid tumors.
+authors: Rasmussen M, Sundstrom M, Goransson Kultima H, Botling J, Micke P, Birgisson
+  H, Glimelius B and Isaksson A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 84
+  samples_acgh: 84
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22023820
+- geo:GSE26302
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: 'Genome Biol (2011) 12: R108.'
+label: 'Rasmussen et al. (2011): Allele-specific copy number analysis of tumor samples
+  with aneuploidy and tumor ...'
+notes: ~
+pmid: 22023820
+title: Allele-specific copy number analysis of tumor samples with aneuploidy and tumor
+  heterogeneity.
+year: 2011

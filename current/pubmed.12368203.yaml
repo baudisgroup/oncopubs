@@ -1,0 +1,59 @@
+---
+abstract: Multiple parathyroid tumors, as opposed to hyperplasia, have been reported
+  in a subset of patients with sporadic primary hyperparathyroidism PHPT . It is not
+  clear whether these multiple tumors are representative of a neoplastic process or
+  whether they merely represent hyperplasia that has affected the parathyroid glands
+  differentially and resulted in asynchronous growth. The molecular genetic techniques
+  of comparative genomic hybridization CGH , loss of heterozygosity LOH , and MEN1
+  mutation analysis were performed on a series of five patients with multiglandular
+  PHPT, each of which had two parathyroid tumors removed. Analysis of these multiple
+  parathyroid tumors from patients with PHPT revealed that independent genetic events
+  were associated with the development of a subset of these tumors. The DNA sequence
+  copy number changes, identified by CGH analyses, either involved different chromosomal
+  regions in the paired glands of a patient two patients , or those regions implicated
+  in one gland were not changed in a second gland from the same patient two patients
+  . Each of the three patients exhibiting LOH demonstrated different changes between
+  the paired glands. Where LOH was detected in one gland from a patient, the other
+  gland from the same patient either exhibited no allelic loss or the loss detected
+  was in another region. Each of the three tumors exhibiting LOH at 11q13 was found
+  to contain a somatic MEN1 mutation in the remaining allele, however these mutations
+  were not present in the germline or in the paired gland from the same patient. Although
+  it is possible that a separate series of genetic changes has arisen randomly in
+  two separate glands within the same individual, it seems more likely that the development
+  of these multiple tumors has arisen because of the involvement of other unknown
+  factors. These factors may be genetic such as the involvement of one or more germline
+  mutations in an unknown low-penetrance gene s , germline mosaicism or alterations
+  in calcium-sensing receptor gene s , epigenetic, physiological, or environmental.
+authors: Dwight T, Nelson AE, Theodosopoulos G, Richardson AL, Learoyd DL, Philips
+  J, Delbridge L, Zedenius J, Teh BT, Larsson C, Marsh DJ and Robinson BG.
+contact:
+  email: trisha.dwight@cmm.ki.se
+  name: Trisha Dwight
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12368203
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.21
+    - -33.87
+    type: Point
+  info:
+    city: Sydney
+    continent: Australia
+    country: Australia
+    label: Sydney, Australia, Australia
+    precision: city
+journal: 'Am J Pathol 161, 4 (2002): 1299-306.'
+label: 'Dwight et al. (2002): Independent Genetic Events Associated With the Development
+  of Multiple Parathyroid Tumors in ...'
+notes: ~
+pmid: 12368203
+title: Independent Genetic Events Associated With the Development of Multiple Parathyroid
+  Tumors in Patients With Primary Hyperparathyroidism.
+year: 2002

@@ -1,0 +1,48 @@
+---
+abstract: Adult T-cell leukemia lymphoma ATLL is the neoplasm caused by human T-cell
+  leukemia virus type 1 HTLV-1 . We performed oligo-array comparative genomic hybridization
+  CGH against paired samples comprising peripheral blood PB and lymph node LN samples
+  from 13 patients with acute ATLL. We found that the genome profiles of the PB frequently
+  differed from those of the LN samples. The results showed that 9 of 13 cases investigated
+  had a log2 ratio imbalance among chromosomes, and that chromosome imbalances were
+  more frequent in LN samples. Detailed analysis revealed that the imbalances were
+  likely caused by the presence of multiple subclones in the LN samples. Five of 13
+  cases showed homozygous loss regions in PB samples, which were not found in the
+  LN samples, indicating that tumors in the PB were derived from LN subclones in most
+  cases. Southern blot analysis of TCR showed that these multiple subclones originated
+  from a common clone. We concluded that in many ATLL cases, multiple subclones in
+  the LNs originate from a common clone, and that a selected subclone among the LN
+  subclones appears in the PB.
+authors: Umino A, Nakagawa M, Utsunomiya A, Tsukasaki K, Taira N, Katayama N and Seto
+  M.
+contact:
+  email: mseto@aichi-cc.jp
+  name: Masao Seto
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21447829
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Blood 117, 20 (2011): 5473-78.'
+label: 'Umino et al. (2011): Clonal Evolution of Adult T-Cell Leukemia/Lymphoma Takes
+  Place in the Lymph Nodes.'
+notes: ~
+pmid: 21447829
+title: Clonal Evolution of Adult T-Cell Leukemia/Lymphoma Takes Place in the Lymph
+  Nodes.
+year: 2011

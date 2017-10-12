@@ -1,0 +1,54 @@
+---
+abstract: Formalin-fixed, paraffin-embedded FFPE archival tissue is an important source
+  of DNA material. The most commonly used technique to identify copy number aberrations
+  from chromosomal DNA in tumorigenesis is array comparative genomic hybridization
+  aCGH . Although copy number analysis using DNA from FFPE archival tissue is challenging,
+  several research groups have reported high quality and reproducible DNA copy number
+  results using aCGH. Aim of this study is to compare the commercially available aCGH
+  platforms suitable for high-resolution copy number analysis using FFPE-derived DNA.
+  Two dual channel aCGH platforms Agilent and NimbleGen and a single channel SNP-based
+  platform Affymetrix were evaluated using seven FFPE colon cancer samples, and median
+  absolute deviation MAD , deflection, signal-to-noise ratio, and DNA input requirements
+  were used as quality criteria. Large differences were observed between platforms
+  Agilent and NimbleGen showed better MAD values 0.13 for both compared with Affymetrix
+  0.22 . On the contrary, Affymetrix showed a better deflection of 0.94, followed
+  by 0.71 for Agilent and 0.51 for NimbleGen. This resulted in signal-to-nose ratios
+  that were comparable between the three commercially available platforms. Interestingly,
+  DNA input amounts from FFPE material lower than recommended still yielded high quality
+  profiles on all platforms. Copy number analysis using DNA derived from FFPE archival
+  material is feasible using all three high-resolution copy number platforms and shows
+  reproducible results, also with DNA input amounts lower than recommended.
+authors: Krijgsman O, Israeli D, Haan JC, van Essen HF, Smeets SJ, Eijk PP, M Steenbergen
+  RD, Kok K, Tejpar S, Meijer GA and Ylstra B.
+contact:
+  email: b.ylstra@vumc.nl
+  name: Bauke Ylstra
+counts:
+  biosamples: 6
+  samples_acgh: 6
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22162309
+- geo:GSE30121
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Genes Chromosomes Cancer (2011)
+label: 'Krijgsman et al. (2011): Cgh Arrays Compared for DNA Isolated From Formalin-Fixed,
+  Paraffin-Embedded ...'
+notes: ~
+pmid: 22162309
+title: Cgh Arrays Compared for DNA Isolated From Formalin-Fixed, Paraffin-Embedded
+  Material.
+year: 2011

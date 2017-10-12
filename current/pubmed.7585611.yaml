@@ -1,0 +1,49 @@
+---
+abstract: Comparative genomic hybridization serves as a screening test for regions
+  of copy number changes in tumor genomes. We have applied the technique to map DNA
+  gains and losses in 33 cases of formalin-fixed, paraffin-embedded primary breast
+  tumors 13 fibroadenomas and 10 diploid and 10 aneuploid carcinomas . No genomic
+  imbalances were found in fibroadenomas. Recurrent findings in adenocarcinomas include
+  copy number increases for chromosomes 1q 14 of 20 samples , 8q 10 of 20 , 17q 5
+  of 20 , 6p 3 of 20 , 13q 3 of 20 , and 16p 3 of 20 , and copy number decreases for
+  chromosomes 22 7 of 20 , 17p 6 of 20 , and 20 3 of 20 . Regional high level copy
+  number increases were observed on chromosome bands 1q32, 8p11, 8q24, 10p, 11q13,
+  12p, 12q15, 17q11-12, and 17q22-24. The majority of the samples were studied for
+  gene amplification of c-myc, c-erbB2, cycD1, and int-2 by means of Southern blot
+  analysis. The comparison with DNA ploidy measurements revealed a different distribution
+  and a significantly higher number of chromosomal aberrations in aneuploid tumors
+  than in diploid tumors and in fibroadenomas.
+authors: Ried T, Just KE, Holtgreve-Grez H, du Manoir S, Speicher MR, Schrock E, Latham
+  C, Blegen H, Zetterberg A, Cremer T and et al.
+contact:
+  email: riedt@mail.nih.gov
+  name: Thomas Ried
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7585611
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 55, 22 (1995): 5415-23.'
+label: 'Ried et al. (1995): Comparative Genomic Hybridization of Formalin-Fixed, Paraffin-Embedded
+  Breast Tumors Reveals ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 7585611
+title: Comparative Genomic Hybridization of Formalin-Fixed, Paraffin-Embedded Breast
+  Tumors Reveals Different Patterns of Chromosomal Gains and Losses in Fibroadenomas
+  and Diploid and Aneuploid Carcinomas.
+year: 1995

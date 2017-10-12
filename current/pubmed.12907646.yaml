@@ -1,0 +1,47 @@
+---
+abstract: It is widely accepted that both large-scale chromosomal abnormalities and
+  mutation of specific genes, such as APC, K-ras, and or p53, occur in the majority
+  of colorectal adenocarcinomas. Whether or not a relationship exists between these
+  different forms of genetic abnormalities was previously unknown. Using comparative
+  genomic hybridization and mutational analysis of APC, K-ras, and p53 to evaluate
+  50 colorectal adenocarcinomas, we have shown that mutation of p53 is significantly
+  associated with gain of 20q, 13q, and 8q and loss of 18q P 0.000, 0.02, 0.044, and
+  0.001, respectively . Conversely, APC mutation did not associate with any of the
+  above-mentioned aberrations but did associate significantly with gain of 7p P 0.01
+  . Gain of chromosomal arm 12p, although a less common aberration, was significantly
+  associated with K-ras mutation P 0.011 . The associations we have described should
+  refine the search for candidate genes underlying chromosomal aberrations and assist
+  in the definition of distinct pathways in colorectal tumorigenesis.
+authors: Leslie A, Pratt NR, Gillespie K, Sales M, Kernohan NM, Smith G, Wolf CR,
+  Carey FA and Steele RJ.
+contact:
+  email: a.leslie@dundee.ac.uk
+  name: A. Leslie
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 50
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12907646
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.97
+    - 56.47
+    type: Point
+  info:
+    city: Dundee
+    continent: Europe
+    country: United Kingdom
+    label: Dundee, United Kingdom, Europe
+    precision: city
+journal: 'Cancer Res 63, 15 (2003): 4656-61.'
+label: 'Leslie et al. (2003): Mutations of Apc, K-Ras, and P53 Are Associated With
+  Specific Chromosomal Aberrations in ...'
+notes: ~
+pmid: 12907646
+title: Mutations of Apc, K-Ras, and P53 Are Associated With Specific Chromosomal Aberrations
+  in Colorectal Adenocarcinomas.
+year: 2003

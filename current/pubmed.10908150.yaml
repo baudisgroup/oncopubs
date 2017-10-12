@@ -1,0 +1,58 @@
+---
+abstract: 'Chromosomal information on germ cell tumors of the infantile testis, ie,
+  teratomas and yolk sac tumors, is limited and controversial. We studied two teratomas
+  and four yolk sac tumors using comparative genomic hybridization CGH and in situ
+  hybridization. No chromosomal anomalies were found in the teratomas by any of the
+  methods, not even after CGH on microdissected tumor cells. All yolk sac tumors showed
+  aneuploidy, loss of parts of 4q and 6q, and gain of parts of 20q. Underrepresentation
+  of parts of 8q and overrepresentation of parts of 3p, 9q, 12p, 17, 19q, and 22 were
+  detected in most cases. In addition, one recurrent yolk sac tumor after a sacral
+  teratoma was studied, showing a highly similar pattern of imbalances. While CGH
+  demonstrated loss of 1p36 in one testicular yolk sac tumor, in situ hybridization
+  revealed loss of this region in all yolk sac tumors. High-level amplification of
+  the 12q13-q14 region was found in one yolk sac tumor. MDM2, of which the encoding
+  gene maps to this chromosomal region, was found in all cases using immunohistochemistry,
+  whereas no p53 could be detected. Accordingly, no mutations within exons 5 to 8
+  of the p53 gene were observed. These data prove the absence of gross chromosomal
+  aberrations in teratomas of the infantile testis and show a characteristic pattern
+  of gains and losses in the yolk sac tumors. Besides confirmation of previously found
+  anomalies, recurrent losses of 1p21-31 and 4q23-33 and gains of 9q34 and 12p12-13
+  have not been reported before. While genetic inactivation of p53 seems unimportant
+  in the pathogenesis of these tumors, biochemical inactivation by MDM2 might be involved.
+  These data support the existence of three entities of germ cell tumors of the human
+  testis: teratomas and yolk sac tumors of infants, seminomas and nonseminomas of
+  adolescents and young adults, and spermatocytic seminomas of the elderly, each with
+  its own specific pathogenesis.'
+authors: Mostert M, Rosenberg C, Stoop H, Schuyer M, Timmer A, Oosterhuis W and Looijenga
+  L.
+contact:
+  email: l.looijenga@erasmusmc.nl
+  name: Leendert Looijenga
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10908150
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Lab Invest 80, 7 (2000): 1055-64.'
+label: 'Mostert et al. (2000): Comparative Genomic and in Situ Hybridization of Germ
+  Cell Tumors of the Infantile ...'
+notes: ~
+pmid: 10908150
+title: Comparative Genomic and in Situ Hybridization of Germ Cell Tumors of the Infantile
+  Testis.
+year: 2000

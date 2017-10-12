@@ -1,0 +1,51 @@
+---
+abstract: To clarify the genetic aberrations involved in the development and progression
+  of hepatitis C virus-associated hepatocellular carcinoma HCV-HCC , we investigated
+  DNA copy number aberrations DCNAs in 19 surgically resected HCCs by conventional
+  CGH and array CGH. Conventional CGH revealed that increases of DNA copy number were
+  frequent at 1q 79 of the cases , 8q 37 , 6p 32 , and 10p 32 and that decreases were
+  frequent at 17p 79 , 16q 58 , 4q 53 , 13q 42 , 10q 37 , 1p 32 , and 8p 32 . In general,
+  genes that showed DCNAs by array CGH were usually located in chromosomal regions
+  with DCNAs detected by conventional CGH analysis. Increases in copy numbers of the
+  LAMC2, TGFB2, and AKT3 genes located on 1q and decreases in copy numbers of FGR
+  SRC2 and CYLD located on 1p and 16q, respectively were observed in more than 30
+  of tumors, including small, well-differentiated carcinomas. These findings suggest
+  that these genes are associated with the development of HCV-HCC. Increases of MOS,
+  MYC, EXT1, and PTK2 located on 8q were detected exclusively in moderately and poorly
+  differentiated tumors, suggesting that these alterations contribute to tumor progression.
+  In conclusion, chromosomal and array CGH technologies allow identification of genes
+  involved in the development and progression of HCV-HCC.
+authors: Hashimoto K, Mori N, Tamesa T, Okada T, Kawauchi S, Oga A, Furuya T, Tangoku
+  A, Oka M and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15133472
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Mod Pathol 17, 6 (2004): 617-22.'
+label: 'Hashimoto et al. (2004): Analysis of DNA Copy Number Aberrations in Hepatitis
+  C Virus-Associated Hepatocellular ...'
+notes: Only th echromosomal CGH data was included, since aCGH data was only partially
+  presented.
+pmid: 15133472
+title: Analysis of DNA Copy Number Aberrations in Hepatitis C Virus-Associated Hepatocellular
+  Carcinomas By Conventional Cgh and Array Cgh.
+year: 2004

@@ -1,0 +1,55 @@
+---
+abstract: Comparative genomic hybridization CGH was used to identify recurrent regions
+  of DNA sequence loss and gain in 21 multiple myeloma MM and plasma cell leukemia
+  PCL primary tumor specimens and cell lines. Multiple regions of non-random sequence
+  loss and gain were observed in 8 8 primary advanced stage tumors and 13 13 cell
+  lines. Identification of sequence copy number changes was facilitated by statistical
+  analyses that reduce subjectivity associated with identification of copy number
+  changes and by requiring that sequence changes are visible using both red- and green-labeled
+  tumor DNA. Loss of sequence on 13q and 14q and gain of sequence on 1q and chromosome
+  7 occurred in 50-60 of the population. In general, cell lines carry more and larger
+  regions of sequence gain and loss than primary tumors. Regions of sequence copy
+  number change that recur among MM cell lines and primary tumors include, in order
+  of prevalence, enh 1q12qter , dim 13 , enh 7 , enh 3q22q29 , enh 11q13.3qter , dim
+  14q11.2q31 , enh 8q21qter , enh 3p25pter , dim 17p11.2p13 , and dim 6q22.1q23 .
+  Population distributions of genome-wide changes in primary tumors reveal amp quot
+  hot-spots amp quot of sequence loss from 13q12.1-q21, 13q32-q34, 14q11.2-q13, and
+  14q23-q31. Genomic changes detected using CGH are consistent with those identified
+  using banding analyses, although recurrent involvement of additional regions of
+  the genome are also evident. A higher prevalence of genomic changes is visible using
+  CGH compared to banding. Identification of recurrent regions of sequence gain and
+  loss provides opportunities to identify regions of the genome that may be involved
+  in the malignant phenotype and or disease progression.
+authors: Avet-Loiseau H, Andree-Ashley LE, Moore Dn, Mellerin MP, Feusner J, Bataille
+  R, and Pallavicini MG.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9172003
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer, 19(2) 1997, 124-33.
+label: 'Avet-Loiseau et al. (1997): Molecular cytogenetic abnormalities in multiple
+  myeloma and plasma cell leukemia measured ...'
+notes: ~
+pmid: 9172003
+title: Molecular cytogenetic abnormalities in multiple myeloma and plasma cell leukemia
+  measured using comparative genomic hybridization.
+year: 1997

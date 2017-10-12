@@ -1,0 +1,48 @@
+---
+abstract: Oral squamous cell carcinoma OSCC is a common malignancy, the incidence
+  of which is particularly high in some Asian countries due to the geographically
+  linked areca quid AQ chewing habit. In this study, array-based comparative genomic
+  hybridization was used to screen microdissected OSCCs for genome-wide alterations.
+  The highest frequencies of gene gain were detected for TP63, Serpine1, FGF4 FGF3,
+  c-Myc and DMD. The highest frequencies of deletion were detected for Caspase8 and
+  MTAP. Gained genes, classified by hierarchical clustering, were mainly on 17q21-tel
+  20q 11q13 3q27-29 and the X chromosome. Among these, gains of EGFR at 7p, FGF4 FGF3,
+  CCND1 and EMS1 at 11q13, and AIB1 at 20q were significantly associated with lymph
+  node metastasis. The genomic profiles of FHIT and EXT1 in AQ-associated and non-AQ-associated
+  OSCCs exhibited the most prominent differences. RT-PCR confirmed the significant
+  increase of TP63 and Serpine1 mRNA expression in OSCC relative to non-malignant
+  matched tissue. A significant increase in Serpine1 immunoreactivity was observed
+  from non-malignant matched tissue to OSCC. However, there was no correlation between
+  the frequent genomic loss of Caspase 8 and a significant decrease in Caspase8 expression.
+  These data demonstrate that genomic profiling can be useful in analysing pathogenetic
+  events involved in the genesis or progression of OSCC.
+authors: Chen YJ, Lin SC, Kao T, Chang CS, Hong PS, Shieh TM and Chang KW.
+contact:
+  email: ckcw@ym.edu.tw
+  name: Kuo-Wei Chang
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15372456
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'J Pathol 204, 3 (2004): 326-32.'
+label: 'Chen et al. (2004): Genome-Wide Profiling of Oral Squamous Cell Carcinoma.'
+notes: ~
+pmid: 15372456
+title: Genome-Wide Profiling of Oral Squamous Cell Carcinoma.
+year: 2004

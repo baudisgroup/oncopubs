@@ -1,0 +1,43 @@
+---
+abstract: According to the 1999 World Health Organisation classification of lung tumors,
+  the classification of neuroendocrine NE tumors is solely based on light-microscopic
+  features. Typical and atypical carcinoid tumors are distinguished from large cell
+  LCNEC and small cell neuroendocrine carcinomas SCLC . We used comparative genomic
+  hybridization CGH on 50 samples to investigate the cytogenetic relationships between
+  NE tumors. On average, carcinoid tumors showed markedly fewer chromosomal imbalances
+  1.8 case, 23 cases than LCNEC 13.3 case, 17 cases or SCLC 17 case, 10 cases . The
+  frequency of amplicons increased accordingly. Typical carcinoid tumors exhibited
+  significant defects on chromosomes 11 and 13 only. Interestingly, only the frequency
+  of losses on chromosome arm 11q was very similar for all three tumor entities about
+  30 . In conclusion, the CGH results support the classification of typical carcinoid
+  tumors as a separate entity in clear distinction from the NE carcinomas.
+authors: Johnen G, Krismann M, Jaworska M and Muller KM.
+contact:
+  email: georg.johnen@ruhr-uni-bochum.de
+  name: Georg Johnen
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 50
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14513278
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: Europe
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: 'Pathologe 24, 4 (2003): 303-07.'
+label: 'Johnen et al. (2003): [Cgh Findings in Neuroendocrine Tumours of the Lung].'
+notes: ~
+pmid: 14513278
+title: '[Cgh Findings in Neuroendocrine Tumours of the Lung].'
+year: 2003

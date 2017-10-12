@@ -1,0 +1,44 @@
+---
+abstract: 'A total of 22 acute myeloid leukemia AML cases were analyzed by cell-specific
+  comparative genomic hybridization micro-CGH . Conventional banding analysis identified
+  a monosomy 7 in six group I , a trisomy 8 in eight group II and a normal karyotype
+  in eight cases group III . A total of 32 additional chromosomal imbalances was detected
+  and confirmed in two independent micro-CGH experiments. However, only in 9 of the
+  22 cases group I: 4 cases group II: 1 case group III: 4 cases the existence of 11
+  of the 32 34.5 detected copy number alterations could be confirmed by other fluorescence
+  in situ hybridization FISH approaches. These results lead to two conclusions: i
+  in the in vitro non-proliferating population of AML tumor cells one can detect cryptic
+  chromosomal aberrations, which might constitute tumor markers of diagnostic and
+  prognostic value ii The results of CGH need to be checked by other approaches.'
+authors: Karst C, Heller A, Claussen U, Gebhart E and Liehr T.
+contact:
+  email: Thomas.Liehr@mti.uni-jena.de
+  name: Thomas Liehr
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16010415
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: 'Int J Oncol 27, 2 (2005): 355-59.'
+label: 'Karst et al. (2005): Detection of Cryptic Chromosomal Aberrations in the in
+  Vitro Non-Proliferating Cells of Acute ...'
+notes: ~
+pmid: 16010415
+title: Detection of Cryptic Chromosomal Aberrations in the in Vitro Non-Proliferating
+  Cells of Acute Myeloid Leukemia.
+year: 2005

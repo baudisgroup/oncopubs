@@ -1,0 +1,49 @@
+---
+abstract: 'Ovarian cancer is the leading cause of death among patients with gynecological
+  cancers, but the biology of these tumors is still among the least understood of
+  all major human malignancies. In this study, comparative genomic hybridization was
+  used to determine chromosomal alterations in 98 stage III serous papillary adenocarcinomas.
+  The tumors were grouped according to survival and the main prognostic factors stage
+  and surgical outcome. There were chromosomal imbalances that were significantly
+  more common in tumors from patients who died than in tumors from patients who survived:
+  gains of 1q24-qter and losses of 4p, 4q31.1-qter, 5q12-q22, 8p, 16q, and X. Furthermore,
+  we observed that gains of 8q23-8q24.2 and losses of 4p, 4q13-4q26, 4q31.1-qter,
+  5q12-q22, 8p, and 16q were significantly more common in tumors from patients with
+  macroscopic residual tumor after primary surgery, compared to tumors from those
+  who had undergone radical surgery. Gains of 3q13.3-qter, 6p, 7q21-q31, and 11q13-q23
+  and losses of 4q31.1-qter and 16q were more common in stage IIIc tumors than in
+  stage IIIa b tumors. On the basis of our results, we suggest that there are biological
+  differences among the groups mentioned above and that absence of chromosomal aberrations
+  in specific regions predicts a good clinical outcome for individual patients.'
+authors: Partheen K, Levan K, Osterberg L, Helou K and Horvath G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 98
+  samples_acgh: 0
+  samples_ccgh: 98
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15188458
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 40, 4 (2004): 342-48.'
+label: 'Partheen et al. (2004): Analysis of Cytogenetic Alterations in Stage Iii Serous
+  Ovarian Adenocarcinoma Reveals a ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 15188458
+title: Analysis of Cytogenetic Alterations in Stage Iii Serous Ovarian Adenocarcinoma
+  Reveals a Heterogeneous Group Regarding Survival, Surgical Outcome, and Substage.
+year: 2004

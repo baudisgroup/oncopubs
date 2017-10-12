@@ -1,0 +1,52 @@
+---
+abstract: Despite the excellent survival of Wilms tumour patients treated with multimodality
+  therapy, approximately 15 will suffer from tumour relapse, where response rates
+  are markedly reduced. We have carried out microarray-based comparative genomic hybridisation
+  on a series of 76 Wilms tumour samples, enriched for cases which recurred, to identify
+  changes in DNA copy number associated with clinical outcome. Using 1Mb-spaced genome-wide
+  BAC arrays, the most significantly different genomic changes between favourable
+  histology tumours that did n 37 , and did not n 39 , subsequently relapse were gains
+  on 1q, and novel deletions at 12q24 and 18q21. Further relapse-associated loci included
+  losses at 1q32.1, 2q36.3-2q37.1, and gain at 13q31. 1q gains correlated strongly
+  with loss of 1p and or 16q. In 3 of 11 cases with concurrent 1p - 1q , a breakpoint
+  was identified at 1p13. Multiple low-level sub-megabase gains along the length of
+  1q were identified using chromosome 1 tiling-path arrays. One such recurrent region
+  at 1q22-q23.1 included candidate genes RAB25, NES, CRABP2, HDGF and NTRK1, which
+  were screened for mRNA expression using quantitative RT-PCR. These data provide
+  a high-resolution catalogue of genomic copy number changes in relapsing favourable
+  histology Wilms tumours.
+authors: Natrajan R, Williams RD, Hing SN, Mackay A, Reis-Filho JS, Fenwick K, Iravani
+  M, Valgeirsson H, Grigoriadis A, Langford CF, Dovey O, Gregory SG, Weber BL, Ashworth
+  A, Grundy PE, Pritchard-Jones K and Jones C.
+contact:
+  email: chris.jones@icr.ac.uk
+  name: Chris Jones
+counts:
+  biosamples: 76
+  samples_acgh: 76
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16823893
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'J Pathol 210, 1 (2006): 49-58.'
+label: 'Natrajan et al. (2006): Array Cgh Profiling of Favourable Histology Wilms
+  Tumours Reveals Novel Gains and Losses ...'
+notes: Data is available through ArrayExpress, contained in two accessions (E-TABM-10
+  and E-TABM-13).
+pmid: 16823893
+title: Array Cgh Profiling of Favourable Histology Wilms Tumours Reveals Novel Gains
+  and Losses Associated With Relapse.
+year: 2006

@@ -1,0 +1,54 @@
+---
+abstract: Activation of the MAPK signaling pathway has been shown to be a unifying
+  molecular feature in pilocytic astrocytoma PA . Genetically, tandem duplications
+  at chromosome 7q34 resulting in KIAA1549-BRAF fusion genes constitute the most common
+  mechanism identified to date. To elucidate alternative mechanisms of aberrant MAPK
+  activation in PA, we screened 125 primary tumors for RAF fusion genes and mutations
+  in KRAS, NRAS, HRAS, PTPN11, BRAF and RAF1. Using microarray-based comparative genomic
+  hybridization aCGH , we identified in three cases an interstitial deletion of 2.5
+  Mb as a novel recurrent mechanism forming BRAF gene fusions with FAM131B, a currently
+  uncharacterized gene on chromosome 7q34. This deletion removes the BRAF N-terminal
+  inhibitory domains, giving a constitutively active BRAF kinase. Functional characterization
+  of the novel FAM131B-BRAF fusion demonstrated constitutive MEK phosphorylation potential
+  and transforming activity in vitro. In addition, our study confirmed previously
+  reported BRAF and RAF1 fusion variants in 72 90 125 of PA. Mutations in BRAF 8 125
+  , KRAS 2 125 and NF1 4 125 and the rare RAF1 gene fusions 2 125 were mutually exclusive
+  with BRAF rearrangements, with the exception of two cases in our series that concomitantly
+  harbored more than one hit in the MAPK pathway. In summary, our findings further
+  underline the fundamental role of RAF kinase fusion products as a tumor-specific
+  marker and an ideally suited drug target for PA.
+authors: Cin H, Meyer C, Herr R, Janzarik WG, Lambert S, Jones DT, Jacob K, Benner
+  A, Witt H, Remke M, Bender S, Falkenstein F, Van Anh TN, Olbrich H, von Deimling
+  A, Pekrun A, Kulozik AE, Gnekow A, Scheurlen W, Witt O, Omran H, Jabado N, Collins
+  VP, Brummer T, Marschalek R, Lichter P, Korshunov A and Pfister SM.
+contact:
+  email: s.p   ster@dkfz.de
+  name: Stefan Pfister
+counts:
+  biosamples: 125
+  samples_acgh: 125
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21424530
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Acta Neuropathol 121, 6 (2011): 763-74.'
+label: 'Cin et al. (2011): Oncogenic Fam131B-Braf Fusion Resulting From 7q34 Deletion
+  Comprises an Alternative Mechanism of Mapk ...'
+notes: ~
+pmid: 21424530
+title: Oncogenic Fam131B-Braf Fusion Resulting From 7q34 Deletion Comprises an Alternative
+  Mechanism of Mapk Pathway Activation in Pilocytic Astrocytoma.
+year: 2011

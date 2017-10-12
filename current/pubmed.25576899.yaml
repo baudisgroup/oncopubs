@@ -1,0 +1,56 @@
+---
+abstract: 'Anaplastic thyroid carcinoma (ATC) is a frequently lethal malignancy that
+  is often unresponsive to available therapeutic strategies. The tumorigenesis of
+  ATC and its relationship to the widely prevalent well-differentiated thyroid carcinomas
+  are unclear. We have analyzed 22 cases of ATC as well as 4 established ATC cell
+  lines using whole-exome sequencing. A total of 2674 somatic mutations (121/sample)
+  were detected. Ontology analysis revealed that the majority of variants aggregated
+  in the MAPK, ErbB and RAS signaling pathways. Mutations in genes related to malignancy
+  not previously associated with thyroid tumorigenesis were observed, including mTOR,
+  NF1, NF2, MLH1, MLH3, MSH5, MSH6, ERBB2, EIF1AX and USH2A; some of which were recurrent
+  and were investigated in 24 additional ATC cases and 8 ATC cell lines. Somatic mutations
+  in established thyroid cancer genes were detected in 14 of 22 (64%) tumors and included
+  recurrent mutations in BRAF, TP53 and RAS-family genes (6 cases each), as well as
+  PIK3CA (2 cases) and single cases of CDKN1B, CDKN2C, CTNNB1 and RET mutations. BRAF
+  V600E and RAS mutations were mutually exclusive; all ATC cell lines exhibited a
+  combination of mutations in either BRAF and TP53 or NRAS and TP53. A hypermutator
+  phenotype in two cases with >8 times higher mutational burden than the remaining
+  mean was identified; both cases harbored unique somatic mutations in MLH mismatch-repair
+  genes. This first comprehensive exome-wide analysis of the mutational landscape
+  of ATC identifies novel genes potentially associated with ATC tumorigenesis, some
+  of which may be targets for future therapeutic intervention.  ï¿½ The Author 2015.
+  Published by Oxford University Press. All rights reserved. For Permissions, please
+  email: journals.permissions@oup.com.'
+authors: Kunstman JW, Juhlin CC, Goh G, Brown TC, Stenman A, Healy JM, Rubinstein
+  JC, Choi M, Kiss N, Nelson-Williams C, Mane S, Rimm DL, Prasad ML, Hï¿½ï¿½g A, Zedenius
+  J, Larsson C, Korah R, Lifton RP and Carling T
+contact:
+  email: tobias.carling@yale.edu
+  name: Tobias Carling
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 26
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25576899
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: North America
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Hum. Mol. Genet. 24(8), 2015
+label: 'Kunstman JW et al. (2015): '
+notes: ~
+pmid: 25576899
+title: Characterization of the mutational landscape of anaplastic thyroid cancer via
+  whole-exome sequencing.
+year: 2015

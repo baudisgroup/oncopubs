@@ -1,0 +1,50 @@
+---
+abstract: The cytogenetic abnormalities of granulosa cell tumors GCT of the ovary
+  are only partially known. Up to now, mainly numerical chromosomal aberrations have
+  been described. Therefore we performed a comprehensive study on paraffin-embedded
+  material of 20 GCT 17 adult, 3 juvenile patient age between 16 and 78 y combining
+  comparative genomic hybridization CGH fluorescence in situ hybridization FISH using
+  DNA-specific probes for chromosome 12, 17, 22, and X DNA cytometry and immunohistochemistry
+  inhibin, p53, Ki67 . By DNA cytometry, 16 of 20 tumors 80 were diploid. However,
+  6 of 16 diploid tumors 37 showed aberrations by FISH. FISH revealed monosomy 22
+  in 8 18 cases 40 trisomy 12 in 5 20 25 monosomy X in 2 20 10 and loss of chromosome
+  17 in one case 5 . The main findings by CGH were gains of chromosomes 12 6 cases,
+  33 and 14 6 cases, 33 and losses of chromosomes 22 7 cases, 35 and X 1 case, 5 ,
+  mostly comprising whole chromosomes or chromosome arms. Inhibin and p53 were expressed
+  in 100 and 95 of the tumors, respectively. The Ki67 index ranged from 0 to 61 .
+  Neither immunohistochemistry, nor DNA cytometry and molecular genetic analysis,
+  provided statistically significant prognostic information. In summary, our study
+  reveals a distinctive pattern of cytogenetic alterations in GCT. Our observations
+  confirm earlier reports that trisomy 12 and 14 are frequent aberrations however,
+  monosomy 22 seemingly is even more prevalent.
+authors: Mayr D, Kaltz-Wittmer C, Arbogast S, Amann G, Aust DE and Diebold J.
+contact:
+  email: doris.mayr@lrz.uni-muenchen.de
+  name: Doris Mayr
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12218213
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.58
+    - 48.14
+    type: Point
+  info:
+    city: Munich
+    continent: Europe
+    country: Germany
+    label: Munich, Germany, Europe
+    precision: city
+journal: 'Mod Pathol 15, 9 (2002): 951-57.'
+label: 'Mayr et al. (2002): Characteristic Pattern of Genetic Aberrations in Ovarian
+  Granulosa Cell Tumors.'
+notes: ~
+pmid: 12218213
+title: Characteristic Pattern of Genetic Aberrations in Ovarian Granulosa Cell Tumors.
+year: 2002

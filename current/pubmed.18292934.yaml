@@ -1,0 +1,57 @@
+---
+abstract: Neuroblastomas are biologically and clinically heterogeneous tumours that
+  most often occur sporadically in children at median age of 2 years. The PHOX2B gene
+  is implicated in the development of the autonomic nervous system and has been found
+  to be infrequently mutated in sporadic neuroblastoma tumours and in some patients
+  with hereditary neuroblastoma. We have screened a selected series of 36 paediatric
+  tumours with presumed genetic predisposition, 34 of them neuroblastomas, for mutations
+  in PHOX2B. A constitutional heterozygous missense mutation was found in a boy who
+  developed bilateral adrenal tumours and stage 4 disease during infancy. The second
+  allele of the PHOX2B locus was lost in the tumour DNA. Histopathological evaluation
+  of the tumours suggested growth of two primary tumours, one with diploid DNA content
+  and the other with tetraploid DNA content, i.e. a case of neuroblastoma stage 4M
+  multifocal tumour . However, array CGH comparative genomic hybridization data performed
+  on both tumour masses from the patient instead supported a model where a common
+  malignant precursor gave rise to the diploid tumour and subsequently the tetraploid
+  tumour have progressed from the common precursor or by metastasis from the diploid
+  tumour with additional genetic changes. The whole genome dosage analysis showed
+  that the remaining alleles of PHOX2B had been lost in both tumours together with
+  a specific 17q gain pattern. The tetraploid tumour had these features together with
+  additional whole chromosomal loss of chromosomes 3, 9, 14 and 15. Based on the data
+  presented here we suggest that loss of PHOX2B and 17q gain are early events in neuroblastoma
+  tumourigenesis. We also propose investigators to re-analyze the rare cases of multifocal
+  neuroblastomas with the array CGH technique for better understanding of the origin
+  of these tumours.
+authors: Krona C, Caren H, Sjoberg RM, Sandstedt B, Laureys G, Kogner P and Martinsson
+  T.
+contact:
+  email: ckrona@ucsd.edu
+  name: Cecilia Krona
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18292934
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Int J Oncol 32, 3 (2008): 575-83.'
+label: 'Krona et al. (2008): Analysis of Neuroblastoma Tumour Progression; Loss of
+  Phox2B on 4p13 and 17q Gain Are Early Events ...'
+notes: ~
+pmid: 18292934
+title: Analysis of Neuroblastoma Tumour Progression; Loss of Phox2B on 4p13 and 17q
+  Gain Are Early Events in Neuroblastoma Tumourigenesis.
+year: 2008

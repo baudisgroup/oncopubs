@@ -1,0 +1,37 @@
+---
+abstract: Squamous cell carcinoma SCC is the most frequent malignant tumor of the
+  upper aerodigestive tract. Cell lines of these tumors facilitate the investigation
+  of various tumor biological parameters. This study was conducted to compare molecular
+  biologic characteristics between cell lines and fresh tumor tissue.
+authors: Welkoborsky HJ, Jacob R, Riazimand SH, Bernauer HS and Mann WJ.
+contact:
+  email: welkohno.hanno@online.de
+  name: Hanno Welkoborsky
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12837984
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: 'Oncology 65, 1 (2003): 60-71.'
+label: 'Welkoborsky et al. (2003): Molecular Biologic Characteristics of Seven New
+  Cell Lines of Squamous Cell Carcinomas of the ...'
+notes: ~
+pmid: 12837984
+title: Molecular Biologic Characteristics of Seven New Cell Lines of Squamous Cell
+  Carcinomas of the Head and Neck and Comparison to Fresh Tumor Tissue.
+year: 2003

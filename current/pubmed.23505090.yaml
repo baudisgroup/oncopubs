@@ -1,0 +1,55 @@
+---
+abstract: Cancer is a genetic disease with frequent somatic DNA alterations. Studying
+  recurrent copy number aberrations (CNAs) in human cancers would enable the elucidation
+  of disease mechanisms and the prioritization of candidate oncogenic drivers with
+  causal roles in oncogenesis. We have comprehensively and systematically characterized
+  CNAs and the accompanying gene expression changes in tumors and matched nontumor
+  liver tissues from 286 hepatocellular carcinoma (HCC) patients. Our analysis identified
+  29 recurrently amplified and 22 recurrently deleted regions with a high level of
+  copy number changes. These regions harbor established oncogenes and tumor suppressors,
+  including CCND1 (cyclin D1), MET (hepatocyte growth factor receptor), CDKN2A (cyclin-dependent
+  kinase inhibitor 2A) and CDKN2B (cyclin-dependent kinase inhibitor 2B), as well
+  as many other genes not previously reported to be involved in liver carcinogenesis.
+  Pathway analysis of cis-acting genes in the amplification and deletion peaks implicates
+  alterations of core cancer pathways, including cell-cycle, p53 signaling, phosphoinositide
+  3-kinase signaling, mitogen-activated protein kinase signaling, Wnt signaling, and
+  transforming growth factor beta signaling, in a large proportion of HCC patients.
+  We further credentialed two candidate driver genes (BCL9 and MTDH) from the recurrent
+  focal amplification peaks and showed that they play a significant role in HCC growth
+  and survival.We have demonstrated that characterizing the CNA landscape in HCC will
+  facilitate the understanding of disease mechanisms and the identification of oncogenic
+  drivers that may serve as potential therapeutic targets for the treatment of this
+  devastating disease.
+authors: Wang K, Lim HY, Shi S, Lee J, Deng S, Xie T, Zhu Z, Wang Y, Pocalyko D, Yang
+  WJ, Rejto PA, Mao M, Park CK, Xu J.
+contact:
+  email: ckpark@skku.edu
+  name: CK Park
+counts:
+  biosamples: 286
+  samples_acgh: 286
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23505090
+- geo:GSE38323
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Hepatology 58(2), 2013
+label: ' (2013): '
+notes: The samples were collected at a hospital in Seoul.
+pmid: 23505090
+title: Genomic landscape of copy number aberrations enables the identification of
+  oncogenic drivers in hepatocellular carcinoma.
+year: 2013

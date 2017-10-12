@@ -1,0 +1,52 @@
+---
+abstract: We studied 49 choroid plexus tumors by comparative genomic hybridization.
+  Chromosomal imbalances were found in 32 of 34 choroid plexus papillomas and 15 of
+  15 choroid plexus carcinomas. Choroid plexus papillomas frequently showed 7q 65
+  , 5q 62 , 7p 59 , 5p 56 , 9p 50 , 9q 41 , 12p, 12q 38 , and 8q 35 as well as -10q
+  56 , -10p, and -22q 47 choroid plexus carcinomas mainly showed 12p, 12q, 20p 60
+  , 1, 4q, 20q 53 , 4p 47 , 8q, 14q 40 , 7q, 9p, 21 33 as well as -22q 73 , -5q 40
+  , -5p, and -18q 33 . Several chromosomal imbalance differences could be found that
+  were characteristic for a tumor entity or age group. In choroid plexus papillomas
+  5q, 6q, 7q, 9q, 15q, 18q, and -21q were significantly more common whereas choroid
+  plexus carcinomas were characterized by 1, 4q, 10, 14q, 20q, 21q, -5q, -9p, -11,
+  -15q, and -18q. Among choroid plexus papillomas, children more often showed 8q,
+  14q, 12, and 20q adults mainly presented with 5q, 6q, 15q, 18q, and -22q. Although
+  the number of aberrations overall as well as of gains and losses on their own bore
+  no significance on survival among choroid plexus tumors, a significantly longer
+  survival among patients with choroid plexus carcinomas was associated with 9p and
+  -10q. Our results show that aberrations differ between choroid plexus papillomas
+  and choroid plexus carcinomas as well as between pediatric and adult choroid plexus
+  papillomas, supporting the notion of different genetic pathways. Furthermore, gain
+  of 9p and loss of 10q seem to be correlated with a more favorable prognosis in choroid
+  plexus carcinomas.
+authors: Rickert CH, Wiestler OD and Paulus W.
+contact:
+  email: christian.rickert@rch.org.au
+  name: Christian Rickert
+counts:
+  biosamples: 44
+  samples_acgh: 0
+  samples_ccgh: 44
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11891207
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Am J Pathol 160, 3 (2002): 1105-13.'
+label: 'Rickert et al. (2002): Chromosomal Imbalances in Choroid Plexus Tumors.'
+notes: The CGH data from 5 additional cases has been reviewed and republished in PMID
+  16640646. It was removed from this dataset.
+pmid: 11891207
+title: Chromosomal Imbalances in Choroid Plexus Tumors.
+year: 2002

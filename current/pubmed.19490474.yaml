@@ -1,0 +1,48 @@
+---
+abstract: Malignant mesotheliomas of the hernial sac are uncommon and only a few cases
+  have been diagnosed incidentally during herniorrhaphy procedures. The prognosis
+  is poor and patient management is difficult because current treatment modalities
+  do little to prolong survival. Molecular markers could be useful to identify potential
+  therapeutic targets. Using microarray-comparative genomic hybridization aCGH , two
+  cases of peritoneal mesothelioma that were found incidentally at the time of hernia
+  repair, were investigated. A high number of genetic aberrations was detected in
+  both cases. The gains were prevalent. The tumors showed identical lost regions at
+  2q13, 6q25.3, 6q26, 6q26-- amp gt q27, 9q31.1-- amp gt 9q31.3, 10p15.3, 11q13.2,
+  13q14.2, 19q13.42-- amp gt q43, and gains at 1p36.33, 3q29, 5p15.33, 7p22.3, 10p15.1--
+  amp gt 10p14, 11q13.2, 12q24.23, 12q24.33, 16p13.3, 17p13.3, 18p11.31, 19q13.43,
+  21q21.1-- amp gt q21.2, 22q11.1-- amp gt q11.22, Xp21.2, Xq28. Survival was longer
+  in the patient with a lower total number of genetic defects. aCGH provides a high-resolution
+  map of copy number changes that may be critical to mesothelioma progression.
+authors: Serio G, Gentile M, Pennella A, Marzullo A, Buonadonna AL, Nazzaro P, Testini
+  M, Musti M and Scattone A.
+contact:
+  email: ~
+  name: Gabriella Serio
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19490474
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: Europe
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: 'Pathol Int 59, 6 (2009): 415-21.'
+label: 'Serio et al. (2009): Characterization of a Complex Chromosome Aberration in
+  Two Cases of Peritoneal Mesothelioma Arising ...'
+notes: ~
+pmid: 19490474
+title: Characterization of a Complex Chromosome Aberration in Two Cases of Peritoneal
+  Mesothelioma Arising Primarily in the Hernial Sac.
+year: 2009

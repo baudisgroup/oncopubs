@@ -1,0 +1,40 @@
+---
+abstract: Genomic DNA copy number aberrations are frequent in solid tumors, although
+  the underlying causes of chromosomal instability in tumors remain obscure. Genes
+  likely to have genomic instability phenotypes when mutated e.g. those involved in
+  mitosis, replication, repair, and telomeres are rarely mutated in chromosomally
+  unstable sporadic tumors, even though such mutations are associated with some heritable
+  cancer prone syndromes.
+authors: Fridlyand J, Snijders AM, Ylstra B, Li H, Olshen A, Segraves R, Dairkee S,
+  Tokuyasu T, Ljung BM, Jain AN, McLennan J, Ziegler J, Chin K, Devries S, Feiler
+  H, Gray JW, Waldman F, Pinkel D and Albertson DG.
+contact:
+  email: albertson@cc.ucsf.edu
+  name: Donna G. Albertson
+counts:
+  biosamples: 67
+  samples_acgh: 67
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16620391
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'BMC Cancer 6 (2006): 96.'
+label: 'Fridlyand et al. (2006): Breast Tumor Copy Number Aberration Phenotypes and
+  Genomic Instability.'
+notes: ~
+pmid: 16620391
+title: Breast Tumor Copy Number Aberration Phenotypes and Genomic Instability.
+year: 2006

@@ -1,0 +1,53 @@
+---
+abstract: 'Leiomyosarcoma LMS is a rare malignant mesenchymal tumor of smooth muscle
+  cells. Chromosomal aberrations in LMS have been studied, but the cytogenetic data
+  that have been published so far are complex, limited, and incomplete. Here, we performed
+  for the first time a high-resolution genome-wide array comparative genomic hybridization
+  CGH analysis aCGH on a pool of 14 low- and high-grade LMS cases to obtain gene-level
+  information about the amplified and deleted regions that may play a role in the
+  development and progression of LMS. Our aCGH results indicated that 2,218 genes
+  were involved in 25 altered chromosomal regions 9 regions in low-grade LMS, 12 regions
+  in high-grade LMS, and 4 minimal common regions shared by low- and high-grade LMS.
+  The frequency of DNA copy number gains in high-grade LMS was threefold compared
+  to low-grade LMS, whereas losses in low-grade LMS were almost twice as frequent
+  as in high-grade LMS. Both low- and high-grade tumors shared two minimal common
+  regions of gain 15q26 approximately qter and 17p13.1 approximately q11 and loss
+  6p12 approximately p21.3 and 13q14.3 approximately qter . Moreover, our findings
+  indicated that low- and high-grade LMS and osteosarcoma share 12 genes located in
+  the 17p amplicon. In conclusion, by using aCGH, we were able to define the precise
+  location of the altered chromosomal areas and to identify putative tumor suppressor
+  genes and oncogenes therein. The list of altered genes in the minimal common regions
+  is available as at our web site http: www.helsinki.fi cmg microarray_data .'
+authors: Larramendy ML, Kaur S, Svarvar C, Bohling T and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16938566
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 169, 2 (2006): 94-101.'
+label: 'Larramendy et al. (2006): Gene Copy Number Profiling of Soft-Tissue Leiomyosarcomas
+  By Array-Comparative Genomic ...'
+notes: aCGH was performed on pooled DNA samples, using cDNA arrays. No case specific
+  aCGH data was produced.
+pmid: 16938566
+title: Gene Copy Number Profiling of Soft-Tissue Leiomyosarcomas By Array-Comparative
+  Genomic Hybridization.
+year: 2006

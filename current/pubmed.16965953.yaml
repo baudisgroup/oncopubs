@@ -1,0 +1,49 @@
+---
+abstract: 'Tumors of the central nervous system are the second most frequent malignancy
+  of childhood, accounting for the majority of cancer-related deaths in this age group.
+  Among these tumors, medulloblastomas MB remain in need of further genomic characterization
+  toward understanding of pathogenesis and outcome predictors. Eight pediatric embryonal
+  brain tumors were analyzed: five MB one being desmoplastic , one PNET, one medulloepithelioma,
+  and one ependymoblastoma. Analyses identified genomic imbalances, including the
+  gain of 16p and the nonsyntenic coamplification of MYCN and TERT loci. More detailed
+  FISH analysis showed that coamplification of MYCN and TERT in one of the MBs manifested
+  as dispersed nuclear speckling, consistent with the presence of double minute chromosomes.
+  There was considerable cell-to-cell copy number heterogeneity present, but it was
+  clear that both genes were amplified concordantly. The amplification of oncogenes
+  seems to play an important role in the pathogenesis of MB, and the association between
+  MYCN and TERT amplifications and poor prognosis has not been well recognized. The
+  uncharacteristic pattern of genomic imbalances detected in MB tumors may be a reflection
+  of the characteristics of these tumors occurring in South America.'
+authors: Yoshimoto M, Bayani J, Nuin PA, Silva NS, Cavalheiro S, Stavale JN, Andrade
+  JA, Zielenska M, Squire JA and de Toledo SR.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 8
+  samples_acgh: 1
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16965953
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 170, 1 (2006): 40-47.'
+label: 'Yoshimoto et al. (2006): Metaphase and Array Comparative Genomic Hybridization:
+  Unique Copy Number Changes and Gene ...'
+notes: ~
+pmid: 16965953
+title: 'Metaphase and Array Comparative Genomic Hybridization: Unique Copy Number
+  Changes and Gene Amplification of Medulloblastomas in South America.'
+year: 2006

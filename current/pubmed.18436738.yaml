@@ -1,0 +1,51 @@
+---
+abstract: 'Chronic lymphocytic leukemia CLL has a variable clinical course. Presence
+  of specific genomic aberrations has been shown to impact survival outcomes and can
+  help categorize CLL into clinically distinct subtypes. We studied 178 CLL patients
+  enrolled in a prospective study at the University of Michigan, of whom 139 and 39
+  were previously untreated and previously treated, respectively. We obtained unbiased,
+  high-density, genome-wide measurements of subchromosomal copy number changes in
+  highly purified DNA from sorted CD19 cells and buccal cells using the Affymetrix
+  50kXbaI SNP array platform Santa Clara, CA . Genomic complexity scores were derived
+  and correlated with the surrogate clinical end points time to first therapy TTFT
+  and time to subsequent therapy TTST : measures of disease aggressiveness and or
+  therapy efficaciousness. In univariate analysis, progressively increasing complexity
+  scores in previously untreated CLL patients identified patients with short TTFT
+  at high significance levels. Similarly, TTST was significantly shorter in pretreated
+  patients with high as opposed to low genomic complexity. In multivariate analysis,
+  genomic complexity emerged as an independent risk factor for short TTFT and TTST.
+  Finally, algorithmic subchromosomal complexity determination was developed, facilitating
+  automation and future routine clinical application of CLL whole-genome analysis.'
+authors: Kujawski L, Ouillette P, Erba H, Saddler C, Jakubowiak A, Kaminski M, Shedden
+  K and Malek SN.
+contact:
+  email: smalek@med.umich.edu
+  name: Sami N. Malek
+counts:
+  biosamples: 178
+  samples_acgh: 178
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18436738
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: 'Blood 112, 5 (2008): 1993-2003.'
+label: 'Kujawski et al. (2008): Genomic Complexity Identifies Patients With Aggressive
+  Chronic Lymphocytic Leukemia.'
+notes: ~
+pmid: 18436738
+title: Genomic Complexity Identifies Patients With Aggressive Chronic Lymphocytic
+  Leukemia.
+year: 2008

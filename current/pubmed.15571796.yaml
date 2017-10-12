@@ -1,0 +1,58 @@
+---
+abstract: Array-comparative genomic hybridization a-CGH is a molecular cytogenetic
+  technique for detection of multiple chromosomal abnormalities in genomic DNA samples.
+  Using an a-CGH with 287 probes, we examined 14 cases of breast infiltrating ductal
+  carcinoma IDCA that had previously been classified by fluorescent in situ hybridization
+  FISH as either human epidermal growth factor receptor-2 positive HER2 or HER2- and
+  analyzed the data by hierarchical, K-means, and principal component analyses. The
+  aim of the study was to identify the genetic abnormalities that are present in breast
+  IDCAs and determine if the global status of 287 cytogenetic locations could be used
+  as a more objective method for breast IDCA classification. Concordance between FISH
+  and a-CGH at the HER2 locus was 78.6 11 14 . In general, a-CGH detected more abnormalities
+  in HER2 cases. In HER 2 cases, chromosomes 1, 2, 3, 7, 9, 17, and 20 had more regions
+  that showed statistically significant P amp lt or 0.01 changes in DNA copy number.
+  Among all the aberrant cytogenetic locations detected, 20q13, 7p12.3 approximately
+  p12.1, and 17q23.2 approximately q25.3, which contain among others, genes for TNFRSF6B,
+  EGFR, and TK1 showed statistically significant gains P amp lt or 0.01 in 83, 66.7,
+  and 50 of the HER2 IDCA cases, respectively. Chromosome location 8q24.12 approximately
+  q24.13 was the only region that showed consistent amplification in approximately
+  50 of the HER2- cases. Unsupervised hierarchical and K-means cluster analyses and
+  principal component analysis using the DNA copy number status of 287 cytogenetic
+  locations or the 177 cytogenetic locations that showed statistically significant
+  differences revealed a cluster consisting of mainly HER2- IDCA cases. Even though
+  this study demonstrates the usefulness of a-CGH in the rapid identification of aberrant
+  DNA regions in tumor samples, we conclude that an array-CGH with more than 287 probes
+  will be needed for a more precise mapping of DNA aberrations at the global level.
+authors: Somiari SB, Shriver CD, He J, Parikh K, Jordan R, Hooke J, Hu H, Deyarmin
+  B, Lubert S, Malicki L, Heckman C and Somiari RI.
+contact:
+  email: s.somiari@wriwindber.org
+  name: S.B. Somiari
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15571796
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.84
+    - 40.24
+    type: Point
+  info:
+    city: Windber
+    continent: ~
+    country: United States
+    label: Windber, United States
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 155, 2 (2004): 108-18.'
+label: 'Somiari et al. (2004): Global Search for Chromosomal Abnormalities in Infiltrating
+  Ductal Carcinoma of the Breast Using ...'
+notes: ~
+pmid: 15571796
+title: Global Search for Chromosomal Abnormalities in Infiltrating Ductal Carcinoma
+  of the Breast Using Array-Comparative Genomic Hybridization.
+year: 2004

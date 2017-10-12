@@ -1,0 +1,52 @@
+---
+abstract: Comparative genomic hybridization CGH has been applied to characterize 61
+  primary renal cell carcinomas derived histogenetically from the proximal tubulus.
+  The tumor samples comprised 46 clear-cell renal cell carcinomas ccRCCs and 15 papillary
+  renal cell carcinomas pRCCs . Changes in the copy number of entire chromosomes or
+  subregions were detected in 56 tumors 92 . In ccRCCs, losses of chromosome 3 or
+  3p 63 14q 30 9 26 1 and 6 or 6q 17 each 4 and 8 or 8p 15 each 22 11 2 or 2q and
+  19 9 each 7q, 10, 16, 17p, 18, and Y 7 each and 5, 11, 13, 15, and 21 4 each were
+  detected. Most frequent genomic gains in ccRCC were found on chromosome 5 63 7 35
+  1 or 1q 33 2q 24 8 or 8q, 12, and 20 20 each 3q 17 16 15 19 13 6 and 17 or 17q 11
+  each and 4, 10, 11, 21, and Y 9 each . In pRCCs, gains in the copy number of chromosomes
+  7 and 17 7 15, each and 16 and 20 6 15, each were frequent. One pRCC showed amplification
+  of subchromosome regions 2q22-- amp gt q33, 16q, 17q and the entire X chromosome.
+  In pRCC, losses were less frequently seen than gains. Losses of chromosomes 1, 14,
+  15, and Y 3 15 each and 2, 4, 6, and 13 2 15 each were observed. In ccRCCs, statistical
+  evaluation revealed significant correlations of chromosomal imbalances with tumor
+  stage and grade, i.e., a gain in copy number of chromosome 5 correlated positively
+  with low tumor grade, whereas a gain of chromosomes 10 and 17 correlated positively
+  with high tumor grade. Furthermore, loss of chromosome 4 correlated positively with
+  high tumor stage.
+authors: Reutzel D, Mende M, Naumann S, Storkel S, Brenner W, Zabel B and Decker J.
+contact:
+  email: Decker.Jochen@bioscientia.de
+  name: Jochen Decker
+counts:
+  biosamples: 61
+  samples_acgh: 0
+  samples_ccgh: 61
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11528115
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.28
+    - 49.98
+    type: Point
+  info:
+    city: Mainz
+    continent: Europe
+    country: Germany
+    label: Mainz, Germany, Europe
+    precision: city
+journal: 'Cytogenet Cell Genet 93, 3-4 (2001): 221-27.'
+label: 'Reutzel et al. (2001): Genomic Imbalances in 61 Renal Cancers From the Proximal
+  Tubulus Detected By Comparative Genomic ...'
+notes: ~
+pmid: 11528115
+title: Genomic Imbalances in 61 Renal Cancers From the Proximal Tubulus Detected By
+  Comparative Genomic Hybridization.
+year: 2001

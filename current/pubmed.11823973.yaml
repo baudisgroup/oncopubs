@@ -1,0 +1,62 @@
+---
+abstract: 'Recent studies have subdivided serous borderline tumors into 2 categories:
+  atypical proliferative serous tumors APSTs , which have a relatively benign course,
+  and micropapillary serous carcinomas MPSCs , which behave like low-grade carcinoma.
+  This study was undertaken to determine, using comparative genomic hybridization
+  CGH , whether cytogenetic changes support this hypothesis. Nine cases of APST, 10
+  of MPSC, and 11 of invasive serous carcinoma SC were analyzed by CGH. Tumor DNA
+  was extracted from frozen or paraffin-embedded tissue from the primary ovarian tumor,
+  using either sections with at least 70 tumor cells or tissue after relative enrichment
+  by microdissection. Chromosomal imbalances were identified in 3 of 9 APST, 6 of
+  10 MPSC, and 11 of 11 SC. Three or more chromosomal imbalances were found in 0 of
+  9 APST, 4 of 10 MPSC, and 9 of 11 SC. Recurrent copy number alterations were grouped
+  into 4 classes correlating with the different tumor types. Class I changes were
+  present in APST and in MPSC or SC and included 8q 7 of 11 SC, 2 of 10 MPSC, 2 of
+  9 APST , -9p 5 of 11 SC, 0 of 10 MPSC, 1 of 9 APST , and 12 12p in 3 11 SC, 12 in
+  2 of 10 MPSC, 12 in 1 of 9 APST . Class II changes were found only in MPSC and SC,
+  but not in APST. The most frequent examples were 3q 10 of 11 SC, 1 of 10 MPSC ,
+  -4q 5 of 11 SC, 1 of 10 MPSC , and -17p 5 of 11 SC, 1 of 10 MPSC . Class III changes
+  were limited to SC, like -16q 7 of 11 SC and -18q 6 of 11 SC . Class VI changes
+  were unique to MPSC. Gain of 16p 3 of 10 MPSC was the only aberration in this group.
+  This aberration was not only unique to MPSC but was also the most frequent finding
+  in MPSC. These data support the hypothesis that noninvasive serous tumors of the
+  ovary can be subdivided into 2 categories: APST and MPSC. The number of imbalances
+  in MPSC is substantially higher than in APST and lower than in SC. Some changes
+  in MPSC are shared with SC and APST and others with SC only, suggesting that a subset
+  of MPSC may represent a stage in progression from APST to SC. Other cases of MPSC
+  with independent genetic alterations may represent another subset of tumors that
+  are a distinct entity from APST and SC.'
+authors: Staebler A, Heselmeyer-Haddad K, Bell K, Riopel M, Perlman E, Ried T and
+  Kurman RJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11823973
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: North America
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: 'Hum Pathol 33, 1 (2002): 47-59.'
+label: 'Staebler et al. (2002): Micropapillary Serous Carcinoma of the Ovary Has Distinct
+  Patterns of Chromosomal Imbalances By ...'
+notes: The data is also contained in the NCBI SKY-CGH database.
+pmid: 11823973
+title: Micropapillary Serous Carcinoma of the Ovary Has Distinct Patterns of Chromosomal
+  Imbalances By Comparative Genomic Hybridization Compared With Atypical Proliferative
+  Serous Tumors and Serous Carcinomas.
+year: 2002

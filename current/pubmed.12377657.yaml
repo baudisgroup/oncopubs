@@ -1,0 +1,37 @@
+---
+abstract: The incidence of Ewings tumors ETs is lower in Asians or African-Americans
+  than in Caucasians.
+authors: Ozaki T, Schaefer KL, Wai D, Yokoyama R, Ahrens S, Diallo R, Hasegawa T,
+  Shimoda T, Hirohashi S, Kawai A, Naito N, Morimoto Y, Inoue H, Boecker W, Juergens
+  H, Winkelmann W, Dockhorn-Dworniczak B and Poremba C.
+contact:
+  email: poremba@med.uni-duesseldorf.de
+  name: C. Poremba
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 16
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12377657
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Ann Oncol 13, 10 (2002): 1656-64.'
+label: 'Ozaki et al. (2002): Population-Based Genetic Alterations in Ewings Tumors
+  From Japanese and European Caucasian ...'
+notes: ~
+pmid: 12377657
+title: Population-Based Genetic Alterations in Ewings Tumors From Japanese and European
+  Caucasian Patients.
+year: 2002

@@ -1,0 +1,42 @@
+---
+abstract: Atypical teratoid rhabdoid tumors (AT/RTs) are rare pediatric brain tumors
+  characterized by bialleic loss of the SMARCB1 tumor suppressor gene. In contrast
+  to pediatric AT/RT that has a simple genome, very little is known about the adult
+  AT/RT genomic landscape. Using a combination of whole-exome sequencing and high-resolution
+  SNP array in a single adult pituitary AT/RT, we identified a total of 47 non-synonymous
+  mutations, of which 20 were predicted to cause non-conservative amino acid substitutions,
+  in addition to a subclone of cells with trisomy 8. We suggest that adult AT/RT may
+  not be markedly dissimilar to other adult brain tumors where mutations in a range
+  of genes, reflecting the functional specialization of different brain regions, but
+  including SMARCB1 inactivation, may be required for its pathogenesis.
+authors: Biswas S, Wood M, Joshi A, Bown N, Strain L, Martinsson T, Campbell J, Ashworth
+  A and Swain A
+contact:
+  email: swethajit.x.biswas@gsk.com
+  name: Swethajit Biswas
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 1
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26557502
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.23
+    - 53
+    type: Point
+  info:
+    city: Newcastle under Lyme
+    continent: Europe
+    country: United Kingdom
+    label: Newcastle under Lyme, United Kingdom, Europe
+    precision: city
+journal: Front Oncol 5, 2015
+label: 'Biswas S et al. (2015): '
+notes: ~
+pmid: 26557502
+title: Exome Sequencing of an Adult Pituitary Atypical Teratoid Rhabdoid Tumor.
+year: 2015

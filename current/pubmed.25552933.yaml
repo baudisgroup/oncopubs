@@ -1,0 +1,47 @@
+---
+abstract: Metastasis is the main cause of cancer mortality but its process remains
+  poorly understood and thus hampers more effective treatment and improved cancer
+  prognosis. To search for metastasis driver genes responsible for tumor spread, we
+  integrated genomic and transcriptomic profiles of 61 matched primary tumors and
+  distant metastases of liver or colorectal carcinoma isolated by laser-capture microdissection
+  and assayed by array-based technologies. We found that primary tumor lesions and
+  their matched distant metastases were largely similar at the genomic and transcriptomic
+  levels, but substantial differences could be found between primary tumors with or
+  without accompanying metastases. Interestingly, metastasis genes were principally
+  tumor type and organ site-specific. Despite distinct pathway enrichment, different
+  metastasis gene sets shared common prognostic capacity and were predictive of hepatocellular
+  carcinoma survival in an independent cohort. Thus, the metastatic propensity is
+  inherent to the primary tumor and the lack of general metastasis genes necessitates
+  the development of specific treatment modalities.
+authors: Roessler S, Lin G, Forgues M, Budhu A, Hoover S, Simpson RM, Wu X, He P,
+  Qin LX, Tang ZY, Ye QH and Wang XW
+contact:
+  email: xw3u@nih.gov
+  name: Xin Wei Wang
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25552933
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Int. J. Biol. Sci. 11(1), 2015
+label: 'Roessler S et al. (2015): '
+notes: ~
+pmid: 25552933
+title: Integrative genomic and transcriptomic characterization of matched primary
+  and metastatic liver and colorectal carcinoma.
+year: 2015

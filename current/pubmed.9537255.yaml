@@ -1,0 +1,46 @@
+---
+abstract: Merkel cell carcinoma or small cell carcinoma of the skin is a rare skin
+  cancer seen in increasing numbers in Queensland, Australia. In its clinical course
+  and histopathology, it resembles small cell lung carcinoma SCLC . Little is known
+  of the genetic basis of this disease except for a number of cytogenetic studies
+  and three loss of heterozygosity studies. Therefore, comparative genomic hybridization
+  was performed to determine the characteristic DNA gains and losses that occur in
+  this tumor. Comparative genomic hybridization analysis of 34 specimens from 24 patients
+  revealed a pattern of gains and losses that closely resembles that seen in SCLC.
+  Overall frequent loss was seen for chromosomes 3p 46 , 5q 21 , 8p 21 , 10 33 , 11q
+  17 , 13q 33 , and 17p 25 . Significant gains were seen for chromosomes 1 63 , 3q
+  33 , 5p 38 , 8q 38 , 19 63 , and X 41 , with smaller numbers having gains for chromosomes
+  6, 7, 20, and 21. In contrast to SCLC, amplification in Merkel cell carcinoma is
+  a rare event.
+authors: Van Gele M, Speleman F, Vandesompele J, Van Roy N and Leonard JH.
+contact:
+  email: mireille.vangele@rug.ac.be
+  name: Mireille Van Gele
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9537255
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.72
+    - 51.05
+    type: Point
+  info:
+    city: Gent
+    continent: Europe
+    country: Belgium
+    label: Gent, Belgium, Europe
+    precision: city
+journal: 'Cancer Res 58, 7 (1998): 1503-08.'
+label: 'Van Gele et al. (1998): Characteristic Pattern of Chromosomal Gains and Losses
+  in Merkel Cell Carcinoma Detected By ...'
+notes: ~
+pmid: 9537255
+title: Characteristic Pattern of Chromosomal Gains and Losses in Merkel Cell Carcinoma
+  Detected By Comparative Genomic Hybridization.
+year: 1998

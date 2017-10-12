@@ -1,0 +1,66 @@
+---
+abstract: Background Among patients with non-small-cell lung cancer (NSCLC), data
+  on intratumor heterogeneity and cancer genome evolution have been limited to small
+  retrospective cohorts. We wanted to prospectively investigate intratumor heterogeneity
+  in relation to clinical outcome and to determine the clonal nature of driver events
+  and evolutionary processes in early-stage NSCLC. Methods In this prospective cohort
+  study, we performed multiregion whole-exome sequencing on 100 early-stage NSCLC
+  tumors that had been resected before systemic therapy. We sequenced and analyzed
+  327 tumor regions to define evolutionary histories, obtain a census of clonal and
+  subclonal events, and assess the relationship between intratumor heterogeneity and
+  recurrence-free survival. Results We observed widespread intratumor heterogeneity
+  for both somatic copy-number alterations and mutations. Driver mutations in EGFR,
+  MET, BRAF, and TP53 were almost always clonal. However, heterogeneous driver alterations
+  that occurred later in evolution were found in more than 75% of the tumors and were
+  common in PIK3CA and NF1 and in genes that are involved in chromatin modification
+  and DNA damage response and repair. Genome doubling and ongoing dynamic chromosomal
+  instability were associated with intratumor heterogeneity and resulted in parallel
+  evolution of driver somatic copy-number alterations, including amplifications in
+  CDK4, FOXA1, and BCL11A. Elevated copy-number heterogeneity was associated with
+  an increased risk of recurrence or death (hazard ratio, 4.9; P=4.4ï¿½10(-4)), which
+  remained significant in multivariate analysis. Conclusions Intratumor heterogeneity
+  mediated through chromosome instability was associated with an increased risk of
+  recurrence or death, a finding that supports the potential value of chromosome instability
+  as a prognostic predictor. (Funded by Cancer Research UK and others; TRACERx ClinicalTrials.gov
+  number, NCT01888601 .).
+authors: Jamal-Hanjani M, Wilson GA, McGranahan N, Birkbak NJ, Watkins TBK, Veeriah
+  S, Shafi S, Johnson DH, Mitter R, Rosenthal R, Salm M, Horswell S, Escudero M, Matthews
+  N, Rowan A, Chambers T, Moore DA, Turajlic S, Xu H, Lee SM, Forster MD, Ahmad T,
+  Hiley CT, Abbosh C, Falzon M, Borg E, Marafioti T, Lawrence D, Hayward M, Kolvekar
+  S, Panagiotopoulos N, Janes SM, Thakrar R, Ahmed A, Blackhall F, Summers Y, Shah
+  R, Joseph L, Quinn AM, Crosbie PA, Naidu B, Middleton G, Langman G, Trotter S, Nicolson
+  M, Remmen H, Kerr K, Chetty M, Gomersall L, Fennell DA, Nakas A, Rathinam S, Anand
+  G, Khan S, Russell P, Ezhil V, Ismail B, Irvin-Sellers M, Prakash V, Lester JF,
+  Kornaszewska M, Attanoos R, Adams H, Davies H, Dentro S, Taniere P, O'Sullivan B,
+  Lowe HL, Hartley JA, Iles N, Bell H, Ngai Y, Shaw JA, Herrero J, Szallasi Z, Schwarz
+  RF, Stewart A, Quezada SA, Le Quesne J, Van Loo P, Dive C, Hackshaw A, Swanton C,
+  TRACERx Consortium.
+contact:
+  email: charles.swanton@ crick.ac.uk
+  name: Charles Swanton
+counts:
+  biosamples: 327
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 327
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28445112
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: N. Engl. J. Med., 2017
+label: ' (2017): '
+notes: ~
+pmid: 28445112
+title: Tracking the Evolution of Non-Small-Cell Lung Cancer.
+year: 2017

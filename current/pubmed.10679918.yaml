@@ -1,0 +1,54 @@
+---
+abstract: 'Until now, few data on additional chromosomal aberrations in t 11 14 -positive
+  mantle cell lymphomas MCLs have been published. We analyzed 39 t 11 14 -positive
+  MCLs by either comparative genomic hybridization CGH n 8 , fluorescence in situ
+  hybridization FISH with a set of DNA probes detecting the most frequent aberrations
+  in B-cell neoplasms n 12 , or both techniques n 19 . The t 11 14 was present in
+  all cases. In 37 of 39 cases, chromosomal imbalances were found. In 27 cases, complex
+  karyotypes, i.e., amp gt 3 aberrations, were identified. The most frequent aberrations
+  were losses of 13q14-21 or 13q32-34 27 cases , 9p21 16 cases , and 11q22-23 12 cases
+  and gains of 3q26-29 19 cases , 8q22-24 11 cases , and 18q21-22 9 cases . In 26
+  of cases 7 of 27 analyzed by CGH, a total of 10 high-level DNA amplifications were
+  identified. Although in comparison with B-cell chronic lymphopcytic leukemia B-CLL
+  MCL is characterized by a much higher complexity of chromosomal aberrations, there
+  are striking similarities: 13q14 deletions were identified in more than 50 of both
+  MCL and B-CLL cases. In contrast, in our CGH database containing 293 B-cell lymphomas,
+  this aberration was found in only 11 of other nodal lymphomas. Even more strikingly,
+  11q deletions, which are present in 20 -30 of MCL and B-CLL, were found very rarely
+  in other nodal B-cell lymphomas CGH: 1 of 208 cases FISH: 1 of 69 cases . These
+  data show that MCL is characterized by specific secondary aberrations and that there
+  may be similarities in the pathogenesis of MCL and B-CLL. Genes Chromosomes Cancer
+  27:285-294, 2000.'
+authors: Bentz M, Plesch A, Bullinger L, Stilgenbauer S, Ott G, Muller-Hermelink HK,
+  Baudis M, Barth TF, Moller P, Lichter P and Dohner H.
+contact:
+  email: ~
+  name: NA Bentz
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10679918
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 27, 3 (2000): 285-94.'
+label: 'Bentz et al. (2000): T(11;14)-Positive Mantle Cell Lymphomas Exhibit Complex
+  Karyotypes and Share Similarities With ...'
+notes: ~
+pmid: 10679918
+title: T(11;14)-Positive Mantle Cell Lymphomas Exhibit Complex Karyotypes and Share
+  Similarities With B-Cell Chronic Lymphocytic Leukemia.
+year: 2000

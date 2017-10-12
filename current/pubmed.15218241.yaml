@@ -1,0 +1,50 @@
+---
+abstract: Neuroblastoma, one of the most common tumors of childhood, presents at diagnosis
+  with a vast number of recurrent chromosomal imbalances that include hyperdiploidy
+  for whole chromosomes, partial loss of 1p, 3p, 4p, 11q, 14q, partial gain of 1q,
+  7q, 17q and amplification of MYCN. These abnormalities are nonrandomly distributed
+  in neuroblastoma as loss of 3p and 11q rarely occur in MYCN amplified neuroblastomas.
+  Here, we report on a patient who had a non-MYCN amplified 3p- 11q- neuroblastoma
+  at diagnosis who subsequently developed a high level of MYCN amplification in bone
+  marrow metastases 41 months after induction of complete remission. The tumor at
+  diagnosis had low level unbalanced gain of distal 2p. In order to assess the frequency
+  of low level gain of distal 2p in neuroblastoma, we examined the comparative genomic
+  hybridization results from 60 neuroblastomas. Among non-MYCN amplified neuroblastomas,
+  8 45 18 had low level gain of distal 2p. Low level gain for a segment of 2p i.e.
+  a region larger than the 2p23-- amp gt p24 undergoing amplification was also detected
+  in five of the 15 tumors that had high level MYCN amplification. The possibility
+  that low level gain of distal 2p is a risk factor for high level MYCN amplification
+  is discussed.
+authors: Stallings RL, Carty P, McArdle L, Mullarkey M, McDermott M, OMeara A, Ryan
+  E, Catchpoole D and Breatnach F.
+contact:
+  email: ~
+  name: R.L. Stallings
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15218241
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: Europe
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 106, 1 (2004): 49-54.'
+label: 'Stallings et al. (2004): Evolution of Unbalanced Gain of Distal Chromosome
+  2p in Neuroblastoma.'
+notes: Only CGH data from the 24 cases with 2p gains were presented in the article.
+  Of these, only the 10 cases not previously published are presented here.
+pmid: 15218241
+title: Evolution of Unbalanced Gain of Distal Chromosome 2p in Neuroblastoma.
+year: 2004

@@ -1,0 +1,40 @@
+---
+abstract: Gastrointestinal stromal tumors GIST are the most important mesenchymal
+  tumors of the gastrointestinal tract. The vast majority of GISTs exhibit activating
+  mutations of KIT or PDGFRA, but epigenetic alteration of GISTs is largely unknown.
+  In this study, we aimed to clarify the involvement of DNA methylation in GIST malignancy.
+authors: Igarashi S, Suzuki H, Niinuma T, Shimizu H, Nojima M, Iwaki H, Nobuoka T,
+  Nishida T, Miyazaki Y, Takamaru H, Yamamoto E, Yamamoto H, Tokino T, Hasegawa T,
+  Hirata K, Imai K, Toyota M and Shinomura Y.
+contact:
+  email: shinomura@sapmed.ac.jp
+  name: Shinomura Yasuhisa
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20978145
+- geo:GSE22185
+geo_data:
+  geo_json:
+    coordinates:
+    - 141.35
+    - 43.06
+    type: Point
+  info:
+    city: Sapporo
+    continent: Asia
+    country: Japan
+    label: Sapporo, Japan, Asia
+    precision: city
+journal: 'Clin Cancer Res 16, 21 (2010): 5114-23.'
+label: 'Igarashi et al. (2010): A Novel Correlation Between Line-1 Hypomethylation
+  and the Malignancy of Gastrointestinal ...'
+notes: ~
+pmid: 20978145
+title: A Novel Correlation Between Line-1 Hypomethylation and the Malignancy of Gastrointestinal
+  Stromal Tumors.
+year: 2010

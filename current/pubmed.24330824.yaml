@@ -1,0 +1,57 @@
+---
+abstract: 'BACKGROUND: To investigate associations between WW domain-containing oxidoreductase
+  WWOX , runt-related transcription factor 2 RUNX2 and vascular endothelial growth
+  factor alpha VEGFA in human osteosarcoma OS . METHODS: Copy number aberrations of
+  WWOX, RUNX2and VEGFA genes were detected by microarray comparative genomic hybridization
+  aCGH in 10 fresh OS tissue samples. VEGFA gene alterations were also investigated
+  and validated by fluorescence in situ hybridization FISH in 54 formalin-fixed and
+  paraffin-embedded FFPE OS samples. Protein expression of WWOX, RUNX2 and VEGFA were
+  examined in 54 FFPE OS samples by immunohistochemistry IHC . RESULTS: Analysis of
+  previously published OS aCGH data GSE9654 and aCGH data from this study GSE19180
+  identified significant deletion of WWOX in 30 6 20 of OS samples, whilst significant
+  increase in both RUNX2 and VEGFA gene copy numbers were detected in 55 11 20 and
+  60 12 20 of OS samples, respectively. FISH demonstrated increased VEGFA gene copy
+  number in 65.9 31 47 of evaluable samples, in either focal or large fragment forms.
+  Compared with positive expression of WWOX in 38.9 of the OS samples, positive expression
+  of RUNX2 and VEGFA protein was found in 48.1 and 75.9 of samples. Although there
+  was no significant association between gene copy number aberration and protein expression
+  for WWOX and RUNX2, significant positive correlation between increased VEGFA gene
+  copy number and VEGFA protein expression was observed. Although there was no significant
+  reverse association between WWOX and RUNX2 expression, a significantly positive
+  relationship was observed between RUNX2 and VEGFA protein expression. CONCLUSIONS:
+  Our data show increased RUNX2 and VEGFA gene copy numbers and elevation of their
+  respective proteins in human OS. Positive correlation of RUNX2 and VEGFA suggests
+  that both increased VEGFA gene copy number and RUNX2 overexpression facilitate increased
+  expression of VEGFA.'
+authors: Yang J, Zhao L, Tian W, Liao Z, Zheng H, Wang G and Chen K.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24330824
+- geo:GSE19180
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: Asia
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: 'BMC Med Genomics (2013) 6: 56.'
+label: 'Yang et al. (2013): Correlation of WWOX, RUNX2 and VEGFA protein expression
+  in human osteosarcoma.'
+notes: ~
+pmid: 24330824
+title: Correlation of WWOX, RUNX2 and VEGFA protein expression in human osteosarcoma.
+year: 2013

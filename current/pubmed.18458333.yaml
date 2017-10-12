@@ -1,0 +1,51 @@
+---
+abstract: MicroRNAs miRNAs are an abundant class of small noncoding RNAs that function
+  as negative gene regulators. miRNA deregulation is involved in the initiation and
+  progression of human cancer however, the underlying mechanism and its contributions
+  to genome-wide transcriptional changes in cancer are still largely unknown. We studied
+  miRNA deregulation in human epithelial ovarian cancer by integrative genomic approach,
+  including miRNA microarray n 106 , array-based comparative genomic hybridization
+  n 109 , cDNA microarray n 76 , and tissue array n 504 . miRNA expression is markedly
+  down-regulated in malignant transformation and tumor progression. Genomic copy number
+  loss and epigenetic silencing, respectively, may account for the down-regulation
+  of approximately 15 and at least approximately 36 of miRNAs in advanced ovarian
+  tumors and miRNA down-regulation contributes to a genome-wide transcriptional deregulation.
+  Last, eight miRNAs located in the chromosome 14 miRNA cluster Dlk1-Gtl2 domain were
+  identified as potential tumor suppressor genes. Therefore, our results suggest that
+  miRNAs may offer new biomarkers and therapeutic targets in epithelial ovarian cancer.
+authors: Zhang L, Volinia S, Bonome T, Calin GA, Greshock J, Yang N, Liu CG, Giannakakis
+  A, Alexiou P, Hasegawa K, Johnstone CN, Megraw MS, Adams S, Lassus H, Huang J, Kaur
+  S, Liang S, Sethupathy P, Leminen A, Simossis VA, Sandaltzopoulos R, Naomoto Y,
+  Katsaros D, Gimotty PA, DeMichele A, Huang Q, Butzow R, Rustgi AK, Weber BL, Birrer
+  MJ, Hatzigeorgiou AG, Croce CM and Coukos G.
+contact:
+  email: linzhang@mail.med.upenn.edu
+  name: Lin Zhang
+counts:
+  biosamples: 109
+  samples_acgh: 109
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18458333
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Proc Natl Acad Sci U S A 105, 19 (2008): 7004-09.'
+label: 'Zhang et al. (2008): Genomic and Epigenetic Alterations Deregulate Microrna
+  Expression in Human Epithelial Ovarian ...'
+notes: ~
+pmid: 18458333
+title: Genomic and Epigenetic Alterations Deregulate Microrna Expression in Human
+  Epithelial Ovarian Cancer.
+year: 2008

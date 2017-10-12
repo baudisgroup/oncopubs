@@ -1,0 +1,51 @@
+---
+abstract: Meningioma is a common tumor of the meninges covering the central nervous
+  system. Although generally a benign tumor, meningioma often recurs and is malignant
+  in 5-10 of all cases. Loss of chromosome 22 loci, and specifically inactivation
+  of the NF2 tumor suppressor gene, is considered one of several critical steps in
+  the tumorigenesis of meningioma. However, cytogenetic and molecular investigations
+  have failed to detect either aberrations of chromosome 22 or mutations in the NF2
+  gene in approximately 40 of all tumors, thus making it apparent that an alternative
+  mechanism s is responsible for the development of a large fraction of meningiomas.
+  This subset of meningiomas is not distinct with regard to clinical and histopathological
+  features from tumors showing deletions on chromosome 22. It is, therefore, important
+  to attempt the elucidation of molecular pathway s that may operate in the tumorigenesis
+  of these tumors. We used comparative genomic hybridization CGH to identify regions
+  of the genome other than chromosome 22, contributing to the development of meningioma.
+  We analyzed 25 tumors that had undergone detailed LOH analysis on chromosome 22
+  and were shown to contain no detectable deletions. Two benign, malignancy grade
+  I, meningiomas showed concurrent deletion of 1p and 3p. These results suggest that
+  loss of both 1p and 3p may contribute to meningioma tumorigenesis. This may represent
+  genetic changes that are alternative to deletions on chromosome 22.
+authors: Carlson KM, Bruder C, Nordenskjold M and Dumanski JP.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9408760
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 20, 4 (1997): 419-24.'
+label: 'Carlson et al. (1997): 1p and 3p Deletions in Meningiomas Without Detectable
+  Aberrations of Chromosome 22 Identified By ...'
+notes: ~
+pmid: 9408760
+title: 1p and 3p Deletions in Meningiomas Without Detectable Aberrations of Chromosome
+  22 Identified By Comparative Genomic Hybridization.
+year: 1997

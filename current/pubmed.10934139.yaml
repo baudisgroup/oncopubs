@@ -1,0 +1,52 @@
+---
+abstract: Despite several loss of heterozygosity studies, a comprehensive genomic
+  survey of pheochromocytomas is still lacking. To identify DNA copy number changes
+  which might be important in tumor development and progression and which may have
+  diagnostic utility, we evaluated genetic aberrations in 29 sporadic adrenal and
+  extra-adrenal pheochromocytomas 19 clinically benign tumors and 10 malignant lesions
+  . Comparative genomic hybridization was performed using directly fluorochrome-conjugated
+  DNA extracted from frozen 16 and paraffin-embedded 13 tumor tissues. The most frequently
+  observed changes were losses of chromosomes 1p11-p32 86 , 3q 52 , 6q 34 , 3p, 17p
+  31 each , 11q 28 , and gains of chromosomes 9q 38 and 17q 31 . No amplification
+  was identified and no difference between adrenal and extra-adrenal tumors was detected.
+  Progression to malignant tumors was strongly associated with deletions of chromosome
+  6q 60 versus 21 in clinically benign lesions, P 0.0368 and 17p 50 versus 21 . Fluorescence
+  in situ hybridization confirmed the comparative genomic hybridization data of chromosomes
+  1p, 3q, and 6q, and revealed aneuploidy in some tumors. Our results suggest that
+  the development of pheochromocytomas is associated with specific genomic aberrations,
+  such as losses of 1p, 3q, and 6q and gains of 9q and 17q. In particular, tumor suppressor
+  genes on chromosomes 1p and 3q may be involved in early tumorigenesis, and deletions
+  of chromosomes 6q and 17p in progression to malignancy.
+authors: Dannenberg H, Speel EJ, Zhao J, Saremaslani P, van Der Harst E, Roth J, Heitz
+  PU, Bonjer HJ, Dinjens WN, Mooi WJ, Komminoth P and de Krijger RR.
+contact:
+  email: h.dannenberg@azr.nl
+  name: Hilde Dannenberg
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10934139
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Am J Pathol 157, 2 (2000): 353-59.'
+label: 'Dannenberg et al. (2000): Losses of Chromosomes 1p and 3q Are Early Genetic
+  Events in the Development of Sporadic ...'
+notes: ~
+pmid: 10934139
+title: Losses of Chromosomes 1p and 3q Are Early Genetic Events in the Development
+  of Sporadic Pheochromocytomas.
+year: 2000

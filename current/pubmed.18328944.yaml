@@ -1,0 +1,53 @@
+---
+abstract: 'Chromosomal imbalances resulting in altered gene dosage play a role in
+  the molecular pathogenesis of non-small cell lung cancer NSCLC , but the target
+  genes remain to be identified. To identify early-stage genetic events that drive
+  progression of NSCLC, we conducted a high-resolution array comparative genomic hybridization
+  CGH study, using an array of 4,046 bacterial artificial chromosome clones to screen
+  for DNA copy number changes associated with individual genes in 36 tumors obtained
+  from patients in early stages of NSCLC. Multiple early genetic events occurring
+  on chromosome 5p were identified, with a minimal detection region at 5p15.33 approximately
+  12. The most frequent finding involved gain of 5p15.33, observed in 15 of 19 stage
+  I A B cancers 79 and in 28 of the total 36 NSCLC cases 78 . This locus harbors the
+  genes TERT, SLC6A19, and SLC6A18 and is a telomeric boundary at bacterial artificial
+  chromosome BAC clone 91_J20. Other potential candidate genes evidencing high numbers
+  of genomic copy number changes amp gt or 40 of patients included the following genes,
+  encountered in amp gt 50 of 19 stage I A B cancers: CEP72 and TPPP 14 of 19 74 AHRR,
+  EXOC3 previously SEC6L1 , SLC9A3, LOC442126, ZDHHC11, BRD9, and TRIP13 13 19 68
+  and CLPTM1L alias CRR9 , SLC6A3 previously DAT1 , and LOC401169 10 19 53 . Fluorescence
+  in situ hybridization validated the array CGH findings. The gain of 5p15.33 is thus
+  one of the most consistent alterations in the early stages of lung cancer, and a
+  series of genes in the critical 5p15.33 region may be used as novel biomarkers for
+  the early detection and classification of lung cancer.'
+authors: Kang JU, Koo SH, Kwon KC, Park JW and Kim JM.
+contact:
+  email: ~
+  name: Sun Hoe Koo
+counts:
+  biosamples: 36
+  samples_acgh: 36
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18328944
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.38
+    - 36.35
+    type: Point
+  info:
+    city: Taejeon
+    continent: ~
+    country: Korean Republic
+    label: Taejeon, Korean Republic
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 182, 1 (2008): 1-11.'
+label: 'Kang et al. (2008): Gain At Chromosomal Region 5p15.33, Containing Tert, is
+  the Most Frequent Genetic Event in Early ...'
+notes: ~
+pmid: 18328944
+title: Gain At Chromosomal Region 5p15.33, Containing Tert, is the Most Frequent Genetic
+  Event in Early Stages of Non-Small Cell Lung Cancer.
+year: 2008

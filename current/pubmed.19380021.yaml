@@ -1,0 +1,50 @@
+---
+abstract: 'To assess the putative correlation between comparative genomic hybridization
+  CGH -detectable genetic alterations in epithelial ovarian cancer and disease recurrence,
+  conventional CGH was performed on 45 epithelial ovarian cancers: 26 tumors from
+  sporadic, BRCA mutation noncarriers and 11 and 8 tumors from BRCA1 and BRCA2 mutation
+  carriers, respectively. Relevant clinical data, including histology, grade, stage,
+  size of residual tumor, recurrence, and survival, were obtained from outpatient
+  and inpatient charts. Among the 45 cases, the most common regions involving gain
+  of DNA copy number were 3q n 23 51 , 8q n 21 47 , and 1q n 14 31 , and the most
+  common regions with loss were 19 and 22 at 9 cases 20 each, followed by 5q n 6 13
+  . In multivariate analysis, the total number of genetic alterations was not associated
+  with risk of recurrence, but gain in 5p was associated with a higher risk of recurrence
+  hazard ratio HR 6.06, P 0.0399 , and gain in 1p as well as loss in 5q were associated
+  with a significant decrease in recurrence HR 0.08, P 0.0079, and HR 0.10, P 0.0143,
+  respectively . Recurrence rate in patients with epithelial ovarian cancer is seemingly
+  associated with specific genetic alterations detected by CGH, but the specific genes
+  involved and the implications of these findings await further studies.'
+authors: Bruchim I, Israeli O, Mahmud SM, Aviram-Goldring A, Rienstein S, Friedman
+  E, Ben-Baruch G and Gotlieb WH.
+contact:
+  email: walter.gotlieb@mcgill.ca
+  name: Walter H. Gotlieb
+counts:
+  biosamples: 45
+  samples_acgh: 0
+  samples_ccgh: 45
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19380021
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: North America
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 190, 2 (2009): 66-70.'
+label: 'Bruchim et al. (2009): Genetic Alterations Detected By Comparative Genomic
+  Hybridization and Recurrence Rate in ...'
+notes: ~
+pmid: 19380021
+title: Genetic Alterations Detected By Comparative Genomic Hybridization and Recurrence
+  Rate in Epithelial Ovarian Carcinoma.
+year: 2009

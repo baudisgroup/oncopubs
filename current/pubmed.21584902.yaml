@@ -1,0 +1,52 @@
+---
+abstract: It is commonly accepted that cancer cell progression is accompanied by accumulation
+  of genetic changes. Here we searched for copy number variations in melanoma and
+  asked whether homozygous losses always cumulate during tumor cell progression. Therefore
+  we investigated either melanoma cell lines or tissue derived from the primary lesion
+  and from the lymph node metastasis of the same individual patient. In vitro studies
+  of melanoma cell lines revealed high migratory and anchorage independent growth
+  of metastasis-derived cells. Surprisingly, whole genome DNA analysis of a primum-derived
+  cell line revealed a total of 10 homozygous losses, whereas the matched metastasis-derived
+  cell line only shared five of those losses. We further tested these cells in a mouse
+  model for intradermal melanoma growth and detected fast growth of the metastasis-derived
+  cell line and no growth of primum-derived cells. Additionally, we screened matched
+  pairs of patient-derived melanoma primum and metastasis samples and we could also
+  identify a case with homozygous deletions exclusively present in the primary lesion.
+  Therefore, we suggest that tumor cell progression at the metastatic niche can occur
+  parallel and independently from the primary tumor. We propose that for mutation-targeted
+  therapy genotyping should be performed not only from primary, but also from metastatic
+  melanoma.
+authors: Swoboda A, Rasin-Streden D, Schanab O, Okamoto I, Pehamberger H, Petzelbauer
+  P and Mikula M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21584902
+- geo:GSE26053
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.37
+    - 48.21
+    type: Point
+  info:
+    city: Vienna
+    continent: Europe
+    country: Austria
+    label: Vienna, Austria, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer (2011) 50: 680-688.'
+label: 'Swoboda et al. (2011): Identification of genetic disparity between primary
+  and metastatic melanoma in human ...'
+notes: ~
+pmid: 21584902
+title: Identification of genetic disparity between primary and metastatic melanoma
+  in human patients.
+year: 2011

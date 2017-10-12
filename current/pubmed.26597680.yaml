@@ -1,0 +1,50 @@
+---
+abstract: 'Whole exome sequencing and copy number aberration (CNA) analysis were performed
+  on cells taken from peripheral blood (PB) and lymph nodes (LN) of patients with
+  chronic lymphocytic leukaemia (CLL). Of 64 non-silent somatic mutations, 54 (84ï¿½4%)
+  were clonal in both compartments, 3 (4ï¿½7%) were PB-specific and 7 (10ï¿½9%) were
+  LN-specific. Most of the LN- or PB-specific mutations were subclonal in the other
+  corresponding compartment (variant frequency 0ï¿½5-5ï¿½3%). Of 41 CNAs, 27 (65ï¿½8%)
+  were shared by both compartments and 7 (17ï¿½1%) were LN- or PB-specific. Overall,
+  6 of 9 cases (66ï¿½7%) showed genomic differences between the compartments. At subsequent
+  relapse, Case 10, with 6 LN-specific lesions, and Case 100, with 6 LN-specific and
+  8 PB-specific lesions, showed, in the PB, the clonal expansion of LN-derived lesions
+  with an adverse impact: SF3B1 mutation, BIRC3 deletion, del8(p23ï¿½3-p11ï¿½1), del9(p24ï¿½3-p13ï¿½1)
+  and gain 2(p25ï¿½3-p14). CLL shows an intra-patient clonal heterogeneity according
+  to the disease compartment, with both LN and PB-specific mutations/CNAs. The LN
+  microenvironment might contribute to the clonal selection of unfavourable lesions,
+  as LN-derived mutations/CNAs can appear in the PB at relapse.  ï¿½ 2015 John Wiley
+  & Sons Ltd.'
+authors: Del Giudice I, Marinelli M, Wang J, Bonina S, Messina M, Chiaretti S, Ilari
+  C, Cafforio L, Raponi S, Mauro FR, Di Maio V, De Propris MS, Nanni M, Ciardullo
+  C, Rossi D, Gaidano G, Guarini A, Rabadan R and Foï¿½ R
+contact:
+  email: delgiudice@bce.uniroma1.it
+  name: Ilaria Del Giudice
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 9
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26597680
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: Europe
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: Br. J. Haematol., 2015
+label: 'Del Giudice I et al. (2015): '
+notes: ~
+pmid: 26597680
+title: 'Inter- and intra-patient clonal and subclonal heterogeneity of chronic lymphocytic
+  leukaemia: evidences from circulating and lymph nodal compartments.'
+year: 2015

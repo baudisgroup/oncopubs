@@ -1,0 +1,55 @@
+---
+abstract: "Oncogenic mutations in gastrointestinal stromal tumors (GISTs) predict
+  prognosis and therapeutic responses to imatinib. In wild-type GISTs, the tumor-initiating
+  events are still unknown, and wild-type GISTs are resistant to imatinib therapy.
+  We performed an association study between copy number alterations (CNAs) identified
+  from array CGH and gene expression analyses results for four wild-type GISTs and
+  an imatinib-resistant PDGFRA D842V mutant GIST, and compared the results to those
+  obtained from 27 GISTs with KIT mutations. All wild-type GISTs had multiple CNAs,
+  and CNAs in 1p and 22q that harbor the SDHB and GSTT1 genes, respectively, correlated
+  well with expression levels of these genes. mRNA expression levels of all SDH gene
+  subunits were significantly lower (Pâ\x89¤0.041), whereas mRNA expression levels
+  of VEGF (P=0.025), IGF1R (P=0.026), and ZNFs (P<0.05) were significantly higher
+  in GISTs with wild-type/PDGFRA D842V mutations than GISTs with KIT mutations. qRT-PCR
+  validation of the GSTT1 results in this cohort and 11 additional malignant GISTs
+  showed a significant increase in the frequency of GSTT1 CN gain and increased mRNA
+  expression of GSTT1 in wild-type/PDGFRA D842V GISTs than KIT-mutant GISTs (P=0.033).
+  Surprisingly, all four malignant GISTs with KIT exon 11 deletion mutations with
+  primary resistance to imatinib had an increased GSTT1 CN and mRNA expression level
+  of GSTT1. Increased mRNA expression of GSTT1 and ZNF could be predictors of a poor
+  response to imatinib. Our integrative approach reveals that for patients with wild-type
+  (or imatinib-resistant) GISTs, attempts to target VEGFRs and IGF1R may be reasonable
+  options."
+authors: Lee EJ, Kang G, Kang SW, Jang KT, Lee J, Park JO, Park CK, Sohn TS, Kim S
+  and Kim KM
+contact:
+  email: kkmkys@skku.ed
+  name: ~
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24124608
+- geo:GSE47912
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: PLoS ONE 8(10), 2013
+label: 'Lee EJ et al. (2013): '
+notes: ~
+pmid: 24124608
+title: GSTT1 copy number gain and ZNF overexpression are predictors of poor response
+  to imatinib in gastrointestinal stromal tumors.
+year: 2013

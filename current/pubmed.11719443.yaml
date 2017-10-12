@@ -1,0 +1,55 @@
+---
+abstract: Here we report the genetic characterization of immortalized prostate epithelial
+  cells before and after conversion to tumorigenicity using molecular cytogenetics
+  and microarray technology. We were particularly interested to analyze the consequences
+  of acquired chromosomal aneuploidies with respect to modifications of gene expression
+  profiles. Compared with nontumorigenic but immortalized prostate epithelium, prostate
+  tumor cell lines showed high levels of chromosomal rearrangements that led to gains
+  of 1p, 5, 11q, 12p, 16q, and 20q and losses of 1pter, 11p, 17, 20p, 21, 22, and
+  Y. Of 5700 unique targets on a 6.5K cDNA microarray, approximately 3 were subject
+  to modification in expression levels these included GRO-1, -2, IAP-1,- 2, MMP-9,
+  and cyclin D1, which showed increased expression, and TRAIL, BRCA1, and CTNNA, which
+  showed decreased expression. Thirty of expression changes occurred in regions the
+  genomic copy number of which remained balanced. Of the remainder, 42 of down-regulated
+  and 51 of up-regulated genes mapped to regions present in decreased or increased
+  genomic copy numbers, respectively. A relative gain or loss of a chromosome or chromosomal
+  arm usually resulted in a statistically significant increase or decrease, respectively,
+  in the average expression level of all of the genes on the chromosome. However,
+  of these genes, very few e.g., 5 of 101 genes on chromosome 11q , and in some instances
+  only two genes MMP-9 and PROCR on chromosome 20q , were overexpressed by amp gt
+  or 1.7-fold when scored individually. Cluster analysis by gene function suggests
+  that prostate tumorigenesis in these cell line models involves alterations in gene
+  expression that may favor invasion, prevent apoptosis, and promote growth.
+authors: Phillips JL, Hayward SW, Wang Y, Vasselli J, Pavlovich C, Padilla-Nash H,
+  Pezullo JR, Ghadimi BM, Grossfeld GD, Rivera A, Linehan WM, Cunha GR and Ried T.
+contact:
+  email: phillipj@mail.nih.gov
+  name: John L. Phillips
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11719443
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 61, 22 (2001): 8143-49.'
+label: 'Phillips et al. (2001): The Consequences of Chromosomal Aneuploidy on Gene
+  Expression Profiles in a Cell Line Model for ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 11719443
+title: The Consequences of Chromosomal Aneuploidy on Gene Expression Profiles in a
+  Cell Line Model for Prostate Carcinogenesis.
+year: 2001

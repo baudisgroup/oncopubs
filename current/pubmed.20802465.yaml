@@ -1,0 +1,55 @@
+---
+abstract: 'Approximately 10 of ulcerative colitis patients develop colorectal neoplasia.
+  At present, identification of this subset is markedly limited and necessitates lifelong
+  colonoscopic surveillance for the entire ulcerative colitis population. Better risk
+  markers are needed to focus surveillance onto the patients who are most likely to
+  benefit. Using array-based comparative genomic hybridization, we analyzed single,
+  non-dysplastic biopsies from three patient groups: ulcerative colitis progressors
+  n 9 with cancer or high-grade dysplasia at a mean distance of 18 cm from the analyzed
+  site ulcerative colitis non-progressors n 8 without dysplasia during long-term surveillance
+  and non-ulcerative colitis normal controls n 2 . Genomic DNA from fresh colonic
+  epithelium purified from stroma was hybridized to 287 low-density and 4342 higher-density
+  feature bacterial artificial chromosome arrays. Sample-to-reference fluorescence
+  ratios were calculated for individual chromosomal targets and globally across the
+  genome. The low-density arrays yielded pronounced genomic gains and losses in 3
+  of 9 33 ulcerative colitis progressors but in none of the 10 control patients. Identical
+  DNA samples analyzed on the higher-density arrays, using a combination of global
+  and individual high variance assessments, distinguished all nine progressors from
+  all 10 controls. These data confirm that genomic alterations in ulcerative colitis
+  progressors are widespread, even involving single non-dysplastic biopsies that are
+  far distant from neoplasia. They therefore show promise toward eliminating full
+  colonoscopic surveillance with extensive biopsy sampling in the majority of ulcerative
+  colitis patients.'
+authors: Bronner MP, Skacel M, Crispin DA, Hoff PD, Emond MJ, Lai LA, Tubbs RR, OSullivan
+  JN, Rabinovitch PS and Brentnall TA.
+contact:
+  email: bronnem@ccf.org
+  name: Mary Bronner
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20802465
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: North America
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: 'Mod Pathol 23, 12 (2010): 1624-33.'
+label: 'Bronner et al. (2010): Array-Based Comparative Genomic Hybridization in Ulcerative
+  Colitis Neoplasia: Single ...'
+notes: ~
+pmid: 20802465
+title: 'Array-Based Comparative Genomic Hybridization in Ulcerative Colitis Neoplasia:
+  Single Non-Dysplastic Biopsies Distinguish Progressors From Non-Progressors.'
+year: 2010

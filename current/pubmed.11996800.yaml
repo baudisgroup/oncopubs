@@ -1,0 +1,48 @@
+---
+abstract: Ganglioglioma is a mixed neuronal and glial tumor first described by Perkin
+  in 1926. Because of its rare occurrence in the central nervous system, the pathogenesis
+  of this neoplasm is still largely unknown. Previous studies of ganglioglioma mainly
+  focused on histologic features, immunohistochemical analysis, clinical treatment,
+  and patient outcome. Very few cytogenetic and molecular genetic studies have been
+  reported on this neoplasm. To better understand the mechanism underlying the development
+  of ganglioglioma, we performed comparative genomic hybridization analysis to investigate
+  chromosomal imbalances across the entire genome in five cases of gangliogliomas.
+  Loss of genetic material on the short arm of chromosome 9 was a common genetic alteration
+  found in three of five cases. Overrepresentation of partial or the whole chromosome
+  7 was another recurrent chromosomal imbalance, confirmed by fluorescence in situ
+  hybridization. Immunohistochemical analysis was performed all five cases revealed
+  no reaction or low expression for epidermal growth factor receptor antibody. Our
+  study highlights chromosomal regions for further fine mapping and investigation
+  of candidate tumor suppressor genes involved in the pathogenesis of ganglioglioma.
+authors: Yin XL, Hui AB, Pang JC, Poon WS and Ng HK.
+contact:
+  email: hkng@cuhk.edu.hk
+  name: Ho-Keung Ng
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11996800
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 134, 1 (2002): 71-76.'
+label: 'Yin et al. (2002): Genome-Wide Survey for Chromosomal Imbalances in Ganglioglioma
+  Using Comparative Genomic ...'
+notes: ~
+pmid: 11996800
+title: Genome-Wide Survey for Chromosomal Imbalances in Ganglioglioma Using Comparative
+  Genomic Hybridization.
+year: 2002

@@ -1,0 +1,36 @@
+---
+abstract: To determine the clinicopathologic significance and prognostic value of
+  chromosomal imbalances in diffuse large B-cell lymphomas DLBCL .
+authors: Bea S, Colomo L, Lopez-Guillermo A, Salaverria I, Puig X, Pinyol M, Rives
+  S, Montserrat E and Campo E.
+contact:
+  email: ecampo@clinic.ub.es
+  name: Elias Campo
+counts:
+  biosamples: 66
+  samples_acgh: 0
+  samples_ccgh: 66
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15337798
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'J Clin Oncol 22, 17 (2004): 3498-506.'
+label: 'Bea et al. (2004): Clinicopathologic Significance and Prognostic Value of
+  Chromosomal Imbalances in Diffuse Large B-Cell ...'
+notes: ~
+pmid: 15337798
+title: Clinicopathologic Significance and Prognostic Value of Chromosomal Imbalances
+  in Diffuse Large B-Cell Lymphomas.
+year: 2004

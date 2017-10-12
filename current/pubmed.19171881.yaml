@@ -1,0 +1,51 @@
+---
+abstract: 'Wilms tumor 1 WT1 mutations have recently been identified in approximately
+  10 of adult acute myeloid leukemia AML with normal cytogenetics CN-AML and are associated
+  with poor outcome. Using array-based comparative genome hybridization in pediatric
+  CN-AML samples, we detected a WT1 deletion in one sample. The other WT1 allele was
+  mutated. This prompted us to further investigate the role of WT1 aberrations in
+  childhood AML. Mutations were found in 35 of 298 12 diagnostic pediatric AML samples.
+  In 19 of 35 54 samples, more than one WT1 aberration was found: 15 samples had 2
+  different mutations, 2 had a homozygous mutation, and 2 had a mutation plus a WT1
+  deletion. WT1 mutations clustered significantly in the CN-AML subgroup 22 P amp
+  lt .001 and were associated with FLT3 ITD 43 vs 17 P amp lt .001 . WT1 mutations
+  conferred an independent poor prognostic significance WT1 mutated vs wild-type patients:
+  5-year probability of overall survival pOS 35 vs 66 , P .002 probability of event-free
+  survival 22 vs 46 , P amp lt .001 and cumulative incidence of relapse or regression
+  70 vs 44 , P amp lt .001 . Patients with both a WT1 mutation and a FLT3 ITD had
+  a dismal prognosis 5-year pOS 21 . WT1 mutations occur at a significant rate in
+  childhood AML and are a novel independent poor prognostic marker.'
+authors: Hollink IH, van den Heuvel-Eibrink MM, Zimmermann M, Balgobind BV, Arentsen-Peters
+  ST, Alders M, Willasch A, Kaspers GJ, Trka J, Baruchel A, de Graaf SS, Creutzig
+  U, Pieters R, Reinhardt D and Zwaan CM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19171881
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Blood 113, 23 (2009): 5951-60.'
+label: 'Hollink et al. (2009): Clinical Relevance of Wilms Tumor 1 Gene Mutations
+  in Childhood Acute Myeloid ...'
+notes: ~
+pmid: 19171881
+title: Clinical Relevance of Wilms Tumor 1 Gene Mutations in Childhood Acute Myeloid
+  Leukemia.
+year: 2009

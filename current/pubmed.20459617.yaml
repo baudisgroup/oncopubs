@@ -1,0 +1,45 @@
+---
+abstract: 'Estimates suggest that up to 30 of colorectal cancers CRC may develop due
+  to an increased genetic risk. The mean age at diagnosis for CRC is about 70 years.
+  Time of disease onset 20 years younger than the mean age is assumed to be indicative
+  of genetic susceptibility. We have compared high resolution tumor genome copy number
+  variation CNV Roche NimbleGen, 385 000 oligo CGH array in microsatellite stable
+  MSS tumors from two age groups, including 23 young at onset patients without known
+  hereditary syndromes and with a median age of 44 years range: 28-53 and 17 elderly
+  patients with median age 79 years range: 69-87 . Our aim was to identify differences
+  in the tumor genomes between these groups and pinpoint potential susceptibility
+  loci. Integration analysis of CNV and genome wide mRNA expression data, available
+  for the same tumors, was performed to identify a restricted candidate gene list.'
+authors: Berg M, Agesen TH, Thiis-Evensen E, Merok MA, Teixeira MR, Vatn MH, Nesbakken
+  A, Skotheim RI and Lothe RA.
+contact:
+  email: ragnhild.a.lothe@rr-research.no
+  name: Ragnhild Lothe
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20459617
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Mol Cancer 9 (2010): 100.'
+label: 'Berg et al. (2010): Distinct High Resolution Genome Profiles of Early Onset
+  and Late Onset Colorectal Cancer Integrated ...'
+notes: ~
+pmid: 20459617
+title: Distinct High Resolution Genome Profiles of Early Onset and Late Onset Colorectal
+  Cancer Integrated With Gene Expression Data Identify Candidate Susceptibility Loci.
+year: 2010

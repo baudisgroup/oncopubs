@@ -1,0 +1,48 @@
+---
+abstract: Ovarian carcinoma is the leading cause of death among women with gynecological
+  malignancies in western Europe. The high mortality rate is largely due to drug resistance.
+  It is thus essential to increase knowledge and understanding of the underlying mechanisms
+  of chemotherapy resistance, which might be caused by changes in the tumor genome.
+  After surgery, carboplatin is the standard treatment for patients with early-stage
+  ovarian cancer. Using comparative genomic hybridization CGH , we explored cytogenetic
+  alterations in 63 early-stage epithelial ovarian tumors, comparing the aberration
+  patterns in the carboplatin-resistant and carboplatin-sensitive tumors. Several
+  chromosomal regions were more frequently altered in the resistant tumors some of
+  these differences were statistically significant. We also found differences in tumor
+  histology. Gains of 1q, 5q14 approximately q23, and 13q21 approximately q32, and
+  losses of 8p and 9q were associated with clinical carboplatin resistance. Also,
+  differences were found between the primary resistant and the secondary resistant
+  tumors. Our findings demonstrate biologic observations of clinical drug resistance
+  and specifically reveal chromosomal regions of interest for platinum resistance.
+authors: Osterberg L, Levan K, Partheen K, Helou K and Horvath G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 63
+  samples_acgh: 0
+  samples_ccgh: 63
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16337857
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 163, 2 (2005): 144-50.'
+label: 'Osterberg et al. (2005): Cytogenetic Analysis of Carboplatin Resistance in
+  Early-Stage Epithelial Ovarian ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 16337857
+title: Cytogenetic Analysis of Carboplatin Resistance in Early-Stage Epithelial Ovarian
+  Carcinoma.
+year: 2005

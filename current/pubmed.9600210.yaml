@@ -1,0 +1,54 @@
+---
+abstract: AWe report on two siblings brother and sister who developed cerebral PNETs
+  at the age of 5 years and 6 months, respectively. Both children were treated by
+  operation followed by polychemotherapy. The brother also received cranio-spinal
+  irradiation. Nevertheless, the children died about 12 months and 24 months post-operatively
+  due to extensive cerebral tumor recurrences. Shortly after having lost both of her
+  children, the mother developed an intra-abdominal tumor, which was resected and
+  histologically diagnosed as ovarian carcinoma. Because of this unusual familial
+  clustering of tumors and a positive history of brain tumors and other cancers in
+  several maternal relatives, we analyzed DNA isolated from both PNETs and the ovarian
+  carcinoma as well as constitutional leukocyte DNA from the whole family for mutation
+  of the TP53 tumor suppressor gene. This analysis revealed that all tumors were homozygous
+  for a missense mutation at codon 213 CGA amp gt TGG resulting in an amino acid exchange
+  from arginine to tryptophane. The same mutation was present in one TP53 allele in
+  the constitutional DNA of the mother and the children, indicating that the mother
+  had transmitted a TP53 germline mutation to both of her children. Analysis of loss
+  of heterozygosity at microsatellite markers from 17p confirmed deletion of the paternal
+  wild-type allele in both PNETs. Further investigation of the PNETs by comparative
+  genomic hybridization revealed multiple chromosomal abnormalities. Interestingly,
+  some genomic changes were common to both PNETs, while many others were not, a finding
+  suggesting substantial genomic instability, probably as a consequence of p53 inactivation.
+authors: Reifenberger J, Janssen G, Weber RG, Bostrom J, Engelbrecht V, Lichter P,
+  Borchard F, Gobel U, Lenard HG and Reifenberger G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9600210
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.78
+    - 51.22
+    type: Point
+  info:
+    city: Dusseldorf
+    continent: Europe
+    country: Germany
+    label: Dusseldorf, Germany, Europe
+    precision: city
+journal: 'J Neuropathol Exp Neurol 57, 2 (1998): 179-87.'
+label: 'Reifenberger et al. (1998): Primitive Neuroectodermal Tumors of the Cerebral
+  Hemispheres in Two Siblings With Tp53 ...'
+notes: ~
+pmid: 9600210
+title: Primitive Neuroectodermal Tumors of the Cerebral Hemispheres in Two Siblings
+  With Tp53 Germline Mutation.
+year: 1998

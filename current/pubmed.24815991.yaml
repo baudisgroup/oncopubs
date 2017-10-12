@@ -1,0 +1,49 @@
+---
+abstract: Clonal heterogeneity in lymphoid malignancies has been recently reported
+  in adult T-cell lymphoma leukemia, peripheral T-cell lymphoma, not otherwise specified,
+  and mantle cell lymphoma. Our analysis was extended to other types of lymphoma including
+  marginal zone lymphoma, follicular lymphoma and diffuse large B-cell lymphoma. To
+  determine the presence of clonal heterogeneity, 332 cases were examined using array
+  comparative genomic hybridization analysis. Results showed that incidence of clonal
+  heterogeneity varied from 25 to 69 among different types of lymphoma. Survival analysis
+  revealed that mantle cell lymphoma and diffuse large B-cell lymphoma with clonal
+  heterogeneity showed significantly poorer prognosis, and that clonal heterogeneity
+  was confirmed as an independent predictor of poor prognosis for both types of lymphoma.
+  Interestingly, 8q24.1 MYC gain, 9p21.3 CDKN2A 2B loss and 17p13 TP53, ATP1B2, SAT2,
+  SHBG loss were recurrent genomic lesions among various types of lymphoma with clonal
+  heterogeneity, suggesting at least in part that alterations of these genes may play
+  a role in clonal heterogeneity.
+authors: Suguro M, Yoshida N, Umino A, Kato H, Tagawa H, Nakagawa M, Fukuhara N, Karnan
+  S, Takeuchi I, Hocking TD, Arita K, Karube K, Tsuzuki S, Nakamura S, Kinoshita T
+  and Seto M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 332
+  samples_acgh: 332
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24815991
+- geo:GSE54303
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Sci (2014) 105: 897-904.'
+label: 'Suguro et al. (2014): Clonal heterogeneity of lymphoid malignancies correlates
+  with poor prognosis.'
+notes: ~
+pmid: 24815991
+title: Clonal heterogeneity of lymphoid malignancies correlates with poor prognosis.
+year: 2014

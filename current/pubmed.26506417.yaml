@@ -1,0 +1,55 @@
+---
+abstract: Low grade serous ovarian tumours are a rare and under-characterised histological
+  subtype of epithelial ovarian tumours, with little known of the molecular drivers
+  and facilitators of tumorigenesis beyond classic oncogenic RAS/RAF mutations. With
+  a move towards targeted therapies due to the chemoresistant nature of this subtype,
+  it is pertinent to more fully characterise the genetic events driving this tumour
+  type, some of which may influence response to therapy and/or development of drug
+  resistance. We performed genome-wide high-resolution genomic copy number analysis
+  (Affymetrix SNP6.0) and mutation hotspot screening (KRAS, BRAF, NRAS, HRAS, ERBB2
+  and TP53) to compare a large cohort of ovarian serous borderline tumours (SBTs,
+  n = 57) with low grade serous carcinomas (LGSCs, n = 19). Whole exome sequencing
+  was performed for 13 SBTs, nine LGSCs and one mixed low/high grade carcinoma. Copy
+  number aberrations were detected in 61% (35/57) of SBTs, compared to 100% (19/19)
+  of LGSCs. Oncogenic RAS/RAF/ERBB2 mutations were detected in 82.5% (47/57) of SBTs
+  compared to 63% (12/19) of LGSCs, with NRAS mutations detected only in LGSC. Some
+  copy number aberrations appeared to be enriched in LGSC, most significantly loss
+  of 9p and homozygous deletions of the CDKN2A/2B locus. Exome sequencing identified
+  BRAF, KRAS, NRAS, USP9X and EIF1AX as the most frequently mutated genes. We have
+  identified markers of progression from borderline to LGSC and novel drivers of LGSC.
+  USP9X and EIF1AX have both been linked to regulation of mTOR, suggesting that mTOR
+  inhibitors may be a key companion treatment for targeted therapy trials of MEK and
+  RAF inhibitors.
+authors: Hunter SM, Anglesio MS, Ryland GL, Sharma R, Chiew YE, Rowley SM, Doyle MA,
+  Li J, Gilks CB, Moss P, Allan PE, Stephens AN, Huntsman DG, deFazio A, Bowtell DD,
+  Gorringe KL and Campbell IG
+contact:
+  email: ian.campbell@petermac.org
+  name: Ian G. Campbell
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 23
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26506417
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Oncotarget 6(35), 2015
+label: 'Hunter SM et al. (2015): '
+notes: ~
+pmid: 26506417
+title: Molecular profiling of low grade serous ovarian tumours identifies novel candidate
+  driver genes.
+year: 2015

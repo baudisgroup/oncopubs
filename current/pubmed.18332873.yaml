@@ -1,0 +1,54 @@
+---
+abstract: Adenoid cystic carcinoma ACC is a rare but distinctive tumor. Oligonucleotide
+  array comparative genomic hybridization has been applied for cataloging genomic
+  copy number alterations CNAs in 17 frozen salivary or bronchial tumors. Only four
+  whole chromosome CNAs were found, and most cases had 2-4 segmental CNAs. No high
+  level amplification was observed. There were recurrent gains at 7p15.2, 17q21-25,
+  and 22q11-13, and recurrent losses at 1p35, 6q22-25, 8q12-13, 9p21, 12q12-13, and
+  17p11-13. The minimal region of gain at 7p15.2 contained the HOXA cluster. The minimal
+  common regions of deletions contained the CDKN2A CDKN2B, TP53, and LIMA1 tumor suppressor
+  genes. The recurrent deletion at 8q12.3-13.1 contained no straightforward tumor
+  suppressor gene, but the MIRN124A2 microRNA gene, whose product regulates MMP2 and
+  CDK6. Among unique CNAs, gains harbored CCND1, KIT PDGFRA KDR, MDM2, and JAK2. The
+  CNAs involving CCND1, MDM2, KIT, CDKN2A 2B, and TP53 were validated by FISH and
+  or multiplex ligation-dependent probe amplification. Although most tumors overexpressed
+  cyclin D1 compared with surrounding glands, the only case to overexpress MDM2 had
+  the corresponding CNA. In conclusion, our report suggests that ACC is characterized
+  by a relatively low level of structural complexity. Array CGH and immunohistochemical
+  data implicate MDM2 as the oncogene targeted at 12q15. The gain at 4q12 warrants
+  further exploration as it contains a cluster of receptor kinase genes KIT PDGFRA
+  KDR , whose products can be responsive to specific therapies.
+authors: Bernheim A, Toujani S, Saulnier P, Robert T, Casiraghi O, Validire P, Temam
+  S, Menard P, Dessen P and Fouret P.
+contact:
+  email: pierre.fouret@igr.fr
+  name: Pierre Fouret
+counts:
+  biosamples: 17
+  samples_acgh: 17
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18332873
+- arrayexpress:E-TABM-267
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: Europe
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: 'Lab Invest 88, 5 (2008): 464-73.'
+label: 'Bernheim et al. (2008): High-Resolution Array Comparative Genomic Hybridization
+  Analysis of Human Bronchial and Salivary ...'
+notes: ~
+pmid: 18332873
+title: High-Resolution Array Comparative Genomic Hybridization Analysis of Human Bronchial
+  and Salivary Adenoid Cystic Carcinoma.
+year: 2008

@@ -1,0 +1,43 @@
+---
+abstract: Spindle cell lesions of the breast represent an interesting diagnostic challenge
+  as they comprise a wide range of tumours that are rare. Differentiating dermatofibrosarcoma
+  protuberans DFSP from other dermatofibromas using CD34 immunohistochemistry alone
+  is difficult therefore, fluorescence in situ hybridisation FISH analysis is often
+  employed to identify typical COL1A1-PDGFB fusion or gene rearrangement. Although
+  molecular confirmation of diagnosis is unnecessary in the majority of DFSP cases,
+  the detection of chromosomal rearrangement is valuable in tumours that show unusual
+  clinicopathological features as in this study the authors report a case of DFSP
+  of breast that did not show any typical known molecular features.
+authors: Takano EA, Rogers TM, Young RJ, Rayoo M, Kostos P, Ferguson R, Campbell IG,
+  Debiec-Rychter M and Fox SB.
+contact:
+  email: elena.takano@petermac.org
+  name: Elena Takano
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22523339
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: J Clin Pathol (2012)
+label: 'Takano et al. (2012): The Molecular Characterisation of Unusual Subcutaneous
+  Spindle Cell Lesion of Breast.'
+notes: ~
+pmid: 22523339
+title: The Molecular Characterisation of Unusual Subcutaneous Spindle Cell Lesion
+  of Breast.
+year: 2012

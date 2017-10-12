@@ -1,0 +1,57 @@
+---
+abstract: Pancreatic carcinomas display highly complex chromosomal abnormalities,
+  including many structural and numerical aberrations. There is ample evidence indicating
+  that some of these abnormalities, such as recurrent amplifications and homozygous
+  deletions, contribute to tumorigenesis by altering expression levels of critical
+  oncogenes and tumor suppressor genes. To increase the understanding of gene copy
+  number changes in pancreatic carcinomas and to identify key amplification deletion
+  targets, we applied genome-wide array-based comparative genomic hybridization to
+  31 pancreatic carcinoma cell lines. Two different microarrays were used, one containing
+  3,565 fluorescence in situ hybridization-verified bacterial artificial chromosome
+  clones and one containing 25,468 cDNA clones representing 17,494 UniGene clusters.
+  Overall, the analyses revealed a high genomic complexity, with several copy number
+  changes detected in each case. Specifically, 60 amplicons at 32 different locations
+  were identified, most frequently located within 8q 8 cases , 12p 7 cases , 7q 5
+  cases , 18q 5 cases , 19q 5 cases , 6p 4 cases , and 8p 4 cases . Amplifications
+  of 8q and 12p were mainly clustered at 8q23-24 and 12p11-12, respectively, whereas
+  amplifications on other chromosome arms were more dispersed. Furthermore, our analyses
+  identified several novel homozygously deleted segments located to 9p24, 9p21, 9q32,
+  10p12, 10q22, 12q24, and 18q23. The individual complexity and aberration patterns
+  varied substantially among cases, i.e., some cell lines were characterized mainly
+  by high-level amplifications, whereas others showed primarily whole-arm imbalances
+  and homozygous deletions. The described amplification and deletion targets are likely
+  to contain genes important in pancreatic tumorigenesis.
+authors: Heidenblad M, Schoenmakers EF, Jonson T, Gorunova L, Veltman JA, van Kessel
+  AG and Hoglund M.
+contact:
+  email: markus.heidenblad@klingen.lu.se
+  name: Markus Heidenblad
+counts:
+  biosamples: 31
+  samples_acgh: 31
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15126341
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Cancer Res 64, 9 (2004): 3052-59.'
+label: 'Heidenblad et al. (2004): Genome-Wide Array-Based Comparative Genomic Hybridization
+  Reveals Multiple Amplification ...'
+notes: ~
+pmid: 15126341
+title: Genome-Wide Array-Based Comparative Genomic Hybridization Reveals Multiple
+  Amplification Targets and Novel Homozygous Deletions in Pancreatic Carcinoma Cell
+  Lines.
+year: 2004

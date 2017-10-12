@@ -1,0 +1,37 @@
+---
+abstract: Peripheral T-cell lymphoma, unspecified PTCL-U comprises histopathologically
+  and clinically heterogeneous groups. The purpose of this study was to identify subgroups
+  with distinct genetic, histopathologic, and prognostic features.
+authors: Nakagawa M, Nakagawa-Oshiro A, Karnan S, Tagawa H, Utsunomiya A, Nakamura
+  S, Takeuchi I, Ohshima K and Seto M.
+contact:
+  email: mseto@aichi-cc.jp
+  name: Masao Seto
+counts:
+  biosamples: 61
+  samples_acgh: 61
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19118030
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Clin Cancer Res 15, 1 (2009): 30-38.'
+label: 'Nakagawa et al. (2009): Array Comparative Genomic Hybridization Analysis of
+  Ptcl-U Reveals a Distinct Subgroup With ...'
+notes: ~
+pmid: 19118030
+title: Array Comparative Genomic Hybridization Analysis of Ptcl-U Reveals a Distinct
+  Subgroup With Genetic Alterations Similar to Lymphoma-Type Adult T-Cell Leukemia/Lymphoma.
+year: 2009

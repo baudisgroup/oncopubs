@@ -1,0 +1,36 @@
+---
+abstract: Runs of homozygosity (ROH) represents extended length of homozygotes on
+  a long genomic distance. In oncology, it is known as loss of heterozygosity (LOH)
+  if identified exclusively in cancer cell rather than in matched control cell. Studies
+  have identified several genomic regions which show consistent ROH in different kinds
+  of carcinoma. To query whether this consistency can be observed on broader spectrum,
+  both in more cancer types and in wider genomic regions, we investigated ROH patterns
+  in the National Cancer Institute 60 cancer cell line panel (NCI-60) and HapMap Caucasian
+  healthy trio families. Using results from Affymetrix 500 K SNP arrays, we report
+  a genome wide significant association of ROH regions between the NCI-60 and HapMap
+  samples, with much a higher level of ROH (11 fold) in the cancer cell lines. Analysis
+  shows that more severe ROH found in cancer cells appears to be the extension of
+  existing ROH in healthy state. In the HapMap trios, the adult subgroup had a slightly
+  but significantly higher level (1.02 fold) of ROH than did the young subgroup. For
+  several ROH regions we observed the co-occurrence of fragile sites (FRAs). However,
+  FRA on the genome wide level does not show a clear relationship with ROH regions.
+authors: Ruan X, Kocher JP, Pommier Y, Liu H and Reinhold WC
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22347499
+- geo:GSE32264
+journal: PLoS ONE 7(2), 2012
+label: 'Ruan X et al. (2012): '
+notes: Affymetrix 500 K SNP array analysis on 60 cancer cell lines
+pmid: 22347499
+title: Mass homozygotes accumulation in the NCI-60 cancer cell lines as compared to
+  HapMap Trios, and relation to fragile site location.
+year: 2012

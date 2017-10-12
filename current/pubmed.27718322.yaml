@@ -1,0 +1,41 @@
+---
+abstract: A cerebellar pilocytic astrocytoma (PA) in a child recurred first with a
+  PA histology and then with features of a ganglioglioma (GG). Molecular genetic analyses
+  of the tumors confirmed a BRAF V600E mutation in all. They also all harbored a T202M
+  mutation in ERK1, a kinase downstream of BRAF that is implicated in glial versus
+  neuronal differentiation. The GG sample contained several variants that were not
+  present in the PA samples; in particular, it had a truncating mutation in MAP2.
+  These findings not only underscore the role of BRAF as oncogenic driver but also
+  suggest that other genes may influence tumor morphology.
+authors: Fiset PO, Fontebasso AM, De Jay N, Gayden T, Nikbakht H, Majewski J, Jabado
+  N, Albrecht S.
+contact:
+  email: steffen.albrecht@hotmail.com
+  name: Steffen Albrecht
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 4
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27718322
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: North America
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: Pediatr Blood Cancer, 2016
+label: ' (2016): '
+notes: ~
+pmid: 27718322
+title: Longitudinal mutational analysis of a cerebellar pilocytic astrocytoma recurring
+  as a ganglioglioma.
+year: 2016

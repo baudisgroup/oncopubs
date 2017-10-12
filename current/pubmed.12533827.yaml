@@ -1,0 +1,48 @@
+---
+abstract: Hyperplasia of usual type HUT is part of the spectrum of benign proliferative
+  disease in the breast and confers an increased risk of developing invasive cancer.
+  Its role as a putative precursor of invasive ductal carcinomas in the breast is,
+  however, controversial. HUT is occasionally seen bilaterally but it is not clear
+  whether there is a genetic predisposition to the process. This study has analysed
+  14 cases of bilateral HUT in the breast 28 independent lesions by comparative genomic
+  hybridization CGH analysis to define DNA copy number changes and to investigate
+  any commonality in these genetic alterations. The mean number of alterations seen
+  was 1.6 46 28 in all lesions, with common losses at chromosomes 1p, 16p, 17q, and
+  22q. Bilaterally, only five alterations were seen in common across both lesions
+  in both breasts, but no single locus was altered preferentially. These data indicate
+  that a proportion of HUT in the breast are indeed clonal, neoplastic proliferations
+  which exhibit genetic alterations in common with invasive breast cancer, albeit
+  at very low levels. The limited data from these experiments do not reveal a specific
+  predisposition locus.
+authors: Jones C, Merrett S, Thomas VA, Barker TH and Lakhani SR.
+contact:
+  email: s.lakhani@uq.edu.au
+  name: Sunil R. Lakhani
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12533827
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'J Pathol 199, 2 (2003): 152-56.'
+label: 'Jones et al. (2003): Comparative Genomic Hybridization Analysis of Bilateral
+  Hyperplasia of Usual Type of the ...'
+notes: ~
+pmid: 12533827
+title: Comparative Genomic Hybridization Analysis of Bilateral Hyperplasia of Usual
+  Type of the Breast.
+year: 2003

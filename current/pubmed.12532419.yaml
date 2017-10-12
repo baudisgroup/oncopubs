@@ -1,0 +1,55 @@
+---
+abstract: The coding region determinant binding protein CRD-BP was isolated by virtue
+  of its high affinity to the c-myc mRNA coding region stability determinant and shown
+  to shield this message from nucleolytic attack, prolonging its half-life. CRD-BP
+  is normally expressed during fetal life but is also activated de novo in tumors.
+  Considering that aberrant CRD-BP expression may represent an additional mechanism
+  interfering with c-myc regulation, we screened 118 primary breast carcinomas for
+  CRD-BP expression, 60 of which had also been analyzed by comparative genomic hybridization
+  CGH . Copy number gains encompassing 8q24, the chromosome band that contains the
+  c-myc locus, were detected in 48.3 29 60 of tumors, whereas gains involving band
+  17q21, which contains the CRD-BP locus, were observed in 18.3 11 60 of tumors. CRD-BP
+  expression was detected in 58.5 69 118 of tumors, implying mechanisms of activation
+  alternative to gene amplification. Altogether, some 75 of the tumors had alterations
+  pertaining to c-myc since they either harbored 8q24 gains and or expressed CRD-BP.
+  Significant associations were detected between CRD-BP expression and the absence
+  of estrogen receptors p 0.005 and between the presence of 8q24 gains and an increased
+  number of genomic changes as measured by CGH p 0.0017 . Tumors were divided into
+  4 groups according to CRD-BP expression and 8q24 gains. The odds for tumors having
+  both characteristics to be classified as poorly differentiated grade III vs. grade
+  I and II were 19.6 times the corresponding odds for tumors neither expressing CRD-BP
+  nor harboring 8q24 gains. For tumors either harboring 8q24 gains only or expressing
+  CRD-BP alone, the corresponding odds were 6.4 and 3, respectively.
+authors: Ioannidis P, Mahaira L, Papadopoulou A, Teixeira MR, Heim S, Andersen JA,
+  Evangelou E, Dafni U, Pandis N and Trangas T.
+contact:
+  email: sverre.heim@labmed.uio.no
+  name: Sverre Heim
+counts:
+  biosamples: 60
+  samples_acgh: 0
+  samples_ccgh: 60
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12532419
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.72
+    - 37.98
+    type: Point
+  info:
+    city: Athens
+    continent: Europe
+    country: Greece
+    label: Athens, Greece, Europe
+    precision: city
+journal: 'Int J Cancer 104, 1 (2003): 54-59.'
+label: 'Ioannidis et al. (2003): 8q24 Copy Number Gains and Expression of the C-Myc
+  Mrna Stabilizing Protein Crd-Bp in Primary ...'
+notes: ~
+pmid: 12532419
+title: 8q24 Copy Number Gains and Expression of the C-Myc Mrna Stabilizing Protein
+  Crd-Bp in Primary Breast Carcinomas.
+year: 2003

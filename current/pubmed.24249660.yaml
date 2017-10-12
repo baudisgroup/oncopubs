@@ -1,0 +1,44 @@
+---
+abstract: Chronic lymphocytic leukemia lymphoma CLL is an extremely rare disease during
+  childhood. We report a 16-year-old female who presented with lymphadenopathies and
+  she was diagnosed as T cell lymphoblastic lymphoma. Her chemotherapy response was
+  minimal and clinical findings were unusual. Therefore, her biopsy specimen was re-examined
+  and diagnosis was changed to CLL. Chemotherapy protocol including fludarabine, cyclophosphamide,
+  rituximab was administrated and good response was observed. In our patient deletion
+  at 1q21.2 region that includes aryl hydrocarbon receptor nuclear translocator ARNT
+  gene was detected via comparative genomic hybridization method. ARNT gene deletion
+  may be a new mutation in chronic lymphocytic leukemia development. Pediatr Blood
+  Cancer 2013 Wiley Periodicals, Inc.
+authors: Demir HA, Bayhan T, Kurtulan O, Karaku   E, Emir S, Ozy  r  k D and Ceylaner
+  S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24249660
+geo_data:
+  geo_json:
+    coordinates:
+    - 32.85
+    - 39.92
+    type: Point
+  info:
+    city: Ankara
+    continent: Europe
+    country: Turkey
+    label: Ankara, Turkey, Europe
+    precision: city
+journal: Pediatric blood &amp; cancer (2013).
+label: 'Demir et al. (2013): Chronic lymphocytic leukemia in a child: A challenging
+  diagnosis in pediatric oncology ...'
+notes: ~
+pmid: 24249660
+title: 'Chronic lymphocytic leukemia in a child: A challenging diagnosis in pediatric
+  oncology practice.'
+year: 2013

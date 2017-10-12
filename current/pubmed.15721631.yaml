@@ -1,0 +1,44 @@
+---
+abstract: Little is known of the molecular events underlying the genesis of pancreatoblastoma
+  tumors in the pediatric population. Such studies have been limited by the rare nature
+  of the disease, infrequent reports detailing cytogenetic alterations, and the lack
+  of availability of cell lines for biologic studies. We present the isolation of
+  a cell line from a 14-year-old boy with malignant pancreatoblastoma, and its cytogenetic
+  characterization using spectral karyotyping and comparative genomic hybridization
+  CGH . The cytogenetic analysis revealed an exceedingly complex cytogenetic karyotype,
+  with 33 aberrant chromosomes. CGH revealed multiple regions of chromosomal loss
+  and gain, including a region on 8q gained in adult pancreatic cancers, one that
+  frequently contains the MYC oncogene.
+authors: Barenboim-Stapleton L, Yang X, Tsokos M, Wigginton JM, Padilla-Nash H, Ried
+  T and Thiele CJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15721631
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 157, 2 (2005): 109-17.'
+label: 'Barenboim-Stapleton et al. (2005): Pediatric Pancreatoblastoma: Histopathologic
+  and Cytogenetic Characterization of ...'
+notes: ~
+pmid: 15721631
+title: 'Pediatric Pancreatoblastoma: Histopathologic and Cytogenetic Characterization
+  of Tumor and Derived Cell Line.'
+year: 2005

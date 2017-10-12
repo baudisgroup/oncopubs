@@ -1,0 +1,39 @@
+---
+abstract: Medulloblastoma is the most common malignant brain tumor of childhood. Improvements
+  in clinical outcome require a better understanding of the genetic alterations to
+  identify clinically significant biological factors and to stratify patients accordingly.
+  In the present study, we applied cytogenetic characterization to guide the identification
+  of biologically significant genes from gene expression microarray profiles of medulloblastoma.
+authors: De Bortoli M, Castellino RC, Lu XY, Deyo J, Sturla LM, Adesina AM, Perlaky
+  L, Pomeroy SL, Lau CC, Man TK, Rao PH and Kim JY.
+contact:
+  email: jyhkim@txccc.org
+  name: John Y.H. Kim
+counts:
+  biosamples: 71
+  samples_acgh: 0
+  samples_ccgh: 71
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16968546
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'BMC Cancer 6 (2006): 223.'
+label: 'De Bortoli et al. (2006): Medulloblastoma Outcome is Adversely Associated
+  With Overexpression of Eef1D, Rpl30, and Rps20 ...'
+notes: ~
+pmid: 16968546
+title: Medulloblastoma Outcome is Adversely Associated With Overexpression of Eef1D,
+  Rpl30, and Rps20 on the Long Arm of Chromosome 8.
+year: 2006

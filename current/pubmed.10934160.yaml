@@ -1,0 +1,51 @@
+---
+abstract: In this study we have characterized chromosomal imbalances in a panel of
+  29 parathyroid carcinomas using comparative genomic hybridization CGH . The most
+  frequently detected imbalances were losses of 1p and 13q that were seen in amp gt
+  40 of the cases. The commonly occurring regions of loss were assigned to 1p21-p22
+  41 , 13q14-q31 41 , 9p21-pter 28 , 6q22-q24 24 , and 4q24 21 , whereas gains preferentially
+  involved 19p 45 , Xc-q13 28 , 9q33-qter 24 , 1q31-q32 21 and 16p 21 . The distribution
+  of CGH alterations supports the idea of a progression of genetic events in the development
+  of parathyroid carcinoma, where gains of Xq and 1q would represent relatively early
+  events that are followed by loss of 13q, 9p, and 1p, and by gain of 19p. A sex-dependent
+  distribution was also evident for two of the common alterations with preferential
+  gain of 1q in female cases and of Xq in male cases. When the CGH profiles for the
+  29 carcinomas were compared with our previously published results for sporadic parathyroid
+  adenomas, highly significant differences were revealed. Loss of 1p, 4q, and 13q
+  as well as gains of 1q, 9q, 16p, 19p and Xq were significantly more common in the
+  carcinomas than in the adenomas. In contrast, loss of the 11q13 region, which is
+  the most common CGH abnormality in sporadic adenomas, was not detected in any of
+  the carcinomas. Taken together, the findings identify several candidate locations
+  for tumor suppressor genes and oncogenes that are potentially involved in parathyroid
+  carcinogenesis.
+authors: Kytola S, Farnebo F, Obara T, Isola J, Grimelius L, Farnebo LO, Sandelin
+  K and Larsson C.
+contact:
+  email: catharina.larsson@cmm.ki.se
+  name: Catharina Larsson
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10934160
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Am J Pathol 157, 2 (2000): 579-86.'
+label: 'Kytola et al. (2000): Patterns of Chromosomal Imbalances in Parathyroid Carcinomas.'
+notes: ~
+pmid: 10934160
+title: Patterns of Chromosomal Imbalances in Parathyroid Carcinomas.
+year: 2000

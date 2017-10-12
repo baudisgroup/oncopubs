@@ -1,0 +1,58 @@
+---
+abstract: Glial tumors are the most common tumors of the nervous system, affecting
+  individuals at any age. Since understanding of the molecular pathologies underlying
+  human gliomas is still very poor, the treatment and therefore prognosis of this
+  malignancy could not yet be improved. In order to determine whether different glioblastoma-associated
+  genomic aberrations may serve as prognostic markers in combination with histopathological
+  findings, 20 primary glioblastoma multiforme tumors were screened by comparative
+  genomic hybridization, and the results were compared with histopathological and
+  clinical features. All tumors showed genomic copy aberrations detected by comparative
+  genomic hybridization. Regional and numerical increases in chromosome 7 copy number
+  were the most frequently seen abnormality 10 20 tumors , followed by loss of chromosome
+  10 8 20 . Both of these aberrations were associated with shorter surveillance time.
+  Chromosome 12q amplification was detected in seven tumors. Loss of 17p, 1p, and
+  19q in combination was seen in three cases. One of them was a giant cell GBM, whereas
+  the remaining two cases were still alive. Combination of chromosome 1p and 19q deletions
+  was also seen in a case with long surveillance. According to the preliminary findings
+  of this study, in addition to the EGFR gene, amplification of other genes on chromosome
+  7 and the deletion of PTEN gene and other cancer-related genes on chromosome 10
+  appeared important to the development of glioblastoma multiforme and were associated
+  with poor prognosis, whereas the combination of chromosome 1p and 19q deletions
+  seems to be an informative molecular marker for better prognosis. The clinical features
+  and genetic alterations of primary and secondary glioblastoma multiforme should
+  be compared in large series to clarify the effective prognostic markers and further
+  molecular analyses focused on chromosomes 7 and 10 will be very helpful for understanding
+  the molecular mechanisms underlying the progression of glioblastoma.
+authors: Arslantas A, Artan S, Oner U, Muslumanoglu H, Durmaz R, Cosan E, Atasoy MA,
+  Basaran N, and Tel E.
+contact:
+  email: aali@ogu.edu.tr
+  name: Ali Arslantas
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12845540
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.52
+    - 39.78
+    type: Point
+  info:
+    city: Eskisehir
+    continent: Europe
+    country: Turkey
+    label: Eskisehir, Turkey, Europe
+    precision: city
+journal: Neurosurg Rev, 27(1) 2004, 58-64.
+label: 'Arslantas et al. (2004): The importance of genomic copy number changes in
+  the prognosis of glioblastoma ...'
+notes: ~
+pmid: 12845540
+title: The importance of genomic copy number changes in the prognosis of glioblastoma
+  multiforme.
+year: 2004

@@ -1,0 +1,56 @@
+---
+abstract: Deletion of the distal region of chromosome 1 frequently occurs in a variety
+  of human cancers, including aggressive neuroblastoma. Previously, we have identified
+  a 500-kb homozygously deleted region at chromosome 1p36.2 harboring at least six
+  genes in a neuroblastoma-derived cell line NB1 C201. Among them, only KIF1Bbeta,
+  a member of the kinesin superfamily proteins, induced apoptotic cell death. These
+  results prompted us to address whether KIF1Bbeta could be a tumor suppressor gene
+  mapped to chromosome 1p36 in neuroblastoma. Hemizygous deletion of KIF1Bbeta in
+  primary neuroblastomas was significantly correlated with advanced stages p 0.0013
+  and MYCN amplification p lt 0.001 , whereas the mutation rate of the KIF1Bbeta gene
+  was infrequent. Although KIF1Bbeta allelic loss was significantly associated with
+  a decrease in KIF1Bbeta mRNA levels, its promoter region was not hypermethylated.
+  Additionally, expression of KIF1Bbeta was markedly down-regulated in advanced stages
+  of tumors p lt 0.001 . Enforced expression of KIF1Bbeta resulted in an induction
+  of apoptotic cell death in association with an increase in the number of cells entered
+  into the G2 M phase of the cell cycle, whereas its knockdown by either short interfering
+  RNA or by a genetic suppressor element led to an accelerated cell proliferation
+  or enhanced tumor formation in nude mice, respectively. Furthermore, we demonstrated
+  that the rod region unique to KIF1Bbeta is critical for the induction of apoptotic
+  cell death in a p53-independent manner. Thus, KIF1Bbeta may act as a haploinsufficient
+  tumor suppressor, and its allelic loss may be involved in the pathogenesis of neuroblastoma
+  and other cancers.
+authors: Munirajan AK, Ando K, Mukai A, Takahashi M, Suenaga Y, Ohira M, Koda T, Hirota
+  T, Ozaki T and Nakagawara A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 236
+  samples_acgh: 236
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18614535
+- geo:GSE5784
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: Asia
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: 'J Biol Chem (2008) 283: 24426-24434.'
+label: 'Munirajan et al. (2008): KIF1Bbeta functions as a haploinsufficient tumor
+  suppressor gene mapped to chromosome 1p36.2 by ...'
+notes: ~
+pmid: 18614535
+title: KIF1Bbeta functions as a haploinsufficient tumor suppressor gene mapped to
+  chromosome 1p36.2 by inducing apoptotic cell death.
+year: 2008

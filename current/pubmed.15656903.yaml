@@ -1,0 +1,41 @@
+---
+abstract: Conventional Comparative Genomic Hybridization CGH has been widely used
+  for detecting copy number alterations in cancer and for identifying regions containing
+  candidate tumor responsible genes. Recently, several studies have shown the utility
+  of cDNA microarray CGH for studing gene copy changes in various types of tumors.
+  However, no such studies on T-cell lymphomas have been performed. To date T-cell
+  lymphomas analyzed by the use of chromosome CGH have revealed only slight copy number
+  alterations and not gene amplifications.
+authors: Melendez B, Martinez-Delgado B, Cuadros M, Fernandez V, Diaz-Uriarte R and
+  Benitez J.
+contact:
+  email: jbenitez@cnio.es
+  name: Javier Benitez
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15656903
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Mol Cancer 4, 1 (2005): 5.'
+label: 'Melendez et al. (2005): Identification of Amplified and Highly Expressed Genes
+  in Amplicons of the T-Cell Line Hut78 ...'
+notes: ~
+pmid: 15656903
+title: Identification of Amplified and Highly Expressed Genes in Amplicons of the
+  T-Cell Line Hut78 Detected By Cdna Microarray Cgh.
+year: 2005

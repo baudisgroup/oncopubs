@@ -1,0 +1,47 @@
+---
+abstract: Children with medulloblastomas show diverse clinical courses even when receiving
+  similar treatments. In this study, comparative genomic hybridization, which allows
+  the detection of losses and gains in DNA copy number along the entire genome, was
+  used to investigate the genetic alterations in 6 cases of medulloblastoma with adequate
+  follow-up periods and similar treatments, and in a medulloblastoma cell line. In
+  the cell line, the number of aberrations was the highest of all samples examined.
+  In 6 clinical samples, frequently altered regions more than 3 cases observed in
+  all medulloblastomas were gains of 7q and 17q 4 cases each , and of 2p, 2q and 7p
+  3 cases each . High-grade amplification was observed at the loci 8q, 17q and 21q,
+  each in a single case. The case with the most favorable outcome 9 years after surgery
+  had the smallest number of chromosomal changes among the cases examined. Our results
+  may indicate that further acquisition of genetic alterations detected by comparative
+  genomic hybridization are associated with unfavorable prognosis in patients with
+  medulloblastomas.
+authors: Nishizaki T, Harada K, Kubota H, Ozaki S, Ito H and Sasaki K.
+contact:
+  email: nishi-ygc@umin.u-tokyo.ac.jp
+  name: Takafumi Nishizaki
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10545819
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Pediatr Neurosurg 31, 1 (1999): 27-32.'
+label: 'Nishizaki et al. (1999): Genetic Alterations in Pediatric Medulloblastomas
+  Detected By Comparative Genomic ...'
+notes: ~
+pmid: 10545819
+title: Genetic Alterations in Pediatric Medulloblastomas Detected By Comparative Genomic
+  Hybridization.
+year: 1999

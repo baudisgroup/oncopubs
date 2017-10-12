@@ -1,0 +1,39 @@
+---
+abstract: Barretts oesophagus is a pre-neoplastic lesion, which develops as a complication
+  of chronic gastro-oesophageal reflux disease and predisposes the patient to oesophageal
+  adenocarcinoma. Our aim was to characterize karyotypic changes that may occur during
+  the progression of Barretts metaplasia through low-grade dysplasia and high-grade
+  dysplasia to adenocarcinoma.
+authors: Croft J, Parry EM, Jenkins GJ, Doak SH, Baxter JN, Griffiths AP, Brown TH
+  and Parry JM.
+contact:
+  email: jmp@swan.ac.uk
+  name: James M. Parry
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12439111
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.18
+    - 51.48
+    type: Point
+  info:
+    city: Cardiff
+    continent: Europe
+    country: United Kingdom
+    label: Cardiff, United Kingdom, Europe
+    precision: city
+journal: 'Eur J Gastroenterol Hepatol 14, 11 (2002): 1179-86.'
+label: 'Croft et al. (2002): Analysis of the Premalignant Stages of Barretts Oesophagus
+  Through to Adenocarcinoma By Comparative ...'
+notes: Only arm specific data is presented.
+pmid: 12439111
+title: Analysis of the Premalignant Stages of Barretts Oesophagus Through to Adenocarcinoma
+  By Comparative Genomic Hybridization.
+year: 2002

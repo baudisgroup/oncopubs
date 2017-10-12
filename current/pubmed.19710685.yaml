@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: van Kester MS, Tensen CP, Vermeer MH, Dijkman R, Mulder AA, Szuhai K, Willemze
+  R and van Doorn R
+contact:
+  email: R.van_Doorn@lumc.nl
+  name: Remco van Doorn
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19710685
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: J. Invest. Dermatol. 130(2), 2010
+label: 'van Kester et al. (): Cutaneous anaplastic large cell lymphoma and peripheral
+  T-cell lymphoma NOS show distinct ...'
+notes: ~
+pmid: 19710685
+title: Cutaneous anaplastic large cell lymphoma and peripheral T-cell lymphoma NOS
+  show distinct chromosomal alterations and differential expression of chemokine receptors
+  and apoptosis regulators.
+year: 0

@@ -1,0 +1,40 @@
+---
+abstract: We analyzed the mutational status of the transforming growth factor-beta
+  type II receptor TGF beta RII , BAX, and PTEN MMAC1 genes as well as microsatellite
+  instability MI in 29 consecutive cases of endometrial carcinoma operated on at the
+  Cancer Institute Hospital Tokyo, Japan . To identify chromosomal loss associated
+  with significant somatic mutations, we conducted comparative genomic hybridization
+  CGH analysis.
+authors: Hirai Y, Tanaka N, Furuta R, Kawaguchi T, Sakamoto M, Shirahama S and Noda
+  T.
+contact:
+  email: yhirai@jfcr.or.jp
+  name: Y. Hirai
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11585417
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.72
+    - 35.73
+    type: Point
+  info:
+    city: Toshima
+    continent: ~
+    country: Japan
+    label: Toshima, Japan
+    precision: city [needs verification]
+journal: 'Gynecol Oncol 83, 1 (2001): 81-88.'
+label: 'Hirai et al. (2001): Somatic Mutations of the Pten/Nmac1 Gene Associated With
+  Frequent Chromosomal Loss Detected Using ...'
+notes: ~
+pmid: 11585417
+title: Somatic Mutations of the Pten/Nmac1 Gene Associated With Frequent Chromosomal
+  Loss Detected Using Comparative Genomic Hybridization in Endometrial Cancer.
+year: 2001

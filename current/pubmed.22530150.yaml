@@ -1,0 +1,51 @@
+---
+abstract: 'To understand cancer progression, it is desirable to study the earliest
+  stages of its development, which are often microscopic lesions. Array comparative
+  genomic hybridization aCGH is a valuable high-throughput molecular approach for
+  discovering DNA copy number changes however, it requires a relatively large amount
+  of DNA, which is difficult to obtain from microdissected lesions. Whole genome amplification
+  WGA methods were developed to increase DNA quantity however their reproducibility,
+  fidelity, and suitability for formalin-fixed paraffin-embedded FFPE samples are
+  questioned. Using aCGH analysis, we compared two widely used approaches for WGA:
+  single cell comparative genomic hybridization protocol SCOMP and degenerate oligonucleotide
+  primed PCR DOP-PCR . Cancer cell line and microdissected FFPE breast cancer DNA
+  samples were amplified by the two WGA methods and subjected to aCGH. The genomic
+  profiles of amplified DNA were compared with those of non-amplified controls by
+  four analytic methods and validated by quantitative PCR Q-PCR . We found that SCOMP-amplified
+  samples had close similarity to non-amplified controls with concordance rates close
+  to those of reference tests, while DOP-amplified samples had a statistically significant
+  amount of changes. SCOMP is able to amplify small amounts of DNA extracted from
+  FFPE samples and provides quality of aCGH data similar to non-amplified samples.'
+authors: Arneson N, Moreno J, Iakovlev V, Ghazani A, Warren K, McCready D, Jurisica
+  I and Done SJ.
+contact:
+  email: sdone@uhnres.utoronto.ca
+  name: Susan Done
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22530150
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'ISRN Oncol 2012 (2012): 710692.'
+label: 'Arneson et al. (2012): Comparison of Whole Genome Amplification Methods for
+  Analysis of DNA Extracted From ...'
+notes: ~
+pmid: 22530150
+title: Comparison of Whole Genome Amplification Methods for Analysis of DNA Extracted
+  From Microdissected Early Breast Lesions in Formalin-Fixed Paraffin-Embedded Tissue.
+year: 2012

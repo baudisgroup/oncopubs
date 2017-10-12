@@ -1,0 +1,37 @@
+---
+abstract: Enteropathy-type T-cell lymphoma ETL is an aggressive extranodal T-cell
+  non-Hodgkin lymphoma assumed to arise in the setting of celiac disease.
+authors: De leeuw RJ, Zettl A, Klinker E, Haralambieva E, Trottier M, Chari R, Ge
+  Y, Gascoyne RD, Chott A, Muller-Hermelink HK and Lam WL.
+contact:
+  email: rdeleeuw@bccrc.ca
+  name: Ronald J. deLeeuw
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17484883
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Gastroenterology 132, 5 (2007): 1902-11.'
+label: 'De leeuw et al. (2007): Whole-Genome Analysis and Hla Genotyping of Enteropathy-Type
+  T-Cell Lymphoma Reveals 2 Distinct ...'
+notes: The data was converted from log ratio data, using the aCGH2ProgenetiXML converter
+  (DNAcopy). Arbitrary segment thresholds were used.
+pmid: 17484883
+title: Whole-Genome Analysis and Hla Genotyping of Enteropathy-Type T-Cell Lymphoma
+  Reveals 2 Distinct Lymphoma Subtypes.
+year: 2007

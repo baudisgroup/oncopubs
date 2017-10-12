@@ -1,0 +1,37 @@
+---
+abstract: Chromosomal instability is observed in a wide spectrum of human cancer syndromes.
+  However, to date, little is known of the characteristic genetic changes in sporadic
+  neuroendocrine tumours of the gastroenteropancreatic system.
+authors: Tonnies H, Toliat MR, Ramel C, Pape UF, Neitzel H, Berger W and Wiedenmann
+  B.
+contact:
+  email: ~
+  name: NA Toennies
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11247899
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Gut 48, 4 (2001): 536-41.'
+label: 'Tonnies et al. (2001): Analysis of Sporadic Neuroendocrine Tumours of the
+  Enteropancreatic System By Comparative Genomic ...'
+notes: Only arm-specific data is available.
+pmid: 11247899
+title: Analysis of Sporadic Neuroendocrine Tumours of the Enteropancreatic System
+  By Comparative Genomic Hybridisation.
+year: 2001

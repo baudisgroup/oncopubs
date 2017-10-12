@@ -1,0 +1,58 @@
+---
+abstract: High-grade serous cancer (HGSC), the most common subtype of ovarian cancer,
+  often becomes resistant to chemotherapy, leading to poor patient outcomes. Intratumoral
+  heterogeneity occurs in nearly all solid cancers, including ovarian cancer, contributing
+  to the development of resistance mechanisms. In this study, we examined the spatial
+  and temporal genomic variation in HGSC using high-resolution single-nucleotide polymorphism
+  arrays. Multiple metastatic lesions from individual patients were analyzed along
+  with 22 paired pretreatment and posttreatment samples. We documented regions of
+  differential DNA copy number between multiple tumor biopsies that correlated with
+  altered expression of genes involved in cell polarity and adhesion. In the paired
+  primary and relapse cohort, we observed a greater degree of genomic change in tumors
+  from patients that were initially sensitive to chemotherapy and had longer progression-free
+  interval compared with tumors from patients that were resistant to primary chemotherapy.
+  Notably, deletion or downregulation of the lipid transporter LRP1B emerged as a
+  significant correlate of acquired resistance in our analysis. Functional studies
+  showed that reducing LRP1B expression was sufficient to reduce the sensitivity of
+  HGSC cell lines to liposomal doxorubicin, but not to doxorubicin, whereas LRP1B
+  overexpression was sufficient to increase sensitivity to liposomal doxorubicin.
+  Together, our findings underscore the large degree of variation in DNA copy number
+  in spatially and temporally separated tumors in HGSC patients, and they define LRP1B
+  as a potential contributor to the emergence of chemotherapy resistance in these
+  patients.  ï¿½2012 AACR.
+authors: Cowin PA, George J, Fereday S, Loehrer E, Van Loo P, Cullinane C, Etemadmoghadam
+  D, Ftouni S, Galletta L, Anglesio MS, Hendley J, Bowes L, Sheppard KE, Christie
+  EL, Pearson RB, Harnett PR, Heinzelmann-Schwarz V, Friedlander M, McNally O, Quinn
+  M, Campbell P, deFazio A and Bowtell DD
+contact:
+  email: d.bowtell@petermac.org
+  name: 61-3-9656-1356
+counts:
+  biosamples: 0
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22896685
+- geo:GSE38787
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: Cancer Res. 72(16), 2012
+label: 'Cowin PA et al. (2012): '
+notes: ' Affymetrix SNP6.0 arrays were used to obtain high-resolution estimates of
+  DNA copy number change in primary and multiple metastatic sites from 4 patients'
+pmid: 22896685
+title: LRP1B deletion in high-grade serous ovarian cancers is associated with acquired
+  chemotherapy resistance to liposomal doxorubicin.
+year: 2012

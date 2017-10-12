@@ -1,0 +1,61 @@
+---
+abstract: Osteosarcoma OS is characterized by an unstable karyotype which typically
+  has a heterogeneous pattern of complex chromosomal abnormalities. High-resolution
+  array comparative genomic hybridization CGH in combination with interphase fluorescence
+  in situ hybridization FISH analyses provides a complete description of genomic imbalances
+  together with an evaluation of the contribution of cell-to-cell variation to copy
+  number changes. There have been no analyses to date documenting genomic signatures
+  consistent with chromosomal instability mechanisms in OS tumors using array CGH.
+  In this study, we utilized high-resolution array CGH to identify and characterize
+  recurrent signatures of genomic imbalances using ten OS tumors. Comparison between
+  the genomic profiles identified tumor groups with low, intermediate and high levels
+  of genomic imbalance. Bands 6p22-- amp gt p21, 8q24 and 17p12-- amp gt p11.2 were
+  consistently involved in high copy gain or amplification events. Since these three
+  locations have been consistently associated with OS oncogenesis, FISH probes from
+  each cytoband were used to derive an index of cellular heterogeneity for copy number
+  within each region. OS with the highest degree of genomic imbalance also exhibited
+  the most extreme cell-to-cell copy number variation. Significantly, the three OS
+  with the most imbalance and genomic copy number heterogeneity also had the poorest
+  response to preoperative chemotherapy. This genome wide analysis is the first utilizing
+  oligonucleotide array CGH in combination with FISH analysis to derive genomic signatures
+  of chromosomal instability in OS tumors by studying genomic imbalance and intercellular
+  heterogeneity. This comprehensive genomic screening approach provides important
+  insights concerning the mechanisms responsible for generating complex genomes. The
+  resulting phenotypic diversity can generate tumors with a propensity for an aggressive
+  disease course. A better understanding of the underlying mechanisms leading to OS
+  tumor development could result in the identification of prognostic markers and therapeutic
+  targets.
+authors: Selvarajah S, Yoshimoto M, Ludkovski O, Park PC, Bayani J, Thorner P, Maire
+  G, Squire JA and Zielenska M.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18931480
+- geo:GSE9654
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cytogenet Genome Res 122, 1 (2008): 5-15.'
+label: 'Selvarajah et al. (2008): Genomic Signatures of Chromosomal Instability and
+  Osteosarcoma Progression Detected By High ...'
+notes: ~
+pmid: 18931480
+title: Genomic Signatures of Chromosomal Instability and Osteosarcoma Progression
+  Detected By High Resolution Array Cgh and Interphase Fish.
+year: 2008

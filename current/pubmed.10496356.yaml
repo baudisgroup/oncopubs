@@ -1,0 +1,42 @@
+---
+abstract: 'We have examined 11 cases of childhood adrenocortical tumours for copy
+  number changes using comparative genomic hybridization CGH . The changes seen are
+  highly consistent between cases, and are independent of tumour type carcinoma versus
+  adenoma or the presence of a germline TP53 mutation. The regions of chromosomal
+  gain and loss identified in this study indicate the location of genes that are potentially
+  important in the development and progression of childhood adrenocortical tumours.
+  Finally, the copy number changes identified in childhood tumours are distinctly
+  different to those seen in adult cases Kjellman et al 1996 Cancer Res 56: 4219-4223
+  , and we propose that this indicates that childhood tumours are of embryonal origin.'
+authors: James LA, Kelsey AM, Birch JM and Varley JM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10496356
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.24
+    - 53.48
+    type: Point
+  info:
+    city: Manchester
+    continent: Europe
+    country: United Kingdom
+    label: Manchester, United Kingdom, Europe
+    precision: city
+journal: 'Br J Cancer 81, 2 (1999): 300-04.'
+label: 'James et al. (1999): Highly Consistent Genetic Alterations in Childhood Adrenocortical
+  Tumours Detected By Comparative ...'
+notes: ~
+pmid: 10496356
+title: Highly Consistent Genetic Alterations in Childhood Adrenocortical Tumours Detected
+  By Comparative Genomic Hybridization.
+year: 1999

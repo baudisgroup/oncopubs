@@ -1,0 +1,40 @@
+---
+abstract: Neurofibromatosis type 1 NF1 is a tumor predisposition syndrome with a worldwide
+  birth incidence of one in 2500. Genetic factors unrelated to the NF1 locus are thought
+  to influence the number of plexiform neurofibromas PNFs in patients with NF1, but
+  no factors have been identified to date.
+authors: Pasmant E, Sabbagh A, Masliah-Planchon J, Ortonne N, Laurendeau I, Melin
+  L, Ferkal S, Hernandez L, Leroy K, Valeyrie-Allanore L, Parfait B, Vidaud D, Bieche
+  I, Lantieri L, Wolkenstein P and Vidaud M.
+contact:
+  email: ~
+  name: Eric Pasmant
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22034633
+- geo:GSE24328
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'J Natl Cancer Inst 103, 22 (2011): 1713-22.'
+label: 'Pasmant et al. (2011): Role of Noncoding RNA Anril in Genesis of Plexiform
+  Neurofibromas in Neurofibromatosis Type ...'
+notes: ~
+pmid: 22034633
+title: Role of Noncoding RNA Anril in Genesis of Plexiform Neurofibromas in Neurofibromatosis
+  Type 1.
+year: 2011

@@ -1,0 +1,35 @@
+---
+abstract: To report clinicopathological and genomic characteristics of ccpRCC , a
+  rare, recently characterized renal tumour entity.
+authors: Adam J, Couturier J, Molini      V, Vieillefond A, and Sibony M.
+contact:
+  email: ~
+  name: Julien Adam
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21707708
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Histopathology, 58(7) 2011, 1064-71.
+label: 'Adam et al. (2011): Clear-cell papillary renal cell carcinoma: 24 cases of
+  a distinct low-grade renal tumour and a ...'
+notes: ~
+pmid: 21707708
+title: 'Clear-cell papillary renal cell carcinoma: 24 cases of a distinct low-grade
+  renal tumour and a comparative genomic hybridization array study of seven cases.'
+year: 2011

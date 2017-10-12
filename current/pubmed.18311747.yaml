@@ -1,0 +1,37 @@
+---
+abstract: Patterns of cancer recurrence hold the key to prognosis after curative resection.
+  This retrospective study aimed to identify a predictor and therapeutic candidate
+  for aggressive recurrence of hepatocellular carcinoma HCC .
+authors: Tanaka S, Arii S, Yasen M, Mogushi K, Su NT, Zhao C, Imoto I, Eishi Y, Inazawa
+  J, Miki Y and Tanaka H.
+contact:
+  email: shinji.msrg@tmd.ac.jp
+  name: S. Tanaka
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18311747
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Br J Surg 95, 5 (2008): 611-19.'
+label: 'Tanaka et al. (2008): Aurora Kinase B is a Predictive Factor for the Aggressive
+  Recurrence of Hepatocellular Carcinoma ...'
+notes: ~
+pmid: 18311747
+title: Aurora Kinase B is a Predictive Factor for the Aggressive Recurrence of Hepatocellular
+  Carcinoma After Curative Hepatectomy.
+year: 2008

@@ -1,0 +1,41 @@
+---
+abstract: Neuroblastoma tumors show a complex interaction of genetic abnormalities,
+  among which some are of significant prognostic importance however, analysis of chromosome
+  changes in this tumor is often unsuccessful. Twenty primary tumors were studied
+  by comparative genomic hybridization CGH , and abnormalities were found in 19. While
+  these changes included deletions of chromosome arm Ip 45 and MYCN oncogene amplification
+  30 , gains of chromosome 17 material were much more frequent 75 . We also found
+  evidence in two cases of a new amplification site at band 2p23.
+authors: Lastowska M, Nacheva E, McGuckin A, Curtis A, Grace C, Pearson A and Bown
+  N.
+contact:
+  email: ~
+  name: Maria Lastowska
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9071568
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.61
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: Europe
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 18, 3 (1997): 162-69.'
+label: 'Lastowska et al. (1997): Comparative Genomic Hybridization Study of Primary
+  Neuroblastoma Tumors. United Kingdom ...'
+notes: ~
+pmid: 9071568
+title: Comparative Genomic Hybridization Study of Primary Neuroblastoma Tumors. United
+  Kingdom Childrens Cancer Study Group.
+year: 1997

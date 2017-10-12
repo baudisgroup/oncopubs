@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: Tyybakinoja A, Elonen E, Piippo K, Porkka K, and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17268525
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Leukemia, 21(3) 2007, 571-74.
+label: 'Tyybakinoja et al. (2007): Oligonucleotide array-CGH reveals cryptic gene
+  copy number alterations in karyotypically ...'
+notes: ~
+pmid: 17268525
+title: Oligonucleotide array-CGH reveals cryptic gene copy number alterations in karyotypically
+  normal acute myeloid leukemia.
+year: 2007

@@ -1,0 +1,52 @@
+---
+abstract: We investigated 31 malignant peripheral nerve sheath tumors MPNSTs from
+  23 patients by means of comparative genomic hybridization CGH in order to study
+  quantitative genomic aberrations of these tumors. Twenty-one of the 23 patients
+  revealed changes, with a mean value of 11 aberrations per sample range 2-29 . The
+  minimal common regions of the most frequent gains were 8q23-q24.1 12 cases , 5p14
+  11 cases , and 6p22-pter, 7p15-p21, 7q32-q35, 8q21.1-q22, 8q24.2-qter, and 17q22-qter
+  10 cases each . Seventeen high-level amplifications were detected in eight of the
+  21 samples. In three cases, the high-level amplifications involved 8q24.1-qter,
+  and in two cases each the high-level amplifications involved regions 5p14, 7p14-pter,
+  8q21.1-q23, and 13q32-q33. The minimal common region of frequent losses was 14q24.3-qter
+  five cases . The gain of 8q as a single common change in the primary tumor, the
+  recurrence, and the metastasis from the same patient suggests that this aberration
+  is an early change in the tumorigenesis of MPNSTs. Comparable aberrations were observed
+  in separate tumors of the same patients affected by Recklinghausens disease, indicating
+  a limited number of accidental secondary changes. In sporadic MPNSTs, the most frequent
+  gains were narrowed down predominantly to 5p, 6, 8q, and 20q, whereas in MPNSTs
+  from patients with Recklinghausens disease, there was most often a gain in 7q, 8q,
+  15q, and 17q. The occurrence of gain of both 7p15-p21 and 17q22-qter was associated
+  with a statistically significant poor overall survival rate P 0.0096 .
+authors: Schmidt H, Wurl P, Taubert H, Meye A, Bache M, Holzhausen HJ and Hinze R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 31
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10379866
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.36
+    - 52.06
+    type: Point
+  info:
+    city: Halle
+    continent: Europe
+    country: Germany
+    label: Halle, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 25, 3 (1999): 205-11.'
+label: 'Schmidt et al. (1999): Genomic Imbalances of 7p and 17q in Malignant Peripheral
+  Nerve Sheath Tumors Are Clinically ...'
+notes: ~
+pmid: 10379866
+title: Genomic Imbalances of 7p and 17q in Malignant Peripheral Nerve Sheath Tumors
+  Are Clinically Relevant.
+year: 1999

@@ -1,0 +1,59 @@
+---
+abstract: "HER2 (ERBB2) gene amplification and its corresponding overexpression are
+  present in 15-30% of invasive breast cancers. While HER2-targeted agents are effective
+  treatments, resistance remains a major cause of death. The American College of Surgeons
+  Oncology Group Z1041 trial (NCT00513292) was designed to compare the pathologic
+  complete response (pCR) rate of distinct regimens of neoadjuvant chemotherapy and
+  trastuzumab, but ultimately identified no difference.In supplement to tissues from
+  37 Z1041 cases, 11 similarly treated cases were obtained from a single institution
+  study (NCT00353483). We have extracted genomic DNA from both pre-treatment tumor
+  biopsies and blood of these 48 cases, and performed whole genome (WGS) and exome
+  sequencing. Coincident with these efforts, we have generated RNA-seq profiles from
+  42 of the tumor biopsies. Among patients in this cohort, 24 (50%) achieved a pCR.We
+  have characterized the genomic landscape of HER2-positive breast cancer and investigated
+  associations between genomic features and pCR. Cases assigned to the HER2-enriched
+  subtype by RNA-seq analysis were more likely to achieve a pCR compared to the luminal,
+  basal-like, or normal-like subtypes (19/27 versus 3/15; Pâ\x80\x89=â\x80\x890.0032).
+  Mutational events led to the generation of putatively active neoantigens, but were
+  overall not associated with pCR. ERBB2 and GRB7 were the genes most commonly observed
+  in fusion events, and genomic copy number analysis of the ERBB2 locus indicated
+  that cases with either no observable or low-level ERBB2 amplification were less
+  likely to achieve a pCR (7/8 versus 17/40; Pâ\x80\x89=â\x80\x890.048). Moreover,
+  among cases that achieved a pCR, tumors consistently expressed immune signatures
+  that may contribute to therapeutic response.The identification of these features
+  suggests that it may be possible to predict, at the time of diagnosis, those HER2-positive
+  breast cancer patients who will not respond to treatment with chemotherapy and trastuzumab.NCT00513292,
+  NCT00353483."
+authors: Lesurf R, Griffith OL, Griffith M, Hundal J, Trani L, Watson MA, Aft R, Ellis
+  MJ, Ota D, Suman VJ, Meric-Bernstam F, Leitch AM, Boughey JC, Unzeitig G, Buzdar
+  AU, Hunt KK, Mardis ER.
+contact:
+  email: elaine.mardis@nationwidechildrens.org
+  name: Elaine Mardis
+counts:
+  biosamples: 48
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 48
+  samples_wgs: 48
+external_identifiers:
+- pubmed:28453704
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.37
+    - 41.43
+    type: Point
+  info:
+    city: Columbus
+    continent: North America
+    country: United States
+    label: Columbus, United States, North America
+    precision: city
+journal: Ann. Oncol. 28(5), 2017
+label: ' (2017): '
+notes: ~
+pmid: 28453704
+title: Genomic characterization of HER2-positive breast cancer and response to neoadjuvant
+  trastuzumab and chemotherapy-results from the ACOSOG Z1041 (Alliance) trial.
+year: 2017

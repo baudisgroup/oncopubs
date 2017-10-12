@@ -1,0 +1,47 @@
+---
+abstract: 'Although recurrent chromosomal alterations occur in chronic lymphocytic
+  leukemia CLL , relatively few affected tumor suppressors and oncogenes have been
+  implicated. To improve genetic characterization of CLL, we performed high-resolution
+  gene copy number analysis of 20 CLL patients using oligonucleotide array comparative
+  genomic hybridization aCGH . The most recurrent losses were observed in 13q and
+  11q with variable sizes. The 11q losses varied between 7.44 Mb and 41.72 Mb in size
+  and targeted ATM among others. Lost regions in 13q were generally smaller, spanning
+  from 0.79 Mb to 29.33 Mb. The minimal common region 158 kb in 13q14.3, which was
+  also homozygously deleted in some cases, harbored five genes: TRIM13, KCNRG, DLEU2,
+  DLEU1, and FAM10A4. Additionally, two micro-RNA genes MIRN15A and MIRN16-1 locate
+  to the region. New cryptic losses were detected in 1q23.2-- amp gt q23.3, 3p21.31,
+  16pter-- amp gt p13.3, 17p13.3-- amp gt p13.2, 17q25.3-- amp gt qter, and 22q11.22.
+  In conclusion, our oligonucleotide aCGH study revealed novel aberrations and provided
+  detailed genomic profiles of the altered regions.'
+authors: Tyybakinoja A, Vilpo J and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17901694
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 118, 1 (2007): 8-12.'
+label: 'Tyybakinoja et al. (2007): High-Resolution Oligonucleotide Array-Cgh Pinpoints
+  Genes Involved in Cryptic Losses in ...'
+notes: ~
+pmid: 17901694
+title: High-Resolution Oligonucleotide Array-Cgh Pinpoints Genes Involved in Cryptic
+  Losses in Chronic Lymphocytic Leukemia.
+year: 2007

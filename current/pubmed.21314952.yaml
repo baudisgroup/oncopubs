@@ -1,0 +1,47 @@
+---
+abstract: Paclitaxel is a microtubule-stabilizing drug that has been commonly used
+  in treating cancer. Due to genetic heterogeneity within patient populations, therapeutic
+  response rates often vary. Here we used the NCI60 panel to identify SNPs associated
+  with paclitaxel sensitivity. Using the panels GI50 response data available from
+  Developmental Therapeutics Program, cell lines were categorized as either sensitive
+  or resistant. PLINK software was used to perform a genome-wide association analysis
+  of the cellular response to paclitaxel with the panels SNP-genotype data on the
+  Affymetrix 125 k SNP array. FastSNP software helped predict each SNPs potential
+  impact on their gene product. mRNA expression differences between sensitive and
+  resistant cell lines was examined using data from BioGPS. Using Haploview software,
+  we investigated for haplotypes that were more strongly associated with the cellular
+  response to paclitaxel. Ingenuity Pathway Analysis software helped us understand
+  how our identified genes may alter the cellular response to paclitaxel.
+authors: Eng L, Ibrahim-zada I, Jarjanazi H, Savas S, Meschian M, Pritchard KI and
+  Ozcelik H.
+contact:
+  email: ~
+  name: Hilmi Ozcelik
+counts:
+  biosamples: 58
+  samples_acgh: 58
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21314952
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'BMC Med Genomics 4 (2011): 18.'
+label: 'Eng et al. (2011): Bioinformatic Analyses Identifies Novel Protein-Coding
+  Pharmacogenomic Markers Associated With ...'
+notes: ~
+pmid: 21314952
+title: Bioinformatic Analyses Identifies Novel Protein-Coding Pharmacogenomic Markers
+  Associated With Paclitaxel Sensitivity in Nci60 Cancer Cell Lines.
+year: 2011

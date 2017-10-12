@@ -1,0 +1,52 @@
+---
+abstract: Human cutaneous malignant melanoma progresses through a series of well defined
+  clinical and histopathological stages. It has been assumed that the neoplastic progression
+  of this disease advances from a common acquired nevus or dysplastic nevus through
+  the primary radial growth phase RGP , primary vertical growth phase VGP , and finally
+  to distant metastasis. However, it has never been directly shown that VGP is clonally
+  derived from RGP. Furthermore, it has not been possible previously to conduct a
+  detailed genetic analysis on pure tumor cells from archival material because the
+  lesions are a heterogeneous mixture of normal and neoplastic cells, and the entire
+  specimen must be excised and fixed for clinical diagnosis. This report describes
+  a new approach designed to identify DNA copy number changes in tumor cells from
+  a series of progressive primary stages of cutaneous melanoma archival biopsies.
+  Under direct high-power visualization, cells are procured with a sterile needle
+  from highly specific areas of the tissue section. DNA is extracted from microdissected
+  cells normal, RGP, and VGP , PCR amplified, fluorescently labeled, and examined
+  by comparative genomic hybridization to determine DNA copy number changes. Data
+  obtained from three representative cases suggest a clonal derivation of VGP cells
+  from RGP. This approach could be useful in identifying the sequence of genetic changes
+  in progressive cutaneous melanoma stages.
+authors: Wiltshire RN, Duray P, Bittner ML, Visakorpi T, Meltzer PS, Tuthill RJ, Liotta
+  LA and Trent JM.
+contact:
+  email: jtrent@tgen.org
+  name: Jeffrey Trent
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7664261
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: 'Cancer Res 55, 18 (1995): 3954-57.'
+label: 'Wiltshire et al. (1995): Direct Visualization of the Clonal Progression of
+  Primary Cutaneous Melanoma: Application of ...'
+notes: ~
+pmid: 7664261
+title: 'Direct Visualization of the Clonal Progression of Primary Cutaneous Melanoma:
+  Application of Tissue Microdissection and Comparative Genomic Hybridization.'
+year: 1995

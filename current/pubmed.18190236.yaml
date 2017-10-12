@@ -1,0 +1,57 @@
+---
+abstract: 'The efficient detection of chromosomal aberrations in childhood acute leukaemias
+  presents a significant component in the diagnostics of this frequent malignant disease.
+  We used comparative genomic hybridization CGH and high-resolution comparative genomic
+  hybridization HR-CGH to determine the frequency of chromosomal changes in 33 children
+  with acute leukaemia AL . The yields of chromosomal abnormalities were compared
+  with the results obtained using conventional cytogenetics G-banding and fluorescence
+  in situ hybridization FISH . Conventional cytogenetics revealed chromosomal changes
+  in 17 52 of studied patients. The employment of FISH together with G-banding analysis
+  identified chromosomal changes in 27 82 of the AL patients investigated. CGH detected
+  changes in DNA copy numbers in 24 73 patients, 40 losses and 67 gains were found
+  in total. HR-CGH disclosed 98 losses and 97 gains in 26 79 patients. In comparison
+  with CGH, HR-CGH analyses unveiled 88 new chromosomal aberrations: 58 losses and
+  30 gains. The most commonly gained chromosomes were 21 22.5 , X 15 , 18 12,5 and
+  17 10 . The most common losses involved sub-regions or arms of chromosomes 7 15
+  , 9 12.5 , 16, 19 and 1 10 each . Cytogenetic and molecular cytogenetic analyses
+  of 33 childhood acute leukaemias revealed chromosomal changes in total 31 94 patients.
+  The evaluation of HR-CGH sensitivity proved that the minimal cell population of
+  malignant cells in which a certain chromosomal change could be found was close to
+  the 20 - 30 level. Our results confirm the benefits of HR-CGH in detecting chromosomal
+  changes in childhood AL. Supplementing G-banding and FISH with the HR-CGH diagnostic
+  method increases the detection of unbalanced structural chromosomal rearrangements
+  and can reveal small cell clones with gains and losses of whole chromosomes in hyperdiploid
+  AL.'
+authors: Vranova V, Mentzlova D, Oltova A, Linkova V, Zezulkova D, Filkova H, Mendelova
+  D, Sterba J and Kuglik P.
+contact:
+  email: vlavra@yahoo.com
+  name: Vladimira Vranova
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18190236
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: Europe
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: 'Neoplasma 55, 1 (2008): 23-30.'
+label: 'Vranova et al. (2008): Efficacy of High-Resolution Comparative Genomic Hybridization
+  (Hr-Cgh) in Detection of ...'
+notes: ~
+pmid: 18190236
+title: Efficacy of High-Resolution Comparative Genomic Hybridization (Hr-Cgh) in Detection
+  of Chromosomal Abnormalities in Children With Acute Leukaemia.
+year: 2008

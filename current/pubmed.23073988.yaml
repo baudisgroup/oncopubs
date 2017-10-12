@@ -1,0 +1,48 @@
+---
+abstract: Translocations affecting chromosome subband 6p25.3 containing the IRF4 gene
+  have been recently described as characteristic alterations in a molecularly distinct
+  subset of germinal center B-cell-derived lymphomas. Secondary changes have yet only
+  been described in few of these lymphomas. Here, we performed array-comparative genomic
+  hybridization and molecular inversion probe microarray analyses on DNA from 12 formalin-fixed
+  paraffin-embedded and two fresh-frozen IRF4 translocation-positive lymphomas, which
+  together with the previously published data on nine cases allowed the extension
+  of copy number analyses to a total of 23 of these lymphomas. All except one case
+  carried chromosomal imbalances, most frequently gains in Xq28, 11q22.3-qter, and
+  7q32.1-qter and losses in 6q13-16.1, 15q14-22.31, and 17p. No recurrent copy-neutral
+  losses of heterozygosity were observed. TP53 point mutations were detected in three
+  of six cases with loss of 17p. Overall this study unravels a recurrent pattern of
+  secondary genetic alterations in IRF4 translocation-positive lymphomas.
+authors: Salaverria I, Martin-Guerrero I, Burkhardt B, Kreuz M, Zenz T, Oschlies I,
+  Arnold N, Baudis M, Bens S, Garcia-Orad A, Lisfeld J, Schwaenen C, Szczepanowski
+  M, Wessendorf S, Pfreundschuh M, Trumper L, Klapper W and Siebert R.
+contact:
+  email: ISALAVER@clinic.ub.es
+  name: Itziar Salaverria
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23073988
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.13
+    - 54.32
+    type: Point
+  info:
+    city: Kiel
+    continent: Europe
+    country: Germany
+    label: Kiel, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer (2013) 52: 150-155.'
+label: 'Salaverria et al. (2013): High resolution copy number analysis of IRF4 translocation-positive
+  diffuse large B-cell and ...'
+notes: ~
+pmid: 23073988
+title: High resolution copy number analysis of IRF4 translocation-positive diffuse
+  large B-cell and follicular lymphomas.
+year: 2013

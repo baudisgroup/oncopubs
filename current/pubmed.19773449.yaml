@@ -1,0 +1,56 @@
+---
+abstract: Androgen deprivation is the mainstay of therapy for progressive prostate
+  cancer. Despite initial and dramatic tumor inhibition, most men eventually fail
+  therapy and die of metastatic castration-resistant CR disease. Here, we characterize
+  the profound degree of genomic alteration found in CR tumors using array comparative
+  genomic hybridization array CGH , gene expression arrays, and fluorescence in situ
+  hybridization FISH . Bycluster analysis, we show that the similarity of the genomic
+  profiles from primary and metastatic tumors is driven by the patient. Using data
+  adjusted for this similarity, we identify numerous high-frequency alterations in
+  the CR tumors, such as 8p loss and chromosome 7 and 8q gain. By integrating array
+  CGH and expression array data, we reveal genes whose correlated values suggest they
+  are relevant to prostate cancer biology. We find alterations that are significantly
+  associated with the metastases of specific organ sites, and others with CR tumors
+  versus the tumors of patients with localized prostate cancer not treated with androgen
+  deprivation. Within the high-frequency sites of loss in CR metastases, we find an
+  overrepresentation of genes involved in cellular lipid metabolism, including PTEN.
+  Finally, using FISH, we verify the presence of a gene fusion between TMPRSS2 and
+  ERG suggested by chromosome 21 deletions detected by array CGH. We find the fusion
+  in 54 of our CR tumors, and 81 of the fusion-positive tumors contain cells with
+  multiple copies of the fusion. Our investigation lays the foundation for a better
+  understanding of and possible therapeutic targets for CR disease, the poorly responsive
+  and final stage of prostate cancer.
+authors: Holcomb IN, Young JM, Coleman IM, Salari K, Grove DI, Hsu L, True LD, Roudier
+  MP, Morrissey CM, Higano CS, Nelson PS, Vessella RL and Trask BJ.
+contact:
+  email: ~
+  name: Barbara J Trask
+counts:
+  biosamples: 73
+  samples_acgh: 73
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19773449
+- geo:GSE18259
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: 'Cancer Res 69, 19 (2009): 7793-802.'
+label: 'Holcomb et al. (2009): Comparative Analyses of Chromosome Alterations in Soft-Tissue
+  Metastases Within and Across ...'
+notes: ~
+pmid: 19773449
+title: Comparative Analyses of Chromosome Alterations in Soft-Tissue Metastases Within
+  and Across Patients With Castration-Resistant Prostate Cancer.
+year: 2009

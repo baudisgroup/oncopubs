@@ -1,0 +1,55 @@
+---
+abstract: 'The prognostic relevance of chromosome 17 gain in neuroblastoma is still
+  discussed. This investigation specifies the frequency, type, size, and transcriptional
+  relevance in a large patient cohort. Primary tumor material of 202 patients was
+  analyzed using high-resolution oligonucleotide array-based comparative genomic hybridization
+  (aCGH) and correlated with clinical and survival data. A subset (n = 145) was correlated
+  for differentially expressed genes (DEG) by microarray analysis. Chromosome 17 aCGH
+  analysis showed numerical gain in 94/202 patients (47%), partial gain in 93/202
+  patients (46%), and no gain in 15/202 patients (7%). The frequency of partial gain
+  was higher in stage 4 neuroblastoma (stage 1 15%; stage 2 12%; stage 3 16%; stage
+  4S 7%; and stage 4 50%). Overall survival (OS) was superior in patients with numerical
+  gain compared with patients with partial gain or no gain (5-y-OS: 0.95 ï¿½ 0.02
+  vs. 0.63 ï¿½ 0.05 vs. 0.60 ï¿½ 0.13; P < 0.001). Gene expression analysis demonstrated
+  95/130 DEGs between tumors with numerical or partial chromosome/no gain. Only one
+  DEG (CCKBR) was detected comparing tumors with partial gain and those with no gain.
+  In patients with partial gain, the distribution of breakpoints did not correlate
+  with stage and 11q status, but with MYCN amplification and 1p status. The "best"
+  breakpoints in cases with partial 17q gain were at 42.5 Mb for event-free and 26.6
+  Mb for OS. Numerical gain of chromosome 17 is associated with a better prognosis
+  than partial and no gain. The group of tumors with partial gain was similar to the
+  group without gain with respect to stage distribution, outcome, and gene expression
+  profile.  ï¿½ 2014 Wiley Periodicals, Inc.'
+authors: Theissen J, Oberthuer A, Hombach A, Volland R, Hertwig F, Fischer M, Spitz
+  R, Zapatka M, Brors B, Ortmann M, Simon T, Hero B and Berthold F
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24737690
+- geo:GSE56109
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.95
+    - 50.93
+    type: Point
+  info:
+    city: Koeln
+    continent: Europe
+    country: Germany
+    label: Koeln, Germany, Europe
+    precision: city
+journal: Genes Chromosomes Cancer 53(8), 2014
+label: 'Theissen J et al. (2014): '
+notes: ~
+pmid: 24737690
+title: Chromosome 17/17q gain and unaltered profiles in high resolution array-CGH
+  are prognostically informative in neuroblastoma.
+year: 2014

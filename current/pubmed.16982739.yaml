@@ -1,0 +1,55 @@
+---
+abstract: Leiomyosarcomas are spindle cell tumors showing smooth muscle differentiation.
+  Until recently, most gastrointestinal stromal tumors GIST were also classified as
+  smooth muscle tumors, but now GISTs are recognized as a separate entity, defined
+  as spindle cell and or epithelioid tumors localized in the gastrointestinal tract.
+  Using microarray-based comparative genomic hybridization array CGH , we have created
+  a detailed map of DNA copy number changes for 7 GISTs and 12 leiomyosarcomas. Considerable
+  gains and losses of chromosomal segments were observed in both tumor types. The
+  most frequent aberration observed in GISTs was loss of chromosomes 14 and 22, with
+  minimal recurrent regions in 14q11.2-q32.33 71 of the tumors and 22q12.2-q13.31
+  100 . In leiomyosarcomas, frequent loss of chromosome 10 and 13q was observed, with
+  minimal recurrent regions in 10q21.3 75 and 13q14.2-q14.3 75 . Recurrent high-level
+  amplification of 17p13.1-p11.2 was detected in leiomyosarcomas. Expression profiling
+  using cDNA microarrays revealed four candidate genes in this region with high expression
+  AURKB, SREBF1, MFAP4, and FLJ10847 . Altered expression of AURKB and SREBF1 has
+  been observed previously in other malignancies. Hierarchical clustering of all samples
+  separated GISTs and leiomyosarcomas into two distinct clusters. Statistical analysis
+  identified six chromosomal regions, 1p36.11-p13.1, 9q21.11-9q34.3, 14q11.2-q23.2,
+  14q31.3-q32.33, 15q24.3-q26.3, and 22q11.21-q13.31, which were significantly different
+  in copy number between GISTs and leiomyosarcomas. Our results show the potential
+  of using array comparative genomic hybridization to classify histologically similar
+  tumors such as GISTs and leiomyosarcomas.
+authors: Meza-Zepeda LA, Kresse SH, Barragan-Polania AH, Bjerkehagen B, Ohnstad HO,
+  Namlos HM, Wang J, Kristiansen BE and Myklebost O.
+contact:
+  email: leonardm@radium.uio.no
+  name: Leonardo A. Meza-Zepeda
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16982739
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Cancer Res 66, 18 (2006): 8984-93.'
+label: 'Meza-Zepeda et al. (2006): Array Comparative Genomic Hybridization Reveals
+  Distinct DNA Copy Number Differences Between ...'
+notes: ~
+pmid: 16982739
+title: Array Comparative Genomic Hybridization Reveals Distinct DNA Copy Number Differences
+  Between Gastrointestinal Stromal Tumors and Leiomyosarcomas.
+year: 2006

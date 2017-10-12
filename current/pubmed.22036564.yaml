@@ -1,0 +1,47 @@
+---
+abstract: Insights into cancer genetics can lead to therapeutic opportunities. By
+  cross-referencing chromosomal changes with an unbiased genetic screen we identify
+  the ephrin receptor A7 (EPHA7) as a tumor suppressor in follicular lymphoma (FL).
+  EPHA7 is a target of 6q deletions and inactivated in 72% of FLs. Knockdown of EPHA7
+  drives lymphoma development in a murine FL model. In analogy to its physiological
+  function in brain development, a soluble splice variant of EPHA7 (EPHA7(TR)) interferes
+  with another Eph-receptor and blocks oncogenic signals in lymphoma cells. Consistent
+  with this drug-like activity, administration of the purified EPHA7(TR) protein produces
+  antitumor effects against xenografted human lymphomas. Further, by fusing EPHA7(TR)
+  to the anti-CD20 antibody (rituximab) we can directly target this tumor suppressor
+  to lymphomas in vivo. Our study attests to the power of combining descriptive tumor
+  genomics with functional screens and reveals EPHA7(TR) as tumor suppressor with
+  immediate therapeutic potential.
+authors: Oricchio E, Nanjangud G, Wolfe AL, Schatz JH, Mavrakis KJ, Jiang M, Liu X,
+  Bruno J, Heguy A, Olshen AB, Socci ND, Teruya-Feldstein J, Weis-Garcia F, Tam W,
+  Shaknovich R, Melnick A, Himanen JP, Chaganti RS, Wendel HG.
+contact:
+  email: Wendelh@mskcc.org
+  name: Hans-Guido Wendel
+counts:
+  biosamples: 64
+  samples_acgh: 64
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22036564
+- geo:GSE40989
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Cell 147(3), 2011
+label: ' (2011): '
+notes: ~
+pmid: 22036564
+title: The Eph-receptor A7 is a soluble tumor suppressor for follicular lymphoma.
+year: 2011

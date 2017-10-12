@@ -1,0 +1,44 @@
+---
+abstract: We demonstrate that, in human bladder cancer, amplification of the E2F3
+  gene, located at 6p22, is associated with overexpression of its encoded mRNA transcripts
+  and high levels of expression of E2F3 protein. Immunohistochemical analyses of E2F3
+  protein levels have established that around one-third 33 101 of primary transitional
+  cell carcinomas of the bladder overexpress nuclear E2F3 protein, with the proportion
+  of tumours containing overexpressed nuclear E2F3 increasing with tumour stage and
+  grade. When considered together with the established role of E2F3 in cell cycle
+  progression, these results suggest that the E2F3 gene represents a candidate bladder
+  cancer oncogene that is activated by DNA amplification and overexpression.
+authors: Feber A, Clark J, Goodwin G, Dodson AR, Smith PH, Fletcher A, Edwards S,
+  Flohr P, Falconer A, Roe T, Kovacs G, Dennis N, Fisher C, Wooster R, Huddart R,
+  Foster CS and Cooper CS.
+contact:
+  email: colin.cooper@icr.ac.uk
+  name: Colin S. Cooper
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14716298
+- geo:GSE6123
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Oncogene 23, 8 (2004): 1627-30.'
+label: 'Feber et al. (2004): Amplification and Overexpression of E2F3 in Human Bladder
+  Cancer.'
+notes: ~
+pmid: 14716298
+title: Amplification and Overexpression of E2F3 in Human Bladder Cancer.
+year: 2004

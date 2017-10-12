@@ -1,0 +1,53 @@
+---
+abstract: 'The molecular genetic alterations underlying the development and diversity
+  of salivary gland carcinomas are largely unknown. To characterize these events,
+  comparative genomic hybridization analysis was performed, using a single-nucleotide
+  polymorphism microarray platform, of 60 fresh-frozen specimens that represent the
+  main salivary carcinoma types: mucoepidermoid carcinoma MEC , adenoid cystic carcinoma
+  ACC , and salivary duct carcinoma SDC . The results were correlated with the clinicopathologic
+  features and translocation statuses to characterize the genetic alterations. The
+  most commonly shared copy number abnormalities CNAs in all types were losses at
+  chromosomes 6q23-26 and the 9p21 region. Subtype-specific CNAs included a loss at
+  12q11-12 in ACC and a gain at 17q11-12 in SDC. Focal copy number losses included
+  1p36.33-p36-22 in ACC, 9p13.2 in MEC, and 3p12.3-q11-2, 6q21-22.1, 12q14.1, and
+  12q15 in SDC. Tumor-specific amplicons were identified at 11q23.3 PVRL1 in ACC,
+  11q13.3 NUMA1 in MEC, and 6p21.1 CCND3 , 9p13.2 PAX5 , 12q15 CNOT2 RAB3IP , 12q21.1
+  GLIPR1L1 , and 17q12 ERBB2 CCL4 in SDC. A comparative CNA analysis of fusion-positive
+  and fusion-negative ACCs and MECs revealed relatively lower CNAs in fusion-positive
+  tumors than in fusion-negative tumors in both tumor types. An association between
+  CNAs and high grade and advanced stage was observed in MECs only. These findings
+  support the pathogenetic segregation of these entities and define novel chromosomal
+  sites for future identification of biomarkers and therapeutic targets.'
+authors: Zhang L, Mitani Y, Caulin C, Rao PH, Kies MS, Saintigny P, Zhang N, Weber
+  RS, Lippman SM and El-Naggar AK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23583282
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Am J Pathol (2013).
+label: 'Zhang et al. (2013): Detailed Genome-Wide SNP Analysis of Major Salivary Carcinomas
+  Localizes Subtype-Specific ...'
+notes: ~
+pmid: 23583282
+title: Detailed Genome-Wide SNP Analysis of Major Salivary Carcinomas Localizes Subtype-Specific
+  Chromosome Sites and Oncogenes of Potential Clinical Significance.
+year: 2013

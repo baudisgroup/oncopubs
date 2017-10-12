@@ -1,0 +1,35 @@
+---
+abstract: Identifying the genetic alterations in gliomatosis cerebri GC may yield
+  clinically useful prognostic markers and provide clues as to whether GC represents
+  a distinct pathological entity or is an extreme form of diffusely infiltrative glioma.
+authors: Ware ML, Hirose Y, Scheithauer BW, Yeh RF, Mayo MC, Smith JS, Chang S, Cha
+  S, Tihan T and Feuerstein BG.
+contact:
+  email: marcusware@gmail.com
+  name: Marcus Ware
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17228264
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Neurosurgery 60, 1 (2007): 150-8; discussion 158.'
+label: 'Ware et al. (2007): Genetic Aberrations in Gliomatosis Cerebri.'
+notes: ~
+pmid: 17228264
+title: Genetic Aberrations in Gliomatosis Cerebri.
+year: 2007

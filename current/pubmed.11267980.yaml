@@ -1,0 +1,50 @@
+---
+abstract: We have studied the occurrence and association of 11q deletions with other
+  chromosomal imbalances in Stage 4 neuroblastomas. To this purpose we have performed
+  comparative genomic hybridization CGH analysis on 50 Stage 4 neuroblastomas and
+  these data were analyzed together with those from 33 previously published cases.
+  We observed a high incidence of 11q deletion in Stage 4 neuroblastoma without MYCN
+  amplification 59 whereas 11q loss was only observed in 15 of neuroblastomas with
+  MYCN-amplification p 0.0002 or 11 of cases with 1p deletion detected by CGH p 0.0001
+  . In addition, 11q loss showed significant positive correlation with 3p loss p 0.0002
+  . Event-free survival was poor and not significantly different for patients with
+  or without 11q deletion. Our study provides further evidence that Stage 4 neuroblastomas
+  with 11q deletions represent a distinct genetic subgroup that typically shows no
+  MYCN-amplification nor 1p deletion. Moreover, it shows that neuroblastomas with
+  11q deletion also often present 3p deletion. This genetic subgroup shows a similar
+  poor prognosis as MYCN amplified 4 neuroblastomas.
+authors: Plantaz D, Vandesompele J, Van Roy N, Lastowska M, Bown N, Combaret V, Favrot
+  MC, Delattre O, Michon J, Benard J, Hartmann O, Nicholson JC, Ross FM, Brinkschmidt
+  C, Laureys G, Caron H, Matthay KK, Feuerstein BG and Speleman F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11267980
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.72
+    - 45.17
+    type: Point
+  info:
+    city: Grenoble
+    continent: Europe
+    country: France
+    label: Grenoble, France, Europe
+    precision: city
+journal: 'Int J Cancer 91, 5 (2001): 680-86.'
+label: 'Plantaz et al. (2001): Comparative Genomic Hybridization (Cgh) Analysis of
+  Stage 4 Neuroblastoma Reveals High Frequency ...'
+notes: Of the 83 cases from the article, only the 28 not contained in Vandesompele
+  et al. (2001) are included here.
+pmid: 11267980
+title: Comparative Genomic Hybridization (Cgh) Analysis of Stage 4 Neuroblastoma Reveals
+  High Frequency of 11q Deletion in Tumors Lacking Mycn Amplification.
+year: 2001

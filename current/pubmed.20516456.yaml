@@ -1,0 +1,39 @@
+---
+abstract: The biologic behavior of intracranial ependymoma is unpredictable on the
+  basis of current staging approaches. We aimed at the identification of recurrent
+  genetic aberrations in ependymoma and evaluated their prognostic significance to
+  develop a molecular staging system that could complement current classification
+  criteria.
+authors: Korshunov A, Witt H, Hielscher T, Benner A, Remke M, Ryzhova M, Milde T,
+  Bender S, Wittmann A, Schottler A, Kulozik AE, Witt O, von Deimling A, Lichter P
+  and Pfister S.
+contact:
+  email: s.p   ster@dkfz.de
+  name: Stefan Pfister
+counts:
+  biosamples: 292
+  samples_acgh: 292
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20516456
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'J Clin Oncol 28, 19 (2010): 3182-90.'
+label: 'Korshunov et al. (2010): Molecular Staging of Intracranial Ependymoma in Children
+  and Adults.'
+notes: ~
+pmid: 20516456
+title: Molecular Staging of Intracranial Ependymoma in Children and Adults.
+year: 2010

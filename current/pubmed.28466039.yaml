@@ -1,0 +1,54 @@
+---
+abstract: Cervical carcinoma is the second most common malignancy among women in both
+  incidence and mortality. Although much is known about the etiology and treatment
+  of cervical cancer, the role of genetic alterations in the multistep pathway of
+  cervical tumorigenesis is largely unknown. The aim of this study was to characterize
+  the genomic changes in the cervical pre-cancerous lesions and tumors, induced by
+  different types of human papillomaviruses. In this research was used the BlueGnome
+  CytoChip oligo 2ï¿½× 105ï¿½K microarray for whole-genome oligo-array CGH. Microarray
+  CGH analysis of 40 specimens was carried out-12 specimens from patients with early-stage
+  squamous cell carcinomas; 19 specimens from patients with mild to moderate dysplasia
+  and 9 with severe dysplasia. First we performed microarray CGH analysis of five
+  DNA pools which contained the DNA from homogeneous groups of patients. The results
+  revealed presence of micro chromosomal aberrations in chromosome region 14q11.2.
+  According to the genome database these aberrations represent polymorphisms. Microarray
+  analysis of DNA from 9 separate carcinoma lesions revealed a total of 26 aberrations
+  in 14 chromosomes of nine patients. Our results showed the advantages of high-resolution
+  chips in the clinical diagnosis of patients with cancerous and precancerous lesions
+  caused by viral infection with HPV, but also highlight the need for extensive population
+  studies revealing the molecular nature and clinical significance of different CNVs
+  and the creation of detailed maps of variations in the Bulgarian population. This
+  would facilitate extremely precise interpretation of specific genomic imbalances
+  in the clinical aspect.
+authors: Grozdanov P, Hadjidekova S, Dimova I, Nikolova I, Toncheva D, Ganchev G,
+  Zlatkov V, Galabov AS.
+contact:
+  email: grozdanov@microbio.bas.bg
+  name: Petar Grozdanov
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28466039
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.32
+    - 42.7
+    type: Point
+  info:
+    city: Sofia
+    continent: Europe
+    country: Bulgaria
+    label: Sofia, Bulgaria, Europe
+    precision: city
+journal: Virusdisease 27(3), 2016
+label: ' (2016): '
+notes: Additional samples were analyzed as pools.
+pmid: 28466039
+title: Characterization of genomic changes in the cervical pre-cancerous lesions and
+  tumors induced by different types of human papillomaviruses.
+year: 2016

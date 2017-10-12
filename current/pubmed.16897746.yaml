@@ -1,0 +1,53 @@
+---
+abstract: 'Breast cancer is a leading cause of cancer-death among women, where the
+  clinicopathological features of tumors are used to prognosticate and guide therapy.
+  DNA copy number alterations CNAs , which occur frequently in breast cancer and define
+  key pathogenetic events, are also potentially useful prognostic or predictive factors.
+  Here, we report a genome-wide array-based comparative genomic hybridization array
+  CGH survey of CNAs in 89 breast tumors from a patient cohort with locally advanced
+  disease. Statistical analysis links distinct cytoband loci harboring CNAs to specific
+  clinicopathological parameters, including tumor grade, estrogen receptor status,
+  presence of TP53 mutation, and overall survival. Notably, distinct spectra of CNAs
+  also underlie the different subtypes of breast cancer recently defined by expression-profiling,
+  implying these subtypes develop along distinct genetic pathways. In addition, higher
+  numbers of gains losses are associated with the amp quot basal-like amp quot tumor
+  subtype, while high-level DNA amplification is more frequent in amp quot luminal-B
+  amp quot subtype tumors, suggesting also that distinct mechanisms of genomic instability
+  might underlie their pathogenesis. The identified CNAs may provide a basis for improved
+  patient prognostication, as well as a starting point to define important genes to
+  further our understanding of the pathobiology of breast cancer. This article contains
+  Supplementary Material available at http: www.interscience.wiley.com jpages 1045-2257
+  suppmat'
+authors: Bergamaschi A, Kim YH, Wang P, Sorlie T, Hernandez-Boussard T, Lonning PE,
+  Tibshirani R, Borresen-Dale AL and Pollack JR.
+contact:
+  email: pollack1@stanford.edu
+  name: Jonathan R Pollack
+counts:
+  biosamples: 89
+  samples_acgh: 89
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16897746
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 45, 11 (2006): 1033-40.'
+label: 'Bergamaschi et al. (2006): Distinct Patterns of DNA Copy Number Alteration
+  Are Associated With Different ...'
+notes: Raw data may be available through Stanfords SMD.
+pmid: 16897746
+title: Distinct Patterns of DNA Copy Number Alteration Are Associated With Different
+  Clinicopathological Features and Gene-Expression Subtypes of Breast Cancer.
+year: 2006

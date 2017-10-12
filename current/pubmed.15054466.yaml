@@ -1,0 +1,53 @@
+---
+abstract: Distinct parallel cytogenetic pathways in breast carcinogenesis could be
+  identified in recent years. Nevertheless, it remained unclear as to which tumours
+  may have progressed in grade or which patterns of cytogenetic alteration may define
+  the switch from an in situ towards an invasive lesion. In order to gain more detailed
+  insights into cytogenetic mechanisms of the pathogenesis of breast cancer, the chromosomal
+  imbalances of 206 invasive breast cancer cases were characterised by means of comparative
+  genomic hybridisation CGH . CGH data were subjected to hierarchical cluster analysis
+  and the results were further compared with immunohistochemical findings on tissue
+  arrays from the same breast cancer cases. The combined analysis of immunohistochemical
+  and cytogenetic data provided evidence that carcinomas with gains of 7p, and to
+  a lesser extent losses of 9q and gains of 5p, are a distinct subgroup within the
+  spectrum of ductal invasive grade 3 breast carcinomas. These aberrations were associated
+  with a high degree of cytogenetic instability 16.6 alterations per case on average
+  , 16q-losses in over 70 of these cases, strong oestrogen receptor expression and
+  absence of strong expression of p53, c-erbB2 and Ck 5. These characteristics provide
+  strong support for the hypothesis that these tumours may develop through stages
+  of well- and perhaps intermediately differentiated breast cancers. Our results therefore
+  underline the existence of several parallel and also stepwise progression pathways
+  towards breast cancer.
+authors: Korsching E, Packeisen J, Helms MW, Kersting C, Voss R, van Diest PJ, Brandt
+  B, van der Wall E, Boecker W and Burger H.
+contact:
+  email: ~
+  name: H. Burger
+counts:
+  biosamples: 206
+  samples_acgh: 0
+  samples_ccgh: 206
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15054466
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Br J Cancer 90, 7 (2004): 1422-28.'
+label: 'Korsching et al. (2004): Deciphering a Subgroup of Breast Carcinomas With
+  Putative Progression of Grade During ...'
+notes: 206 invasive breast cancer cases were analyzed by CGH, and results were clustered.
+pmid: 15054466
+title: Deciphering a Subgroup of Breast Carcinomas With Putative Progression of Grade
+  During Carcinogenesis Revealed By Comparative Genomic Hybridisation (Cgh) and Immunohistochemistry.
+year: 2004

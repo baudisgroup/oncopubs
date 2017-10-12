@@ -1,0 +1,48 @@
+---
+abstract: 'In this study, we examined nine cases of advanced Japanese prostate cancer
+  by comparative genomic hybridization CGH to detect chromosomal imbalances across
+  the entire genome and to identify several new regions likely to contain genes important
+  to the development and progression of this disease. These cases had been previously
+  examined for numerical chromosomal aberrations by fluorescence in situ hybridization
+  FISH . By CGH, the following regions were found to be over-represented gains , with
+  fluorescence ratio values higher than the threshold: 4p, 6p, 8q, 11q, 12q, 15q,
+  16p, 17q, 20, and 21 amp gt 4 cases underrepresentation losses involved: 1q, 4q,
+  5q, 6q, 13q, 14q, and 22 amp gt 4 cases . The shortest regions of overlap SRO of
+  gains were noted at 8q24.1 through q24.3, 12q23, and 17q23 through q24 amp gt 5
+  cases . The SRO of losses were seen at 5q14 through q21, 6q16.1 through q21, 13q21.3
+  through q22, and 14q21 amp gt 5 cases . Notably, the gain of chromosomes 8 and 12
+  by CGH was in agreement with the FISH data, suggesting that the gain of chromosomes
+  8 and 12 may play an important role in prostate carcinogenesis. The genes on the
+  SRO regions were also discussed in relation to oncogenes and bone metastases.'
+authors: Kasahara K, Taguchi T, Yamasaki I, Kamada M, Yuri K and Shuin T.
+contact:
+  email: kasahara@kochi-ms.ac.jp
+  name: K. Kasahara
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12377415
+geo_data:
+  geo_json:
+    coordinates:
+    - 133.53
+    - 33.56
+    type: Point
+  info:
+    city: Kochi-shi
+    continent: Asia
+    country: Japan
+    label: Kochi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 137, 1 (2002): 59-63.'
+label: 'Kasahara et al. (2002): Detection of Genetic Alterations in Advanced Prostate
+  Cancer By Comparative Genomic ...'
+notes: ~
+pmid: 12377415
+title: Detection of Genetic Alterations in Advanced Prostate Cancer By Comparative
+  Genomic Hybridization.
+year: 2002

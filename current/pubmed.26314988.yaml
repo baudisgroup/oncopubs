@@ -1,0 +1,51 @@
+---
+abstract: Lack of remission or early relapse remains a major clinical issue in diffuse
+  large B-cell lymphoma (DLBCL), with 30% of patients failing standard of care. Although
+  clinical factors and molecular signatures can partially predict DLBCL outcome, additional
+  information is needed to identify high-risk patients, particularly biologic factors
+  that might ultimately be amenable to intervention. Using whole-exome sequencing
+  data from 51 newly diagnosed and immunochemotherapy-treated DLBCL patients, we evaluated
+  the association of somatic genomic alterations with patient outcome, defined as
+  failure to achieve event-free survival at 24 months after diagnosis (EFS24). We
+  identified 16 genes with mutations, 374 with copy number gains and 151 with copy
+  number losses that were associated with failure to achieve EFS24 (P<0.05). Except
+  for FOXO1 and CIITA, known driver mutations did not correlate with EFS24. Gene losses
+  were localized to 6q21-6q24.2, and gains to 3q13.12-3q29, 11q23.1-11q23.3 and 19q13.12-19q13.43.
+  Globally, the number of gains was highly associated with poor outcome (P=7.4 ï¿½
+  10(-12)) and when combined with FOXO1 mutations identified 77% of cases that failed
+  to achieve EFS24. One gene (SLC22A16) at 6q21, a doxorubicin transporter, was lost
+  in 54% of EFS24 failures and our findings suggest it functions as a doxorubicin
+  transporter in DLBCL cells.
+authors: Novak AJ, Asmann YW, Maurer MJ, Wang C, Slager SL, Hodge LS, Manske M, Price-Troska
+  T, Yang ZZ, Zimmermann MT, Nowakowski GS, Ansell SM, Witzig TE, McPhail E, Ketterling
+  R, Feldman AL, Dogan A, Link BK, Habermann TM and Cerhan JR
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 51
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 51
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26314988
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: Blood Cancer J 5, 2015
+label: 'Novak AJ et al. (2015): '
+notes: ~
+pmid: 26314988
+title: Whole-exome analysis reveals novel somatic genomic alterations associated with
+  outcome in immunochemotherapy-treated diffuse large B-cell lymphoma.
+year: 2015

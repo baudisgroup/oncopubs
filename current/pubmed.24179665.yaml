@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: Thariat J, Peyrottes I, Chibon F, Benchetrit M, Saada E, Gastaud L, Dassonville
+  O, Iannessi A and Thyss A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24179665
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.27
+    - 43.7
+    type: Point
+  info:
+    city: Nice
+    continent: Europe
+    country: France
+    label: Nice, France, Europe
+    precision: city
+journal: 'Rare Tumors (2013) 5: e53.'
+label: 'Thariat et al. (2013): Primary multicentric angiosarcoma of bone: true entity
+  or metastases from an unknown primary  ...'
+notes: ~
+pmid: 24179665
+title: 'Primary multicentric angiosarcoma of bone: true entity or metastases from
+  an unknown primary  Value of comparative genomic hybridization on paraffin embedded
+  tissues.'
+year: 2013

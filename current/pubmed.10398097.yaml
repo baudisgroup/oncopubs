@@ -1,0 +1,47 @@
+---
+abstract: There is strong evidence that ductal carcinoma in situ DCIS represents a
+  precursor lesion of invasive breast cancer. In order to analyse specific chromosomal
+  alterations of DCIS, 38 paraffin-embedded specimens of DCIS and six associated invasive
+  carcinomas were examined by means of comparative genomic hybridization CGH . Losses
+  of 16q material were seen almost exclusively in well- and intermediately-differentiated
+  DCIS. These two subgroups differed in the average number of genetic imbalances,
+  2.5 and 5.5 respectively. Additionally, a higher frequency of gains of 1q and losses
+  of 11q material was seen in intermediately-differentiated in contrast to well-differentiated
+  DCIS. Poorly-differentiated DCIS displayed a higher frequency of amplifications
+  17q12, 11q13 and a higher average rate of genetic imbalances 7.1 . Analysis of adjacent
+  invasive breast carcinoma revealed a genetic pattern almost identical to the one
+  seen in the DCIS counterpart. These data characterize DCIS as a genetically far-advanced,
+  heterogeneous lesion and as a direct precursor of invasive breast cancer.
+authors: Buerger H, Otterbach F, Simon R, Poremba C, Diallo R, Decker T, Riethdorf
+  L, Brinkschmidt C, Dockhorn-Dworniczak B and Boecker W.
+contact:
+  email: Werner.Boecker@uni-muenster.de
+  name: Werner Boecker
+counts:
+  biosamples: 44
+  samples_acgh: 0
+  samples_ccgh: 44
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10398097
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'J Pathol 187, 4 (1999): 396-402.'
+label: 'Buerger et al. (1999): Comparative Genomic Hybridization of Ductal Carcinoma
+  in Situ of the Breast-Evidence of Multiple ...'
+notes: ~
+pmid: 10398097
+title: Comparative Genomic Hybridization of Ductal Carcinoma in Situ of the Breast-Evidence
+  of Multiple Genetic Pathways.
+year: 1999

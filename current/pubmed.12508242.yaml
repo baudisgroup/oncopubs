@@ -1,0 +1,55 @@
+---
+abstract: We performed two-color fluorescence in situ hybridization analysis to detect
+  the numbers of chromosomes 1 and 17, 1p deletion, and 17q gain in 177 neuroblastomas,
+  including 101 tumors that were found by a mass-screening program for infants. Sixty-eight
+  tumors with disomy 1 or tetrasomy 1 were classified as the Dis1 group, and 109 tumors
+  with trisomy 1, pentasomy 1, or a mixed population of cells with trisomy 1 and cells
+  with tetrasomy 1 were classified as the Tris1 group. 17q gain was the most frequent
+  genetic event, followed by 1p deletion, and MYCN amplification in both Dis1 and
+  Tris1 tumors. However, the incidence of all the genetic events was higher in Dis1
+  tumors than in Tris1 tumors. These findings suggest that Tris1 tumors are more resistant
+  to acquiring the genetic events than are Dis1 tumors. In addition, there was an
+  accumulation of genetic events in more advanced stages, with the exception of a
+  high incidence of 17q gain in the stage IVS Tris1 tumors. Comparative genomic hybridization
+  analysis, which was performed in 59 of the 177 tumors, showed that chromosomes partially
+  lost or gained in Dis1 tumors coincided with chromosomes totally lost or gained
+  in Tris1 tumors. Dis1 and Tris1 tumors were considered to have near-diploid tetraploid
+  and near-triploid pentaploid chromosome numbers, respectively. These findings suggest
+  that the same tumor-suppressor genes or oncogenes may be involved in the development
+  and progression of both high- and low-risk neuroblastomas, and that the ploidy state
+  of the tumor plays a fundamental role in the heterogeneous behavior.
+authors: Tomioka N, Kobayashi H, Kageyama H, Ohira M, Nakamura Y, Sasaki F, Todo S,
+  Nakagawara A and Kaneko Y.
+contact:
+  email: kaneko@cancer-c.pref.saitama.jp
+  name: Yasuhiko Kaneko
+counts:
+  biosamples: 59
+  samples_acgh: 0
+  samples_ccgh: 59
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12508242
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.66
+    - 35.91
+    type: Point
+  info:
+    city: Saitama
+    continent: Asia
+    country: Japan
+    label: Saitama, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 36, 2 (2003): 139-50.'
+label: 'Tomioka et al. (2003): Chromosomes That Show Partial Loss Or Gain in Near-Diploid
+  Tumors Coincide With Chromosomes That ...'
+notes: ~
+pmid: 12508242
+title: 'Chromosomes That Show Partial Loss Or Gain in Near-Diploid Tumors Coincide
+  With Chromosomes That Show Whole Loss Or Gain in Near-Triploid Tumors: Evidence
+  Suggesting the Involvement of the Same Genes in the Tumorigenesis of High- and Low-Risk
+  Neuroblastomas.'
+year: 2003

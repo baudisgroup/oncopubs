@@ -1,0 +1,35 @@
+---
+abstract: Comparative Genomic Hybridization CGH is a novel cytogenetic method that
+  allows the comprehensive analysis of a tumor genome for DNA gains and losses.
+authors: Bockmuhl U, Petersen I, Schwendel A and Dietel M.
+contact:
+  email: iver.petersen@charite.de
+  name: Iver Petersen
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8924169
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Laryngorhinootologie 75, 7 (1996): 408-14.'
+label: 'Bockmuhl et al. (1996): [Genetic Screening of Head-Neck Carcinomas Using Comparative
+  Genomic Hybridization ...'
+notes: ~
+pmid: 8924169
+title: '[Genetic Screening of Head-Neck Carcinomas Using Comparative Genomic Hybridization
+  (Cgh)].'
+year: 1996

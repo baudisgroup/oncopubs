@@ -1,0 +1,51 @@
+---
+abstract: The molecular pathology of thymic epithelial tumors TETs is largely unknown.
+  Using array comparative genomic hybridization CGH , we evaluated 59 TETs and identified
+  recurrent patterns of copy number CN aberrations in different histotypes. GISTIC
+  algorithm revealed the presence of 126 significant peaks of CN aberration, which
+  included 13 cancer-related genes. Among these peaks, CN gain of BCL2 and CN loss
+  of CDKN2A B were the only genes in the respective regions of CN aberration and were
+  associated with poor outcome. TET cell lines were sensitive to siRNA knockdown of
+  the anti-apoptotic molecules BCL2 and MCL1. Gx15-070, a pan-BCL2 inhibitor, induced
+  autophagy-dependent necroptosis in TET cells via a mechanism involving mTOR pathways,
+  and inhibited TET xenograft growth. ABT263, an inhibitor of BCL2 BCL-XL BCL-W, reduced
+  proliferation in TET cells when administered in combination with sorafenib, a tyrosine
+  kinase inhibitor able to downregulate MCL1. Immunohistochemistry on 132 TETs demonstrated
+  that CN loss of CDKN2A correlated with lack of expression of its related protein
+  p16 INK4 and identified tumors with poor prognosis. The molecular markers BCL2 and
+  CDKN2A may be of potential value in diagnosis and prognosis of TETs. Our study provides
+  the first preclinical evidence that deregulated anti-apoptotic BCL2 family proteins
+  may represent suitable targets for TET treatment.
+authors: Petrini I, Meltzer PS, Zucali PA, Luo J, Lee C, Santoro A, Lee HS, Killian
+  KJ, Wang Y, Tsokos M, Roncalli M, Steinberg SM, Wang Y and Giaccone G.
+contact:
+  email: giacconeg@mail.nih.gov
+  name: Giuseppe Giaccone
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22825469
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cell Death Dis 3 (2012): e351.'
+label: 'Petrini et al. (2012): Copy Number Aberrations of Bcl2 and Cdkn2A/B Identified
+  By Array-Cgh in Thymic Epithelial ...'
+notes: ~
+pmid: 22825469
+title: Copy Number Aberrations of Bcl2 and Cdkn2A/B Identified By Array-Cgh in Thymic
+  Epithelial Tumors.
+year: 2012

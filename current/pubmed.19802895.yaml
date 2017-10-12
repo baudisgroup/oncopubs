@@ -1,0 +1,50 @@
+---
+abstract: Array CGH was used to identify recurrent copy number alterations RCNA characteristic
+  of either BRCA1-related or sporadic ovarian cancer. After preprocessing, both groups
+  of patients were modeled using a recurrent Hidden Markov Model to detect RCNA. RCNA
+  with a probability higher than 80 were called. After removing RCNA present in both
+  groups, the genes present in the remaining RCNA were investigated for enrichment
+  of pathways from external databases. More RCNA were observed in the BRCA1 group,
+  and they display more losses than gains compared to the sporadic group. When focusing
+  on the type of RCNA, no significant difference in length was seen for the gains,
+  but there was a statistically significant difference for the losses. In the sporadic
+  group, a great proportion of the altered regions contain genes known to have a function
+  in cell adhesion and complement activation, whereas the BRCA1 samples are characterized
+  by alterations in the HOX genes, metalloproteinases, tumor suppressor genes, and
+  the estrogen-signaling pathways. We conclude that BRCA1 ovarian tumors present a
+  different type, number, and length of RCNA a huge amount of the genome is lost,
+  resulting in important genomic instability. Moreover, important biological pathways
+  are altered differentially when compared to the sporadic group.
+authors: Leunen K, Gevaert O, Daemen A, Vanspauwen V, Michils G, De Moor B, Moerman
+  P, Vergote I and Legius E.
+contact:
+  email: karin.leunen@uz.kuleuven.ac.be
+  name: Karin Leunen
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19802895
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: 'Hum Mutat 30, 12 (2009): 1693-702.'
+label: 'Leunen et al. (2009): Recurrent Copy Number Alterations in Brca1-Mutated Ovarian
+  Tumors Alter Biological ...'
+notes: ~
+pmid: 19802895
+title: Recurrent Copy Number Alterations in Brca1-Mutated Ovarian Tumors Alter Biological
+  Pathways.
+year: 2009

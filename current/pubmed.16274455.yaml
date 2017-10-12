@@ -1,0 +1,50 @@
+---
+abstract: The aim of the present study was to identify genetic aberrations in a series
+  of patients with cutaneous large B-cell lymphoma LBCL using comparative genomic
+  hybridization CGH . Eighteen consecutive patients with primary 13 patients PCLBCL
+  and secondary five patients SCLBCL cutaneous large B-cell lymphoma were included
+  in the study. Nine cases corresponded to PCLBCL leg type and four cases primary
+  cutaneous follicle centre-cell lymphoma PCFCL . Chromosomal imbalances CIs were
+  detected in 14 of 18 samples 77.8 . All of nine cases with PCLBCL leg type and two
+  of four cases with PCFCL showed CIs 100 and 50 , respectively . Regarding SCLBCL,
+  in three of five cases 60 , CIs were detected. The most frequently detected gains
+  involved 2q, 5q, 3 and 7q and amplifications affected 18, 12 and 13. Frequent losses
+  were found in 17p. In PCLBCL leg type, the most frequent gains involved 2q and 7q,
+  amplifications were localized in chromosomes 12, 13 and 18 and losses affected chromosomes
+  17p and 19. In PCFCL, gains located in 3q, 4 and 7q were found. Our study seems
+  to confirm clear-cut differences between primary cutaneous LBCL and nodal diffuse
+  LBCL, and it suggests the presence of genotypic differences between cases of PCLBCL
+  leg type and cases of PCFCL.
+authors: Gimenez S, Costa C, Espinet B, Sole F, Pujol RM, Puigdecanet E, Garcia-Moreno
+  P, Sanchez J, Gallardo F, Estrach T, Garcia-Muret P, Romagosa V, Serrano S and Servitje
+  O.
+contact:
+  email: bespinet@imas.imim.es
+  name: Blanca Espinet
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16274455
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Exp Dermatol 14, 12 (2005): 883-90.'
+label: 'Gimenez et al. (2005): Comparative Genomic Hybridization Analysis of Cutaneous
+  Large B-Cell Lymphomas.'
+notes: ~
+pmid: 16274455
+title: Comparative Genomic Hybridization Analysis of Cutaneous Large B-Cell Lymphomas.
+year: 2005

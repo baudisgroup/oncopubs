@@ -1,0 +1,47 @@
+---
+abstract: Hepatocellular carcinoma HCC , the most common type of liver cancer, is
+  the third primary cause of cancer-related mortality worldwide. The molecular mechanisms
+  underlying the initiation and formation of HCC remain obscure. In the present study,
+  we performed exome sequencing using tumor and normal tissues from 3 hepatitis B
+  virus HBV -positive BCLC stage A HCC patients. Bioinformatic analysis was performed
+  to find candidate protein-altering somatic mutations. Eighty damaging mutations
+  were validated and 59 genes were reported to be mutated in HBV-related HCCs for
+  the first time here. Further analysis using whole genome sequencing WGS data of
+  88 HBV-related HCC patients from the European Genome-phenome Archive database showed
+  that mutations in 33 of the 59 genes were also detected in other samples. Variants
+  of two newly found genes, ZNF717 and PARP4, were detected in more than 10 of the
+  WGS samples. Several other genes, such as FLNA and CNTN2, are also noteworthy. Thus,
+  the exome sequencing analysis of three BCLC stage A patients provides new insights
+  into the molecular events governing the early steps of HBV-induced HCC tumorigenesis.
+authors: Chen Y, Wang L, Xu H, Liu X and Zhao Y.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 3
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23912677
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.6
+    - 31.3
+    type: Point
+  info:
+    city: Suzhou Jiangsu
+    continent: Asia
+    country: China
+    label: Suzhou Jiangsu, China, Asia
+    precision: city
+journal: 'Oncol Rep (2013) 30: 1906-1912.'
+label: 'Chen et al. (2013): Exome capture sequencing reveals new insights into hepatitis
+  B virus-induced hepatocellular ...'
+notes: ~
+pmid: 23912677
+title: Exome capture sequencing reveals new insights into hepatitis B virus-induced
+  hepatocellular carcinoma at the early stage of tumorigenesis.
+year: 2013

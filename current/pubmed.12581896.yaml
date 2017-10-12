@@ -1,0 +1,54 @@
+---
+abstract: Neuroblastoma is characterized by several distinct genetic alterations including
+  MYCN amplification, chromosome 1p deletion and gain of chromosome 17. Although these
+  alterations are thought to play a crucial role in oncogenesis, to date little is
+  known about their underlying mechanisms. In order to more precisely document these
+  genetic alterations, we have performed a combined study of 27 neuroblastoma cell
+  lines using 24-color karyotyping 24-CK and comparative genomic hybridization CGH
+  . 24-CK detected balanced translocations in 13 cases with recurrent involvement
+  of chromosome 8. More importantly, 144 nonreciprocal translocations were observed
+  in the 27 cell lines, with chromosome 1 as the most frequent recipient and chromosome
+  17 the most frequent donor. Each cell line exhibited at least one unbalanced translocation
+  involving 17q, with 14 cell lines demonstrating more than one such translocation.
+  Other recurrent alterations were amplification of the 2p24 chromosome region, which
+  encodes the MYCN oncogene, losses of 1p, 3p and 11q, and gains of 1q and 7. In most
+  cases, CGH profiles were directly linked to the presence of unbalanced translocations
+  with gain of the donor fragment and loss of the replaced region on the recipient
+  chromosome. Strikingly, over 60 of the chromosome breakpoints mapped to early replicating
+  chromosome bands, which represent around 13 of the genome. Altogether these data
+  suggest that neuroblastoma is characterized by rearrangements that predominantly
+  involve chromosome fragments replicating early in the S-phase.
+authors: Schleiermacher G, Janoueix-Lerosey I, Combaret V, Derre J, Couturier J, Aurias
+  A and Delattre O.
+contact:
+  email: olivier.delattre@curie.fr
+  name: Olivier Delattre
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12581896
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 141, 1 (2003): 32-42.'
+label: 'Schleiermacher et al. (2003): Combined 24-Color Karyotyping and Comparative
+  Genomic Hybridization Analysis Indicates ...'
+notes: ~
+pmid: 12581896
+title: Combined 24-Color Karyotyping and Comparative Genomic Hybridization Analysis
+  Indicates Predominant Rearrangements of Early Replicating Chromosome Regions in
+  Neuroblastoma.
+year: 2003

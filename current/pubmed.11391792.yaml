@@ -1,0 +1,49 @@
+---
+abstract: To identify genetic abnormalities in primary hepatocellular carcinoma HCC
+  , we performed microsatellite analysis MSA on 60 Chinese HCC specimens. Utilizing
+  a semi-quantitative MSA and 292 highly polymorphic markers spanning all 22 autosomes,
+  we found that somatic allelic imbalance AI occurred frequently in HCC. To evaluate
+  the nature of the AI, comparative genomic hybridization was performed on 20 HCC
+  specimens. The combined use of these two methods revealed frequent allelic loss
+  on 17p, 9p21-p23, 4q, 16q21-q23.3, 13q, 8p21-p23, and 6q24-q27, whereas there was
+  frequent allelic gain on 1q, 17q, and 8q24. The region with the highest incidence
+  of genomic imbalance was 17p13 65 , followed by 9p21-p23 55 , 4q 35-51 , 16q21-q23.3
+  52 , 17p12 49 , 13q 39-46 , 8p21-p23 41-45 , 8q24 41 , and 1q32 40 . In addition,
+  aberrations of 19p13.3, 16p13.3, 13q33-q34, 9q13-31, and 7q were reported for the
+  first time. The presence of a close correlation of 17p13 deletion with abnormalities
+  of some other loci implies that 17p13 could play a crucial role in oncogenesis.
+  Interestingly, microsatellite instability was rarely seen in our patients, in contrast
+  to that observed in European HCC samples.
+authors: Wang G, Zhao Y, Liu X, Wang L, Wu C, Zhang W, Liu W, Zhang P, Cong W, Zhu
+  Y, Zhang L, Chen S, Wan D, Zhao X, Huang W and Gu J.
+contact:
+  email: huangwei@chgc.sh.cn, nlorg@public.sta.net.cn
+  name: Jianren Gu
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11391792
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 31, 3 (2001): 221-27.'
+label: 'Wang et al. (2001): Allelic Loss and Gain, But Not Genomic Instability, as
+  the Major Somatic Mutation in Primary ...'
+notes: ~
+pmid: 11391792
+title: Allelic Loss and Gain, But Not Genomic Instability, as the Major Somatic Mutation
+  in Primary Hepatocellular Carcinoma.
+year: 2001

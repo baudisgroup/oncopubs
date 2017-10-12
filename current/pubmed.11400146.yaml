@@ -1,0 +1,49 @@
+---
+abstract: Squamous cell carcinomas of the head and neck generally exhibit complex
+  karyotypes. To gain better knowledge of the changes in the subgroup of laryngeal
+  and pharyngeal squamous cell carcinoma, chromosomal gains and losses were investigated
+  in 42 predominantly late-stage tumours, using comparative genomic hybridization.
+  On average, 11.2 gains and 6.8 losses were found. Gains were detected in high frequencies
+  at 1q, 3q, 5p, 7q, 8q, 11q13, 17q, and 18p, and losses at 3p, 4p, 5q, 11qter, and
+  18q. Neither the number nor the type of abnormalities, nor the occurrence of specific
+  chromosome changes, was found to be related to DNA ploidy, tumour stage, or degree
+  of differentiation. Apart from low-level gains, many high-level amplifications were
+  identified, in particular 3q24-qter 15 cases . Other regions recurrently involved
+  were 11q13 7 cases , 18p 5 cases , 18q11.2 4 cases , and 8q23-24 and 11q14-22 3
+  cases . Many of these amplified regions have not been reported before. Over half
+  of all loci harbour genes coding for growth factors and growth factor receptors,
+  suggesting an important role for such genes in squamous cell tumourigenesis and
+  in the progression of late-stage tumours.
+authors: Hermsen M, Guervos MA, Meijer G, Baak J, van Diest P, Marcos CA and Sampedro
+  A.
+contact:
+  email: mhermsen@hca.es
+  name: Mario A.J.A. Hermsen
+counts:
+  biosamples: 42
+  samples_acgh: 0
+  samples_ccgh: 42
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11400146
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pathol 194, 2 (2001): 177-82.'
+label: 'Hermsen et al. (2001): New Chromosomal Regions With High-Level Amplifications
+  in Squamous Cell Carcinomas of the Larynx ...'
+notes: ~
+pmid: 11400146
+title: New Chromosomal Regions With High-Level Amplifications in Squamous Cell Carcinomas
+  of the Larynx and Pharynx, Identified By Comparative Genomic Hybridization.
+year: 2001

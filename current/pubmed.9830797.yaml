@@ -1,0 +1,39 @@
+---
+abstract: Comparative genomic hybridization CGH allows the study of DNA copy number
+  changes in a single hybridization from tumor DNA without any cell culture. Three
+  reports of childhood acute lymphoblastic leukemia ALL studied by CGH have been published
+  so far, with somewhat discrepant results. In the present study we performed CGH
+  analysis on 36 patients with childhood ALL. The results were compared to those reported
+  earlier on 157 cases.
+authors: Larramendy ML, Huhta T, Heinonen K, Vettenranta K, Mahlamaki E, Riikonen
+  P, Saarinen-Pihkala UM and Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9830797
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Haematologica 83, 10 (1998): 890-95.'
+label: 'Larramendy et al. (1998): DNA Copy Number Changes in Childhood Acute Lymphoblastic
+  Leukemia.'
+notes: ~
+pmid: 9830797
+title: DNA Copy Number Changes in Childhood Acute Lymphoblastic Leukemia.
+year: 1998

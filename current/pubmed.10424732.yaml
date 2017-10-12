@@ -1,0 +1,49 @@
+---
+abstract: The objective of this study was to test the hypothesis that chromosomal
+  imbalances in central nervous system primitive neuroectodermal tumours PNETs reflect
+  site and histology. We used comparative genomic hybridization to study 37 cases
+  of PNET, of which four were cerebral and 31 were medulloblastomas classified histologically
+  as classic n 17 or nodular desmoplastic n 14 . Tumour immunophenotype was characterized
+  with antibodies to neuroglial, mesenchymal and epithelial markers. Chromosomal imbalances
+  were detected in 28 medulloblastomas 90 , and significant associations between tumour
+  variants and genetic abnormalities were demonstrated. Aberrations suggesting isochromosome
+  17q were present in eight 26 medulloblastomas, of which seven were classic variants.
+  None of these cases, or a further six with gain of 17q, showed immunoreactivity
+  for glial fibrillary acidic protein. Loss on 9q was found in six cases 19 , five
+  of them nodular desmoplastic. Loss of 22 occurred in four 13 , all classic medulloblastomas
+  in young patients with a poor outcome and immunoreactivity for more than one epithelial
+  or mesenchymal marker. Different patterns of imbalance were found in the cerebral
+  PNETs. There were no abnormalities of chromosome 17, but all three cases with imbalance
+  showed losses of 3p12.3-p14.
+authors: Nicholson JC, Ross FM, Kohler JA and Ellison DW.
+contact:
+  email: D.W.Ellison@ncl.ac.uk
+  name: David W. Ellison
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 39
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10424732
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.8
+    - 51.07
+    type: Point
+  info:
+    city: Salisbury
+    continent: Europe
+    country: United Kingdom
+    label: Salisbury, United Kingdom, Europe
+    precision: city
+journal: 'Br J Cancer 80, 9 (1999): 1322-31.'
+label: 'Nicholson et al. (1999): Comparative Genomic Hybridization and Histological
+  Variation in Primitive Neuroectodermal ...'
+notes: ~
+pmid: 10424732
+title: Comparative Genomic Hybridization and Histological Variation in Primitive Neuroectodermal
+  Tumours.
+year: 1999

@@ -1,0 +1,47 @@
+---
+abstract: The completion of the human genome sequence and the development of high
+  throughput technology present exciting opportunities for the study of cancer cells.
+  High-resolution analysis of chromosomal aberrations provides a global framework
+  for understanding complex patterns in cancer cells, allowing us to ask hypothesis-driven
+  questions. Genome-wide analysis of amplification and deletion of genomic regions
+  is a critical step to resolving the mechanisms of neuroblastoma tumorigenesis. We
+  used a high-resolution aCGH system that has over 4000 human BAC clones, resulting
+  in an average coverage of 1Mb across the genome, to define whole genome copy number
+  aberrations CNAs in a panel of human neuroblastoma-derived cell lines. By combining
+  the aCGH data with meticulous regional validation studies, we showed that array
+  CGH could reliably detect known aberrations including single copy gain or loss,
+  that data correlate well with standard techniques used for the detection of these
+  genetic changes, and that this technique can be used to identify novel regions of
+  genomic imbalance.
+authors: Mosse YP, Greshock J, Weber BL and Maris JM.
+contact:
+  email: maris@email.chop.edu
+  name: John M. Maris
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15967571
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Cancer Lett 228, 1-2 (2005): 83-90.'
+label: 'Mosse et al. (2005): Measurement and Relevance of Neuroblastoma DNA Copy Number
+  Changes in the Post-Genome ...'
+notes: ~
+pmid: 15967571
+title: Measurement and Relevance of Neuroblastoma DNA Copy Number Changes in the Post-Genome
+  Era.
+year: 2005

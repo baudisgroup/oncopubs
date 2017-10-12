@@ -1,0 +1,48 @@
+---
+abstract: Hepatocellular carcinoma HCC is one of the most frequently occurring malignant
+  tumors worldwide. The incidence of HCC is much higher in males than in females.
+  In order to clarify the molecular basis of the male predominance in HCC, we have
+  characterized the detailed genomic alterations in 5 hepatitis B virus integrated
+  Korean HCC cell lines using G-banding, comparative genomic hybridization CGH , fluorescence
+  in situ hybridization FISH , PCR, and CGH array. The commonest alterations were
+  observed in chromosome 7 and Y, as well as chromosomal regions 1q, 8q, 4q, and 16q.
+  The most frequent aberration of genomic material was gain of 1q and loss of chromosome
+  Y. Significant loss of DNA copy number of the cancer related genes that are located
+  on chromosome Y was detected by CGH array. By investigating the karyotypes of the
+  previously reported 21 male HCC cell lines, we found 18 HCC cell lines with Y chromosome
+  loss, indicating that this loss is a significant feature of HCC cell lines. We propose
+  that Y chromosome loss in HCC cell lines may be responsible for the preponderance
+  of males in HCC and its significance may lead to further studies for better understanding
+  of carcinogenesis in HCC.
+authors: Park SJ, Jeong SY and Kim HJ.
+contact:
+  email: genetics@kornet.net
+  name: H. J. Kim
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16616112
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.78
+    - 36.18
+    type: Point
+  info:
+    city: Yeongdong-gun
+    continent: ~
+    country: Korean Republic
+    label: Yeongdong-gun, Korean Republic
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 166, 1 (2006): 56-64.'
+label: 'Park et al. (2006): Y Chromosome Loss and Other Genomic Alterations in Hepatocellular
+  Carcinoma Cell Lines Analyzed By ...'
+notes: ~
+pmid: 16616112
+title: Y Chromosome Loss and Other Genomic Alterations in Hepatocellular Carcinoma
+  Cell Lines Analyzed By Cgh and Cgh Array.
+year: 2006

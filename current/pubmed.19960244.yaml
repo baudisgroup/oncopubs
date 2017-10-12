@@ -1,0 +1,54 @@
+---
+abstract: Extensive expression profiling studies have shown that sporadic breast cancer
+  is composed of five clinically relevant molecular subtypes. However, although BRCA1-related
+  tumours are known to be predominantly basal-like, there are few published data on
+  other classes of familial breast tumours. We analysed a cohort of 75 BRCA1, BRCA2
+  and non-BRCA1 2 breast tumours by gene expression profiling and found that 74 BRCA1
+  tumours were basal-like, 73 of BRCA2 tumours were luminal A or B, and 52 non-BRCA1
+  2 tumours were luminal A. Thirty-four tumours were also analysed by single nucleotide
+  polymorphism-comparative genomic hybridization SNP-CGH arrays. Copy number data
+  could predict whether a tumour was basal-like or luminal with high accuracy, but
+  could not predict its mutation class. Basal-like BRCA1 and basal-like non-BRCA1
+  tumours were very similar, and contained the highest number of chromosome aberrations.
+  We identified regions of frequent gain containing potential driver genes in the
+  basal 8q and 12p and luminal A tumours 1q and 17q . Regions of homozygous loss associated
+  with decreased expression of potential tumour suppressor genes were also detected,
+  including in basal tumours 5q and 9p , and basal and luminal tumours 10q . This
+  study highlights the heterogeneity of familial tumours and the clinical consequences
+  for treatment and prognosis.
+authors: Waddell N, Arnold J, Cocciardi S, da Silva L, Marsh A, Riley J, Johnstone
+  CN, Orloff M, Assie G, Eng C, Reid L, Keith P, Yan M, Fox S, Devilee P, Godwin AK,
+  Hogervorst FB, Couch F, Grimmond S, Flanagan JM, Khanna K, Simpson PT, Lakhani SR
+  and Chenevix-Trench G.
+contact:
+  email: georgia.trench@qimr.edu.au
+  name: Georgia Chenevix-Trench
+counts:
+  biosamples: 34
+  samples_acgh: 34
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19960244
+- geo:GSE19177
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.03
+    - -27.47
+    type: Point
+  info:
+    city: Brisbane
+    continent: Australia
+    country: Australia
+    label: Brisbane, Australia, Australia
+    precision: city
+journal: 'Breast Cancer Res Treat 123, 3 (2010): 661-77.'
+label: 'Waddell et al. (2010): Subtypes of Familial Breast Tumours Revealed By Expression
+  and Copy Number Profiling.'
+notes: ~
+pmid: 19960244
+title: Subtypes of Familial Breast Tumours Revealed By Expression and Copy Number
+  Profiling.
+year: 2010

@@ -1,0 +1,51 @@
+---
+abstract: Acute myeloid leukaemia is a highly malignant haematopoietic tumour that
+  affects about 13,000 adults in the United States each year. The treatment of this
+  disease has changed little in the past two decades, because most of the genetic
+  events that initiate the disease remain undiscovered. Whole-genome sequencing is
+  now possible at a reasonable cost and timeframe to use this approach for the unbiased
+  discovery of tumour-specific somatic mutations that alter the protein-coding genes.
+  Here we present the results obtained from sequencing a typical acute myeloid leukaemia
+  genome, and its matched normal counterpart obtained from the same patient's skin.
+  We discovered ten genes with acquired mutations; two were previously described mutations
+  that are thought to contribute to tumour progression, and eight were new mutations
+  present in virtually all tumour cells at presentation and relapse, the function
+  of which is not yet known. Our study establishes whole-genome sequencing as an unbiased
+  method for discovering cancer-initiating mutations in previously unidentified genes
+  that may respond to targeted therapies.
+authors: Ley TJ, Mardis ER, Ding L, Fulton B, McLellan MD, Chen K, Dooling D, Dunford-Shore
+  BH, McGrath S, Hickenbotham M, Cook L, Abbott R, Larson DE, Koboldt DC, Pohl C,
+  Smith S, Hawkins A, Abbott S, Locke D, Hillier LW, Miner T, Fulton L, Magrini V,
+  Wylie T, Glasscock J, Conyers J, Sander N, Shi X, Osborne JR, Minx P, Gordon D,
+  Chinwalla A, Zhao Y, Ries RE, Payton JE, Westervelt P, Tomasson MH, Watson M, Baty
+  J, Ivanovich J, Heath S, Shannon WD, Nagarajan R, Walter MJ, Link DC, Graubert TA,
+  DiPersio JF and Wilson RK
+contact:
+  email: emardis@wustl.edu
+  name: Elaine R Mardis
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 1
+external_identifiers:
+- pubmed:18987736
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ~
+    country: United States
+    label: st.louis, United States
+    precision: city [needs verification]
+journal: Nature 456(7218), 2008
+label: 'Ley TJ et al. (2008): '
+notes: ~
+pmid: 18987736
+title: DNA sequencing of a cytogenetically normal acute myeloid leukaemia genome.
+year: 2008

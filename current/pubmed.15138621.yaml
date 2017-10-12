@@ -1,0 +1,56 @@
+---
+abstract: Renal cancer consists of a heterogeneous tumor group which is characterized
+  by complex cytogenetic and molecular genetic abnormalities. In this study, three
+  different techniques were applied to screen renal cancers for genetic alterations.
+  We studied 99 primary, sporadic renal cancers 96 renal cell carcinomas and three
+  other renal cancers by a comparative evaluation of different microsatellite markers,
+  comparative genomic hybridization CGH and AP-PCR. The AP-PCR produces a genomic
+  fingerprint after an AluEI DNA restriction digest of tumor DNA samples. Microsatellite
+  alterations were investigated using nine microsatellite markers spanning well-known
+  regions of FhiT and VHL 3p14.2, 3p26 but also of oncogenes and tumor suppressor
+  genes like Myc-L1 and TP53Alu 1p32, 17p13.1 . To receive a genomic fingerprint,
+  AP-PCR was carried out for all patient samples. Performing AP-PCR, only one case
+  out of 99 displayed genomic imbalance. Seven of 99 investigated primary renal cancers
+  showed alterations in up to four microsatellite loci TP53Alu, Myc-L1, D3S1300, D3S1560,
+  D3S1317, D3S4260 . Three markers Bat25, Bat26, REN did not reveal any aberrations
+  within the tested tumor samples. Six cases with microsatellite alterations and four
+  without were examined by CGH. Five samples yielded aberrations, four of them were
+  positive for microsatellite alterations. Only one tumor sample displayed microsatellite
+  alterations, shift patterns in AP-PCR and alterations analyzed by CGH. Our data
+  suggest that genomic aberrations found by microsatellite analysis are also detectable
+  by CGH with the restriction of a minimum of alterated DNA of amp gt 10 Mb. Based
+  on this study of RCC and in contrast to other reports for solid tumors, we conclude
+  that AP-PCR is far less informative in investigation of renal cancers.
+authors: Hoefling C, Schmidt H, Meinhardt M, Lohse A, Taubert H, Fuessel S, Schmidt
+  U, Schuster K, Baretton G, Wirth MP and Meye A.
+contact:
+  email: axel.meye@uniklinikum-dresden.de
+  name: Axel Meye
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15138621
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.74
+    - 51.05
+    type: Point
+  info:
+    city: Dresden
+    continent: Europe
+    country: Germany
+    label: Dresden, Germany, Europe
+    precision: city
+journal: 'Int J Mol Med 13, 6 (2004): 835-42.'
+label: 'Hoefling et al. (2004): Comparative Evaluation of Microsatellite Marker, Ap-Pcr
+  and Cgh Studies in Primary Renal Cell ...'
+notes: ~
+pmid: 15138621
+title: Comparative Evaluation of Microsatellite Marker, Ap-Pcr and Cgh Studies in
+  Primary Renal Cell Carcinoma.
+year: 2004

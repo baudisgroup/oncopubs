@@ -1,0 +1,49 @@
+---
+abstract: We have carried out comparative genomic hybridization CGH analysis on archival
+  biopsy material from a series of 30 UK mantle cell lymphomas. The most frequent
+  aberrations were gains of 3q 21 cases , 6p 19 cases , 7q 8 cases , 12p 8 cases ,
+  12q 9 cases and 17q11q21 8 cases , and losses of 1p13p32 10 cases , 5p13p15.3 9
+  cases , 6q14q27 11 cases , 8p 7 cases , 11q13q23 8 cases and 13q 18 cases . Nineteen
+  cases 63 had a common region of amplification at 3q28q29, which was highly amplified
+  in three cases, suggesting the presence of a mantle cell lymphoma MCL -related oncogene
+  in this region. There was a minimal common region of deletion at 6q25q26 in nine
+  cases 30 . No MCL-specific locus has previously been identified on chromosome 6
+  and this region may contain a tumour suppressor gene specifically implicated in
+  the development of this subtype of lymphoma. An increased number of chromosome aberrations,
+  gain of Xq and loss of 17p were all significantly associated with a worse prognosis.
+  A greater understanding of the genetics of mantle cell lymphoma may allow the identification
+  of prognostic factors which will aid the identification of appropriate treatment
+  regimens.
+authors: Allen JE, Hough RE, Goepel JR, Bottomley S, Wilson GA, Alcock HE, Baird M,
+  Lorigan PC, Vandenberghe EA, Hancock BW, and Hammond DW.
+contact:
+  email: d.w.hammond@sheffield.ac.uk
+  name: David W. Hammond
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 31
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11841429
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.47
+    - 53.38
+    type: Point
+  info:
+    city: Sheffield
+    continent: Europe
+    country: United Kingdom
+    label: Sheffield, United Kingdom, Europe
+    precision: city
+journal: Br J Haematol, 116(2) 2002, 291-98.
+label: 'Allen et al. (2002): Identification of novel regions of amplification and
+  deletion within mantle cell lymphoma DNA by ...'
+notes: ~
+pmid: 11841429
+title: Identification of novel regions of amplification and deletion within mantle
+  cell lymphoma DNA by comparative genomic hybridization.
+year: 2002

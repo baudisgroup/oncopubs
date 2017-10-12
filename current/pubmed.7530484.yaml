@@ -1,0 +1,56 @@
+---
+abstract: 'Due to problems with primary tumor cell culture, conventional cytogenetics
+  has yielded little insightful information on chromosomal alterations in prostate
+  cancer. The primary aim of this study was to define the ability of comparative genomic
+  hybridization CGH to detect and map genetic deletions in prostate tumors. A secondary
+  aim was to apply multiple assays to individual tumors as a means of deciphering
+  the mechanisms of genetic alterations in prostate cancer. CGH results were compared
+  with allelic imbalance measurements at 29 distinct loci on chromosome 8 in 18 specimens
+  17 malignant and 1 benign . CGH detected no changes in cases where all informative
+  PCR RFLP loci were retained and detected all p arm deletions consisting of at least
+  two loci. We estimate that in this study, the smallest deletions detected by CGH
+  were approximately 20-30 cM. Physical mapping of subchromosomal arm deletions by
+  CGH correlated well with allelic imbalance mapping by PCR RFLP: The data agreed
+  at 88 of loci on 8p and 92 of loci on 8q. Fluorescence in situ hybridization FISH
+  with multiple centromere probes and DNA content flow cytometry FCM also was performed
+  on selected specimens. FISH revealed two cases of chromosome 8 aneusomy. In these
+  two cases and three others, CGH showed simultaneous p arm deletion and q arm gain,
+  suggesting isochromosome 8q formation. Together, these data suggested that, simple
+  chromosomal aberrations were responsible for allelic losses on 8p and allelic gains
+  on 8q in a significant number of prostate tumors. We also used CGH to examine relative
+  DNA sequence copy number throughout the genome. Changes frequently associated with
+  8p loss include gains of 8q and losses of 13q, 16p, 16q, 17p, 17q, 20q, and Y. Cases
+  with 8p loss exhibited five times the number of alterations as did cases without
+  8p loss.'
+authors: Cher ML, MacGrogan D, Bookstein R, Brown JA, Jenkins RB and Jensen RH.
+contact:
+  email: rjensen@cc.ucsf.edu
+  name: Ronald H. Jensen
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7530484
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 11, 3 (1994): 153-62.'
+label: 'Cher et al. (1994): Comparative Genomic Hybridization, Allelic Imbalance,
+  and Fluorescence in Situ Hybridization on ...'
+notes: ~
+pmid: 7530484
+title: Comparative Genomic Hybridization, Allelic Imbalance, and Fluorescence in Situ
+  Hybridization on Chromosome 8 in Prostate Cancer.
+year: 1994

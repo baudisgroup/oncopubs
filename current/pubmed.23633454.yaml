@@ -1,0 +1,39 @@
+---
+abstract: Conjunctival melanoma is a rare but potentially deadly tumor of the eye.
+  Despite effective local therapies, recurrence and metastasis remain frequent. Once
+  the tumor has metastasized, treatment options are limited and the prognosis is poor.
+  To date, little is known of the genetic alterations in conjunctival melanomas.
+authors: Griewank K, Westekemper H, Murali R, Mach M, Schilling B, Wiesner T, Schimming
+  T, Livingstone E, Sucker A, Grabellus F, Metz C, Susskind D, Hillen U, Speicher
+  MR, Woodman SE, Steuhl KP and Schadendorf D.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23633454
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: Europe
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: Clin Cancer Res (2013).
+label: 'Griewank et al. (2013): Conjunctival Melanomas harbor BRAF and NRAS Mutations
+  and Copy Number Changes Similar to ...'
+notes: ~
+pmid: 23633454
+title: Conjunctival Melanomas harbor BRAF and NRAS Mutations and Copy Number Changes
+  Similar to Cutaneous and Mucosal Melanomas.
+year: 2013

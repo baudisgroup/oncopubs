@@ -1,0 +1,50 @@
+---
+abstract: Comparative genomic hybridization was used to screen the DNA extracted from
+  histologically defined tissue sections from consecutive stages of colorectal carcinogenesis
+  for chromosomal aberrations. No aberrations were detected in normal epithelium n
+  14 . Gain of chromosome 7 occurred as a single event in low-grade adenomas n 14
+  . In high-grade adenomas n 12 , and overrepresentation of chromosomes 7 and 20 was
+  present in 30 of the cases analyzed. The transition to colon carcinomas n 16 was
+  characterized by the emergence of multiple chromosomal aberrations. Chromosomes
+  1, 13, and 20 and chromosome arms 7p and 8q were frequently gained, whereas chromosome
+  4 and chromosome arms 8p and 18q were recurrently underrepresented. The same tissue
+  sections that were used for CGH were analyzed by means of DNA-ploidy measurements
+  and immunohistochemical staining to quantify proliferative activity and p21 WAF-1
+  and TP53 expression. We observed that crude aneuploidy and increased proliferative
+  activity are early events in colorectal carcinogenesis, followed by TP53 overexpression
+  and the acquisition of recurrent chromosomal gains and losses during the progression
+  from high-grade adenomas to invasive carcinomas.
+authors: Ried T, Knutzen R, Steinbeck R, Blegen H, Schrock E, Heselmeyer K, du Manoir
+  S and Auer G.
+contact:
+  email: riedt@mail.nih.gov
+  name: Thomas Ried
+counts:
+  biosamples: 42
+  samples_acgh: 0
+  samples_ccgh: 42
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8703849
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 15, 4 (1996): 234-45.'
+label: 'Ried et al. (1996): Comparative Genomic Hybridization Reveals a Specific Pattern
+  of Chromosomal Gains and Losses During ...'
+notes: For some cases, the CGH data was replaced with higher resolution results from
+  the NCBI SKY-CGH database.
+pmid: 8703849
+title: Comparative Genomic Hybridization Reveals a Specific Pattern of Chromosomal
+  Gains and Losses During the Genesis of Colorectal Tumors.
+year: 1996

@@ -1,0 +1,52 @@
+---
+abstract: Osteosarcomas OS are aggressive tumors of the bone and often have a poor
+  prognosis. Conventional cytogenetic analyses of OS have revealed highly complex
+  karyotypes, with numerous abnormalities. In this study, we analyzed 18 untreated
+  OS tumors from 17 patients of the younger incidence age group by comparative genomic
+  hybridization CGH , 4 tumors by spectral karyotyping SKY and fluorescence in situ
+  hybridization FISH . Comparative genomic hybridization identified frequent copy
+  number changes of the chromosomal region 1p 10 17 and gain of part or all of chromosome
+  19 8 17 . In addition gains were observed at 5p 3 17 , 8q 3 17 , 16p 3 17 , and
+  17p 5 17 and losses at chromosomes 2q 3 17 , 10 4 17 and 13 3 17 . High level gains
+  were detected in the 8q23 approximately q24 region in two tumors as well as at 17p
+  in one primary and a metastatic tumor. Minimal regions of gain were present at 1p35
+  approximately p36.3 8 17 5p14 approximately p15.2 3 17 , and 8q22 approximately
+  q24.3 3 17 . SKY analysis demonstrated that OS has a complex pattern of clonal and
+  non-clonal rearrangements and helped confirm the structural basis for the imbalances
+  detected by CGH. Spectral karyotyping confirmed an overall pattern of chromosomal
+  gain affecting 1p in all four tumors. Fluorescence in situ hybridization analysis
+  from these tumors confirmed the gain of the 1p36 region in 2 tumors as determined
+  by CGH analysis as well as the amplification of 8q.
+authors: Zielenska M, Bayani J, Pandita A, Toledo S, Marrano P, Andrade J, Petrilli
+  A, Thorner P, Sorensen P and Squire JA.
+contact:
+  email: jbayani@uhnres.utoronto.ca
+  name: Jane Bayani
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11672768
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 130, 1 (2001): 14-21.'
+label: 'Zielenska et al. (2001): Comparative Genomic Hybridization Analysis Identifies
+  Gains of 1p35 Approximately P36 and ...'
+notes: The data is also contained in the NCBI SKY-CGH database and partially in Mitelman.
+pmid: 11672768
+title: Comparative Genomic Hybridization Analysis Identifies Gains of 1p35 Approximately
+  P36 and Chromosome 19 in Osteosarcoma.
+year: 2001

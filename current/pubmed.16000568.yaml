@@ -1,0 +1,39 @@
+---
+abstract: 'Medulloblastomas are the most common primary malignant childhood intracranial
+  neoplasms. Patients are currently sorted into three risk groups based on clinical
+  criteria: standard, poor, and infant amp lt 18 months old . We hypothesized that
+  genetic copy number aberrations CNA predict prognosis and would provide improved
+  criteria for predicting outcome.'
+authors: Pan E, Pellarin M, Holmes E, Smirnov I, Misra A, Eberhart CG, Burger PC,
+  Biegel JA and Feuerstein BG.
+contact:
+  email: bfeuerstein@email.arizona.edu
+  name: Burt G. Feuerstein
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16000568
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 11, 13 (2005): 4733-40.'
+label: 'Pan et al. (2005): Isochromosome 17q is a Negative Prognostic Factor in Poor-Risk
+  Childhood Medulloblastoma ...'
+notes: ~
+pmid: 16000568
+title: Isochromosome 17q is a Negative Prognostic Factor in Poor-Risk Childhood Medulloblastoma
+  Patients.
+year: 2005

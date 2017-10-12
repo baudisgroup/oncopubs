@@ -1,0 +1,49 @@
+---
+abstract: We performed a comparative genomic hybridization study on 25 lung adenocarcinoma
+  samples from younger patients amp lt 41 y of age and compared the results with a
+  previous comparative genomic hybridization analysis of lung adenocarcinoma samples
+  from older patients 50-81 y of age . Twenty of the 25 tumor samples from younger
+  patients had DNA copy number changes. Gains, losses, and high-level amplifications
+  were seen more frequently in the specimens from the younger group. The most striking
+  difference between the two groups was the high frequency of gains and or high-level
+  amplifications in the long arm of chromosome 20 in the samples from the younger
+  patients 14 25, 56 compared with that in the samples from the older patients 2 24,
+  8 , P amp lt .001 . Gains in the long arm of chromosome 22 and of the chromosomal
+  band 11q13 were also detected significantly more often in the younger group. No
+  correlation was found between DNA copy number changes and clinical parameters. Our
+  results suggest that amplification of genes in the long arm of chromosome 20 may
+  be important in the tumorigenesis of lung adenocarcinoma in young adults. Several
+  candidate genes have already been described in the long arm of chromosome 20, particularly
+  in breast cancer.
+authors: Lindstrom I, Nordling S, Nissen AM, Tammilehto L, Mattson K and Knuutila
+  S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11950910
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Mod Pathol 15, 4 (2002): 372-78.'
+label: 'Lindstrom et al. (2002): DNA Copy Number Changes in Lung Adenocarcinoma in
+  Younger Patients.'
+notes: ~
+pmid: 11950910
+title: DNA Copy Number Changes in Lung Adenocarcinoma in Younger Patients.
+year: 2002

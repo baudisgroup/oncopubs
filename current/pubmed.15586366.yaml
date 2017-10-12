@@ -1,0 +1,54 @@
+---
+abstract: In this study, 23 ovarian cancer cell lines were screened using array-comparative
+  genomic hybridization aCGH based on large-insert clones at about 1 Mb density from
+  throughout the genome. The most frequent recurrent changes at the level of the chromosome
+  arm were loss of chromosome 4 or 4q, loss of 18q and gain of 20 or 20q other recurrent
+  changes included losses of 6q, 8p, 9p, 11p, 15q, 16q, 17p, and 22q, and gain of
+  7q. Losses of 4q and 18q occurred together more often than expected. Evidence was
+  found for two types of ovarian cancer, one typically near-triploid and characterized
+  by a generally higher frequency of chromosomal changes especially losses of 4p,
+  4q, 13q, 15q, 16p, 16q, 18p and 18q , and the other typically near-diploid tetraploid
+  and with fewer changes overall, but with relatively high frequencies of 9p loss,
+  9q gain, and 20p gain. Multiple novel changes amplifications, homozygous deletions,
+  discrete regions of gain or loss, small overlapping regions of change and frequently
+  changed clones were also detected, each of which might indicate the locations of
+  oncogenes or tumour suppressor loci. For example, at least two regions of amplification
+  on chromosome 11q13, one including cyclin D1 and the other the candidate oncogene
+  PAK1, were found. Amplification on 11q22 near the progesterone receptor gene and
+  a cluster of matrix metalloproteinase loci was also detected. Other potential oncogenes,
+  which mapped to regions found by this study, included cyclin E and PIK3C2G. Candidate
+  tumour suppressor genes in regions of loss included CDKN2C, SMAD4-interacting protein
+  and RASSF2.
+authors: Lambros MB, Fiegler H, Jones A, Gorman P, Roylance RR, Carter NP and Tomlinson
+  IP.
+contact:
+  email: ian.tomlinson@cancer.org.uk
+  name: Ian P. M. Tomlinson
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15586366
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'J Pathol 205, 1 (2005): 29-40.'
+label: 'Lambros et al. (2005): Analysis of Ovarian Cancer Cell Lines Using Array-Based
+  Comparative Genomic Hybridization.'
+notes: ~
+pmid: 15586366
+title: Analysis of Ovarian Cancer Cell Lines Using Array-Based Comparative Genomic
+  Hybridization.
+year: 2005

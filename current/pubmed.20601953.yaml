@@ -1,0 +1,50 @@
+---
+abstract: Abnormalities of chromosome 7q are common in myeloid malignancies, but no
+  specific target genes have yet been identified. Here, we describe the finding of
+  homozygous EZH2 mutations in 9 of 12 individuals with 7q acquired uniparental disomy.
+  Screening of a total of 614 individuals with myeloid disorders revealed 49 monoallelic
+  or biallelic EZH2 mutations in 42 individuals the mutations were found most commonly
+  in those with myelodysplastic myeloproliferative neoplasms 27 out of 219 individuals,
+  or 12 and in those with myelofibrosis 4 out of 30 individuals, or 13 . EZH2 encodes
+  the catalytic subunit of the polycomb repressive complex 2 PRC2 , a highly conserved
+  histone H3 lysine 27 H3K27 methyltransferase that influences stem cell renewal by
+  epigenetic repression of genes involved in cell fate decisions. EZH2 has oncogenic
+  activity, and its overexpression has previously been causally linked to differentiation
+  blocks in epithelial tumors. Notably, the mutations we identified resulted in premature
+  chain termination or direct abrogation of histone methyltransferase activity, suggesting
+  that EZH2 acts as a tumor suppressor for myeloid malignancies.
+authors: Ernst T, Chase AJ, Score J, Hidalgo-Curtis CE, Bryant C, Jones AV, Waghorn
+  K, Zoi K, Ross FM, Reiter A, Hochhaus A, Drexler HG, Duncombe A, Cervantes F, Oscier
+  D, Boultwood J, Grand FH and Cross NC.
+contact:
+  email: ~
+  name: Nicholas Cross
+counts:
+  biosamples: 156
+  samples_acgh: 156
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20601953
+- geo:GSE21991
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: Europe
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: 'Nat Genet 42, 8 (2010): 722-26.'
+label: 'Ernst et al. (2010): Inactivating Mutations of the Histone Methyltransferase
+  Gene Ezh2 in Myeloid Disorders.'
+notes: ~
+pmid: 20601953
+title: Inactivating Mutations of the Histone Methyltransferase Gene Ezh2 in Myeloid
+  Disorders.
+year: 2010

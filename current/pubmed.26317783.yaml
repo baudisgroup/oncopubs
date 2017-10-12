@@ -1,0 +1,50 @@
+---
+abstract: Wilms tumor (WT), the most common cancer of the kidney in infants and children,
+  has a complex etiology that is still poorly understood. Identification of genomic
+  copy number variants (CNV) in tumor genomes provides a better understanding of cancer
+  development which may be useful for diagnosis and therapeutic targets. In paired
+  blood and tumor DNA samples from 14 patients with sporadic WT, analyzed by aCGH,
+  22% of chromosome abnormalities were novel. All constitutional alterations identified
+  in blood were segmental (in 28.6% of patients) and were also present in the paired
+  tumor samples. Two segmental gains (2p21 and 20q13.3) and one loss (19q13.31) present
+  in blood had not been previously described in WT. We also describe, for the first
+  time, a small, constitutive partial gain of 3p22.1 comprising 2 exons of CTNNB1,
+  a gene associated to WT. Among somatic alterations, novel structural chromosomal
+  abnormalities were found, like gain of 19p13.3 and 20p12.3, and losses of 2p16.1-p15,
+  4q32.5-q35.1, 4q35.2-q28.1 and 19p13.3. Candidate genes included in these regions
+  might be constitutively (SIX3, SALL4) or somatically (NEK1, PIAS4, BMP2) operational
+  in the development and progression of WT. To our knowledge this is the first report
+  of CNV in paired blood and tumor samples in sporadic WT.
+authors: Cabral de Almeida Cardoso L, Rodriguez-Laguna L, Del Carmen Crespo M, Vallespï¿½n
+  E, Palomares-Bralo M, Martin-Arenas R, Rueda-Arenas I, Silvestre de Faria PA, Garcï¿½a-Miguel
+  P, Lapunzina P, Regla Vargas F, Seuanez HN and Martï¿½nez-Glez V
+contact:
+  email: vmartinezglez@salud.madrid.org
+  name: VÃ­ctor MartÃ­nez-Glez
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26317783
+geo_data:
+  geo_json:
+    coordinates:
+    - -43.21
+    - -22.9
+    type: Point
+  info:
+    city: Rio de Janeiro
+    continent: South America
+    country: Brazil
+    label: Rio de Janeiro, Brazil, South America
+    precision: city
+journal: PLoS ONE 10(8), 2015
+label: 'Cabral de Almeida Cardoso L et al. (2015): '
+notes: ~
+pmid: 26317783
+title: Array CGH Analysis of Paired Blood and Tumor Samples from Patients with Sporadic
+  Wilms Tumor.
+year: 2015

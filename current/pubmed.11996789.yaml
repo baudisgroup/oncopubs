@@ -1,0 +1,46 @@
+---
+abstract: Deletion of chromosome 11q23 is a common alteration in parathyroid adenomas
+  and hyperplasias. A new potential suppressor gene PPP2R1B encoding the beta isoform
+  of the A subunit of the serine threorine protein phosphatase 2A was recently identified
+  and localized to chromosome 11q23. We performed polymerase chain reaction-based
+  single-strand conformation polymorphism and direct sequencing on six parathyroid
+  hyperplasias and 12 adenomas to evaluate the role of PPP2R1B in the pathogenesis
+  of parathyroid lesions. A previously identified germline G-A transition GGC-GAC
+  in codon 90, changing glycine Gly to aspartic acid Asp , was detected in one adenoma.
+  Both the common Gly allele and the variant Asp allele were detected by direct sequencing
+  in the patients somatic cells. We conclude mutations of PPP2R1B are not frequent
+  in parathyroid lesions, and that other genes located at 11q23 may be more closely
+  associated with pathogenesis of parathyroid hyperplasia and adenoma.
+authors: Hemmer S, Wasenius VM, Haglund C, Zhu Y, Knuutila S, Franssila K and Joensuu
+  H.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11996789
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 134, 1 (2002): 13-17.'
+label: 'Hemmer et al. (2002): Alterations in the Suppressor Gene Ppp2R1B in Parathyroid
+  Hyperplasias and Adenomas.'
+notes: ~
+pmid: 11996789
+title: Alterations in the Suppressor Gene Ppp2R1B in Parathyroid Hyperplasias and
+  Adenomas.
+year: 2002

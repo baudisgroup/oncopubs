@@ -1,0 +1,39 @@
+---
+abstract: Because of the distinct clinical presentation of early and advanced stage
+  ovarian cancer, we aim to clarify whether these disease entities are solely separated
+  by time of diagnosis or whether they arise from distinct molecular events.
+authors: Zaal A., Peyrot W. J., Berns P. M., van der Burg M. E., Veerbeek J. H., Trimbos
+  J. B., Cadron I., van Diest P. J., van Wieringen W. N., Krijgsman O., Meijer G.
+  A., Piek J. M., Timmers P. J., Vergote I., Verheijen R. H., Ylstra B., Zweemer R.
+  P. and Group On behalf of the EORTC GCG Translational Research.
+contact:
+  email: ~
+  name: Afra Zaal
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22581446
+- geo:GSE24418
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.11
+    - 52.09
+    type: Point
+  info:
+    city: Utrecht
+    continent: ~
+    country: The Netherlands
+    label: Utrecht, The Netherlands
+    precision: city [needs verification]
+journal: 'Cellular oncology (Dordrecht) (2012): .'
+label: Zaal A., Peyrot W. J., Berns P. M., van der Burg M. E., Veerbeek J. H., Trimbos
+  J. B., Cadron I., van Diest P. J., van ...
+notes: ~
+pmid: 22581446
+title: Genomic Aberrations Relate Early and Advanced Stage Ovarian Cancer.
+year: 2012

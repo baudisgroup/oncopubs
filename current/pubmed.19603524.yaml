@@ -1,0 +1,54 @@
+---
+abstract: Neurofibromatosis Type I NF1 is an autosomal dominant disorder characterized
+  by the development of both benign and malignant tumors. The lifetime risk for developing
+  a malignant peripheral nerve sheath tumor MPNST in NF1 patients is approximately
+  10 with poor survival rates. To date, the molecular basis of MPNST development remains
+  unclear. Here, we report the first genome-wide and high-resolution analysis of DNA
+  copy number alterations in MPNST using the 32K bacterial artificial chromosome microarray
+  on a series of 24 MPNSTs and three neurofibroma samples. In the benign neurofibromas,
+  apart from loss of one copy of the NF1 gene and copy number polymorphisms, no other
+  changes were found. The profiles of malignant samples, however, revealed specific
+  loss of chromosomal regions including 1p35-33, 1p21, 9p21.3, 10q25, 11q22-23, 17q11,
+  and 20p12.2 as well as gain of 1q25, 3p26, 3q13, 5p12, 5q11.2-q14, 5q21-23, 5q31-33,
+  6p23-p21, 6p12, 6q15, 6q23-q24, 7p22, 7p14-p13, 7q21, 7q36, 8q22-q24, 14q22, and
+  17q21-q25. Copy number gains were more frequent than deletions in the MPNST samples
+  62 vs. 38 . The genes resident within common regions of gain were NEDL1 7p14 , AP3B1
+  5q14.1 , and CUL1 7q36.1 and these were identified in amp gt 63 MPNSTs. The most
+  frequently deleted locus encompassed CDKN2A, CDKN2B, and MTAP genes on 9p21.3 33
+  cases . These genes have previously been implicated in other cancer conditions and
+  therefore, should be considered for their therapeutic, prognostic, and diagnostic
+  relevance in NF1 tumorigenesis.
+authors: Mantripragada KK, Diaz de Stahl T, Patridge C, Menzel U, Andersson R, Chuzhanova
+  N, Kluwe L, Guha A, Mautner V, Dumanski JP and Upadhyaya M.
+contact:
+  email: upadhyaya@cardiff. ac.uk
+  name: Meena Upadhyaya
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19603524
+- geo:GSE16041
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.18
+    - 51.48
+    type: Point
+  info:
+    city: Cardiff
+    continent: Europe
+    country: United Kingdom
+    label: Cardiff, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 48, 10 (2009): 897-907.'
+label: 'Mantripragada et al. (2009): Genome-Wide High-Resolution Analysis of DNA Copy
+  Number Alterations in Nf1-Associated ...'
+notes: ~
+pmid: 19603524
+title: Genome-Wide High-Resolution Analysis of DNA Copy Number Alterations in Nf1-Associated
+  Malignant Peripheral Nerve Sheath Tumors Using 32k Bac Array.
+year: 2009

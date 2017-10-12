@@ -1,0 +1,56 @@
+---
+abstract: In the present investigation, we sought to refine the classification of
+  urothelial carcinoma by combining information on gene expression, genomic, and gene
+  mutation levels. For these purposes, we performed gene expression analysis of 144
+  carcinomas, and whole genome array-CGH analysis and mutation analyses of FGFR3,
+  PIK3CA, KRAS, HRAS, NRAS, TP53, CDKN2A, and TSC1 in 103 of these cases. Hierarchical
+  cluster analysis identified two intrinsic molecular subtypes, MS1 and MS2, which
+  were validated and defined by the same set of genes in three independent bladder
+  cancer data sets. The two subtypes differed with respect to gene expression and
+  mutation profiles, as well as with the level of genomic instability. The data show
+  that genomic instability was the most distinguishing genomic feature of MS2 tumors,
+  and that this trait was not dependent on TP53 MDM2 alterations. By combining molecular
+  and pathologic data, it was possible to distinguish two molecular subtypes of T
+  a and T 1 tumors, respectively. In addition, we define gene signatures validated
+  in two independent data sets that classify urothelial carcinoma into low-grade G
+  1 G 2 and high-grade G 3 tumors as well as non-muscle and muscle-invasive tumors
+  with high precisions and sensitivities, suggesting molecular grading as a relevant
+  complement to standard pathologic grading. We also present a gene expression signature
+  with independent prognostic effect on metastasis and disease-specific survival.
+  We conclude that the combination of molecular and histopathologic classification
+  systems might provide a strong improvement for bladder cancer classification and
+  produce new insights into the development of this tumor type.
+authors: Lindgren D, Frigyesi A, Gudjonsson S, Sjodahl G, Hallden C, Chebil G, Veerla
+  S, Ryden T, Mansson W, Liedberg F and Hoglund M.
+contact:
+  email: ~
+  name: Mattias Hoglund
+counts:
+  biosamples: 103
+  samples_acgh: 103
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20406976
+- geo:GSE19915
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Cancer Res 70, 9 (2010): 3463-72.'
+label: 'Lindgren et al. (2010): Combined Gene Expression and Genomic Profiling Define
+  Two Intrinsic Molecular Subtypes of ...'
+notes: ~
+pmid: 20406976
+title: Combined Gene Expression and Genomic Profiling Define Two Intrinsic Molecular
+  Subtypes of Urothelial Carcinoma and Gene Signatures for Molecular Grading and Outcome.
+year: 2010

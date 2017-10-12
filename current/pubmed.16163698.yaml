@@ -1,0 +1,38 @@
+---
+abstract: The prognostic divergence of laryngeal and hypopharyngeal carcinomas is
+  well known. Hypopharyngeal tumors are characterized by frequent metastasis formation
+  and local recurrence, which is the source of the unfavorable prognosis of this subtype.
+  The aim of this study was to define chromosomal alterations associated with the
+  aggressive behavior of hypopharyngeal tumors.
+authors: Juhasz A, Balazs M, Sziklay I, Rakosy Z, Treszl A, Repassy G and Adany R.
+contact:
+  email: margo@jaguar.dote.hu
+  name: Margit Balazs
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16163698
+geo_data:
+  geo_json:
+    coordinates:
+    - 21.63
+    - 47.53
+    type: Point
+  info:
+    city: Debrecen
+    continent: Europe
+    country: Hungary
+    label: Debrecen, Hungary, Europe
+    precision: city
+journal: 'Cytometry A 67, 2 (2005): 151-60.'
+label: 'Juhasz et al. (2005): Chromosomal Imbalances in Laryngeal and Hypopharyngeal
+  Cancers Detected By Comparative Genomic ...'
+notes: ~
+pmid: 16163698
+title: Chromosomal Imbalances in Laryngeal and Hypopharyngeal Cancers Detected By
+  Comparative Genomic Hybridization.
+year: 2005

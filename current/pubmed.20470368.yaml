@@ -1,0 +1,39 @@
+---
+abstract: Oncogenic point mutations in KIT or PDGFRA are recognized as the primary
+  events responsible for the pathogenesis of most gastrointestinal stromal tumors
+  GIST , but additional genomic alterations are frequent and presumably required for
+  tumor progression. The relative contribution of such alterations for the biology
+  and clinical behavior of GIST, however, remains elusive.
+authors: Silva M, Veiga I, Ribeiro FR, Vieira J, Pinto C, Pinheiro M, Mesquita B,
+  Santos C, Soares M, Dinis J, Santos L, Lopes P, Afonso M, Lopes C and Teixeira MR.
+contact:
+  email: mteixeir@ipoporto.min-saude.pt
+  name: Manuel Teixeira
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20470368
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: Europe
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: 'BMC Med 8 (2010): 26.'
+label: 'Silva et al. (2010): Chromosome Copy Number Changes Carry Prognostic Information
+  Independent of Kit/Pdgfra Point ...'
+notes: ~
+pmid: 20470368
+title: Chromosome Copy Number Changes Carry Prognostic Information Independent of
+  Kit/Pdgfra Point Mutations in Gastrointestinal Stromal Tumors.
+year: 2010

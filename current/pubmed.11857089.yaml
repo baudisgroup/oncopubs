@@ -1,0 +1,48 @@
+---
+abstract: To identify critical tumor suppressor loci that are associated with the
+  development of medulloblastoma, we performed a comprehensive genome-wide allelotype
+  analysis in a series of 12 medulloblastomas. Non-random allelic imbalances were
+  identified on chromosomes 7q 58.3 , 8p 66.7 , 16q 58.3 , 17p 58.3 and 17q 66.7 .
+  Comparative genomic hybridization analysis confirmed that allelic imbalances on
+  8p, 16q and 17p were due to loss of genetic materials. Finer deletion mapping in
+  an expanded series of 23 medulloblastomas localized the common deletion region on
+  8p to an interval of 18.14 cM on 8p22-23.2. We then searched within the region of
+  loss on 8p for loci that might contain homozygous deletion using comparative duplex
+  PCR. An overlapping homozygous deletion region was identified in a 1.8 cM interval
+  on 8p22-23.1, between markers D8S520 and D8S1130, in two medulloblastomas. This
+  region of homozygous deletion also encompasses the 1.4 cM minimal deletion region
+  detected on 8p in ductal carcinoma in situ of breast. In conclusion, we reported
+  for the first time a detailed deletion mapping on 8p in medulloblastoma and have
+  identified a region of homozygous deletion on 8p22-23.1 that is likely to contain
+  a critical tumor suppressor gene involved in the development of medulloblastoma.
+authors: Yin XL, Pang JC and Ng HK.
+contact:
+  email: hkng@cuhk.edu.hk
+  name: Ho-keung Ng
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11857089
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Oncogene 21, 9 (2002): 1461-68.'
+label: 'Yin et al. (2002): Identification of a Region of Homozygous Deletion on 8p22-23.1
+  in Medulloblastoma.'
+notes: ~
+pmid: 11857089
+title: Identification of a Region of Homozygous Deletion on 8p22-23.1 in Medulloblastoma.
+year: 2002

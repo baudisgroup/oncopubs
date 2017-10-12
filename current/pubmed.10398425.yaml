@@ -1,0 +1,53 @@
+---
+abstract: 'The aims of the present study were to compare genetic aberrations in primary
+  sarcomas and their pulmonary metastases and to explore the pathways associated with
+  disease spreading. The primary tumor and its subsequent pulmonary metastasis of
+  22 patients were analyzed by comparative genomic hybridization. All samples were
+  obtained before the initiation of chemo- or radiotherapy. The mean total number
+  of aberrations per tumor was 7.6 range, 0-17 in primary tumors and 7. 5 range, 0-19
+  in metastases. The mean numbers of high-level amplifications per tumor were similar
+  0.32 in primary tumors and 0. 36 in metastases . The frequencies of the most common
+  aberrations were relatively similar in primary tumors and metastases: the most frequent
+  gain affected 1q minimal common regions 1q21-q23 in 36 of primary tumors and 1q21
+  in 45 of metastases . The most frequent losses were detected at 9p 9p22-pter in
+  32 of primary tumors and 9p21-pter in 32 of metastases , 10p 10p11.2-p12 in 41 of
+  primary tumors and 10p11.2-pter in 32 of metastases , 11q 11q23-qter in 36 of primary
+  tumors and 32 of metastases , and 13q 13q14-q21 in 45 of primary tumors and 50 of
+  metastases . No aberrations specific to metastases were detected. An increase in
+  the total number of changes during progression was a predominant feature in a majority
+  of these paired samples. Also, the number of differences in the genetic profile
+  outnumbered common changes in a majority of the samples. However, despite the heterogeneous
+  and numerous changes, all pairs with aberrations in both specimens had some shared
+  alterations in both samples. Genes Chromosomes Cancer 25:323-331, 1999.'
+authors: Tarkkanen M, Huuhtanen R, Virolainen M, Wiklund T, Asko-Seljavaara S, Tukiainen
+  E, Lepantalo M, Elomaa I and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 44
+  samples_acgh: 0
+  samples_ccgh: 44
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10398425
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 25, 4 (1999): 323-31.'
+label: 'Tarkkanen et al. (1999): Comparison of Genetic Changes in Primary Sarcomas
+  and Their Pulmonary Metastases.'
+notes: ~
+pmid: 10398425
+title: Comparison of Genetic Changes in Primary Sarcomas and Their Pulmonary Metastases.
+year: 1999

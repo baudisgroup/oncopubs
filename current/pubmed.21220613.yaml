@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: Guo R, Chang L, Liu Z, Li AX, Huang Q, Ann DK, Wang HC, Lin CW, Wu X, Yuan
+  YC, and Yen Y.
+contact:
+  email: ~
+  name: Yun Yen
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21220613
+- geo:GSE22905
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.98
+    - 34.14
+    type: Point
+  info:
+    city: Duarte
+    continent: North America
+    country: United States
+    label: Duarte, United States, North America
+    precision: city
+journal: J Clin Oncol, 29(10) 2011, e257-61.
+label: 'Guo et al. (2011): Canonical nuclear factor kappaB pathway links tumorigenesis
+  of synchronous mantle-cell lymphoma, ...'
+notes: ~
+pmid: 21220613
+title: Canonical nuclear factor kappaB pathway links tumorigenesis of synchronous
+  mantle-cell lymphoma, clear-cell renal-cell carcinoma, and GI stromal tumor.
+year: 2011

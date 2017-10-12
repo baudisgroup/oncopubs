@@ -1,0 +1,45 @@
+---
+abstract: Multifocality occurs in 12-22 of all renal cell carcinoma RCC cases. In
+  order to differentiate multifocal RCC, we performed comparative genomic hybridization
+  CGH and correlated the results with histopathological and clinical data. After histopathological
+  examination of multifocal tumors, tumor areas were dissected from histopathological
+  sections. Isolated DNA was amplified by DOP-PCR. CGH was performed according to
+  standard protocols. Twenty cases were analyzed. In eight cases, at least one identical
+  aberration was detected in the related tumors. Another eight cases showed different
+  chromosomal changes in tumors of the same kidney. In the small additional clear
+  cell tumors typical genetic alterations of clear cell carcinomas were detected whereas
+  in the chromophilic tumors aberrations characterizing both adenomas and carcinomas
+  were found. From these results we conclude that multifocal RCC represents a heterogeneous
+  group of tumors. The malignant potential of small additional tumors in multifocal
+  RCC cannot be excluded.
+authors: Junker K, Hindermann W, Schubert J and Schlichter A.
+contact:
+  email: kerstin.junker@med.uni-jena.de
+  name: Kerstin Junker
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10365129
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: 'Anticancer Res 19, 2C (1999): 1487-92.'
+label: 'Junker et al. (1999): Differentiation of Multifocal Renal Cell Carcinoma By
+  Comparative Genomic Hybridization.'
+notes: ~
+pmid: 10365129
+title: Differentiation of Multifocal Renal Cell Carcinoma By Comparative Genomic Hybridization.
+year: 1999

@@ -1,0 +1,39 @@
+---
+abstract: Hepatocellular carcinoma HCC is an aggressive malignancy its mechanisms
+  of development and progression are poorly understood. We used an integrative approach
+  to identify HCC driver genes, defined as genes whose copy numbers associate with
+  gene expression and cancer progression.
+authors: Roessler S, Long EL, Budhu A, Chen Y, Zhao X, Ji J, Walker R, Jia HL, Ye
+  QH, Qin LX, Tang ZY, He P, Hunter KW, Thorgeirsson SS, Meltzer PS and Wang XW.
+contact:
+  email: ~
+  name: Wei Wang
+counts:
+  biosamples: 76
+  samples_acgh: 76
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22202459
+- geo:GSE14322
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Gastroenterology (2011)
+label: 'Roessler et al. (2011): Integrative Genomic Identification of Genes on 8p
+  Associated With Hepatocellular Carcinoma ...'
+notes: ~
+pmid: 22202459
+title: Integrative Genomic Identification of Genes on 8p Associated With Hepatocellular
+  Carcinoma Progression and Patient Survival.
+year: 2011

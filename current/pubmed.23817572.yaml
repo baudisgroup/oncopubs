@@ -1,0 +1,56 @@
+---
+abstract: Pilocytic astrocytoma, the most common childhood brain tumor, is typically
+  associated with mitogen-activated protein kinase MAPK pathway alterations. Surgically
+  inaccessible midline tumors are therapeutically challenging, showing sustained tendency
+  for progression and often becoming a chronic disease with substantial morbidities.
+  Here we describe whole-genome sequencing of 96 pilocytic astrocytomas, with matched
+  RNA sequencing n 73 , conducted by the International Cancer Genome Consortium ICGC
+  PedBrain Tumor Project. We identified recurrent activating mutations in FGFR1 and
+  PTPN11 and new NTRK2 fusion genes in non-cerebellar tumors. New BRAF-activating
+  changes were also observed. MAPK pathway alterations affected all tumors analyzed,
+  with no other significant mutations identified, indicating that pilocytic astrocytoma
+  is predominantly a single-pathway disease. Notably, we identified the same FGFR1
+  mutations in a subset of H3F3A-mutated pediatric glioblastoma with additional alterations
+  in the NF1 gene. Our findings thus identify new potential therapeutic targets in
+  distinct subsets of pilocytic astrocytoma and childhood glioblastoma.
+authors: Jones DT, Hutter B, Jager N, Korshunov A, Kool M, Warnatz HJ, Zichner T,
+  Lambert SR, Ryzhova M, Quang DA, Fontebasso AM, Stutz AM, Hutter S, Zuckermann M,
+  Sturm D, Gronych J, Lasitschka B, Schmidt S, Seker-Cin H, Witt H, Sultan M, Ralser
+  M, Northcott PA, Hovestadt V, Bender S, Pfaff E, Stark S, Faury D, Schwartzentruber
+  J, Majewski J, Weber UD, Zapatka M, Raeder B, Schlesner M, Worth CL, Bartholomae
+  CC, von Kalle C, Imbusch CD, Radomski S, Lawerenz C, van Sluis P, Koster J, Volckmann
+  R, Versteeg R, Lehrach H, Monoranu C, Winkler B, Unterberg A, Herold-Mende C, Milde
+  T, Kulozik AE, Ebinger M, Schuhmann MU, Cho YJ, Pomeroy SL, von Deimling A, Witt
+  O, Taylor MD, Wolf S, Karajannis MA, Eberhart CG, Scheurlen W, Hasselblatt M, Ligon
+  KL, Kieran MW, Korbel JO, Yaspo ML, Brors B, Felsberg J, Reifenberger G, Collins
+  VP, Jabado N, Eils R, Lichter P and Pfister SM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 96
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 96
+external_identifiers:
+- pubmed:23817572
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Nat Genet (2013) 45: 927-932.'
+label: 'Jones et al. (2013): Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic
+  astrocytoma.'
+notes: ~
+pmid: 23817572
+title: Recurrent somatic alterations of FGFR1 and NTRK2 in pilocytic astrocytoma.
+year: 2013

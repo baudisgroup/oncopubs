@@ -1,0 +1,41 @@
+---
+abstract: Liver metastases are found in 10 of primary colorectal malignancies, and
+  they affects the prognosis of patients with colorectal carcinoma. The authors investigated
+  DNA copy number aberrations by using comparative genomic hybridization CGH and DNA
+  ploidy alterations by using flow cytometry FCM in patients with primary colorectal
+  carcinoma primary tumors . To determine whether there are characteristic DNA copy
+  number alterations that contribute to liver metastasis, cytogenetic aberrations
+  were examined by CGH and FCM.
+authors: Nakao K, Shibusawa M, Ishihara A, Yoshizawa H, Tsunoda A, Kusano M, Kurose
+  A, Makita T and Sasaki K.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11241239
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Cancer 91, 4 (2001): 721-26.'
+label: 'Nakao et al. (2001): Genetic Changes in Colorectal Carcinoma Tumors With Liver
+  Metastases Analyzed By Comparative ...'
+notes: ~
+pmid: 11241239
+title: Genetic Changes in Colorectal Carcinoma Tumors With Liver Metastases Analyzed
+  By Comparative Genomic Hybridization and DNA Ploidy.
+year: 2001

@@ -1,0 +1,39 @@
+---
+abstract: Copy neutral loss of heterozygosity CN-LOH refers to a special case of LOH
+  occurring without any resulting loss in copy number. These alterations is sometimes
+  seen in tumors as a way to inactivate a tumor suppressor gene and have been found
+  to be important in several types of cancer.
+authors: Kryh H, Caren H, Erichsen J, Sjoberg RM, Abrahamsson J, Kogner P and Martinsson
+  T.
+contact:
+  email: ~
+  name: Tommy Martinsson
+counts:
+  biosamples: 134
+  samples_acgh: 134
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21899760
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'BMC Genomics 12 (2011): 443.'
+label: 'Kryh et al. (2011): Comprehensive Snp Array Study of Frequently Used Neuroblastoma
+  Cell Lines; Copy Neutral Loss of ...'
+notes: ~
+pmid: 21899760
+title: Comprehensive Snp Array Study of Frequently Used Neuroblastoma Cell Lines;
+  Copy Neutral Loss of Heterozygosity is Common in the Cell Lines But Uncommon in
+  Primary Tumors.
+year: 2011

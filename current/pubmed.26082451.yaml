@@ -1,0 +1,46 @@
+---
+abstract: The pathogenesis of mycosis fungoides (MF), the most common cutaneous T-cell
+  lymphoma (CTCL), is unknown. Although genetic alterations have been identified,
+  none are considered consistently causative in MF. To identify potential drivers
+  of MF, we performed whole-genome sequencing of MF tumors and matched normal skin.
+  Targeted ultra-deep sequencing of MF samples and exome sequencing of CTCL cell lines
+  were also performed. Multiple mutations were identified that affected the same pathways,
+  including epigenetic, cell-fate regulation, and cytokine signaling, in MF tumors
+  and CTCL cell lines. Specifically, interleukin-2 signaling pathway mutations, including
+  activating Janus kinase 3 (JAK3) mutations, were detected. Treatment with a JAK3
+  inhibitor significantly reduced CTCL cell survival. Additionally, the mutation data
+  identified 2 other potential contributing factors to MF, ultraviolet light, and
+  a polymorphism in the tumor suppressor p53 (TP53). Therefore, genetic alterations
+  in specific pathways in MF were identified that may be viable, effective new targets
+  for treatment.
+authors: McGirt LY, Jia P, Baerenwald DA, Duszynski RJ, Dahlman KB, Zic JA, Zwerner
+  JP, Hucks D, Dave U, Zhao Z and Eischen CM
+contact:
+  email: christine.eischen@vanderbilt.edu
+  name: Christine Eischen
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 4
+  samples_wgs: 5
+external_identifiers:
+- pubmed:26082451
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.78
+    - 36.17
+    type: Point
+  info:
+    city: Nashville
+    continent: North America
+    country: United States
+    label: Nashville, United States, North America
+    precision: city
+journal: Blood 126(4), 2015
+label: 'McGirt LY et al. (2015): '
+notes: ~
+pmid: 26082451
+title: Whole-genome sequencing reveals oncogenic mutations in mycosis fungoides.
+year: 2015

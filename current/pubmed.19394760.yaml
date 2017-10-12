@@ -1,0 +1,49 @@
+---
+abstract: The genomic aberration profile of chromosome 20q in distal CIN colon carcinomas
+  was analysed using allelotyping and CGH arrays. Allelotyping revealed carcinomas
+  with allelic imbalance along the full long arm, and carcinomas with fully non-aberrant
+  20q. Oligonucleotide-based CGH showed that among the carcinomas without allelic
+  imbalance, 47 had in fact a gain. In this subgroup, quantitative PCR for the TOPI
+  gene 20q12 confirmed this gain, and fluorescence in situ hybridization showed that
+  the chromosome 20q gain resulted from tetra polysomy instead of aneusomy. The 20q
+  gain correlated with a high frequency of aberrations, with allelic imbalance at
+  TP53 locus but not at APC locus, and carcinomas with a disomic 20q showed low frequency
+  of genomic aberrations and were significantly associated to mucinous phenotype.
+  The prognostic value of 20q amplification was not demonstrated in this study. These
+  results indicate that on the basis of aberration frequency, chromosome 20q and TP53
+  APC locus status, distal CIN carcinomas harbor a high degree of genetic heterogeneity
+  suggesting several pathways for carcinogenesis. This study also indicates that allelotyping
+  needs to be carried out with a complementary technique, such as quantitative PCR.
+authors: Nicolet C, Guerin E, Neuville A, Kerckaert JP, Wicker N, Bergmann E, Brigand
+  C, Kedinger M, Gaub MP and Guenot D.
+contact:
+  email: dominique.guenot@inserm.u-strasbg.fr
+  name: Dominique Guenot
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19394760
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.75
+    - 48.58
+    type: Point
+  info:
+    city: Strasbourg
+    continent: Europe
+    country: France
+    label: Strasbourg, France, Europe
+    precision: city
+journal: 'Cancer Lett 282, 2 (2009): 195-204.'
+label: 'Nicolet et al. (2009): Evidence for Various 20q Status Using Allelotyping,
+  Cgh Arrays, and Quantitative Pcr in Distal ...'
+notes: ~
+pmid: 19394760
+title: Evidence for Various 20q Status Using Allelotyping, Cgh Arrays, and Quantitative
+  Pcr in Distal Cin Colon Cancers.
+year: 2009

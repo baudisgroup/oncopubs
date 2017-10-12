@@ -1,0 +1,54 @@
+---
+abstract: In contrast to acute lymphoblastic leukemia in children, adult cases are
+  associated with a very poor prognosis. In order to ascertain whether the frequencies
+  and patterns of submicroscopic changes, identifiable with single nucleotide polymorphism
+  array analysis, differ between childhood and adult acute lymphoblastic leukemia,
+  we performed single nucleotide polymorphism array analyses of 126 adult cases, the
+  largest series to date, including 18 paired diagnostic and relapse samples. Apart
+  from identifying characteristic microdeletions of the CDKN2A, EBF1, ETV6, IKZF1,
+  PAX5 and RB1 genes, the present study uncovered novel, focal deletions of the BCAT1,
+  BTLA, NR3C1, PIK3AP1 and SERP2 genes in 2-6 of the adult cases. IKZF1 deletions
+  were associated with B-cell precursor acute lymphoblastic leukemia P 0.036 , BCR-ABL1-positive
+  acute lymphoblastic leukemia P 0.001 , and higher white blood cell counts P 0.005
+  . In addition, recurrent deletions of RASSF3 and TOX were seen in relapse samples.
+  Comparing paired diagnostic relapse samples revealed identical changes at diagnosis
+  and relapse in 27 , clonal evolution in 22 , and relapses evolving from ancestral
+  clones in 50 , akin to what has previously been reported in pediatric acute lymphoblastic
+  leukemia and indicating that the mechanisms of relapse may be similar in adult and
+  childhood cases. These findings provide novel insights into the leukemogenesis of
+  adult acute lymphoblastic leukemia, showing similarities to childhood disease in
+  the pattern of deletions and the clonal relationship between diagnostic and relapse
+  samples, but with the adult cases harboring additional aberrations that have not
+  been described in pediatric acute lymphoblastic leukemia.
+authors: Safavi S, Hansson M, Karlsson K, Biloglav A, Johansson B and Paulsson K.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 126
+  samples_acgh: 126
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25261097
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Haematologica (2014).
+label: 'Safavi et al. (2014): Novel gene targets detected by genomic profiling in
+  a consecutive series of 126 adult acute ...'
+notes: ~
+pmid: 25261097
+title: Novel gene targets detected by genomic profiling in a consecutive series of
+  126 adult acute lymphoblastic leukemia cases.
+year: 2014

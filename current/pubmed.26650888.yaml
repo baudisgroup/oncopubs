@@ -1,0 +1,39 @@
+---
+abstract: Investigation of the genetic lesions underlying classical Hodgkin lymphoma
+  (CHL) has been challenging due to the rarity of Hodgkin and Reed-Sternberg (HRS)
+  cells, the pathognomonic neoplastic cells of CHL. In an effort to catalog more comprehensively
+  recurrent copy number alterations occurring during oncogenesis, we investigated
+  somatic alterations involved in CHL using whole-genome sequencing-mediated copy
+  number analysis of purified HRS cells. We performed low-coverage sequencing of small
+  numbers of intact HRS cells and paired non-neoplastic B lymphocytes isolated by
+  flow cytometric cell sorting from 19 primary cases, as well as two commonly used
+  HRS-derived cell lines (KM-H2 and L1236). We found that HRS cells contain strikingly
+  fewer copy number abnormalities than CHL cell lines. A subset of cases displayed
+  nonintegral chromosomal copy number states, suggesting internal heterogeneity within
+  the HRS cell population. Recurrent somatic copy number alterations involving known
+  factors in CHL pathogenesis were identified (REL, the PD-1 pathway, and TNFAIP3).
+  In eight cases (42%) we observed recurrent copy number loss of chr1:2,352,236-4,574,271,
+  a region containing the candidate tumor suppressor TNFRSF14. Using flow cytometry,
+  we demonstrated reduced TNFRSF14 expression in HRS cells from 5 of 22 additional
+  cases (23%) and in two of three CHL cell lines. These studies suggest that TNFRSF14
+  dysregulation may contribute to the pathobiology of CHL in a subset of cases. ï¿½
+  2015 Wiley Periodicals, Inc.  ï¿½ 2015 Wiley Periodicals, Inc.
+authors: Salipante SJ, Adey A, Thomas A, Lee C, Liu YJ, Kumar A, Lewis AP, Wu D, Fromm
+  JR and Shendure J
+contact:
+  email: shendure@uw.edu
+  name: Stephen J. Salipante
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 19
+external_identifiers:
+- pubmed:26650888
+journal: Genes Chromosomes Cancer 55(3), 2016
+label: 'Salipante SJ et al. (2016): '
+notes: ~
+pmid: 26650888
+title: Recurrent somatic loss of TNFRSF14 in classical Hodgkin lymphoma.
+year: 2016

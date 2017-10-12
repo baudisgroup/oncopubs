@@ -1,0 +1,44 @@
+---
+abstract: 'To understand the molecular pathogenesis of human esophageal cancer, we
+  performed a comparative genomic hybridization CGH analysis using 10 esophageal squamous
+  cell carcinomas. Frequent gains of 1q, 3q, 7p, 7q, 8q, 11q, and 20q and losses of
+  3p, 4p, 4q, 5q, 9p, 11p, 11q, 13q, 18q, 21q, and Y were observed. Among these regions,
+  21q has not yet been investigated in detail. We performed an allelotype study using
+  55 squamous cell carcinomas of the esophagus and 20 microsatellite markers on 21q
+  and found LOH in 36 cases 65 : 22 61 of 36 cases with LOH indicated allelic loss
+  in all informative loci, suggesting loss of the whole chromosome arm 21q, and five
+  smallest regions of overlap were found. Our present results suggest the existence
+  of a tumor suppressor gene s that plays a role in the genesis of squamous cell carcinoma
+  of the esophagus.'
+authors: Mayama T, Fukushige S, Shineha R, Nishihira T, Satomi S and Horii A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10891531
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.87
+    - 38.26
+    type: Point
+  info:
+    city: Sendai
+    continent: Asia
+    country: Japan
+    label: Sendai, Japan, Asia
+    precision: city
+journal: 'Int J Oncol 17, 2 (2000): 245-52.'
+label: 'Mayama et al. (2000): Frequent Loss of Copy Number on the Long Arm of Chromosome
+  21 in Human Esophageal Squamous Cell ...'
+notes: ~
+pmid: 10891531
+title: Frequent Loss of Copy Number on the Long Arm of Chromosome 21 in Human Esophageal
+  Squamous Cell Carcinoma.
+year: 2000

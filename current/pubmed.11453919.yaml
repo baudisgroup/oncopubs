@@ -1,0 +1,51 @@
+---
+abstract: Adult T-cell leukaemia/lymphoma (ATLL) is a neoplasm of mature helper (CD4)
+  T lymphocytes. Little is known, however, about the chromosome aberrations associated
+  with the pathogenesis of this malignancy. Using molecular cytogenetic techniques
+  we, therefore, investigated a 44-year-old man who had a 7-year history of ATLL with
+  cutaneous involvement mimicking primary cutaneous T-cell lymphoma. Conventional
+  cytogenetics revealed gross chromosomal changes with chromosome numbers ranging
+  from 71 to 82. There were structural abnormalities of chromosomes 7 and 9, partial
+  deletions of chromosomes 1, 3, 5 and 6, and loss of chromosomes 2, 4, 9, 11--14,
+  21 and 22. Multiplex-fluorescence in situ hybridization (M-FISH) identified two
+  derivative chromosomes, der(6)t(6;7)(q16;q21) and der(7)t(6;7)(q16;q21)ins(6;12)(q2?;?),
+  and a deletion of chromosome 1p. Conventional FISH confirmed the M-FISH findings.
+  Comparative genomic hybridization of the blood revealed gains of DNA copy number
+  at 1q12--25, 6p24--25, 9p23, 16p13--q13, 17q11--21, 19p13 and 20q13 and loss at
+  11p15 while lymph nodes showed gains at 3p22--24, 3q27--29, 7q36 and 15q26 and losses
+  at 2p24--25, 2q37, 10p14--15, 11p15, 13q33--34 and 16p13.3. No DNA copy number changes
+  were seen in a skin lesion. These results show the extent of genetic abnormalities
+  within this malignancy.
+authors: Mao X, Lillington DM, Czepulkowski B, Young BD, Russell-Jones R and Whittaker
+  S
+contact:
+  email: mxmayo@hotmail.com
+  name: Xin Mao
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11453919
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Br. J. Dermatol. 145(1), 2001
+label: 'Mao X et al. (2001): '
+notes: ~
+pmid: 11453919
+title: A case of adult T-cell leukaemia/lymphoma characterized by multiplex-fluorescence
+  in situ hybridization, comparative genomic hybridization, fluorescence in situ hybridization
+  and cytogenetics.
+year: 2001

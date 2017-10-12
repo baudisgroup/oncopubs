@@ -1,0 +1,47 @@
+---
+abstract: In a previous study that used comparative genomic hybridization CGH to analyze
+  43 ductal breast carcinomas selected for hyperdiploidy, we proposed the existence
+  of two distinct pathways of chromosomal evolution. In the present study, in which
+  we reassessed our cytogenetic findings on 158 ductal breast carcinomas selected
+  for having a modal number of chromosomes of fewer than 60, we confirmed the existence
+  of two subtypes of tumors. Along with the great majority of tumors 142 of 158 that
+  evolved through structural rearrangements with no or very few whole-chromosome gains,
+  we found that a minor subset 16 of 158 evolved through progressive gains of whole
+  chromosomes with no or only a few associated rearrangements. In this article, we
+  describe the karyotypes of these 16 tumors together with data from CGH, which was
+  performed for 10 of them. Chromosomes 5, 7, 8, and 20 were the most frequently gained.
+  Our findings support the evidence of a new pathway of chromosomal evolution in a
+  small subset of ductal breast carcinomas characterized by numerical chromosome aberrations.
+authors: Molist R, Gerbault-Seureau M, Sastre-Garau X, Sigal-Zafrani B, Dutrillaux
+  B and Muleris M.
+contact:
+  email: martine.muleris@cephb.fr
+  name: Martine Muleris
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15751042
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 43, 2 (2005): 147-54.'
+label: 'Molist et al. (2005): Ductal Breast Carcinoma Develops Through Different Patterns
+  of Chromosomal Evolution.'
+notes: ~
+pmid: 15751042
+title: Ductal Breast Carcinoma Develops Through Different Patterns of Chromosomal
+  Evolution.
+year: 2005

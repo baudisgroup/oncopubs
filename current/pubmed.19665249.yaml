@@ -1,0 +1,41 @@
+---
+abstract: The success of sorafenib in the treatment of advanced hepatocellular carcinoma
+  HCC has focused interest on the role of Ras signaling in this malignancy. We investigated
+  the molecular alterations of the Ras pathway in HCC and the antineoplastic effects
+  of sorafenib in combination with rapamycin, an inhibitor of mTOR pathway, in experimental
+  models.
+authors: Newell P, Toffanin S, Villanueva A, Chiang DY, Minguez B, Cabellos L, Savic
+  R, Hoshida Y, Lim KH, Melgar-Lesmes P, Yea S, Peix J, Deniz K, Fiel MI, Thung S,
+  Alsinet C, Tovar V, Mazzaferro V, Bruix J, Roayaie S, Schwartz M, Friedman SL and
+  Llovet JM.
+contact:
+  email: Josep.Llovet@mssm.edu
+  name: Josep M. Llovet
+counts:
+  biosamples: 82
+  samples_acgh: 82
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19665249
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'J Hepatol 51, 4 (2009): 725-33.'
+label: 'Newell et al. (2009): Ras Pathway Activation in Hepatocellular Carcinoma and
+  Anti-Tumoral Effect of Combined Sorafenib ...'
+notes: ~
+pmid: 19665249
+title: Ras Pathway Activation in Hepatocellular Carcinoma and Anti-Tumoral Effect
+  of Combined Sorafenib and Rapamycin in Vivo.
+year: 2009

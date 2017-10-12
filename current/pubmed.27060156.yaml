@@ -1,0 +1,42 @@
+---
+abstract: CLL-associated gene mutations that influence CLL cell fitness and chemotherapy
+  resistance should increase in clonal representation when measured before therapy
+  and at relapse.  To uncover mutations associated with CLL relapse, we have performed
+  whole exome sequencing (WES) in a discovery cohort of sixty-one relapsed CLL patients
+  identifying eighty-six recurrently mutated genes. The variant allele fractions (VAFs)
+  of nineteen genes with mutations in {greater than or equal to} 3/61 cases were measured
+  in fifty-three paired pre- and post-treatment CLL samples sorted to purity using
+  panel-based deep re-sequencing or by droplet digital PCR (ddPCR).  We identify mutations
+  in TP53 as the dominant subclonal gene driver of relapsed CLL often demonstrating
+  substantial increases in VAFs. Subclonal mutations in SAMHD1 also recurrently demonstrated
+  increased VAFs at relapse. Mutations in ATP10A, FAT3, FAM50A and MGA, although infrequent,
+  demonstrated enrichment in {greater than or equal to}2 cases each. In contrast,
+  mutations in NOTCH1, SF3B1, POT1, FBXW7, MYD88, NXF1, XPO1, ZMYM3 or CHD2 were predominantly
+  already clonal prior to therapy indicative of a pre-treatment pathogenetic driver
+  role in CLL. Quantitative analyses of clonal dynamics uncovers rising, stable and
+  falling clones and subclones without clear evidence that gene mutations other than
+  in TP53 and possibly SAMHD1 are frequently selected for at CLL relapse.  Data in
+  aggregate support a provisional categorization of CLL-associated recurrently mutated
+  genes into three classes i) often subclonal pre-therapy and strongly enriched after
+  therapy, or, ii) mostly clonal pre-therapy or without further enrichments at relapse,
+  or, iii) subclonal before and after therapy and enriching only in sporadic cases.  Copyright
+  ï¿½2016, American Association for Cancer Research.
+authors: Amin N, Seymour EK, Saiya-Cork K, Parkin B, Shedden K and Malek S
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 61
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 61
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27060156
+journal: Clin. Cancer Res., 2016
+label: 'Amin N et al. (2016): '
+notes: ~
+pmid: 27060156
+title: A Quantitative Analysis of Subclonal and Clonal Gene Mutations Pre- and Post-therapy
+  in Chronic Lymphocytic Leukemia.
+year: 2016

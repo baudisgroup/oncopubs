@@ -1,0 +1,47 @@
+---
+abstract: Chromosomal abnormalities, like deletions, amplifications, inversions or
+  translocations, are recurrent features in haematological malignancies. However,
+  the precise molecular breakpoints are frequently not determined. Here we describe
+  a rapid analysis of genetic imbalances combining fine tiling comparative genomic
+  hybridization FT-CGH and ligation-mediated PCR LM-PCR . We clarified an inv 14 q11q32
+  in a case of T cell acute lymphoblastic leukaemia with a breakpoint in the TRA D
+  in 68 of cells detected by fluorescence in situ hybridization. FT-CGH showed several
+  mono- and biallelic losses within TRA D. LM-PCR disclosed a TRA D rearrangement
+  on one allele. The other allele revealed an inv 14 q11q32 , joining TRDD2 at 21,977,000
+  of 14q11 together with the IGH locus at 105,948,000 and 3-sequence of TRAC at 22,092,000
+  joined together with IGHV4-61 at 106,166,000. This sensitive approach can unravel
+  complex chromosomal abnormalities in patient samples with a limited amount of aberrant
+  cells and may lead to better diagnostic and therapeutic options.
+authors: Dittmann K, Przybylski GK, Grabarczyk P, Dolken G, Gesk S, Siebert R and
+  Schmidt CA.
+contact:
+  email: ~
+  name: Kathleen Dittmann
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21986343
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.39
+    - 54.09
+    type: Point
+  info:
+    city: Greifswald
+    continent: Europe
+    country: Germany
+    label: Greifswald, Germany, Europe
+    precision: city
+journal: 'Acta Haematol 127, 1 (2012): 16-19.'
+label: 'Dittmann et al. (2012): Fast Approach for Clarification of Chromosomal Aberrations
+  By Using Lm-Pcr and Ft-Cgh in ...'
+notes: ~
+pmid: 21986343
+title: Fast Approach for Clarification of Chromosomal Aberrations By Using Lm-Pcr
+  and Ft-Cgh in Leukaemic Sample.
+year: 2012

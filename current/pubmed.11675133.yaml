@@ -1,0 +1,47 @@
+---
+abstract: To identify amplified oncogenes involved in hepatocellular carcinomas HCC
+  , we applied a genomic DNA microarray spotted with 57 oncogenes to 20 HCCs. Aberrations
+  in DNA copy number also were analyzed by comparative genomic hybridization CGH using
+  an aliquot of DNA samples. In 5 of 20 HCCs, only 6 oncogenes CCND1, FGF3 FGF4, SAS
+  CDK4, TERC, MET, and MYC were amplified, whereas in the remaining 15 tumors no oncogenes
+  were amplified. A comparison of DNA microarray and conventional CGH analyses showed
+  that, although 5 of 6 amplified oncogenes shown by microarray were located in chromosomal
+  regions shown by CGH to have increased DNA copy numbers, not all genes located in
+  such chromosomal regions were affected. One of the amplified oncogenes SAS CDK4
+  was found in a chromosomal region that was undetected by CGH. We, therefore, conclude
+  that amplification of the oncogenes examined in this series is not directly implicated
+  in hepatocellular carcinogenesis.
+authors: Takeo S, Arai H, Kusano N, Harada T, Furuya T, Kawauchi S, Oga A, Hirano
+  T, Yoshida T, Okita K and Sasaki K.
+contact:
+  email: saori.t@po.cc.yamaguchi-u.ac.jp
+  name: Saori Takeo
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11675133
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 130, 2 (2001): 127-32.'
+label: 'Takeo et al. (2001): Examination of Oncogene Amplification By Genomic DNA
+  Microarray in Hepatocellular Carcinomas: ...'
+notes: aCGH data was not counted, since the 57 probes on the AmpliOnc I are not considered
+  sufficient for whole genome screening.
+pmid: 11675133
+title: 'Examination of Oncogene Amplification By Genomic DNA Microarray in Hepatocellular
+  Carcinomas: Comparison With Comparative Genomic Hybridization Analysis.'
+year: 2001

@@ -1,0 +1,52 @@
+---
+abstract: Helicobacter pylori and Epstein-Barr virus EBV both have been associated
+  with gastric carcinoma. No specific genomic aberrations have been reported in association
+  with these agents. We studied 20 cases of primary gastric carcinoma including 11
+  positive for and 6 for EBV by comparative genomic hybridization with validation
+  of results by fluorescence in situ hybridization, loss of heterozygosity analysis,
+  and immunohistochemistry. The results were analyzed in respect to presence or absence
+  of and EBV. The tumors were also compared in terms of histologic type, tumor location,
+  and lymph node metastases. The most frequently observed aberrations in the gastric
+  carcinomas were gains of chromosome 19, 17, 1p, 11, 20q, and 22. The more common
+  losses were found in 4q, 6q, 13q, and 15q. Gains in chromosome 19 and losses in
+  9p23-pter were found more commonly in cases with P amp lt 0.05 . Gains in centromeric
+  region of chromosome 19 were more common in the EBV-negative cases P amp lt 0.05
+  . Immunohistochemical expression of and correlated with gains in the regions containing
+  these genes. Gains in chromosome 11 and losses in 15q15 were more common in cases
+  with EBV P amp lt 0.01 and P amp lt 0.001, respectively . There was no significant
+  association between any genomic aberration and histologic type, tumor location,
+  or nodal metastases. and EBV are associated with different genomic imbalances, suggesting
+  that these infectious agents exert different influences in the development of gastric
+  carcinoma.
+authors: Chan WY, Liu Y, Li CY, Ng EK, Chow JH, Li KK and Chung SC.
+contact:
+  email: ~
+  name: Wing Y. Chan
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12218450
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Diagn Mol Pathol 11, 3 (2002): 127-34.'
+label: 'Chan et al. (2002): Recurrent Genomic Aberrations in Gastric Carcinomas Associated
+  With Helicobacter Pylori and ...'
+notes: ~
+pmid: 12218450
+title: Recurrent Genomic Aberrations in Gastric Carcinomas Associated With Helicobacter
+  Pylori and Epstein-Barr Virus.
+year: 2002

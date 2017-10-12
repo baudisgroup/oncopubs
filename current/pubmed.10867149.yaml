@@ -1,0 +1,52 @@
+---
+abstract: DNA copy number changes were characterized by comparative genomic hybridization
+  CGH in 18 breast cancer cell lines. In 5 of these, the results were comparable with
+  those from the primary tumors of which the cell lines were established. All of the
+  cell lines showed extensive DNA copy number changes, with a mean of 16.3 - 1.1 aberrations
+  per sample range 7-26 . All of the cell lines had a gain at 8q22-qter. Other common
+  gains of DNA sequences occurred at 1q31-32 89 , 20q12-q13.2 83 , 8q13 72 , 3q26.1-qter
+  67 , 17q21-qter 67 5p14 61 , 6p22 56 , and 22pter-qter 50 . High-level amplifications
+  were observed in all cell lines the most frequent minimal common regions were 8q24.1
+  89 , 20q12 61 , 1q41 39 , and 20p11.2 28 . Losses were observed less frequently
+  than gains and the minimal common regions of the most frequent losses were Xq11-q12
+  56 , Xp11.2-pter 50 , 13q21 50 , 8p12-pter 44 , 4p13-p14 39 , 6q15-q22 39 , and
+  18q11.2-qter 33 . Although the cell lines showed more DNA copy number changes than
+  the primary tumors, all aberrations, except one found in a primary tumor, were always
+  present in the corresponding cell line. High-level amplifications found both in
+  primary tumors and cell lines were at 1q, 8q, 17q, and 20q. The DNA copy number
+  changes detected in these cell lines can be valuable in investigation of tumor progression
+  in vitro and for a more detailed mapping and isolation of genes implicated in breast
+  cancer.
+authors: Larramendy ML, Lushnikova T, Bjorkqvist AM, Wistuba II, Virmani AK, Shivapurkar
+  N, Gazdar AF and Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10867149
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 119, 2 (2000): 132-38.'
+label: 'Larramendy et al. (2000): Comparative Genomic Hybridization Reveals Complex
+  Genetic Changes in Primary Breast Cancer ...'
+notes: ~
+pmid: 10867149
+title: Comparative Genomic Hybridization Reveals Complex Genetic Changes in Primary
+  Breast Cancer Tumors and Their Cell Lines.
+year: 2000

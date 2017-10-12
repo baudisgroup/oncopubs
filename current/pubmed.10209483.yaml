@@ -1,0 +1,56 @@
+---
+abstract: Within the subgroup of lymph node-negative breast cancers, there is a need
+  for accurate prognostic indicators to select high-risk patients. Comparative genomic
+  hybridization CGH provides an opportunity to screen the whole genome for chromosomal
+  aberrations which may be associated with poor clinical outcome. The results of CGH
+  analysis of 53 lymph node-negative breast carcinomas are presented and correlated
+  with a set of clinico-pathological and cytometric features with strong prognostic
+  value. The most frequent chromosomal gains were, in descending order of frequency,
+  8q, 1q, Xq, 5q, 4q, and 3q. Recurring losses were observed at chromosomal arms 19p,
+  1p, 17p, 22q, 4q, and 8p. There was not a single, unique combination of chromosomal
+  aberrations, but gains of 1q and 8q were frequently observed simultaneously 15 53
+  cases . DNA aneuploid tumours harboured more gains than DNA diploid tumours, but
+  there was no correlation between the total number of events per tumour detected
+  by CGH and any of the prognostic features. Of the many chromosomal aberrations found,
+  only gains of chromosome 8q were strongly correlated with high values of mean nuclear
+  area. A clearer picture was obtained when comparing only those cases which, according
+  to their cytometric and morphometric features, had either the worst or the best
+  prognosis. Gains occurred mainly in the poor prognostic features group, in particular
+  at 8q, 11q13, 17q, and 20q. It is hypothesized that these gains could be late, progression-related
+  events and may be associated with aggressive clinical behaviour. These four chromosomal
+  regions may therefore be of potential prognostic value. Correlation with real follow-up
+  data will enable us better to identify those patients who have a high risk of recurrence
+  within the subgroup of lymph node-negative breast cancer patients.
+authors: Hermsen MA, Baak JP, Meijer GA, Weiss JM, Walboomers JW, Snijders PJ and
+  van Diest PJ.
+contact:
+  email: jpa.baak@azvu.nl
+  name: Jan P.A. Baak
+counts:
+  biosamples: 53
+  samples_acgh: 0
+  samples_ccgh: 53
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10209483
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pathol 186, 4 (1998): 356-62.'
+label: 'Hermsen et al. (1998): Genetic Analysis of 53 Lymph Node-Negative Breast Carcinomas
+  By Cgh and Relation to Clinical, ...'
+notes: ~
+pmid: 10209483
+title: Genetic Analysis of 53 Lymph Node-Negative Breast Carcinomas By Cgh and Relation
+  to Clinical, Pathological, Morphometric, and DNA Cytometric Prognostic Factors.
+year: 1998

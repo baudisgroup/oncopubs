@@ -1,0 +1,55 @@
+---
+abstract: Somatic gene copy number variation contributes to tumor progression. Using
+  comparative genomic hybridization (CGH) array, the presence of genomic imbalances
+  was evaluated in a series of 27 papillary thyroid carcinomas (PTCs). To detect only
+  somatic imbalances, for each sample, the reference DNA was from normal thyroid tissue
+  of the same patient. The presence of the BRAF V600E mutation was also evaluated.
+  Both amplifications and deletions showed an uneven distribution along the entire
+  PTC cohort; amplifications were more frequent than deletions (mean values of 17.5
+  and 7.2, respectively). Number of aberration events was not even among samples,
+  the majority of them occurring only in a small fraction of PTCs. Most frequent amplifications
+  were detected at regions 2q35, 4q26, and 4q34.1, containing FN1, PDE5A, and GALNTL6
+  genes, respectively. Most frequent deletions occurred at regions 6q25.2, containing
+  OPMR1 and IPCEF1 genes and 7q14.2, containing AOAH and ELMO1 genes. Amplification
+  of FN1 and PDE5A genomic regions was confirmed by quantitative PCR. Frequency of
+  amplifications and deletions was in relationship with clinical features and BRAF
+  mutation status of tumor. In fact, according to the American Joint Committee on
+  Cancer stage and American Thyroid Association (ATA) risk classification, amplifications
+  are more frequent in higher risk samples, while deletions tend to prevail in the
+  lower risk tumors. Analysis of single aberrations according to the ATA risk grouping
+  shows that amplifications containing PDE5A, GALNTL6, DHRS3, and DOCK9 genes are
+  significantly more frequent in the intermediate/high risk group than in the low
+  risk group. Thus, our data would indicate that analysis of somatic genome aberrations
+  by CGH array can be useful to identify additional prognostic variables.
+authors: Passon N, Bregant E, Sponziello M, Dima M, Rosignolo F, Durante C, Celano
+  M, Russo D, Filetti S and Damante G
+contact:
+  email: giuseppe.damante@uniud.it
+  name: Giuseppe Damante
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25863487
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.24
+    - 46.06
+    type: Point
+  info:
+    city: Udine
+    continent: Europe
+    country: Italy
+    label: Udine, Italy, Europe
+    precision: city
+journal: Endocrine, 2015
+label: 'Passon et al. (): Somatic amplifications and deletions in genome of papillary
+  thyroid carcinomas.'
+notes: ~
+pmid: 25863487
+title: Somatic amplifications and deletions in genome of papillary thyroid carcinomas.
+year: 2015

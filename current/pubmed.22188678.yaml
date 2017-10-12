@@ -1,0 +1,35 @@
+---
+abstract: In a cancer cell the number of copies of a locus may vary due to amplification
+  and deletion and these variations are denoted as copy number alterations CNAs .
+  We focus on the disparity of CNAs in tumour samples, which were compared to those
+  in blood in order to identify the directional loss of heterozygosity.
+authors: Kaveh F, Edvardsen H, Borresen-Dale AL, Kristensen VN and Solvang HK.
+contact:
+  email: ~
+  name: Vessela Kristensen
+counts:
+  biosamples: 112
+  samples_acgh: 112
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22188678
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'BMC Med Genomics 4, 1 (2011): 85.'
+label: 'Kaveh et al. (2011): Allele-Specific Disparity in Breast Cancer.'
+notes: ~
+pmid: 22188678
+title: Allele-Specific Disparity in Breast Cancer.
+year: 2011

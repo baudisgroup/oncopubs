@@ -1,0 +1,36 @@
+---
+abstract: Chromosomal aberrations are a hallmark of multiple myeloma but their global
+  prognostic impact is largely unknown.
+authors: Avet-Loiseau H, Li C, Magrangeas F, Gouraud W, Charbonnel C, Harousseau JL,
+  Attal M, Marit G, Mathiot C, Facon T, Moreau P, Anderson KC, Campion L, Munshi NC,
+  and Minvielle S.
+contact:
+  email: ~
+  name: Stephane Minvielle
+counts:
+  biosamples: 192
+  samples_acgh: 192
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19687334
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 47.22
+    type: Point
+  info:
+    city: Nantes
+    continent: Europe
+    country: France
+    label: Nantes, France, Europe
+    precision: city
+journal: J Clin Oncol, 27(27) 2009, 4585-90.
+label: 'Avet-Loiseau et al. (2009): Prognostic significance of copy-number alterations
+  in multiple myeloma.'
+notes: ~
+pmid: 19687334
+title: Prognostic significance of copy-number alterations in multiple myeloma.
+year: 2009

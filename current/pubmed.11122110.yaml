@@ -1,0 +1,48 @@
+---
+abstract: Using comparative genomic hybridization CGH , aberrations in DNA copy number
+  were studied before and after transformation of follicular lymphoma to diffuse large
+  B-cell lymphoma in six patients 15 lymph node biopsies in total . The most common
+  and also the most discrete and intense amplification occurring in four out of 15
+  biopsies from three different patients was of 2p13-16. Using real-time quantitative
+  polymerase chain reaction RQ-PCR , REL amplification was found to be implicated
+  at this locus. This technique also identified amplified REL in a further two biopsies,
+  presumably below the detection level of CGH. REL amplification was quantified by
+  comparing it, in most cases, with three endogenous reference genes, albumin, beta2-microglobulin
+  and CD8alpha, that lie close to REL on 2p. There was no correlation apparent between
+  2p13-16 amplification or REL amplification and transformation. This study shows
+  the usefulness of coupling CGH, for detecting recurring abnormalities, with the
+  real-time PCR technique for rapid gene dosage quantification and confirms that the
+  REL gene is a potential candidate in the pathogenesis of a particular subset of
+  follicular lymphomas.
+authors: Goff LK, Neat MJ, Crawley CR, Jones L, Jones E, Lister TA and Gupta RK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11122110
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Br J Haematol 111, 2 (2000): 618-25.'
+label: 'Goff et al. (2000): The Use of Real-Time Quantitative Polymerase Chain Reaction
+  and Comparative Genomic Hybridization to ...'
+notes: ~
+pmid: 11122110
+title: The Use of Real-Time Quantitative Polymerase Chain Reaction and Comparative
+  Genomic Hybridization to Identify Amplification of the Rel Gene in Follicular Lymphoma.
+year: 2000

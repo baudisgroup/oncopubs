@@ -1,0 +1,52 @@
+---
+abstract: In acute myeloid leukemia AML , nonrandom clonal chromosome aberrations
+  are detectable in  55 of adult cases. Translocation t 8 21 q22 q22 resulting in
+  the 5RUNX1 3RUNX1T1 fusion gene occurs in  8 of AML cases. Also, ins 8 21 and ins
+  21 8 have been described that show a broad heterogeneity at the molecular level
+  with inserted fragment sizes ranging from 2.4 to 44 Mb. Microarray-based comparative
+  genomic hybridization arrayCGH in 49 intermediate-risk AML and RT-PCR-based screening
+  in 532 AML cases allowed the detection of ins 21 8 ins 8 21 in three cases arrayCGH
+  and subsequent RT-PCR revealed an  0.5 Mb sized inserted fragment generating the
+  5RUNX1 3RUNX1T1 fusion gene in one case with a submicroscopic ins 21 8 q22 q22q22
+  whereas the other two cases were identified by banding analysis and RT-PCR, respectively.
+  Gene expression profiling GEP and a detailed review of the literature highlighted
+  similar biological features of AML cases with ins 21 8 ins 8 21 and t 8 21 q22 q22
+  . Our study demonstrates the potential of high-resolution array-based analysis and
+  GEP and provides further evidence that AML with insertions generating the 5RUNX1
+  3RUNX1T1 fusion not only biologically resemble the t 8 21 q22 q22 AML subgroup,
+  but might also share its prognostically favorable clinical behavior. Thus, similar
+  treatment options should be considered in these patients.
+authors: Rucker FG, Bullinger L, Gribov A, Sill M, Schlenk RF, Lichter P, Dohner H
+  and Dohner K.
+contact:
+  email: konstanze.doehner@uniklinik-ulm.de
+  name: Konstanze Doehner
+counts:
+  biosamples: 49
+  samples_acgh: 49
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20967878
+- geo:GSE24384
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 1 (2011): 51-58.'
+label: 'Rucker et al. (2011): Molecular Characterization of Aml With Ins(21;8)(Q22;Q22Q22)
+  Reveals Similarity to T(8;21) ...'
+notes: ~
+pmid: 20967878
+title: Molecular Characterization of Aml With Ins(21;8)(Q22;Q22Q22) Reveals Similarity
+  to T(8;21) Aml.
+year: 2011

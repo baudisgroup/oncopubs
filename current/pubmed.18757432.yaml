@@ -1,0 +1,57 @@
+---
+abstract: The 8p11-12 chromosome region is one of the regions most frequently amplified
+  in breast carcinoma 10-15 of cases . Several genes within this region have been
+  identified as candidate oncogenes, as they are both amplified and overexpressed.
+  However, very few studies have explored the role of these genes in cell transformation,
+  with the aim of identifying valuable therapeutic targets. An analysis of comparative
+  genomic hybridization array and expression profiling data for a series of 152 ductal
+  breast carcinomas and 21 cell lines identified five genes LSM1, BAG4, DDHD2, PPAPDC1B,
+  and WHSC1L1 within the amplified region as consistently overexpressed due to an
+  increased gene copy number. The use of small interfering RNA to knock down the expression
+  of each of these genes showed the major role played by two genes, PPAPDC1B and WHSC1L1,
+  in regulating the survival and transformation of two different cell lines harboring
+  the 8p amplicon. The role of these two genes in cell survival and cell transformation
+  was also confirmed by long-term knockdown expression studies using short hairpin
+  RNAs. The potential of PPAPDC1B, which encodes a transmembrane phosphatase, as a
+  therapeutic target was further shown by the strong inhibition of growth of breast
+  tumor xenografts displaying 8p11-12 amplification induced by the silencing of PPAPDC1B.
+  The oncogenic properties of PPAPDC1B were further shown by its ability to transform
+  NIH-3T3 fibroblasts, inducing their anchorage-independent growth. Finally, microarray
+  experiments on PPAPDC1B knockdown indicated that this gene interfered with multiple
+  cell signaling pathways, including the Janus-activated kinase-signal transducer
+  and activator of transcription, mitogen-activated protein kinase, and protein kinase
+  C pathways. PPAPDC1B may also potentiate the estrogen receptor pathway by down-regulating
+  DUSP22.
+authors: Bernard-Pierrot I, Gruel N, Stransky N, Vincent-Salomon A, Reyal F, Raynal
+  V, Vallot C, Pierron G, Radvanyi F and Delattre O.
+contact:
+  email: olivier.delattre@curie.fr
+  name: Olivier Delattre
+counts:
+  biosamples: 152
+  samples_acgh: 152
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18757432
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Cancer Res 68, 17 (2008): 7165-75.'
+label: 'Bernard-Pierrot et al. (2008): Characterization of the Recurrent 8p11-12 Amplicon
+  Identifies Ppapdc1B, a Phosphatase ...'
+notes: ~
+pmid: 18757432
+title: Characterization of the Recurrent 8p11-12 Amplicon Identifies Ppapdc1B, a Phosphatase
+  Protein, as a New Therapeutic Target in Breast Cancer.
+year: 2008

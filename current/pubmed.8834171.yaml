@@ -1,0 +1,52 @@
+---
+abstract: Comparative genomic hybridization CGH was used to detect and map the regions
+  of gain, high-level amplification, and loss of DNA sequences in 14 liposarcomas.
+  Thirteen tumors showed DNA sequence copy number changes of one or more genomic regions
+  mean, six aberrations tumor range, 0-17 . These aberrations were observed in almost
+  every chromosome but some chromosomal regions were affected more often than others.
+  DNA sequence gains were more frequent than losses. The most common gain was seen
+  at 12q14-21 50 of tumors . Other frequent gains 29 were of 1q21-24, 8cen-q21.2,
+  19q, and 20q. High-level amplification was observed in six 43 tumors and included
+  as minimal common segments bands 12q15, 1q22, and 1q24. In five 36 tumors, sequences
+  at 1q21-24 and 1q32 were found to be gained simultaneously with 12q14-21, which
+  means that in 71 of the tumors with gain at 12q, an increase of DNA sequence copy
+  number at 1q was also observed. The most common losses of DNA sequences 21 occurred
+  from regions 9p21-pter and 13q21-qter. Most of the aforementioned regions have not
+  previously been reported to be altered in liposarcomas. The detection of a novel
+  recurring amplicon at 1q21-24 with high-level amplification at 1q22 and frequent
+  simultaneous DNA sequence gain at 12q14-21 high-level amplification at 12q15 suggests
+  that genes linked to both these regions may play a significant role in the development
+  and progression of liposarcomas.
+authors: Szymanska J, Tarkkanen M, Wiklund T, Virolainen M, Blomqvist C, Asko-Seljavaara
+  S, Tukiainen E, Elomaa I and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8834171
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 15, 2 (1996): 89-94.'
+label: 'Szymanska et al. (1996): Gains and Losses of DNA Sequences in Liposarcomas
+  Evaluated By Comparative Genomic ...'
+notes: ~
+pmid: 8834171
+title: Gains and Losses of DNA Sequences in Liposarcomas Evaluated By Comparative
+  Genomic Hybridization.
+year: 1996

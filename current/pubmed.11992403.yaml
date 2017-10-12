@@ -1,0 +1,53 @@
+---
+abstract: Two developmentally highly divergent nonmelanoma skin cancers, the epidermal
+  squamous cell carcinomas SCC and the neuroendocrine Merkel cell carcinomas MCC ,
+  occur late in life at sun-exposed body sites. To determine whether these similarities
+  may indicate common genetic alterations, we studied the genetic profile of 10 MCCs
+  and analyzed 6 derived cell lines and 5 skin SCC lines by comparative genomic hybridization
+  CGH and molecular genetic analyses. Although the MCCs were highly divergent-only
+  3 of the 10 tumors exhibited common gains and losses-they shared gain of 8q21-q22
+  and loss of 4p15-pter with the genetically much more homogeneous SCC lines. In addition,
+  2 of 5 SCC and 2 of 6 MCC lines exhibited UV-B-type-specific mutations in the p53
+  tumor-suppressor gene and a high frequency 9 11 of CC-- amp gt TT double base changes
+  in codon 27 of the Harvey Ha -ras gene. Since 45 of the tumor lines were homozygous
+  for this nucleotide substitution compared to 14 of the controls and in 1 MCC patient
+  the wild-type allele was lost in the tumor, this novel polymorphism may contribute
+  to tumor development. On the other hand, loss of 3p, characteristic for SCCs, was
+  rare in MCCs. Although in 2 of 3 SCC lines 3p loss was correlated with reduced expression
+  of the FHIT fragile histidine triad gene, the potential tumor suppressor mapped
+  to 3p14.2 and 2 MCC lines with normal 3p showed aberrant or no FHIT transcripts.
+  Taken together, in addition to the common UV-B-specific mutations in the p53 and
+  Ha-ras gene, MCCs and SCCs also share chromosomal imbalances that may point to a
+  common environmental-derived e.g., UV-A oxidative damage.
+authors: Popp S, Waltering S, Herbst C, Moll I and Boukamp P.
+contact:
+  email: p.boukamp@dkfz.de
+  name: Petra Boukamp
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11992403
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 99, 3 (2002): 352-60.'
+label: 'Popp et al. (2002): Uv-B-Type Mutations and Chromosomal Imbalances Indicate
+  Common Pathways for the Development of ...'
+notes: ~
+pmid: 11992403
+title: Uv-B-Type Mutations and Chromosomal Imbalances Indicate Common Pathways for
+  the Development of Merkel and Skin Squamous Cell Carcinomas.
+year: 2002

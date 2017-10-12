@@ -1,0 +1,51 @@
+---
+abstract: Gain of chromosome 18q and translocation t 14 18 are frequently found in
+  B-cell non-Hodgkins lymphomas B-NHL . Increased BCL2 transcription and BCL2 protein
+  expression have been suggested to be the result of the gain. We utilized FISH, PCR
+  and array CGH to study BCL2 and chromosome 18 copy number changes and rearrangements
+  in 93 cases of B-NHL. BCL2 protein was expressed in amp gt 75 of the tumor cells
+  in 92 of the cases by immunohistochemistry. Gain of BCL2 was associated with a 25
+  increase in BCL2 expression levels immunoblotting , whereas t 14 18 resulted in
+  a 55 increase in BCL2 levels compared to cases without BCL2 alterations. The tumor
+  cell spontaneous apoptotic fractions were similar for the cases with different BCL2
+  genotypes. However, the normal cell apoptotic fractions were higher for the tumors
+  with t 14 18 compared to the tumors without BCL2 alterations, while the tumors with
+  gain of BCL2 only showed intermediate levels. Low-level gains of parts of chromosome
+  18 were found in 14 of the 38 B-NHL cases with t 14 18 , with a consensus region
+  18pter-q21.33 that did not include the BCL2 gene. The 11 cases with 18q gain only
+  showed a consensus region encompassing 18q21.2-18q21.32 and 18q21.33, which contain
+  PMAIP1 MALT1 and BCL2, respectively.
+authors: Galteland E, Sivertsen EA, Svendsrud DH, Smedshammer L, Kresse SH, Meza-Zepeda
+  LA, Myklebost O, Suo Z, Mu D, Deangelis PM and Stokke T.
+contact:
+  email: trond.stokke@dnr.uio.no
+  name: Trond Stokke
+counts:
+  biosamples: 93
+  samples_acgh: 93
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16193090
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Leukemia 19, 12 (2005): 2313-23.'
+label: 'Galteland et al. (2005): Translocation T(14;18) and Gain of Chromosome 18/Bcl2:
+  Effects on Bcl2 Expression and Apoptosis ...'
+notes: No case specific aCGH data was presented (results were focused on chromosome
+  18 only). CGH data of the cases had been published previously.
+pmid: 16193090
+title: 'Translocation T(14;18) and Gain of Chromosome 18/Bcl2: Effects on Bcl2 Expression
+  and Apoptosis in B-Cell Non-Hodgkins Lymphomas.'
+year: 2005

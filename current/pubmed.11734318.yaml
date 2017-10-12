@@ -1,0 +1,49 @@
+---
+abstract: We analyzed genomic aberrations in 20 cervical adenocarcinomas by comparative
+  genomic hybridization CGH . Most tissue samples 85 showed DNA copy number changes
+  gains were more common than losses. The most consistent region of chromosomal gain
+  was mapped to chromosome arm 3q, found in 70 of the cases, with a minimal common
+  region of 3q28-ter. Other recurrent amplifications of genetic material were detected
+  on 17q 45 , 1p 30 , 1q 25 , and 11q 20 . High-level copy number increases were found
+  in chromosomal regions 3q27-ter and 9pter-13. DNA losses were seldom observed, occurring
+  primarily in underrepresented regions of chromosome arms 4q, 13q, and 18q. The presence
+  of high-risk human papilloma virus genomes in the cervical adenocarcinoma samples
+  was detected in 90 of the cases. However, there was no correlation between human
+  papilloma virus type and the pattern of genomic changes. This study is the first
+  report of CGH analysis in human cervical adenocarcinoma. Among the major genomic
+  alterations, our results demonstrate the importance of DNA copy increases of chromosome
+  arm 3q in the development of cervical adenocarcinoma and identify other amplified
+  chromosomal regions that are also associated with cervical carcinogenesis.
+authors: Yang YC, Shyong WY, Chang MS, Chen YJ, Lin CH, Huang ZD, Wang, Hsu MT and
+  Chen ML.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11734318
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 131, 1 (2001): 48-53.'
+label: 'Yang et al. (2001): Frequent Gain of Copy Number on the Long Arm of Chromosome
+  3 in Human Cervical Adenocarcinoma.'
+notes: ~
+pmid: 11734318
+title: Frequent Gain of Copy Number on the Long Arm of Chromosome 3 in Human Cervical
+  Adenocarcinoma.
+year: 2001

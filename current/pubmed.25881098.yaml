@@ -1,0 +1,61 @@
+---
+abstract: Early detection and treatment of non-invasive neoplasms can effectively
+  reduce the incidence of advanced gastric carcinoma (GC), but only when the lineage
+  is continuous between non-invasive and advanced tumours. Although a fraction of
+  non-invasive neoplasms progress to invasive GC, it is difficult to identify individual
+  progression-prone non-invasive neoplasms. To classify non-invasive gland-forming
+  gastric neoplasms into clusters of different levels of progression risk, we applied
+  mucin phenotyping and genomic DNA microarray analyses to intramucosal gland-forming
+  gastric neoplasms.  Formalin-fixed, paraffin-embedded tissues from 19 non-invasive
+  and 24 invasive gland-forming neoplasms were obtained via endoscopic submucosal
+  dissection or surgical excision. According to the Vienna classification, intramucosal
+  neoplasms were classified as low-grade or high-grade non-invasive neoplasms (LGNs
+  [category 3] and HGNs [category 4], respectively) or invasive carcinomas (intramucosal
+  GCs and mucosal parts of submucosal or deeper GCs [category 5]). Neoplastic lesions
+  were characterized by mucin phenotypes determined using monoclonal antibodies against
+  MUC2, MUC5AC, MUC6, and CD10. Genomic DNA samples from mucosal neoplasms were subjected
+  to array-based comparative genomic hybridization and subsequent unsupervised, hierarchical
+  clustering with selected large-sized genes.  There was no significant difference
+  in mucin phenotype between HGNs/LGNs and invasive carcinomas. The clustering classified
+  samples into stable, unstable, and intermediate. The histological tumour grade or
+  mucin phenotype of non-invasive neoplasms did not correlate with the clustering
+  results. Each cluster may represent an independent lineage of different outcome
+  because the size distribution of non-invasive tumours among the 3 clusters almost
+  overlapped. In contrast, the unstable cluster alone included invasive carcinomas.  These
+  findings suggest that the outcome of individual tumours is not stochastically determined
+  but can be predicted from the genomic copy-number profile even at the non-invasive
+  stage. Non-invasive neoplasms of the unstable clusters, which accounted for 21%
+  of non-invasive neoplasms, may progress to invasive carcinomas, whereas those of
+  stable cluster may not.
+authors: Vo DT, Nakayama T, Yamamoto H, Mukaisho K, Hattori T and Sugihara H
+contact:
+  email: sugihara@belle.shiga-med.ac.jp
+  name: Hiroyuki Sugihara
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25881098
+- geo:GSE60116
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: Asia
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: BMC Med Genomics 8(1), 2015
+label: 'Vo DT et al. (2015): '
+notes: ~
+pmid: 25881098
+title: Progression risk assessments of individual non-invasive gastric neoplasms by
+  genomic copy-number profile and mucin phenotype.
+year: 2015

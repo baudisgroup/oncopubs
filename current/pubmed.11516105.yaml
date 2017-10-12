@@ -1,0 +1,52 @@
+---
+abstract: TEL AML1 gene fusion that results from a cryptic t 12 21 is the most common
+  genetic aberration in childhood B-lineage acute lymphoblastic leukemia ALL . While
+  the translocation may initiate the leukemic process, critical secondary genetic
+  events are currently believed to be pivotal for leukemogenesis. We investigated
+  12 cases of childhood ALL with TEL AML1 gene fusion by fluorescence in situ hybridization
+  FISH and comparative genomic hybridization CGH and documented additional or secondary
+  genetic changes in seven patients 58 . Three patients showed extra copies of chromosome
+  21 including a case in which the trisomy 21 21 clone was distinct from the one harboring
+  TEL AML1 gene fusion. Interestingly, one patient without 21 showed amplification
+  of the AML1 gene on chromosome 21q, supporting the contention that AML1 amplification
+  may be an important additional genetic event. Gene expression study by semi-quantitative
+  reverse-transcription polymerase chain reaction RT-PCR in two of these four patients
+  showed an increase in AML1 transcripts that paralleled the increase in gene copy
+  number. Deletion of the normal TEL allele was detected in two patients, with one
+  of them showing loss of chromosome 12 together with duplication of the der 12 t
+  12 21 . Finally, one patient showed duplication of the fusion signal. Our findings
+  confirm that additional or secondary genetic changes including AML1 amplification
+  are commonly encountered in childhood ALL with TEL AML1 gene fusion, which are envisaged
+  to play significant roles in disease progression.
+authors: Ma SK, Wan TS, Cheuk AT, Fung LF, Chan GC, Chan SY, Ha SY and Chan LC.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11516105
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Leukemia 15, 9 (2001): 1442-47.'
+label: 'Ma et al. (2001): Characterization of Additional Genetic Events in Childhood
+  Acute Lymphoblastic Leukemia With Tel/Aml1 ...'
+notes: ~
+pmid: 11516105
+title: 'Characterization of Additional Genetic Events in Childhood Acute Lymphoblastic
+  Leukemia With Tel/Aml1 Gene Fusion: A Molecular Cytogenetics Study.'
+year: 2001

@@ -1,0 +1,53 @@
+---
+abstract: Several tumour suppressor genes TSG have been identified as a result of
+  mapping homozygous deletions in cancer cells. To identify putative TSG involved
+  in the pathogenesis of classical Hodgkin lymphoma cHL , we investigated four cHL
+  cell lines L428, HDLM2, KMH2, L1236 using four different array-Comparative Genomic
+  Hybridisation array-CGH platforms and focused on high resolution identification
+  of homozygous deletions. Out of 79 candidate regions of bi-allelic loss identified
+  by array-CGH, besides previously described regions, 28 novel regions of homozygous
+  deletions could be verified by polymerase chain reaction. These regions ranged from
+  13 kb to 619 kb in size. Eleven of the 28 novel bi-allelic losses were putative
+  copy number polymorphisms. This left 17 regions that might harbour novel tumour
+  suppressors involved in Hodgkin lymphoma. Expression profiling with two different
+  platforms confirmed lack of expression of the majority of the genes located in the
+  homozygous deletions. Furthermore, analysis of ontology annotations of genes located
+  in the homozygously deleted regions indicated an enrichment of genes involved in
+  apoptosis and cell death. In summary, through the mapping of homozygous deletions
+  in cell lines this study identified a series of genes, such as SEPT9, GNG7 and CYBB,
+  which might encode candidate tumour suppressors involved in the pathogenesis of
+  cHL.
+authors: Giefing M, Arnemann J, Martin-Subero JI, Nielander I, Bug S, Hartmann S,
+  Arnold N, Tiacci E, Frank M, Hansmann ML, Kuppers R and Siebert R.
+contact:
+  email: rsiebert@medgen.uni-kiel.de
+  name: Reiner Siebert
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18671701
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.13
+    - 54.32
+    type: Point
+  info:
+    city: Kiel
+    continent: Europe
+    country: Germany
+    label: Kiel, Germany, Europe
+    precision: city
+journal: 'Br J Haematol 142, 6 (2008): 916-24.'
+label: 'Giefing et al. (2008): Identification of Candidate Tumour Suppressor Gene
+  Loci for Hodgkin and Reed-Sternberg Cells By ...'
+notes: ~
+pmid: 18671701
+title: Identification of Candidate Tumour Suppressor Gene Loci for Hodgkin and Reed-Sternberg
+  Cells By Characterisation of Homozygous Deletions in Classical Hodgkin Lymphoma
+  Cell Lines.
+year: 2008

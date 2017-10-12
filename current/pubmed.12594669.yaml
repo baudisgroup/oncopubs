@@ -1,0 +1,36 @@
+---
+abstract: The purpose of this study was to review surgical experience with gastrointestinal
+  stromal tumours GISTs at a single tertiary university hospital, and to identify
+  morphological and genetic prognostic markers of tumour progression.
+authors: Langer C, Gunawan B, Schuler P, Huber W, Fuzesi L and Becker H.
+contact:
+  email: langer@med.uni-goettingen.de
+  name: C. Langer
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 16
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12594669
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Br J Surg 90, 3 (2003): 332-39.'
+label: 'Langer et al. (2003): Prognostic Factors Influencing Surgical Management and
+  Outcome of Gastrointestinal Stromal ...'
+notes: ~
+pmid: 12594669
+title: Prognostic Factors Influencing Surgical Management and Outcome of Gastrointestinal
+  Stromal Tumours.
+year: 2003

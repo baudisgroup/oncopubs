@@ -1,0 +1,34 @@
+---
+abstract: Lung cancer in never smokers would rank as the seventh most common cause
+  of cancer death worldwide.
+authors: Job B, Bernheim A, Beau-Faller M, Camilleri-Broet S, Girard P, Hofman P,
+  Mazieres J, Toujani S, Lacroix L, Laffaire J, Dessen P and Fouret P.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21151896
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: Europe
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: 'PLoS One 5, 12 (2010): e15145.'
+label: 'Job et al. (2010): Genomic Aberrations in Lung Adenocarcinoma in Never Smokers.'
+notes: ~
+pmid: 21151896
+title: Genomic Aberrations in Lung Adenocarcinoma in Never Smokers.
+year: 2010

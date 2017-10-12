@@ -1,0 +1,44 @@
+---
+abstract: Breast cancer is the most commonly diagnosed cancer in women worldwide and
+  consequently has been extensively investigated in terms of histopathology, immunochemistry
+  and familial history. Advances in genome-wide approaches have contributed to molecular
+  classification with respect to genomic changes and their subsequent effects on gene
+  expression. Cell lines have provided a renewable resource that is readily used as
+  model systems for breast cancer cell biology. A thorough characterization of their
+  genomes to identify regions of segmental DNA loss potential tumor-suppressor-containing
+  loci and gain potential oncogenic loci would greatly facilitate the interpretation
+  of biological data derived from such cells. In this study we characterized the genomes
+  of seven of the most commonly used breast cancer model cell lines at unprecedented
+  resolution using a newly developed whole-genome tiling path genomic DNA array.
+authors: Shadeo A and Lam WL.
+contact:
+  email: ashadeo@bccrc.ca
+  name: Ashleen Shadeo
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16417655
+- geo:GSE3106
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Breast Cancer Res 8, 1 (2006): R9.'
+label: 'Shadeo et al. (2006): Comprehensive Copy Number Profiles of Breast Cancer
+  Cell Model Genomes.'
+notes: ~
+pmid: 16417655
+title: Comprehensive Copy Number Profiles of Breast Cancer Cell Model Genomes.
+year: 2006

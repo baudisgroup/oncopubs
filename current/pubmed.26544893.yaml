@@ -1,0 +1,51 @@
+---
+abstract: To investigate the genetic and epigenetic landscape of hypodiploid (<45
+  chromosomes) acute lymphoblastic leukemia (ALL).  Single nucleotide polymorphism
+  array, whole exome sequencing, RNA sequencing, and methylation array analyses were
+  performed on eleven hypodiploid ALL cases.  In line with previous studies, mutations
+  in IKZF3 and FLT3 were detected in near-haploid (25-30 chromosomes) cases. Low hypodiploidy
+  (31-39 chromosomes) was associated with somatic TP53 mutations. Notably, mutations
+  of this gene were also found in 3/3 high hypodiploid (40-44 chromosomes) cases,
+  suggesting that the mutational patterns are similar in low hypodiploid and high
+  hypodiploid ALL. The high hypodiploid ALLs frequently displayed substantial cell-to-cell
+  variability in chromosomal content, indicative of chromosomal instability; a rare
+  phenomenon in ALL. Gene expression analysis showed that genes on heterodisomic chromosomes
+  were more highly expressed in hypodiploid cases. Cases clustered according to hypodiploid
+  subtype in the unsupervised methylation analyses, but there was no association between
+  chromosomal copy number and methylation levels. A comparison between samples obtained
+  at diagnosis and relapse showed that the relapse did not arise from the major diagnostic
+  clone in 3/4 cases.  Taken together, our data support the conclusion that near-haploid
+  and low hypodiploid ALL are different with regard to mutational profiles and also
+  suggest that ALL cases with high hypodiploidy may harbor chromosomal instability.
+authors: Safavi S, Olsson L, Biloglav A, Veerla S, Blendberg M, Tayebwa J, Behrendtz
+  M, Castor A, Hansson M, Johansson B and Paulsson K
+contact:
+  email: setareh.safavi@med.lu.se
+  name: Setareh Safavi
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 11
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26544893
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Oncotarget 6(40), 2015
+label: 'Safavi S et al. (2015): '
+notes: ~
+pmid: 26544893
+title: Genetic and epigenetic characterization of hypodiploid acute lymphoblastic
+  leukemia.
+year: 2015

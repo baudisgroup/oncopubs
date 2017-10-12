@@ -1,0 +1,52 @@
+---
+abstract: High-resolution comparative genomic hybridization HR-CGH analysis was performed
+  on DNA purified from laser-capture microdissected carcinoma in situ CIS cells from
+  nine cases of CIS, either from tissue without any invasive tumor or from testicular
+  parenchyma adjacent to seminoma, nonseminoma, or a combined germ cell tumor. Before
+  CGH analysis, DNA was amplified by degenerate oligonucleotide primed PCR DOP-PCR
+  and directly labeled with a mixture of FITC-dUTP and FITC-dCTP. CGH analysis revealed
+  extra chromosome arm 12p material in six out of seven cases with CIS adjacent to
+  overt tumors, but only a diminutive gain of 12q was noted in one of the two cases
+  of CIS without invasive elements. In addition, gains of parts of chromosome 8 3
+  7 and losses of chromosome 5 2 7 were demonstrated in CIS adjacent to invasive tumors.
+  Gains of parts of chromosome 7 were found in CIS adjacent to seminoma 4 4 , whereas
+  relative gains of chromosome 15 were identified in some cases of CIS adjacent to
+  seminoma and in isolated CIS in comparison to CIS adjacent to nonseminoma. Our data
+  seem to indicate that extra 12p material is not present in the amp quot dormant
+  amp quot CIS cell before development of an invasive tumor. The gain of extra chromosome
+  12 material may not be an early event in the neoplastic transformation, but is most
+  likely associated with a more malignant progression of the CIS cell.
+authors: Ottesen AM, Skakkebaek NE, Lundsteen C, Leffers H, Larsen J and Rajpert-De
+  Meyts E.
+contact:
+  email: rh06096@rh.dk
+  name: Anne Marie Ottesen
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12939739
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: Europe
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 38, 2 (2003): 117-25.'
+label: 'Ottesen et al. (2003): High-Resolution Comparative Genomic Hybridization Detects
+  Extra Chromosome Arm 12p Material in ...'
+notes: ~
+pmid: 12939739
+title: High-Resolution Comparative Genomic Hybridization Detects Extra Chromosome
+  Arm 12p Material in Most Cases of Carcinoma in Situ Adjacent to Overt Germ Cell
+  Tumors, But Not Before the Invasive Tumor Development.
+year: 2003

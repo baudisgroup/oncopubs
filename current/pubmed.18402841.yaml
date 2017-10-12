@@ -1,0 +1,39 @@
+---
+abstract: The majority of cardiac atrial neoplasms represent benign myxomas. Rarely,
+  malignant cardiac neoplasms are encountered and can include primary cardiac neoplasms,
+  as well as secondary tumors involving the heart. As many cardiac neoplasms lack
+  pathognomonic clinical features, histopathologic diagnosis is crucial for classification
+  and appropriate treatment of these neoplasms. Molecular investigation is critical
+  to begin to catalogue genomic changes that correlate with these malignancies.
+authors: Schell AJ, Xu Y, Baetz T, Harrison K, Ropchan G, LeBrun D and Feilotter H.
+contact:
+  email: feilotth@kgh.kari.net
+  name: Harriet Feilotter
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18402841
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.48
+    - 44.23
+    type: Point
+  info:
+    city: Kingston
+    continent: North America
+    country: Canada
+    label: Kingston, Canada, North America
+    precision: city
+journal: 'Cardiovasc Pathol 18, 2 (2009): 92-99.'
+label: 'Schell et al. (2009): Primary Cardiac Lymphoma: Molecular Cytogenetic Characterization
+  of a Rare Entity.'
+notes: ~
+pmid: 18402841
+title: 'Primary Cardiac Lymphoma: Molecular Cytogenetic Characterization of a Rare
+  Entity.'
+year: 2009

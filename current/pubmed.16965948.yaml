@@ -1,0 +1,50 @@
+---
+abstract: 'Ovarian cancer is one of the most common types of malignancy in women throughout
+  the developed world. Despite recent therapeutic advances, long-term survival is
+  poor because ovarian cancer is largely asymptomatic in its early stages. Comparative
+  genomic hybridization CGH was applied to a series of 8 benign, 8 borderline, and
+  17 malignant ovarian to establish genomic imbalances associated with tumor progression.
+  Benign and borderline tumors were characterized by losses at 1p32 approximately
+  p11, 2q14 approximately q34, 4q13 approximately q34, 5q11 approximately q23, and
+  6q12 approximately q24, as well as gains of 6p and chromosome 12. Similar chromosomal
+  changes were also detected in malignant tumors but included additional chromosomal
+  changes: gains at 1q21 approximately q31, 2p, 3q, 5p, 7, 10p, 12p, 16p, 17, 19q,
+  20q, and 22q, as well as losses at X, 3p, 8p, 9, 11p, 13, 14, and 18. Some individual
+  cases of benign and borderline tumors revealed no genetic alterations detectable
+  by CGH, suggesting that these tumors may represent a subset of tumors that originate
+  by an alternative mechanism of tumorigenesis. Furthermore, our findings reveal that
+  borderline tumors are more similar to benign tumors than to malignant tumors with
+  respect to their genetic profiles.'
+authors: Helou K, Padilla-Nash H, Wangsa D, Karlsson E, Osterberg L, Karlsson P, Ried
+  T and Knutsen T.
+contact:
+  email: knutsent@mail.nih.gov
+  name: Turid Knutsen
+counts:
+  biosamples: 33
+  samples_acgh: 0
+  samples_ccgh: 33
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16965948
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.97
+    - 57.71
+    type: Point
+  info:
+    city: Goeteborg
+    continent: Europe
+    country: Sweden
+    label: Goeteborg, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 170, 1 (2006): 1-8.'
+label: 'Helou et al. (2006): Comparative Genome Hybridization Reveals Specific Genomic
+  Imbalances During the Genesis From Benign ...'
+notes: ~
+pmid: 16965948
+title: Comparative Genome Hybridization Reveals Specific Genomic Imbalances During
+  the Genesis From Benign Through Borderline to Malignant Ovarian Tumors.
+year: 2006

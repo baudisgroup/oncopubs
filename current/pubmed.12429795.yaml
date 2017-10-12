@@ -1,0 +1,53 @@
+---
+abstract: 'The current classification system of renal tumors is based on morphologic
+  criteria, as supported by genetic findings. We present a group of previously unclassified
+  tumors with similar morphologic and genetic features, suggesting a new entity within
+  renal neoplasms. Seven renal tumors from five patients ages 31-67 years were analyzed.
+  All cases were stained with periodic acid-Schiff, Hales colloidal iron HCI , and
+  Alcian blue AB at pH 2.5 1.0 with and without hyaluronidase HA digestion. Immunohistochemical
+  IHC stains were performed for CK8, CK18, CK19, vimentin, villin, Tamm-Horsfall protein
+  THP , renal cell carcinoma marker RCC , epithelial membrane antigen EMA , ulex europaeus
+  agglutinin UEA-1 , soy bean agglutinin SBA , peanut agglutinin PNA , and MIB-1.
+  Comparative genomic hybridization CGH and loss of heterozygosity LOH studies were
+  performed on all cases. All tumors showed circumscribed growth, a tubular growth
+  pattern with focal solid areas, no significant nuclear atypia and absence of necrosis,
+  desmoplasia, or inflammation. Abundant extracellular mucin was present. Immunohistochemistry
+  stains support collecting duct origin EMA , PNA , SBA -, CK 8 18 19 , vimentin -,
+  UEA-1-, RCC-, villin-, THP- . The proliferative rate was low amp lt 1 . CGH showed
+  multiple consistent chromosomal losses -1,-4, -6, -8, -9, -13, -14, -15, -22 . Clinical
+  outcome was favorable, with recurrences but no known distant metastases or death
+  of disease. These findings are distinct from all previously classified renal neoplasms.
+  Our data suggest the presence of a unique tumor entity within tumors of probable
+  collecting duct origin: tubular-mucinous renal tumors of low malignant potential.'
+authors: Rakozy C, Schmahl GE, Bogner S and Storkel S.
+contact:
+  email: stoerkel@klinikum-wuppertal.de
+  name: M. D. Stoerkel
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12429795
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.17
+    - 51.27
+    type: Point
+  info:
+    city: Wuppertal
+    continent: Europe
+    country: Germany
+    label: Wuppertal, Germany, Europe
+    precision: city
+journal: 'Mod Pathol 15, 11 (2002): 1162-71.'
+label: 'Rakozy et al. (2002): Low-Grade Tubular-Mucinous Renal Neoplasms: Morphologic,
+  Immunohistochemical, and Genetic ...'
+notes: ~
+pmid: 12429795
+title: 'Low-Grade Tubular-Mucinous Renal Neoplasms: Morphologic, Immunohistochemical,
+  and Genetic Features.'
+year: 2002

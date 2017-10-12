@@ -1,0 +1,55 @@
+---
+abstract: A powerful way to discover key genes with causal roles in oncogenesis is
+  to identify genomic regions that undergo frequent alteration in human cancers. Here
+  we present high-resolution analyses of somatic copy-number alterations SCNAs from
+  3,131 cancer specimens, belonging largely to 26 histological types. We identify
+  158 regions of focal SCNA that are altered at significant frequency across several
+  cancer types, of which 122 cannot be explained by the presence of a known cancer
+  target gene located within these regions. Several gene families are enriched among
+  these regions of focal SCNA, including the BCL2 family of apoptosis regulators and
+  the NF-kappaBeta pathway. We show that cancer cells containing amplifications surrounding
+  the MCL1 and BCL2L1 anti-apoptotic genes depend on the expression of these genes
+  for survival. Finally, we demonstrate that a large majority of SCNAs identified
+  in individual cancer types are present in several cancer types.
+authors: Beroukhim R, Mermel CH, Porter D, Wei G, Raychaudhuri S, Donovan J, Barretina
+  J, Boehm JS, Dobson J, Urashima M, Mc Henry KT, Pinchback RM, Ligon AH, Cho YJ,
+  Haery L, Greulich H, Reich M, Winckler W, Lawrence MS, Weir BA, Tanaka KE, Chiang
+  DY, Bass AJ, Loo A, Hoffman C, Prensner J, Liefeld T, Gao Q, Yecies D, Signoretti
+  S, Maher E, Kaye FJ, Sasaki H, Tepper JE, Fletcher JA, Tabernero J, Baselga J, Tsao
+  MS, Demichelis F, Rubin MA, Janne PA, Daly MJ, Nucera C, Levine RL, Ebert BL, Gabriel
+  S, Rustgi AK, Antonescu CR, Ladanyi M, Letai A, Garraway LA, Loda M, Beer DG, True
+  LD, Okamoto A, Pomeroy SL, Singer S, Golub TR, Lander ES, Getz G, Sellers WR and
+  Meyerson M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 826
+  samples_acgh: 826
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20164920
+- geo:GSE19399
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: North America
+    country: United States
+    label: Cambridge, United States, North America
+    precision: city
+journal: 'Nature 463, 7283 (2010): 899-905.'
+label: 'Beroukhim et al. (2010): The Landscape of Somatic Copy-Number Alteration Across
+  Human Cancers.'
+notes: Raw data was extracted from GEO and processed using aroma.affymetrix libraries
+  together with our own software from the Progenetix and arrayMap projects. Overly
+  noisy arrays were removed post segmentation (>200 segments per array).
+pmid: 20164920
+title: The Landscape of Somatic Copy-Number Alteration Across Human Cancers.
+year: 2010

@@ -1,0 +1,53 @@
+---
+abstract: Single nucleotide polymorphism arrays SNP-As have emerged as an important
+  tool in the identification of chromosomal defects undetected by metaphase cytogenetics
+  MC in hematologic cancers, offering superior resolution of unbalanced chromosomal
+  defects and acquired copy-neutral loss of heterozygosity. Myelodysplastic syndromes
+  MDSs and related cancers share recurrent chromosomal defects and molecular lesions
+  that predict outcomes. We hypothesized that combining SNP-A and MC could improve
+  diagnosis prognosis and further the molecular characterization of myeloid malignancies.
+  We analyzed MC SNP-A results from 430 patients MDS 250, MDS myeloproliferative overlap
+  neoplasm 95, acute myeloid leukemia from MDS 85 . The frequency and clinical significance
+  of genomic aberrations was compared between MC and MC plus SNP-A. Combined MC SNP-A
+  karyotyping lead to higher diagnostic yield of chromosomal defects 74 vs 44 , P
+  amp lt .0001 , compared with MC alone, often through detection of novel lesions
+  in patients with normal noninformative 54 and abnormal 62 MC results. Newly detected
+  SNP-A defects contributed to poorer prognosis for patients stratified by current
+  morphologic and clinical risk schemes. The presence and number of new SNP-A detected
+  lesions are independent predictors of overall and event-free survival. The significant
+  diagnostic and prognostic contributions of SNP-A-detected defects in MDS and related
+  diseases underscore the utility of SNP-A when combined with MC in hematologic malignancies.
+authors: Tiu RV, Gondek LP, OKeefe CL, Elson P, Huh J, Mohamedali A, Kulasekararaj
+  A, Advani AS, Paquette R, List AF, Sekeres MA, McDevitt MA, Mufti GJ and Maciejewski
+  JP.
+contact:
+  email: ~
+  name: Jaroslaw Maciejewski
+counts:
+  biosamples: 430
+  samples_acgh: 430
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21285439
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: North America
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: 'Blood 117, 17 (2011): 4552-60.'
+label: 'Tiu et al. (2011): Prognostic Impact of Snp Array Karyotyping in Myelodysplastic
+  Syndromes and Related Myeloid ...'
+notes: ~
+pmid: 21285439
+title: Prognostic Impact of Snp Array Karyotyping in Myelodysplastic Syndromes and
+  Related Myeloid Malignancies.
+year: 2011

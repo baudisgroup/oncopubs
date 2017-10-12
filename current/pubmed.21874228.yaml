@@ -1,0 +1,55 @@
+---
+abstract: Juvenile angiofibroma JA is a unique fibrovascular tumor, which is almost
+  exclusively found in the posterior nasal cavity of adolescent males. Although histologically
+  classified as benign, the tumor often shows an aggressive growth pattern and has
+  been associated with chromosomal imbalances, amplification of oncogenes and epigenetic
+  dysregulation. We present the first genome-wide profiling of JAs n 14 with a 100K
+  single nucleotide polymorphism SNP microarray. Among the 30 novel JA-specific amplifications
+  detected on autosomal chromosomes with this technique, the genes encoding the cancer-testis
+  antigen BORIS brother of the regulator of imprinted sites and the developmental
+  regulator protein TSHZ1 teashirt zinc finger homeobox 1 were selected for further
+  analysis. Gains for both BORIS 20q13.3 and TSHZ1 18q22.3 were confirmed by quantitative
+  genomic PCR. Furthermore, quantitative RT-PCR revealed a significant up-regulation
+  of BORIS p amp lt 0.001 and TSHZ1 transcripts p amp lt 0.05 for JAs compared to
+  nasal mucosa. Following detection of BORIS and TSHZ1 proteins in western blots of
+  JAs, subcellular localization was determined for both proteins in immunostaining
+  of JA cryosections. In conclusion, genomic copy number profiling using an SNP microarray
+  has been proven to be a suitable and reliable tool for identifying novel disease-related
+  genes in JAs and newly implicates BORIS and TSHZ1 overexpression in the pathogenesis
+  of JAs. Detection of BORIS in JAs is described with special regard to tumor proliferation
+  and epigenetic dysregulation, and the finding of TSHZ1 amplifications is discussed
+  with special respect to the hypothesis of JAs as malformations of the first branchial
+  arch artery.
+authors: Schick B, Wemmert S, Willnecker V, Dlugaiczyk J, Nicolai P, Siwiec H, Thiel
+  CT, Rauch A and Wendler O.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21874228
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: Europe
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: 'Int J Oncol 39, 5 (2011): 1143-51.'
+label: 'Schick et al. (2011): Genome-Wide Copy Number Profiling Using a 100k Snp Array
+  Reveals Novel Disease-Related Genes Boris ...'
+notes: ~
+pmid: 21874228
+title: Genome-Wide Copy Number Profiling Using a 100k Snp Array Reveals Novel Disease-Related
+  Genes Boris and Tshz1 in Juvenile Angiofibroma.
+year: 2011

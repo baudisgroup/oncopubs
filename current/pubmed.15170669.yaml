@@ -1,0 +1,52 @@
+---
+abstract: So far, CRC cell lines have contributed to descriptions of 2 patterns of
+  genetic instability, affecting either microsatellite sequences or chromosome number
+  and structure. Often, these patterns are mutually exclusive while near-diploid karyotypes
+  usually appear with MSI and chromosomal stability, near-triploid or tetraploid cells
+  display a high degree of CIN and are stable at the microsatellite level. In the
+  present study, we describe the genomic instability pattern of KM12 CRC cells. KM12C
+  and derived cell lines with different metastatic properties were analyzed by conventional
+  cytogenetics, CGH and M-FISH. Results were compared to 5 cell lines usually used
+  as model of MSI and CIN. Concordance between our results and previously published
+  SKY data are also reviewed. Interestingly, the poorly metastatic KM12C cell line
+  displayed a near-diploid karyotype with high levels of structural chromosome instability
+  and microsatellite instability. The highly metastatic KM12SM and KM12L4A cell lines
+  showed polyploid karyotypes and maintained CIN and MSI. A comparison between karyotypes
+  of poorly and highly metastatic KM12 cell lines allowed us to delineate a cytogenetic
+  evolution pathway. Our results clearly demonstrated that endoreduplication was the
+  origin of the polyploid dosages in the highly metastatic forms following the monosomic
+  model postulated for CRC. Therefore, we demonstrate that KM12C cells and their metastatic
+  derivates, KM12SM and KM12L4A, are a useful model of chromosomal evolution where
+  MSI may coexist with CIN.
+authors: Camps J, Morales C, Prat E, Ribas M, Capella G, Egozcue J, Peinado MA and
+  Miro R.
+contact:
+  email: ~
+  name: Jordi Camps
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15170669
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Int J Cancer 110, 6 (2004): 869-74.'
+label: 'Camps et al. (2004): Genetic Evolution in Colon Cancer Km12 Cells and Metastatic
+  Derivates.'
+notes: ~
+pmid: 15170669
+title: Genetic Evolution in Colon Cancer Km12 Cells and Metastatic Derivates.
+year: 2004

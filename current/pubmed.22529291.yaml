@@ -1,0 +1,51 @@
+---
+abstract: The longitudinal evolution of a myeloma genome from diagnosis to plasma
+  cell leukemia has not previously been reported. We used whole-genome sequencing
+  WGS on 4 purified tumor samples and patient germline DNA drawn over a 5-year period
+  in a t 4 14 multiple myeloma patient. Tumor samples were acquired at diagnosis,
+  first relapse, second relapse, and end-stage secondary plasma cell leukemia sPCL
+  . In addition to the t 4 14 , all tumor time points also shared 10 common single-nucleotide
+  variants SNVs on WGS comprising shared initiating events. Interestingly, we observed
+  genomic sequence variants that waxed and waned with time in progressive tumors,
+  suggesting the presence of multiple independent, yet related, clones at diagnosis
+  that rose and fell in dominance. Five newly acquired SNVs, including truncating
+  mutations of RB1 and ZKSCAN3, were observed only in the final sPCL sample suggesting
+  leukemic transformation events. This longitudinal WGS characterization of the natural
+  history of a high-risk myeloma patient demonstrated tumor heterogeneity at diagnosis
+  with shifting dominance of tumor clones over time and has also identified potential
+  mutations contributing to myelomagenesis as well as transformation from myeloma
+  to overt extramedullary disease such as sPCL.
+authors: Egan JB, Shi C-X, Tembe W, Christoforides A, Kurdoglu A, Sinari S, Middha
+  S, Asmann Y, Schmidt J, Braggio E, Keats JJ, Fonseca R, Bergsagel PL, Craig DW,
+  Carpten JD and Stewart AK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 4
+external_identifiers:
+- pubmed:22529291
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.9
+    - 33.51
+    type: Point
+  info:
+    city: Scottsdale
+    continent: North America
+    country: United States
+    label: Scottsdale, United States, North America
+    precision: city
+journal: 'Blood (2012) 120: 1060-1066.'
+label: 'Egan et al. (2012): Whole-genome sequencing of multiple myeloma from diagnosis
+  to plasma cell leukemia reveals genomic ...'
+notes: ~
+pmid: 22529291
+title: Whole-genome sequencing of multiple myeloma from diagnosis to plasma cell leukemia
+  reveals genomic initiating events, evolution, and clonal tides.
+year: 2012

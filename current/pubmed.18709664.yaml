@@ -1,0 +1,55 @@
+---
+abstract: Mantle cell lymphoma MCL is genetically characterized by 11q13 translocations
+  leading to the overexpression of CCND1, and additional secondary genomic alterations
+  that may be important in the progression of this disease. We have analyzed 22 MCL
+  cases and 10 MCL cell lines using multicolor fluorescence in situ hybridization
+  M-FISH , FISH, and comparative genomic hybridization CGH . The 19 cases with abnormal
+  karyotype showed the t 11 14 q13 q32 translocation and, additionally, 89 of cases
+  showed both numerical n 58 and structural n 77 aberrations. All but one MCL cell
+  line showed t 11 14 and structural and numerical alterations in highly complex karyotypes.
+  Besides 11 and 14, the most commonly rearranged chromosomes were 1, 8, and 10 in
+  the tumors and 1, 8, and 9 in the cell lines. No recurrent translocations other
+  than the t 11 14 were identified. However, we identified 17 recurrent breakpoints,
+  the most frequent being 1p22 and 8p11, each observed in four cases and two cell
+  lines. Interestingly, five tumors and four cell lines displayed a complex t 11 14
+  , cryptic in one case and two cell lines, preferentially involving chromosome 8.
+  In typical MCL, ATM gene deletions were significantly associated with a high number
+  of structural and numerical alterations. In conclusion, MCL does not have recurrent
+  translocations other than t 11 14 , but shows recurrent chromosomal breakpoints.
+  Furthermore, most MCL harbor complex karyotypes with a high number of both structural
+  and numerical alterations affecting several common breakpoints, leading to various
+  balanced and unbalanced translocations.
+authors: Salaverria I, Espinet B, Carrio A, Costa D, Astier L, Slotta-Huspenina J,
+  Quintanilla-Martinez L, Fend F, Sole F, Colomer D, Serrano S, Miro R, Bea S and
+  Campo E.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18709664
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 12 (2008): 1086-97.'
+label: 'Salaverria et al. (2008): Multiple Recurrent Chromosomal Breakpoints in Mantle
+  Cell Lymphoma Revealed By a Combination ...'
+notes: ~
+pmid: 18709664
+title: Multiple Recurrent Chromosomal Breakpoints in Mantle Cell Lymphoma Revealed
+  By a Combination of Molecular Cytogenetic Techniques.
+year: 2008

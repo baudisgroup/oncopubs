@@ -1,0 +1,56 @@
+---
+abstract: The motor protein kinesin superfamily proteins KIFs are involved in cancer
+  progression. The depletion of one of the KIFs, KIF14, might delay the metaphase-to-anaphase
+  transition, resulting in a binucleated status, which enhances tumor progression
+  however, the exact correlation between KIF14 and cancer progression remains ambiguous.
+  In this study, using loss of heterozygosity and array comparative genomic hybridization
+  analyses, we observed a 30 loss in the regions surrounding KIF14 on chromosome 1q
+  in lung adenocarcinomas. In addition, the protein expression levels of KIF14 in
+  122 lung adenocarcinomas also indicated that approximately 30 of adenocarcinomas
+  showed KIF14 down-regulation compared with the expression in the bronchial epithelial
+  cells of adjacent normal counterparts. In addition, the reduced expression of KIF14
+  mRNA or proteins was correlated with poor overall survival P  0.0158 and amp lt
+  0.0001, respectively , and the protein levels were also inversely correlated with
+  metastasis P amp lt 0.0001 . The overexpression of KIF14 in lung adenocarcinoma
+  cells inhibited anchorage-independent growth in vitro and xenograft tumor growth
+  in vivo. The overexpression and silencing of KIF14 also inhibited or enhanced cancer
+  cell migration, invasion and adhesion to the extracellular matrix proteins laminin
+  and collagen IV. Furthermore, we detected the adhesion molecules cadherin 11 CDH11
+  and melanoma cell adhesion molecule MCAM as cargo on KIF14. The overexpression and
+  silencing of KIF14 enhanced or reduced the recruitment of CDH11 in the membrane
+  fraction, suggesting that KIF14 might act through recruiting adhesion molecules
+  to the cell membrane and modulating cell adhesive, migratory and invasive properties.
+  Thus, KIF14 might inhibit tumor growth and cancer metastasis in lung adenocarcinomas.
+authors: Hung PF, Hong TM, Hsu YC, Chen HY, Chang YL, Wu CT, Chang GC, Jou YS, Pan
+  SH and Yang PC.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 138
+  samples_acgh: 138
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23626713
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'PLoS One (2013) 8: e61664.'
+label: 'Hung et al. (2013): The Motor Protein KIF14 Inhibits Tumor Growth and Cancer
+  Metastasis in Lung Adenocarcinoma.'
+notes: ~
+pmid: 23626713
+title: The Motor Protein KIF14 Inhibits Tumor Growth and Cancer Metastasis in Lung
+  Adenocarcinoma.
+year: 2013

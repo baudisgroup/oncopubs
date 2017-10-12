@@ -1,0 +1,39 @@
+---
+abstract: The underlying genetic alterations for squamous cell carcinoma SCC and adenocarcinoma
+  AC carcinogenesis are largely unknown.
+authors: Kang JU, Koo SH, Kwon KC, Park JW and Kim JM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 36
+  samples_acgh: 36
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19607727
+- geo:GSE16597
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'BMC Cancer 9 (2009): 237.'
+label: 'Kang et al. (2009): Identification of Novel Candidate Target Genes, Including
+  Ephb3, Masp1 and Sst At 3q26.2-Q29 in ...'
+notes: In the GEO series data, the log2 values are reversed (reference/probe), although
+  a standard probe/reference value is indicated. This is fixed for the data presented
+  through the array plotting option of our website. For the Progenetix database, some
+  obvious segmentation problems (e.g. 9 cen deletions) were edited manually.
+pmid: 19607727
+title: Identification of Novel Candidate Target Genes, Including Ephb3, Masp1 and
+  Sst At 3q26.2-Q29 in Squamous Cell Carcinoma of the Lung.
+year: 2009

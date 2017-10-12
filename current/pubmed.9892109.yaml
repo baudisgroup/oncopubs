@@ -1,0 +1,52 @@
+---
+abstract: The genetic changes underlying the development and progression of male breast
+  cancer are poorly understood. Germline BRCA2 mutations account for a significant
+  part of male breast cancer, but the majority of patients lack a known inherited
+  predisposition. We recently demonstrated that the progression of breast cancer in
+  female carriers of a germline BRCA1 or BRCA2 mutation follows specific genetic pathways,
+  distinct from each other and from sporadic breast cancer. In the present study,
+  we performed a genome-wide survey by comparative genomic hybridization CGH of somatic
+  genetic aberrations in 26 male breast cancers, including five tumors from BRCA2
+  mutation carriers. BRCA2 tumors exhibited a significantly higher number of chromosomal
+  aberrations than sporadic tumors. The most common alterations in sporadic male breast
+  cancer were 1q 38 , 8q 33 , 17q 33 , -13q 29 , and -8p 24 . In tumors from BRCA2
+  mutation carriers, the five most common genetic changes were 8q 100 , 20q 100 ,
+  17q 80 , -13q 80 , and -6q 60 . The CGH results in these two groups of male breast
+  cancers are almost identical to those identified in the corresponding sporadic and
+  BRCA2-associated female breast cancers. The results suggest that despite substantial
+  hormonal differences between females and males, similar genetic changes are selected
+  for during tumor progression. Furthermore, the presence of a highly penetrant germline
+  BRCA2 mutation apparently leads to a characteristic somatic tumor progression pathway,
+  again shared between affected male and female mutation carriers.
+authors: Tirkkonen M, Kainu T, Loman N, Johannsson OT, Olsson H, Barkardottir RB,
+  Kallioniemi OP and Borg A.
+contact:
+  email: mika.tirkkonen@uta.fi
+  name: Mika Tirkkonen
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9892109
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 24, 1 (1999): 56-61.'
+label: 'Tirkkonen et al. (1999): Somatic Genetic Alterations in Brca2-Associated and
+  Sporadic Male Breast Cancer.'
+notes: ~
+pmid: 9892109
+title: Somatic Genetic Alterations in Brca2-Associated and Sporadic Male Breast Cancer.
+year: 1999

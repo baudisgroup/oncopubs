@@ -1,0 +1,48 @@
+---
+abstract: Gastrointestinal stromal tumors GISTs with neurogenic differentiation, also
+  referred to as amp quot gastrointestinal autonomic nerve tumors GANTs , amp quot
+  form an ultrastructurally distinctive subgroup of mesenchymal neoplasms of gastrointestinal
+  tract. Cytogenetic and molecular data of these tumors are limited. In the current
+  study, c-KIT gene sequenc-ing analysis, comparative genomic hybridization CGH ,
+  and interphase fluorescence in situ hybrid- ization FISH analysis, utilizing chromosome
+  14- and 22-specific probes, were performed on five primary ultrastructurally confirmed
+  GANTs. FISH and CGH analysis revealed loss of a whole or part of chromosome 14q
+  in two tumors and of chromo- some 22q, with the common overlapping area of loss
+  at q13, in all five tumors evaluated. c-KIT mu- tations were found in all cases
+  three tumors carried point mutation and or deletions of exon 11, and in two tumors,
+  insertion in exon 9 was found. These findings suggest that accumulated genetic changes
+  contribute to the pathogenesis of GANTs and that 22q13 loss may be a characteristic
+  feature of these tumors.
+authors: Debiec-Rychter M, Pauwels P, Lasota J, Franke S, De Vos R, De Wever I, Hagemeijer
+  A and Sciot R.
+contact:
+  email: maria.debiec-rychter@med.kuleuven.ac.be
+  name: Maria Debiec-Rychter
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12118105
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: 'Mod Pathol 15, 7 (2002): 692-98.'
+label: 'Debiec-Rychter et al. (2002): Complex Genetic Alterations in Gastrointestinal
+  Stromal Tumors With Autonomic Nerve ...'
+notes: ~
+pmid: 12118105
+title: Complex Genetic Alterations in Gastrointestinal Stromal Tumors With Autonomic
+  Nerve Differentiation.
+year: 2002

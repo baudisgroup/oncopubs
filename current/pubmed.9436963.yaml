@@ -1,0 +1,56 @@
+---
+abstract: Solitary fibrous tumor SFT presenting in the pleura and other soft tissue
+  sites and hemangiopericytoma HPC presenting at various soft tissue sites are mesenchymal
+  tumors that share many histologic and immunohistochemical features. This raises
+  the questions of whether these tumors are related and whether they belong within
+  the spectrum of a single biologic entity. The behavior of both SFTs and HPCs is
+  difficult to predict histologically. The genetic background of both SFTs and HPCs
+  is poorly known, but it could be helpful in the evaluation of malignancy and could
+  give clues to their possible relationship. In this study, we analyzed 15 SFTs and
+  11 HPCs by comparative genomic hybridization CGH , a powerful molecular cytogenetic
+  tool that can be applied to DNA extracted from formaldehyde-fixed and paraffin-embedded
+  tissue. All of these tumors were immunohistochemically similar and showed reactivity
+  for CD34-antigen but not for keratins, desmin, or muscle actins. Only 1 SFT smaller
+  than 10 cm showed DNA copy number changes a single loss in chromosome 13 , but 7
+  of 8 SFTs larger than 10 cm including all 4 tumors with more than 4 mitoses per
+  10 high power fields showed changes, mostly chromosomal gains in 5q 7, 8, 12, and
+  18. Four cases showed losses, two of them in chromosome 13 and two others in 20q.
+  These findings suggest that CGH might be useful in the evaluation of malignant transformation
+  in SFT. The most common change, gain of the entire chromosome 8, seen in two cases
+  as the only change, suggests trisomy 8 and parallels a similar finding previously
+  described in other fibrous tumors, such as subsets of desmoid fibromatosis and infantile
+  fibrosarcoma. In contrast, HPCs, including large and mitotically active tumors,
+  showed no DNA copy number changes on CGH. This suggests that HPC is genetically
+  different from SFT.
+authors: Miettinen MM, el-Rifai W, Sarlomo-Rikala M, Andersson LC and Knuutila S.
+contact:
+  email: wael.el-rifai@Vanderbilt.Edu
+  name: W. El-Rifai
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9436963
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: North America
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: 'Mod Pathol 10, 12 (1997): 1194-200.'
+label: 'Miettinen et al. (1997): Tumor Size-Related DNA Copy Number Changes Occur
+  in Solitary Fibrous Tumors But Not in ...'
+notes: ~
+pmid: 9436963
+title: Tumor Size-Related DNA Copy Number Changes Occur in Solitary Fibrous Tumors
+  But Not in Hemangiopericytomas.
+year: 1997

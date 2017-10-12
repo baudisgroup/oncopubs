@@ -1,0 +1,47 @@
+---
+abstract: The efficacy of curative surgery for lung cancer could be largely improved
+  by non-invasive screening programs, which can detect the disease at early stages.
+  We previously showed that 18% of screening-identified lung cancers demonstrate a
+  normal karyotype and, following high-density genome scanning, can be subdivided
+  into samples with 1) numerous; 2) none; and 3) few copy number alterations. Whole
+  exome sequencing was applied to the two normal karyotype, screening-detected lung
+  cancers, constituting group 2, as well as normal controls. We identified mutations
+  in both tumors, including KEAP1 (commonly mutated in lung cancers) in one, and TP53,
+  PMS1, and MSH3 (well-characterized DNA-repair genes) in the other. The two normal
+  karyotype screening-detected lung tumors displayed a typical lung cancer mutational
+  profile that only next generation sequencing could reveal, which offered an additional
+  contribution to the over-diagnosis bias concept hypothesized within lung cancer
+  screening programs.  Copyright ï¿½ 2015 Elsevier Inc. All rights reserved.
+authors: Belloni E, Veronesi G, Rotta L, Volorio S, Sardella D, Bernard L, Pece S,
+  Di Fiore PP, Fumagalli C, Barberis M, Spaggiari L, Pelicci PG and Riva L
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25850996
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Cancer Genet, 2015
+label: 'Belloni et al. (): Whole exome sequencing identifies driver mutations in asymptomatic
+  computed tomography-detected lung ...'
+notes: ~
+pmid: 25850996
+title: Whole exome sequencing identifies driver mutations in asymptomatic computed
+  tomography-detected lung cancers with normal karyotype.
+year: 2015

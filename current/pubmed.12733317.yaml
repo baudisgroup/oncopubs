@@ -1,0 +1,48 @@
+---
+abstract: Eleven wood-workers with sinonasal adenocarcinoma were analyzed by comparative
+  genomic hybridization. This technique serves as a screening test for regions of
+  copy number changes in tumor genomes. We have applied the technique to map DNA gains
+  and losses in 9 cases of formalin-fixed, paraffin-embedded tumors and 2 cases of
+  frozen tumors. Gains were found most frequently than losses. Whole arm chromosomic
+  gains were detected in high frequencies at 8q, 7q, 12q and 18p and losses at 18q,
+  8p, 10q, 5q, 14q and 17p. The segment most frequently amplified was 18p11.1-q11
+  45 , even though others like 7q21-22 18 were related with lower survival rates.
+  This analysis allows us to know for the first time the chromosomic aberrations that
+  occur and may play an important role in sinonasal adenocarcinoma. In the future,
+  comparative genomic hybridization could be used in the woodworkers with long exposition
+  to wood dust to detect initial genetic aberrations and obtain an early treatment
+  and diagnosis of the disease.
+authors: Ariza Cobos M, Llorente Pendas JL, Alvarez Marcos C, Baragano Rio L, Salas
+  Bustamante A, Rodriguez Prado N, Ablanedo Ablanedo P, Dominguez Iglesias F, Suarez
+  Nieto C, Schrock E, and Sampedro Nuno A.
+contact:
+  email: ~
+  name: NA Inazawa
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12733317
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.84
+    - 43.36
+    type: Point
+  info:
+    city: Oviedo
+    continent: Europe
+    country: Spain
+    label: Oviedo, Spain, Europe
+    precision: city
+journal: Acta Otorrinolaringol Esp, 54(1) 2003, 23-30.
+label: 'Ariza Cobos et al. (2003): [Genetic alterations in sinonasal adenocarcinoma
+  in wood workers studies with comparative ...'
+notes: ~
+pmid: 12733317
+title: '[Genetic alterations in sinonasal adenocarcinoma in wood workers studies with
+  comparative genomic hybridization].'
+year: 2003

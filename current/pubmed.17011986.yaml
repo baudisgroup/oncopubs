@@ -1,0 +1,51 @@
+---
+abstract: 'Breast cancer is the second-leading cause of death among Mexican women
+  amp gt 35 years of age. At the molecular level, changes in many genetic pathways
+  have been reported to be associated with this neoplasm. To analyze these changes,
+  we determined gene expression profiles and chromosomal structural alterations in
+  tumors from Mexican women. We obtained mRNA to identify expression profiles with
+  microarray technology, and DNA to determine amplifications and deletions, in 10
+  fresh sporadic breast tumor biopsies without treatment, as well as in 10 nonaffected
+  breast tissues. Expression profiles were compared with genetic changes observed
+  by comparative genomic hybridization CGH . We compared the expression profiles against
+  the structural alterations from the studied genes by means of microarrays at least
+  17 of these genes correlated with DNA copy number alterations. We found that the
+  following genes were overexpressed: LAMC1, PCTK3, CCNC, CCND1, FGF3, PCTK2, L1CAM,
+  BGN, and PLXNB3 alias PLEXR . Underexpressed genes included CASP9, FGR, TP73, HSPG2,
+  and ERCC1 genes turned off included FRAP1, EPHA2 previously ECK , IL12A, E2F5, TNFRSF10B,
+  TNFRSF10A, EFNB3, and BCL2. The results will allow us, in the near future, to outline
+  genes that could serve as diagnostic, prognostic, or target therapy markers for
+  the Mexican population.'
+authors: Valladares A, Hernandez NG, Gomez FS, Curiel-Quezada E, Madrigal-Bujaidar
+  E, Vergara MD, Martinez MS and Arenas Aranda DJ.
+contact:
+  email: arenasdi@servidor.unam.mx
+  name: Diego J. Arenas Aranda
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17011986
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: North America
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 170, 2 (2006): 147-51.'
+label: 'Valladares et al. (2006): Genetic Expression Profiles and Chromosomal Alterations
+  in Sporadic Breast Cancer in Mexican ...'
+notes: ~
+pmid: 17011986
+title: Genetic Expression Profiles and Chromosomal Alterations in Sporadic Breast
+  Cancer in Mexican Women.
+year: 2006

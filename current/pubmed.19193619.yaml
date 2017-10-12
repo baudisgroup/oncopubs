@@ -1,0 +1,41 @@
+---
+abstract: A significant number of women with serous ovarian cancer are intrinsically
+  refractory to platinum-based treatment. We analyzed somatic DNA copy number variation
+  and gene expression data to identify key mechanisms associated with primary resistance
+  in advanced-stage serous cancers.
+authors: Etemadmoghadam D, deFazio A, Beroukhim R, Mermel C, George J, Getz G, Tothill
+  R, Okamoto A, Raeder MB, Harnett P, Lade S, Akslen LA, Tinker AV, Locandro B, Alsop
+  K, Chiew YE, Traficante N, Fereday S, Johnson D, Fox S, Sellers W, Urashima M, Salvesen
+  HB, Meyerson M and Bowtell D.
+contact:
+  email: d.bowtell@petermac.org
+  name: David Bowtell
+counts:
+  biosamples: 118
+  samples_acgh: 118
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19193619
+- geo:GSE13813
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: 'Clin Cancer Res 15, 4 (2009): 1417-27.'
+label: 'Etemadmoghadam et al. (2009): Integrated Genome-Wide DNA Copy Number and Expression
+  Analysis Identifies Distinct ...'
+notes: ~
+pmid: 19193619
+title: Integrated Genome-Wide DNA Copy Number and Expression Analysis Identifies Distinct
+  Mechanisms of Primary Chemoresistance in Ovarian Carcinomas.
+year: 2009

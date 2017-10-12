@@ -1,0 +1,49 @@
+---
+abstract: 'Typical and atypical carcinoids TC, ATC and small SCLC and large cell neuroendocrine
+  carcinomas LCNEC constitute the spectrum of neuroendocrine lung tumors. Chromosomal
+  aberrations have not been studied in LCNEC and only rarely in carcinoids. Only SCLCs
+  have been investigated frequently for chromosomal aberrations. We compared three
+  typical and four atypical carcinoids, one atypical carcinoid SCLC mixed type, three
+  SCLC, and three LCNEC for chromosomal gains and losses using comparative genomic
+  hybridization. Typical carcinoids showed either no changes or only few chromosomal
+  gains. Atypical carcinoids appeared genetically heterogeneous: One case had no aberrations,
+  and three cases had few aberrations two of them showed a deletion of 11q. SCLC and
+  LCNEC were characterized by many gains and losses, especially similar changes of
+  3p, 5q, 5p, and 13q. Although ATC resemble LCNEC morphologically, there were no
+  similarities at the genetic level. We have found a reciprocal relationship of prognosis
+  and the amount of aberrations. TCs and ATCs with few chromosomal changes have the
+  best prognosis, whereas SCLCs and LCNECs were generally characterized by a great
+  amount of aberrations and worst prognosis. There was no unbalanced aberration common
+  in all types of neuroendocrine tumors of the lung.'
+authors: Ullmann R, Schwendel A, Klemen H, Wolf G, Petersen I and Popper HH.
+contact:
+  email: popper@uni-graz.at
+  name: Helmut H. Popper
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9781656
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: Europe
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: 'Hum Pathol 29, 10 (1998): 1145-49.'
+label: 'Ullmann et al. (1998): Unbalanced Chromosomal Aberrations in Neuroendocrine
+  Lung Tumors as Detected By Comparative ...'
+notes: ~
+pmid: 9781656
+title: Unbalanced Chromosomal Aberrations in Neuroendocrine Lung Tumors as Detected
+  By Comparative Genomic Hybridization.
+year: 1998

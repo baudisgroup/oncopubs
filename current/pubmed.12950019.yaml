@@ -1,0 +1,50 @@
+---
+abstract: Human carcinoma in situ of the breast already demonstrates genomic changes
+  found in invasive lesions. However, no specific genetic alterations have previously
+  been identified that are associated with progression from the in situ to the invasive
+  stage. By comparative genomic hybridization CGH and fluorescence in situ hybridization
+  FISH analysis of an invasive breast carcinoma with a large associated in situ component,
+  high-level amplification of C-MYC was found in the invasive component only. To determine
+  the frequency of this correlation in a panel of 188 invasive breast carcinomas,
+  18 additional cases with C-MYC amplification were identified. Nine of these cases
+  had a detectable adjacent in situ component. FISH analysis demonstrated increased
+  amp gt 5 C-MYC signals per nucleus in seven invasive components and increased amp
+  gt 4 C-MYC centromere 8 signal ratios in five of these. None of the associated in
+  situ components demonstrated these increases. The minimal amplified region was defined
+  at 8q24.13-8qter. C-MYC amplification was correlated with overexpression of C-MYC
+  and two of its target genes, TERT and FBL. Thus, C-MYC amplification is the first
+  identified genetic alteration that is associated with progression from the in situ
+  to the invasive stage of breast carcinoma.
+authors: Robanus-Maandag EC, Bosch CA, Kristel PM, Hart AA, Faneyte IF, Nederlof PM,
+  Peterse JL and van de Vijver MJ.
+contact:
+  email: m.vd.vijver@nki.nl
+  name: Marc J. van de Vijver
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12950019
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pathol 201, 1 (2003): 75-82.'
+label: 'Robanus-Maandag et al. (2003): Association of C-Myc Amplification With Progression
+  From the in Situ to the Invasive ...'
+notes: ~
+pmid: 12950019
+title: Association of C-Myc Amplification With Progression From the in Situ to the
+  Invasive Stage in C-Myc-Amplified Breast Carcinomas.
+year: 2003

@@ -1,0 +1,53 @@
+---
+abstract: Little is known about genomic aberrations in peripheral T cell lymphoma,
+  not otherwise specified PTCL NOS . We studied 47 PTCL NOS by 250k GeneChip single
+  nucleotide polymorphism arrays and detected genomic imbalances in 22 of the cases.
+  Recurrent gains and losses were identified, including gains of chromosome regions
+  1q32-43, 2p15-16, 7, 8q24, 11q14-25, 17q11-21 and 21q11-21 amp gt or 5 cases each
+  as well as losses of chromosome regions 1p35-36, 5q33, 6p22, 6q16, 6q21-22, 8p21-23,
+  9p21, 10p11-12, 10q11-22, 10q25-26, 13q14, 15q24, 16q22, 16q24, 17p11, 17p13 and
+  Xp22 amp gt or 4 cases each . Genomic imbalances affected several regions containing
+  members of nuclear factor-kappaB signalling and genes involved in cell cycle control.
+  Gains of 2p15-16 were confirmed in each of three cases analysed by fluorescence
+  in situ hybridization FISH and were associated with breakpoints at the REL locus
+  in two of these cases. Three additional cases with gains of the REL locus were detected
+  by FISH among 18 further PTCL NOS. Five of 27 PTCL NOS investigated showed nuclear
+  expression of the REL protein by immunohistochemistry, partly associated with genomic
+  gains of the REL locus. Therefore, in a subgroup of PTCL NOS gains rearrangements
+  of REL and expression of REL protein may be of pathogenetic relevance.
+authors: Hartmann S, Gesk S, Scholtysik R, Kreuz M, Bug S, Vater I, Doring C, Cogliatti
+  S, Parrens M, Merlio JP, Kwiecinska A, Porwit A, Piccaluga PP, Pileri S, Hoefler
+  G, Kuppers R, Siebert R and Hansmann ML.
+contact:
+  email: ~
+  name: Sylvia Hartmann
+counts:
+  biosamples: 49
+  samples_acgh: 49
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19863542
+- geo:GSE15842
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.68
+    - 50.12
+    type: Point
+  info:
+    city: Frankfurt am Main
+    continent: Europe
+    country: Germany
+    label: Frankfurt am Main, Germany, Europe
+    precision: city
+journal: 'Br J Haematol 148, 3 (2010): 402-12.'
+label: 'Hartmann et al. (2010): High Resolution Snp Array Genomic Profiling of Peripheral
+  T Cell Lymphomas, Not Otherwise ...'
+notes: ~
+pmid: 19863542
+title: High Resolution Snp Array Genomic Profiling of Peripheral T Cell Lymphomas,
+  Not Otherwise Specified, Identifies a Subgroup With Chromosomal Aberrations Affecting
+  the Rel Locus.
+year: 2010

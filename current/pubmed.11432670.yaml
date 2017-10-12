@@ -1,0 +1,48 @@
+---
+abstract: In a recent study, 23 microdissected areas of 10 glioblastoma multiforme
+  GBM were investigated for quantitative genomic aberrations using comparative genomic
+  hybridization CGH . To validate the chromosomal aberrations, as revealed by CGH
+  after microdissection, parallel tissue sections were stained immunohistochemically
+  with an antibody that detects both wild-type epidermal growth factor receptor EGFR
+  and the deletion mutant form of the receptor EGFRvIII . Immunostaining was correlated
+  with CGH data of chromosome 7, because chromosome 7 is the most frequently aberrant
+  chromosome in GBM here four of 10 tumors , and this aberration often indicates an
+  abnormality of EGFR. Nine of nine areas that showed gain in or amplification 2 areas
+  of chromosome 7 with CGH contained EGFR-immunoreactive cells. Only three of 14 areas
+  without abnormality of chromosome 7 in CGH contained EGFR-immunoreactive cells eleven
+  of 14 areas were immunonegative. Our findings demonstrate a strong correlation between
+  immunohistochemistry of EGFR and the copy numbers of chromosome 7, as revealed by
+  CGH after microdissection in glioblastoma multiforme.
+authors: Romeike BF, Jung V, Feiden W, Moringlane JR, Zang KD and Urbschat SM.
+contact:
+  email: bernd@dr-romeike.de
+  name: Bernd Romeike
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11432670
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: Europe
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: 'Pathol Res Pract 197, 6 (2001): 427-31.'
+label: 'Romeike et al. (2001): Distribution of Epidermal Growth Factor Receptor Protein
+  Correlates With Gain in Chromosome 7 ...'
+notes: ~
+pmid: 11432670
+title: Distribution of Epidermal Growth Factor Receptor Protein Correlates With Gain
+  in Chromosome 7 Revealed By Comparative Genomic Hybridization After Microdissection
+  in Glioblastoma Multiforme.
+year: 2001

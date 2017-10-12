@@ -1,0 +1,37 @@
+---
+abstract: To evaluate the sequential genomic copy alterations related to the development
+  of precursor lesions and endometrioid-type endometrial carcinomas, and its association
+  with cellular atypia.
+authors: Muslumanoglu HM, Oner U, Ozalp S, Acikalin MF, Yalcin OT, Ozdemir M and Artan
+  S.
+contact:
+  email: sartan@ogu.edu.tr
+  name: S. Artan
+counts:
+  biosamples: 67
+  samples_acgh: 0
+  samples_ccgh: 67
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15866096
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.52
+    - 39.78
+    type: Point
+  info:
+    city: Eskisehir
+    continent: Europe
+    country: Turkey
+    label: Eskisehir, Turkey, Europe
+    precision: city
+journal: 'Eur J Obstet Gynecol Reprod Biol 120, 1 (2005): 107-14.'
+label: 'Muslumanoglu et al. (2005): Genetic Imbalances in Endometrial Hyperplasia
+  and Endometrioid Carcinoma Detected By ...'
+notes: ~
+pmid: 15866096
+title: Genetic Imbalances in Endometrial Hyperplasia and Endometrioid Carcinoma Detected
+  By Comparative Genomic Hybridization.
+year: 2005

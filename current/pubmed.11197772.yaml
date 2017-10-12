@@ -1,0 +1,49 @@
+---
+abstract: In our attempt to find characteristic genetic changes in resistant tumors,
+  we screened the whole genome for gene aberrations in 28 primary ovarian cancers,
+  using the comparative genomic hybridization CGH method. These cancers included 14
+  tumors from patients who did not respond to cisplatin-based combination chemotherapy
+  in comparison with 14 tumors from patients who completely responded to the chemotherapy.
+  We found gains in chromosomal region 1q21-q22 and 13q12-q14 to be related to the
+  drug-resistant phenotype in ovarian cancer patients. Several genes encoding transcription
+  factors, oncogenes, cell cycle regulators and regulators of the apoptotic pathway
+  are found to be located on these regions of the chromosomes, and these genes are
+  potential modulators for toxic insults in cancer cells. This is the first report
+  that shows the relationship between certain genomic aberrations and clinical resistance
+  for cisplatin-based chemotherapy in ovarian cancer patients based on the CGH analysis.
+  Present findings suggest that these chromosomal gains may be potential indicators
+  for prediction of resistance in ovarian cancer patients prior to cisplatin-based
+  chemotherapy.
+authors: Kudoh K, Takano M, Koshikawa T, Yoshida S, Hirai M, Kikuchi Y, Nagata I,
+  Miwa M and Uchida K.
+contact:
+  email: k2-kudoh@xa2.so-net.ne.jp
+  name: K. Kudoh
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11197772
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.77
+    - 26.31
+    type: Point
+  info:
+    city: Chatan
+    continent: Asia
+    country: Japan
+    label: Chatan, Japan, Asia
+    precision: city
+journal: 'Hum Cell 13, 3 (2000): 109-16.'
+label: 'Kudoh et al. (2000): [Comparative Genomic Hybridization for Analysis of Chromosomal
+  Changes in Cisplatin-Resistant ...'
+notes: ~
+pmid: 11197772
+title: '[Comparative Genomic Hybridization for Analysis of Chromosomal Changes in
+  Cisplatin-Resistant Ovarian Cancer].'
+year: 2000

@@ -1,0 +1,39 @@
+---
+abstract: Angiosarcomas represent a heterogeneous group of malignant vascular tumors
+  occurring in different anatomic sites. In the female breast, they account for less
+  than 1 of all malignant tumors and mainly develop as secondary angiosarcomas after
+  prior irradiation. Data on cytogenetic findings in angiosarcomas are scarce and
+  up to now no characteristic primary aberrations have been established. We herein
+  add molecular cytogenetic findings in another 4 angiosarcomas to 11 previously reported
+  cases.
+authors: Baumhoer D, Gunawan B, Becker H and Fuzesi L.
+contact:
+  email: fuezesi@med.uni-goettingen.de
+  name: Laszlo Fuzesi
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15863129
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Gynecol Oncol 97, 2 (2005): 348-52.'
+label: 'Baumhoer et al. (2005): Comparative Genomic Hybridization in Four Angiosarcomas
+  of the Female Breast.'
+notes: ~
+pmid: 15863129
+title: Comparative Genomic Hybridization in Four Angiosarcomas of the Female Breast.
+year: 2005

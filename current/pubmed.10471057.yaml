@@ -1,0 +1,45 @@
+---
+abstract: Thirty-five hepatocellular carcinomas HCCs associated with hepatitis C virus
+  HCV were analysed by comparative genomic hybridization CGH , to screen for changes
+  in copy-number of DNA sequences. Chromosomal losses were noted in 1p34-36 37 , 4q12-21
+  48 , 5q13-21 35 , 6q13-16 23 , 8p21-23 28 , 13q 20 , 16q 33 and 17p13 37 . Gains
+  were noted in 1q 46 , 6p 20 , 8q21-24 31 and 17q 43 . High level gains indicative
+  of gene amplifications were found in 7q31 3 , 11q13 3 , 14q12 6 and 17q12 3 amplification
+  at 14q12 may be characteristic for HCCs. No significant difference in chromosomal
+  aberrations was noted between carcinomas associated with HCV-infection in our study
+  and those reported earlier in HCCs infected with hepatitis B virus HBV , indicating
+  that both HBV- and HCV-related carcinomas may progress through a similar cascade
+  of molecular events.
+authors: Sakakura C, Hagiwara A, Taniguchi H, Yamaguchi T, Yamagishi H, Takahashi
+  T, Koyama K, Nakamura Y, Abe T and Inazawa J.
+contact:
+  email: ~
+  name: J. Inazawa
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10471057
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.75
+    - 35.02
+    type: Point
+  info:
+    city: Kyoto
+    continent: Asia
+    country: Japan
+    label: Kyoto, Japan, Asia
+    precision: city
+journal: 'Br J Cancer 80, 12 (1999): 2034-39.'
+label: 'Sakakura et al. (1999): Chromosomal Aberrations in Human Hepatocellular Carcinomas
+  Associated With Hepatitis C Virus ...'
+notes: ~
+pmid: 10471057
+title: Chromosomal Aberrations in Human Hepatocellular Carcinomas Associated With
+  Hepatitis C Virus Infection Detected By Comparative Genomic Hybridization.
+year: 1999

@@ -1,0 +1,51 @@
+---
+abstract: Several hundred clinical trials currently explore the role of circulating
+  tumor cell (CTC) analysis for therapy decisions, but assays are lacking for comprehensive
+  molecular characterization of CTCs with diagnostic precision. We therefore combined
+  a workflow for enrichment and isolation of pure CTCs with a non-random whole genome
+  amplification method for single cells and applied it to 510 single CTCs and 189
+  leukocytes of 66 CTC-positive breast cancer patients. We defined a genome integrity
+  index (GII) to identify single cells suited for molecular characterization by different
+  molecular assays, such as diagnostic profiling of point mutations, gene amplifications
+  and whole genomes of single cells. The reliability of >ï¿½90% for successful molecular
+  analysis of high-quality clinical samples selected by the GII enabled assessing
+  the molecular heterogeneity of single CTCs of metastatic breast cancer patients.
+  We readily identified genomic disparity of potentially high relevance between primary
+  tumors and CTCs. Microheterogeneity analysis among individual CTCs uncovered pre-existing
+  cells resistant to ERBB2-targeted therapies suggesting ongoing microevolution at
+  late-stage disease whose exploration may provide essential information for personalized
+  treatment decisions and shed light into mechanisms of acquired drug resistance.
+authors: Polzer B, Medoro G, Pasch S, Fontana F, Zorzino L, Pestka A, Andergassen
+  U, Meier-Stiegen F, Czyz ZT, Alberter B, Treitschke S, Schamberger T, Sergio M,
+  Bregola G, Doffini A, Gianni S, Calanca A, Signorini G, Bolognesi C, Hartmann A,
+  Fasching PA, Sandri MT, Rack B, Fehm T, Giorgini G, Manaresi N, Klein CA.
+contact:
+  email: zbigniew.czyz@klinik.uni-regensburg.de
+  name: Zbigniew Tadeusz Czyz
+counts:
+  biosamples: 52
+  samples_acgh: 52
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25358515
+- geo:GSE58192
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.12
+    - 49.03
+    type: Point
+  info:
+    city: Regensburg
+    continent: Europe
+    country: Germany
+    label: Regensburg, Germany, Europe
+    precision: city
+journal: EMBO Mol Med 6(11), 2014
+label: ' (2014): '
+notes: ~
+pmid: 25358515
+title: Molecular profiling of single circulating tumor cells with diagnostic intention.
+year: 2014

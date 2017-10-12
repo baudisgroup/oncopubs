@@ -1,0 +1,48 @@
+---
+abstract: 'Comparative genomic hybridization CGH , using oligo arrays with either
+  44,000 or 105,000 oligonucleotides, was performed on granulocyte-derived DNA from
+  71 patients with BCR-ABL-negative classic myeloproliferative neoplasms MPNs : 32
+  primary myelofibrosis PMF , 26 polycythemia vera PV and 13 essential thrombocythemia
+  ET . Copy number changes CNCs were detected in 44 , 35 , and 15 of the cases with
+  PMF, PV and ET, respectively. In ET and PMF, CNCs were more frequently detected
+  in the presence of JAK2V617F 50 vs. 19 p 0.05 . Conventional chromosome analysis
+  was obtained in 57 patients either at diagnosis or within 1 year of the array CGH
+  study all 21 patients with PV and 11 with ET displayed normal cytogenetic findings
+  despite the presence of CNCs in 29 and 18 , respectively. In PMF, the respective
+  rates of CNCs and abnormal karyotype were 48 and 36 karyotypic abnormalities, including
+  unbalanced translocations, were often detected by array CGH as chromosomal gains
+  or losses. This preliminary report suggests a potential value for array CGH in terms
+  of both clinical diagnostics and genomic research in MPNs.'
+authors: Tefferi A, Sirhan S, Sun Y, Lasho T, Finke CM, Weisberger J, Bale S, Compton
+  J, LeDuc CA, Pardanani A, Thorland EC, Shevchenko Y, Grodman M and Chung WK.
+contact:
+  email: tefferi.ayalew@mayo.edu
+  name: Ayalew Tefferi
+counts:
+  biosamples: 71
+  samples_acgh: 71
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18937974
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Leuk Res 33, 5 (2009): 662-64.'
+label: 'Tefferi et al. (2009): Oligonucleotide Array Cgh Studies in Myeloproliferative
+  Neoplasms: Comparison With Jak2V617F ...'
+notes: ~
+pmid: 18937974
+title: 'Oligonucleotide Array Cgh Studies in Myeloproliferative Neoplasms: Comparison
+  With Jak2V617F Mutational Status and Conventional Chromosome Analysis.'
+year: 2009

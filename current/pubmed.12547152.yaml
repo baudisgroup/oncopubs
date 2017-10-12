@@ -1,0 +1,47 @@
+---
+abstract: We analyzed 25 ovarian borderline tumors 13 serous and 12 mucinous tumors
+  by comparative genomic hybridization CGH . Genomic imbalance was detected in 85
+  of serous tumors and 75 of mucinous tumors. Different patterns of genomic alterations
+  were identified in serous and mucinous tumors. Gain of the X chromosome was common
+  in both serous 30 and mucinous 42 tumors. However, gain of chromosome 8 was detected
+  exclusively in 38 of serous and mixed sero-mucinous tumors, but not in any pure
+  mucinous tumors. According to the present and previous studies, gain of chromosome
+  8 is the most common abnormality in borderline serous tumors. Gain of the same chromosome
+  is also common in high grade and advanced stage serous carcinomas, but uncommon
+  in early stage serous carcinomas. In addition gain of chromosome X is common in
+  borderline serous and mucinous tumors, while loss of chromosome X is predominant
+  in invasive carcinomas. These findings do not support the multi-step progression
+  theory from borderline tumor to high-grade, advanced stage carcinoma, but indicate
+  that the borderline ovarian tumor is a distinct entity. Genes in chromosome 8 may
+  be critical for the development and the differentiation of borderline serous tumors.
+authors: Hu J, Khanna V, Jones MM and Surti U.
+contact:
+  email: ~
+  name: Jie Hu
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12547152
+geo_data:
+  geo_json:
+    coordinates:
+    - -80
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: North America
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 139, 1 (2002): 18-23.'
+label: 'Hu et al. (2002): Genomic Imbalances in Ovarian Borderline Serous and Mucinous
+  Tumors.'
+notes: ~
+pmid: 12547152
+title: Genomic Imbalances in Ovarian Borderline Serous and Mucinous Tumors.
+year: 2002

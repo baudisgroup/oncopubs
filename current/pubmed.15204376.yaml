@@ -1,0 +1,38 @@
+---
+abstract: The number of DNA losses found using comparative genomic hybridization CGH
+  and the proliferation index MIB-1 have been shown to be prognostic factors in renal
+  cell carcinoma RCC . We evaluated the associations of these two factors with each
+  other and with histopathology and clinical outcome.
+authors: Kallio JP, Mahlamaki EH, Helin H, Karhu R, Kellokumpu-Lehtinen P and Tammela
+  TL.
+contact:
+  email: jukka.kallio@uta.fi
+  name: Jukka P. Kallio
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15204376
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Scand J Urol Nephrol 38, 3 (2004): 225-30.'
+label: 'Kallio et al. (2004): Chromosomal Gains and Losses Detected By Comparative
+  Genomic Hybridization and Proliferation ...'
+notes: ~
+pmid: 15204376
+title: Chromosomal Gains and Losses Detected By Comparative Genomic Hybridization
+  and Proliferation Activity in Renal Cell Carcinoma.
+year: 2004

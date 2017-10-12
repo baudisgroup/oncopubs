@@ -1,0 +1,45 @@
+---
+abstract: Chordoid gliomas are rare, slow-growing neoplasms of the anterior third
+  ventricle. We reported a case of chordoid glioma in a 41-year-old man with obstructive
+  hydrocephalus. Histologically, the tumor consisted of polygonal epithelioid cells
+  admixed with elongated cells in a myxoid stroma. A prominent lymphoplasmacytic infiltrate
+  was present. The tumor cells expressed glial fibrillary acidic protein GFAP , epithelial
+  membrane antigen EMA , vimentin, CD31, CD34, epidermal growth factor receptor EGFR
+  and S100 but were negative for pankeratin and E-cadherin. The percentage of Ki67
+  positive cells was approximately 3 . Weak p53 immunoreactivity was seen in less
+  than 10 of the cells. Array comparative genomic hybridization performed on this
+  case, as well as on four other archived cases, showed losses at several loci. Fluorescence
+  in situ hybridization FISH confirmed consistent genetic alterations at 9p21 and
+  11q13. These are the fifth through ninth reported cases of chordoid gliomas with
+  molecular characterization suggesting a distinct genetic origin from other gliomas.
+authors: Horbinski C, Dacic S, McLendon RE, Cieply K, Datto M, Brat DJ and Chu CT.
+contact:
+  email: horbinskicm@upmc.edu
+  name: Craig Horbinski
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18652591
+geo_data:
+  geo_json:
+    coordinates:
+    - -80
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: North America
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: 'Brain Pathol 19, 3 (2009): 439-48.'
+label: 'Horbinski et al. (2009): Chordoid Glioma: A Case Report and Molecular Characterization
+  of Five Cases.'
+notes: ~
+pmid: 18652591
+title: 'Chordoid Glioma: A Case Report and Molecular Characterization of Five Cases.'
+year: 2009

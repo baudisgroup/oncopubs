@@ -1,0 +1,49 @@
+---
+abstract: Human papilloma virus HPV infection is the crucial step in the initiation
+  of cervical carcinomas. In addition, HPV18 has been implicated in tumour progression
+  and adverse clinical outcome. We determined the HPV types in 12 primary cervical
+  carcinomas and 12 cell lines and compared the findings with the comparative genetic
+  hybridisation CGH pattern of chromosomal alterations. The most frequent alteration
+  was the deletion at 3p14 followed by the loss of 2q34-q36 along with 3q gain. High
+  risk HPV types were detected in all samples except one primary tumour. In contrast
+  to the normal distribution, HPV18 was present in 75 of cases including all cell
+  lines. The cell lines carried a higher number of genetic alterations and a different
+  CGH pattern for several chromosomes than the primary tumours, despite microdissection.
+  Purely HPV18 positive cases indicated a high incidence of imbalances at specific
+  loci with peaks of the histogram coinciding with known HPV integration sites. The
+  study suggests that HPV infection is associated with a recurrent pattern of chromosomal
+  changes in cervical carcinomas and that the development and progression of these
+  alterations is triggered by integration into the host genome.
+authors: Hidalgo A, Schewe C, Petersen S, Salcedo M, Gariglio P, Schluns K, Dietel
+  M and Petersen I.
+contact:
+  email: alfhm@yahoo.com
+  name: Alfredo Hidalgo
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10717534
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Eur J Cancer 36, 4 (2000): 542-48.'
+label: 'Hidalgo et al. (2000): Human Papilloma Virus Status and Chromosomal Imbalances
+  in Primary Cervical Carcinomas and Tumour ...'
+notes: ~
+pmid: 10717534
+title: Human Papilloma Virus Status and Chromosomal Imbalances in Primary Cervical
+  Carcinomas and Tumour Cell Lines.
+year: 2000

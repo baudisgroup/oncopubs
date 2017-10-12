@@ -1,0 +1,55 @@
+---
+abstract: 'Carcinosarcomas are malignant tumors with a mixture of carcinomatous and
+  differentiated sarcomatous elements. We investigate the morphology, immunohistochemistry,
+  and comparative genomic hybridization analysis of 3 mixed squamous carcinoma and
+  osteosarcoma of the lung. All patients were male and their ages were 72, 43, and
+  58 years. The sizes of the neoplasms were 7, 5, and 5 cm in maximum diameter, respectively.
+  Two patients died of the disease 9 and 14 months after surgery and one is alive
+  6 months later. By light microscopy, all cases had both squamous and osteosarcomatous
+  structures. Immunohistochemistry was positive for AE3AE1, p63, 34 E12, CAM 5.2 2
+  3 cases , CK-7 2 3 cases , epithelial membrane antigen, E-cadherin, p53, and carcinogenic
+  embryonic antigen in carcinomatous areas, and for vimentin and CD-68 in sarcomatous
+  component. Areas of transition positive for both cytokeratins and vimentin were
+  seen in all cases. A total of 55 copy number changes were detected with a median
+  of 18 abnormalities per case: 48 gains, 6 losses, and 1 high-level amplification.
+  Chromosome alterations in osteosarcomatous areas were similar to those found in
+  lung metastatic osteosarcoma, comparable to those found in carcinomatous areas and
+  to lung squamous carcinomas. Coincidences between carcinomatous areas and osteosarcomatous
+  zones were found as gains in chromosomes 1q, 3q, 5p, 8q, and 12p. These findings
+  provide arguments that favor a common origin for both types of cells, supported
+  by the mixture of cells, the existence of undifferentiated cells positive to both
+  cytokeratin and vimentin markers, and the CGH overlaps of chromosomal gains between
+  carcinomatous and sarcomatous areas.'
+authors: Pardo J, Aisa G, Alava E, Sola JJ, Panizo A, Rodriguez-Spiteri N, Garcia
+  JL and Torre W.
+contact:
+  email: jpardo@unav.es
+  name: J. Pardo
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18382357
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.64
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: Europe
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: 'Diagn Mol Pathol 17, 3 (2008): 151-58.'
+label: 'Pardo et al. (2008): Primary Mixed Squamous Carcinoma and Osteosarcoma (Carcinosarcomas)
+  of the Lung Have a Cgh Mapping ...'
+notes: ~
+pmid: 18382357
+title: Primary Mixed Squamous Carcinoma and Osteosarcoma (Carcinosarcomas) of the
+  Lung Have a Cgh Mapping Similar to Primitive Squamous Carcinomas and Osteosarcomas.
+year: 2008

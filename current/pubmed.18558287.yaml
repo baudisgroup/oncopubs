@@ -1,0 +1,49 @@
+---
+abstract: The majority of classical tumor suppressor genes, such as CDKN2A or RB1,
+  were identified by delineation of biallelic losses called homozygous deletions.
+  To systematically identify homozygous deletions in laryngeal squamous cell carcinoma
+  and to unravel novel putative tumor suppressor genes we screened three laryngeal
+  squamous cell carcinoma cell lines LSCC using array comparative genomic hybridization
+  array-CGH . Out of 31 candidate regions for homozygous deletions identified by array-CGH,
+  5 were verified further by PCR. Among others, these homozygous deletions affected
+  the tumor suppressor gene CDKN2A and the apoptosis-inducing STK17A gene. To assess
+  the frequency of the identified deletions we investigated the affected sites in
+  9 additional LSCC cell lines. In 5 of the 9 cell lines the CDKN2A gene was homozygously
+  lost. Thus, CDKN2A was homozygously deleted in 7 of the 12 cell lines. No other
+  recurrent homozygous deletions were found. Homozygous deletions was a frequent mechanism
+  of CDKN2A inactivation. Moreover, we identified several other genes, including the
+  putative tumor suppressor gene STK17A, which may be inactivated by homozygous deletions
+  and thus are potentially implicated in laryngeal squamous cell carcinoma development.
+authors: Giefing M, Martin-Subero JI, Kiwerska K, Jarmuz M, Grenman R, Siebert R and
+  Szyfter K.
+contact:
+  email: gifciu@wp.pl
+  name: Maciej Giefing
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18558287
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: Europe
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 184, 1 (2008): 38-43.'
+label: 'Giefing et al. (2008): Characterization of Homozygous Deletions in Laryngeal
+  Squamous Cell Carcinoma Cell ...'
+notes: ~
+pmid: 18558287
+title: Characterization of Homozygous Deletions in Laryngeal Squamous Cell Carcinoma
+  Cell Lines.
+year: 2008

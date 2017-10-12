@@ -1,0 +1,54 @@
+---
+abstract: PAX5 is the main target of somatic mutations in acute B lymphoblastic leukemia
+  B-ALL . We analyzed 153 adult and child B-ALL harboring karyotypic abnormalities
+  at chromosome 9p, to determine the frequency and the nature of PAX5 alterations.
+  We found PAX5 internal rearrangements in 21 of the cases. To isolate fusion partners,
+  we used classic and innovative techniques rolling circle amplification-rapid amplification
+  of cDNA ends and single nucleotide polymorphism-comparative genomic hybridization
+  arrays. Recurrent and novel fusion partners were identified, including NCoR1, DACH2,
+  GOLGA6, and TAOK1 genes showing the high variability of the partners. We noted that
+  half the fusion genes can give rise to truncated PAX5 proteins. Furthermore, malignant
+  cells carrying PAX5 fusion genes displayed a simple karyotype. These data strongly
+  suggest that PAX5 fusion genes are early players in leukemogenesis. In addition,
+  PAX5 deletion was observed in 60 of B-ALL with 9p alterations. Contrary to cases
+  with PAX5 fusions, deletions were associated with complex karyotypes and common
+  recurrent translocations. This supports the hypothesis of the secondary nature of
+  the deletion. Our data shed more light on the high variability of PAX5 alterations
+  in B-ALL. Therefore, it is probable that gene fusions occur early, whereas deletions
+  should be regarded as a late secondary event.
+authors: Coyaud E, Struski S, Prade N, Familiades J, Eichner R, Quelen C, Bousquet
+  M, Mugneret F, Talmant P, Pages MP, Lefebvre C, Penther D, Lippert E, Nadal N, Taviaux
+  S, Poppe B, Luquet I, Baranger L, Eclache V, Radford I, Barin C, Mozziconacci MJ,
+  Lafage-Pochitaloff M, Antoine-Poirel H, Charrin C, Perot C, Terre C, Brousset P,
+  Dastugue N and Broccardo C.
+contact:
+  email: cyril.broccardo@inserm.fr
+  name: Cyril Broccardo
+counts:
+  biosamples: 153
+  samples_acgh: 153
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20160164
+geo_data:
+  geo_json:
+    coordinates:
+    - 1.44
+    - 43.6
+    type: Point
+  info:
+    city: Toulouse
+    continent: Europe
+    country: France
+    label: Toulouse, France, Europe
+    precision: city
+journal: 'Blood 115, 15 (2010): 3089-97.'
+label: 'Coyaud et al. (2010): Wide Diversity of Pax5 Alterations in B-All: A Groupe
+  Francophone De Cytogenetique Hematologique ...'
+notes: ~
+pmid: 20160164
+title: 'Wide Diversity of Pax5 Alterations in B-All: A Groupe Francophone De Cytogenetique
+  Hematologique Study.'
+year: 2010

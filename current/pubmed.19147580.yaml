@@ -1,0 +1,57 @@
+---
+abstract: Cervical cancer develops from precancerous high-grade cervical intraepithelial
+  neoplasia CIN harboring a transforming infection with high-risk human papillomavirus,
+  which is characterized by p16 INK4a overexpression. Once such a lesion has developed,
+  progression toward an invasive squamous cell carcinoma SCC may take one or more
+  decades, underlining the heterogeneity of these lesions in terms of duration of
+  existence and progression risk. We performed array-based comparative genomic hybridization
+  array CGH on 46 p16 INK4a immunopositive CIN2 3 lesions to determine whether this
+  heterogeneity is reflected in their chromosomal profiles. Chromosomal profiles of
+  CIN2 3 lesions were related to those of invasive cervical SCC and promoter methylation
+  of CADM1, a tumor suppressor gene known to be functionally involved in the tumorigenic
+  phenotype of cervical cancer cells. Frequent alterations found in CIN2 3 lesions
+  included gains located at chromosome 1, 3, 7, and 20 and losses located at 4, 11,
+  16, 17, and 19. Unsupervised hierarchical clustering identified two subsets of CIN2
+  3 lesions, chromosomal profiles of one of which closely resembled invasive SCCs.
+  Gains of 1, 3q, and 20 were characteristic for CIN2 3 lesions with chromosomal signatures
+  resembling carcinomas. In addition, dense promoter methylation of the CADM1 gene
+  was significantly more frequent in these CIN2 3 lesions P 0.004 . No chromosomal
+  alterations were detected in six CIN1 lesions, five of which were completely p16
+  INK4a immunonegative. These findings suggest that biomarkers associated with gains
+  at chromosomes 1, 3q, and 20 are potential hallmarks of advanced p16 INK4a -positive
+  CIN2 3 lesions with a high short-term risk of progression.
+authors: Wilting SM, Steenbergen RD, Tijssen M, van Wieringen WN, Helmerhorst TJ,
+  van Kemenade FJ, Bleeker MC, van de Wiel MA, Carvalho B, Meijer GA, Ylstra B, Meijer
+  CJ and Snijders PJ.
+contact:
+  email: pjf.snijders@vumc.nl
+  name: Peter Snijders
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19147580
+- geo:GSE11573
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Cancer Res 69, 2 (2009): 647-55.'
+label: 'Wilting et al. (2009): Chromosomal Signatures of a Subset of High-Grade Premalignant
+  Cervical Lesions Closely Resemble ...'
+notes: ~
+pmid: 19147580
+title: Chromosomal Signatures of a Subset of High-Grade Premalignant Cervical Lesions
+  Closely Resemble Invasive Carcinomas.
+year: 2009

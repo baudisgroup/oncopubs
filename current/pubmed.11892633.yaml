@@ -1,0 +1,39 @@
+---
+abstract: Despite the rapid increase in knowledge concerning the genetic basis of
+  malignant progression in astrocytic tumors, progression of oligodendroglial tumors
+  including both pure oligodendrogliomas and mixed oligoastrocytomas is still poorly
+  understood. The aim of the present study is the elucidation of chromosomal imbalances
+  involved in the progression of oligodendroglial tumors toward malignancy.
+authors: Jeuken JW, Sprenger SH, Vermeer H, Kappelle AC, Boerman RH and Wesseling
+  P.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11892633
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'J Neurosurg 96, 3 (2002): 559-64.'
+label: 'Jeuken et al. (2002): Chromosomal Imbalances in Primary Oligodendroglial Tumors
+  and Their Recurrences: Clues About ...'
+notes: ~
+pmid: 11892633
+title: 'Chromosomal Imbalances in Primary Oligodendroglial Tumors and Their Recurrences:
+  Clues About Malignant Progression Detected Using Comparative Genomic Hybridization.'
+year: 2002

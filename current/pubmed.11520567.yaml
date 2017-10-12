@@ -1,0 +1,45 @@
+---
+abstract: Biological characteristics of malignant tumors including head and neck squamous
+  cell carcinoma HNSCC are greatly affected by genetic alterations. However, the relationship
+  between chromosomal aberrations and pathologic tumor stage in HNSCC has not been
+  elucidated. In 32 patients, DNA sequence copy number aberrations DSCNA were surveyed
+  by comparative genomic hybridization CGH combined with a microdissection method.
+  The average number of DSCNA was 15.3 per tumor and increased with tumor stage P
+  amp lt .05 . DNA copy number gain was detected at 3q26 approximately qter in 29
+  tumors 91 , and 13 of these tumors displayed marked DNA amplification. Tumor stage
+  was linked with this amplification P amp lt .05 . The increase in DSCNA and amplification
+  of 3q26 approximately qter are likely to be useful markers for estimating tumor
+  progression in HNSCC.
+authors: Hashimoto Y, Oga A, Kawauchi S, Furuya T, Shimizu N, Nakano T, Imate Y, Yamashita
+  H and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11520567
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 129, 1 (2001): 52-56.'
+label: 'Hashimoto et al. (2001): Amplification of 3q26 Approximately Qter Correlates
+  With Tumor Progression in Head and Neck ...'
+notes: ~
+pmid: 11520567
+title: Amplification of 3q26 Approximately Qter Correlates With Tumor Progression
+  in Head and Neck Squamous Cell Carcinomas.
+year: 2001

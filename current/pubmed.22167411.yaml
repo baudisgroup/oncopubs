@@ -1,0 +1,40 @@
+---
+abstract: The importance of KIT and PDGFRA mutations in the oncogenesis of gastrointestinal
+  stromal tumors GIST is well established, but the genetic basis of GIST metastasis
+  is poorly understood. We recently published a 67 gene expression prognostic signature
+  related to genome complexity CINSARC for Complexity INdex in SARComas and asked
+  whether it could predict outcome in GISTs.
+authors: Lagarde P, Perot G, Kauffmann A, Brulard C, Dapremont V, Hostein I, Neuville
+  A, Wozniak A, Sciot R, Schoffski P, Aurias A, Coindre JM, Debiec-Rychter M and Chibon
+  F.
+contact:
+  email: ~
+  name: Frederic Chibon
+counts:
+  biosamples: 67
+  samples_acgh: 67
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22167411
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Clin Cancer Res 18, 3 (2012): 826-38.'
+label: 'Lagarde et al. (2012): Mitotic Checkpoints and Chromosome Instability Are
+  Strong Predictors of Clinical Outcome in ...'
+notes: ~
+pmid: 22167411
+title: Mitotic Checkpoints and Chromosome Instability Are Strong Predictors of Clinical
+  Outcome in Gastrointestinal Stromal Tumors.
+year: 2012

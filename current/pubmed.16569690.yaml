@@ -1,0 +1,35 @@
+---
+abstract: Malignant deciduoid mesothelioma is a rare variant of epithelioid mesothelioma.
+  This tumour generally has poor prognosis, and can be asbestos related.
+authors: Scattone A, Pennella A, Gentile M, Musti M, Nazzaro P, Buonadonna AL, Marzullo
+  A, Cavone D, Pollice L and Serio G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16569690
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: Europe
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: 'J Clin Pathol 59, 7 (2006): 764-69.'
+label: 'Scattone et al. (2006): Comparative Genomic Hybridisation in Malignant Deciduoid
+  Mesothelioma.'
+notes: ~
+pmid: 16569690
+title: Comparative Genomic Hybridisation in Malignant Deciduoid Mesothelioma.
+year: 2006

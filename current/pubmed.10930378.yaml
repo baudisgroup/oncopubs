@@ -1,0 +1,36 @@
+---
+abstract: Hepatocellular carcinoma HCC is highly malignant and prone to recur after
+  surgical treatment. Differentiation between a true relapse of HCC and a second primary
+  tumor is of clinical importance. However, no convenient method is currently available.
+authors: Chen YJ, Yeh SH, Chen JT, Wu CC, Hsu MT, Tsai SF, Chen PJ and Lin CH.
+contact:
+  email: linch@ym.edu.tw
+  name: Chi-Hung Lin
+counts:
+  biosamples: 62
+  samples_acgh: 0
+  samples_ccgh: 62
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10930378
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Gastroenterology 119, 2 (2000): 431-40.'
+label: 'Chen et al. (2000): Chromosomal Changes and Clonality Relationship Between
+  Primary and Recurrent Hepatocellular ...'
+notes: ~
+pmid: 10930378
+title: Chromosomal Changes and Clonality Relationship Between Primary and Recurrent
+  Hepatocellular Carcinoma.
+year: 2000

@@ -1,0 +1,49 @@
+---
+abstract: Cancer of the ovary is bilateral in 25 . Cytogenetic analysis could determine
+  whether the disease in bilateral cases is metastatic or two separately occurring
+  primary tumors, but karyotypic information comparing the two cancerous ovaries is
+  limited to a single report with 11 informative cases. We present a series of 32
+  bilateral ovarian carcinoma cases, analyzed by karyotyping and high-resolution CGH.
+  Our karyotypic findings showed that spreading to the contralateral ovary had occurred
+  in bilateral ovarian cancer cases and that it was a late event in the clonal evolution
+  of the tumors. This was confirmed by the large number of similar changes detected
+  by HR-CGH in the different lesions from the same patient. The chromosomal bands
+  most frequently involved in structural rearrangements were 19p13 n 12 and 19q13
+  n 11 . The chromosomal bands most frequently gained by both tumorous ovaries were
+  5p14 70 , 8q23-24 65 , 1q23-24 57 , and 12p12 48 , whereas the most frequently lost
+  bands were 17p11 78 , 17p13 74 , 17p12 70 , 22q13 61 , 8p21 and 19q13 52 , and 8p22-23
+  48 . This is the first time that 5p14 is seen gained at such a high frequency in
+  cancer of the ovary possibly oncogene s involved in bilateral ovarian carcinogenesis
+  or tumor progression may reside in this band.
+authors: Micci F, Haugom L, Ahlquist T, Abeler VM, Trope CG, Lothe RA and Heim S.
+contact:
+  email: francesca.micci@labmed.uio.no
+  name: Francesca Micci
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19759843
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'J Oncol 2010 (2010): 646340.'
+label: 'Micci et al. (2010): Tumor Spreading to the Contralateral Ovary in Bilateral
+  Ovarian Carcinoma is a Late Event in Clonal ...'
+notes: ~
+pmid: 19759843
+title: Tumor Spreading to the Contralateral Ovary in Bilateral Ovarian Carcinoma is
+  a Late Event in Clonal Evolution.
+year: 2010

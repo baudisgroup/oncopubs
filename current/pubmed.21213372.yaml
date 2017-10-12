@@ -1,0 +1,55 @@
+---
+abstract: Testicular germ cell tumors TGCT are the most frequent solid tumor to affect
+  young adult males and are histologically divided into seminomas and nonseminomas
+  NS . NS comprise undifferentiated embryonal carcinoma EC and differentiated tumors
+  with embryonic teratoma or extra-embryonic choriocarcinoma, yolk sac tumor features.
+  In contrast to other subtypes, EC have uniform cellular morphology and lack normal
+  cell infiltrates, ideal for nucleic acid profiling. EC are under-represented in
+  previous studies due to their relative rarity. To gain insights into NS tumorigenesis,
+  metastatic dissemination and potential markers of relapse, a full tiling path BAC
+  platform was used to obtain array comparative genomic hybridization aCGH profiles
+  from 32 formalin fixed paraffin embedded stage I EC samples from patients with follow-up
+  data. In addition to identifying regions previously described in TGCT, novel minimum
+  overlapping regions of gain at 6p21.33, 10q11.21, and 22q13.32 and loss at 22q12.2
+  were defined and confirmed by fluorescence in situ hybridization analyses. Specifically,
+  the region at 6p21.33 included OCT3 4, the expression of which is involved in the
+  maintenance of pluripotency and the 10q11.21 region contains the gene encoding the
+  RAS activating factor RASGEF1A, the expression of which was demonstrably increased
+  in RNA extracted from these samples. The region of loss at 22q12.2 was more frequently
+  seen in tumors that relapsed and protein expression of genes from 22q12.2 included
+  PIK3IP1, a negative regulator of PI3 kinase signaling was reduced. These data support
+  the role for genes involved in pluripotency and RAS PI3K signaling in EC development
+  and progression.
+authors: Gilbert DC, McIntyre A, Summersgill B, Missiaglia E, Goddard NC, Chandler
+  I, Huddart RA and Shipley J.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21213372
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 3 (2011): 186-95.'
+label: 'Gilbert et al. (2011): Minimum Regions of Genomic Imbalance in Stage I Testicular
+  Embryonal Carcinoma and Association of ...'
+notes: ~
+pmid: 21213372
+title: Minimum Regions of Genomic Imbalance in Stage I Testicular Embryonal Carcinoma
+  and Association of 22q Loss With Relapse.
+year: 2011

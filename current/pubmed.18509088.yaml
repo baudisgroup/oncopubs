@@ -1,0 +1,52 @@
+---
+abstract: The spectrum of entities, the therapeutic strategy, and the outcome of mature
+  aggressive B-cell non-Hodgkin lymphomas maB-NHLs differs between children and adolescents
+  on the one hand and adult patients on the other. Whereas adult maB-NHLs have been
+  studied in detail, data on molecular profiling of pediatric maB-NHLs are hitherto
+  lacking. We analyzed 65 cases of maB-NHL from patients up to 18 years of age by
+  gene expression profiling, matrix comparative genomic hybridization CGH , fluorescent
+  in situ hybridization FISH , and immunohistochemistry. The majority of the analyzed
+  pediatric patients were treated within prospective trials n 49 . We compared this
+  group to a series of 182 previously published cases of adult maB-NHL. Gene expression
+  profiling reclassified 31 of morphologically defined diffuse large B-cell lymphomas
+  as molecular Burkitt lymphoma mBL . The subgroups obtained by molecular reclassification
+  did not show any difference in outcome in children treated with the NHL-Berlin-Frankfurt-Muenster
+  BFM protocols. No differences were detectable between pediatric and adult mBL with
+  regard to gene expression or chromosomal imbalances. This is the first report on
+  molecular profiling of pediatric B-NHL showing mBL to be much more prominent in
+  children than suggested by morphologic assessment. Based on molecular profiling
+  mBL is a molecularly homogeneous disease across children and adults.
+authors: Klapper W, Szczepanowski M, Burkhardt B, Berger H, Rosolowski M, Bentink
+  S, Schwaenen C, Wessendorf S, Spang R, Moller P, Hansmann ML, Bernd HW, Ott G, Hummel
+  M, Stein H, Loeffler M, Trumper L, Zimmermann M, Reiter A and Siebert R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18509088
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.13
+    - 54.32
+    type: Point
+  info:
+    city: Kiel
+    continent: Europe
+    country: Germany
+    label: Kiel, Germany, Europe
+    precision: city
+journal: 'Blood 112, 4 (2008): 1374-81.'
+label: 'Klapper et al. (2008): Molecular Profiling of Pediatric Mature B-Cell Lymphoma
+  Treated in Population-Based Prospective ...'
+notes: ~
+pmid: 18509088
+title: Molecular Profiling of Pediatric Mature B-Cell Lymphoma Treated in Population-Based
+  Prospective Clinical Trials.
+year: 2008

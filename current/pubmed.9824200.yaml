@@ -1,0 +1,48 @@
+---
+abstract: 'No data on the chromosomal constitution of spermatocytic seminomas are
+  available thus far because of their rarity. Ploidy analysis performed on paraffin-embedded
+  cases showed varying results from near- diploid to aneuploid. We applied comparative
+  genomic hybridization on four snap-frozen primary spermatocytic seminomas of three
+  different patients. Conventional cytogenetic analysis was successful in one, and
+  amp quot interphase cytogenetics amp quot with centromeric region-specific probes
+  was applied to another. The results from comparative genomic hybridization showed
+  almost exclusively numerical chromosomal aberrations, in agreement with the data
+  from karyotyping. Despite the limited number of cases studied, a nonrandom pattern
+  of chromosome imbalances was detected: chromosome 9 was gained in all spermatocytic
+  seminomas. This suggests that that this aberration plays a role in the development
+  of this cancer. Interphase cytogenetics shows that the copy number of most chromosomes
+  ranges from two to four, with an average of near trisomic. This constitutes the
+  first report on the chromosomal constitution of spermatocytic seminomas.'
+authors: Rosenberg C, Mostert MC, Schut TB, van de Pol M, van Echten J, de Jong B,
+  Raap AK, Tanke H, Oosterhuis JW and Looijenga LH.
+contact:
+  email: c.rosenberg@lumc.nl
+  name: Clara Rosenberg
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9824200
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 23, 4 (1998): 286-91.'
+label: 'Rosenberg et al. (1998): Chromosomal Constitution of Human Spermatocytic Seminomas:
+  Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 9824200
+title: 'Chromosomal Constitution of Human Spermatocytic Seminomas: Comparative Genomic
+  Hybridization Supported By Conventional and Interphase Cytogenetics.'
+year: 1998

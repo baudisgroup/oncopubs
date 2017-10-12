@@ -1,0 +1,56 @@
+---
+abstract: "Carcinoma of the oral tongue (OTSCC) is the most common malignancy of the
+  oral cavity, characterized by frequent recurrence and poor survival. The last three
+  decades has witnessed a change in the OTSCC epidemiological profile, with increasing
+  incidence in younger patients, females and never-smokers. Here, we sought to characterize
+  the OTSCC genomic landscape and to determine factors that may delineate the genetic
+  basis of this disease, inform prognosis and identify targets for therapeutic intervention.
+  \ Seventy-eight cases were subjected to whole-exome (nâ\x80\x89=â\x80\x8918) and
+  targeted deep sequencing (nâ\x80\x89=â\x80\x8960).  While the most common mutation
+  was in TP53, the OTSCC genetic landscape differed from previously described cohorts
+  of patients with head and neck tumors: OTSCCs demonstrated frequent mutations in
+  DST and RNF213, while alterations in CDKN2A and NOTCH1 were significantly less frequent.
+  Despite a lack of previously reported NOTCH1 mutations, integrated analysis showed
+  enrichments of alterations affecting Notch signaling in OTSCC. Importantly, these
+  Notch pathway alterations were prognostic on multivariate analyses. A high proportion
+  of OTSCCs also presented with alterations in drug targetable and chromatin remodeling
+  genes. Patients harboring mutations in actionable pathways were more likely to succumb
+  from recurrent disease compared with those who did not, suggesting that the former
+  should be considered for treatment with targeted compounds in future trials.  Our
+  study defines the Asian OTSCC mutational landscape, highlighting the key role of
+  Notch signaling in oral tongue tumorigenesis. We also observed somatic mutations
+  in multiple therapeutically relevant genes, which may represent candidate drug targets
+  in this highly lethal tumor type."
+authors: Vettore AL, Ramnarayanan K, Poore G, Lim K, Ong CK, Huang KK, Leong HS, Chong
+  FT, Lim TK, Lim WK, Cutcutache I, Mcpherson JR, Suzuki Y, Zhang S, Skanthakumar
+  T, Wang W, Tan DS, Cho BC, Teh BT, Rozen S, Tan P and Iyer NG
+contact:
+  email: teh.bin.tean@singhealth.com.sg
+  name: Bin Tean Teh
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 18
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26395002
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: Asia
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: Genome Med 7(1), 2015
+label: 'Vettore AL et al. (2015): '
+notes: 60 additional cases were analyzed with targeted sequencing.
+pmid: 26395002
+title: Mutational landscapes of tongue carcinoma reveal recurrent mutations in genes
+  of therapeutic and prognostic relevance.
+year: 2015

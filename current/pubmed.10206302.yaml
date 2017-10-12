@@ -1,0 +1,45 @@
+---
+abstract: A series of 23 children with primitive neuroectodermal tumours PNET were
+  analysed with comparative genomic hybridization CGH . Multiple chromosomal imbalances
+  have been detected in 20 patients. The most frequently involved chromosome was chromosome
+  17, with a gain of 17q 11 cases and loss of 17p eight cases . Further recurrent
+  copy number changes were detected. Extra copies of chromosome 7 were present in
+  nine patients and gains of 1q were detected in six patients. A moderate genomic
+  amplification was detected in one patient, involving two sites on 3p and the whole
+  12p. Losses were more frequent, and especially involved the chromosomes 11 nine
+  cases , 10q eight cases , 8 six cases , X six patients and 3 five cases , and part
+  of chromosome 9 five cases . These recurrent chromosomal changes may highlight locations
+  of novel genes with an important role in the development and or progression of PNET.
+authors: Avet-Loiseau H, Venuat AM, Terrier-Lacombe MJ, Lellouch-Tubiana A, Zerah
+  M, and Vassal G.
+contact:
+  email: havetloiseau@chu-nantes.fr
+  name: H. Avet-Loiseau
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10206302
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.55
+    - 47.22
+    type: Point
+  info:
+    city: Nantes
+    continent: Europe
+    country: France
+    label: Nantes, France, Europe
+    precision: city
+journal: Br J Cancer, 79(11-12) 1999, 1843-47.
+label: 'Avet-Loiseau et al. (1999): Comparative genomic hybridization detects many
+  recurrent imbalances in central nervous ...'
+notes: ~
+pmid: 10206302
+title: Comparative genomic hybridization detects many recurrent imbalances in central
+  nervous system primitive neuroectodermal tumours in children.
+year: 1999

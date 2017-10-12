@@ -1,0 +1,36 @@
+---
+abstract: Radiotherapy is a known risk factor for sarcoma development. Postirradiation
+  sarcomas arise within the radiation field after a latency period of several years
+  and usually are highly malignant. Very little is yet known about their genetic changes.
+authors: Tarkkanen M, Wiklund TA, Virolainen MJ, Larramendy ML, Mandahl N, Mertens
+  F, Blomqvist CP, Tukiainen EJ, Miettinen MM, Elomaa AI and Knuutila YS.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11745275
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer 92, 7 (2001): 1992-98.'
+label: 'Tarkkanen et al. (2001): Comparative Genomic Hybridization of Postirradiation
+  Sarcomas.'
+notes: ~
+pmid: 11745275
+title: Comparative Genomic Hybridization of Postirradiation Sarcomas.
+year: 2001

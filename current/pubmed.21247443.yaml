@@ -1,0 +1,39 @@
+---
+abstract: Until recently, chromosomal translocations and fusion genes have been an
+  underappreciated class of mutations in solid tumors. Next-generation sequencing
+  technologies provide an opportunity for systematic characterization of cancer cell
+  transcriptomes, including the discovery of expressed fusion genes resulting from
+  underlying genomic rearrangements.
+authors: Edgren H, Murumagi A, Kangaspeska S, Nicorici D, Hongisto V, Kleivi K, Rye
+  IH, Nyberg S, Wolf M, Borresen-Dale AL and Kallioniemi O.
+contact:
+  email: olli.kallioniemi@helsinki.fi
+  name: Olli Kallioniemi
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21247443
+- geo:GSE23949
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genome Biol 12, 1 (2011): R6.'
+label: 'Edgren et al. (2011): Identification of Fusion Genes in Breast Cancer By Paired-End
+  RNA-Sequencing.'
+notes: ~
+pmid: 21247443
+title: Identification of Fusion Genes in Breast Cancer By Paired-End RNA-Sequencing.
+year: 2011

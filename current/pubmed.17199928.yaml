@@ -1,0 +1,35 @@
+---
+abstract: To investigate chromosomal gains and losses in association with human papillomavirus
+  status in the vulvar squamous cell carcinomas VSCC .
+authors: Ouyang L, Zhang SL and Wang X.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17199928
+geo_data:
+  geo_json:
+    coordinates:
+    - 123.43
+    - 41.79
+    type: Point
+  info:
+    city: Shenyang
+    continent: Asia
+    country: China
+    label: Shenyang, China, Asia
+    precision: city
+journal: 'Zhonghua Fu Chan Ke Za Zhi 41, 10 (2006): 701-05.'
+label: 'Ouyang et al. (2006): [Genetic Aberrations and Human Papillomavirus Status
+  in Vulvar Squamous Cell Carcinomas].'
+notes: ~
+pmid: 17199928
+title: '[Genetic Aberrations and Human Papillomavirus Status in Vulvar Squamous Cell
+  Carcinomas].'
+year: 2006

@@ -1,0 +1,48 @@
+---
+abstract: A number of genetic abnormalities have been detected in multiple myeloma
+  MM using cytogenetic techniques. The prominent abnormalities are deletions of 13q
+  and translocations affecting the IgH locus on 14q32. The recurrence of chromosomal
+  abnormalities in MM suggests a specific role for them concerning its pathogenesis.
+  We performed comparative genomic hybridization CGH on samples from 53 patients with
+  MM and 4 with monoclonal gammopathies of undetermined significance. In 31 cases
+  54 , normal ratio profiles were found, whereas 26 cases 46 had aberrant profiles.
+  The most common aberrations were gains of 9p n 14 , 11 n 9 , and 21q n 5 and loss
+  of 22 n 7 . In earlier reports on cytogenetics of lymphomas, gains of 9p are described
+  as characteristic of primary mediastinal B-cell lymphoma, but the consensus region
+  is smaller than in the present study 9p23pter vs 9p13pter . Therefore, we suggest
+  a stronger genetic affinity between MM and primary mediastinal B-cell lymphoma than
+  MM and other B-cell lymphomas. To support this suggestion, more molecular cytogenetic
+  techniques and expression analyses have to be performed.
+authors: Tchinda J, Volpert S, Kropff M, Berdel WE, Kienast J, Meinhardt F and Horst
+  J.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 57
+  samples_acgh: 0
+  samples_ccgh: 57
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15539380
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Am J Clin Pathol 122, 6 (2004): 875-82.'
+label: 'Tchinda et al. (2004): Frequent Gains of the Short Arm of Chromosome 9 in
+  Multiple Myeloma With Normal G-Banded ...'
+notes: ~
+pmid: 15539380
+title: Frequent Gains of the Short Arm of Chromosome 9 in Multiple Myeloma With Normal
+  G-Banded Karyotype Detected By Comparative Genomic Hybridization.
+year: 2004

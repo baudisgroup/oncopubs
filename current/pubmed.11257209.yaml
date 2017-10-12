@@ -1,0 +1,40 @@
+---
+abstract: Proto-oncogene MYC, mapped to chromosomal band 8q24 and the genes for hepatocyte
+  growth factor HGF at 7q21 and its receptor, MET, at chromosomal band 7q31, have
+  an important role in the biology and growth of normal and neoplastic liver. Comparative
+  genomic hybridization CGH and fluorescence in situ hybridization FISH studies have
+  reported frequent abnormalities of chromosomes 1 and 8 in hepatocellular carcinomas
+  HCCs of various clinical and pathological stages. Chromosome 7 involvement is reported
+  to be less frequent.
+authors: Rao UN, Gollin SM, Beaves S, Cieply K, Nalesnik M and Michalopoulos GK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11257209
+geo_data:
+  geo_json:
+    coordinates:
+    - -80
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: North America
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: 'Mol Diagn 6, 1 (2001): 27-37.'
+label: 'Rao et al. (2001): Comparative Genomic Hybridization of Hepatocellular Carcinoma:
+  Correlation With Fluorescence in Situ ...'
+notes: ~
+pmid: 11257209
+title: 'Comparative Genomic Hybridization of Hepatocellular Carcinoma: Correlation
+  With Fluorescence in Situ Hybridization in Paraffin-Embedded Tissue.'
+year: 2001

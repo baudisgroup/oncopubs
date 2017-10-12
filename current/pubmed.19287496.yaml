@@ -1,0 +1,39 @@
+---
+abstract: Cancer associated with smoking and drinking remains a serious health problem
+  worldwide. The survival of patients is very poor due to the lack of effective early
+  biomarkers. FOXM1 overexpression is linked to the majority of human cancers but
+  its mechanism remains unclear in head and neck squamous cell carcinoma HNSCC .
+authors: Gemenetzidis E, Bose A, Riaz AM, Chaplin T, Young BD, Ali M, Sugden D, Thurlow
+  JK, Cheong SC, Teo SH, Wan H, Waseem A, Parkinson EK, Fortune F and Teh MT.
+contact:
+  email: m.t.teh@qmul.ac.uk
+  name: Muy-Teck Teh
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19287496
+- geo:GSE11782
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'PLoS One 4, 3 (2009): e4849.'
+label: 'Gemenetzidis et al. (2009): Foxm1 Upregulation is an Early Event in Human
+  Squamous Cell Carcinoma and it is Enhanced By ...'
+notes: ~
+pmid: 19287496
+title: Foxm1 Upregulation is an Early Event in Human Squamous Cell Carcinoma and it
+  is Enhanced By Nicotine During Malignant Transformation.
+year: 2009

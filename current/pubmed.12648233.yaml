@@ -1,0 +1,52 @@
+---
+abstract: The hallmark of primary cutaneous CD30 large T cell lymphoma are large lymphoid
+  tumor cells, at least 75 of which, by definition, must be positive for CD30. The
+  relatively benign clinical course of this lymphoma type has been explained with
+  CD30-induced apoptosis, on the assumption that expression of CD30 defines the tumor
+  clone however, this hypothesis has not been tested on the molecular level to date.
+  In this study we analyzed CD30 cells in four patients with primary cutaneous CD30
+  large T cell lymphoma by single cell polymerase chain reaction of T cell receptor-gamma
+  genes followed by sequencing. Here, we demonstrate that most of the large CD30 atypical
+  cells possessed identical T cell receptor-gamma gene rearrangements, indicative
+  of clonal proliferation. Nevertheless, polyclonally rearranged T cells were present
+  in all CD30 samples studied. In addition, one patient showed a second clone in a
+  separate biopsy and three of four patients showed chromosomal imbalances as revealed
+  by comparative genomic hybridization. Taken together, our data suggest that the
+  CD30 population in primary cutaneous CD30 large T cell lymphoma indeed contains
+  the tumor clone, thus providing molecular support for a link between clinical course
+  and CD30-related signaling. Importantly, however, CD30 expression does not define
+  the tumor clone as bystander T cells, as well as occasional additional clones, are
+  also present in this population.
+authors: Gellrich S, Wilks A, Lukowsky A, Wernicke M, Muller A, Marcus Muche J, Fischer
+  T, Jasch KC, Audring H and Sterry W.
+contact:
+  email: sylke.gellrich@charite.de
+  name: Sylke Gellrich
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12648233
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'J Invest Dermatol 120, 4 (2003): 670-75.'
+label: 'Gellrich et al. (2003): T Cell Receptor-Gamma Gene Analysis of Cd30  Large
+  Atypical Individual Cells in Cd30  Large ...'
+notes: ~
+pmid: 12648233
+title: T Cell Receptor-Gamma Gene Analysis of Cd30  Large Atypical Individual Cells
+  in Cd30  Large Primary Cutaneous T Cell Lymphomas.
+year: 2003

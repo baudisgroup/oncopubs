@@ -1,0 +1,48 @@
+---
+abstract: Although genomic DNA microarray array comparative genomic hybridization
+  CGH technique is a rapid and powerful diagnostic tool for the comprehensive analysis
+  of detailed chromosomal alterations of DNA copy numbers, its accuracy has not been
+  well demonstrated. To clarify the accuracy of this technique, we applied array CGH
+  spotted with 283 specific genes to 11 clinical prostate cancers, and the results
+  were compared with comparative genomic hybridization conventional CGH and loss of
+  heterozygosity LOH analysis using microsatellite DNA markers. The overall rate of
+  correspondence between array CGH and conventional CGH with respect to the loss of
+  DNA sequences was 94.5 . When the results of both CGH techniques were compared with
+  those of LOH analysis, the correspondence rate of array CGH was significantly higher
+  than that of conventional CGH 93.4 vs. 72.2 , P amp lt 0.05 . In conclusion, the
+  accuracy of array CGH was higher than that of conventional CGH in detecting losses
+  of the DNA sequences. Array CGH is shown to be a promising tool for screening to
+  identify unknown genes involved in tumorigenesis in prostate cancer.
+authors: Yano S, Matsuyama H, Matsuda K, Matsumoto H, Yoshihiro S and Naito K.
+contact:
+  email: katsunai@po.cc.yamaguchi-u.ac.jp
+  name: Katsusuke Naito
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15066319
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 150, 2 (2004): 122-27.'
+label: 'Yano et al. (2004): Accuracy of an Array Comparative Genomic Hybridization
+  (Cgh) Technique in Detecting DNA Copy Number ...'
+notes: ~
+pmid: 15066319
+title: 'Accuracy of an Array Comparative Genomic Hybridization (Cgh) Technique in
+  Detecting DNA Copy Number Aberrations: Comparison With Conventional Cgh and Loss
+  of Heterozygosity Analysis in Prostate Cancer.'
+year: 2004

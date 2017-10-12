@@ -1,0 +1,48 @@
+---
+abstract: Conventional cytogenetic analyses and comparative genomic hybridization
+  have revealed a complex and even chaotic nature of chromosomal aberrations in pleural
+  malignant mesothelioma MM . We set out to describe the complex gene copy number
+  changes and screen for novel genetic aberrations using a high-density oligonucleotide
+  microarray platform for comparative genomic hybridization aCGH of a series of 26
+  well-characterized MM tumor samples. The number of copy number changes varied from
+  zero to 40 per sample. Gene copy number losses predominated over gains, and the
+  most frequent region of loss was 9p21.3 17 26 cases , the locus of CDKN2A and CDKN2B,
+  both known to be commonly lost in MM. The most recurrent minimal regions of losses
+  were 1p31.1-- amp gt p13.2, 3p22.1-- amp gt p14.2, 6q22.1, 9p21.3, 13cen-- amp gt
+  q14.12, 14q22.1-- amp gt qter, and 22qcen-- amp gt q12.3. Previously unreported
+  gains included 9p13.3, 7p22.3-- amp gt p22.2, 12q13.3, and 17q21.32-- amp gt qter.
+  The results suggest that gene copy number losses are a major mechanism of MM carcinogenesis
+  and reveal a recurrent pattern of copy number changes in MM.
+authors: Lindholm PM, Salmenkivi K, Vauhkonen H, Nicholson AG, Anttila S, Kinnula
+  VL and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 26
+  samples_acgh: 26
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18160781
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 119, 1-2 (2007): 46-52.'
+label: 'Lindholm et al. (2007): Gene Copy Number Analysis in Malignant Pleural Mesothelioma
+  Using Oligonucleotide Array ...'
+notes: ~
+pmid: 18160781
+title: Gene Copy Number Analysis in Malignant Pleural Mesothelioma Using Oligonucleotide
+  Array Cgh.
+year: 2007

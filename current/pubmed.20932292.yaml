@@ -1,0 +1,39 @@
+---
+abstract: Around 20 of breast cancers BC show ERBB2 gene amplification and overexpression
+  of the ERBB2 tyrosine kinase receptor. They are associated with a poor prognosis
+  but can benefit from targeted therapy. A better knowledge of these BCs, genomically
+  and biologically heterogeneous, may help understand their behavior and design new
+  therapeutic strategies.
+authors: Sircoulomb F, Bekhouche I, Finetti P, Adelaide J, Ben Hamida A, Bonansea
+  J, Raynaud S, Innocenti C, Charafe-Jauffret E, Tarpin C, Ben Ayed F, Viens P, Jacquemier
+  J, Bertucci F, Birnbaum D and Chaffanet M.
+contact:
+  email: chaffanetm@marseille.fnclcc.fr
+  name: Max Chaffanet
+counts:
+  biosamples: 54
+  samples_acgh: 54
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20932292
+- geo:GSE17907
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: Europe
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: 'BMC Cancer 10 (2010): 539.'
+label: 'Sircoulomb et al. (2010): Genome Profiling of Erbb2-Amplified Breast Cancers.'
+notes: ~
+pmid: 20932292
+title: Genome Profiling of Erbb2-Amplified Breast Cancers.
+year: 2010

@@ -1,0 +1,61 @@
+---
+abstract: Administration of doxorubicin has been shown to prolong survival of patients
+  with hepatocellular carcinoma HCC . However, treatment regimen is often complicated
+  by the emergence of drug resistance. The goal of our study is to enhance our understanding
+  on the genetic changes that confer cellular chemoresistance to doxorubicin. To model
+  this insensitive response, we established five doxorubicin-resistant DOR sublines
+  through repeated exposure of escalating doses of doxorubicin to HCC cell lines HKCI-2,
+  -3, -4, -C1 and -C2 . The DOR sublines developed displayed an average approximately
+  17-fold higher IC 50 value than their sensitive parental cell lines. The resistant
+  phenotype displayed was investigated by the genome-wide analyses of comparative
+  genomic hybridization CGH and complementary DNA microarray for the affected genomic
+  anomalies and deregulated genes expressed, respectively. Over-representations of
+  regional chr. 7q11-q21, 8q22-q23 and 10p13-pter were indicated in the DOR sublines
+  from CGH analysis. Of particular interest was the finding of amplicon augmentations
+  from regional or whole chromosome gains during the clonal expansion of resistant
+  sublines. Most notably, recurring amplicon 7q11.2-q21 identified coincided with
+  the location of the multi-drug-resistant gene, MDR1. The potential involvement of
+  MDR1 was examined by quantitative reverse transcription-polymerase chain reaction
+  RT-PCR qRT-PCR , which indicated an upregulation in all DOR sublines P 0.015 . Consistent
+  overexpression of the translated MDR1 gene, P-glycoprotein, in all five DOR sublines
+  was further confirmed in Western blot analysis. Two distinct cluster dendrograms
+  were achieved between the DOR sublines and their sensitive parental counterparts
+  in expression profiling. Within the doxorubicin-resistant group, distinct features
+  of candidate genes overexpressions including ABC transporting proteins, solute carriers
+  and TOP2A were suggested. Further assessment of TOP2A messenger RNA levels by qRT-PCR
+  confirmed array findings and pinpointed to a common up-regulation of TOP2A in DOR
+  sublines. Our present study highlighted areas of genomic imbalances and candidate
+  genes in the acquired doxorubicin-resistance behavior of HCC cells.
+authors: Pang E, Hu Y, Chan KY, Lai PB, Squire JA, Macgregor PF, Beheshti B, Albert
+  M, Leung TW and Wong N.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15765123
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Lab Invest 85, 5 (2005): 664-74.'
+label: 'Pang et al. (2005): Karyotypic Imbalances and Differential Gene Expressions
+  in the Acquired Doxorubicin Resistance of ...'
+notes: ~
+pmid: 15765123
+title: Karyotypic Imbalances and Differential Gene Expressions in the Acquired Doxorubicin
+  Resistance of Hepatocellular Carcinoma Cells.
+year: 2005

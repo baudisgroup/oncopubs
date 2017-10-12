@@ -1,0 +1,58 @@
+---
+abstract: "Selecting colorectal cancer (CRC) patients likely to respond to therapy
+  remains a clinical challenge. The objectives of this study were to establish which
+  genes were differentially expressed with respect to treatment sensitivity and relate
+  this to copy number in a panel of 15 CRC cell lines. Copy number variations of the
+  identified genes were assessed in a cohort of CRCs. IC50's were measured for 5-fluorouracil,
+  oxaliplatin, and BEZ-235, a PI3K/mTOR inhibitor. Cell lines were profiled using
+  array comparative genomic hybridisation, Illumina gene expression analysis, reverse
+  phase protein arrays, and targeted sequencing of KRAS hotspot mutations. Frequent
+  gains were observed at 2p, 3q, 5p, 7p, 7q, 8q, 12p, 13q, 14q, and 17q and losses
+  at 2q, 3p, 5q, 8p, 9p, 9q, 14q, 18q, and 20p. Frequently gained regions contained
+  EGFR, PIK3CA, MYC, SMO, TRIB1, FZD1, and BRCA2, while frequently lost regions contained
+  FHIT and MACROD2. TRIB1 was selected for further study. Gene enrichment analysis
+  showed that differentially expressed genes with respect to treatment response were
+  involved in Wnt signalling, EGF receptor signalling, apoptosis, cell cycle, and
+  angiogenesis. Stepwise integration of copy number and gene expression data yielded
+  47 candidate genes that were significantly correlated. PDCD6 was differentially
+  expressed in all three treatment responses. Tissue microarrays were constructed
+  for a cohort of 118 CRC patients and TRIB1 and MYC amplifications were measured
+  using fluorescence in situ hybridisation. TRIB1 and MYC were amplified in 14.5%
+  and 7.4% of the cohort, respectively, and these amplifications were significantly
+  correlated (pâ\x89¤0.0001). TRIB1 protein expression in the patient cohort was significantly
+  correlated with pERK, Akt, and Caspase 3 expression. In conclusion, a set of candidate
+  predictive biomarkers for 5-fluorouracil, oxaliplatin, and BEZ235 are described
+  that warrant further study. Amplification of the putative oncogene TRIB1 has been
+  described for the first time in a cohort of CRC patients."
+authors: Briffa R, Um I, Faratian D, Zhou Y, Turnbull AK, Langdon SP and Harrison
+  DJ
+contact:
+  email: simon.langdon@ed.ac.uk
+  name: Romina Briffa
+counts:
+  biosamples: 15
+  samples_acgh: 15
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26678268
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.2
+    - 55.95
+    type: Point
+  info:
+    city: Edinburgh
+    continent: Europe
+    country: United Kingdom
+    label: Edinburgh, United Kingdom, Europe
+    precision: city
+journal: PLoS ONE 10(12), 2015
+label: 'Briffa R et al. (2015): '
+notes: ~
+pmid: 26678268
+title: Multi-Scale Genomic, Transcriptomic and Proteomic Analysis of Colorectal Cancer
+  Cell Lines to Identify Novel Biomarkers.
+year: 2015

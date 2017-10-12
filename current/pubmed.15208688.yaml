@@ -1,0 +1,50 @@
+---
+abstract: About 50 of ductal breast carcinomas do not yield analysable karyotypes
+  after short-term culturing. Comparison of the cytogenetic subset to the whole data
+  set of tumors revealed that slightly hyperdiploid tumors, that is, with DNA index
+  between 1.05 and 1.3, were under-represented in tumors for which cytogenetic analysis
+  was successful. The purpose of this study was to determine whether the pattern of
+  chromosome imbalances in this subset differs from that generally reported. Comparative
+  genomic hybridization CGH was used on 43 primary ductal breast carcinomas selected
+  for slight hyperdiploidy. Microsatellite instability MSI , TP53 mutation and expression
+  were also investigated. All tumors were MSI negative. In all, 18 tumors 42 presented
+  mostly unbalanced chromosome rearrangements and DNA amplifications, with only few
+  or no whole chromosome gains WCG . This pattern of chromosome imbalances corresponds
+  to that described in most breast tumors by previous cytogenetic and CGH analyses.
+  It was associated with TP53 mutation in 17 of tumors. Another subset of 17 tumors
+  39 displayed different and new features, characterized by recurrent gains of whole
+  chromosomes 5, 7 and 8 with few chromosome rearrangements, rare DNA amplifications
+  and no TP53 mutation. Eight tumors with as many rearrangements as WCG were left
+  unclassified. We propose that, beside a major pathway characterized by multiple
+  chromosome rearrangements, there is a minor pathway mainly characterized by WCG.
+authors: Molist R, Remvikos Y, Dutrillaux B and Muleris M.
+contact:
+  email: martine.muleris@cephb.fr
+  name: Martine Muleris
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15208688
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Oncogene 23, 35 (2004): 5986-93.'
+label: 'Molist et al. (2004): Characterization of a New Cytogenetic Subtype of Ductal
+  Breast Carcinomas.'
+notes: ~
+pmid: 15208688
+title: Characterization of a New Cytogenetic Subtype of Ductal Breast Carcinomas.
+year: 2004

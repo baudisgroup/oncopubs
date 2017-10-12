@@ -1,0 +1,38 @@
+---
+abstract: Endometrial stromal sarcomas ESS are very rare neoplasms constituting less
+  than 0.5 of all malignant uterine tumors. The aim of the present study was to characterize
+  the karyotypic abnormalities in these malignant mesenchymal tumors and to find specific
+  chromosomal aberrations with eventual correlation with histologic grades.
+authors: Halbwedl I, Ullmann R, Kremser ML, Man YG, Isadi-Moud N, Lax S, Denk H, Popper
+  HH, Tavassoli FA and Moinfar F.
+contact:
+  email: ~
+  name: Farid Moinfar
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15863163
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: Europe
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: 'Gynecol Oncol 97, 2 (2005): 582-87.'
+label: 'Halbwedl et al. (2005): Chromosomal Alterations in Low-Grade Endometrial Stromal
+  Sarcoma and Undifferentiated ...'
+notes: ~
+pmid: 15863163
+title: Chromosomal Alterations in Low-Grade Endometrial Stromal Sarcoma and Undifferentiated
+  Endometrial Sarcoma as Detected By Comparative Genomic Hybridization.
+year: 2005

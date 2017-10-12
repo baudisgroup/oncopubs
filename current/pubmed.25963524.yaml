@@ -1,0 +1,52 @@
+---
+abstract: Unlike patients with World Health Organization (WHO) grade I meningiomas,
+  which are considered benign, patients with WHO grade III meningiomas have very high
+  mortality rates. The principles underlying tumor progression in meningioma are largely
+  unknown, yet a detailed understanding of these mechanisms will be required for effective
+  management of patients with these high grade lethal tumors. We present a case of
+  an intraventricular meningioma that at first presentation displayed remarkable morphologic
+  heterogeneity-composed of distinct regions independently fulfilling histopathologic
+  criteria for WHO grade I, II, and III designations. The lowest grade regions had
+  classic meningothelial features, while the highest grade regions were markedly dedifferentiated.
+  Whereas progression in meningiomas is generally observed during recurrence following
+  radiation and systemic medical therapies, the current case offers us a snapshot
+  of histologic progression and intratumoral heterogeneity in a native pretreatment
+  context. Using whole exome sequencing and high resolution array-based comparative
+  genomic hybridization, we observed marked genetic heterogeneity between the various
+  areas. Notably, in the higher grade regions we found increased aneuploidy with progressive
+  loss of heterozygosity, the emergence of mutations in the TERT promoter, and compromise
+  of ARID1A. These findings provide new insights into intratumoral heterogeneity in
+  the evolution of malignant phenotypes in anaplastic meningiomas and potential pathways
+  of malignant progression.  Copyright ï¿½ 2015 Elsevier Inc. All rights reserved.
+authors: Abedalthagafi MS, Bi WL, Merrill PH, Gibson WJ, Rose MF, Du Z, Francis JM,
+  Du R, Dunn IF, Ligon AH, Beroukhim R and Santagata S
+contact:
+  email: ssantagata@partners.org
+  name: Sandro Santagata II
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 3
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25963524
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.11
+    - 42.38
+    type: Point
+  info:
+    city: Cambridge
+    continent: North America
+    country: United States
+    label: Cambridge, United States, North America
+    precision: city
+journal: Cancer Genet, 2015
+label: 'Abedalthagafi et al. (): ARID1A and TERT promoter mutations in dedifferentiated
+  meningioma.'
+notes: ~
+pmid: 25963524
+title: ARID1A and TERT promoter mutations in dedifferentiated meningioma.
+year: 2015

@@ -1,0 +1,54 @@
+---
+abstract: Disease recurrence and metastasis are frequently observed in many successfullytreated
+  localized cancers, including hepatocellular carcinoma in which intrahepatic and
+  extrahepatic recurrence metastasis are frequently observed after curative resection.
+  The present study aimed at identifying metastasis-associated genes through delineation
+  of the clonality for multinodular liver cancer. The clonal relationship of 22 tumor
+  foci from six patients was investigated by the genome-wide expression profile via
+  cDNA microarray consisting of 23,000 genes. Tumor molecular properties including
+  p53 protein overexpression and gene mutation, hepatitis B virus integration pattern,
+  and genetic alteration examined by comparative genomic hybridization were compared.
+  Results indicated that gene expression patterns could serve as the molecular fingerprint
+  for clonality identification. Together with the molecular data from p53, hepatitis
+  B virus integration and comparative genomic hybridization profiles, tumor nodules
+  from five patients were confirmed with clonal relationship, and the expression profiles
+  of the primary nodules were compared with their corresponding intrahepatic metastatic
+  nodules. A total of 90 clones were found to be correlated with intrahepatic metastasis
+  by Students t test P amp lt 0.05 . With reference to the primary tumor, 63 clones
+  39 known genes and 24 express sequence tags were down-regulated whereas 27 clones
+  14 known genes and 13 express sequence tags were up-regulated in the metastatic
+  nodules. These metastasis-associated genes may provide clues to reveal patients
+  with increased risk of developing metastasis, and to identify novel therapeutic
+  targets for the treatment of metastasis.
+authors: Cheung ST, Chen X, Guan XY, Wong SY, Tai LS, Ng IO, So S and Fan ST.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12183430
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Cancer Res 62, 16 (2002): 4711-21.'
+label: 'Cheung et al. (2002): Identify Metastasis-Associated Genes in Hepatocellular
+  Carcinoma Through Clonality Delineation for ...'
+notes: ~
+pmid: 12183430
+title: Identify Metastasis-Associated Genes in Hepatocellular Carcinoma Through Clonality
+  Delineation for Multinodular Tumor.
+year: 2002

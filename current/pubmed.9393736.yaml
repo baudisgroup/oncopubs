@@ -1,0 +1,47 @@
+---
+abstract: In an attempt to define chromosomal alterations that are associated with
+  the metastatic phenotype, we investigated a total of 29 metastasizing pN and 19
+  non-metastasizing pN0 head and neck squamous cell carcinomas by comparative genomic
+  hybridization CGH . The analysis indicated that the pN0 tumors carried preferentially
+  overrepresentations of chromosomes 5p, 6p, and 7p and that the pN tumors were frequently
+  characterized by deletions on chromosomes 7q, 10q, 11p, 11q, 15q, and 20p and overrepresentations
+  of the chromosomes 19q and 20q. In particular, the use of difference histograms
+  and statistical analysis indicated that the deletions on chromosomes 10q25-q26 and
+  11p13-p14 were highly significant for metastasizing carcinomas. The findings on
+  chromosome 10q were supported by loss of heterozygosity analysis in the primary
+  tumors and eight synchronous lymph node metastases using four microsatellite polymorphisms.
+  The data suggest that distinct patterns of genetic lesions are responsible for the
+  metastatic phenotype of head and neck squamous cell carcinomas.
+authors: Bockmuhl U, Petersen S, Schmidt S, Wolf G, Jahnke V, Dietel M and Petersen
+  I.
+contact:
+  email: iver.petersen@charite.de
+  name: Iver Petersen
+counts:
+  biosamples: 48
+  samples_acgh: 0
+  samples_ccgh: 48
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9393736
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Cancer Res 57, 23 (1997): 5213-16.'
+label: 'Bockmuhl et al. (1997): Patterns of Chromosomal Alterations in Metastasizing
+  and Nonmetastasizing Primary Head and Neck ...'
+notes: ~
+pmid: 9393736
+title: Patterns of Chromosomal Alterations in Metastasizing and Nonmetastasizing Primary
+  Head and Neck Carcinomas.
+year: 1997

@@ -1,0 +1,41 @@
+---
+abstract: We have identified a novel 7.7ï¿½Mb del(8)(q23.2q24.11) in a patient progressing
+  to acute myeloid leukemia (AML) following a 12-year stable phase of chronic myelomonocytic
+  leukemia (CMML). A surprisingly high JAK2+ allelic burden of 92% at the time of
+  AML led us to delineate the molecular aberrations relevant for leukemogenesis. While
+  a frameshift mutation in the TET2 gene was stably present throughout the course
+  of disease the JAK2 mutation was acquired after initial diagnosis of CMML. At progression
+  aCGH revealed del(8q)(q23.2q24.11) encompassing various cancer relevant genes of
+  which RAD21 and CSMD3 are of particular interest.
+authors: Toft-Petersen M, Kjeldsen E, Nederby L, Grï¿½nbï¿½k K, Hokland P and Roug
+  AS
+contact:
+  email: roug@ki.au.dk
+  name: AS Roug
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25473623
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: Leuk Res Rep 3(2), 2014
+label: 'Toft-Petersen M et al. (2014): '
+notes: ~
+pmid: 25473623
+title: A novel del(8)(q23.2q24.11) contributing to disease progression in a case of
+  JAK2/TET2 double mutated chronic myelomonocytic leukemia.
+year: 2014

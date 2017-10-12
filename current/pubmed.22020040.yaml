@@ -1,0 +1,65 @@
+---
+abstract: 'This study was designed to evaluate 4 new cases of papillary glioneuronal
+  tumors PGNTs , 2 of which had atypical histologic features, provides extensive IHC
+  characterization, performed comparative genomic hybridization in 2 of our cases,
+  and reviews the recent literature. The study group comprised 3 women and 1 man,
+  with ages ranging from 12 to 75 years. Patients presented with seizures n 3 or muscle
+  spasm n 1 , and the tumors were located in the supratentorial region of the brain
+  3 in the frontal and 1 in the parietotemporal lobe . The 2 atypical tumors showed
+  a moderately high mitotic rate 4 and 7 10 HPF, each , vascular endothelial hyperplasia,
+  and necrosis. Tumor cells expressed both neuronal and glial markers, but the degree
+  of neuronal versus glial expression was varied. None of the tumors expressed p53,
+  EGFR wild type vIII, IDH1, or CD34 however, nestin, galectin-3, and S100 were positive
+  in the tumor cells. No EGFR gene amplification or 1p 19q deletion was found by fluorescence
+  in situ hybridization. Half of the cases revealed PTEN loss by immunohistochemistry,
+  and MGMT methylation was positive in 3 cases by MGMT methylation-specific polymerase
+  chain reaction. Ultrastructurally, either astrocytic or neuronal differentiation
+  was observed, but we could not identify any hybrid cells. An array-based comparative
+  genomic hybridization study revealed loss of 1q, 6p, 8p, 9p, 9q, and 16q and gain
+  of 2q, 3p, 5q, 6p, 7q, 10q, 16q, 19p, and 22q in 2 cases simultaneously. The first
+  patient, who underwent subtotal resection, died because of progression of the tumor
+  within 9 months after surgery however, 2 patients were symptom free and progression
+  free at 34 and 48 months after gross total resection the patient 2: plus radiotherapy,
+  the patient 3: no adjuvant chemo- or radiotherapy . The last patient developed seizures
+  after a long symptom-free period 40 mo with no evidence of tumor recurrence. Our
+  4 new cases, in conjunction with the literature review, reinforce that PGNTs are
+  tumors that usually occur in young adults mean age, 24 y they are most often cystic
+  with a mural nodule or are cystic solid, supratentorial, closely located with the
+  ventricle, molecularly genetically different from astrocytic or oligodendroglial
+  tumors, and indolent in behavior. Cases 2 of 4 in our study with atypical histologic
+  features or that occur in advanced age 75 y , and sporadic reports of histologically
+  or biologically aggressive PGNTs, serve to remind pathologists that the full spectrum
+  of PGNTs is as yet unknown.'
+authors: Myung JK, Byeon SJ, Kim B, Suh J, Kim SK, Park CK, Chung CK, Chang KH and
+  Park SH.
+contact:
+  email: shparknp@snu.ac.kr
+  name: Sung-Hye Park
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22020040
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Am J Surg Pathol 35, 12 (2011): 1794-805.'
+label: 'Myung et al. (2011): Papillary Glioneuronal Tumors: A Review of Clinicopathologic
+  and Molecular Genetic ...'
+notes: ~
+pmid: 22020040
+title: 'Papillary Glioneuronal Tumors: A Review of Clinicopathologic and Molecular
+  Genetic Studies.'
+year: 2011

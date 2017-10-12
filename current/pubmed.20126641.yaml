@@ -1,0 +1,51 @@
+---
+abstract: BACKGROUND:Colon cancer CRC development often includes chromosomal instability
+  CIN leading to amplifications and deletions of large DNA segments. Epidemiological,
+  clinical, and cytogenetic studies showed that there are considerable differences
+  between CRC tumors from African Americans AAs and Caucasian patients. In this study,
+  we determined genomic copy number aberrations in sporadic CRC tumors from AAs, in
+  order to investigate possible explanations for the observed disparities.METHODOLOGY
+  PRINCIPAL FINDINGS:We applied genome-wide array comparative genome hybridization
+  aCGH using a 105k chip to identify copy number aberrations in samples from 15 AAs.
+  In addition, we did a population comparative analysis with aCGH data in Caucasians
+  as well as with a widely publicized list of colon cancer genes CAN genes . There
+  was an average of 20 aberrations per patient with more amplifications than deletions.
+  Analysis of DNA copy number of frequently altered chromosomes revealed that deletions
+  occurred primarily in chromosomes 4, 8 and 18. Chromosomal duplications occurred
+  in more than 50 of cases on chromosomes 7, 8, 13, 20 and X. The CIN profile showed
+  some differences when compared to Caucasian alterations.CONCLUSIONS SIGNIFICANCE:Chromosome
+  X amplification in male patients and chromosomes 4, 8 and 18 deletions were prominent
+  aberrations in AAs. Some CAN genes were altered at high frequencies in AAs with
+  EXOC4, EPHB6, GNAS, MLL3 and TBX22 as the most frequently deleted genes and HAPLN1,
+  ADAM29, SMAD2 and SMAD4 as the most frequently amplified genes. The observed CIN
+  may play a distinctive role in CRC in AAs.
+authors: Ashktorab H, Sch  ffer AA, Daremipouran M, Smoot DT, Lee E and Brim H.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 15
+  samples_acgh: 15
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20126641
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: North America
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: 'PLoS ONE (2010) 5: e8879.'
+label: 'Ashktorab et al. (2010): Distinct genetic alterations in colorectal cancer.'
+notes: ~
+pmid: 20126641
+title: Distinct genetic alterations in colorectal cancer.
+year: 2010

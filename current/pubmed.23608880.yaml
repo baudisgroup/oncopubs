@@ -1,0 +1,44 @@
+---
+abstract: The technology of array comparative genomic hybridization array-CGH aCGH
+  enabled the identification of novel genomic aberrations in chronic lymphocytic leukemia
+  CLL including the monoallelic and biallelic deletions affecting 22q11 locus. In
+  contrast to previous publications, we hypothesized that the described 22q11 deletions
+  are a consequence of the rearrangement of immunoglobulin lambda light chain locus
+  IGL segments surrounding several protein-coding genes located in this region. Indeed,
+  using array-CGH and PCR analysis we show that all deletions n 7 affecting the 22q11
+  locus in our cohort n 40 are based on the physiological mechanism of IGL rearrangement.
+  This demonstrates that this loss of genetic material is likely not pathogenic and
+  in fact is merely a marker of IGL rearrangement.
+authors: Mraz M, Stano Kozubik K, Plevova K, Musilova K, Tichy B, Borsky M, Kuglik
+  P, Doubek M, Brychtova Y, Mayer J and Pospisilova S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23608880
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: Europe
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: Leuk Res (2013).
+label: 'Mraz et al. (2013): The origin of deletion 22q11 in chronic lymphocytic leukemia
+  is related to the rearrangement of ...'
+notes: The article lists a number of regions in the text.
+pmid: 23608880
+title: The origin of deletion 22q11 in chronic lymphocytic leukemia is related to
+  the rearrangement of immunoglobulin lambda light chain locus.
+year: 2013

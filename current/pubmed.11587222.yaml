@@ -1,0 +1,51 @@
+---
+abstract: T cell non-Hodgkins lymphomas are a heterogeneous group of lymphomas with
+  poor prognosis, and whose genetic alterations are not well understood. Comparative
+  genomic hybridization CGH is a technique that allows the identification of DNA imbalances
+  without cytogenetic studies. We have studied 37 samples from 29 T cell non-Hodgkins
+  lymphomas 25 peripheral and four lymphoblastic lymphomas by CGH in order to detect
+  DNA sequence copy number changes of putative importance in the biology and prognosis
+  of these neoplasms. We detected abnormal CGH profiles in 16 27 59 of samples at
+  diagnosis, a ratio that increased to 66 23 37 when we included the relapsed samples.
+  The most common recurrent changes were gains related to the X chromosome, either
+  the whole chromosome or partially the Xq26-27 bands 19 . Other recurrent changes
+  included gains of bands 9q34, gains of chromosomes 17, 19, and 20, and complete
+  or partial deletions of chromosome 13 10 . Cancer-related genes located at Xq26-28
+  region were analyzed by Southern blot and fluorescence in situ hybridization FISH
+  . Low level amplification of some of these genes was detected by this technique
+  confirming the results obtained by CGH in this region. The detection of abnormal
+  CGH profiles in these T cell lymphomas could have clinical implications. Patients
+  with abnormal CGH profiles showed significant associations with advanced stage of
+  disease, overexpression of P53, and higher proliferative index.
+authors: Renedo M, Martinez-Delgado B, Arranz E, Garcia M, Urioste M, Martinez-Ramirez
+  A, Rivas C, Cigudosa JC and Benitez I.
+contact:
+  email: jbenitez@cnio.es
+  name: Javier Benitez
+counts:
+  biosamples: 37
+  samples_acgh: 0
+  samples_ccgh: 37
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11587222
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Leukemia 15, 10 (2001): 1627-32.'
+label: 'Renedo et al. (2001): Chromosomal Changes Pattern and Gene Amplification in
+  T Cell Non-Hodgkins Lymphomas.'
+notes: ~
+pmid: 11587222
+title: Chromosomal Changes Pattern and Gene Amplification in T Cell Non-Hodgkins Lymphomas.
+year: 2001

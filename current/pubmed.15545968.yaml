@@ -1,0 +1,50 @@
+---
+abstract: Host genomic abnormalities may determine the natural history of cervical
+  squamous intraepithelial lesions SILs . We undertook comparative genomic hybridisation
+  analysis of epithelium carefully microdissected from 70 cervical SILs, the largest
+  series to date. In contrast to previous studies, we used frozen sections for optimal
+  DNA quality and examined whether patterns of DNA copy number imbalance CNI are characteristic
+  of SIL grade, human papillomavirus HPV status and postoperative recurrence. We identified
+  more CNIs in cervical SIL than previously described, with more CNIs per case in
+  high-grade squamous intraepithelial lesion HG-SIL than in low-grade squamous intraepithelial
+  lesion LG-SIL P 0.04 . While some CNIs were seen at similar frequencies in HG-SIL
+  and LG-SIL, others, including gain on 1q, 3q and 16q, were found frequently in HG-SIL
+  but not in LG-SIL. There were significantly more CNIs per case in HG-SILs showing
+  loss of the HPV16 E2 gene a repressor of viral oncogene transcription P 0.026 and
+  in HG-SILs that subsequently recurred P 0.04 . Our data are consistent with sequential
+  acquisition of CNIs in cervical SIL progression. Higher frequency of CNI in association
+  with E2 gene loss supports in vitro evidence that high-risk HPV integration is associated
+  with genomic instability. Further investigation of the clinical value of specific
+  host genomic abnormalities in cervical SIL is warranted.
+authors: Alazawi W, Pett M, Strauss S, Moseley R, Gray J, Stanley M and Coleman N.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 70
+  samples_acgh: 0
+  samples_ccgh: 70
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15545968
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Br J Cancer (2004) 91: 2063-2070.'
+label: 'Alazawi et al. (2004): Genomic imbalances in 70 snap-frozen cervical squamous
+  intraepithelial lesions: associations with ...'
+notes: Arm-specific CNAs could be extracted from a figure.
+pmid: 15545968
+title: 'Genomic imbalances in 70 snap-frozen cervical squamous intraepithelial lesions:
+  associations with lesion grade, state of the HPV16 E2 gene and clinical outcome.'
+year: 2004

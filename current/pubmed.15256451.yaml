@@ -1,0 +1,52 @@
+---
+abstract: Array comparative genomic hybridization, with a genome-wide resolution of
+  approximately 1 Mb, has been used to investigate copy number changes in 48 colorectal
+  cancer CRC cell lines and 37 primary CRCs. The samples were divided for analysis
+  according to the type of genomic instability that they exhibit, microsatellite instability
+  MSI or chromosomal instability CIN . Consistent copy number changes were identified,
+  including gain of chromosomes 20, 13, and 8q and smaller regions of amplification
+  such as chromosome 17q11.2-q12. Loss of chromosome 18q was a recurrent finding along
+  with deletion of discrete regions such as chromosome 4q34-q35. The overall pattern
+  of copy number change was strikingly similar between cell lines and primary cancers
+  with a few obvious exceptions such as loss of chromosome 6 and gain of chromosomes
+  15 and 12p in the former. A greater number of aberrations were detected in CIN than
+  MSI samples as well as differences in the type and extent of change reported. For
+  example, loss of chromosome 8p was a common event in CIN cell lines and cancers
+  but was often found to be gained in MSI cancers. In addition, the target of amplification
+  on chromosome 8q appeared to differ, with 8q24.21 amplified frequently in CIN samples
+  but 8q24.3 amplification a common finding in MSI samples. A number of genes of interest
+  are located within the frequently aberrated regions, which are likely to be of importance
+  in the development and progression of CRC.
+authors: Douglas EJ, Fiegler H, Rowan A, Halford S, Bicknell DC, Bodmer W, Tomlinson
+  IP and Carter NP.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 85
+  samples_acgh: 85
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15256451
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Cancer Res 64, 14 (2004): 4817-25.'
+label: 'Douglas et al. (2004): Array Comparative Genomic Hybridization Analysis of
+  Colorectal Cancer Cell Lines and Primary ...'
+notes: ~
+pmid: 15256451
+title: Array Comparative Genomic Hybridization Analysis of Colorectal Cancer Cell
+  Lines and Primary Carcinomas.
+year: 2004

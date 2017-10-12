@@ -1,0 +1,55 @@
+---
+abstract: 'Breast cancers in carriers of inactivating mutations of the BRCA1 gene
+  carry a specific DNA copy-number signature ("BRCA1-like"). This signature is shared
+  with cancers that inactivate BRCA1 through other mechanisms. Because BRCA1 is important
+  in repair of DNA double-strand breaks through error-free homologous recombination,
+  patients with a BRCA1-like tumor may benefit from high-dose alkylating (HD) chemotherapy,
+  which induces DNA double-strand breaks.We investigated a single institution cohort
+  of high-risk patients that received tandem HD chemotherapy schedule comprising ifosfamide,
+  epirubicin, and carboplatin or conventional chemotherapy. We classified copy-number
+  profiles to be BRCA1-like or non-BRCA1-like and analyzed clinical associations and
+  performed survival analysis with a treatment by biomarker interaction design.BRCA1-like
+  status associated with high-grade and triple-negative breast cancers. BRCA1-like
+  cases benefitted from the HD compared with a conventional regimen on disease-free
+  survival (DFS): [hazard ratio (HR), 0.05; 95% confidence interval (CI), 0.01-0.38;
+  P = 0.003]; distant DFS (DDFS): (HR, 0.06; 95% CI, 0.01-0.43; P = 0.01); and overall
+  survival (OS; HR, 0.15; 95% CI, 0.03-0.83; P = 0.03) after correction for prognostic
+  factors. No such benefit was observed in the non-BRCA1-like cases on DFS (HR, 0.74;
+  95% CI, 0.38-1.46; P = 0.39), DDFS (HR, 0.79; 95% CI, 0.41-1.52; P = 0.47), and
+  OS (HR, 0.93; 95% CI, 0.52-1.64; P = 0.79). The P values for interaction were 0.01
+  (DFS), 0.01 (DDFS), and 0.045 (OS).BRCA1-like tumors recurred significantly less
+  often after HD than conventional chemotherapy. BRCA1-like copy-number profile classification
+  may be a predictive marker for HD alkylating chemotherapy.'
+authors: Schouten PC, Marmï¿½ F, Aulmann S, Sinn HP, van Essen HF, Ylstra B, Hauptmann
+  M, Schneeweiss A, Linn SC.
+contact:
+  email: philip.schouten@gmail.com
+  name: Philip C Schouten
+counts:
+  biosamples: 117
+  samples_acgh: 117
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25480832
+- geo:GSE50407
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Clin. Cancer Res. 21(4), 2015
+label: ' (2015): '
+notes: ~
+pmid: 25480832
+title: Breast cancers with a BRCA1-like DNA copy number profile recur less often than
+  expected after high-dose alkylating chemotherapy.
+year: 2015

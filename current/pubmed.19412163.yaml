@@ -1,0 +1,58 @@
+---
+abstract: A20 is a negative regulator of the NF-kappaB pathway and was initially identified
+  as being rapidly induced after tumour-necrosis factor-alpha stimulation. It has
+  a pivotal role in regulation of the immune response and prevents excessive activation
+  of NF-kappaB in response to a variety of external stimuli recent genetic studies
+  have disclosed putative associations of polymorphic A20 also called TNFAIP3 alleles
+  with autoimmune disease risk. However, the involvement of A20 in the development
+  of human cancers is unknown. Here we show, using a genome-wide analysis of genetic
+  lesions in 238 B-cell lymphomas, that A20 is a common genetic target in B-lineage
+  lymphomas. A20 is frequently inactivated by somatic mutations and or deletions in
+  mucosa-associated tissue lymphoma 18 out of 87 21.8 and Hodgkins lymphoma of nodular
+  sclerosis histology 5 out of 15 33.3 , and, to a lesser extent, in other B-lineage
+  lymphomas. When re-expressed in a lymphoma-derived cell line with no functional
+  A20 alleles, wild-type A20, but not mutant A20, resulted in suppression of cell
+  growth and induction of apoptosis, accompanied by downregulation of NF-kappaB activation.
+  The A20-deficient cells stably generated tumours in immunodeficient mice, whereas
+  the tumorigenicity was effectively suppressed by re-expression of A20. In A20-deficient
+  cells, suppression of both cell growth and NF-kappaB activity due to re-expression
+  of A20 depended, at least partly, on cell-surface-receptor signalling, including
+  the tumour-necrosis factor receptor. Considering the physiological function of A20
+  in the negative modulation of NF-kappaB activation induced by multiple upstream
+  stimuli, our findings indicate that uncontrolled signalling of NF-kappaB caused
+  by loss of A20 function is involved in the pathogenesis of subsets of B-lineage
+  lymphomas.
+authors: Kato M, Sanada M, Kato I, Sato Y, Takita J, Takeuchi K, Niwa A, Chen Y, Nakazaki
+  K, Nomoto J, Asakura Y, Muto S, Tamura A, Iio M, Akatsuka Y, Hayashi Y, Mori H,
+  Igarashi T, Kurokawa M, Chiba S, Mori S, Ishikawa Y, Okamoto K, Tobinai K, Nakagama
+  H, Nakahata T, Yoshino T, Kobayashi Y and Ogawa S.
+contact:
+  email: sogawa-tky@umin.net
+  name: Seishi Ogawa
+counts:
+  biosamples: 241
+  samples_acgh: 241
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19412163
+- geo:GSE12906
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Nature 459, 7247 (2009): 712-16.'
+label: 'Kato et al. (2009): Frequent Inactivation of A20 in B-Cell Lymphomas.'
+notes: ~
+pmid: 19412163
+title: Frequent Inactivation of A20 in B-Cell Lymphomas.
+year: 2009

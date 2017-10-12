@@ -1,0 +1,57 @@
+---
+abstract: The majority of meningiomas are benign tumors associated with favorable
+  outcomes however, the less common aggressive variants with unfavorable outcomes
+  often recur and may be due to subpopulations of less-differentiated cells residing
+  within the tumor. These subpopulations of tumor cells have tumor-initiating properties
+  and may be isolated from heterogeneous tumors when sorted or cultured in defined
+  medium. We report the isolation and characterization of a population of tumor-initiating
+  cells derived from an atypical meningioma. We identify a tumor-initiating population
+  from an atypical meningioma, termed meningioma-initiating cells MICs . These MICs
+  self-renew, differentiate, and can recapitulate the histological characteristics
+  of the parental tumor when transplanted at 1000 cells into the flank regions of
+  athymic nude mice. Immunohistochemistry reveals stem-like protein expression patterns
+  similar to neural stem and progenitor cells NSPCs while genomic profiling verified
+  the isolation of cancer cells with defined meningioma chromosomal aberrations from
+  the bulk tumor. Microarray and pathway analysis identifies biochemical processes
+  and gene networks related to aberrant cell cycle progression, particularly the loss
+  of heterozygosity of tumor suppressor genes CDKN2A p16 INK4A , p14 ARF , and CDKN2B
+  p15 INK4B . Flow cytometric analysis revealed the expression of CD44 and activated
+  leukocyte adhesion molecule ALCAM CD166 these may prove to be markers able to identify
+  this cell type. The isolation and identification of a tumor-initiating cell population
+  capable of forming meningiomas demonstrates a useful model for understanding meningioma
+  development. This meningioma model may be used to study the cell hierarchy of meningioma
+  tumorogenesis and provide increased understanding of malignant progression.
+authors: Rath P, Miller DC, Litofsky NS, Anthony DC, Feng Q, Franklin C, Pei L, Free
+  A, Liu J, Ren M, Kirk MD and Shi H.
+contact:
+  email: ~
+  name: Huidong Shi
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21168406
+- geo:GSE22577
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.04
+    - 35.62
+    type: Point
+  info:
+    city: Columbia
+    continent: North America
+    country: United States
+    label: Columbia, United States, North America
+    precision: city
+journal: 'Exp Mol Pathol 90, 2 (2011): 179-88.'
+label: 'Rath et al. (2011): Isolation and Characterization of a Population of Stem-Like
+  Progenitor Cells From an Atypical ...'
+notes: ~
+pmid: 21168406
+title: Isolation and Characterization of a Population of Stem-Like Progenitor Cells
+  From an Atypical Meningioma.
+year: 2011

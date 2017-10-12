@@ -1,0 +1,50 @@
+---
+abstract: Comparative genomic hybridization CGH represents a new technique for global
+  analysis of a whole genome for net loss or gain of chromosome regions. It offers
+  several advantages over alternative techniques. It permits analysis of a whole genome
+  in a single hybridization reaction, it does not require the generation of metaphases
+  from tumor cells, and it only requires very small numbers of tumor cells. Most previous
+  studies have concentrated on the application of CGH to the analysis of chromosome
+  defects associated with solid tumors. In this paper we report the use of CGH to
+  study bone marrow samples from a patient with acute myeloid leukemia and complex
+  karyotypic abnormalities. The results obtained using CGH were compared with G-banding
+  analysis. Both G-banding and CGH detected a 5q deletion, a 7q deletion, additional
+  material derived from 8q, and an HSR on 11q. However, several apparently discrepant
+  results were also obtained. Paints for chromosomes 3, 5, 7, 8, 11, 12, 14, 17, 22,
+  and X were therefore used to resolve these differences. Our results demonstrate
+  that CGH detected chromosome abnormalities associated with acute myeloid leukemia
+  and that CGH provided information that was not obtained by G-banding analysis alone.
+  These data suggest that CGH may prove a useful adjunct to conventional cytogenetic
+  and molecular analysis of hematologic malignancies.
+authors: Nacheva E, Grace C, Holloway TL and Green AR.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7627945
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 82, 1 (1995): 9-16.'
+label: 'Nacheva et al. (1995): Comparative Genomic Hybridization in Acute Myeloid
+  Leukemia. A Comparison With G-Banding and ...'
+notes: ~
+pmid: 7627945
+title: Comparative Genomic Hybridization in Acute Myeloid Leukemia. A Comparison With
+  G-Banding and Chromosome Painting.
+year: 1995

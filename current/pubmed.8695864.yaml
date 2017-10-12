@@ -1,0 +1,50 @@
+---
+abstract: The classical follicular variant of follicle center lymphoma FCL-fo is associated
+  with the chromosomal translocation t 14 18 q32 q21 . However, the sole presence
+  of this translocation is not sufficient for malignant transformation, as demonstrated
+  by experiments in a transgenic mouse model. Most of the secondary changes, which
+  play a central role in tumor development and progression and which are presumed
+  to be of prognostic value, are gains and losses of chromosomal material. We analyzed
+  28 FCL-fo patients using comparative genomic hybridization CGH . The most frequent
+  imbalances were gains on chromosomes X, 7, 8, 12, and 18 as well as losses of material
+  on chromosome arm 6q. For chromosomes X, 8, 12, and 18, the CGH data allowed further
+  narrowing of the relevant subregions. In addition, novel high-level DNA amplifications
+  were identified in five instances mapping to chromosome bands 1p36, 6p21, 8q24 2
+  patients , and 12q13-14. Previously, such amplifications have been identified very
+  rarely in lymphomas. In the 2 patients with amplifications mapping to chromosomal
+  band 8q24, involvement of the MYC proto-oncogene in the amplification unit was demonstrated
+  by Southern blot analysis. These data provide further entry points for studies to
+  identify genes relevant for tumor progression in FCL-fo.
+authors: Bentz M, Werner CA, Dohner H, Joos S, Barth TF, Siebert R, Schroder M, Stilgenbauer
+  S, Fischer K, Moller P and Lichter P.
+contact:
+  email: martin.bentz@medizin.uni-ulm.de
+  name: Martin Bentz
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8695864
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Blood 88, 4 (1996): 1437-44.'
+label: 'Bentz et al. (1996): High Incidence of Chromosomal Imbalances and Gene Amplifications
+  in the Classical Follicular ...'
+notes: ~
+pmid: 8695864
+title: High Incidence of Chromosomal Imbalances and Gene Amplifications in the Classical
+  Follicular Variant of Follicle Center Lymphoma.
+year: 1996

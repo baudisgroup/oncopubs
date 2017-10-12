@@ -1,0 +1,34 @@
+---
+abstract: The specific aim of this study is to unravel a DNA copy number alterations,
+  and to search for novel genes that are associated with the development of Korean
+  gastric cancer.
+authors: Jun KH, Kim SY, Yoon JH, Song JH and Park WS.
+contact:
+  email: ~
+  name: Won Sang Park
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22792519
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'J Gastric Cancer 12, 2 (2012): 73-80.'
+label: 'Jun et al. (2012): Amplification of the Uqcrfs1 Gene in Gastric Cancers.'
+notes: ~
+pmid: 22792519
+title: Amplification of the Uqcrfs1 Gene in Gastric Cancers.
+year: 2012

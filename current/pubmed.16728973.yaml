@@ -1,0 +1,51 @@
+---
+abstract: Keratoacanthoma KA is a benign keratinocytic neoplasm that usually presents
+  as a solitary nodule on sun-exposed areas, develops within 6-8 weeks and spontaneously
+  regresses after 3-6 months. KAs share features such as infiltration and cytological
+  atypia with squamous cell carcinomas SCCs . Furthermore, there are reports of KAs
+  that have metastasized, invoking the question of whether or not KA is a variant
+  of SCC. To date no reported criteria are sensitive enough to discriminate reliably
+  between KA and SCC, and consequently there is a clinical need for discriminating
+  markers. We screened fresh frozen material from 132 KAs and 37 SCCs for gross chromosomal
+  aberrations by using comparative genomic hybridization CGH . Forty-nine KAs 37.1
+  and 31 SCCs 83.7 showed genomic aberrations, indicating a higher degree of chromosomal
+  instability in SCCs. Gains of chromosomal material from 1p, 14q, 16q, 20q, and losses
+  from 4p were seen significantly more frequently in SCCs compared with KAs P-values
+  0.0033, 0.0198, 0.0301, 0.0017, and 0.0070 , whereas loss from 9p was seen significantly
+  more frequently in KAs P-value 0.0434 . The patterns of recurrent aberrations were
+  also different in the two types of neoplasms, pointing to different genetic mechanisms
+  involved in their developments.
+authors: Clausen OP, Aass HC, Beigi M, Purdie KJ, Proby CM, Brown VL, Mattingsdal
+  M, Micci F, Kolvraa S, Bolund L and Deangelis PM.
+contact:
+  email: ole.petter.clausen@rikshospitalet.no
+  name: Ole Petter Clausen
+counts:
+  biosamples: 169
+  samples_acgh: 0
+  samples_ccgh: 169
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16728973
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'J Invest Dermatol 126, 10 (2006): 2308-15.'
+label: 'Clausen et al. (2006): Are Keratoacanthomas Variants of Squamous Cell Carcinomas  A
+  Comparison of Chromosomal ...'
+notes: The article incorporates data from Clausen et al., 2002, which therefore has
+  been removed.
+pmid: 16728973
+title: Are Keratoacanthomas Variants of Squamous Cell Carcinomas  A Comparison of
+  Chromosomal Aberrations By Comparative Genomic Hybridization.
+year: 2006

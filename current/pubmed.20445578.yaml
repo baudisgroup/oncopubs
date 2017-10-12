@@ -1,0 +1,53 @@
+---
+abstract: Relapse is the most common cause of treatment failure in pediatric acute
+  lymphoblastic leukemia ALL and is often difficult to predict. To explore the prognostic
+  impact of recurrent DNA copy number abnormalities on relapse, we performed high-resolution
+  genomic profiling of 34 paired diagnosis and relapse ALL samples. Recurrent lesions
+  detected at diagnosis, including PAX5, CDKN2A and EBF1, were frequently absent at
+  relapse, indicating that they represent secondary events that may be absent in the
+  relapse-prone therapy-resistant progenitor cell. In contrast, deletions and nonsense
+  mutations in IKZF1 IKAROS were highly enriched and consistently preserved at the
+  time of relapse. A targeted copy number screen in an unselected cohort of 131 precursor
+  B-ALL cases, enrolled in the dexamethasone-based Dutch Childhood Oncology Group
+  treatment protocol ALL9, revealed that IKZF1 deletions are significantly associated
+  with poor relapse-free and overall survival rates. Separate analysis of ALL9-treatment
+  subgroups revealed that non-high-risk NHR patients with IKZF1 deletions exhibited
+  a approximately 12-fold higher relative relapse rate than those without IKZF1 deletions.
+  Consequently, IKZF1 deletion status allowed the prospective identification of 53
+  of the relapse-prone NHR-classified patients within this subgroup and, therefore,
+  serves as one of the strongest predictors of relapse at the time of diagnosis with
+  high potential for future risk stratification.
+authors: Kuiper RP, Waanders E, van der Velden VH, van Reijmersdal SV, Venkatachalam
+  R, Scheijen B, Sonneveld E, van Dongen JJ, Veerman AJ, van Leeuwen FN, van Kessel
+  AG and Hoogerbrugge PM.
+contact:
+  email: ~
+  name: RP Kuiper
+counts:
+  biosamples: 34
+  samples_acgh: 34
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20445578
+- geo:GSE20353
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Leukemia 24, 7 (2010): 1258-64.'
+label: 'Kuiper et al. (2010): Ikzf1 Deletions Predict Relapse in Uniformly Treated
+  Pediatric Precursor B-All.'
+notes: ~
+pmid: 20445578
+title: Ikzf1 Deletions Predict Relapse in Uniformly Treated Pediatric Precursor B-All.
+year: 2010

@@ -1,0 +1,55 @@
+---
+abstract: The epidemiological relationship between squamous cell lung cancer SCC and
+  chronic obstructive pulmonary disease COPD , both smoking-related diseases, suggests
+  that they have also a genetic basis. We compared 35 SCC patients with and without
+  COPD with whole-genome gene expression profiles of laser microdissected tissue.
+  Validation of differential expression was performed for 25 genes using quantitative
+  q RT-PCR. Subsequently, we performed array-based CGH on the same tumor samples.
+  We found that 374 probes were differentially expressed in SCC from patients with
+  and without COPD. Forty-four probes were derived from genes with mitochondrial functions
+  and 34 probes were located on 5q. All these probes showed a lower expression level
+  in SCC from non-COPD patients. For a random selection of 25 mitochondrial and 5q
+  genes, we confirmed the differential expression by qRT-PCR. Loss of 3p, 5q and 9p
+  was observed, via array-CGH, to be more frequent in SCC from non-COPD patients as
+  compared to SCC from COPD patients. Combination of chromosomal aberrations and the
+  location of the differentially expressed genes showed significant association for
+  loss of the 5q31.2-31.3 region and reduced expression of the 5q genes. In conclusion,
+  a more frequent loss of 5q and a low expression of genes located on 5q in SCC tumors
+  of non-COPD patients compared to tumors from COPD patients was identified suggesting
+  that different oncogenetic pathways are operational in patients with and without
+  COPD.
+authors: Boelens MC, Gustafson AM, Postma DS, Kok K, van der Vries G, van der Vlies
+  P, Spira A, Lenburg ME, Geerlings M, Sietsma H, Timens W, van den Berg A and Groen
+  HJ.
+contact:
+  email: h.j.m.groen@long.umcg.nl
+  name: Harry Groen
+counts:
+  biosamples: 35
+  samples_acgh: 35
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20832896
+- geo:GSE12280
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ~
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city [needs verification]
+journal: 'Lung Cancer 72, 2 (2011): 177-83.'
+label: 'Boelens et al. (2011): A Chronic Obstructive Pulmonary Disease Related Signature
+  in Squamous Cell Lung ...'
+notes: ~
+pmid: 20832896
+title: A Chronic Obstructive Pulmonary Disease Related Signature in Squamous Cell
+  Lung Cancer.
+year: 2011

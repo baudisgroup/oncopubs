@@ -1,0 +1,51 @@
+---
+abstract: 'The genetic alterations that underlie the progression of follicular thyroid
+  carcinoma towards anaplasia are still largely uncharacterised. We compared the Comparative
+  Genomic Hybridization CGH profiles of 20 follicular FTCs , 12 poorly differentiated
+  PDTCs and seven anaplastic thyroid carcinomas ATCs , in order to identify the chromosomal
+  imbalances potentially associated with cancer progression. We found: i when considering
+  that a direct transformation of FTC towards anaplasia occurs, the defined significantly
+  important alterations were the increase of gains at 3q P amp lt 0.05 and 20q P amp
+  lt 0.01 , and the increase of losses at 7q P amp lt 0.05 and Xp P amp lt 0.01 ii
+  regarding poorly differentiated carcinomas as an intermediate independent entity
+  in the anaplastic transformation of follicular cancers, evidenced as important alterations
+  towards anaplasia, were the proportional decrease in copy sequences at 7p, 7q, 12q
+  and 13q resulting from the significant decrease of DNA gains at 7p and 12q P amp
+  lt 0.05 , and the significant increase of losses at 7q and 13q P amp lt 0.05 . These
+  results unveil the chromosomal regions where genes of interest in thyroid anaplastic
+  transformation are to be located, and demonstrate that different gene dosage copy
+  sequence imbalances are associated to the direct pathway of transformation of follicular
+  into anaplastic cancers and to the progressive FTC -- amp gt PDTC -- amp gt ATC
+  pathway.'
+authors: Rodrigues RF, Roque L, Rosa-Santos J, Cid O and Soares J.
+contact:
+  email: ~
+  name: L. Roque
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14735198
+geo_data:
+  geo_json:
+    coordinates:
+    - -9.13
+    - 38.72
+    type: Point
+  info:
+    city: Lisbon
+    continent: Europe
+    country: Portugal
+    label: Lisbon, Portugal, Europe
+    precision: city
+journal: 'Br J Cancer 90, 2 (2004): 492-96.'
+label: 'Rodrigues et al. (2004): Chromosomal Imbalances Associated With Anaplastic
+  Transformation of Follicular Thyroid ...'
+notes: ~
+pmid: 14735198
+title: Chromosomal Imbalances Associated With Anaplastic Transformation of Follicular
+  Thyroid Carcinomas.
+year: 2004

@@ -1,0 +1,43 @@
+---
+abstract: 'Genetic changes underlying the tumorigenesis of pituitary adenomas PA are
+  poorly characterized. To search for characteristic genomic imbalances involved in
+  PA, we examined 38 cases: 12 hormone-secreting HS and 26 non-functioning NF PA,
+  by comparative genomic hybridization. The most frequent DNA copy number change in
+  both kinds of tumors was loss of 13q. Gains of chromosomes 3, 7 and 14, 6p, and
+  20q were more frequent in HSPA than in NFPA. These data indicate that the 13q region
+  may harbor tumor suppressor genes determining the tumorigenesis of PA and gain in
+  chromosome 3 may be related to hormone secretion. These findings provide a basis
+  to search for candidate diagnostic markers of HSPA.'
+authors: Fan X, Paetau A, Aalto Y, Valimaki M, Sane T, Poranen A, Castresana JS and
+  Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11463446
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.64
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: Europe
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 128, 2 (2001): 97-103.'
+label: 'Fan et al. (2001): Gain of Chromosome 3 and Loss of 13q Are Frequent Alterations
+  in Pituitary Adenomas.'
+notes: ~
+pmid: 11463446
+title: Gain of Chromosome 3 and Loss of 13q Are Frequent Alterations in Pituitary
+  Adenomas.
+year: 2001

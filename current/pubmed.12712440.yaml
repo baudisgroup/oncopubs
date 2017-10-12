@@ -1,0 +1,60 @@
+---
+abstract: Using comparative genomic hybridisation, we investigated chromosomal imbalances
+  in 28 cases of thymic epithelial neoplasms including type A, B2, B3, the A component
+  of type AB and different subtypes of type C thymoma. To identify different patterns
+  of chromosomal aberrations associated with the biological behaviour and the histological
+  diversity of thymomas, a hierarchical cluster analysis of 65 cases was performed.
+  The here-reported Comparative Genomic Hybridisation CGH data 28 cases of partly
+  uninvestigated tumour subtypes were pooled with previously published data of chromosomal
+  imbalances of 37 thymomas Zettl et al. Am J Pathol 2000 157:257-66 . The analysis
+  of 278 chromosomal subbands yielded 2 main clusters. The first main cluster was
+  characterised by gains of the chromosomal arm 1q, consisted only of type C and B3
+  thymomas and was further subdivided into 2 subgroups. To the first subgroup only
+  thymomas were attributed, which, in addition to gains of the chromosomal arm 1q,
+  showed losses on 6q and 16q, whereas tumours belonging to the second subgroup exhibited
+  no further recurrent chromosomal alterations. The second main cluster was formed
+  by a heterogeneous group of thymoma types types A, AB, B2, B3 and C , showing no
+  specific pattern of chromosomal imbalances. In 19 thymomas, no chromosomal imbalances
+  could be detected 3 type B2 and 5 type A thymomas of our study as well as 11 type
+  A thymomas investigated by Zettl et al., Am J Pathol 2000 157:257-66 . Chromosomal
+  imbalances were more frequent in type C thymomas than in other subtypes. The distribution
+  of tumour stages according to Masaoka p 0.003 and the World Health Organisation
+  WHO classification p amp lt 0.0001 was significantly different in the clusters and
+  subgroups obtained. The groups reflect the staging system and the WHO classification
+  and show that type B3 and type C carcinomas have a strong relationship concerning
+  their chromosomal imbalances. Furthermore, chromosomal imbalances detected in some
+  type A thymomas might be responsible for the aggressive behaviour described in a
+  few cases of this thymoma subtype.
+authors: Penzel R, Hoegel J, Schmitz W, Blaeker H, Morresi-Hauf A, Aulmann S, Hecker
+  E, Mechtersheimer G, Otto HF and Rieker RJ.
+contact:
+  email: ralf_rieker@med.uni-heidelberg.de
+  name: Ralf J. Rieker
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12712440
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 105, 4 (2003): 494-98.'
+label: 'Penzel et al. (2003): Clusters of Chromosomal Imbalances in Thymic Epithelial
+  Tumours Are Associated With the Who ...'
+notes: ~
+pmid: 12712440
+title: Clusters of Chromosomal Imbalances in Thymic Epithelial Tumours Are Associated
+  With the Who Classification and the Staging System According to Masaoka.
+year: 2003

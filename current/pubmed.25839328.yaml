@@ -1,0 +1,59 @@
+---
+abstract: Esophageal squamous cell carcinoma (ESCC) is one of the most common cancers
+  worldwide and the fourth most lethal cancer in China. However, although genomic
+  studies have identified some mutations associated with ESCC, we know little of the
+  mutational processes responsible. To identify genome-wide mutational signatures,
+  we performed either whole-genome sequencing (WGS) or whole-exome sequencing (WES)
+  on 104 ESCC individuals and combined our data with those of 88 previously reported
+  samples. An APOBEC-mediated mutational signature in 47% of 192 tumors suggests that
+  APOBEC-catalyzed deamination provides a source of DNA damage in ESCC. Moreover,
+  PIK3CA hotspot mutations (c.1624G>A [p.Glu542Lys] and c.1633G>A [p.Glu545Lys]) were
+  enriched in APOBEC-signature tumors, and no smoking-associated signature was observed
+  in ESCC. In the samples analyzed by WGS, we identified focal (<100 kb) amplifications
+  of CBX4 and CBX8. In our combined cohort, we identified frequent inactivating mutations
+  in AJUBA, ZNF750, and PTCH1 and the chromatin-remodeling genes CREBBP and BAP1,
+  in addition to known mutations. Functional analyses suggest roles for several genes
+  (CBX4, CBX8, AJUBA, and ZNF750) in ESCC. Notably, high activity of hedgehog signaling
+  and the PI3K pathway in approximately 60% of 104 ESCC tumors indicatesï¿½that therapies
+  targeting these pathways might be particularly promising strategies for ESCC. Collectively,
+  our data provide comprehensive insights into the mutational signatures of ESCC and
+  identify markers for early diagnosis and potential therapeutic targets.  Copyright
+  ï¿½ 2015 The Authors. Published by Elsevier Inc. All rights reserved.
+authors: Zhang L, Zhou Y, Cheng C, Cui H, Cheng L, Kong P, Wang J, Li Y, Chen W, Song
+  B, Wang F, Jia Z, Li L, Li Y, Yang B, Liu J, Shi R, Bi Y, Zhang Y, Wang J, Zhao
+  Z, Hu X, Yang J, Li H, Gao Z, Chen G, Huang X, Yang X, Wan S, Chen C, Li B, Tan
+  Y, Chen L, He M, Xie S, Li X, Zhuang X, Wang M, Xia Z, Luo L, Ma J, Dong B, Zhao
+  J, Song Y, Ou Y, Li E, Xu L, Wang J, Xi Y, Li G, Xu E, Liang J, Yang X, Guo J, Chen
+  X, Zhang Y, Li Q, Liu L, Li Y, Zhang X, Yang H, Lin D, Cheng X, Guo Y, Wang J, Zhan
+  Q and Cui Y
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 90
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 90
+  samples_wgs: 14
+external_identifiers:
+- pubmed:25839328
+geo_data:
+  geo_json:
+    coordinates:
+    - 112.56
+    - 37.87
+    type: Point
+  info:
+    city: Taiyuan
+    continent: Asia
+    country: China
+    label: Taiyuan, China, Asia
+    precision: city
+journal: Am. J. Hum. Genet. 96(4), 2015
+label: 'Zhang et al. (): Genomic analyses reveal mutational signatures and frequently
+  altered genes in esophageal squamous cell ...'
+notes: ~
+pmid: 25839328
+title: Genomic analyses reveal mutational signatures and frequently altered genes
+  in esophageal squamous cell carcinoma.
+year: 2015

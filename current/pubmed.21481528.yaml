@@ -1,0 +1,49 @@
+---
+abstract: One of the most common characteristic profiles of cancer is intratumoral
+  heterogeneity ITH . We aimed to clarify the molecular profiles and biological significance
+  of ITH with relation to cancer stem cell CSC . We analyzed five primary cultured
+  clones generated from different spatial zones, front and rear zone, of a fresh-frozen
+  ovarian tumor tissue, performing ATP-CRA, conventional RT-PCR, side population SP
+  analysis, flow cytometry immunophenotyping, and cell proliferation assays. We also
+  carried out array CGH and Ingenuity Pathways Analysis IPA between SP and non-SP
+  NSP cells. Clones from tumor front zone showed phenotypically and genetically distinct
+  subpopulations with relatively higher SP proportions, CD24 and CD117 expression,
+  and chemotherapeutic resistance. We demonstrate that phenotype of SP cells in heterogeneous
+  clones of human ovarian cancer was closely related to CD24 , CD117 , and combined
+  CD117 CD24 fractions. Chromosomal alterations in SP cells relative to NSP cells
+  were closely related to the novel core networks of cancer stem cell-like cells CSCs
+  , such as cycle checkpoint regulation, notch, PTEN, wnt -catenin, PI3K AKT, integrin,
+  and cytokine and chemokine signaling. ITH could arise from clonal diversity closely
+  related to CSC-like molecules, as evidenced by accumulated genetic, transcriptional
+  and gene products alterations in SP.
+authors: Choi YP, Shim HS, Gao MQ, Kang S and Cho NH.
+contact:
+  email: ~
+  name: Nam Hoon Cho
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21481528
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Cancer Lett 307, 1 (2011): 62-71.'
+label: 'Choi et al. (2011): Molecular Portraits of Intratumoral Heterogeneity in Human
+  Ovarian Cancer.'
+notes: ~
+pmid: 21481528
+title: Molecular Portraits of Intratumoral Heterogeneity in Human Ovarian Cancer.
+year: 2011

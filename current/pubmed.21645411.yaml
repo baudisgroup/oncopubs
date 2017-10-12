@@ -1,0 +1,40 @@
+---
+abstract: Colorectal cancer CRC is a major health concern worldwide, and recently
+  becomes the most common cancer in Asia. The case collection of this study is one
+  of the largest sets of CRC in Asia, and serves as representative data for investigating
+  genomic differences between ethnic populations. We took comprehensive and high-resolution
+  approaches to compare the clinicopathologic and genomic profiles of microsatellite
+  instability MSI vs. microsatellite stability MSS in Taiwanese sporadic CRCs.
+authors: Lin CH, Lin JK, Chang SC, Chang YH, Chang HM, Liu JH, Li LH, Chen YT, Tsai
+  SF and Chen WS.
+contact:
+  email: ~
+  name: Wei-Shone Chen
+counts:
+  biosamples: 29
+  samples_acgh: 29
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21645411
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.88
+    - 24.7
+    type: Point
+  info:
+    city: Zhunan
+    continent: Asia
+    country: Taiwan
+    label: Zhunan, Taiwan, Asia
+    precision: city
+journal: 'J Biomed Sci 18 (2011): 36.'
+label: 'Lin et al. (2011): Molecular Profile and Copy Number Analysis of Sporadic
+  Colorectal Cancer in Taiwan.'
+notes: ~
+pmid: 21645411
+title: Molecular Profile and Copy Number Analysis of Sporadic Colorectal Cancer in
+  Taiwan.
+year: 2011

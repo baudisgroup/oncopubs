@@ -1,0 +1,40 @@
+---
+abstract: Posttransplantation lymphoproliferative disorders PTLDs are a spectrum of
+  lymphoid proliferations, occurring in immunosuppressed organ transplant recipients.
+  They comprise early lesions, polymorphic P-PTLD , monomorphic M-PTLD , and Hodgkin
+  Hodgkin-like lymphoma PTLD HL-PTLD lesions. Most of them are associated with Epstein-Barr
+  virus EBV . Little is known about their genetic changes.
+authors: Poirel HA, Bernheim A, Schneider A, Meddeb M, Choquet S, Leblond V, Charlotte
+  F, Davi F, Canioni D, Macintyre E, Mamzer-Bruneel MF, Hirsch I, Hermine O, Martin
+  A, Cornillet-Lefebvre P, Patey M, Toupance O, Kemeny JL, Deteix P and Raphael M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16041261
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.35
+    - 50.85
+    type: Point
+  info:
+    city: Brussels
+    continent: Europe
+    country: Belgium
+    label: Brussels, Belgium, Europe
+    precision: city
+journal: 'Transplantation 80, 2 (2005): 176-84.'
+label: 'Poirel et al. (2005): Characteristic Pattern of Chromosomal Imbalances in
+  Posttransplantation Lymphoproliferative ...'
+notes: ~
+pmid: 16041261
+title: 'Characteristic Pattern of Chromosomal Imbalances in Posttransplantation Lymphoproliferative
+  Disorders: Correlation With Histopathological Subcategories and Ebv Status.'
+year: 2005

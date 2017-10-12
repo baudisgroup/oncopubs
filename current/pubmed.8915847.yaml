@@ -1,0 +1,42 @@
+---
+abstract: We analyzed three Merkel cell carcinomas MCC , applying comparative genomic
+  hybridization CGH with DNA from paraffin-embedded and cultured tumor material as
+  the probes. By this method, numerous changes in chromosome copy numbers were observed
+  in each tumor investigated. Recurrent gains of chromosomes 1, 6, 18q and 20 were
+  detected in two tumors. A third tumor showed complex chromosomal copy number changes,
+  including gain of chromosome 8 and 9. These gains, as well as gain of chromosome
+  1 in the first two tumors, were confirmed by fluorescence in situ hybridization
+  to paraffin tissue sections. Our results support the view that important genes for
+  MCC development may be located on chromosomes 1, 6, 18q and 20.
+authors: Harle M, Arens N, Moll I, Back W, Schulz T and Scherthan H.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8915847
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: Europe
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: 'J Cutan Pathol 23, 5 (1996): 391-97.'
+label: 'Harle et al. (1996): Comparative Genomic Hybridization (Cgh) Discloses Chromosomal
+  and Subchromosomal Copy Number ...'
+notes: ~
+pmid: 8915847
+title: Comparative Genomic Hybridization (Cgh) Discloses Chromosomal and Subchromosomal
+  Copy Number Changes in Merkel Cell Carcinomas.
+year: 1996

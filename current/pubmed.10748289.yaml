@@ -1,0 +1,54 @@
+---
+abstract: 'Sequential changes of chromosomal copy number were analyzed retrospectively
+  in five diffuse-type gastric cancer cell lines by comparative genomic hybridization
+  CGH , DNA cytometry, and fluorescence in situ hybridization FISH with centromeric
+  and painting probes. By CGH, we found loss of 18q21 in all of the cell lines and
+  gains of 7p11-q31, 20q, and 22 in four of the five cell lines. Actual copy numbers
+  of chromosomes 7 and 18 were determined by FISH: disomy 18 with partial loss of
+  18q in the two DNA-diploid cell lines AGS and MKN-45 , trisomy 7 in MKN-45, disomy
+  18 and tetrasomy 7 with one-copy loss of 7p and one-copy gain of 7q tip in DNA-triploid
+  HSC-39 40A, and trisomy 18 and hexasomy 7 with one-copy loss of 7q in DNA-tetraploid
+  KATO-III. Because the DNA aneuploidy is thought to result through tetraploidization,
+  and the duplicated chromosomal changes in DNA aneuploid tumors seem to precede tetraploidization,
+  the duplicated gain of chromosome 7 and one-copy loss of 7q in KATO-III were inferred
+  to have occurred before and after tetraploidization, respectively. Similarly, HSC-39
+  40A were inferred to be preceded by the DNA-diploid stage with disomy 7 and monosomy
+  18. As the loss of 18q21 and the gain of 7p11-q31 were inferred to have occurred
+  already in the DNA diploid stage in at least four and two of the cell lines, respectively,
+  the 18q21 loss may be more important than the 7q gain as an earlier event in the
+  genesis of diffuse-type stomach cancer. The combined CGH, FISH, and ploidy analyses
+  thus give us a clue to extract important earlier events from the chromosomal changes
+  that were screened by CGH alone.'
+authors: Okada K, Sugihara H, Bamba M, Bamba T and Hattori T.
+contact:
+  email: ~
+  name: K. Okada
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10748289
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: Asia
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 118, 2 (2000): 99-107.'
+label: 'Okada et al. (2000): Sequential Numerical Changes of Chromosomes 7 and 18
+  in Diffuse-Type Stomach Cancer Cell Lines: ...'
+notes: ~
+pmid: 10748289
+title: 'Sequential Numerical Changes of Chromosomes 7 and 18 in Diffuse-Type Stomach
+  Cancer Cell Lines: Combined Comparative Genomic Hybridization, Fluorescence in Situ
+  Hybridization, and Ploidy Analyses.'
+year: 2000

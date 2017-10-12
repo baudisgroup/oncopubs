@@ -1,0 +1,42 @@
+---
+abstract: Metaplastic thymoma is a rare primary thymic epithelial tumor, and its biologic
+  behavior is uncertain. We report 7 cases of metaplastic thymoma. The spindle components
+  of the tumor seemed to be undergoing epithelial-mesenchymal transition, which is
+  characterized by the loss of E-cadherin expression. Epstein-Barr virus seemed not
+  to have an etiologic role in metaplastic thymoma. No gross genetic alterations were
+  found by using comparative genomic hybridization. The patients were alive and well
+  in follow-up ranging from 11 to 172 months mean, 81.7 months . The findings suggest
+  that metaplastic thymoma has a benign clinical course. Unless the histomorphologic
+  findings show malignant features, surgical excision alone is recommended.
+authors: Liu B, Rao Q, Zhu Y, Yu B, Zhu HY and Zhou XJ.
+contact:
+  email: XZhou@tmhs.org
+  name: Xiao-jun Zhou
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22261452
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.78
+    - 32.06
+    type: Point
+  info:
+    city: Nanjing
+    continent: Asia
+    country: China
+    label: Nanjing, China, Asia
+    precision: city
+journal: 'Am J Clin Pathol 137, 2 (2012): 261-69.'
+label: 'Liu et al. (2012): Metaplastic Thymoma of the Mediastinum. A Clinicopathologic,
+  Immunohistochemical, and Genetic ...'
+notes: ~
+pmid: 22261452
+title: Metaplastic Thymoma of the Mediastinum. A Clinicopathologic, Immunohistochemical,
+  and Genetic Analysis.
+year: 2012

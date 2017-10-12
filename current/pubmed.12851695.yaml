@@ -1,0 +1,59 @@
+---
+abstract: Eight cell lines newly established from glioblastoma multiforme were examined
+  by comparative genomic hybridization for their patterns of genomic imbalance. The
+  total number of DNA copy number alterations CNAs found in the eight cell lines varied
+  between 15 and 24. This characterized the examined cell lines or the tumors they
+  were derived from as distinctly progressed in karyotypic evolution. The most frequent
+  CNAs were gains of the entire chromosome 6 or, at least, parts of it, and of 7p22,
+  which were found in all eight cell lines. Other changes present in seven of the
+  eight cell lines were gains of 3q26qter and the entire chromosome 7 and losses of
+  segments on chromosome 4q e.g., 4q34q35 and of the short arm of chromosome 10. Enh
+  3q21q25 , dim 4q22q33 and dim 4qter , dim 13q22 , enh 15q14 , and enh 18q22q23 were
+  found in six of the eight cell lines. Several other CNAs e.g., dim 9p21 were found
+  in common in five or less of the eight lines. Using a hierarchical cluster analysis,
+  the specific patterns of genomic imbalance allowed various groupings of the examined
+  cell lines. Although a close relation could be confirmed among all examined lines
+  on the basis of shared CNAs, two main groups could be roughly differentiated. Among
+  those there were also more or less closely related subgroups. However, also alterations
+  which were restricted to one single cell line each were found, e.g., dim 1q41qter
+  , dim 2q22qter , enh 4p , dim 5p , dim 4p13pter , dim 8q21qter , enh 9p , dim 9q
+  , dim 11p14pter , enh 12q15q23 , enh 13q21 , dim 14q21qter , dim 15q21qter , dim
+  19q , and enh 22q . The comparison of the obtained data on gains and losses of DNA
+  copy numbers in specific chromosomal segments with the data on localization of genes
+  possibly associated with the biology of glioblastoma multiforme additionally shows
+  high conformity but also disparity of the examined cell lines among each other,
+  as well as compared to primary glioblastoma multiforme. Eventually, each of the
+  cell lines could be characterized by its specific pattern of genomic imbalance.
+authors: Ramirez T, Thoma K, Taja-Chayeb L, Efferth T, Herrera LA, Halatsch ME and
+  Gebhart E.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12851695
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: Europe
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: 'Int J Oncol 23, 2 (2003): 453-60.'
+label: 'Ramirez et al. (2003): Specific Patterns of DNA Copy Number Gains and Losses
+  in Eight New Glioblastoma Multiforme Cell ...'
+notes: ~
+pmid: 12851695
+title: Specific Patterns of DNA Copy Number Gains and Losses in Eight New Glioblastoma
+  Multiforme Cell Lines.
+year: 2003

@@ -1,0 +1,38 @@
+---
+abstract: The relationship between DNA sequence copy number aberrations DSCNAs and
+  DNA ploidy in head and neck squamous cell carcinomas HNSCCs is still controversial.
+  Materials and Methods We analyzed DSCNAs by comparative genomic hybridization CGH
+  combined with microdissection and DNA ploidy by laser scanning cytometry LSC in
+  18 surgically removed HNSCCs and compared the data.
+authors: Hashimoto Y, Oga A, Okami K, Imate Y, Yamashita Y and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10805936
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Cytometry 40, 2 (2000): 161-66.'
+label: 'Hashimoto et al. (2000): Relationship Between Cytogenetic Aberrations By Cgh
+  Coupled With Tissue Microdissection and DNA ...'
+notes: ~
+pmid: 10805936
+title: Relationship Between Cytogenetic Aberrations By Cgh Coupled With Tissue Microdissection
+  and DNA Ploidy By Laser Scanning Cytometry in Head and Neck Squamous Cell Carcinoma.
+year: 2000

@@ -1,0 +1,57 @@
+---
+abstract: 'It was recently shown by flow and static cytometry that a large sub-group
+  of follicular adenomas of the thyroid--fetal embryonal adenomas--display an aneuploid
+  phenotype. It was also shown that thyroid lesions with a DNA content within the
+  triploid range were either fetal adenomas or follicular carcinomas with a fetal
+  adenoma growth pattern. Follicular tumours with growth patterns other than the so-called
+  fetal adenoma-like pattern were usually diploid or near-diploid. In an attempt to
+  clarify the pattern of chromosomal imbalances in follicular tumours, comparative
+  genomic hybridization CGH analysis was performed in a series of 18 follicular neoplasms
+  ten fetal embryonal and four common follicular adenomas and four minimally invasive
+  follicular carcinomas . For each tumour, the DNA content was determined by flow
+  cytometry and, in some cases, also by static cytometry. Finally, the copy number
+  of selected chromosomes was determined by interphase fluorescence in situ hybridization
+  FISH using centromere probes. With the exception of the single diploid fetal adenoma,
+  all fetal adenomas displayed several DNA copy number changes, with frequent gains
+  of several chromosomes, which were found to be either tetrasomic or trisomic by
+  FISH. This genetic pattern was also present in the single case of follicular carcinoma
+  with aneuploidy and fetal adenoma-like growth pattern. Follicular adenomas other
+  than fetal adenomas, and the remaining follicular carcinomas, showed more losses
+  than gains of chromosomes. These results suggest that follicular tumourigenesis
+  may follow at least two pathways: one characterized by prominent aneuploidy and
+  numerous gains, in which the tumours display a fetal adenoma-like growth pattern
+  and another accompanied by less obvious aneuploidy or even quasi-diploidy and dominant
+  chromosome losses, in which the tumours display a common follicular architecture.'
+authors: Castro P, Eknaes M, Teixeira MR, Danielsen HE, Soares P, Lothe RA and Sobrinho-Simoes
+  M.
+contact:
+  email: sobrinho.simoes@ipatimup.pt
+  name: Manuel Sobrinho-Simoes
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15852498
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: Europe
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: 'J Pathol 206, 3 (2005): 305-11.'
+label: 'Castro et al. (2005): Adenomas and Follicular Carcinomas of the Thyroid Display
+  Two Major Patterns of Chromosomal ...'
+notes: ~
+pmid: 15852498
+title: Adenomas and Follicular Carcinomas of the Thyroid Display Two Major Patterns
+  of Chromosomal Changes.
+year: 2005

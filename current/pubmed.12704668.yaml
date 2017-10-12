@@ -1,0 +1,54 @@
+---
+abstract: 'Using comparative genomic hybridization CGH , we present a genome-wide
+  screening of a mixed mesenchymal-epithelial hepatoblastoma, its recurrence and 2
+  novel hepatoblastoma cell lines raised from the ascites, 18 HepU1 and 23 HepU2 months
+  after diagnosis of a hepatoblastoma in a 35-month-old boy. Both cell lines were
+  also characterized by GTG-banding, multicolor-fluorescence in situ hybridization
+  M-FISH and multicolor banding M-Band . On the basis of CGH, we compared the cytogenetics
+  of histologically different tumor areas of the parental tumor and its recurrence
+  with the hepatoblastoma cell lines. We found different CGH profiles in the parental
+  tumor rev ish enh 1q31-q32,8p,12,17,20,X , dim 4q34-q35,18q23 cp and its recurrence
+  rev ish enh 8q24,17,Xq26-q28 , dim 7q11.2-q21,13q34 cp . Although both epithelial
+  cell lines were obtained at different times and the clonal ancestor of HepU2 had
+  been exposed to a higher cumulative dose of chemotherapy, HepU1 and HepU2 have an
+  identical karyotype: 48-56,XY, Y,dup 2 q32-q34 ,t 3 4 q21 q34 , 8, 12, 13, 17, t
+  18 19 q21 q , 20 cp and identical CGH profiles: rev ish enh 2q24-q33,8,12,13q,17,20
+  , dim 4q34-q35,18q22-q23 . In common with previously described hepatoblastoma cell
+  lines, HepU1 and HepU2 demonstrate a gain of chromosome 20. The in situ aberrations
+  most closely resembling that of HepU1 and HepU2 were found in areas of fetal-embryonal
+  differentiation of the primary tumor. Interestingly, both cell lines mimic this
+  histology in their three-dimensional growth pattern in vitro. HepU1 and HepU2 are
+  thus cytogenetically and phenotypically highly characteristic of fetal-embryonal
+  hepatoblastoma.'
+authors: Scheil S, Hagen S, Bruderlein S, Leuschner I, Behnisch W and Moller P.
+contact:
+  email: stefanie.scheil@medizin.uni-ulm.de
+  name: Stefanie Scheil
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12704668
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 105, 3 (2003): 347-52.'
+label: 'Scheil et al. (2003): Two Novel in Vitro Human Hepatoblastoma Models, Hepu1
+  and Hepu2, Are Highly Characteristic of ...'
+notes: ~
+pmid: 12704668
+title: Two Novel in Vitro Human Hepatoblastoma Models, Hepu1 and Hepu2, Are Highly
+  Characteristic of Fetal-Embryonal Differentiation in Hepatoblastoma.
+year: 2003

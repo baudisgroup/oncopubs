@@ -1,0 +1,51 @@
+---
+abstract: 'Copy number alterations have been shown to be involved in melanoma pathogenesis.
+  The randomized phase III clinical trial E2603: carboplatin, paclitaxel, ï¿½ sorafenib
+  (CP vs. CPS) offers a large collection of tumor samples to evaluate association
+  of somatic mutations, genomic alterations, and clinical outcomes, prior to current
+  FDA-approved therapies.Copy number and mutational analysis on 119 pretreatment samples
+  was performed.CPS therapy was associated with improved progression-free survival
+  (PFS) compared with CP in patients with tumors with RAF1 (cRAF) gene copy gains
+  (HR, 0.372; P = 0.025) or CCND1 gene copy gains (HR, 0.45; P = 0.035). CPS therapy
+  was associated with improved overall survival (OS) compared with CP in patients
+  with tumors with KRAS gene copy gains (HR, 0.25; P = 0.035). BRAF gene copy gain
+  and MET amplification were more common in samples with V600K versus V600E mutations
+  (P < 0.001), which was validated in The Cancer Genome Atlas (TCGA) dataset.We observed
+  improved treatment response with CPS in patients with melanoma whose tumors have
+  RAF1 (cRAF), KRAS, or CCND1 amplification, all of which can be attributed to sorafenib
+  targeting CRAF. These genomic alterations should be incorporated in future studies
+  for evaluation as biomarkers.'
+authors: Wilson MA, Zhao F, Khare S, Roszik J, Woodman SE, D'Andrea K, Wubbenhorst
+  B, Rimm DL, Kirkwood JM, Kluger HM, Schuchter LM, Lee SJ, Flaherty KT, Nathanson
+  KL.
+contact:
+  email: knathans@exchange.upenn.edu
+  name: Katherine Nathanson
+counts:
+  biosamples: 121
+  samples_acgh: 121
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26307133
+- geo:GSE73899
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 22(2), 2016
+label: ' (2016): '
+notes: ~
+pmid: 26307133
+title: Copy Number Changes Are Associated with Response to Treatment with Carboplatin,
+  Paclitaxel, and Sorafenib in Melanoma.
+year: 2016

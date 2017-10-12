@@ -1,0 +1,49 @@
+---
+abstract: 'Twenty-six gastric carcinoma and matching normal tissue DNAs, which had
+  previously been analyzed for alterations of the APC adenomatous polyposis coli and
+  MCC mutated in colorectal cancer genes were further investigated for the following
+  genetic alterations: mutation and loss of heterozygosity LOH of the p53 gene, replication
+  error RER and LOH at 12 microsatellite repeat loci, and mutation of the hMSH2 gene.
+  In addition, 9 of the 26 gastric carcinomas were analyzed for genetic alterations
+  using comparative genomic hybridization CGH . Somatic mutations of the p53 gene
+  were found to be frequent being detected in 31 of gastric carcinomas while LOH at
+  the p53 locus was observed in 37.5 of informative cases. Loss of wild type p53 allele
+  was detected in the majority 7 of 8 tumors found to be harboring a mutation. In
+  the hMSH2 gene, an intronic 4 base pair insertion at 31 base pairs upstream of the
+  beginning of exon 13 was detected in both tumor and normal tissue from one gastric
+  carcinoma case. RER was detected in 11.5 of gastric carcinomas, at one or more microsatellite
+  repeat loci. Of the 12 microsatellite repeat loci analyzed LOH was most frequently
+  observed at D22S351 30 informative cases suggesting that a tumor suppressor gene
+  on 22q may be important in gastric carcinogenesis. In support of this, CGH analysis
+  carried out on 9 of the gastric carcinomas identified loss of chromosome 22 in 5
+  of these tumors.'
+authors: Sud R, Wells D, Talbot IC and Delhanty JD.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11376803
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 126, 2 (2001): 111-19.'
+label: 'Sud et al. (2001): Genetic Alterations in Gastric Cancers From British Patients.'
+notes: ~
+pmid: 11376803
+title: Genetic Alterations in Gastric Cancers From British Patients.
+year: 2001

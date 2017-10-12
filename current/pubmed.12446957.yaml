@@ -1,0 +1,57 @@
+---
+abstract: Multiple chromosomal imbalances have been identified in breast cancer using
+  comparative genomic hybridization CGH . Their association with the primary tumors
+  potential for building distant metastases is unknown. In this study we have investigated
+  39 invasive breast carcinomas with a mean follow-up period of 99 months max. 193
+  months by CGH to determine the prognostic value of chromosomal gains and losses.
+  The mean number of chromosomal imbalances per tumor was 6.5 -0.7 range 2 to 18 .
+  The most frequent alterations identified in more than 1 3 of cases were gains on
+  chromosomes 11q13, 12q24, 16, 17, and 20q, and losses on 2q and 13q. A significantly
+  different frequency of chromosomal aberrations p amp lt or 0.05 was found between
+  DNA-diploid and non-diploid tumors gain on chromosome 17 . Differences were also
+  noted between tumors progressing to distant metastases within the period of follow-up
+  and those which do not gains on 11q13 and 12q24 loss on 12q . Significant univariate
+  correlations p amp lt or 0.05 with the metastasis-free survival of patients were
+  found for lymph node status, the cytometrical determined DNA ploidy diploid non-diploid
+  and anisokaryosis, and for DNA gains on 11q13, 12q24, 17, and 18p. An unexpected
+  inverse correlation was found between clinical outcome and gains on 11q13 and 12q24.
+  In multivariate analysis independent prognostic value, in addition to lymph node
+  status, was found for chromosomal gains on 11q13, 12q24, 17 and 18p. Amplification
+  on 20q, which did not correlate with metastasis-free survival in a univariate analysis,
+  showed weak prognostic significance in combination with the nodal status. The prognostic
+  value of chromosomal alterations - some of them by inverse correlation - suggests
+  an interaction and or compensation of the involved amplified genes and their effects
+  on the occurrence of distant metastases in breast cancer patients.
+authors: Aubele M, Auer G, Braselmann H, Nahrig J, Zitzelsberger H, Quintanilla-Martinez
+  L, Smida J, Walch A, Hofler H and Werner M.
+contact:
+  email: zitzelsberger@gsf.de
+  name: Horst Zitzelsberger
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 39
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12446957
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: Europe
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: 'Anal Cell Pathol 24, 2-3 (2002): 77-87.'
+label: 'Aubele et al. (2002): Chromosomal Imbalances Are Associated With Metastasis-Free
+  Survival in Breast Cancer ...'
+notes: ~
+pmid: 12446957
+title: Chromosomal Imbalances Are Associated With Metastasis-Free Survival in Breast
+  Cancer Patients.
+year: 2002

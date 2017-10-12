@@ -1,0 +1,51 @@
+---
+abstract: Gain and loss of chromosomal material is characteristic of bladder cancer,
+  as well as malignant transformation in general. The consequences of these changes
+  at both the transcription and translation levels is at present unknown partly because
+  of technical limitations. Here we have attempted to address this question in pairs
+  of non-invasive and invasive human bladder tumors using a combination of technology
+  that included comparative genomic hybridization, high density oligonucleotide array-based
+  monitoring of transcript levels 5600 genes , and high resolution two-dimensional
+  gel electrophoresis. The results showed that there is a gene dosage effect that
+  in some cases superimposes on other regulatory mechanisms. This effect depended
+  p amp lt 0.015 on the magnitude of the comparative genomic hybridization change.
+  In general 18 of 23 cases , chromosomal areas with more than 2-fold gain of DNA
+  showed a corresponding increase in mRNA transcripts. Areas with loss of DNA, on
+  the other hand, showed either reduced or unaltered transcript levels. Because most
+  proteins resolved by two-dimensional gels are unknown it was only possible to compare
+  mRNA and protein alterations in relatively few cases of well focused abundant proteins.
+  With few exceptions we found a good correlation p amp lt 0.005 between transcript
+  alterations and protein levels. The implications, as well as limitations, of the
+  approach are discussed.
+authors: Orntoft TF, Thykjaer T, Waldman FM, Wolf H and Celis JE.
+contact:
+  email: ~
+  name: T. F. Orntoft
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12096139
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: 'Mol Cell Proteomics 1, 1 (2002): 37-45.'
+label: 'Orntoft et al. (2002): Genome-Wide Study of Gene Copy Numbers, Transcripts,
+  and Protein Levels in Pairs of Non-Invasive ...'
+notes: ~
+pmid: 12096139
+title: Genome-Wide Study of Gene Copy Numbers, Transcripts, and Protein Levels in
+  Pairs of Non-Invasive and Invasive Human Transitional Cell Carcinomas.
+year: 2002

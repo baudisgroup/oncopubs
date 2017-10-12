@@ -1,0 +1,51 @@
+---
+abstract: 'This study was undertaken to identify recurrent genetic alterations of
+  the three main types of cutaneous T-cell lymphomas CTCLs : mycosis fungoides MF
+  , Se zary syndrome SS , and cutaneous anaplastic large-cell lymphoma CALCL . Using
+  array-based comparative genomic hybridization, the molecular cytogenetic profiles
+  of 72 samples obtained from 58 patients with CTCL corresponding to 24 transformed
+  MF T-MF , 16 SS, and 18 CALCLs were determined. T-MF was characterized by gains
+  of 1q25 31, 7p22 11.2, 7q21, 7q31, and 17q12, and losses of 9p21, 10p11.2, and 10q26.
+  SS exhibited gains of 8q23 24.3 and 17q23 24, as well as losses of 9p21, 10p12 11.2,
+  10q22 24, 10q25 26, and 17p13 q11.1. Finally, CALCL exhibited 6q27 and 13q34 losses.
+  Such imbalances were statistically associated with one CTCL subtype. Unsupervised
+  hierarchical clustering defined three categories of clinical relevance: 1 CALCL
+  apart from epidermotropic-CTCL, 2 an SS-only category, and 3 a mixed category with
+  T-MF and SS cases, with both primary and secondary SS cases. In rare cases, the
+  genetic classification did not correspond to the inclusion diagnosis, possibly reflecting
+  the association of two diseases in the same patient or initial misdiagnosis according
+  to follow-up. Finally, different samples in the same patient clustered together,
+  showing reproducibility of such a classifier.'
+authors: Laharanne E, Oumouhou N, Bonnet F, Carlotti M, Gentil C, Chevret E, Jouary
+  T, Longy M, Vergier B, Beylot-Barry M and Merlio JP.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 72
+  samples_acgh: 72
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20130593
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: 'J Invest Dermatol (2010) 130: 1707-1718.'
+label: 'Laharanne et al. (2010): Genome-wide analysis of cutaneous T-cell lymphomas
+  identifies three clinically relevant ...'
+notes: ~
+pmid: 20130593
+title: Genome-wide analysis of cutaneous T-cell lymphomas identifies three clinically
+  relevant classes.
+year: 2010

@@ -1,0 +1,46 @@
+---
+abstract: Genetic changes involved in the development and progression of pancreatic
+  cancer are still partly unknown, despite the progress in recent years. In this study,
+  comparative genomic hybridization analysis in 31 pancreatic cancer cell lines showed
+  that chromosome arms 8q, 11q, 17q, and 20q are frequently gained in this tumor type.
+  Copy number analysis of selected genes from these chromosome arms by fluorescence
+  in situ hybridization showed amplification of the MYC oncogene in 54 of the cell
+  lines, whereas CCND1 was amplified in 28 . In the 17q arm, the ERBB2 oncogene was
+  amplified in 20 of the cell lines, TBX2 in 50 , and BIRC5 in 58 , indicating increased
+  involvement toward the q telomere of chromosome 17. In the 20q arm, the amplification
+  frequencies varied from 32 to 83 , with the CTSZ gene at 20q13 being most frequently
+  affected. These results illustrate that amplification of genes from the 8q, 11q,
+  17q, and 20q chromosome arms is common in pancreatic cancer.
+authors: Mahlamaki EH, Barlund M, Tanner M, Gorunova L, Hoglund M, Karhu R and Kallioniemi
+  A.
+contact:
+  email: anne.kallioniemi@uta.fi
+  name: Anne Kallioniemi
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12378529
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 35, 4 (2002): 353-58.'
+label: 'Mahlamaki et al. (2002): Frequent Amplification of 8q24, 11q, 17q, and 20q-Specific
+  Genes in Pancreatic ...'
+notes: Of the total 31 CGH experiments, 11 had been published previously.
+pmid: 12378529
+title: Frequent Amplification of 8q24, 11q, 17q, and 20q-Specific Genes in Pancreatic
+  Cancer.
+year: 2002

@@ -1,0 +1,54 @@
+---
+abstract: The management of Wilms tumors consists of a combination of surgery, chemotherapy,
+  and possibly radiotherapy. To date, chemotherapy is being risk stratified according
+  to histologic subtype and stage. Although the cytogenetic characteristics of Wilms
+  tumors are well established, the cytogenetic effects related to chemotherapy are
+  widely unknown. We herein report on comparative genomic hybridization findings in
+  41 primary Wilms tumors of blastemal type, of which 19 had received preoperative
+  chemotherapy PCT group and 22 did not non-PCT group . Overall, imbalances could
+  be detected in 32 tumors, with 1q 17 cases , 7q 10 cases , 7p 6 cases , and -7p
+  6 cases as the most common changes. Among these, 7q and -7p were both significantly
+  associated with metastatic disease at the time of surgery P 0.002 and 0.007, respectively
+  , and 7q was also associated with higher stage stages III IV P 0.003 . There were
+  significant differences in the cytogenetic constitution of tumors between the two
+  treatment groups. As a trend, tumors in the preoperative-chemotherapy group had
+  fewer changes mean, 2.7 than those in the non-preoperative-chemotherapy group mean,
+  3.8 , and the frequencies of imbalances at 7p or 7q, respectively, were significantly
+  lower compared with tumors in the non-preoperative-chemotherapy group 2 of 19 versus
+  10 of 22, P 0.019 1 of 19 versus 9 of 22, P 0.011 . In contrast, -1q was common
+  in both the preop-CT group 10 of 19 and the non-preop-CT group 7 of 22 . The results
+  suggest that Wilms tumor clones with 1q are not obliterated by preoperative chemotherapy,
+  whereas cytogenetically more complex clones with 7q and or imbalances at 7p seem
+  more responsive and are more likely to be eliminated by chemotherapeutic treatment.
+authors: Schlomm T, Gunawan B, Schulten HJ, Sander B, Thangavelu K, Graf N, Leuschner
+  I, Ringert RH and Fuzesi L.
+contact:
+  email: fuezesi@med.uni-goettingen.de
+  name: Laszlo Fuzesi
+counts:
+  biosamples: 41
+  samples_acgh: 0
+  samples_ccgh: 41
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15958621
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.02
+    - 53.58
+    type: Point
+  info:
+    city: Hamburg
+    continent: Europe
+    country: Germany
+    label: Hamburg, Germany, Europe
+    precision: city
+journal: 'Clin Cancer Res 11, 12 (2005): 4382-87.'
+label: 'Schlomm et al. (2005): Effects of Chemotherapy on the Cytogenetic Constitution
+  of Wilms Tumor.'
+notes: ~
+pmid: 15958621
+title: Effects of Chemotherapy on the Cytogenetic Constitution of Wilms Tumor.
+year: 2005

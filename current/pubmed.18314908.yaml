@@ -1,0 +1,57 @@
+---
+abstract: 'Triple-negative breast cancer TNBC is defined by a lack of expression of
+  estrogen, progesterone, and HER2 receptors, and genetically most of them fall into
+  the basal subgroup of breast cancer. The important issue of TNBC is poorer clinical
+  outcome and absence of effective targeted therapy. In this study, we sought to identify
+  DNA copy number alterations and expression of relevant genes characteristic of TNBC
+  to discover potential therapeutic targets. Frozen tissues from 114 breast cancers
+  were analyzed using high-resolution array comparative genomic hybridization. The
+  classification into subtype was determined by estrogen and progesterone receptor
+  expression, and by the presence or absence of gain on the ERBB2 containing clone.
+  The ACE algorithm was used for calling gain and loss of clones. Twenty-eight cases
+  25 were classified as TNBC. Recurrent gains amp gt or 25 unique to TNBC were 9p24-p21,
+  10p15-p13, 12p13, 13q31-q34, 18q12, 18q21-q23, and 21q22. Two published gene expression
+  array data sets comparing basal subtype versus other subtype breast cancers were
+  used for searching candidate genes. Of the genes upregulated in the basal subtype,
+  45 of 686 genes in one data set and 59 of 1,428 in the second data set were found
+  to be located in the gained regions. Of these candidate genes, gain of NFIB 9p24.1
+  was specific for TNBC in a validation set by real-time PCR. In conclusion, we have
+  identified recurrently gained regions characteristic of TNBC, and found that NFIB
+  copy number and expression is increased in TNBC across the data sets. This article
+  contains Supplementary Material available at http: www.interscience.wiley.com jpages
+  1045-2257 suppmat.'
+authors: Han W, Jung EM, Cho J, Lee JW, Hwang KT, Yang SJ, Kang JJ, Bae JY, Jeon YK,
+  Park IA, Nicolau M, Jeffrey SS and Noh DY.
+contact:
+  email: dynoh@plaza.snu.ac.kr
+  name: Dong-Young Noh
+counts:
+  biosamples: 118
+  samples_acgh: 118
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18314908
+- geo:GSE10181
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 6 (2008): 490-99.'
+label: 'Han et al. (2008): DNA Copy Number Alterations and Expression of Relevant
+  Genes in Triple-Negative Breast ...'
+notes: Data was downloaded from GEO and segmented using DNAcopy, as implemented in
+  the Progenetix tools.
+pmid: 18314908
+title: DNA Copy Number Alterations and Expression of Relevant Genes in Triple-Negative
+  Breast Cancer.
+year: 2008

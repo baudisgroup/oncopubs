@@ -1,0 +1,53 @@
+---
+abstract: 'Primary mediastinal B-cell lymphoma PMBL is an aggressive extranodal B-cell
+  non-Hodgkins lymphoma with specific clinical, histopathological and genomic features.
+  To characterize further the genotype of PMBL, we analyzed 37 tumor samples and PMBL
+  cell lines Med-B1 and Karpas1106P using array-based comparative genomic hybridization
+  matrix- or array-CGH to a 2.8k genomic microarray. Due to a higher genomic resolution,
+  we identified altered chromosomal regions in much higher frequencies compared with
+  standard CGH: for example, 9p24 68 , 2p15 51 , 7q22 32 , 9q34 32 , 11q23 18 , 12q
+  30 and 18q21 24 . Moreover, previously unknown small interstitial chromosomal low
+  copy number alterations for example, -6p21, -11q13.3 and a total of 19 DNA amplifications
+  were identified by array-CGH. For 17 chromosomal localizations 10 gains and 7 losses
+  , which were altered in more than 10 of the analyzed cases, we delineated minimal
+  consensus regions based on genomic base pair positions. These regions and selected
+  immunohistochemistries point to candidate genes that are discussed in the context
+  of NF-kappaB transcription activation, human leukocyte antigen class I II defects,
+  impaired apoptosis and Janus kinase signal transducer and activator of transcription
+  JAK STAT activation. Our data confirm the genomic uniqueness of this tumor and provide
+  physically mapped genomic regions of interest for focused candidate gene analysis.'
+authors: Wessendorf S, Barth TF, Viardot A, Mueller A, Kestler HA, Kohlhammer H, Lichter
+  P, Bentz M, Dohner H, Moller P and Schwaenen C.
+contact:
+  email: swen.wessendorf@uniklinik-ulm.de
+  name: Swen Wessendorf
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17728785
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Leukemia 21, 12 (2007): 2463-69.'
+label: 'Wessendorf et al. (2007): Further Delineation of Chromosomal Consensus Regions
+  in Primary Mediastinal B-Cell Lymphomas: ...'
+notes: Standardized ratio data from the supplementary file was converted to ISCN using
+  the aCGH2ProgenetiXML converter.
+pmid: 17728785
+title: 'Further Delineation of Chromosomal Consensus Regions in Primary Mediastinal
+  B-Cell Lymphomas: An Analysis of 37 Tumor Samples Using High-Resolution Genomic
+  Profiling (Array-Cgh).'
+year: 2007

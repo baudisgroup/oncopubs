@@ -1,0 +1,59 @@
+---
+abstract: 'Although ductal carcinoma in situ DCIS of the breast is accepted as a potential
+  precursor lesion for invasive ductal cancer IDC , the critical genetic events associated
+  with the tumor progression remain unknown. Since some extensive DCIS may show a
+  small focus of IDC, these cases seem to be particularly suitable to investigate
+  the primary abnormalities that determine the progression from in situ to early invasive
+  cancer. We combined laser-microdissection with degenerative oligonucleotide-primed
+  PCR DOP-PCR and comparative genomic hybridization CGH to detect copy number changes
+  in 7 cases of extensive amp gt 4 cm DCIS with 1 small adjacent invasive focus. In
+  3 of the cases, single lymph node metastases LN were already present and were also
+  investigated. Analysis of DCIS, IDC and LN components in the same patients revealed
+  several consistent chromosomal changes present at all 3 sites: 1q, 7q, 8q, 16, 17,
+  19, 20q, 21q and 22q, the most frequent losses on 4q, 11q and 13q. DNA gain on 3p
+  and 12q were more frequently found in IDC than in DCIS, suggesting the presence
+  of proto-oncogenes activated during the progression to invasive cancer on these
+  regions. Using paired analysis, resemblence of alterations found in DCIS and IDC
+  could be quantified odds ratio 7.0, p amp lt or 0.01 . Gains on 6p, 10q, 14q and
+  15q and losses on 9p were identified in DCIS and IDC but not in LN, which may, therefore,
+  represent early events in the carcinogenic process. Additional losses were found
+  in the LNs on 2q, 3q, 5q, 6q, 12q and 16q. CGH results on chromosome 1 and 20 were
+  confirmed by FISH and on chromosomal region 9p by microsatellite analyses. Our findings
+  strongly underline the precursor status of high-grade DCIS, in which most of the
+  chromosomal changes identified in IDC are already present. However, although the
+  early stages of breast cancer, i.e., DCIS and the small foci of IDC were mainly
+  characterized by DNA gains, the progression to metastatic tumor LN must have involved
+  additional DNA losses on several regions.'
+authors: Aubele M, Mattis A, Zitzelsberger H, Walch A, Kremer M, Welzl G, Hofler H,
+  and Werner M.
+contact:
+  email: zitzelsberger@gsf.de
+  name: Horst Zitzelsberger
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10585588
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: Europe
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: Int J Cancer, 85(1) 2000, 82-86.
+label: 'Aubele et al. (2000): Extensive ductal carcinoma In situ with small foci of
+  invasive ductal carcinoma: evidence of ...'
+notes: ~
+pmid: 10585588
+title: 'Extensive ductal carcinoma In situ with small foci of invasive ductal carcinoma:
+  evidence of genetic resemblance by CGH.'
+year: 2000

@@ -1,0 +1,50 @@
+---
+abstract: A high percentage of uveal melanoma patients develop metastatic tumors predominantly
+  in the liver. We studied the molecular profiles derived from gene expression microarrays
+  and comparative genomic hybridization microarrays, to identify genes associated
+  with metastasis in this aggressive cancer. We compared 28 uveal melanomas from patients
+  who developed liver metastases within three years of enucleation with 35 tumors
+  from patients without metastases or who developed metastases more than 3 years after
+  enucleation. Protein tyrosine phosphatase type IV A member 3 PTP4A3 PRL3 , was identified
+  as a strong predictor of metastasis occurrence. We demonstrated that the differential
+  expression of this gene, which maps to 8q24.3, was not merely a consequence of 8q
+  chromosome overrepresentation. PTP4A3 overexpression in uveal melanoma cell lines
+  significantly increased cell migration and invasiveness in vivo, suggesting a direct
+  role for this protein in metastasis. Our findings suggest that PTP4A3 or its cellular
+  substrates could constitute attractive therapeutic targets to treat metastatic uveal
+  melanomas.
+authors: Laurent C, Valet F, Planque N, Silveri L, Maacha S, Anezo O, Hupe P, Plancher
+  C, Reyes C, Albaud B, Rapinat A, Gentien D, Couturier J, Sastre-Garau X, Desjardins
+  L, Thiery JP, Roman-Roman S, Asselain B, Barillot E, Piperno-Neumann S and Saule
+  S.
+contact:
+  email: ~
+  name: Simon Saule
+counts:
+  biosamples: 63
+  samples_acgh: 63
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21135111
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Cancer Res 71, 3 (2011): 666-74.'
+label: 'Laurent et al. (2011): High Ptp4A3 Phosphatase Expression Correlates With
+  Metastatic Risk in Uveal Melanoma ...'
+notes: ~
+pmid: 21135111
+title: High Ptp4A3 Phosphatase Expression Correlates With Metastatic Risk in Uveal
+  Melanoma Patients.
+year: 2011

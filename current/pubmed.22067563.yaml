@@ -1,0 +1,56 @@
+---
+abstract: The clinicopathological heterogeneity of glioblastoma GBM and the various
+  genetic and phenotypic subtypes in GBM stem cells GSCs are well described. However,
+  the relationship between GSCs and the corresponding primary tumor from which they
+  were isolated is poorly understood. We have established GSC-enriched neurosphere
+  cultures from 15 newly diagnosed GBM specimens and examined the relationship between
+  the histopathological and genomic features of GSC-derived orthotopic xenografts
+  and those of the respective patient tumors. GSC-initiated xenografts recapitulate
+  the distinctive cytological hallmarks and diverse histological variants associated
+  with the corresponding patient GBM, including giant cell and gemistocytic GBM, and
+  primitive neuroectodermal tumor PNET -like components. This indicates that GSCs
+  generate tumors that preserve patient-specific disease phenotypes. The majority
+  of GSC-derived intracerebral xenografts 11 of 15 demonstrated a highly invasive
+  behavior crossing the midline, whereas the remainder formed discrete nodular and
+  vascular masses. In some cases, GSC invasiveness correlated with preoperative MRI,
+  but not with the status of PI3-kinase Akt pathways or O 6 -methylguanine methyltransferase
+  expression. Genome-wide screening by array comparative genomic hybridization and
+  fluorescence in situ hybridization revealed that GSCs harbor unique genetic copy
+  number aberrations. GSCs acquiring amplifications of the myc family genes represent
+  only a minority of tumor cells within the original patient tumors. Thus, GSCs are
+  a genetically distinct subpopulation of neoplastic cells within a GBM. These studies
+  highlight the value of GSCs for preclinical modeling of clinically relevant, patient-specific
+  GBM and, thus, pave the way for testing novel anti-GSC GBM agents for personalized
+  therapy.
+authors: Wakimoto H, Mohapatra G, Kanai R, Curry WT Jr, Yip S, Nitta M, Patel AP,
+  Barnard ZR, Stemmer-Rachamimov AO, Louis DN, Martuza RL and Rabkin SD.
+contact:
+  email: ~
+  name: Hiroaki Wakimoto
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22067563
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Neuro Oncol 14, 2 (2012): 132-44.'
+label: 'Wakimoto et al. (2012): Maintenance of Primary Tumor Phenotype and Genotype
+  in Glioblastoma Stem Cells.'
+notes: ~
+pmid: 22067563
+title: Maintenance of Primary Tumor Phenotype and Genotype in Glioblastoma Stem Cells.
+year: 2012

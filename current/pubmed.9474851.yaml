@@ -1,0 +1,52 @@
+---
+abstract: Development and progression of urinary bladder cancer is driven by an accumulation
+  of genetic alterations. Most previous molecular and cytogenetic analyses of urinary
+  bladder cancer were focused on advanced tumor stages. To learn more about molecular
+  cytogenetic changes in early bladder cancer stages we analyzed 56 superficial carcinomas
+  of the urinary bladder by comparative genomic hybridization CGH . CGH is based on
+  the simultaneous hybridization of differentially labeled tumor and normal DNAs to
+  normal metaphase chromosomes. CGH allows the detection of all DNA sequence copy
+  number changes deletions, DNA sequence copy number gains, amplifications of a tumor
+  in one examination. Deletions were most frequently found at 9q 20 of 56 patients
+  36 , chromosome Y 15 of 43 male patients 35 , 9p 28 , 11q 16 , 11p 13 , and 10q
+  11 . DNA sequence copy number gains were most prevalent at 1q 34 , 8q 22 , 17q 15
+  , 20q 13 , and 12q 11 . There was a significant increase in the number of aberrations
+  with tumor stage pTa vs. pT1 p 0.0003 and histologic grade p 0.0001 . Several specific
+  alterations were significantly more frequent in pT1 than in pTa tumors including
+  deletions at 2q, 8p, and 11p as well as gains at 1q, 3p, 3q, 5p, 6p, 8q, and 10p.
+  These loci are candidates for carrying genes involved in invasive tumor growth in
+  bladder cancer. Overall, these data show that marked genetic differences exist between
+  pTa and papillary pT1 bladder cancer. This challenges the concept of grouping these
+  tumors together in one group as amp quot superficial bladder cancer amp quot .
+authors: Sauter G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 56
+  samples_acgh: 0
+  samples_ccgh: 56
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9474851
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Verh Dtsch Ges Pathol 81 (1997): 18-27.'
+label: 'Sauter G. (1997): [Rudolf Virchow Prize 1997. Molecular Cytogenetic Analysis
+  of Superficial Urothelial Cancer of the ...'
+notes: ~
+pmid: 9474851
+title: '[Rudolf Virchow Prize 1997. Molecular Cytogenetic Analysis of Superficial
+  Urothelial Cancer of the Bladder].'
+year: 1997

@@ -1,0 +1,50 @@
+---
+abstract: JMML and CMML are rare myelodysplastic myeloproliferative neoplasms occurring
+  at both ends of life. To investigate relationships between JMML and CMML, genes
+  recently involved in CMML were studied in 68 JMML patients. Mutations in TET2, RUNX1
+  and JAK2 V617F are involved in myelodysplastic and or myeloproliferative syndromes,
+  and more specifically in CMML but were not found in JMML. Pangenomic analysis by
+  SNP-array showed no abnormality at these loci. Three frameshift mutations of ASXL1
+  leading to a truncated protein were found in three patients 4 with late onset JMML
+  displaying also RAS activating mutations. Homozygous mutations of CBL with 11q loss
+  of heterozygosity were found in five 7 JMML. CBL substitutions were different from
+  those reported in CMML, exclusive from other RAS activating mutations, and were
+  germline in all patients. Overall, the pattern of genetic lesions observed in JMML
+  differed from that of CMML. Although signalling deregulation is involved in CMML,
+  transcriptional deregulation seems to play a pivotal role, with mutation of RUNX1,
+  ASXL1 or TET2. Conversely, none of these genes involved in transcription or chromatin
+  remodelling was found to be significantly altered in JMML, while CBL mutations confirm
+  the central role of RAS and growth factor signalling deregulation in JMML.
+authors: Perez B, Kosmider O, Cassinat B, Renneville A, Lachenaud J, Kaltenbach S,
+  Bertrand Y, Baruchel A, Chomienne C, Fontenay M, Preudhomme C and Cave H.
+contact:
+  email: helene.cave@rdb.aphp.fr
+  name: Helene Cave
+counts:
+  biosamples: 51
+  samples_acgh: 51
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20955399
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Br J Haematol 151, 5 (2010): 460-68.'
+label: 'Perez et al. (2010): Genetic Typing of Cbl, Asxl1, Runx1, Tet2 and Jak2 in
+  Juvenile Myelomonocytic Leukaemia Reveals a ...'
+notes: ~
+pmid: 20955399
+title: Genetic Typing of Cbl, Asxl1, Runx1, Tet2 and Jak2 in Juvenile Myelomonocytic
+  Leukaemia Reveals a Genetic Profile Distinct From Chronic Myelomonocytic Leukaemia.
+year: 2010

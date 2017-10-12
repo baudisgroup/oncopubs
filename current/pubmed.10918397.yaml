@@ -1,0 +1,52 @@
+---
+abstract: Endometrial cancer progression is determined by a complex pattern of multiple
+  genetic aberrations, but how these aberrations affect prognosis is unknown. In this
+  study, we undertook a genome-wide screening to detect genetic changes by comparative
+  genomic hybridization CGH in 51 tumors from patients with primary endometrioid carcinoma
+  of the uterine corpus. The observed genetic changes were subsequently correlated
+  with the progression of the disease and the clinical outcome in each case. The average
+  number of genetic aberrations copy number gains and losses was significantly greater
+  in non-surviving patients than in disease-free patients 12. 6 vs. 2.7, P amp lt
+  0.0001 . According to multivariate analysis, lymph node metastasis P 0.015 , cervical
+  involvement P 0.007 and one or more copy number losses at 9q32-q34, 11q23, or Xq12-q24
+  P 0.023 were significantly predictive of death from the disease. Interestingly,
+  lymph node metastasis was significantly associated with copy number gains at 8q22-q23
+  and 8q24-qter P 0.003 and P 0.025, respectively . Moreover, cervical involvement
+  was also correlated significantly not only with gains of 8q22-q23 and 8q24-qter
+  but also with loss of 11q23 P 0.04, 0.0003, and P 0. 009, respectively . These results
+  suggest that analysis of genetic changes may help predict clinical outcome and the
+  presence of metastatic disease as well as assist in therapeutic decision making
+  for patients with endometrioid carcinoma.
+authors: Suehiro Y, Umayahara K, Ogata H, Numa F, Yamashita Y, Oga A, Morioka H, Ito
+  T, Kato H and Sasaki K.
+contact:
+  email: ysuehiro@mail.goo.ne.jp
+  name: Y. Suehiro
+counts:
+  biosamples: 51
+  samples_acgh: 0
+  samples_ccgh: 51
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10918397
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 29, 1 (2000): 75-82.'
+label: 'Suehiro et al. (2000): Genetic Aberrations Detected By Comparative Genomic
+  Hybridization Predict Outcome in Patients ...'
+notes: ~
+pmid: 10918397
+title: Genetic Aberrations Detected By Comparative Genomic Hybridization Predict Outcome
+  in Patients With Endometrioid Carcinoma.
+year: 2000

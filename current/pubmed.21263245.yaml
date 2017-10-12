@@ -1,0 +1,55 @@
+---
+abstract: Atypical Spitz tumors ASTs are rare spitzoid neoplasms of uncertain biological
+  behavior. Our study was designed to characterize genetic abnormalities that may
+  help to differentiate ASTs from melanoma or Spitz nevi. We examined copy number
+  variation in formalin-fixed, paraffin-embedded samples using an Agilent 44k array
+  comparative genomic hybridization platform. Sixteen patients with AST 8 with positive
+  sentinel lymph node biopsy, 1 with distant metastasis , 8 patients with Spitz nevi,
+  and 3 patients with melanoma 2 spitzoid, 1 superficial spreading were evaluated.
+  Chromosomal aberrations were found in 7 of 16 ASTs, 1 with fatal outcome, 2 spitzoid
+  melanomas, and 1 conventional melanoma. We found no difference in chromosomal instability
+  between AST patients with positive and negative sentinel lymph node biopsies. Our
+  patient with widely metastatic AST lacked the most frequent aberrations in melanoma
+  involving chromosomes 6 and 11q that are loci targeted by fluorescence in situ hybridization
+  FISH probes developed to distinguish malignant melanoma from benign melanocytic
+  lesions. The vast majority of chromosomal abnormalities observed in ASTs are not
+  commonly found in melanomas, suggesting that AST may be a distinct clinical entity
+  and raising additional questions regarding their malignant potential, prognosis,
+  and clinical management. The current FISH probes failed to detect 1 spitzoid melanoma,
+  1 fatal metastatic AST case, and the other chromosomally aberrant ASTs in our series,
+  but detected 1 spitzoid melanoma and 1 conventional melanoma. Thus, a comprehensive,
+  genome-wide approach to chromosomal abnormalities offered greater sensitivity and
+  specificity than current FISH probes in identifying spitzoid lesions of uncertain
+  malignant potential in this series.
+authors: Raskin L, Ludgate M, Iyer RK, Ackley TE, Bradford CR, Johnson TM and Fullen
+  DR.
+contact:
+  email: ~
+  name: Douglas Fullen
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21263245
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: 'Am J Surg Pathol 35, 2 (2011): 243-52.'
+label: 'Raskin et al. (2011): Copy Number Variations and Clinical Outcome in Atypical
+  Spitz Tumors.'
+notes: ~
+pmid: 21263245
+title: Copy Number Variations and Clinical Outcome in Atypical Spitz Tumors.
+year: 2011

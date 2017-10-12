@@ -1,0 +1,39 @@
+---
+abstract: This study attempted to analyze the prognostic role of single nucleotide
+  polymorphism array SNP-A -based karyotying in 133 patients with acute myeloid leukemia
+  with normal karyotype AML-NK , which presents with diverse clinical outcomes, thus
+  requiring further stratification of patient subgroups according to their prognoses.
+authors: Yi JH, Huh J, Kim HJ, Kim SH, Kim HJ, Kim YK, Sohn SK, Moon JH, Kim SH, Kim
+  KH, Won JH, Mun YC, Kim H, Park J, Jung CW and Kim DH.
+contact:
+  email: ~
+  name: Dong Kim
+counts:
+  biosamples: 133
+  samples_acgh: 133
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22084373
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'J Clin Oncol 29, 35 (2011): 4702-08.'
+label: 'Yi et al. (2011): Adverse Prognostic Impact of Abnormal Lesions Detected By
+  Genome-Wide Single Nucleotide Polymorphism ...'
+notes: ~
+pmid: 22084373
+title: Adverse Prognostic Impact of Abnormal Lesions Detected By Genome-Wide Single
+  Nucleotide Polymorphism Array-Based Karyotyping Analysis in Acute Myeloid Leukemia
+  With Normal Karyotype.
+year: 2011

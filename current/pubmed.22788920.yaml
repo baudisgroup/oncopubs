@@ -1,0 +1,36 @@
+---
+abstract: Neuroblastoma are pediatric tumors of the sympathetic nervous system with
+  a poor prognosis. Apoptosis is often deregulated in cancer cells, but only a few
+  defects in apoptotic routes have been identified in neuroblastoma.
+authors: Lamers F, Schild L, Koster J, Speleman F, Ora I, Westerhout EM, van Sluis
+  P, Versteeg R, Caron HN and Molenaar JJ.
+contact:
+  email: ~
+  name: Jan Molenaar
+counts:
+  biosamples: 88
+  samples_acgh: 88
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22788920
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'BMC Cancer 12, 1 (2012): 285.'
+label: 'Lamers et al. (2012): Identification of Birc6 as a Novel Intervention Target
+  for Neuroblastoma Therapy.'
+notes: ~
+pmid: 22788920
+title: Identification of Birc6 as a Novel Intervention Target for Neuroblastoma Therapy.
+year: 2012

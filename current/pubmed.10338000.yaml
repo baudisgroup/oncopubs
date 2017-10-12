@@ -1,0 +1,52 @@
+---
+abstract: 'Esophageal cancer is the third most prevalent gastrointestinal malignancy
+  in the world. The tumor responds poorly to various therapeutic regimens and the
+  genetic events underlying esophageal carcinogenesis are not well understood. To
+  identify overall chromosomal aberrations in esophageal squamous cell carcinoma,
+  we performed comparative genomic hybridization CGH . All 17 tumor samples were found
+  to exhibit multiple gains and losses involving different chromosomal regions. The
+  frequency of chromosomal loss associated with this type of tumor was as follows:
+  in 2q 100 , 3p 100 , 13q 100 , Xq 94 , 4 82 , 5q 82 , 18q 76 , 9p 76 , 6q 70 , 12q
+  70 , 14q 65 , 11q 59 , and 1p 53 . Interstitial deletions on 1p, 3p, 5q, 6q, 11q,
+  and 12q were detected also. Chromosomal gains were displayed by chromosomes and
+  chromosome areas: 19 100 , 20q 94 , 22 94 , 16p 65 , 17 59 , 12q 59 , 8q 53 , 9q
+  53 , and 3q 50 . Two sites showing apparent amplification were 11q 70 and 5p15 47
+  . To validate the CGH data, we isolated a BAC clone mapping to 18q12.1. This clone
+  was used as a probe in interphase fluorescence in situ hybridization of tumor touch
+  preparations and allelic loss was clearly revealed. This study represents the first
+  whole-genome analysis in esophageal squamous cell carcinoma for associated chromosomal
+  aberrations that may be involved in either the genesis or progression of this malignancy.'
+authors: Pack SD, Karkera JD, Zhuang Z, Pak ED, Balan KV, Hwu P, Park WS, Pham T,
+  Ault DO, Glaser M, Liotta L, Detera-Wadleigh SD and Wadleigh RG.
+contact:
+  email: packs@ninds.nih.gov
+  name: Svetlana Pack
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10338000
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 25, 2 (1999): 160-68.'
+label: 'Pack et al. (1999): Molecular Cytogenetic Fingerprinting of Esophageal Squamous
+  Cell Carcinoma By Comparative Genomic ...'
+notes: ~
+pmid: 10338000
+title: Molecular Cytogenetic Fingerprinting of Esophageal Squamous Cell Carcinoma
+  By Comparative Genomic Hybridization Reveals a Consistent Pattern of Chromosomal
+  Alterations.
+year: 1999

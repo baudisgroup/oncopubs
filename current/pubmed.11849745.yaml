@@ -1,0 +1,49 @@
+---
+abstract: Neuroblastomas are heterogeneous tumors. Their clinical behavior varies
+  from spontaneous regression to malignant progression. To investigate the cytogenetic
+  heterogeneity of infantile neuroblastomas, we employed comparative genomic hybridization
+  CGH . To characterize chromosomal imbalances in 35 infantile neuroblastomas, we
+  performed CGH and compared our results with those of other clinical and biological
+  studies. The most frequent genetic imbalances were found in chromosome 17 43 , including
+  whole chromosome 17 gains in eight patients 23 and 17q gains in seven patients 20
+  . A 1p loss and a 2p gain were detected in six patients each 17 . Losses of 11q
+  and 14q were detected in two patients 6 and one 3 patient, respectively. The number
+  of gains of 17q were significantly higher in DNA diploid tumors than in aneuploid
+  tumors P 0.006 . Conversely, whole chromosome 17 gains were not found in DNA diploid
+  tumors and or MYCN amplification. Interestingly, nine of 17 tumors that were histologically
+  evaluated showed a spontaneous regression and did not demonstrate any partial chromosomal
+  abnormalities i.e. 17q gain, 1p loss, 2p gain, 11q loss and 14q loss . These results
+  suggest that a gene on chromosome 17q is associated with neuroblastoma progression.
+  Finally, our observations indicate that the chromosomal imbalances observed in infantile
+  neuroblastomas are different from those observed in older patients.
+authors: Iehara T, Hamazaki M and Sawada T.
+contact:
+  email: iehara@koto.kpu-m.ac.jp
+  name: T. Iehara
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11849745
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.75
+    - 35.03
+    type: Point
+  info:
+    city: Kamigyo Ward
+    continent: ~
+    country: Japan
+    label: Kamigyo Ward, Japan
+    precision: city [needs verification]
+journal: 'Cancer Lett 178, 1 (2002): 83-89.'
+label: 'Iehara et al. (2002): Cytogenetic Analysis of Infantile Neuroblastomas By
+  Comparative Genomic Hybridization.'
+notes: ~
+pmid: 11849745
+title: Cytogenetic Analysis of Infantile Neuroblastomas By Comparative Genomic Hybridization.
+year: 2002

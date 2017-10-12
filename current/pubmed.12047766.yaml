@@ -1,0 +1,36 @@
+---
+abstract: The aim of this work is the study of the prognostic significance of the
+  chromosomal aberrations described in a series of invasive ductal breast carcinomas.
+authors: Zudaire I, Odero MD, Caballero C, Valenti C, Martinez-Penuela JM, Isola J
+  and Calasanz MJ.
+contact:
+  email: izudaire@unav.es
+  name: Isabel Zudaire
+counts:
+  biosamples: 70
+  samples_acgh: 0
+  samples_ccgh: 70
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12047766
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.64
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: Europe
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: 'Histopathology 40, 6 (2002): 547-55.'
+label: 'Zudaire et al. (2002): Genomic Imbalances Detected By Comparative Genomic
+  Hybridization Are Prognostic Markers in ...'
+notes: ~
+pmid: 12047766
+title: Genomic Imbalances Detected By Comparative Genomic Hybridization Are Prognostic
+  Markers in Invasive Ductal Breast Carcinomas.
+year: 2002

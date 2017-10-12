@@ -1,0 +1,58 @@
+---
+abstract: Parathyroid carcinoma is a rare endocrine malignancy with an estimated incidence
+  of less than 1 per million population. Excessive secretion of parathyroid hormone,
+  extremely high serum calcium level, and the deleterious effects of hypercalcaemia
+  are the clinical manifestations of the disease. Up to 60 of patients develop multiple
+  disease recurrences and although long-term survival is possible with palliative
+  surgery, permanent remission is rarely achieved. Molecular drivers of sporadic parathyroid
+  carcinoma have remained largely unknown. Previous studies, mostly based on familial
+  cases of the disease, suggested potential roles for the tumour suppressor MEN1 and
+  proto-oncogene RET in benign parathyroid tumourigenesis, while the tumour suppressor
+  HRPT2 and proto-oncogene CCND1 may also act as drivers in parathyroid cancer. Here,
+  we report the complete genomic analysis of a sporadic and recurring parathyroid
+  carcinoma. Mutational landscapes of the primary and recurrent tumour specimens were
+  analysed using high-throughput sequencing technologies. Such molecular profiling
+  allowed for identification of somatic mutations never previously identified in this
+  malignancy. These included single nucleotide point mutations in well-characterized
+  cancer genes such as mTOR, MLL2, CDKN2C, and PIK3CA. Comparison of acquired mutations
+  in patient-matched primary and recurrent tumours revealed loss of PIK3CA activating
+  mutation during the evolution of the tumour from the primary to the recurrence.
+  Structural variations leading to gene fusions and regions of copy loss and gain
+  were identified at a single-base resolution. Loss of the short arm of chromosome
+  1, along with somatic missense and truncating mutations in CDKN2C and THRAP3, respectively,
+  provides new evidence for the potential role of these genes as tumour suppressors
+  in parathyroid cancer. The key somatic mutations identified in this study can serve
+  as novel diagnostic markers as well as therapeutic targets.
+authors: Kasaian K, Wiseman SM, Thiessen N, Mungall KL, Corbett RD, Qian JQ, Nip KM,
+  He A, Tse K, Chuah E, Varhol RJ, Pandoh P, McDonald H, Zeng T, Tam A, Schein J,
+  Birol I, Mungall AJ, Moore RA, Zhao Y, Hirst M, Marra MA, Walker BA and Jones SJM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 2
+external_identifiers:
+- pubmed:23616356
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'The Journal of Pathology (2013) 230: 249-260.'
+label: 'Kasaian et al. (2013): Complete genomic landscape of a recurring sporadic
+  parathyroid carcinoma.'
+notes: ~
+pmid: 23616356
+title: Complete genomic landscape of a recurring sporadic parathyroid carcinoma.
+year: 2013

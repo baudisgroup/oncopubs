@@ -1,0 +1,36 @@
+---
+abstract: Vulvar squamous cell carcinoma VSCC accounts for about 80 -90 of female
+  vulvar malignant tumors, but the etiology is still unclear. This study was to identify
+  genetic alteration in VSCC by comparative genomic hybridization CGH .
+authors: Ouyang L, Zhang SL, Chen RL, Li B and Chen LL.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17562259
+geo_data:
+  geo_json:
+    coordinates:
+    - 123.43
+    - 41.79
+    type: Point
+  info:
+    city: Shenyang
+    continent: Asia
+    country: China
+    label: Shenyang, China, Asia
+    precision: city
+journal: 'Ai Zheng (2007) 26: 572-575.'
+label: 'Ouyang et al. (2007): [Chromosomal aberration in vulvar squamous cell carcinoma
+  analyzed by comparative genomic ...'
+notes: ~
+pmid: 17562259
+title: '[Chromosomal aberration in vulvar squamous cell carcinoma analyzed by comparative
+  genomic hybridization].'
+year: 2007

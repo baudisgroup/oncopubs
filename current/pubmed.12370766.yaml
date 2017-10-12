@@ -1,0 +1,46 @@
+---
+abstract: 'New therapeutic strategies are needed to improve survival in glioblastoma
+  GBM the most malignant astrocytic tumor. We evaluated: a the genetic status of 22
+  GBMs by comparative genomic hybridization CGH b the specific role of mutation and
+  or homozygous deletion of PTEN in the genesis of GBM and c the possible therapeutic
+  role of PTEN against GBM, in vitro. CGH demonstrated that the most frequent region
+  of gain was at chromosome 7p, whereas the most frequent losses occurred at chromosomes
+  10q and 13q. Losses at chromosome 10 were found in 36 of patients, and PTEN was
+  mutated in 27 of the 22 GBMs, including 4 point mutations and 2 homozygous deletions.
+  The possible therapeutic role of PTEN in GBM was also studied in a system based
+  on retroviral infection of the GBM cell line A172, homozygously deleted at the PTEN
+  locus. A172 growth and proliferation rate were reduced by 50 after PTEN transduction.
+  Moreover, we showed that inhibition of cell growth occurred through the PI3K Akt
+  p27 pathway. Our findings suggest that PTEN participates in the genesis of GBM,
+  and might be further studied as a candidate therapeutic agent in other testing systems.'
+authors: Fan X, Aalto Y, Sanko SG, Knuutila S, Klatzmann D and Castresana JS.
+contact:
+  email: jscastresana@unav.es
+  name: Javier S. Castresana
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12370766
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.64
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: Europe
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: 'Int J Oncol 21, 5 (2002): 1141-50.'
+label: 'Fan et al. (2002): Genetic Profile, Pten Mutation and Therapeutic Role of
+  Pten in Glioblastomas.'
+notes: ~
+pmid: 12370766
+title: Genetic Profile, Pten Mutation and Therapeutic Role of Pten in Glioblastomas.
+year: 2002

@@ -1,0 +1,38 @@
+---
+abstract: Atypical teratoid rhabdoid tumours AT RT are highly malignant embryonal
+  tumours of the brain composed of rhabdoid cells. Inactivating mutations of the hSNF5
+  INI-1 gene located in the chromosomal region 22q11.2 are regarded as a crucial step
+  in their molecular pathogenesis. Apart from monosomy or deletions of chromosome
+  22 not much data exists on additional chromosomal aberrations.
+authors: Rickert CH and Paulus W.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14767597
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Childs Nerv Syst 20, 4 (2004): 221-24.'
+label: 'Rickert et al. (2004): Chromosomal Imbalances Detected By Comparative Genomic
+  Hybridisation in Atypical ...'
+notes: ~
+pmid: 14767597
+title: Chromosomal Imbalances Detected By Comparative Genomic Hybridisation in Atypical
+  Teratoid/Rhabdoid Tumours.
+year: 2004

@@ -1,0 +1,52 @@
+---
+abstract: The origin of carcinosarcomas of the ovary and uterus has long been discussed.
+  In this study, we used a molecular-genetic approach to elucidate the tumorigenesis
+  of carcinosarcomas of these organs correlating our findings with the specific biphasic
+  pattern of these tumors. We analyzed a series of 30 paraffin-embedded carcinosarcomas
+  of the ovary and the uterus using comparative genomic hybridization CGH and fluorescence
+  in-situ hybridization FISH . In general, gains 85 were observed more frequently,
+  than losses 30 . Characteristic and frequent chromosomal amplification was observed
+  on chromosome 8q and 20q 42 and 70 . FISH revealed c-myc 8q24.12 and ZNF217 20q13.2
+  amplification in 78 and 87 . Amplification of ZNF217 was mostly seen in both tumor
+  components, whereas amplification of c-myc was observed less often in the sarcomatous
+  than in the carcinomatous tumor component. Analysis of the proliferation index using
+  Ki67 immunohistochemistry revealed a strong or moderate expression in all cases,
+  wherein the carcinomatous tumor component showed significantly a higher proliferation
+  index compared to the sarcomatous tumor areas. Although our results are in agreement
+  with a monoclonal origin of ovarian and uterine carcinosarcomas, the carcinomatous
+  component seems to be the more aggressive part of the tumor. Furthermore, the observed
+  patterns of genetic aberrations are highly similar to those of serous carcinomas.
+  This is compatible with the current opinion that these neoplasms should be considered
+  as metaplastic carcinomas.
+authors: Schipf A, Mayr D, Kirchner T and Diebold J.
+contact:
+  email: alexander.schipf@ksl.ch
+  name: Alexander Schipf
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18193277
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.31
+    - 47.05
+    type: Point
+  info:
+    city: Luzern
+    continent: Europe
+    country: Switzerland
+    label: Luzern, Switzerland, Europe
+    precision: city
+journal: 'Virchows Arch 452, 3 (2008): 259-68.'
+label: 'Schipf et al. (2008): Molecular Genetic Aberrations of Ovarian and Uterine
+  Carcinosarcomas--a Cgh and Fish ...'
+notes: ~
+pmid: 18193277
+title: Molecular Genetic Aberrations of Ovarian and Uterine Carcinosarcomas--a Cgh
+  and Fish Study.
+year: 2008

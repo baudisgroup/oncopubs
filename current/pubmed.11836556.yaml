@@ -1,0 +1,46 @@
+---
+abstract: We have applied the method of genomic microarray to investigate amplification
+  of oncogenes throughout the genome of nasopharyngeal carcinoma NPC . Array based
+  comparative genomic hybridization array CGH allows simultaneous examination of 58
+  oncogenes commonly amplified in various human cancers. In the present study, we
+  have examined 15 NPC samples including five cell lines, two xenografts and eight
+  primary tumours with array CGH to reveal the particular oncogenes associated with
+  this cancer. This is the first genome wide survey of multiple oncogene amplifications
+  involved in the development of NPC. Non-random gene amplifications were identified
+  for the first time in NPC on MYCL1 in 1p34.3 and on TERC and PIK3CA at 3q26.3. Other
+  high level amplified oncogenes included NRAS, RAF1, MYB, EGFR, FGF4, EMS1, and D17S167.
+  Highest frequencies of gain of novel oncogenes were detected on MYCL1 66.7 , TERC
+  46.7 , ESR 46.7 , PIK3CA 40 , LAMC2 33.3 , and CSE1L 33.3 .
+authors: Hui AB, Lo KW, Teo PM, To KF and Huang DP.
+contact:
+  email: b677750@mailserv.cuhk.edu.hk
+  name: D.P. Huang
+counts:
+  biosamples: 15
+  samples_acgh: 15
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11836556
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Int J Oncol 20, 3 (2002): 467-73.'
+label: 'Hui et al. (2002): Genome Wide Detection of Oncogene Amplifications in Nasopharyngeal
+  Carcinoma By Array Based ...'
+notes: aCGH was performed with the AmpliOnc I array (Vysis). This is not considered
+  for inclusion into the data base, due to the low probe number.
+pmid: 11836556
+title: Genome Wide Detection of Oncogene Amplifications in Nasopharyngeal Carcinoma
+  By Array Based Comparative Genomic Hybridization.
+year: 2002

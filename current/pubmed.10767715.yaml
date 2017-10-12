@@ -1,0 +1,51 @@
+---
+abstract: Despite the continuous progress in molecular methodology, the genetic events
+  involved in the initiation and progression of ductal adenocarcinoma of the pancreas
+  remain largely unknown. In this study, 33 pancreatic ductal adenocarcinomas were
+  screened for genomic alterations by comparative genomic hybridization CGH . To date,
+  most CGH studies of pancreatic cancer have been based on cell lines. To emphasize
+  genetic imbalances that are involved in the in vivo development and progression
+  of pancreatic carcinoma only fresh-frozen or paraffin-embedded tumour samples were
+  analysed in the present study. Twenty-two tumours 67 showed genomic alterations
+  involving up to three 12 or more 55 chromosomal regions. The number and nature of
+  the genetic imbalances did not, however, correlate with tumour stage or grade. Chromosome
+  18 was preferentially altered in the tumours analysed. Frequent chromosomal losses
+  were found at 18q, 10q, 8p, and 13q. Commonly gained regions were located on 8q
+  and 3q. Moreover, high copy number amplifications of the chromosomal regions 5p,
+  8q22-ter, 12p12-cen, 19q12-13.2, and 20q were identified. These data provide evidence
+  for the occurrence of characteristic genomic alterations which are of biological
+  relevance for the genesis of pancreatic cancer. The identified altered chromosomal
+  regions may harbour tumour genes which involved in the multistep process of pancreatic
+  carcinogenesis.
+authors: Schleger C, Arens N, Zentgraf H, Bleyl U and Verbeke C.
+contact:
+  email: ~
+  name: Christiane Schleger
+counts:
+  biosamples: 33
+  samples_acgh: 0
+  samples_ccgh: 33
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10767715
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.48
+    - 49.5
+    type: Point
+  info:
+    city: Mannheim
+    continent: Europe
+    country: Germany
+    label: Mannheim, Germany, Europe
+    precision: city
+journal: 'J Pathol 191, 1 (2000): 27-32.'
+label: 'Schleger et al. (2000): Identification of Frequent Chromosomal Aberrations
+  in Ductal Adenocarcinoma of the Pancreas By ...'
+notes: ~
+pmid: 10767715
+title: Identification of Frequent Chromosomal Aberrations in Ductal Adenocarcinoma
+  of the Pancreas By Comparative Genomic Hybridization (Cgh).
+year: 2000

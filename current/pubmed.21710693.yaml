@@ -1,0 +1,55 @@
+---
+abstract: Renal cell carcinoma RCC is an aggressive malignancy with limited responsiveness
+  to existing treatments. In vivo models of human cancer, including RCC, are critical
+  for developing more effective therapies. Unfortunately, current RCC models do not
+  accurately represent relevant properties of the human disease. The goal of this
+  study was to develop clinically relevant animal models of RCC for preclinical investigations.
+  We transplanted intact human tumour tissue fragments orthotopically in immunodeficient
+  mice. The xenografts were validated by comparing the morphological, phenotypic and
+  genetic characteristics of the kidney tumour tissues before and after implantation.
+  Twenty kidney tumours were transplanted into mice. Successful tumour growth was
+  detected in 19 cases 95 . The histopathological and immunophenotypic features of
+  the xenografts and those of the original tumours largely overlapped in all cases.
+  Evaluation of genetic alterations in a subset of 10 cases demonstrated that the
+  grafts largely retained the genetic features of the pre-implantation RCC tissues.
+  Indeed, primary tumours and corresponding grafts displayed identical VHL mutations.
+  Moreover, an identical pattern of DNA copy amplification or loss was observed in
+  6 10 cases 60 . In summary, orthotopic engrafting of RCC tissue fragments can be
+  successfully used to generate animal models that closely resemble RCC in patients.
+  These models will be invaluable for in vivo preclinical drug testing and for deeper
+  understanding of kidney carcinogenesis. The raw data of the SNP array analysis has
+  been submitted to the GEO database Accession No. GSE29062 .
+authors: Grisanzio C, Seeley A, Chang M, Collins M, Di Napoli A, Cheng SC, Percy A,
+  Beroukhim R and Signoretti S.
+contact:
+  email: ssignoretti@partners.org
+  name: Sabina Signoretti
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21710693
+- geo:GSE29062
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'J Pathol 225, 2 (2011): 212-21.'
+label: 'Grisanzio et al. (2011): Orthotopic Xenografts of Rcc Retain Histological,
+  Immunophenotypic and Genetic Features of ...'
+notes: ~
+pmid: 21710693
+title: Orthotopic Xenografts of Rcc Retain Histological, Immunophenotypic and Genetic
+  Features of Tumours in Patients.
+year: 2011

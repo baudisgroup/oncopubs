@@ -1,0 +1,51 @@
+---
+abstract: To identify genetic alterations underlying rectal carcinogenesis, we used
+  global gene expression profiling of a series of 17 locally advanced rectal adenocarcinomas
+  and 20 normal rectal mucosa biopsies on oligonucleotide arrays. A total of 351 genes
+  were differentially expressed P amp lt 1.0e-7 between normal rectal mucosa and rectal
+  carcinomas, 77 genes had a amp gt 5-fold difference, and 85 genes always had at
+  least a 2-fold change in all of the matched samples. Twelve genes satisfied all
+  three of these criteria. Altered expression of genes such as PTGS2 COX-2 , WNT1,
+  TGFB1, VEGF, and MYC was confirmed, whereas our data for other genes, like PPARD
+  and LEF1, were inconsistent with previous reports. In addition, we found deregulated
+  expression of many genes whose involvement in rectal carcinogenesis has not been
+  reported. By mapping the genomic imbalances in the tumors using comparative genomic
+  hybridization, we could show that DNA copy number gains of recurrently aneuploid
+  chromosome arms 7p, 8q, 13q, 18q, 20p, and 20q correlated significantly with their
+  average chromosome arm expression profile. Taken together, our results show that
+  both the high-level, significant transcriptional deregulation of specific genes
+  and general modification of the average transcriptional activity of genes residing
+  on aneuploid chromosomes coexist in rectal adenocarcinomas.
+authors: Grade M, Ghadimi BM, Varma S, Simon R, Wangsa D, Barenboim-Stapleton L, Liersch
+  T, Becker H, Ried T and Difilippantonio MJ.
+contact:
+  email: difilipm@mail.nih.gov
+  name: M. J. Difilippantonio
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16397240
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Cancer Res 66, 1 (2006): 267-82.'
+label: 'Grade et al. (2006): Aneuploidy-Dependent Massive Deregulation of the Cellular
+  Transcriptome and Apparent Divergence of ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 16397240
+title: Aneuploidy-Dependent Massive Deregulation of the Cellular Transcriptome and
+  Apparent Divergence of the Wnt/Beta-Catenin Signaling Pathway in Human Rectal Carcinomas.
+year: 2006

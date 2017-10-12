@@ -1,0 +1,51 @@
+---
+abstract: Extranodal natural killer-/T-cell lymphoma, nasal type (ENKTCL-NT) is a
+  highly aggressive lymphoma and prognosis is usually poor. The genetic background
+  of primary cutaneous cases is poorly understood.  We sought to evaluate the clinicopathologic
+  features of cutaneous ENKTCL-NT, and the prognostic significance of genomic copy
+  number alterations.  Eight cases of cutaneous ENKTCL-NT (5 primary, 2 secondary,
+  1 no staging performed), including 2 patients with an unusually prolonged course
+  of 5 and 23 years, were investigated using array comparative genomic hybridization.  All
+  patients presented with typical clinicopathologic features. Epstein-Barr virus was
+  found in neoplastic cells in all specimens. Copy number alterations were detected
+  in all 8 cases with losses on 6qï¿½(37.5%ï¿½ofï¿½cases) and 7p (37.5% of cases),
+  and gains on 7q (37.5% of cases) being the most frequent. Complexity of array comparative
+  genomic hybridization profile did not correlate with the course of the disease.
+  However, an increase of copy number alterations was detected in sequential biopsy
+  specimens of 1ï¿½long-term survivor.  This was a small case series retrospective
+  study.  Clinicopathologic features of cutaneous ENKTCL-NT are distinctive. Lower
+  number ofï¿½copyï¿½number alterations cannot be used as predictor for prolonged
+  survival in cutaneous ENKTCL-NT.  Copyright ï¿½ 2013 American Academy of Dermatology,
+  Inc. Published by Mosby, Inc. All rights reserved.
+authors: Fried I, Artl M, Cota C, Mï¿½ller H, Bartolo E, Boi S, Chiarelli C, Vale
+  E, Schmuth M, Wiesner T, Speicher MR and Cerroni L
+contact:
+  email: lorenzo.cerroni@medunigraz.at
+  name: Lorenzo Cerroni
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24433873
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: Europe
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: J. Am. Acad. Dermatol. 70(4), 2014
+label: 'Fried I et al. (2014): '
+notes: ~
+pmid: 24433873
+title: Clinicopathologic and molecular features in cutaneous extranodal natural killer-/T-cell
+  lymphoma, nasal type, with aggressive and indolent course.
+year: 2014

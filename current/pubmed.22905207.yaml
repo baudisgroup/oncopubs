@@ -1,0 +1,50 @@
+---
+abstract: We hypothesized that analysis of single nucleotide polymorphism arrays SNP-A
+  and new molecular defects may provide new insight in the pathogenesis of systemic
+  mastocytosis SM . SNP-A karyotyping was applied to identify recurrent areas of loss
+  of heterozygosity and bidirectional sequencing was performed to evaluate the mutational
+  status of TET2, DNMT3A, ASXL1, EZH2, IDH1 IDH2 and the CBL gene family. Overall
+  survival OS was analyzed using the Kaplan-Meier method. We studied a total of 26
+  patients with SM. In 67 of SM patients, SNP-A karyotyping showed new chromosomal
+  abnormalities including uniparental disomy of 4q and 2p spanning TET2 KIT and DNMT3A.
+  Mutations in TET2, DNMT3A, ASXL1 and CBL were found in 23 , 12 , 12 , and 4 of SM
+  patients, respectively. No mutations were observed in EZH2 and IDH1 IDH2. Significant
+  differences in OS were observed for SM mutated patients grouped based on the presence
+  of combined TET2 DNMT3A ASXL1 mutations independent of KIT P 0.04 and sole TET2
+  mutations P amp lt 0.001 . In conclusion, TET2, DNMT3A and ASXL1 mutations are also
+  present in mastocytosis and these mutations may affect prognosis, as demonstrated
+  by worse OS in mutated patients.
+authors: Traina F, Visconte V, Jankowska AM, Makishima H, OKeefe CL, Elson P, Han
+  Y, Hsieh FH, Sekeres MA, Mali RS, Kalaycio M, Lichtin AE, Advani AS, Duong HK, Copelan
+  E, Kapur R, Olalla Saad ST, Maciejewski JP and Tiu RV.
+contact:
+  email: tiur@ccf.org
+  name: Ramon Tiu
+counts:
+  biosamples: 18
+  samples_acgh: 18
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22905207
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: North America
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: 'PLoS One 7, 8 (2012): e43090.'
+label: 'Traina et al. (2012): Single Nucleotide Polymorphism Array Lesions, Tet2,
+  Dnmt3A, Asxl1 and Cbl Mutations Are Present in ...'
+notes: ~
+pmid: 22905207
+title: Single Nucleotide Polymorphism Array Lesions, Tet2, Dnmt3A, Asxl1 and Cbl Mutations
+  Are Present in Systemic Mastocytosis.
+year: 2012

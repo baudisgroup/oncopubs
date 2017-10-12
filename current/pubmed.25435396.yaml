@@ -1,0 +1,52 @@
+---
+abstract: 'Cytogenetic classification of acute lymphoblastic leukemia (ALL) is primarily
+  based on numerical and structural chromosomal abnormalities. In T-cell ALL (T-ALL),
+  chromosomal rearrangements are identified in up to 70% of the patients while the
+  remaining patients show a normal karyotype. In the present study, a 16-year-old
+  male was diagnosed with T-precursor cell ALL and a normal karyotype after standard
+  GTG-banding, was studied retrospectively (>10 years after diagnosis) in frame of
+  a research project by molecular approaches. In addition to molecular cytogenetics,
+  multiplex ligation-dependent probe amplification (MLPA) and high resolution array-comparative
+  genomic hybridization (aCGH) were also applied. Thus, the following yet unrecognized
+  balanced chromosomal aberrations were detected: der(3)t(3;5)(p23;q31.1), der(5)t(3;5)(p23;q35.3),
+  der(5)t(5;10)(q31.1;p12.3) and der(10)t(5;10)(q35.3;p12.3). The oncogene MLLT10
+  was involved in this rearrangement as was the IL3 gene; in addition, trisomy 4 was
+  present. All of these clonal aberrations were found in 40% of the cells. Even if
+  this complex karyotype would have been identified at the time of diagnosis, most
+  likely no other protocol of anticancer therapy (ALL-BFM 95) would have been applied.
+  Three months after the end of a successful 2-year treatment, the patient suffered
+  from isolated bone marrow relapse and died of sepsis during ALL-REZ-BFM protocol
+  treatment.'
+authors: Othman MA, Melo JB, Carreira IM, Rincic M, Alhourani E, Wilhelm K, Gruhn
+  B, Glaser A and Liehr T
+contact:
+  email: thomas.liehr@med.uni-jena.de
+  name: Thomas Liehr
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25435396
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: Oncol. Rep. 33(2), 2015
+label: 'Othman MA et al. (2015): '
+notes: ~
+pmid: 25435396
+title: 'MLLT10 and IL3 rearrangement together with a complex four-way translocation
+  and trisomy 4 in a patient with early T-cell precursor acute lymphoblastic leukemia:
+  A case report.'
+year: 2015

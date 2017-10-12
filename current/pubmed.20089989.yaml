@@ -1,0 +1,61 @@
+---
+abstract: Abnormalities in nuclear phenotype and chromosome structure are key features
+  of cancer cells. Investigation of the protein determinants of nuclear subfractions
+  in cancer may yield molecular insights into aberrant chromosome function and chromatin
+  organization and in addition may yield biomarkers for early cancer detection. Here
+  we evaluate a proteomics work flow for profiling protein constituents in subnuclear
+  domains in colorectal cancer tissues and apply this work flow to a comparative analysis
+  of the nuclear matrix fraction in colorectal adenoma and carcinoma tissue samples.
+  First, we established the reproducibility of the entire work flow. In a reproducibility
+  analysis of three nuclear matrix fractions independently isolated from the same
+  colon tumor homogenate, 889 of 1,047 proteins 85 were reproducibly identified at
+  high confidence minimally two peptides per protein at 99 confidence interval at
+  the protein level with an average coefficient of variance for the number of normalized
+  spectral counts per protein of 30 . This indicates a good reproducibility of the
+  entire work flow from biochemical isolation to nano-LC-MS MS analysis. Second, using
+  spectral counting combined with statistics, we identified proteins that are significantly
+  enriched in the nuclear matrix fraction relative to two earlier fractions the chromatin-binding
+  and intermediate filament fractions isolated from six colorectal tissue samples.
+  The total data set contained 2,059 non-redundant proteins. Gene ontology mining
+  and protein network analysis of nuclear matrix-enriched proteins revealed enrichment
+  for proteins implicated in amp quot RNA processing amp quot and amp quot mRNA metabolic
+  process. amp quot Finally, an explorative comparison of the nuclear matrix proteome
+  in colorectal adenoma and carcinoma tissues revealed many proteins previously implicated
+  in oncogenesis as well as new candidates. A subset of these differentially expressed
+  proteins also exhibited a corresponding change at the mRNA level. Together, the
+  results show that subnuclear proteomics of tumor tissue is feasible and a promising
+  avenue for exploring oncogenesis.
+authors: Albrethsen J, Knol JC, Piersma SR, Pham TV, de Wit M, Mongera S, Carvalho
+  B, Verheul HM, Fijneman RJ, Meijer GA and Jimenez CR.
+contact:
+  email: ~
+  name: Connie Jimenez
+counts:
+  biosamples: 82
+  samples_acgh: 82
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20089989
+- geo:GSE8067
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Mol Cell Proteomics 9, 5 (2010): 988-1005.'
+label: 'Albrethsen et al. (2010): Subnuclear Proteomics in Colorectal Cancer: Identification
+  of Proteins Enriched in the Nuclear ...'
+notes: ~
+pmid: 20089989
+title: 'Subnuclear Proteomics in Colorectal Cancer: Identification of Proteins Enriched
+  in the Nuclear Matrix Fraction and Regulation in Adenoma to Carcinoma Progression.'
+year: 2010

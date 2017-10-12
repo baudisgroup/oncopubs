@@ -1,0 +1,50 @@
+---
+abstract: "In this study, we analyzed the prevalence and clone size of BRAF V600E
+  mutation in 209 patients with multiple myeloma and related the results to clinical
+  phenotype, response and survival. Biopsies were screened for BRAF V600E by allele-specific
+  real-time PCR (AS-PCR). Positive results were confirmed by immunohistochemistry,
+  Sanger sequencing and, in three patients from whom we had stored purified myeloma
+  cells, whole-exome sequencing. Eleven patients (5.3%) were BRAF V600E mutation positive
+  by AS-PCR and at least one other method. The fraction of mutated cells varied from
+  4 to 100%. BRAF V600E-positive patients had no characteristic clinical phenotype
+  except for significantly higher levels of serum creatinine (125 versus 86â\x80\x89Î¼mol/l)
+  Seven of eleven patients responded with at least very good partial response to alkylators,
+  immunomodulatory agents or proteasome inhibitors. Progression-free and overall survival
+  were similar in patients with and without the mutation. By this integrated approach,
+  we found that patients with BRAF V600E mutation responded very well to broad acting
+  drugs and there was no relation to prognosis in early-stage myeloma. In particular,
+  a large mutated cell fraction did not correlate with aggressive disease."
+authors: Rustad EH, Dai HY, Hov H, Coward E, Beisvag V, Myklebost O, Hovig E, Nakken
+  S, Vodï¿½k D, Meza-Zepeda LA, Sandvik AK, Wader KF, Misund K, Sundan A, Aarset H
+  and Waage A
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 3
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25794135
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.4
+    - 63.43
+    type: Point
+  info:
+    city: Trondheim
+    continent: Europe
+    country: Norway
+    label: Trondheim, Norway, Europe
+    precision: city
+journal: Blood Cancer J 5, 2015
+label: 'Rustad et al. (): BRAF V600E mutation in early-stage multiple myeloma: good
+  response to broad acting drugs and no ...'
+notes: ~
+pmid: 25794135
+title: 'BRAF V600E mutation in early-stage multiple myeloma: good response to broad
+  acting drugs and no relation to prognosis.'
+year: 2015

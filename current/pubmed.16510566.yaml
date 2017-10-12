@@ -1,0 +1,50 @@
+---
+abstract: The vast majority of colorectal cancers display genetic instability, either
+  in the chromosomal instability CIN or microsatellite instability MIN forms. Although
+  CIN tumors are per definition aneuploid, MIN colorectal cancers, caused by loss
+  of mismatch repair function, are usually near diploid. Recently, biallelic germ
+  line mutations in the MYH gene were found to be responsible for MYH-associated polyposis
+  MAP , an autosomal recessive predisposition to multiple colorectal polyps, often
+  indistinguishable from the dominant familial adenomatous polyposis FAP syndrome
+  caused by inherited APC mutations. Here, we analyzed MYH- and APC-mutant polyps
+  by combining laser capture microdissection, isothermal genomic DNA amplification,
+  and array comparative genomic hybridization. Smoothed quantile regression methods
+  were applied to the MAP and FAP genomic profiles to discriminate chromosomes predominantly
+  affected by gains and losses. Up to 80 and 60 of the MAP and FAP polyps showed aneuploid
+  changes, respectively. Both MAP and FAP adenomas were characterized by frequent
+  losses at chromosome 1p, 17, 19, and 22 and gains affecting chromosomes 7 and 13.
+  The aneuploid changes detected at early stages of MYH-driven tumorigenesis may underlie
+  accelerated tumor progression, increased cancer risk, and poor prognosis in MAP.
+authors: Cardoso J, Molenaar L, de Menezes RX, van Leerdam M, Rosenberg C, Moslein
+  G, Sampson J, Morreau H, Boer JM and Fodde R.
+contact:
+  email: r.fodde@erasmusmc.nl
+  name: Riccardo Fodde
+counts:
+  biosamples: 73
+  samples_acgh: 73
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16510566
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Res 66, 5 (2006): 2514-19.'
+label: 'Cardoso et al. (2006): Chromosomal Instability in Myh- and Apc-Mutant Adenomatous
+  Polyps.'
+notes: Data was extracted fom the supplementary material. The data of 3 normal mucosa
+  samples (no aberrations) was not included.
+pmid: 16510566
+title: Chromosomal Instability in Myh- and Apc-Mutant Adenomatous Polyps.
+year: 2006

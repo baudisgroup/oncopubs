@@ -1,0 +1,48 @@
+---
+abstract: Comparative genomic hybridization CGH analyses were performed on 27 human
+  pleural mesothelioma tumour specimens, consisting of 18 frozen tumours and nine
+  paraffin-embedded tumours, to screen for gains and losses of DNA sequences. Copy
+  number changes were detected in 15 of the 27 specimens with a range from one to
+  eight per specimen. On average, more losses than gains of genetic material were
+  observed. The loss of DNA sequences occurred most commonly in the short arm of chromosome
+  9 p21-pter , in 60 of the abnormal specimens. Other losses among the abnormal specimens
+  were frequently detected in the long arms of chromosomes 4 q31.1-qter, 20 , 6 q22-q24,
+  33 , 13 33 ,14 q24-qter, 33 and 22 q13, 20 . A gain in DNA sequences was found in
+  the long arm of chromosome 1 cen-qter in 33 of the abnormal specimens. Our analysis
+  is the first genome-wide screening for gains and losses of DNA sequences using comparative
+  genomic hybridization in malignant pleural mesothelioma tumours. The recurrent DNA
+  sequence changes detected in this study suggest that the corresponding chromosomal
+  areas most probably contain genes important for the initiation and progression of
+  mesothelioma.
+authors: Bjorkqvist AM, Tammilehto L, Anttila S, Mattson K and Knuutila S.
+contact:
+  email: ~
+  name: NA Knuutila
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9052404
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Br J Cancer 75, 4 (1997): 523-27.'
+label: 'Bjorkqvist et al. (1997): Recurrent DNA Copy Number Changes in 1q, 4q, 6q,
+  9p, 13q, 14q and 22q Detected By Comparative ...'
+notes: ~
+pmid: 9052404
+title: Recurrent DNA Copy Number Changes in 1q, 4q, 6q, 9p, 13q, 14q and 22q Detected
+  By Comparative Genomic Hybridization in Malignant Mesothelioma.
+year: 1997

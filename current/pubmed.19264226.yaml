@@ -1,0 +1,49 @@
+---
+abstract: Gastric adenocarcinoma is a serious public health concern, especially in
+  northern Brazil. Gastric cancer can be subdivided into diffuse and intestinal types.
+  Genetic imbalances in diffuse-type gastric cancer remain largely unknown. In the
+  present study, we analyzed 24 advanced diffuse-type gastric cancer samples from
+  northern Brazil subjects using high-resolution comparative genomic hybridization.
+  We found chromosomal alterations in 75 of samples. In cancers with aneusomies, the
+  mean genomic copy number alteration was 6.4. Losses of chromosome regions exceeded
+  gains. The most frequent losses were located at chromosome regions 11q and 18q five
+  samples for each region , 1pq, 3q, 4q, 5q, 13q, and 14q four samples , followed
+  by 2pq, 7p, 9pq, 11p, and 16p three samples . Our results confirm that gastric cancer
+  has a complex pattern of chromosomal alterations that can be due to general chromosomal
+  instability related to the advanced stage of gastric carcinogenesis. Loss of 11q
+  and 18q were the most frequent chromosomal changes in diffuse-type gastric adenocarcinoma
+  in individuals from northern Brazil. Frequent loss of 11q chromosome region in this
+  gastric cancer may be peculiar among this population.
+authors: Takeno SS, Leal MF, Lisboa LC, Lipay MV, Khayat AS, Assumpcao PP, Burbano
+  RR and Smith Mde A.
+contact:
+  email: macsmith.morf@epm.br
+  name: Marilia de Arruda Cardoso Smith
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19264226
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: 'Cancer Genet Cytogenet 190, 1 (2009): 1-7.'
+label: 'Takeno et al. (2009): Genomic Alterations in Diffuse-Type Gastric Cancer as
+  Shown By High-Resolution Comparative Genomic ...'
+notes: ~
+pmid: 19264226
+title: Genomic Alterations in Diffuse-Type Gastric Cancer as Shown By High-Resolution
+  Comparative Genomic Hybridization.
+year: 2009

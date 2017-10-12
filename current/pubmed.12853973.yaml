@@ -1,0 +1,51 @@
+---
+abstract: Tumors with defects in mismatch repair MMR show fewer chromosomal changes
+  by cytogenetic analyses than most solid tumors, suggesting that a greater proportion
+  of the alterations required for malignancy occur in genes with nucleotide sequences
+  susceptible to errors normally corrected by MMR. Here, we used genome-wide microarray
+  comparative genomic hybridization to carry out a higher resolution evaluation of
+  the effect of MMR competence on genomic alterations occurring in 20 cell lines and
+  to determine if characteristic aberrations arise in MMR-proficient and -deficient
+  HCT116 cells undergoing selection for methotrexate resistance. We observed different
+  spectra of aberrations in MMR-proficient compared to -deficient cell lines, as well
+  as among cell lines with different types of MMR-deficiency. We also observed different
+  genetic routes to drug resistance. Resistant MMR-deficient cells most frequently
+  displayed no copy number alterations 16 29 cell pools , whereas all MMR-proficient
+  cells had unique abnormalities involving chromosome 5, including amplicons centered
+  on the target gene, DHFR and or a neighboring novel locus 7 13 pools . These observations
+  support the concept that tumor genomes are shaped by selection for alterations that
+  promote survival and growth advantage, as well as by the particular dysfunctions
+  in genes responsible for maintenance of genetic integrity.
+authors: Snijders AM, Fridlyand J, Mans DA, Segraves R, Jain AN, Pinkel D and Albertson
+  DG.
+contact:
+  email: albertson@cc.ucsf.edu
+  name: Donna G. Albertson
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12853973
+- geo:GSE7274
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Oncogene 22, 28 (2003): 4370-79.'
+label: 'Snijders et al. (2003): Shaping of Tumor and Drug-Resistant Genomes By Instability
+  and Selection.'
+notes: ~
+pmid: 12853973
+title: Shaping of Tumor and Drug-Resistant Genomes By Instability and Selection.
+year: 2003

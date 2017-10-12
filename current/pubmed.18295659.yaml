@@ -1,0 +1,53 @@
+---
+abstract: EWS-ERG Ewing sarcoma ES gene fusions often result from complex chromosomal
+  rearrangements. We report an unusually aggressive case of ES with an EWS-ERG fusion
+  gene that appeared to be a result of a simple balanced and reciprocal translocation,
+  t 19 22 q13.2 q12.2 . Subsequent molecular investigation of the primary tumor, the
+  metastasis, and a cell line generated from this ES permitted reconstruction of each
+  genomic step in the evolution of this complex EWS-ERG fusion. We elucidated a new
+  mechanism of reciprocal insertion inversion between chromosome 21 and 22, involving
+  cryptic alterations to both the ERG and EWS genes. Molecular cytogenetic investigation,
+  using systematic analysis with locus-specific probes, identified the cognate genomic
+  breakpoints within chromosome 21 and 22, mandatory for the excision and exchange
+  of both 3ERG and 3EWS, resulting in the formation of the EWS-ERG fusion gene present
+  on the der 22 . Array comparative genomic hybridization and fluorescence in situ
+  hybridization studies of the ES cell line derived from this tumor identified additional
+  acquired chromosomal and genomic abnormalities, likely associated with establishment
+  and adaptation to in vitro growth. Notably, the cell line had lost one copy of the
+  RB1 gene within the 13q13.1 approximately q14.2 region, and also had a near-tetraploid
+  karyotype. The significance of these findings and their relationship to other reports
+  of variant and complex ES translocations involving the ERG gene are reviewed.
+authors: Maire G, Brown CW, Bayani J, Pereira C, Gravel DH, Bell JC, Zielenska M and
+  Squire JA.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18295659
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 181, 2 (2008): 81-92.'
+label: 'Maire et al. (2008): Complex Rearrangement of Chromosomes 19, 21, and 22 in
+  Ewing Sarcoma Involving a Novel Reciprocal ...'
+notes: ~
+pmid: 18295659
+title: 'Complex Rearrangement of Chromosomes 19, 21, and 22 in Ewing Sarcoma Involving
+  a Novel Reciprocal Inversion-Insertion Mechanism of Ews-Erg Fusion Gene Formation:
+  A Case Analysis and Literature Review.'
+year: 2008

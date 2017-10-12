@@ -1,0 +1,46 @@
+---
+abstract: Molecular cytogenetics is helpful to identify complex and cryptic genomic
+  changes in malignancy. Human leukemic cell lines are an important tool for advancements
+  of biological research on malignant cells, one critical step being characterization
+  of genomic changes. We used fluorescence in situ hybridization and comparative genomic
+  hybridization to refine karyotypic interpretation of the diffuse histiocytic lymphoma
+  derived U937-1 cell line. From this integrated approach, chromosome material involved
+  in nine karyotypic markers and in unbalanced translocations could be identified.
+  Moreover, a previously undetected amplicon emerged within band 6p21. The U937-I
+  is a new in vitro model to study genome amplification and unknown recombinations
+  in leukemic cells, such as those involving the centromeric region of chromosome
+  1.
+authors: Matteucci C, La Starza R, Crescenzi B, Falzetti D, Romoli S, Emiliani C,
+  Orlacchio A, Marynen P, Martelli MF and Mecucci C.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12072200
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.39
+    - 43.11
+    type: Point
+  info:
+    city: Perugia
+    continent: Europe
+    country: Italy
+    label: Perugia, Italy, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 135, 1 (2002): 28-34.'
+label: 'Matteucci et al. (2002): Interpretation of the Complex Karyotype and Identification
+  of a New 6p Amplicon By Integrated ...'
+notes: ~
+pmid: 12072200
+title: Interpretation of the Complex Karyotype and Identification of a New 6p Amplicon
+  By Integrated Comparative Genomic Hybridization and Fluorescence in Situ Hybridization
+  on the U937-I Cell Line.
+year: 2002

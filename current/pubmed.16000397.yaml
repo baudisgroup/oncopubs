@@ -1,0 +1,54 @@
+---
+abstract: Hepatocellular carcinoma HCC is one of the major malignancies worldwide.
+  We have previously characterized global gene expression patterns in HCC using microarrays.
+  Here, we report the analysis of genomic DNA copy number among 49 HCC samples using
+  BAC array-based comparative genomic hybridization CGH . We observed recurrent and
+  characteristic chromosomal aberrations, including frequent DNA copy number gains
+  of 1q, 6p, 8q and 20q, and losses of 4q, 8p, 13q, 16q and 17p. We correlated gene
+  expression with array CGH data, and identified a set of genes whose expression levels
+  correlated with common chromosomal aberrations in HCC. Especially, we noticed that
+  high expression of Jab1 in HCC significantly correlated with DNA copy number gain
+  at 8q. Quantitative microsatellite analysis further confirmed DNA copy number gain
+  at the Jab1 locus. Overexpression of Jab1 in HCC was also validated using real-time
+  RT-PCR, and Jab1 protein levels were studied by immunohistochemistry on tissue microarrays.
+  Functional analysis in HCC cell lines demonstrated that Jab1 may regulate HCC cell
+  proliferation, thereby having a potential role in HCC development. In conclusion,
+  this study shows that array-based CGH provides high resolution mapping of chromosomal
+  aberrations in HCC, and demonstrates the feasibility of correlating array CGH data
+  with gene expression data to identify novel oncogenes and tumor suppressor genes.
+authors: Patil MA, Gutgemann I, Zhang J, Ho C, Cheung ST, Ginzinger D, Li R, Dykema
+  KJ, So S, Fan ST, Kakar S, Furge KA, Buttner R and Chen X.
+contact:
+  email: chenx@pharmacy.ucsf.edu
+  name: X. chen
+counts:
+  biosamples: 49
+  samples_acgh: 49
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16000397
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Carcinogenesis 26, 12 (2005): 2050-57.'
+label: 'Patil et al. (2005): Array-Based Comparative Genomic Hybridization Reveals
+  Recurrent Chromosomal Aberrations and Jab1 as ...'
+notes: The data was transcribed from the original array ratio data, with automatic
+  generation of a pseudo rev ish annotation. For generation of the segments, the Bioconductor
+  DNAcopy package was used. Cases HK3 and SF4 and were directly transcribed on a clone-by-clone
+  basis, according to ratio thresholds.
+pmid: 16000397
+title: Array-Based Comparative Genomic Hybridization Reveals Recurrent Chromosomal
+  Aberrations and Jab1 as a Potential Target for 8q Gain in Hepatocellular Carcinoma.
+year: 2005

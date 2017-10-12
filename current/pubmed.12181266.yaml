@@ -1,0 +1,49 @@
+---
+abstract: Comparative genomic hybridization CGH is a molecular cytogenetic technique
+  that provides an overview on chromosomal imbalances within the whole tumor cell
+  genome. This method has yet not been applied in effusion cytology. We performed
+  CGH analysis in malignant effusions, fine needle aspirates, and imprint smears from
+  eight ovarian adenocarcinomas, three breast carcinomas, one colon adenocarcinoma,
+  and three malignant mesotheliomas. In part, CGH analysis from fresh frozen tissue
+  and classic karyotyping served as controls. In this series, 14 15 cytologic specimens
+  were suitable for extraction of high molecular weight DNA sufficient for reliable
+  CGH analysis. CGH profiles from cytologic material were equal or even more significant
+  in comparison with corresponding fresh frozen tumor samples. We conclude that CGH
+  analysis from cytologic specimens may support the primary cytologic diagnosis of
+  malignancy, especially in the differential diagnosis of benign proliferating mesothelium,
+  malignant mesothelioma, and metastatic adenocarcinoma. CGH analysis of metastatic
+  lesions may provide information on the site of the primary tumors and detects cytogenetic
+  imbalances affecting oncogenes and tumor suppressor genes involved in tumor progression
+  and metastatic spread.
+authors: Nagel H, Schulten HJ, Gunawan B, Brinck U and Fuzesi L.
+contact:
+  email: ~
+  name: H Nagel
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12181266
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Mod Pathol 15, 8 (2002): 818-25.'
+label: 'Nagel et al. (2002): The Potential Value of Comparative Genomic Hybridization
+  Analysis in Effusion-and Fine Needle ...'
+notes: ~
+pmid: 12181266
+title: The Potential Value of Comparative Genomic Hybridization Analysis in Effusion-and
+  Fine Needle Aspiration Cytology.
+year: 2002

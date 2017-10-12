@@ -1,0 +1,42 @@
+---
+abstract: Bilharzia-associated bladder cancer BAC is a major health problem in countries
+  where urinary schistosomiasis is endemic. Characterization of the genetic alterations
+  in this cancer might enhance our understanding of the pathogenic mechanisms of the
+  disease but, in contrast to nonbilharzia bladder cancer, BAC has rarely been the
+  object of such scrutiny. In the present study, we aimed to characterize chromosomal
+  imbalances in benign and malignant post-bilharzial lesions, and to determine whether
+  their unique etiology yields a distinct cytogenetic profile as compared to chemically
+  induced bladder tumors.
+authors: Fadl-Elmula I, Kytola S, Leithy ME, Abdel-Hameed M, Mandahl N, Elagib A,
+  Ibrahim M, Larsson C and Heim S.
+contact:
+  email: sverre.heim@labmed.uio.no
+  name: Sverre Heim
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11914143
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'BMC Cancer 2 (2002): 5.'
+label: 'Fadl-Elmula et al. (2002): Chromosomal Aberrations in Benign and Malignant
+  Bilharzia-Associated Bladder Lesions Analyzed ...'
+notes: ~
+pmid: 11914143
+title: Chromosomal Aberrations in Benign and Malignant Bilharzia-Associated Bladder
+  Lesions Analyzed By Comparative Genomic Hybridization.
+year: 2002

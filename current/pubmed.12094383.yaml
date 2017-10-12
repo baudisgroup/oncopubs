@@ -1,0 +1,48 @@
+---
+abstract: Langerhans cell histiocytosis LCH is a disorder of unknown etiology that
+  gives rise to clonal expansion of Langerhans-like cells or their precursors. The
+  molecular basis include aberrant expression of several adhesion molecules and elevated
+  expression of p53, c-myc, and H-ras. To identify new locations of LCH-related oncogenes
+  or tumor-suppressor genes, we performed comparative genomic hybridization CGH and
+  loss of heterozygosity LOH analysis on a series of 7 bone LCH lesions. Recurrent
+  abnormalities were found by the CGH in all cases representing losses of DNA sequences
+  on chromosomes 1p, 5, 6, 7, 9, 16, 17, and 22q. Gain of DNA copy number was seen
+  on chromosomes 2q, 4q, and 12. The CGH data were supplemented by LOH analysis by
+  means of 85 polymorphic microsatellite markers distributed along chromosomes 1,
+  7, 9, and 22. The highest frequency of LOH was found on 1p region in 3 of 7 informative
+  cases and on chromosome 7 in 4 cases. Allelic loss was also detected on chromosomes
+  9 in 2 of 7 informative cases and on 22q in 1 of 7 cases. These results indicate
+  that the deleted chromosomal segments may contain genes important in LCH initiation
+  and progression.
+authors: Murakami I, Gogusev J, Fournet JC, Glorion C and Jaubert F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12094383
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Hum Pathol 33, 5 (2002): 555-60.'
+label: 'Murakami et al. (2002): Detection of Molecular Cytogenetic Aberrations in
+  Langerhans Cell Histiocytosis of ...'
+notes: ~
+pmid: 12094383
+title: Detection of Molecular Cytogenetic Aberrations in Langerhans Cell Histiocytosis
+  of Bone.
+year: 2002

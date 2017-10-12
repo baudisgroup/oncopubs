@@ -1,0 +1,61 @@
+---
+abstract: Hepatosplenic T-cell lymphoma HSTL is an aggressive lymphoma cytogenetically
+  characterized by isochromosome 7q i 7 q10 , of which the molecular consequences
+  remain unknown. We report here results of an integrative genomic and transcriptomic
+  expression microarray and RNA-sequencing study of six i 7 q10 -positive HSTL cases,
+  including HSTL-derived cell line DERL-2 , and three cases with ring 7 r 7 , the
+  recently identified rare variant aberration. Using high resolution array CGH, we
+  profiled all cases and mapped the common deleted region CDR at 7p22.1p14.1 34.88
+  Mb 3506316-38406226 bp and the common gained region CGR at 7q22.11q31.1 38.77 Mb
+  86259620-124892276 bp . Interestingly, CDR spans a smaller region of 13 Mb 86259620-99271246
+  bp constantly amplified in cases with r 7 . In addition, we found that TCRG 7p14.1
+  and TCRB 7q32 are involved in formation of r 7 , which seems to be a byproduct of
+  illegitimate somatic rearrangement of both loci. Further transcriptomic analysis
+  has not identified any CDR-related candidate tumor suppressor gene. Instead, loss
+  of 7p22.1p14.1 correlated with an enhanced expression of CHN2 7p14.1 and the encoded
+  beta2-chimerin. Gain and amplification of 7q22.11q31.1 are associated with an increased
+  expression of several genes postulated to be implicated in cancer, including RUNDC3B,
+  PPP1R9A and ABCB1, a known multidrug resistance gene. RNA-sequencing did not identify
+  any disease-defining mutation or gene fusion. Thus, chromosome 7 imbalances remain
+  the only driver events detected in this tumor. We hypothesize that the Delta7p22.1p14.1-associated
+  enhanced expression of CHN2 beta2-chimerin leads to downmodulation of the NFAT pathway
+  and a proliferative response, while upregulation of the CGR-related genes provides
+  growth advantage for neoplastic deltagammaT-cells and underlies their intrinsic
+  chemoresistance. Finally, our study confirms the previously described gene expression
+  profile of HSTL and identifies a set of 24 genes, including three located on chromosome
+  7 CHN2, ABCB1 and PPP1R9A , distinguishing HSTL from other malignancies.
+authors: Finalet Ferreiro J, Rouhigharabaei L, Urbankova H, van der Krogt JA, Michaux
+  L, Shetty S, Krenacs L, Tousseyn T, De Paepe P, Uyttebroeck A, Verhoef G, Taghon
+  T, Vandenberghe P, Cools J and Wlodarska I.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25057852
+- geo:GSE57943
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: 'PLoS One (2014) 9: e102977.'
+label: 'Finalet Ferreiro et al. (2014): Integrative genomic and transcriptomic analysis
+  identified candidate genes implicated in ...'
+notes: ~
+pmid: 25057852
+title: Integrative genomic and transcriptomic analysis identified candidate genes
+  implicated in the pathogenesis of hepatosplenic T-cell lymphoma.
+year: 2014

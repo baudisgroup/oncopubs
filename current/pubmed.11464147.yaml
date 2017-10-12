@@ -1,0 +1,49 @@
+---
+abstract: Individuals infected with HIV are at increased risk of developing aggressive
+  non-Hodgkins lymphoma with a worse prognosis than those similarly afflicted without
+  HIV infection. The underlying genetic differences in tumor behavior between these
+  two groups are not known. We explored the hypothesis that lymphomas from HIV-positive
+  individuals have distinct somatic genetic changes that may provide clues to the
+  genetic basis of disease progression and outcome. Genome-wide DNA copy number alterations
+  CNAs in primary tumors from 14 HIV-positive and 11 HIV-negative patients with diffuse
+  large B-cell lymphoma DLCL were quantified using comparative genomic hybridization
+  CGH . Tumors from HIV-positive patients displayed fewer regional DNA-CNAs than those
+  from patients who did not have HIV. When CNAs were present, they occurred at lower
+  frequency in HIV-positive patients. Gains at chromosomes 8q and Xp were the most
+  frequent changes in the HIV-negative group, and gains on 2p and 12q were common
+  in the combined HIV-positive and HIV-negative groups. No alteration was specific
+  to AIDS-related DLCL. These data suggest that fewer somatic genomic changes are
+  needed for progression to DLCL in HIV-immunocompromised hosts, and that other factors,
+  such as reduced immune surveillance, may contribute to neoplastic progression.
+authors: Tiirikainen MI, Mullaney BP, Holly EA, Pallavicini MG and Jensen RH.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11464147
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'J Acquir Immune Defic Syndr 27, 3 (2001): 272-76.'
+label: 'Tiirikainen et al. (2001): DNA Copy Number Alterations in Hiv-Positive and
+  Hiv-Negative Patients With Diffuse Large-Cell ...'
+notes: ~
+pmid: 11464147
+title: DNA Copy Number Alterations in Hiv-Positive and Hiv-Negative Patients With
+  Diffuse Large-Cell Lymphomas.
+year: 2001

@@ -1,0 +1,49 @@
+---
+abstract: 'To gain an understanding of the molecular mechanisms of ovarian cancer,
+  we analyzed 16 ovarian tumors from Jewish Israeli patients by comparative genomic
+  hybridization: 12 invasive epithelial tumors including three BRCA1 and one BRCA2
+  mutation carriers , 2 primary peritoneal carcinomatosis, 1 pseudomyxoma peritoneii
+  tumor, and 1 sertoli cell tumor. We similarly analyzed 1 normal ovary from a BRCA1
+  mutation carrier, and 3 metastases. The most common abnormalities in epithelial
+  tumors were amplification of 8q22.1-ter 8 12, 66.6 , 1q22-32.1 5 12, 41.6 , 3q,
+  10p 4 12, 33.3 for each , and deletions of 9q 5 12, 41.6 and 16q21-24 4 12, 33.3
+  . All 3 BRCA1 mutation carriers and 2 of 8 sporadic cases displayed 9q deletion,
+  and 2 of 3 BRCA1 mutation carriers, but none of the sporadic cases, had deletion
+  of chromosome 19. The range of genetic changes in primary peritoneal tumors and
+  epithelial ovarian cancers was similar, though the mean number of alterations in
+  the former was less 3.5 tumor versus 8 tumor . Our preliminary results may indicate
+  that inherited predisposition to ovarian cancer possibly entails preferential somatic
+  deletions of chromosomes 9 and 19.'
+authors: Patael-Karasik Y, Daniely M, Gotlieb WH, Ben-Baruch G, Schiby J, Barakai
+  G, Goldman B, Aviram A and Friedman E.
+contact:
+  email: ~
+  name: Eitan Friedman
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10958937
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.79
+    - 31.97
+    type: Point
+  info:
+    city: Rishon LeZiyyon
+    continent: Asia
+    country: Israel
+    label: Rishon LeZiyyon, Israel, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 121, 1 (2000): 26-32.'
+label: 'Patael-Karasik et al. (2000): Comparative Genomic Hybridization in Inherited
+  and Sporadic Ovarian Tumors in ...'
+notes: ~
+pmid: 10958937
+title: Comparative Genomic Hybridization in Inherited and Sporadic Ovarian Tumors
+  in Israel.
+year: 2000

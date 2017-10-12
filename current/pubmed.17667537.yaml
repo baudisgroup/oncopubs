@@ -1,0 +1,60 @@
+---
+abstract: 'Thymic carcinomas are rare malignant neoplasms which comprise several histologic
+  subtypes. Adenoid cystic carcinoma ACC is included among these subtypes even if
+  it has never been formally reported. We evaluated the clinical, radiologic, morphologic,
+  immunohistochemical, and genetic features of 4 cases of thymic neoplasms with ACC-like
+  features retrieved from the authors consult files. Most cases affected adult elderly
+  males mean 68.5 y range: 63 to 77 y M:F ratio 3:1 , and were asymptomatic. The clinical
+  history no evidence of ACC in other sites , radiologic findings a mass in the thymic
+  region , and morphologic features residual thymic tissue at the periphery of the
+  neoplasm strongly supported their primary thymic nature. Grossly, most of the tumors
+  presented as multicystic lesions. On microscopic examination there were true glandular
+  spaces filled with periodic acid-Schiff material, and pseudocysts containing stromal
+  mucin, collagen IV, and laminin. Features favoring malignancy were overtly infiltrative
+  margins 2 4 , mitotic figures 2 4 , cytologic atypia 1 4 , vascular invasion 1 4
+  , absence of organoid thymuslike pattern 4 4 , and absence of immature TdT T lymphocytes
+  3 3 . Necrosis and nerve invasion were not observed. The tumor cells showed the
+  following immunophenotype: p63 3 3 , CK34betaE12 3 3 , CD5 in scattered cells 1
+  3 , CD117- 3 3 , chromogranin- 2 2 , synaptophysin- 2 2 , and CD56- 2 2 . MIB-1
+  ranged from 1 to 10 . Comparative genomic hybridization revealed an isolated gain
+  of chromosome 8 in 1 3 cases. One patient is alive and well after 20 months, 1 died
+  of another cause 5 years later, and 2 were lost at follow-up. Exceptionally, primary
+  thymic tumors may exhibit histologic features resembling those of ACC of salivary
+  glands. They may be well circumscribed and cytologically bland or invasive and cytologically
+  atypical. In either case they lack an organoid thymuslike pattern and immature T
+  lymphocytes. We have interpreted them as a microscopic subtype of well-differentiated
+  thymic carcinoma of low-grade malignancy, an impression supported by the admittedly
+  limited follow-up information.'
+authors: Di Tommaso L, Kuhn E, Kurrer M, Zettl A, Marx A, Muller-Hermelink HK, Roncalli
+  M and Rosai J.
+contact:
+  email: luca.di_tommaso@humanitas.it
+  name: Luca Di Tommaso
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17667537
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: 'Am J Surg Pathol 31, 8 (2007): 1161-67.'
+label: 'Di Tommaso et al. (2007): Thymic Tumor With Adenoid Cystic Carcinomalike Features:
+  A Clinicopathologic Study of 4 ...'
+notes: ~
+pmid: 17667537
+title: 'Thymic Tumor With Adenoid Cystic Carcinomalike Features: A Clinicopathologic
+  Study of 4 Cases.'
+year: 2007

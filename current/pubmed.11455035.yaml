@@ -1,0 +1,40 @@
+---
+abstract: DNA copy number changes were studied by comparative genomic hybridization
+  on 10 tumor specimens of squamous cell carcinoma of cervix obtained from Korean
+  patients. DNA was extracted from paraffin-embedded sections after removal of non-malignant
+  cells by microdissection technique. Copy number changes were found in 8 10 tumors.
+  The most frequent changes were chromosome 19 gains n 6 and losses on chromosomes
+  4 n 4 , 5 n 3 , and 3p n 3 . A novel finding was amplification in chromosome arm
+  9p21-pter in 2 cases. Gains in 1, 3q, 5p, 6p, 8q, 16p, 17, and 20q and losses at
+  2q, 6q, 8p, 9q, 10p, 11, 13, 16q, and 18q were observed in at least one of the cases.
+authors: Jee KJ, Kim YT, Kim KR, Aalto Y and Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11455035
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Anal Cell Pathol 22, 3 (2001): 159-63.'
+label: 'Jee et al. (2001): Amplification At 9p in Cervical Carcinoma By Comparative
+  Genomic Hybridization.'
+notes: ~
+pmid: 11455035
+title: Amplification At 9p in Cervical Carcinoma By Comparative Genomic Hybridization.
+year: 2001

@@ -1,0 +1,50 @@
+---
+abstract: Secondary chromosomal aberrations in follicle center cell derived lymphomas
+  FCDL usually involve gains and losses of genetic material and may be an important
+  prognostic value. In the present study, we aimed to determine the power of comparative
+  genomic hybridization CGH as compared to standard chromosome analysis CA to detect
+  such secondary aberrations. The same lymph node cell suspensions prepared from 30
+  patients with FCDL were analyzed in parallel by CGH and CA based on R banding. In
+  all, 73 discrepancies were found. Sixty-two imbalances were detected only by CA
+  and 11 only by CGH. In cases with completely resolved karyotypes n 17 , the median
+  number of discrepancies between CGH and CA was one. However, when the karyotype
+  was partially resolved n 12 , the median was four P amp lt 0.01 . Discrepant results
+  were further studied by fluorescence in situ hybridization using locus-specific
+  probes. These data confirm, that not only for the detection of balanced aberrations,
+  but also for the detection of unbalanced aberrations in FCDL, standard chromosome
+  analysis is still the gold standard. In contrast, CGH is useful to detect chromosomal
+  imbalances when no metaphases are found or no fresh material is available.
+authors: Viardot A, Martin-Subero JI, Siebert R, Harder S, Gesk S, Bentz M and Schlegelberger
+  B.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11243387
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Leukemia 15, 1 (2001): 177-83.'
+label: 'Viardot et al. (2001): Detection of Secondary Genetic Aberrations in Follicle
+  Center Cell Derived Lymphomas: Assessment ...'
+notes: ~
+pmid: 11243387
+title: 'Detection of Secondary Genetic Aberrations in Follicle Center Cell Derived
+  Lymphomas: Assessment of the Reliability of Comparative Genomic Hybridization and
+  Standard Chromosome Analysis.'
+year: 2001

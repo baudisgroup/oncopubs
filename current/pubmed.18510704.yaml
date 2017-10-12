@@ -1,0 +1,46 @@
+---
+abstract: B-cell lymphomas leukemias with simultaneous t 14 18 q32 q21 and MYC rearrangements
+  have recently been shown to constitute a separate diagnostic entity, presenting
+  with a rapid clinical course and a very poor prognosis. We describe the establishment
+  of an Epstein-Barr virus negative cell line, designated U-2973, from a male patient
+  with a de novo aggressive B-cell lymphoma leukemia and very high peripheral blast
+  cell count. Flow cytometry of bone marrow cells and U-2973 displayed a mature B-cell
+  phenotype, and immunostaining showed expression of MYC and BCL2. IG gene rearrangement
+  data were consistent with a lymphoid neoplasm of germinal centre derivation. Cytogenetic
+  studies using conventional G-banding, fluorescent in situ hybridization, spectral
+  karyotyping and single nucleotide polymorphism array demonstrated a complex karyotype
+  with both a t 14 18 and double translocations between MYC and a non-IG gene partner
+  located at chromosome 12p12.1.
+authors: Bostrom H, Leuchowius KJ, Hallbook H, Nordgren A, Thorn I, Thorselius M,
+  Rosenquist R, Soderberg O and Sundstrom C.
+contact:
+  email: hans.bostrom@genpat.uu.se
+  name: Hans Bostrom
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18510704
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: 'Eur J Haematol 81, 3 (2008): 218-25.'
+label: 'Bostrom et al. (2008): U-2973, a Novel B-Cell Line Established From a Patient
+  With a Mature B-Cell Leukemia Displaying ...'
+notes: ~
+pmid: 18510704
+title: U-2973, a Novel B-Cell Line Established From a Patient With a Mature B-Cell
+  Leukemia Displaying Concurrent T(14;18) and Myc Translocation to a Non-Ig Gene Partner.
+year: 2008

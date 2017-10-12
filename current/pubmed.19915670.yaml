@@ -1,0 +1,41 @@
+---
+abstract: Glioblastoma multiforme GBM is an umbrella designation that includes a heterogeneous
+  group of primary brain tumors. Several classification strategies of GBM have been
+  reported, some by clinical course and others by resemblance to cell types either
+  in the adult or during development. From a practical and therapeutic standpoint,
+  classifying GBMs by signal transduction pathway activation and by mutation in pathway
+  member genes may be particularly valuable for the development of targeted therapies.
+authors: Brennan C, Momota H, Hambardzumyan D, Ozawa T, Tandon A, Pedraza A and Holland
+  E.
+contact:
+  email: ~
+  name: Eric Hollan
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19915670
+- geo:GSE17381
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'PLoS One 4, 11 (2009): e7752.'
+label: 'Brennan et al. (2009): Glioblastoma Subclasses Can be Defined By Activity
+  Among Signal Transduction Pathways and ...'
+notes: ~
+pmid: 19915670
+title: Glioblastoma Subclasses Can be Defined By Activity Among Signal Transduction
+  Pathways and Associated Genomic Alterations.
+year: 2009

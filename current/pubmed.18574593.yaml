@@ -1,0 +1,52 @@
+---
+abstract: 'Neuroblastoma NB is a pediatric neoplasia that shows complex combinations
+  of acquired genetic aberrations. The specific genes and the molecular mechanisms
+  responsible for development and progression of NB remain poorly understood. Our
+  main objective is to compare the results obtained with different techniques for
+  the detection of genomic data in 20 patients with NB using the information obtained
+  to select the appropriate technique in routine analysis for the therapeutic stratification.
+  The genetic methods used in this study are multiprobe fluorescence in situ hybridization
+  FISH assay, metaphasic comparative genomic hybridization mCGH , array comparative
+  genomic hybridization aCGH , and the multiplex ligation-dependent probe amplification
+  MLPA . Genomic copy number abnormalities were used to group the cases in four categories:
+  MYCN amplification cases 11q deletion tumors cases with partial chromosome gains
+  or losses and samples with entire chromosome alterations. The data obtained from
+  the multigenomic techniques showed a high degree of concordance and our findings
+  support the hypothesis that NB consists of biologically distinct subgroups that
+  differ by genetic characteristics of prognostic relevance. FISH will be essential
+  for the mandatory study of MYCN status. The use of MLPA as routine technique is
+  an advantage procedure for detecting the implication of the common genetic alterations
+  in NB.'
+authors: Villamon E, Piqueras M, Mackintosh C, Alonso J, de Alava E, Navarro S and
+  Noguera R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18574593
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: Europe
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: 'Virchows Arch 453, 1 (2008): 47-55.'
+label: 'Villamon et al. (2008): Comparison of Different Techniques for the Detection
+  of Genetic Risk-Identifying Chromosomal ...'
+notes: ~
+pmid: 18574593
+title: Comparison of Different Techniques for the Detection of Genetic Risk-Identifying
+  Chromosomal Gains and Losses in Neuroblastoma.
+year: 2008

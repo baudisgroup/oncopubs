@@ -1,0 +1,38 @@
+---
+abstract: Metastases in distant organs are the major cause of death for cancer patients,
+  and bone marrow is a prominent homing organ for early disseminated cancer cells.
+  However, it remains still unclear which of these cells evolve into overt metastases.
+  We therefore established a new approach based on the analysis of viable and proliferating
+  cancer cells by single-cell comparative genomic hybridization.
+authors: Gangnus R, Langer S, Breit E, Pantel K and Speicher MR.
+contact:
+  email: ~
+  name: Michael Speicher
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15161702
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.58
+    - 48.14
+    type: Point
+  info:
+    city: Munich
+    continent: Europe
+    country: Germany
+    label: Munich, Germany, Europe
+    precision: city
+journal: 'Clin Cancer Res 10, 10 (2004): 3457-64.'
+label: 'Gangnus et al. (2004): Genomic Profiling of Viable and Proliferative Micrometastatic
+  Cells From Early-Stage Breast ...'
+notes: ~
+pmid: 15161702
+title: Genomic Profiling of Viable and Proliferative Micrometastatic Cells From Early-Stage
+  Breast Cancer Patients.
+year: 2004

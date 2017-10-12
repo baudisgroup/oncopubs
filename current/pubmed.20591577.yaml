@@ -1,0 +1,51 @@
+---
+abstract: Astrocytic tumors are the most frequent primary brain neoplasms. They are
+  clinically characterized by wide variations in histology. Analysis of chromosome
+  DNA imbalance may help to advance diagnosis, grading, and classification, and to
+  determine appropriate therapeutic approaches for tumors of astrocytic lineages.
+  Comparative genomic hybridization CGH provides comprehensive information about chromosome
+  DNA aberrations, and is an important technique for evaluating the differences at
+  genomic levels among the same or different grade tumors. In this study, 63 astrocytic
+  tumors of Chinese patients were screened by CGH, and the relationship between their
+  chromosome DNA imbalances and the histopathological classification, grading, and
+  clinical features was analyzed. Most tumors showed genomic copy aberrations detected
+  by CGH. The most frequent abnormalities were regional gains in chromosome 1q and
+  7p regional losses in chromosome 1p, 2q, 4q, 6p, 10q, 12q, 15q, 19q, and 22q were
+  also frequently observed. The gain of 1q and the loss of 15q were relevant to the
+  histological types and grades of WHO classification. The losses of 4q and 10q correlated
+  with age in the group of anaplastic astrocytoma, which was unreported in the literature.
+  This study confirmed that chromosomal aberrations, such as 1q, -4q, -10q, 7p, and
+  -15q possibly contributed to the pathogenesis of these tumors. Our data was the
+  first report on the chromosomal aberrations of astrocytic tumors of Chinese patients.
+authors: Jin S, Sun C, Yu S, Wang Q, Wu W, Sun Y, Zhao W and An T.
+contact:
+  email: ~
+  name: Shizhu Yu
+counts:
+  biosamples: 63
+  samples_acgh: 0
+  samples_ccgh: 63
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20591577
+geo_data:
+  geo_json:
+    coordinates:
+    - 117.18
+    - 39.14
+    type: Point
+  info:
+    city: Tianjin
+    continent: Asia
+    country: China
+    label: Tianjin, China, Asia
+    precision: city
+journal: 'Pathol Res Pract 206, 10 (2010): 674-81.'
+label: 'Jin et al. (2010): Chromosome DNA Imbalances in Human Astrocytic Tumors: A
+  Comparative Genomic Hybridization Study of 63 ...'
+notes: ~
+pmid: 20591577
+title: 'Chromosome DNA Imbalances in Human Astrocytic Tumors: A Comparative Genomic
+  Hybridization Study of 63 Chinese Patients.'
+year: 2010

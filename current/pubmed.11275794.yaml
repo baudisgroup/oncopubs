@@ -1,0 +1,53 @@
+---
+abstract: The aim of the present study was to evaluate the clinical significance of
+  the serum anti-p53 antibody in patients with uterine and ovarian cancer. Some of
+  the ovarian patients were also evaluated for overexpression of p53 by immunohistochemistry
+  and for cytogenetic alterations by comparative genomic hybridization CGH . Serum
+  anti-p53 antibodies were determined by an enzyme immunoassay kit. The antibody was
+  detected in 8 30 27 of ovarian cancers, in 12 86 14 cancers of the uterine cervix,
+  in 5 41 12 cancers of the uterine body, and 0 9 0 healthy women. The overall survival
+  rate in patients with ovarian cancer was significantly worse in patients with anti-p53
+  antibody positivity than that in patients with anti-p53-antibody-negative cancers
+  using the log rank test p 0.017 . There was a significant correlation between the
+  presence of anti-p53 antibody and tissue overexpression of p53 in ovarian cancers.
+  CGH analysis showed that the aberrations in DNA sequence copy number in ovarian
+  cancers were significantly increased in anti-p53-antibody-positive cases compared
+  to antip53-antibody-negative cases including increased copy number on 20q and reduced
+  copy number on 5q and 13q. Although the exact relationship between the presence
+  of serum anti-p53 antibody specific humoral response and cytogenetic alterations
+  is still unknown, these findings suggest that the measurement of serum anti-p53
+  antibody may be useful for the assessment of genetic instability and tumor biological
+  aggressiveness.
+authors: Numa F, Umayahara K, Suehiro Y, Hirakawa H, Nawata S, Suminami Y, Oga A,
+  Ito T, Sasaki K and Kato H.
+contact:
+  email: fnuma@po.cc.yamaguchi-u.ac.jp
+  name: F. Numa
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11275794
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Tumour Biol 22, 3 (2001): 162-68.'
+label: 'Numa et al. (2001): Serum Anti-P53 Antibodies in Uterine and Ovarian Cancer:
+  Association With DNA Sequence Copy Number ...'
+notes: ~
+pmid: 11275794
+title: 'Serum Anti-P53 Antibodies in Uterine and Ovarian Cancer: Association With
+  DNA Sequence Copy Number Abnormalities.'
+year: 2001

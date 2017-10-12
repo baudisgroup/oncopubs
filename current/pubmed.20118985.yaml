@@ -1,0 +1,50 @@
+---
+abstract: Epidermal growth factor receptor EGFR tyrosine kinase inhibitors, gefitinib
+  and erlotinib are effective therapies against mutant non-small cell lung cancers
+  NSCLCs . Treatment is limited by the development of resistance in part explained
+  by the gain of a secondary EGFR mutation, T790M, at the gatekeeper residue. Irreversible
+  EGFR inhibitors, including PF00299804, are effective in vitro and in vivo against
+  EGFR mutant tumors that contain EGFR T790M and are currently under clinical development.
+  In this study, we generate models of resistance to PF00299804, using cell lines
+  with EGFR T790M and show that the PF00299804-resistant models develop focal amplification
+  of EGFR that preferentially involves the T790M-containing allele. These PF00299804-resistant
+  cell lines remain dependent on EGFR for growth as downregulation of EGFR by shRNA
+  compromises their viability. We show that resistance to PF00299804 arises, at least
+  in part, through selection of a pre-existing EGFR T790M-amplified clone both in
+  vitro and using a xenograft model in vivo. Our findings show that EGFR T790M is
+  a common resistance mechanism to both reversible, and when amplified, the irreversible
+  EGFR kinase inhibitors further emphasizing the need to develop more potent therapies
+  against EGFR T790M. These findings can be used to guide studies of patient tumor
+  specimens from ongoing clinical trials of irreversible EGFR kinase inhibitors.
+authors: Ercan D, Zejnullahu K, Yonesaka K, Xiao Y, Capelletti M, Rogers A, Lifshits
+  E, Brown A, Lee C, Christensen JG, Kwiatkowski DJ, Engelman JA and Janne PA.
+contact:
+  email: ~
+  name: PA Janne
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20118985
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Oncogene 29, 16 (2010): 2346-56.'
+label: 'Ercan et al. (2010): Amplification of Egfr T790M Causes Resistance to an Irreversible
+  Egfr Inhibitor.'
+notes: ~
+pmid: 20118985
+title: Amplification of Egfr T790M Causes Resistance to an Irreversible Egfr Inhibitor.
+year: 2010

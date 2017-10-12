@@ -1,0 +1,46 @@
+---
+abstract: We performed a comparative genomic hybridization study on 25 samples of
+  adenocarcinoma and 19 samples of squamous cell carcinoma of the lung to detect recurrent
+  changes in the genetic material. DNA copy number changes were found in 16 squamous
+  cell carcinoma samples and 17 adenocarcinoma samples. The most common changes were
+  gains of DNA sequences in 3q 43 , 1q 34 , 8q 32 , 5p, 30 , 7p 25 , and 12p 25 .
+  Of the squamous cell carcinoma samples with DNA copy number changes, 94 15 16 had
+  a gain in 3q minimal common region of overlap q24-qter , whereas only 24 4 17 of
+  the adenocarcinoma samples with DNA copy number changes showed a gain in 3q q22-qter
+  P amp lt 0.001 . Six high-level amplifications in 3q q26.2-q26.3 were detected in
+  the squamous cell carcinoma samples but none were observed in the adenocarcinoma
+  samples. Our results suggest that amplification of genes in 3q may be important
+  in the tumorigenesis of squamous cell carcinoma but not necessarily of adenocarcinoma.
+authors: Bjorkqvist AM, Husgafvel-Pursiainen K, Anttila S, Karjalainen A, Tammilehto
+  L, Mattson K, Vainio H and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 44
+  samples_acgh: 0
+  samples_ccgh: 44
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9591638
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 22, 1 (1998): 79-82.'
+label: 'Bjorkqvist et al. (1998): DNA Gains in 3q Occur Frequently in Squamous Cell
+  Carcinoma of the Lung, But Not in ...'
+notes: ~
+pmid: 9591638
+title: DNA Gains in 3q Occur Frequently in Squamous Cell Carcinoma of the Lung, But
+  Not in Adenocarcinoma.
+year: 1998

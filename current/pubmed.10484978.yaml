@@ -1,0 +1,44 @@
+---
+abstract: A case of acute myeloid leukemia M2 with double minute chromosomes and complex
+  karyotypic abnormalities was analyzed cytogenetically and molecularly. Comparative
+  genomic hybridization CGH showed that the 8q24 region that contains the MYC oncogene
+  was not amplified. Instead, amplification of chromosomal regions 11q23-- amp gt
+  qter and 9p11-- amp gt pter was identified. Southern blot analysis confirmed the
+  CGH findings and showed that the ETS1, FLI1, SRPR, NFRKB, and KCNJ5 genes located
+  at 11q23-- amp gt 24 were amplified, whereas the MLL at 11q23 was not amplified.
+  Additionally, the IFN beta 1 and CDKN2A genes at 9p were amplified, but to a lesser
+  degree. This is the first example of a case of acute myeloid leukemia with double
+  minute chromosomes that has not involved amplification of either the MYC or the
+  MLL genes.
+authors: Crossen PE, Morrison MJ, Rodley P, Cochrane J and Morris CM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10484978
+geo_data:
+  geo_json:
+    coordinates:
+    - 172.63
+    - -43.53
+    type: Point
+  info:
+    city: Christchurch
+    continent: Pacific
+    country: New Zealand
+    label: Christchurch, New Zealand, Pacific
+    precision: city
+journal: 'Cancer Genet Cytogenet 113, 2 (1999): 126-33.'
+label: 'Crossen et al. (1999): Identification of Amplified Genes in a Patient With
+  Acute Myeloid Leukemia and Double Minute ...'
+notes: ~
+pmid: 10484978
+title: Identification of Amplified Genes in a Patient With Acute Myeloid Leukemia
+  and Double Minute Chromosomes.
+year: 1999

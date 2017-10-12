@@ -1,0 +1,59 @@
+---
+abstract: 'Solitary fibrous tumors, which are characterized by their broad morphological
+  spectrum and unpredictable behavior, are rare mesenchymal neoplasias that are currently
+  divided into three main variants that have the NAB2-STAT6 gene fusion as their unifying
+  molecular lesion: usual, malignant and dedifferentiated solitary fibrous tumors.
+  The aims of this study were to validate molecular and immunohistochemical/biochemical
+  approaches to diagnose the range of solitary fibrous tumors by focusing on the dedifferentiated
+  variant, and to reveal the genetic events associated with dedifferentiation by integrating
+  the findings of array comparative genomic hybridization. We studied 29 usual, malignant
+  and dedifferentiated solitary fibrous tumors from 24 patients (including paired
+  samples from five patients whose tumors progressed to the dedifferentiated form)
+  by means of STAT6 immunohistochemistry and (when frozen material was available)
+  reverse-transcriptase polymerase chain reaction and biochemistry. In addition, the
+  array comparative genomic hybridization findings were used to profile 12 tumors
+  from nine patients. The NAB2/STAT6 fusion was detected in all of the tumors, but
+  immunohistochemistry and western blotting indicated that chimeric protein expression
+  was atypical or absent in 9 out of 11 dedifferentiated tumors. The comparative genomic
+  hybridization results revealed that the usual and malignant solitary fibrous tumors
+  had a simple profile, whereas the genome of the dedifferentiated tumors was complex
+  and unstable, and suggested that 13q and 17p deletions and TP53 mutations may be
+  present in malignant lesions before the full expression of a dedifferentiated phenotype.
+  Solitary fibrous tumor dedifferentiation is associated with the loss of chimeric
+  oncoprotein expression, genomic instability, and cell decommitment and reprogramming.
+  The assessment of dedifferentiated solitary fibrous tumors is based on the presence
+  of the fusion transcripts and, in principle, negative STAT6 immunohistochemistry
+  should not rule out a diagnosis of solitary fibrous tumor.Modern Pathology advance
+  online publication, 29 May 2015; doi:10.1038/modpathol.2015.70.'
+authors: Dagrada GP, Spagnuolo RD, Mauro V, Tamborini E, Cesana L, Gronchi A, Stacchiotti
+  S, Pierotti MA, Negri T and Pilotti S
+contact:
+  email: silvana.pilotti@istitutotumori.mi.it
+  name: Silvana Pilotti
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26022454
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: Mod. Pathol., 2015
+label: 'Dagrada GP et al. (2015): '
+notes: ~
+pmid: 26022454
+title: 'Solitary fibrous tumors: loss of chimeric protein expression and genomic instability
+  mark dedifferentiation.'
+year: 2015

@@ -1,0 +1,56 @@
+---
+abstract: Cancer is a disease of genome instability and genomic alterations; now,
+  genomic heterogeneity is rapidly emerging as a defining feature of cancer, both
+  within and between tumors. Motivation for our pilot study of tumor heterogeneity
+  in esophageal squamous cell carcinoma (ESCC) is that it is not well studied, but
+  the highest incidences of esophageal cancers are found in China and ESCC is the
+  most common type. We profiled the mutations and changes in copy number that were
+  identified by whole-exome sequencing and array-based comparative genomic hybridization
+  in multiple regions within an ESCC from two patients. The average mutational heterogeneity
+  rate was 90% in all regions of the individual tumors in each patient; most somatic
+  point mutations were nonsynonymous substitutions, small Indels occurred in untranslated
+  regions of genes, and copy number alterations varied among multiple regions of a
+  tumor. Independent Sanger sequencing technology confirmed selected gene mutations
+  with more than 88% concordance. Phylogenetic analysis of the somatic mutation frequency
+  demonstrated that multiple, genomically heterogeneous divergent clones evolve and
+  co-exist within a primary ESCC and metastatic subclones result from the dispersal
+  and adaptation of an initially non-metastatic parental clone. Therefore, a single-region
+  sampling will not reflect the evolving architecture of a genomically heterogeneous
+  landscape of mutations in ESCC tumors and the divergent complexity of this genomic
+  heterogeneity among patients will complicate any promise of a simple genetic or
+  epigenetic diagnostic signature in ESCC. We conclude that any potential for informative
+  biomarker discovery in ESCC and targeted personalized therapies will require a deeper
+  understanding of the functional biology of the ontogeny and phylogeny of the tumor
+  heterogeneity.
+authors: Cao W, Wu W, Yan M, Tian F, Ma C, Zhang Q, Li X, Han P, Liu Z, Gu J and Biddle
+  FG
+contact:
+  email: caoweiyu@hotmal.com
+  name: W Cao
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26619400
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.65
+    - 34.76
+    type: Point
+  info:
+    city: Zhengzhou
+    continent: Asia
+    country: China
+    label: Zhengzhou, China, Asia
+    precision: city
+journal: Oncogenesis 4, 2015
+label: 'Cao W et al. (2015): '
+notes: ~
+pmid: 26619400
+title: Multiple region whole-exome sequencing reveals dramatically evolving intratumor
+  genomic heterogeneity in esophageal squamous cell carcinoma.
+year: 2015

@@ -1,0 +1,47 @@
+---
+abstract: Most neuroblastoma cells have chromosomal aberrations such as gains, losses,
+  amplifications and deletions of DNA. Conventional approaches like fluorescence in
+  situ hybridization FISH or metaphase comparative genomic hybridization CGH can detect
+  chromosomal aberrations, but their resolution is low. In this study we used array-based
+  comparative genomic hybridization to identify the chromosomal aberrations in human
+  neuroblastoma SH-SY5Y cells. The DNA microarray consisting of 4000 bacterial artificial
+  chromosome BAC clones was able to detect chromosomal regions with aberrations. The
+  SH-SY5Y cells showed chromosomal gains in 1q12 approximately q44 Chr1:142188905-246084832
+  , 7 over the whole chromosome , 2p25.3 approximately p16.3 Chr2:18179-47899074 ,
+  and 17q 21.32 approximately q25.3 Chr17:42153031-78607159 , while chromosomal losses
+  detected were the distal deletion of 1p36.33 Chr1:552910-563807 , 14q21.1 approximately
+  q21.3 Chr14:37666271- 47282550 , and 22q13.1 approximately q13.2 Chr22:36885764-4190
+  7123 . Except for the gain in 17q21 and the loss in 1p36, the other regions of gain
+  or loss in SH-SY5Y cells were newly identified.
+authors: Do JH, Kim IS, Park TK and Choi DK.
+contact:
+  email: choidk@kku.ac.kr
+  name: Dong-Kug Choi
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17846504
+geo_data:
+  geo_json:
+    coordinates:
+    - 127.93
+    - 36.99
+    type: Point
+  info:
+    city: Chungju-si
+    continent: ~
+    country: Korean Republic
+    label: Chungju-si, Korean Republic
+    precision: city [needs verification]
+journal: 'Mol Cells 24, 1 (2007): 105-12.'
+label: 'Do et al. (2007): Genome-Wide Examination of Chromosomal Aberrations in Neuroblastoma
+  Sh-Sy5Y Cells By Array-Based ...'
+notes: ~
+pmid: 17846504
+title: Genome-Wide Examination of Chromosomal Aberrations in Neuroblastoma Sh-Sy5Y
+  Cells By Array-Based Comparative Genomic Hybridization.
+year: 2007

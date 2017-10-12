@@ -1,0 +1,47 @@
+---
+abstract: The Philadelphia chromosome, a chromosomal abnormality that encodes BCR-ABL1,
+  is the defining lesion of chronic myelogenous leukaemia CML and a subset of acute
+  lymphoblastic leukaemia ALL . To define oncogenic lesions that cooperate with BCR-ABL1
+  to induce ALL, we performed a genome-wide analysis of diagnostic leukaemia samples
+  from 304 individuals with ALL, including 43 BCR-ABL1 B-progenitor ALLs and 23 CML
+  cases. IKZF1 encoding the transcription factor Ikaros was deleted in 83.7 of BCR-ABL1
+  ALL, but not in chronic-phase CML. Deletion of IKZF1 was also identified as an acquired
+  lesion at the time of transformation of CML to ALL lymphoid blast crisis . The IKZF1
+  deletions resulted in haploinsufficiency, expression of a dominant-negative Ikaros
+  isoform, or the complete loss of Ikaros expression. Sequencing of IKZF1 deletion
+  breakpoints suggested that aberrant RAG-mediated recombination is responsible for
+  the deletions. These findings suggest that genetic lesions resulting in the loss
+  of Ikaros function are an important event in the development of BCR-ABL1 ALL.
+authors: Mullighan CG, Miller CB, Radtke I, Phillips LA, Dalton J, Ma J, White D,
+  Hughes TP, Le Beau MM, Pui CH, Relling MV, Shurtleff SA and Downing JR.
+contact:
+  email: james.downing@stjude.org
+  name: James Downing
+counts:
+  biosamples: 252
+  samples_acgh: 252
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18408710
+- geo:GSE9113
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'Nature 453, 7191 (2008): 110-14.'
+label: 'Mullighan et al. (2008): Bcr-Abl1 Lymphoblastic Leukaemia is Characterized
+  By the Deletion of Ikaros.'
+notes: ~
+pmid: 18408710
+title: Bcr-Abl1 Lymphoblastic Leukaemia is Characterized By the Deletion of Ikaros.
+year: 2008

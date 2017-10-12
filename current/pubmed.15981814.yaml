@@ -1,0 +1,51 @@
+---
+abstract: 'We analyzed quantitative chromosome 14 abnormalities in 124 meningiomas
+  by interphase fluorescence in situ hybridization iFISH and confirmed the nature
+  of abnormalities by comparative genomic hybridization CGH . We correlated the abnormalities
+  with clinical, histopathologic, and prognostic factors. Of 124 cases, 50 40.3 showed
+  loss 14.5 or gain 25.8 of the 14q32 chromosome region by iFISH. Most corresponded
+  to numeric abnormalities: monosomy 12.9 , trisomy 1.6 , or tetrasomy 24.2 in only
+  2 cases 1.6 , chromosome 14 loss did not involve the whole chromosome and was restricted
+  to the 14q31-q32 region confirmed by CGH . Cases with gain or monosomy corresponded
+  more frequently to histologically malignant tumors P .009 . Patients with monosomy
+  14 14q-, but not those with gain, more often were male P .04 and had a greater incidence
+  of recurrence P .003 and shorter relapse-free survival P .03 . The 2 patients with
+  loss limited to 14q31-q32 had histologically benign tumors and no relapse after
+  more than 5 years follow-up. Most meningiomas with chromosome 14 abnormalities have
+  numeric changes, with interstitial deletions of 14q31-q32 present in few cases.
+  Of the abnormalities detected, only monosomy 14 showed an adverse prognostic impact.'
+authors: Tabernero MD, Espinosa AB, Maillo A, Sayagues JM, Alguero Mdel C, Lumbreras
+  E, Diaz P, Goncalves JM, Onzain I, Merino M, Morales F and Orfao A.
+contact:
+  email: ~
+  name: Maria Dolores Tabernero
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15981814
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: Europe
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: 'Am J Clin Pathol 123, 5 (2005): 744-51.'
+label: 'Tabernero et al. (2005): Characterization of Chromosome 14 Abnormalities By
+  Interphase in Situ Hybridization and ...'
+notes: Presumably 4 cases were analyzed with CGH, as part of a FISH series of 124
+  meningiomas. Only chromosome 14 CGH results of the 4 cases are given.
+pmid: 15981814
+title: 'Characterization of Chromosome 14 Abnormalities By Interphase in Situ Hybridization
+  and Comparative Genomic Hybridization in 124 Meningiomas: Correlation With Clinical,
+  Histopathologic, and Prognostic Features.'
+year: 2005

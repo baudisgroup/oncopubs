@@ -1,0 +1,46 @@
+---
+abstract: Abrogation of negative feedback control represents a fundamental requirement
+  for aberrantly activated signaling pathways to promote malignant transformation
+  and resistance to therapy. Here we identify URI, which encodes a mitochondrial inhibitor
+  of PP1Î³ and PP1Î³-mediated feedback inhibition of S6K1-BAD survival signaling,
+  as an oncogene amplified and overexpressed in ovarian cancer cell lines and human
+  ovarian carcinomas. URI is an "addicting" oncogene selectively required for the
+  survival of ovarian cancer cells with increased URI copy number. By constitutively
+  detaining PP1Î³ in inactive complexes, URI sustains S6K1 survival signaling under
+  growth factor-limiting conditions and mediates resistance of cells to cisplatin.
+  Thus, oncogenic activation of URI defines an important mechanism for activating
+  mitochondrial S6K1-BAD signaling and promoting cell survival through disabling PP1Î³-dependent
+  negative feedback inhibition.  Copyright Â© 2011 Elsevier Inc. All rights reserved.
+authors: Theurillat JP, Metzler SC, Henzi N, Djouder N, Helbling M, Zimmermann AK,
+  Jacob F, Soltermann A, Caduff R, Heinzelmann-Schwarz V, Moch H and Krek W
+contact:
+  email: wilhelm.krek@cell.biol.ethz.ch
+  name: Wilhelm Krek
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21397856
+- geo:GSE26301
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.55
+    - 47.37
+    type: Point
+  info:
+    city: Zurich
+    continent: Europe
+    country: Switzerland
+    label: Zurich, Switzerland, Europe
+    precision: city
+journal: Cancer Cell 19(3), 2011
+label: 'Theurillat JP et al. (2011): '
+notes: ~
+pmid: 21397856
+title: URI is an oncogene amplified in ovarian cancer cells and is required for their
+  survival.
+year: 2011

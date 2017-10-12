@@ -1,0 +1,35 @@
+---
+abstract: To explore the utility of cytogenetic abnormalities in the distinction of
+  hepatic adenoma HA and well-differentiated hepatocellular carcinoma HCC .
+authors: Kakar S, Chen X, Ho C, Burgart LJ, Adeyi O, Jain D, Sahai V and Ferrell LD.
+contact:
+  email: ~
+  name: Sanjay Kakar
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19694827
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Histopathology 55, 2 (2009): 197-205.'
+label: 'Kakar et al. (2009): Chromosomal Abnormalities Determined By Comparative Genomic
+  Hybridization Are Helpful in the ...'
+notes: ~
+pmid: 19694827
+title: Chromosomal Abnormalities Determined By Comparative Genomic Hybridization Are
+  Helpful in the Diagnosis of Atypical Hepatocellular Neoplasms.
+year: 2009

@@ -1,0 +1,54 @@
+---
+abstract: Recent advances in genome-wide single-nucleotide polymorphism SNP analyses
+  have revealed previously unrecognized microdeletions and uniparental disomy UPD
+  in a broad spectrum of human cancers. As acute myeloid leukemia AML represents a
+  genetically heterogeneous disease, this technology might prove helpful, especially
+  for cytogenetically normal AML CN-AML cases. Thus, we performed high-resolution
+  SNP analyses in 157 adult cases of CN-AML. Regions of acquired UPDs were identified
+  in 12 of cases and in the most frequently affected chromosomes, 6p, 11p and 13q.
+  Notably, acquired UPD was invariably associated with mutations in nucleophosmin
+  1 NPM1 or CCAAT enhancer binding protein-alpha CEBPA that impair hematopoietic differentiation
+  P 0.008 , suggesting that UPDs may preferentially target genes that are essential
+  for proliferation and survival of hematopoietic progenitors. Acquired copy number
+  alterations CNAs were detected in 49 of cases with losses found in two or more cases
+  affecting, for example, chromosome bands 3p13-p14.1 and 12p13. Furthermore, we identified
+  two cases with a cryptic t 6 11 as well as several non-recurrent aberrations pointing
+  to leukemia-relevant regions. With regard to clinical outcome, there seemed to be
+  an association between UPD 11p and UPD 13q cases with overall survival. These data
+  show the potential of high-resolution SNP analysis for identifying genomic regions
+  of potential pathogenic and clinical relevance in AML.
+authors: Bullinger L, Kronke J, Schon C, Radtke I, Urlbauer K, Botzenhardt U, Gaidzik
+  V, Cario A, Senger C, Schlenk RF, Downing JR, Holzmann K, Dohner K and Dohner H.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 157
+  samples_acgh: 157
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20016533
+- geo:GSE19101
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Leukemia 24, 2 (2010): 438-49.'
+label: 'Bullinger et al. (2010): Identification of Acquired Copy Number Alterations
+  and Uniparental Disomies in Cytogenetically ...'
+notes: ~
+pmid: 20016533
+title: Identification of Acquired Copy Number Alterations and Uniparental Disomies
+  in Cytogenetically Normal Acute Myeloid Leukemia Using High-Resolution Single-Nucleotide
+  Polymorphism Analysis.
+year: 2010

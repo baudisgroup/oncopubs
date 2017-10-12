@@ -1,0 +1,50 @@
+---
+abstract: The t X 18 p11.2 q11.2 SYT SSX1 or SSX2 is represented in more than 95 of
+  synovial sarcoma. Even if recent data has implicated that the type of fusion gene
+  SYT SSX1 or SYT SSX2 can be of prognostic importance, the cellular and molecular
+  mechanisms underlying the clinical behavior of synovial sarcoma are still poorly
+  understood. To approach this issue, we investigated whether secondary genetic aberrations
+  may influence the clinical outcome of synovial sarcoma. Clinical outcome with reference
+  to comparative genomic hybridization CGH findings losses or gains of genetic material
+  were analyzed for a uniquely large modern material of 69 synovial sarcomas. Thirty-five
+  of 69 specimens showed DNA sequence copy number changes. The frequency of aberrations
+  tumor were higher mean 4.7 for monophasic tumors than for biphasic tumors mean 2.1
+  . Gains of the whole or parts, including the long arm, of chromosome 8 were significantly
+  overrepresented in large tumors amp gt 5 cm , suggesting that tumors with this genetic
+  abnormality have an increased growth rate. No difference regarding metastasis-free
+  or overall survival was seen between patients with or without tumors containing
+  secondary copy number changes. No specific copy number change was linked to a significantly
+  improved or impaired metastasis-free survival.
+authors: Skytting BT, Szymanska J, Aalto Y, Lushnikova T, Blomqvist C, Elomaa I, Larsson
+  O and Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 69
+  samples_acgh: 0
+  samples_ccgh: 69
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10565298
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 115, 1 (1999): 39-46.'
+label: 'Skytting et al. (1999): Clinical Importance of Genomic Imbalances in Synovial
+  Sarcoma Evaluated By Comparative Genomic ...'
+notes: ~
+pmid: 10565298
+title: Clinical Importance of Genomic Imbalances in Synovial Sarcoma Evaluated By
+  Comparative Genomic Hybridization.
+year: 1999

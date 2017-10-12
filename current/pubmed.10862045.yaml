@@ -1,0 +1,45 @@
+---
+abstract: We have studied a series of 20 primary retinoblastomas by karyotypic analysis
+  and comparative genomic hybridization CGH , to perform an exhaustive evaluation
+  of chromosome imbalances in this tumor. In addition, 4 tumors were studied by CGH
+  only. On the whole, CGH results were largely in agreement with those of karyotypic
+  analysis and with known cytogenetic data. The most frequent imbalances were 6p 13
+  24 cases , 1q 12 24 , -16 -16q 11 24 , and 2p 9 24 . Recurrent high-level amplifications
+  were observed in 2p23-25 and 1q21. Amplification of 2p23-25, present in 4 cases
+  among which 3 showed double-minute chromosomes, was related to MYCN amplification,
+  as demonstrated by FISH and PCR. No evident correlation was found in this small
+  series between any of the imbalances identified and either the differentiation or
+  the histoprognostic risk.
+authors: Mairal A, Pinglier E, Gilbert E, Peter M, Validire P, Desjardins L, Doz F,
+  Aurias A and Couturier J.
+contact:
+  email: jerome.couturier@curie.net
+  name: Jerome Couturier
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10862045
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 28, 4 (2000): 370-79.'
+label: 'Mairal et al. (2000): Detection of Chromosome Imbalances in Retinoblastoma
+  By Parallel Karyotype and Cgh ...'
+notes: ~
+pmid: 10862045
+title: Detection of Chromosome Imbalances in Retinoblastoma By Parallel Karyotype
+  and Cgh Analyses.
+year: 2000

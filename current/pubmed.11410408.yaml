@@ -1,0 +1,40 @@
+---
+abstract: The diagnosis of polycythemia vera PV is supported by the finding of an
+  abnormal karyotype in patients with erythrocytosis. However, most PV patients have
+  normal marrow cytogenetics at presentation and there is reluctance to use this test
+  routinely. Comparative genomic hybridization CGH is a cytogenetic screening technique
+  that analyzes interphase cells. This approach offers practical advantages over conventional
+  cytogenetics and interphase fluorescence in-situ hybridization IFISH . We have therefore
+  evaluated the diagnostic utility of CGH applied to blood granulocytes in PV.
+authors: Westwood NB, Gruszka-Westwood AM, Atkinson S and Pearson TC.
+contact:
+  email: nigel.westwood@kcl.ac.uk
+  name: Nigel B. Westwood
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11410408
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Haematologica 86, 5 (2001): 464-69.'
+label: 'Westwood et al. (2001): Polycythemia Vera: Analysis of DNA From Blood Granulocytes
+  Using Comparative Genomic ...'
+notes: ~
+pmid: 11410408
+title: 'Polycythemia Vera: Analysis of DNA From Blood Granulocytes Using Comparative
+  Genomic Hybridization.'
+year: 2001

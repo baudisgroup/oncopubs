@@ -1,0 +1,52 @@
+---
+abstract: Clonal architecture in myeloproliferative neoplasms MPNs is poorly understood.
+  Here we report genomic analyses of a patient with primary myelofibrosis PMF transformed
+  to secondary acute myeloid leukemia sAML . Whole genome sequencing WGS was performed
+  on PMF and sAML diagnosis samples, with skin included as a germline surrogate. Deep
+  sequencing validation was performed on the WGS samples and an additional sample
+  obtained during sAML remission relapsed PMF. Clustering analysis of 649 validated
+  somatic single nucleotide variants revealed four distinct clonal groups, each including
+  putative driver mutations. The first group including JAK2 and U2AF1 , representing
+  the founding clone, included mutations with high frequency at all three disease
+  stages. The second clonal group including MYB was present only in PMF, suggesting
+  the presence of a clone that was dispensable for transformation. The third group
+  including ASXL1 contained mutations with low frequency in PMF and high frequency
+  in subsequent samples, indicating evolution of the dominant clone with disease progression.
+  The fourth clonal group including IDH1 and RUNX1 was acquired at sAML transformation
+  and was predominantly absent at sAML remission relapsed PMF. Taken together, these
+  findings illustrate the complex clonal dynamics associated with disease evolution
+  in MPNs and sAML.Leukemia accepted article preview online, 25 September 2014 doi:10.1038
+  leu.2014.289.
+authors: Engle EK, Fisher DA, Miller CA, McLellan MD, Fulton RS, Moore DM, Wilson
+  RK, Ley TJ and Oh ST.
+contact:
+  email: stoh@dom.wustl.edu
+  name: ST Oh
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 2
+external_identifiers:
+- pubmed:25252869
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.26
+    - 38.64
+    type: Point
+  info:
+    city: saint louis
+    continent: ~
+    country: United States
+    label: saint louis, United States
+    precision: city [needs verification]
+journal: Leukemia (2014).
+label: 'Engle et al. (2014): Clonal evolution revealed by whole genome sequencing
+  in a case of primary myelofibrosis transformed ...'
+notes: ~
+pmid: 25252869
+title: Clonal evolution revealed by whole genome sequencing in a case of primary myelofibrosis
+  transformed to secondary acute myeloid leukemia.
+year: 2014

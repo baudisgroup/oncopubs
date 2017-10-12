@@ -1,0 +1,49 @@
+---
+abstract: Recently, expression profiling of breast carcinomas has revealed gene signatures
+  that predict clinical outcome, and discerned prognostically relevant breast cancer
+  subtypes. Measurement of the degree of genomic instability provides a very similar
+  stratification of prognostic groups. We therefore hypothesized that these features
+  are linked. We used gene expression profiling of 48 breast cancer specimens that
+  profoundly differed in their degree of genomic instability and identified a set
+  of 12 genes that defines the 2 groups. The biological and prognostic significance
+  of this gene set was established through survival prediction in published datasets
+  from patients with breast cancer. Of note, the gene expression signatures that define
+  specific prognostic subtypes in other breast cancer datasets, such as luminal A
+  and B, basal, normal-like, and ERBB2 , and prognostic signatures including MammaPrint
+  and Oncotype DX, predicted genomic instability in our samples. This remarkable congruence
+  suggests a biological interdependence of poor-prognosis gene signatures, breast
+  cancer subtypes, genomic instability, and clinical outcome.
+authors: Habermann JK, Doering J, Hautaniemi S, Roblick UJ, Bundgen NK, Nicorici D,
+  Kronenwett U, Rathnagiriswaran S, Mettu RK, Ma Y, Kruger S, Bruch HP, Auer G, Guo
+  NL and Ried T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19101988
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Int J Cancer 124, 7 (2009): 1552-64.'
+label: 'Habermann et al. (2009): The Gene Expression Signature of Genomic Instability
+  in Breast Cancer is an Independent ...'
+notes: ~
+pmid: 19101988
+title: The Gene Expression Signature of Genomic Instability in Breast Cancer is an
+  Independent Predictor of Clinical Outcome.
+year: 2009

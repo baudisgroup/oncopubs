@@ -1,0 +1,58 @@
+---
+abstract: Amplification of chromosomal regions leads to an increase of DNA copy numbers
+  and expression of oncogenes in many human tumors. The identification of tumor-specific
+  oncogene targets has potential diagnostic and therapeutic implications. To identify
+  distinct spectra of oncogenic alterations in ovarian carcinoma, metaphase comparative
+  genomic hybridization mCGH , array CGH aCGH , and ovarian tumor tissue microarrays
+  were used in this study. Twenty-six primary ovarian carcinomas and three ovarian
+  carcinoma cell lines were analyzed by mCGH. Frequent chromosomal overrepresentation
+  was observed on 2q 31 , 3q 38 , 5p 38 , 8q 52 , 11q 21 , 12p 21 , 17q 21 , and 20q
+  52 . The role of oncogenes residing in gained chromosomal loci was determined by
+  aCGH with 59 genetic loci commonly amplified in human tumors. DNA copy number gains
+  were most frequently observed for PIK3CA on 3q 66 , PAK1 on 11q 59 , KRAS2 on 12p
+  55 , and STK15 on 20q 55 . The 11q13-q14 amplicon, represented by six oncogenes
+  CCND1, FGF4, FGF3, EMS1, GARP, and PAK1 revealed preferential gene copy number gains
+  of PAK1, which is located at 11q13.5-q14. Amplification and protein expression status
+  of both PAK1 and CCND1 were further examined by fluorescence in situ hybridization
+  and immunohistochemistry using a tissue microarray consisting of 268 primary ovarian
+  tumors. PAK1 copy number gains were observed in 30 of the ovarian carcinomas and
+  PAK1 protein was expressed in 85 of the tumors. PAK1 gains were associated with
+  high grade P amp lt 0.05 . In contrast, CCND1 gene alterations and protein expression
+  were less frequent 10.6 and 25 , respectively , suggesting that the critical oncogene
+  target of amplicon 11q13-14 lies distal to CCND1. This study demonstrates that aCGH
+  facilitates further characterization of oncogene candidates residing in amplicons
+  defined by mCGH.
+authors: Schraml P, Schwerdtfeger G, Burkhalter F, Raggi A, Schmidt D, Ruffalo T,
+  King W, Wilber K, Mihatsch MJ and Moch H.
+contact:
+  email: peter.schraml@unibas.ch
+  name: Peter Schraml
+counts:
+  biosamples: 29
+  samples_acgh: 29
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12937139
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Am J Pathol 163, 3 (2003): 985-92.'
+label: 'Schraml et al. (2003): Combined Array Comparative Genomic Hybridization and
+  Tissue Microarray Analysis Suggest Pak1 At ...'
+notes: aCGH was performed with the AmpliOnc I array (Vysis). This is not considered
+  for inclusion into the data base, due to the low probe number.
+pmid: 12937139
+title: Combined Array Comparative Genomic Hybridization and Tissue Microarray Analysis
+  Suggest Pak1 At 11q13.5-Q14 as a Critical Oncogene Target in Ovarian Carcinoma.
+year: 2003

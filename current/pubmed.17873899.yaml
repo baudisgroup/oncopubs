@@ -1,0 +1,51 @@
+---
+abstract: Pleuropulmonary blastomas are rare malignant intrathoracic tumors of early
+  childhood. They appear as a pulmonary- and or pleural-based mass and their pathogenesis
+  and relationship to other pediatric solid tumors is not well understood. In this
+  study, paraffin-embedded material of five cases of pleuropulmonary blastoma was
+  analyzed for genetic alterations by comparative genomic hybridization and five genetic
+  loci by fluorescence in situ hybridization. Comparative genomic hybridization identified
+  aberrations in all pleuropulmonary blastomas, including four amplifications in three
+  tumors at chromosomes 5q33-34, 11q22.2-ter, 15q25-ter, and 19q11-13.2. The most
+  frequent DNA gains involved 8q11-22.2 four cases and 20q two cases , whereas the
+  most common losses included 9p21-24 two cases and 11p14 three cases . Chromosome
+  8 gains were confirmed by fluorescent in situ hybridization, resulting in the detection
+  of up to five copies of chromosome 8 centromeres per nucleus. In the two surviving
+  patients, chromosome 8 gains were the only genetic abnormality, suggesting that
+  this might be an early event in pleuropulmonary blastoma carcinogenesis. The identification
+  of new genetic alterations as well as the confirmation of previously reported ones
+  especially 8q gains in pleuropulmonary blastoma should help to improve our understanding
+  of both the molecular mechanisms underlying the tumorigenesis of pleuropulmonary
+  blastoma and the relationship of pleuropulmonary blastoma with other pediatric tumors.
+authors: de Krijger RR, Claessen SM, van der Ham F, van Unnik AJ, Hulsbergen-van de
+  Kaa CA, van Leuven L, van Noesel M and Speel EJ.
+contact:
+  email: r.dekrijger@erasmusmc.nl
+  name: Ronald R. de Krijger
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17873899
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Mod Pathol 20, 11 (2007): 1191-99.'
+label: 'de Krijger et al. (2007): Gain of Chromosome 8q is a Frequent Finding in Pleuropulmonary
+  Blastoma.'
+notes: ~
+pmid: 17873899
+title: Gain of Chromosome 8q is a Frequent Finding in Pleuropulmonary Blastoma.
+year: 2007

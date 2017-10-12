@@ -1,0 +1,38 @@
+---
+abstract: Non-small cell lung cancer NSCLC is one of the most aggressive tumors, with
+  a very low overall survival rate. We investigated surgically resected squamous cell
+  carcinoma SCC and adenocarcinoma AC to identify chromosomal imbalances and their
+  value for individual prognostication.
+authors: Danner BC, Hellms T, Jung K, Gunawan B, Didilis V, Fuzesi L and Schondube
+  FA.
+contact:
+  email: ~
+  name: Bernhard Danner
+counts:
+  biosamples: 80
+  samples_acgh: 0
+  samples_ccgh: 80
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21871296
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'Ann Thorac Surg 92, 3 (2011): 1038-43.'
+label: 'Danner et al. (2011): Prognostic Value of Chromosomal Imbalances in Squamous
+  Cell Carcinoma and Adenocarcinoma of the ...'
+notes: ~
+pmid: 21871296
+title: Prognostic Value of Chromosomal Imbalances in Squamous Cell Carcinoma and Adenocarcinoma
+  of the Lung.
+year: 2011

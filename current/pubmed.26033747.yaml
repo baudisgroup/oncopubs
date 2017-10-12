@@ -1,0 +1,57 @@
+---
+abstract: "Chromosomal abnormalities are important in the diagnosis and prognosis
+  of patients with acute myeloid leukemia (AML). Genomic microarray techniques detect
+  recurrent copy-neutral loss of heterozygosity (cnLOH) in addition to copy number
+  aberrations. However, the clinical utility has not been fully established. Therefore,
+  in the current study, the authors examined the prognostic impact of acquired cnLOH
+  in patients with AML, including complete remission (CR) rate, duration of CR, and
+  overall survival (OS).  A total of 112 consecutive patients with AML who were undergoing
+  chromosome genomic array testing (CGAT) at the Seattle Cancer Care Alliance were
+  included in the current study. DNA from the bone marrow or blood was analyzed with
+  a microarray platform with both single-nucleotide polymorphism (SNP) probes and
+  non-SNP probes to identify acquired cnLOH. Results were correlated with cytogenetic,
+  molecular, immunophenotypic, and other clinicopathological findings.  Patients with
+  cnLOH demonstrated a shorter duration of CR (hazard ratio, 1.87; P =.04) and worse
+  OS (HR, 1.82; Pâ\x80\x89=â\x80\x89.03). Multivariate analyses confirmed the independent
+  predictive value of cnLOH for early disease recurrence (P =.02). These results largely
+  reflected those in patients with intermediate and unfavorable cytogenetics. Most
+  strikingly, 13q cnLOH was found to demonstrate a 6.64-fold higher rate of disease
+  recurrence (P =.006) and 3.45-fold worse OS (Pâ\x80\x89=â\x80\x89.02) and was enriched
+  with the FLT3-ITD (Fms-related tyrosine kinase 3-internal tandem duplication) mutation.
+  \ CnLOH has important prognostic significance in patients with AML. CGAT can replace
+  imbalance fluorescence in situ hybridization and the authors recommend the routine
+  use of CGAT to detect cnLOH, particularly among patients with intermediate-risk
+  cytogenetics. Cancer 2015. Â© 2015 American Cancer Society.  Â© 2015 American Cancer
+  Society."
+authors: Gronseth CM, McElhone SE, Storer BE, Kroeger KA, Sandhu V, Fero ML, Appelbaum
+  FR, Estey EH and Fang M
+contact:
+  email: mfang@fhcrc.org
+  name: Min Fang
+counts:
+  biosamples: 112
+  samples_acgh: 112
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26033747
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: Cancer, 2015
+label: 'Gronseth CM et al. (2015): '
+notes: ~
+pmid: 26033747
+title: Prognostic significance of acquired copy-neutral loss of heterozygosity in
+  acute myeloid leukemia.
+year: 2015

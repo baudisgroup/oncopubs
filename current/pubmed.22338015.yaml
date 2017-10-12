@@ -1,0 +1,60 @@
+---
+abstract: 'The high incidence of recurrence and unpredictable clinical outcome for
+  pediatric ependymoma reflect the imprecision of current therapeutic staging and
+  need for novel risk stratification markers. We therefore evaluated 1q25 gain across
+  three age- and treatment-defined European clinical trial cohorts of pediatric intracranial
+  ependymoma.  Frequency of 1q gain was assessed across 48 ependymomas (42 primary,
+  6 recurrent) using Affymetrix 500K single-nucleotide polymorphism arrays. Gain of
+  1q25 was then evaluated by interphase FISH across 189 tumors treated on the Children''s
+  Cancer Leukaemia Group/International Society for Pediatric Oncology (SIOP) CNS9204
+  (n = 60) and BBSFOP (n = 65) adjuvant chemotherapy trials, or with primary postoperative
+  radiotherapy (SIOP CNS9904/RT, n = 64). Results were correlated with clinical, histologic,
+  and survival data.  Gain of 1q was the most frequent imbalance in primary (7/42,
+  17%) and recurrent ependymomas (2/6, 33%). Gain of 1q25 was an independent predictor
+  of tumor progression across the pooled trial cohort [HR = 2.55; 95% confidence interval
+  (CI): 1.56-4.16; P = 0.0002] and both CNS9204 (HR = 4.03; 95% CI: 1.88-8.63) and
+  BBSFOP (HR = 3.10; 95% CI: 1.22-7.86) groups. The only clinical variable associated
+  with adverse outcome was incomplete tumor resection. Integrating tumor resectability
+  with 1q25 status enabled stratification of cases into disease progression risk groups
+  for all three trial cohorts.  This is the first study to validate a prognostic genomic
+  marker for childhood ependymoma across independent trial groups. 1q25 gain predicts
+  disease progression and can contribute to patient risk stratification. We advocate
+  the prospective evaluation of 1q25 gain as an adverse marker in future international
+  clinical trials.  ï¿½2012 AACR.'
+authors: Kilday JP, Mitra B, Domerg C, Ward J, Andreiuolo F, Osteso-Ibanez T, Mauguen
+  A, Varlet P, Le Deley MC, Lowe J, Ellison DW, Gilbertson RJ, Coyle B, Grill J and
+  Grundy RG
+contact:
+  email: Richard.Grundy@nottingham.ac.uk
+  name: 44-0-115-823-0620
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22338015
+- geo:GSE32101
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.15
+    - 52.95
+    type: Point
+  info:
+    city: Nottingham
+    continent: Europe
+    country: United Kingdom
+    label: Nottingham, United Kingdom, Europe
+    precision: city
+journal: Clin. Cancer Res. 18(7), 2012
+label: 'Kilday JP et al. (2012): '
+notes: ~
+pmid: 22338015
+title: 'Copy number gain of 1q25 predicts poor progression-free survival for pediatric
+  intracranial ependymomas and enables patient risk stratification: a prospective
+  European clinical trial cohort analysis on behalf of the Children''s Cancer Leukaemia
+  Group (CCLG), Societe Francaise d''Oncologie Pediatrique (SFOP), and International
+  Society for Pediatric Oncology (SIOP).'
+year: 2012

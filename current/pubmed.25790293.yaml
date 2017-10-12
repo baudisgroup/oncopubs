@@ -1,0 +1,51 @@
+---
+abstract: There is incomplete understanding of genetic heterogeneity and clonal evolution
+  during cancer progression. Here we use deep whole-exome sequencing to describe the
+  clonal architecture and evolution of 20 pediatric B-acute lymphoblastic leukaemias
+  from diagnosis to relapse. We show that clonal diversity is comparable at diagnosis
+  and relapse and clonal survival from diagnosis to relapse is not associated with
+  mutation burden. Six pathways were frequently mutated, with NT5C2, CREBBP, WHSC1,
+  TP53, USH2A, NRAS and IKZF1 mutations enriched at relapse. Half of the leukaemias
+  had multiple subclonal mutations in a pathway or gene at diagnosis, but mostly with
+  only one, usually minor clone, surviving therapy to acquire additional mutations
+  and become the relapse founder clone. Relapse-specific mutations in NT5C2 were found
+  in nine cases, with mutations in four cases being in descendants of the relapse
+  founder clone. These results provide important insights into the genetic basis of
+  treatment failure in ALL and have implications for the early detection of mutations
+  driving relapse.
+authors: Ma X, Edmonson M, Yergeau D, Muzny DM, Hampton OA, Rusch M, Song G, Easton
+  J, Harvey RC, Wheeler DA, Ma J, Doddapaneni H, Vadodaria B, Wu G, Nagahawatte P,
+  Carroll WL, Chen IM, Gastier-Foster JM, Relling MV, Smith MA, Devidas M, Guidry
+  Auvil JM, Downing JR, Loh ML, Willman CL, Gerhard DS, Mullighan CG, Hunger SP and
+  Zhang J
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 40
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 40
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25790293
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Nat Commun 6, 2015
+label: 'Ma et al. (): Rise and fall of subclones from diagnosis to relapse in pediatric
+  B-acute lymphoblastic ...'
+notes: ~
+pmid: 25790293
+title: Rise and fall of subclones from diagnosis to relapse in pediatric B-acute lymphoblastic
+  leukaemia.
+year: 2015

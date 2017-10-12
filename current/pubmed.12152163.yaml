@@ -1,0 +1,59 @@
+---
+abstract: 'The genetic changes involved in the pathogenesis of ovarian carcinoma are
+  not completely understood. To investigate this matter, we studied paraffin-embedded,
+  microdissected tissue of 47 ovarian epithelial tumors 9 adenomas, 11 tumors of low
+  malignant potential LMP , 14 serous carcinomas, and 13 nonserous carcinomas using
+  comparative genomic hybridization CGH . The primary data used in this study are
+  available at our CGH online tumor database at http: amba.charite.de cgh. Chromosomal
+  imbalances were found in 1 serous adenoma and in 7 LMP tumors. In the latter the
+  alterations appeared randomly and showed no overlap with alterations found in invasive
+  carcinomas. Although the mean aberration number of low-grade serous carcinomas was
+  comparable to LMP tumors, the imbalances of the former occurred with high incidence
+  amp gt 50 and were found at different localizations. High-grade serous carcinomas
+  had more than twice as much chromosomal imbalances as low-grade serous carcinomas
+  and also had pronounced alterations. In serous carcinomas, gains were found on 3q,
+  6p, 7, 8q, and 20, and losses were found on 4q, 6q, 12q, 13q, and 16q. Comparing
+  serous and nonserous carcinomas, the mean aberration number was comparable, but
+  the number of high incidence changes was lower, and the most frequent imbalances
+  were losses on 13q and gains on 20p. Overlapping alterations occurring in serous
+  and nonserous carcinomas were gains on 3q and 6p, as well as losses on 4q. Chromosomal
+  imbalances associated with poor prognosis of ovarian carcinomas were gains on 6p,
+  7q, and 13q and losses on 15q, 17p, 18q, and 21q. Our data indicate that serous
+  LMP tumors and invasive carcinomas have different genetic aberrations, indicating
+  that invasive carcinomas do not arise from preexisting serous LMP tumors. On the
+  other hand, there are common genetic abnormalities in serous and nonserous carcinomas,
+  suggesting that they have very early lesions in common but take different paths
+  of further development.'
+authors: Hauptmann S, Denkert C, Koch I, Petersen S, Schluns K, Reles A, Dietel M
+  and Petersen I.
+contact:
+  email: steffen.hauptmann@charite.de
+  name: Steffen Hauptmann
+counts:
+  biosamples: 47
+  samples_acgh: 0
+  samples_ccgh: 47
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12152163
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'Hum Pathol 33, 6 (2002): 632-41.'
+label: 'Hauptmann et al. (2002): Genetic Alterations in Epithelial Ovarian Tumors
+  Analyzed By Comparative Genomic ...'
+notes: ~
+pmid: 12152163
+title: Genetic Alterations in Epithelial Ovarian Tumors Analyzed By Comparative Genomic
+  Hybridization.
+year: 2002

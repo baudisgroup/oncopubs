@@ -1,0 +1,36 @@
+---
+abstract: Balkan endemic nephropathy BEN is seen in certain regions of the Balkan
+  Peninsula. The patients are predisposed to epithelial cell tumors of the urinary
+  tract. These tumors have not been genetically investigated so far.
+authors: Toncheval DI, Atanassova SY, Gergov TD, Todorovska EG, Roeva IG, Georgiev
+  TH, Fink-Gremmels J and Zaharieva BM.
+contact:
+  email: draga@spnet.net
+  name: D. Toncheva
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12243368
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.32
+    - 42.7
+    type: Point
+  info:
+    city: Sofia
+    continent: Europe
+    country: Bulgaria
+    label: Sofia, Bulgaria, Europe
+    precision: city
+journal: 'J Nephrol 15, 4 (2002): 387-93.'
+label: 'Toncheval et al. (2002): Genetic Changes in Uroepithelial Tumors of Patients
+  With Balkan Endemic Nephropathy.'
+notes: ~
+pmid: 12243368
+title: Genetic Changes in Uroepithelial Tumors of Patients With Balkan Endemic Nephropathy.
+year: 2002

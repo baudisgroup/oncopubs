@@ -1,0 +1,51 @@
+---
+abstract: Splenic marginal zone lymphoma SMZL has recently been recognized in the
+  World Health Organization classification of hematological diseases as distinct type
+  of non-Hodgkins lymphoma. In contrast to the well-established chromosomal changes
+  associated with other B-cell non-Hodgkins lymphoma, few genetic alterations have
+  been found associated with SMZL. The aim of our study was to analyze by comparative
+  genomic hybridization CGH the chromosomal imbalances in 29 patients with SMZL and
+  to correlate these findings with clinical and biological characteristics and patient
+  outcome. In 21 cases, cytogenetic studies were simultaneously performed. Most of
+  the patients 83 displayed genomic imbalances. A total of 111 DNA copy number changes
+  were detected with a median of four abnormalities per case range, 1 to 12 . Gains
+  n 92 were more frequent than losses n 16 , while three high-level amplifications
+  3q26-q29, 5p11-p15, and 17q22-q25 were observed. The most frequent gains involved
+  3q 31 , 5q 28 , 12q and 20q 24 each , 9q 21 , and 4q 17 . Losses were observed in
+  7q 14 and 17p 10 . SMZL patients with genetic losses had a shorter survival than
+  the remaining SMZL patients P amp lt 0.05 . In summary, chromosomal imbalances in
+  regions 3q, 4q, 5q, 7q, 9q, 12q, and 20q have been detected by CGH in SMZL. Patients
+  with SMZL displaying genetic losses by CGH had a short survival.
+authors: Hernandez JM, Garcia JL, Gutierrez NC, Mollejo M, Martinez-Climent JA, Flores
+  T, Gonzalez MB, Piris MA and San Miguel JF.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11337382
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: Europe
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: 'Am J Pathol 158, 5 (2001): 1843-50.'
+label: 'Hernandez et al. (2001): Novel Genomic Imbalances in B-Cell Splenic Marginal
+  Zone Lymphomas Revealed By Comparative ...'
+notes: ~
+pmid: 11337382
+title: Novel Genomic Imbalances in B-Cell Splenic Marginal Zone Lymphomas Revealed
+  By Comparative Genomic Hybridization and Cytogenetics.
+year: 2001

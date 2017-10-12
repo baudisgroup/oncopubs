@@ -1,0 +1,38 @@
+---
+abstract: We have demonstrated that overexpression of osteopontin OPN could contribute
+  to metastasis in hepatocellular carcinoma HCC , and that OPN-positive cancer cells
+  are often localized in the periphery of cancer nodules adjacent to stromal cells.
+  This study was to identify the difference of intratumor genomic aberrations between
+  OPN-positive and OPN-negative HCC cells.
+authors: Wu JC, Sun BS, Ren N, Ye QH and Qin LX.
+contact:
+  email: qin_lx@yahoo.com
+  name: Lun-Xiu Qin
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19834740
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: 'J Cancer Res Clin Oncol 136, 4 (2010): 595-601.'
+label: 'Wu et al. (2010): Genomic Aberrations in Hepatocellular Carcinoma Related
+  to Osteopontin Expression Detected By ...'
+notes: ~
+pmid: 19834740
+title: Genomic Aberrations in Hepatocellular Carcinoma Related to Osteopontin Expression
+  Detected By Array-Cgh.
+year: 2010

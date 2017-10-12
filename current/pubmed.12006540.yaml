@@ -1,0 +1,36 @@
+---
+abstract: Histological and other markers alone cannot predict the risk of disease
+  progression in node-negative breast cancer. Several genomic aberrations have been
+  linked to clinical outcome in breast cancer.
+authors: Dellas A, Torhorst J, Schultheiss E, Mihatsch MJ and Moch H.
+contact:
+  email: a.dellas@unibas.ch
+  name: Athanassios Dellas
+counts:
+  biosamples: 40
+  samples_acgh: 0
+  samples_ccgh: 40
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12006540
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Clin Cancer Res 8, 5 (2002): 1210-16.'
+label: 'Dellas et al. (2002): DNA Sequence Losses on Chromosomes 11p and 18q Are Associated
+  With Clinical Outcome in Lymph ...'
+notes: ~
+pmid: 12006540
+title: DNA Sequence Losses on Chromosomes 11p and 18q Are Associated With Clinical
+  Outcome in Lymph Node-Negative Ductal Breast Cancer.
+year: 2002

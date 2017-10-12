@@ -1,0 +1,44 @@
+---
+abstract: Comparative genomic hybridization CGH analysis was performed for the identification
+  of chromosomal imbalances in two benign gynecomastias and one malignant breast carcinoma
+  derived from patients with male breast disease and compared with cytogenetic analysis
+  in two of the three cases. CGH analysis demonstrated overrepresentation of 8q in
+  all three cases. One case of gynecomastia presented gain of 1p34.3 through pter,
+  11p14 through q12, and 17p11.2 through qter, and loss of 1q41 through qter and 4q33
+  through qter. The other gynecomastia presented del 1 q41 as detected by both cytogenetic
+  and CGH analysis. CGH analysis of the invasive ductal carcinoma confirmed a gain
+  of 17p11.2 through qter previously detected by cytogenetic analysis. These regions
+  showed some similarity in their pattern of imbalance to the chromosomal alterations
+  described in female and male breast cancer.
+authors: Ojopi EP, Cavalli LR, Cavalieri LM, Squire JA and Rogatto SR.
+contact:
+  email: ~
+  name: NA Rogatto
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12034524
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: 'Cancer Genet Cytogenet 134, 2 (2002): 123-26.'
+label: 'Ojopi et al. (2002): Comparative Genomic Hybridization Analysis of Benign
+  and Invasive Male Breast Neoplasms.'
+notes: ~
+pmid: 12034524
+title: Comparative Genomic Hybridization Analysis of Benign and Invasive Male Breast
+  Neoplasms.
+year: 2002

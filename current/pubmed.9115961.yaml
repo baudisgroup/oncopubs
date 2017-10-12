@@ -1,0 +1,53 @@
+---
+abstract: Comparative genomic hybridization CGH was used in a retrospective analysis
+  of chromosomal imbalances in frozen primary tumor specimens from 14 endometrial
+  carcinoma patients. Chromosome changes were detected in nine cases 64 , and tumor
+  stage and grade tended to parallel the degree of genomic imbalances. Gain of the
+  entire long arm of chromosome 1 was observed in six cases 43 , three of which displayed
+  only this chromosome change. Other common sites of copy number increases included
+  8q21-- amp gt qter 4 cases , 10p15 4 cases , 10q11-- amp gt q24 3 cases , and 13q21--
+  amp gt qter 3 cases, each with stage III disease . Two of the tumors with gains
+  of chromosome 10 involved the whole chromosome, and this was the sole abnormality
+  in one case. DNA amplification at 5p14-- amp gt p15 was identified in one specimen,
+  a stage III tumor having numerous imbalances. DNA microsatellite analysis revealed
+  multiple replication errors RER , indicative of the RER phenotype, in four of 13
+  31 cases evaluated. The RER phenotype was observed in four of six stage la tumors
+  but in none of seven stage Ib or stage III tumors. Multiple genomic imbalances detected
+  by CGH were not observed in RER tumors but were detected in five of nine tumors
+  without the RER phenotype. These investigations demonstrate the feasibility of CGH
+  for the retrospective assessment of chromosomal changes in endometrial carcinoma
+  specimens. Moreover, these data suggest that the etiologies in tumors with and without
+  the RER phenotype may differ.
+authors: Sonoda G, du Manoir S, Godwin AK, Bell DW, Liu Z, Hogan M, Yakushiji M and
+  Testa JR.
+contact:
+  email: horii@mail.cc.tohoku.ac.jp
+  name: Akira Horii
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9115961
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 18, 2 (1997): 115-25.'
+label: 'Sonoda et al. (1997): Detection of DNA Gains and Losses in Primary Endometrial
+  Carcinomas By Comparative Genomic ...'
+notes: ~
+pmid: 9115961
+title: Detection of DNA Gains and Losses in Primary Endometrial Carcinomas By Comparative
+  Genomic Hybridization.
+year: 1997

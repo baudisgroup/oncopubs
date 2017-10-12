@@ -1,0 +1,52 @@
+---
+abstract: 'We investigated relationships between DNA copy number aberrations and chromosomal
+  structural rearrangements in 11 different cell lines derived from oral squamous
+  cell carcinoma OSCC by comparative genomic hybridization CGH , spectral karyotyping
+  SKY , and fluorescence in situ hybridization FISH . CGH frequently showed recurrent
+  chromosomal gains of 5p, 20q12, 8q23 approximately qter, 20p11 approximately p12,
+  7p15, 11p13 approximately p14, and 14q21, as well as losses of 4q, 18q, 4p11 approximately
+  p15, 19p13, 8p21 approximately pter, and 16p11 approximately p12. SKY identified
+  the following recurrent chromosomal abnormalities: i 5 p10 , i 5 q10 , i 8 q10 ,
+  der X 1 q10 p10 , der 3 5 p10 p10 , and der 3 18 q10 p10 . In addition, breakpoints
+  detected by SKY were clustered in 11q13 and around centromeric regions, including
+  5p10 q10, 3p10 q10, 8p10 q10 14q10, 1p10 1q10, and 16p10 16q10. Cell lines with
+  i 5 p10 and i 8 q10 showed gains of the entire chromosome arms of 5p and 8q by CGH.
+  Moreover, breakages near the centromeres of chromosomes 5 and 8 may be associated
+  with 5p gain, 8q gain, and 8p loss in OSCC. FISH with a DNA probe from a BAC clone
+  mapping to 5p15 showed a significant correlation between the average numbers of
+  i 5 p10 and 5p15 R 2 0.8693, P amp lt 0.01 in these cell lines, indicating that
+  DNA copy number of 5p depends upon isochromosome formation in OSCC.'
+authors: Uchida K, Oga A, Okafuji M, Mihara M, Kawauchi S, Furuya T, Chochi Y, Ueyama
+  Y and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16737909
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 167, 2 (2006): 109-16.'
+label: 'Uchida et al. (2006): Molecular Cytogenetic Analysis of Oral Squamous Cell
+  Carcinomas By Comparative Genomic ...'
+notes: Only the SKY data of the 11 cell lines is available; for CGH, an ideogram is
+  presented.
+pmid: 16737909
+title: Molecular Cytogenetic Analysis of Oral Squamous Cell Carcinomas By Comparative
+  Genomic Hybridization, Spectral Karyotyping, and Fluorescence in Situ Hybridization.
+year: 2006

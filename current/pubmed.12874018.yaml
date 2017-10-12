@@ -1,0 +1,58 @@
+---
+abstract: Genomic amplification can lead to the activation of cellular proto-oncogenes
+  during tumorigenesis, and is observed in most, if not all, human malignancies, including
+  adenocarcinomas of lung and esophagus. Using a two-dimensional restriction landmark
+  genomic scanning technique, we identified five NotI HinfI fragments with increased
+  genomic dosage in an adenocarcinoma of the gastroesophageal junction. Four of these
+  amplified fragments were matched within three contigs of chromosome 12 using the
+  bioinformatics tool, Virtual Genome Scan. All three of the contigs map to the 12q13-q14
+  region, and the regional amplification in the tumor was verified using comparative
+  genomic hybridization analysis. The 12q14 amplicon was characterized using sequence
+  tagged site-amplification mapping with DNA from paired normal-tumor tissues of 75
+  gastroesophageal and 37 lung adenocarcinomas. The amplicon spans a region of amp
+  gt 12 Mb between genes DGKA and BLOV1. The core-amplified domain was determined
+  to be amp lt 0.5 Mb between marker WI-12457 and gene IFNG. However, MDM2, a well-documented
+  oncogene of the region, is outside the core-domain. Eleven genes and expressed sequence
+  tags within the amplicon were selected for quantitative reverse transcription-PCR,
+  and DYRK2, a member of the dual-specificity kinase family, was overexpressed in
+  all of the tumors showing gene amplification. Among the sequence tagged site expressed
+  sequence tag gene markers tested, DYRK2 demonstrated the highest DNA copy number
+  and the highest level of mRNA overexpression in the tumors. Moreover, DYRK2 mRNA
+  overexpression amp gt 2.5-fold of normal mean was found in 18.6 of additional 86
+  lung adenocarcinomas in an assay using oligonucleotide microarrays. DYRK2 mRNA overexpression
+  occurs more frequently than gene amplification in both esophageal and lung adenocarcinomas.
+  This is the first report of amplification and overexpression of DYRK2 in any tumor
+  type.
+authors: Miller CT, Aggarwal S, Lin TK, Dagenais SL, Contreras JI, Orringer MB, Glover
+  TW, Beer DG and Lin L.
+contact:
+  email: linlin@umich.edu
+  name: Lin Lin
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12874018
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: 'Cancer Res 63, 14 (2003): 4136-43.'
+label: 'Miller et al. (2003): Amplification and Overexpression of the Dual-Specificity
+  Tyrosine-(Y)-Phosphorylation Regulated ...'
+notes: ~
+pmid: 12874018
+title: Amplification and Overexpression of the Dual-Specificity Tyrosine-(Y)-Phosphorylation
+  Regulated Kinase 2 (Dyrk2) Gene in Esophageal and Lung Adenocarcinomas.
+year: 2003

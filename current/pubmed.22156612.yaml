@@ -1,0 +1,54 @@
+---
+abstract: Small-cell prostate carcinoma (SCPC) morphology predicts for a distinct
+  clinical behavior, resistance to androgen ablation, and frequent but short responses
+  to chemotherapy. We sought to develop model systems that reflect human SCPC and
+  can improve our understanding of its biology.We developed a set of castration-resistant
+  prostate carcinomas xenografts and examined their fidelity to their human tumors
+  of origin. We compared the expression and genomic profiles of SCPC and large-cell
+  neuroendocrine carcinoma (LCNEC) xenografts to those of typical prostate adenocarcinoma
+  xenografts. Results were validated immunohistochemically in a panel of 60 human
+  tumors.The reported SCPC and LCNEC xenografts retain high fidelity to their human
+  tumors of origin and are characterized by a marked upregulation of UBE2C and other
+  mitotic genes in the absence of androgen receptor (AR), retinoblastoma (RB1), and
+  cyclin D1 (CCND1) expression. We confirmed these findings in a panel of samples
+  of CRPC patients. In addition, array comparative genomic hybridization of the xenografts
+  showed that the SCPC/LCNEC tumors display more copy number variations than the adenocarcinoma
+  counterparts. Amplification of the UBE2C locus and microdeletions of RB1 were present
+  in a subset, but none displayed AR nor CCND1 deletions. The AR, RB1, and CCND1 promoters
+  showed no CpG methylation in the SCPC xenografts.Modeling human prostate carcinoma
+  with xenografts allows in-depth and detailed studies of its underlying biology.
+  The detailed clinical annotation of the donor tumors enables associations of anticipated
+  relevance to be made. Future studies in the xenografts will address the functional
+  significance of the findings.
+authors: Tzelepi V, Zhang J, Lu JF, Kleb B, Wu G, Wan X, Hoang A, Efstathiou E, Sircar
+  K, Navone NM, Troncoso P, Liang S, Logothetis CJ, Maity SN, Aparicio AM.
+contact:
+  email: jiexinzhang@mdanderson.org
+  name: Jiexin Zhang
+counts:
+  biosamples: 6
+  samples_acgh: 6
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22156612
+- geo:GSE33053
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 18(3), 2012
+label: ' (2012): '
+notes: ~
+pmid: 22156612
+title: Modeling a lethal prostate cancer variant with small-cell carcinoma features.
+year: 2012

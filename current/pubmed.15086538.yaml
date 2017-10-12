@@ -1,0 +1,49 @@
+---
+abstract: 'Information on chromosomal aberrations in cutaneous T cell lymphomas CTCL
+  , is scarce. In this study, comparative genomic hybridization CGH was used to analyze
+  chromosomal imbalances CI in 32 patients with CTCL. CI were detected in 21 patients
+  66 . Euchromatic loss dim was localized most frequently amp gt 16 at the chromosomal
+  regions 17p 28 , 13q 25 , 10q 16 , and 6q 19 , and gain of chromatin enh at 7 25
+  , 8q 25 , and 17q 16 . The pattern dim6q-enh7-enh8-dim13 was the most frequent combination
+  of CI. The number of aberrations per tumor sample varied between 0 and 19 and correlated
+  with clinical tumor stages: from none in stage Ia to 8.75 -1.8 mean -SEM in stage
+  IVa. CI occurred more frequently in aggressive subtypes 9.33 -2.16 than in indolent
+  2.88 -0.8 subtypes. A high number of CI amp gt 5 was associated with shorter survival.
+  Gain of chromatin in 8q and loss of 6q and 13q correlated with a significantly shorter
+  survival, whereas the most frequently observed aberrations loss in 17p and gain
+  in 7 did not influence the prognosis. In summary, CGH analysis revealed a characteristic
+  pattern of recurring chromosomal gains and losses in CTCL. The association of the
+  imbalances with the clinical course of the disease suggests that genes encoded at
+  these loci may influence tumor development and progression.'
+authors: Fischer TC, Gellrich S, Muche JM, Sherev T, Audring H, Neitzel H, Walden
+  P, Sterry W and Tonnies H.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15086538
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'J Invest Dermatol 122, 3 (2004): 579-86.'
+label: 'Fischer et al. (2004): Genomic Aberrations and Survival in Cutaneous T Cell
+  Lymphomas.'
+notes: ~
+pmid: 15086538
+title: Genomic Aberrations and Survival in Cutaneous T Cell Lymphomas.
+year: 2004

@@ -1,0 +1,52 @@
+---
+abstract: 'AIM:To identify molecular markers shared across South African esophageal
+  squamous cell carcinoma ESCC cell lines using cytogenetics, fluorescence in situ
+  hybridization FISH and single nucleotide polymorphism SNP array copy number analysis.METHODS:We
+  used conventional cytogenetics, FISH, and multicolor FISH to characterize the chromosomal
+  rearrangements of five ESCC cell lines established in South Africa. The whole genome
+  copy number profile was established from 250K SNP arrays, and data was analyzed
+  with the CNAT 4.0 and GISTIC software.RESULTS:We detected common translocation breakpoints
+  involving chromosomes 1p11-12 and 3p11.2, the latter correlated with the deletion,
+  or interruption of the EPHA3 gene. The most significant amplifications involved
+  the following chromosomal regions and genes: 11q13.3 CCND1, FGF3, FGF4, FGF19, MYEOV
+  , 8q24.21 C-MYC, FAM84B , 11q22.1-q22.3 BIRC2, BIRC3 , 5p15.2 CTNND2 , 3q11.2-q12.2
+  MINA and 18p11.32 TYMS, YES1 . The significant deletions included 1p31.2-p31.1 CTH,
+  GADD45 , DIRAS3 , 2q22.1 LRP1B , 3p12.1-p14.2 FHIT , 4q22.1-q32.1 CASP6, SMAD1 ,
+  8p23.2-q11.1 BNIP3L and 18q21.1-q21.2 SMAD4, DCC . The 3p11.2 translocation breakpoint
+  was shared across four cell lines, supporting a role for genes involved at this
+  site, in particular, the EPHA3 gene which has previously been reported to be deleted
+  in ESCC.CONCLUSION:The finding that a significant number of genes that were amplified
+  FGF3, FGF4, FGF19, CCND1 and C-MYC or deleted SFRP2 gene are involved in the Wnt
+  and fibroblast growth factor signaling pathways, suggests that these pathways may
+  be activated in these cell lines.'
+authors: Brown J, Bothma H, Veale R and Willem P.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21734802
+geo_data:
+  geo_json:
+    coordinates:
+    - 28.04
+    - -26.2
+    type: Point
+  info:
+    city: Johannesburg
+    continent: Africa
+    country: South Africa
+    label: Johannesburg, South Africa, Africa
+    precision: city
+journal: 'World journal of gastroenterology : WJG (2011) 17: 2909-2923.'
+label: 'Brown et al. (2011): Genomic imbalances in esophageal carcinoma cell lines
+  involve Wnt pathway genes.'
+notes: ~
+pmid: 21734802
+title: Genomic imbalances in esophageal carcinoma cell lines involve Wnt pathway genes.
+year: 2011

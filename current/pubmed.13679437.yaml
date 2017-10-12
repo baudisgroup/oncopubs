@@ -1,0 +1,52 @@
+---
+abstract: Clear cell sarcoma of the kidney CCSK represents a significant diagnostic
+  and clinical challenge. In search of diagnostically useful or biologically significant
+  genetic abnormalities, we screened 30 CCSKs from the National Wilms Tumor Study
+  Group. Genetic gains and losses were analyzed using comparative genomic hybridization
+  loss of heterozygosity at 11p15 was studied using microsatellite analysis. Loss
+  of imprinting LOI was studied using allele-specific expression or methylation analysis
+  at the ApaI polymorphic site for IGF2, AluI and RsaI sites for H19, and Cfo I site
+  for SNRPN. Comparative genomic hybridization analysis revealed quantitative abnormalities
+  in only 4 of 30 CCSKs. Two showed gain of 1q, one also showed loss of 10q, and the
+  other also showed loss of terminal 4p. The other two cases demonstrated chromosome
+  19 loss and chromosome 19p gain, respectively. All 22 cases informative for 11p15
+  showed retention of both alleles. Of 14 CCSKs informative for IGF2, six showed biallelic
+  expression all three CCSKs informative for H19 exhibited monoallelic expression.
+  The normal imprint pattern was present in all six CCSKs analyzed for SNRPN methylation.
+  These data demonstrate an absence of consistent genetic gains or losses in CCSKs
+  using these methods. The high frequency of LOI for IGF2 in CCSKs 43 is comparable
+  to that reported in Wilms tumors. The retention of imprinting at the SNRPN and H19
+  loci confirm that LOI is not a ubiquitous epigenetic change. This suggests that
+  IGF2, a potent growth factor, may play a role in the development or progression
+  of CCSK.
+authors: Schuster AE, Schneider DT, Fritsch MK, Grundy P and Perlman EJ.
+contact:
+  email: eperlman@childrensmemorial.org
+  name: Elizabeth J. Perlman
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:13679437
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: North America
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: 'Lab Invest 83, 9 (2003): 1293-99.'
+label: 'Schuster et al. (2003): Genetic and Genetic Expression Analyses of Clear Cell
+  Sarcoma of the Kidney.'
+notes: ~
+pmid: 13679437
+title: Genetic and Genetic Expression Analyses of Clear Cell Sarcoma of the Kidney.
+year: 2003

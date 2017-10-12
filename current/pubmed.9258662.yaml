@@ -1,0 +1,53 @@
+---
+abstract: Breast tumor development and progression are thought to be driven by an
+  accumulation of genetic alterations, but little is known about the specific changes
+  that occur during the metastatic process. We analyzed pairs of primary breast cancers
+  and their matched lymph node metastases from 11 patients, pairs of primaries and
+  distant metastases from three patients, and pairs of primaries, and local recurrences
+  from two patients by using comparative genomic hybridization CGH . Simultaneous
+  hybridization analysis of primary versus matched lesion DNAs from 11 patients was
+  also performed modified CGH . This modified approach was useful not only for confirming
+  CGH results but also for demonstrating quantitative differences between aberrations
+  present at both sites. Frequent chromosomal changes present at both sites amp gt
+  35 of 16 cases were 1q, 8q, and 17q gains and 6q, 8p, 9q, 13q, 16q, 17p, and Xp
+  losses. The total number of aberrations detected exclusively in the lymph nodes
+  or distant metastases was higher than that in the primary tumors 2.5 vs. 0.7, P
+  amp lt 0.05 . We found high-level amplifications in four metastases two lymph nodes
+  and two distant metastases , but none in any primary tumor. These findings suggest
+  that progression from primary breast cancer to metastasis may be associated with
+  the acquisition of further genetic changes. Although further investigations are
+  required, it was of interest that 3 of 11 patients 27 showed 18q loss solely in
+  their lymph node metastases.
+authors: Nishizaki T, DeVries S, Chew K, Goodson WH 3rd, Ljung BM, Thor A and Waldman
+  FM.
+contact:
+  email: nishi-ygc@umin.u-tokyo.ac.jp
+  name: Takafumi Nishizaki
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9258662
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 19, 4 (1997): 267-72.'
+label: 'Nishizaki et al. (1997): Genetic Alterations in Primary Breast Cancers and
+  Their Metastases: Direct Comparison Using ...'
+notes: ~
+pmid: 9258662
+title: 'Genetic Alterations in Primary Breast Cancers and Their Metastases: Direct
+  Comparison Using Modified Comparative Genomic Hybridization.'
+year: 1997

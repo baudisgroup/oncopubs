@@ -1,0 +1,56 @@
+---
+abstract: ' BACKGROUND: Intracranial pediatric germ cell tumors (GCTs) are rare and
+  heterogeneous neoplasms and vary in histological differentiation, prognosis and
+  clinical behavior. Germinoma and mature teratoma are GCTs that have a good prognosis,
+  while other types of GCTs, termed nongerminomatous malignant germ cell tumors (NGMGCTs),
+  are tumors with an intermediate or poor prognosis. The second group of tumors requires
+  more extensive drug and irradiation treatment regimens. The mechanisms underlying
+  the differences in incidence and prognosis of the various GCT subgroups are unclear.
+  RESULTS: We identified a distinct mRNA profile correlating with GCT histological
+  differentiation and prognosis, and also present in this study the first miRNA profile
+  of pediatric primary intracranial GCTs. Most of the differentially expressed miRNAs
+  were downregulated in germinomas, but miR-142-5p and miR-146a were upregulated.
+  Genes responsible for self-renewal (such as POU5F1 (OCT4), NANOG and KLF4) and the
+  immune response were abundant in germinomas, while genes associated with neuron
+  differentiation, Wnt/beta-catenin pathway, invasiveness and epithelial-mesenchymal
+  transition (including SNAI2 (SLUG) and TWIST2) were abundant in NGMGCTs. Clear transcriptome
+  segregation based on patient survival was observed, with malignant NGMGCTs being
+  closest to embryonic stem cells. Chromosome copy number variations (CNVs) at cytobands
+  4q13.3-4q28.3 and 9p11.2-9q13 correlated with GCT malignancy and clinical risk.
+  Six genes (BANK1, CXCL9, CXCL11, DDIT4L, ELOVL6 and HERC5) within 4q13.3-4q28.3
+  were more abundant in germinomas. CONCLUSIONS: Our results integrate molecular profiles
+  with clinical observations and provide insights into the underlying mechanisms causing
+  GCT malignancy. The genes, pathways and microRNAs identified have the potential
+  to be novel therapeutic targets.'
+authors: Wang HW, Wu YH, Hsieh JY, Liang ML, Chao ME, Liu DJ, Hsu MT, Wong TT.
+contact:
+  email: allenwu03@gmail.com
+  name: YuHsuan Wu
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20178649
+- geo:GSE19349
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: BMC Genomics 11, 2010
+label: ' (2010): '
+notes: ~
+pmid: 20178649
+title: Pediatric primary central nervous system germ cell tumors of different prognosis
+  groups show characteristic miRNome traits and chromosome copy number variations.
+year: 2010

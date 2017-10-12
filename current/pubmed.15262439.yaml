@@ -1,0 +1,45 @@
+---
+abstract: Breast cancer is the second leading cause of death in women older than 35
+  years in Mexico. In this study, we used comparative genomic hybridization CGH to
+  analyze sporadic breast cancers at stages II and III from untreated patients. We
+  obtained 4.1 chromosomal alterations per sample, less than in previous reports.
+  We identified a small region in Xq27 with high-level amplification in 3 of 16 samples.
+  This amplification has been reported only in pancreatic and gastric cancer cell
+  lines and in testis tumors in addition, this amplification had been reported in
+  one primary breast cancer, but in a more extended region that we identified. We
+  also identified a loss in 2p13, not previously reported in this neoplasia. The most
+  frequent alterations were amplifications in 4q, 5q, 8q, 12p, and 13q and losses
+  in 1p, 8p, 16p, 19q, and Xp. CGH provides data for better understanding of molecular
+  events in this neoplasia.
+authors: Valladares A, Salamanca F, Madrigal-Bujaidar E and Arenas D.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 16
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15262439
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: North America
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 152, 2 (2004): 163-66.'
+label: 'Valladares et al. (2004): Identification of Chromosomal Changes With Comparative
+  Genomic Hybridization in Sporadic ...'
+notes: ~
+pmid: 15262439
+title: Identification of Chromosomal Changes With Comparative Genomic Hybridization
+  in Sporadic Breast Cancer in Mexican Women.
+year: 2004

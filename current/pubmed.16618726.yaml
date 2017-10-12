@@ -1,0 +1,54 @@
+---
+abstract: 'To identify genetic changes involved in the progression of breast carcinoma,
+  we did cDNA array comparative genomic hybridization CGH on a panel of breast tumors,
+  including 10 ductal carcinoma in situ DCIS , 18 invasive breast carcinomas, and
+  two lymph node metastases. We identified 49 minimal commonly amplified regions MCRs
+  that included known 1q, 8q24, 11q13, 17q21-q23, and 20q13 and several uncharacterized
+  12p13 and 16p13 regional copy number gains. With the exception of the 17q21 ERBB2
+  amplicon, the overall frequency of copy number alterations was higher in invasive
+  tumors than that in DCIS, with several of them present only in invasive cancer.
+  Amplification of candidate loci was confirmed by quantitative PCR in breast carcinomas
+  and cell lines. To identify putative targets of amplicons, we developed a method
+  combining array CGH and serial analysis of gene expression SAGE data to correlate
+  copy number and expression levels for each gene within MCRs. Using this approach,
+  we were able to distinguish a few candidate targets from a set of coamplified genes.
+  Analysis of the 12p13-p12 amplicon identified four putative targets: TEL ETV6, H2AFJ,
+  EPS8, and KRAS2. The amplification of all four candidates was confirmed by quantitative
+  PCR and fluorescence in situ hybridization, but only H2AFJ and EPS8 were overexpressed
+  in breast tumors with 12p13 amplification compared with a panel of normal mammary
+  epithelial cells. These results show the power of combined array CGH and SAGE analysis
+  for the identification of candidate amplicon targets and identify H2AFJ and EPS8
+  as novel putative oncogenes in breast cancer.'
+authors: Yao J, Weremowicz S, Feng B, Gentleman RC, Marks JR, Gelman R, Brennan C
+  and Polyak K.
+contact:
+  email: kornelia_polyak@dfci.harvard.edu
+  name: Kornelia Polyak
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16618726
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Res 66, 8 (2006): 4065-78.'
+label: 'Yao et al. (2006): Combined Cdna Array Comparative Genomic Hybridization and
+  Serial Analysis of Gene Expression Analysis ...'
+notes: ~
+pmid: 16618726
+title: Combined Cdna Array Comparative Genomic Hybridization and Serial Analysis of
+  Gene Expression Analysis of Breast Tumor Progression.
+year: 2006

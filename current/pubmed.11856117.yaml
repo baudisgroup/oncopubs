@@ -1,0 +1,36 @@
+---
+abstract: To identify chromosomal regions important for progression in clinically
+  organ-confined prostate cancer, as the genetic changes underlying the development
+  and progression of prostate cancer are poorly understood.
+authors: Wolter H, Gottfried HW and Mattfeldt T.
+contact:
+  email: ~
+  name: NA Mattfeldt
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 50
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11856117
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'BJU Int 89, 3 (2002): 310-16.'
+label: 'Wolter et al. (2002): Genetic Changes in Stage Pt2N0 Prostate Cancer Studied
+  By Comparative Genomic Hybridization.'
+notes: ~
+pmid: 11856117
+title: Genetic Changes in Stage Pt2N0 Prostate Cancer Studied By Comparative Genomic
+  Hybridization.
+year: 2002

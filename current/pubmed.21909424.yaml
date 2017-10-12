@@ -1,0 +1,56 @@
+---
+abstract: Bladder carcinogenesis is believed to follow two alternative pathways driven
+  by the loss of chromosome 9 and the gain of chromosome 7, albeit other nonrandom
+  copy number alterations CNAs were identified. However, confirmation studies are
+  needed since many aspects of this model remain unclear and considerable heterogeneity
+  among cases has emerged. One of the purposes of this study was to evaluate the performance
+  of a targeted test UroVysion assay widely used for the detection of Transitional
+  Cell Carcinoma TCC of the bladder, in two different types of material derived from
+  the same tumor. We compared the results of UroVysion test performed on Freshly Isolated
+  interphasic Nuclei FIN and on Formalin Fixed Paraffin Embedded FFPE tissues from
+  22 TCCs and we didnt find substantial differences. A second goal was to assess the
+  concordance between array-CGH profiles and the targeted chromosomal profiles of
+  UroVysion assay on an additional set of 10 TCCs, in order to evaluate whether UroVysion
+  is an adequately sensitive method for the identification of selected aneuploidies
+  and nonrandom CNAs in TCCs. Our results confirmed the importance of global genomic
+  screening methods, that is array based CGH, to comprehensively determine the genomic
+  profiles of large series of TCCs tumors. However, this technique has yet some limitations,
+  such as not being able to detect low level mosaicism, or not detecting any change
+  in the number of copies for a kind of compensatory effect due to the presence of
+  high cellular heterogeneity. Thus, it is still advisable to use complementary techniques
+  such as array-CGH and FISH, as the former is able to detect alterations at the genome
+  level not excluding any chromosome, but the latter is able to maintain the individual
+  data at the level of single cells, even if it focuses on few genomic regions.
+authors: Panzeri E, Conconi D, Antolini L, Redaelli S, Valsecchi MG, Bovo G, Pallotti
+  F, Vigano P, Strada G, Dalpra L and Bentivegna A.
+contact:
+  email: ~
+  name: Angela Bentivegna
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21909424
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.27
+    - 45.58
+    type: Point
+  info:
+    city: Monza
+    continent: Europe
+    country: Italy
+    label: Monza, Italy, Europe
+    precision: city
+journal: 'PLoS One 6, 9 (2011): e24237.'
+label: 'Panzeri et al. (2011): Chromosomal Aberrations in Bladder Cancer: Fresh Versus
+  Formalin Fixed Paraffin Embedded Tissue ...'
+notes: ~
+pmid: 21909424
+title: 'Chromosomal Aberrations in Bladder Cancer: Fresh Versus Formalin Fixed Paraffin
+  Embedded Tissue and Targeted Fish Versus Wide Microarray-Based Cgh Analysis.'
+year: 2011

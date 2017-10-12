@@ -1,0 +1,54 @@
+---
+abstract: Breast cancer exhibits clinical and molecular heterogeneity, where expression
+  profiling studies have identified five major molecular subtypes. The basal-like
+  subtype, expressing basal epithelial markers and negative for estrogen receptor
+  ER , progesterone receptor PR and HER2, is associated with higher overall levels
+  of DNA copy number alteration CNA , specific CNAs like gain on chromosome 10p ,
+  and poor prognosis. Discovering the molecular genetic basis of tumor subtypes may
+  provide new opportunities for therapy. To identify the driver oncogene on 10p associated
+  with basal-like tumors, we analyzed genomic profiles of 172 breast carcinomas. The
+  smallest shared region of gain spanned just seven genes at 10p13, including calcium
+  calmodulin-dependent protein kinase ID CAMK1D , functioning in intracellular signaling
+  but not previously linked to cancer. By microarray, CAMK1D was overexpressed when
+  amplified, and by immunohistochemistry exhibited elevated expression in invasive
+  carcinomas compared to carcinoma in situ. Engineered overexpression of CAMK1D in
+  non-tumorigenic breast epithelial cells led to increased cell proliferation, and
+  molecular and phenotypic alterations indicative of epithelial-mesenchymal transition
+  EMT , including loss of cell-cell adhesions and increased cell migration and invasion.
+  Our findings identify CAMK1D as a novel amplified oncogene linked to EMT in breast
+  cancer, and as a potential therapeutic target with particular relevance to clinically
+  unfavorable basal-like tumors.
+authors: Bergamaschi A, Kim YH, Kwei KA, La Choi Y, Bocanegra M, Langerod A, Han W,
+  Noh DY, Huntsman DG, Jeffrey SS, Borresen-Dale AL and Pollack JR.
+contact:
+  email: pollack1@stanford.edu
+  name: Jonathan Pollack
+counts:
+  biosamples: 172
+  samples_acgh: 172
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19383354
+- geo:GSE12827
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Mol Oncol 2, 4 (2008): 327-39.'
+label: 'Bergamaschi et al. (2008): Camk1D Amplification Implicated in Epithelial-Mesenchymal
+  Transition in Basal-Like Breast ...'
+notes: ~
+pmid: 19383354
+title: Camk1D Amplification Implicated in Epithelial-Mesenchymal Transition in Basal-Like
+  Breast Cancer.
+year: 2008

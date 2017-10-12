@@ -1,0 +1,53 @@
+---
+abstract: There is a growing appreciation of the role that epigenetic alterations
+  can play in oncogenesis. However, given the large number of genetic anomalies present
+  in most cancers, it has been difficult to evaluate the extent to which epigenetic
+  changes contribute to cancer. SNF5 INI1 SMARCB1 BAF47 is a tumor suppressor that
+  regulates the epigenome as a core member of the SWI SNF chromatin remodeling complex.
+  While the SWI SNF complex displays potent tumor suppressor activity, it is unknown
+  whether this activity is exerted genetically via maintenance of genome integrity
+  or epigenetically via transcriptional regulation. Here we show that Snf5-deficient
+  primary cells do not show altered sensitivity to DNA damaging agents, defects in
+  gamma-H2AX induction, or an abrogated DNA damage checkpoint. Further, the aggressive
+  malignancies that arise following SNF5 loss are diploid and genomically stable.
+  Remarkably, we demonstrate that most human SNF5-deficient cancers lack genomic amplifications
+  deletions and, aside from SNF5 loss, are indistinguishable from normal cells on
+  single-nucleotide polymorphism arrays. Finally, we show that epigenetically based
+  changes in transcription that occur following SNF5 loss correlate with the tumor
+  phenotype. Collectively, our results provide novel insight into the mechanisms of
+  oncogenesis by demonstrating that disruption of a chromatin remodeling complex can
+  largely, if not completely, substitute for genomic instability in the genesis of
+  aggressive cancer.
+authors: McKenna ES, Sansam CG, Cho YJ, Greulich H, Evans JA, Thom CS, Moreau LA,
+  Biegel JA, Pomeroy SL and Roberts CW.
+contact:
+  email: ~
+  name: Charles Roberts
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18710953
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Mol Cell Biol 28, 20 (2008): 6223-33.'
+label: 'McKenna et al. (2008): Loss of the Epigenetic Tumor Suppressor Snf5 Leads
+  to Cancer Without Genomic Instability.'
+notes: ~
+pmid: 18710953
+title: Loss of the Epigenetic Tumor Suppressor Snf5 Leads to Cancer Without Genomic
+  Instability.
+year: 2008

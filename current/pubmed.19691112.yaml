@@ -1,0 +1,53 @@
+---
+abstract: Anaplastic lymphoma kinase ALK -positive anaplastic large cell lymphoma
+  ALCL is a T-cell malignancy in which ALK expression is a consequence of the t 2
+  5 or a variant translocation involving Chromosome 2. For the most part, this disease
+  presents in the pediatric population and most, but not all, patients are successfully
+  treated. Although the t 2 5 product nucleophosmin-ALK has been extensively studied
+  for its transforming properties, very little is known regarding cooperative genetic
+  mutations that may contribute to lymphomagenesis and may predict survival outcome,
+  specifically in a purely pediatric population. We set out to determine the frequency
+  and positions of genomic imbalances in this relatively rare disease. We collected
+  biopsy material from 15 UK-resident children with ALK-expressing ALCL. We performed
+  array comparative genomic hybridization at a resolution of 1 MB using DNA isolated
+  from tumor tissue. Some of the more common genomic gains were confirmed by quantitative
+  PCR. Regions of genomic gain were far more common than losses and were most often
+  detected on chromosomes 1-4, 5-12, 14, and 17, with Chromosome 11 being the most
+  frequent site of genomic imbalances. Patients with 14 or fewer imbalances had a
+  lower overall 3-year survival 87.5-40 , P 0.14 as did patients with gains in the
+  regions of DDB1 or BIRC5. A range of genomic imbalances exist in ALK-expressing
+  ALCL of a pediatric origin, with a greater number associated with poorer overall
+  survival.
+authors: Youssif C, Goldenbogen J, Hamoudi R, Carreras J, Viskaduraki M, Cui YX, Bacon
+  CM, Burke GA and Turner SD.
+contact:
+  email: ~
+  name: Suzanne D Turner
+counts:
+  biosamples: 18
+  samples_acgh: 18
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19691112
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 48, 11 (2009): 1018-26.'
+label: 'Youssif et al. (2009): Genomic Profiling of Pediatric Alk-Positive Anaplastic
+  Large Cell Lymphoma: A Childrens Cancer ...'
+notes: ~
+pmid: 19691112
+title: 'Genomic Profiling of Pediatric Alk-Positive Anaplastic Large Cell Lymphoma:
+  A Childrens Cancer and Leukaemia Group Study.'
+year: 2009

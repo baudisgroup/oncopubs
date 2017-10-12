@@ -1,0 +1,40 @@
+---
+abstract: Genomic instability with frequent DNA copy number alterations is one of
+  the key hallmarks of carcinogenesis. The chromosomal regions with frequent DNA copy
+  number gain and loss in human gastric cancer are still poorly defined. It remains
+  unknown how the DNA copy number variations contributes to the changes of gene expression
+  profiles, especially on the global level.
+authors: Fan B, Dachrut S, Coral H, Yuen ST, Chu KM, Law S, Zhang L, Ji J, Leung SY
+  and Chen X.
+contact:
+  email: xin.chen@ucsf.edu
+  name: Xin Chen
+counts:
+  biosamples: 72
+  samples_acgh: 72
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22539939
+- geo:GSE33501
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'PLoS One 7, 4 (2012): e29824.'
+label: 'Fan et al. (2012): Integration of DNA Copy Number Alterations and Transcriptional
+  Expression Analysis in Human Gastric ...'
+notes: ~
+pmid: 22539939
+title: Integration of DNA Copy Number Alterations and Transcriptional Expression Analysis
+  in Human Gastric Cancer.
+year: 2012

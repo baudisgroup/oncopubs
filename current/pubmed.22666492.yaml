@@ -1,0 +1,56 @@
+---
+abstract: Current treatment of paediatric hepatocellular carcinoma HCC is often inefficient
+  due to advanced disease at diagnosis and resistance to common drugs. The aim of
+  this study was to generate a cell line derived from a paediatric HCC in order to
+  expand research in this field. We established the HC-AFW1 cell line from a liver
+  neoplasm of a 4-year-old boy through culturing of primary tumor specimens. The cell
+  line has been stable for over one year of culturing and has a doubling time of 40
+  h. The tumour cells have an epithelial histology and express HCC-associated proteins
+  such as Alpha-fetoprotein AFP , Glypican 3, E-cadherin, CD10, CD326, HepPar1 and
+  Vimentin. Forty-nine amino acids in exon 3 of beta-Catenin that involve the phosphorylation
+  sites of GSK3 were absent and beta-Catenin is detectable in the cell nuclei. Cytogenetic
+  analysis revealed large anomalies in the chromosomal map. Several alterations of
+  gene copy numbers were detected by genome-wide SNP array. Among the different drugs
+  tested, cisplatin and irinotecan showed effective inhibition of tumour cell growth
+  in a proliferation assay at concentrations below 5 microg ml. Subcutaneous xenotransplantation
+  of HC-AFW1 cells into NOD SCID mice resulted in fast growing dedifferentiated tumours
+  with high levels of serum AFP. Histological analyses of the primary tumour and xenografts
+  included national and international expert pathological review. Consensus reading
+  characterised the primary tumour and the HC-AFW1-derived tumours as HCC. HC-AFW1
+  is the first cell line derived from a paediatric HCC without a background of viral
+  hepatitis or cirrhosis and represents a valuable tool for investigating the biology
+  of and therapeutic strategies for childhood HCC.
+authors: Armeanu-Ebinger S, Wenz J, Seitz G, Leuschner I, Handgretinger R, Mau-Holzmann
+  UA, Bonin M, Sipos B, Fuchs J and Warmann SW.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22666492
+- geo:GSE29283
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.05
+    - 48.52
+    type: Point
+  info:
+    city: Tuebingen
+    continent: Europe
+    country: Germany
+    label: Tuebingen, Germany, Europe
+    precision: city
+journal: 'PLoS One (2012) 7: e38223.'
+label: 'Armeanu-Ebinger et al. (2012): Characterisation of the cell line HC-AFW1 derived
+  from a pediatric hepatocellular ...'
+notes: ~
+pmid: 22666492
+title: Characterisation of the cell line HC-AFW1 derived from a pediatric hepatocellular
+  carcinoma.
+year: 2012

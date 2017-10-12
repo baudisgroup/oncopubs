@@ -1,0 +1,53 @@
+---
+abstract: Identification of target genes for genetic rearrangements in prostate cancer
+  and the impact of copy number changes on gene expression are currently not well
+  understood. Here, we applied high-resolution comparative genomic hybridization CGH
+  on cDNA microarrays for analysis of prostate cancer cell lines. CGH microarrays
+  identified most of the alterations detected by classic chromosomal CGH, as well
+  as a number of previously unreported alterations. Specific recurrent regions of
+  gain 28 and loss 18 were found, and their boundaries defined with sub-megabasepair
+  accuracy. The most common changes included copy number decreases at 13q, and gains
+  at 1q and 5p. Refined mapping identified several sites, such as at 13q 33-44, 49-51,
+  and 74-76 Mbp from the p-telomere , which matched with minimal regions of loss seen
+  in extensive loss of heterozygosity mapping studies of large numbers of tumors.
+  Previously unreported recurrent changes were found at 2p, 2q, 3p, and 17q losses
+  , and at 3q, 5p, and 6p gains . Integration of genomic and transcriptomic data revealed
+  the role of individual candidate target genes for genomic alterations as well as
+  a highly significant P amp lt .0001 overall association between copy number levels
+  and the percentage of differentially expressed genes. Across the genome, the overall
+  impact of copy number on gene expression levels was, to a large extent, attributable
+  to low-level gains and losses of copy number, corresponding to common deletions
+  and gains of often large chromosomal regions.
+authors: Wolf M, Mousses S, Hautaniemi S, Karhu R, Huusko P, Allinen M, Elkahloun
+  A, Monni O, Chen Y, Kallioniemi A and Kallioniemi OP.
+contact:
+  email: olli.kallioniemi@helsinki.fi
+  name: Olli Kallioniemi
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15153336
+geo_data:
+  geo_json:
+    coordinates:
+    - 22.27
+    - 60.45
+    type: Point
+  info:
+    city: Turku
+    continent: Europe
+    country: Finland
+    label: Turku, Finland, Europe
+    precision: city
+journal: 'Neoplasia 6, 3 (2004): 240-47.'
+label: 'Wolf et al. (2004): High-Resolution Analysis of Gene Copy Number Alterations
+  in Human Prostate Cancer Using Cgh on Cdna ...'
+notes: ~
+pmid: 15153336
+title: 'High-Resolution Analysis of Gene Copy Number Alterations in Human Prostate
+  Cancer Using Cgh on Cdna Microarrays: Impact of Copy Number on Gene Expression.'
+year: 2004

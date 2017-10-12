@@ -1,0 +1,57 @@
+---
+abstract: 'We attempted to investigate the clinicopathological correlation of renal
+  oncocytoma RO with renal vein extension. We identified seven ROs with extension
+  into the branches of renal vein. The age of seven patients ranged from 61 to 82
+  years. Five cases were identified incidentally two patients had gross hematuria.
+  After surgery, all patients were alive and free of tumors with follow-up of 1 to
+  5 years mean 3.6 . Oncocytomas measured from 2.2 to 7.5 cm. Renal vein extension
+  was grossly suspected in five of seven cases and histologically confirmed in all
+  seven cases. Tumor cells were positive for cytokeratins, mitochondrial-antigen MIA
+  , epithelial membrane antigen EMA , and parvalbumin five of seven tumors were focally
+  positive for CD117. Ultrastructurally, the cytoplasm was packed by mitochondria.
+  Molecular genetic analysis did not detect abnormal numbers of chromosomes 1, 2,
+  6, 7, 10, 17, and XY by fluorescence in situ hybridization, loss of heterozygosity
+  on 3p and mutation of von Hippel-Lindau gene in all cases. Array comparative genomic
+  hybridization analysis of two cases did not show any major genetic changes. Our
+  conclusions are as follows: 1 renal oncocytomas may have intravascular extension
+  to the branches of the renal vein 2 renal oncocytomas with intravascular extension
+  to the branches of the renal vein have the same morphological, immunohistochemical,
+  and cytogenetic findings as have their counterparts without evidence of intravascular
+  invasion 3 the absence of metastases suggests an overall benign behavior of this
+  tumor, but this has to be substantiated by further studies with a long-term follow-up
+  and 4 in a renal tumor with granular cytoplasm showing renal vein extension, it
+  is necessary to carefully exclude renal cell carcinomas such as chromophobe RCC,
+  oncocytic variant of papillary RCC, and granular variant of clear cell RCC.'
+authors: Hes O, Michal M, Sima R, Vanecek T, Brunelli M, Martignoni G, Kuroda N, Alvarado
+  Cabrero I, Perez-Montiel D, Hora M, Urge T, Dvorak M, Jarosova M and Yang X.
+contact:
+  email: hes@medima.cz
+  name: Ondrej Hes
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18066590
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.37
+    - 49.74
+    type: Point
+  info:
+    city: Plzen
+    continent: ~
+    country: Czech Republic
+    label: Plzen, Czech Republic
+    precision: city [needs verification]
+journal: 'Virchows Arch 452, 2 (2008): 193-200.'
+label: 'Hes et al. (2008): Renal Oncocytoma With and Without Intravascular Extension
+  Into the Branches of Renal Vein Have the ...'
+notes: ~
+pmid: 18066590
+title: Renal Oncocytoma With and Without Intravascular Extension Into the Branches
+  of Renal Vein Have the Same Morphological, Immunohistochemical, and Genetic Features.
+year: 2008

@@ -1,0 +1,58 @@
+---
+abstract: 'Phyllodes tumors are rare fibroepithelial tumors of the breast. The pathologic
+  grading of phyllodes tumors based on the aspect of the stromal component, is divided
+  into 2 or 3 grades according to the system used. To determine whether genetic markers
+  could be of use for improving the classification of phyllodes tumors and to provide
+  a better knowledge of the genetic alterations in these tumors, we analyzed chromosomal
+  changes detected by comparative genomic hybridization CGH in comparison with histological
+  data, in a series of 30 cases. Recurrent chromosome imbalances were observed in
+  55, 91 and 100 of benign, borderline and malignant phyllodes tumors, respectively.
+  The mean number of chromosome changes was one in benign, six in borderline, and
+  six in malignant phyllodes tumors. Most frequent genetic imbalances were 1q 12 30
+  , -13q 7 30 , -6q 9 30 , 5 9 30 and -10p 8 30 . Gains of 1q, present in only one
+  of nine benign tumors, were found in 11 21 51 borderline or malignant tumors. Losses
+  of 13q have 13q14.2 as smallest region of overlap, suggesting that the RB1 gene
+  could be the target of deletions. Amplifications of 12q14, involving the MDM2 locus,
+  and of 8p24, involving the MYC gene, were observed in one case each. Borderline
+  and malignant phyllodes tumors could not be differentiated on the basis of their
+  genomic imbalances presence and number of chromosomal changes, presence of 1q gain
+  and or 13q loss . Conversely, benign tumors could be significantly differentiated
+  from the group composed of borderline and malignant tumors P amp lt 0.01 . This
+  study reveals two distinct patterns of genomic imbalance in phyllodes tumors: benign,
+  with none or a few chromosome changes and malignant, with numerous recurrent chromosomal
+  changes, in particular 1q gain and 13q loss. Helpful additional pathological criteria
+  for differentiating the two genetic groups of phyllodes tumors are the nuclear size
+  and the mitotic rate.'
+authors: Lae M, Vincent-Salomon A, Savignoni A, Huon I, Freneaux P, Sigal-Zafrani
+  B, Aurias A, Sastre-Garau X and Couturier J.
+contact:
+  email: marick.lae@curie.net
+  name: 'Marick La  '
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17334353
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Mod Pathol 20, 4 (2007): 435-44.'
+label: 'Lae et al. (2007): Phyllodes Tumors of the Breast Segregate in Two Groups
+  According to Genetic Criteria.'
+notes: ~
+pmid: 17334353
+title: Phyllodes Tumors of the Breast Segregate in Two Groups According to Genetic
+  Criteria.
+year: 2007

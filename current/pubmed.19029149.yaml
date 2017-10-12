@@ -1,0 +1,42 @@
+---
+abstract: The differentiation of biologically and clinically different malignant lymphoma
+  diseases or subtypes is crucial because it leads to better prognostication and therapeutic
+  decision-making. Attempts have been made at subtype classification for diagnosing
+  lymphomas on the basis of gene-expression profiling. Although array-based comparative
+  genomic hybridization array CGH has identified a characteristic genomic alteration
+  pattern for each disease entity, it has not been clear whether each patient with
+  certain genomic alterations can be classified by array CGH data.
+authors: Takeuchi I, Tagawa H, Tsujikawa A, Nakagawa M, Katayama-Suguro M, Guo Y and
+  Seto M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 75
+  samples_acgh: 0
+  samples_ccgh: 75
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19029149
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Haematologica 94, 1 (2009): 61-69.'
+label: 'Takeuchi et al. (2009): The Potential of Copy Number Gains and Losses, Detected
+  By Array-Based Comparative Genomic ...'
+notes: ~
+pmid: 19029149
+title: The Potential of Copy Number Gains and Losses, Detected By Array-Based Comparative
+  Genomic Hybridization, for Computational Differential Diagnosis of B-Cell Lymphomas
+  and Genetic Regions Involved in Lymphomagenesis.
+year: 2009

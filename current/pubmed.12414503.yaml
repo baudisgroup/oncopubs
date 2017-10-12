@@ -1,0 +1,53 @@
+---
+abstract: Several lines of evidence suggest that follicular cell-derived thyroid cancers
+  represent a continuum of disease that progresses from the highly curable well-differentiated
+  thyroid cancers to the universally fatal anaplastic cancers. However, the genetic
+  mechanisms underlying thyroid cancer progression remain ill defined. We compared
+  the molecular-cytogenetic profiles derived from comparative genomic hybridization
+  CGH analysis of major histological variants of thyroid cancer to define genetic
+  variables associated with progression. Overall, a sequential increase in chromosomal
+  complexity was observed from well-differentiated papillary thyroid cancer to poorly
+  differentiated and anaplastic carcinomas, both in terms of the presence of CGH detectable
+  abnormalities P 0.003 and the median number of abnormalities per case P amp lt 0.001
+  . The presence of multiple abnormalities common to all thyroid cancer variants,
+  including gains of 5p15, 5q11-13, 19p, and 19q and loss of 8p, suggests that these
+  tumors are derived from a common genetic pathway. Gains of 1p34-36, 6p21, 9q34,
+  17q25, and 20q and losses of 1p11-p31, 2q32-33, 4q11-13, 6q21, and 13q21-31 may
+  represent secondary events in progression, as they were only detected in poorly
+  differentiated and anaplastic carcinomas. Finally, recurrent gains at 3p13-14 and
+  11q13, and loss of 5q11-31 were unique to anaplastic carcinomas, suggesting they
+  may be markers for anaplastic transformation. Our data suggests that the development
+  of chromosomal instability underlies the progression to more aggressive phenotypes
+  of thyroid cancer and sheds light on the possible genomic aberrations that may be
+  selected for during this process.
+authors: Wreesmann VB, Ghossein RA, Patel SG, Harris CP, Schnaser EA, Shaha AR, Tuttle
+  RM, Shah JP, Rao PH and Singh B.
+contact:
+  email: phrao@txccc.org
+  name: Pulivarthi H. Rao
+counts:
+  biosamples: 42
+  samples_acgh: 0
+  samples_ccgh: 42
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12414503
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Am J Pathol 161, 5 (2002): 1549-56.'
+label: 'Wreesmann et al. (2002): Genome-Wide Appraisal of Thyroid Cancer Progression.'
+notes: ~
+pmid: 12414503
+title: Genome-Wide Appraisal of Thyroid Cancer Progression.
+year: 2002

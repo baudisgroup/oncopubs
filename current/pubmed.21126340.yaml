@@ -1,0 +1,39 @@
+---
+abstract: Accurate staging of colorectal cancer CRC with clinicopathological parameters
+  is important for predicting prognosis and guiding treatment but provides no information
+  about organ site of metastases. Patterns of genomic aberrations in primary colorectal
+  tumors may reveal a chromosomal signature for organ specific metastases.
+authors: Bruin SC, Klijn C, Liefers GJ, Braaf LM, Joosse SA, van Beers EH, Verwaal
+  VJ, Morreau H, Wessels LF, van Velthuysen ML, Tollenaar RA and Vant Veer LJ.
+contact:
+  email: ~
+  name: Laura Veer
+counts:
+  biosamples: 98
+  samples_acgh: 98
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21126340
+- geo:GSE20496
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'BMC Cancer 10 (2010): 662.'
+label: 'Bruin et al. (2010): Specific Genomic Aberrations in Primary Colorectal Cancer
+  Are Associated With Liver ...'
+notes: ~
+pmid: 21126340
+title: Specific Genomic Aberrations in Primary Colorectal Cancer Are Associated With
+  Liver Metastases.
+year: 2010

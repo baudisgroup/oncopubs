@@ -1,0 +1,49 @@
+---
+abstract: In uveal melanoma, monosomy 3 is strongly associated with metastic disease
+  and poor prognosis. Cytogenetic analysis and comparative genomic hybridization CGH
+  have been used to identify chromosomal aberrations in uveal melanoma. As these methods
+  are costly and time consuming in routine diagnostic settings, we evaluated whether
+  tumors with monosomy 3 can be reliably identified by microsatellite analysis MSA
+  . In addition, we also tested if aberrations of chromosomes 6 and 8, which have
+  also been associated with the course of the disease, can be detected by MSA. We
+  established a protocol for MSA of 23 markers, 3-4 on each arm of chromosomes 3,
+  6, and 8. Twenty tumors were analyzed by CGH and MSA, and 10 tumors were analyzed
+  by MSA only. For chromosome 3, the results of CGH and MSA were concordant, thus
+  indicating that the dosage of this chromosome can reliably be determined by MSA.
+  However, MSA failed to detect copy number gains at 6p in some tumors. Moreover,
+  despite quantitative evaluation of allele ratios, it was not possible to discern
+  8p losses and gains reliably. We thus conclude that while MSA can be used to determine
+  monosomy 3 in uveal melanoma, careful interpretation of results for chromosomes
+  6 and 8 is recommended.
+authors: Tschentscher F, Prescher G, Zeschnigk M, Horsthemke B and Lohmann DR.
+contact:
+  email: dr.lohmann@uni-essen.de
+  name: Dietmar R. Lohmann
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11104026
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: Europe
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 122, 1 (2000): 13-17.'
+label: 'Tschentscher et al. (2000): Identification of Chromosomes 3, 6, and 8 Aberrations
+  in Uveal Melanoma By Microsatellite ...'
+notes: ~
+pmid: 11104026
+title: Identification of Chromosomes 3, 6, and 8 Aberrations in Uveal Melanoma By
+  Microsatellite Analysis in Comparison to Comparative Genomic Hybridization.
+year: 2000

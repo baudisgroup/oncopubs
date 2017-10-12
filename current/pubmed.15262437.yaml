@@ -1,0 +1,47 @@
+---
+abstract: Chromosomal aberrations were investigated in 48 Korean nonsmall cell carcinomas
+  of the lung NSCLC , by degenerate oligonucleotide primed polymerase chain reaction
+  comparative genomic hybridization. These included 16 adenocarcinomas, 27 squamous
+  cell carcinomas SCCs , and 5 large-cell carcinomas. The common sites of copy number
+  increases were 3q26 approximately qter 23 cases, 48 8q23 approximately qter 46 20q13.1
+  42 1q42 approximately qter 38 3q25 38 21q22 38 and 22q13 38 . DNA amplification
+  was identified in 19 carcinomas 40 , and the frequent sites of amplification were
+  8q24 seven cases , 3q26 seven cases , and 3q27 seven cases . The frequently under-represented
+  chromosomal regions were Yq 38 , 4q25 approximately q26 23 , and 4q31 23 . In particular,
+  gains of 3q26 approximately qter 74 , 15q 56 , and 19q 59 and loss of 13q22 approximately
+  q31 26 were more frequently detected in SCCs of the lung. These nonrandom aberrations
+  can serve as starting points for the identification of potential oncogenes tumor
+  suppressor genes related to the tumorigenesis of Korean NSCLC.
+authors: Park SY, Kim YH, In KH, Chun YH and Park SH.
+contact:
+  email: ~
+  name: S. Park
+counts:
+  biosamples: 48
+  samples_acgh: 0
+  samples_ccgh: 48
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15262437
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 152, 2 (2004): 153-57.'
+label: 'Park et al. (2004): Chromosomal Aberrations in Korean Nonsmall Cell Lung Carcinomas:
+  Degenerate Oligonucleotide Primed ...'
+notes: CGH of 48 non small cell lung carcinmas (NSCLC).
+pmid: 15262437
+title: 'Chromosomal Aberrations in Korean Nonsmall Cell Lung Carcinomas: Degenerate
+  Oligonucleotide Primed Polymerase Chain Reaction Comparative Genomic Hybridization
+  Studies.'
+year: 2004

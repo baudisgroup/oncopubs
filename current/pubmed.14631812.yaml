@@ -1,0 +1,42 @@
+---
+abstract: Comparative genomic hybridisation CGH allows to detect genetic abnormalities
+  associated with poor prognosis in subset of patients with diffuse large B-cell lymphoma
+  DLBCL . Amplification of 2p13-16 represents an adverse genetic sign especially in
+  extranodal DLBCL. In the present case, 2p13-16 amplification was revealed by CGH
+  in extranodal DLBCL. It was localized in the mesentery and remained resistant to
+  the chemotherapy CHOP . A patient, 72-year-old female, died 10 weeks after the diagnosis
+  had been made. Rapid lethal course of the disease confirms poor outlook for patients
+  with 2p13-16 and supports a role of CGH as a sensitive method in prognosis for patients
+  with DLBCL.
+authors: Husek K, Petovska P and Prochazkova D.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14631812
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: Europe
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: 'Cesk Patol 39, 3 (2003): 138-42.'
+label: 'Husek et al. (2003): [Amplification of 2p13-16 in a Case of Extranodal Large
+  Cell Diffuse B-Cell Lymphoma].'
+notes: ~
+pmid: 14631812
+title: '[Amplification of 2p13-16 in a Case of Extranodal Large Cell Diffuse B-Cell
+  Lymphoma].'
+year: 2003

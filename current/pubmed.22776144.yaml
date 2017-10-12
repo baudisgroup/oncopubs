@@ -1,0 +1,56 @@
+---
+abstract: 'ABSTRACT: INTRODUCTION: Lobular carcinoma in situ LCIS has been accepted
+  as a marker of risk for the development of invasive breast cancer, yet modern models
+  of breast carcinogenesis include LCIS as a precursor of low-grade carcinomas. We
+  provide evidence favoring a clonal origin for LCIS and synchronous estrogen receptor-positive
+  malignant lesions of the ductal and lobular phenotype. METHODS: Patients with prior
+  LCIS undergoing mastectomy were identified preoperatively from 2003 to 2008. Specimens
+  were widely sampled, and frozen blocks were screened for LCIS and co-existing malignant
+  lesions, and were subject to microdissection. Samples from 65 patients were hybridized
+  to the Affymetrix SNP 6.0 array platform. Cases with both an LCIS sample and an
+  associated ductal carcinoma in situ DCIS or invasive tumor sample were evaluated
+  for patterns of somatic copy number changes to assess evidence of clonal relatedness.
+  RESULTS: LCIS was identified in 44 of the cases, and among these a DCIS and or invasive
+  lesion was also identified in 21 cases. A total of 17 tumor pairs had adequate DNA
+  array data for analysis, including nine pairs of LCIS invasive lobular cancer, four
+  pairs of LCIS DCIS, and four pairs of LCIS invasive ductal cancer. Overall, seven
+  pairs 41 were judged to be clonally related in five 29 evidence suggested clonality
+  but was equivocal, and five 29 were considered independent. Clonal pairs were observed
+  with all matched lesion types and low and high histological grades. We also show
+  anecdotal evidence of clonality between a patient-matched triplet of LCIS, DCIS,
+  and invasive ductal cancer. CONCLUSION: Our results support the role of LCIS as
+  a precursor in the development of both high-grade and low-grade ductal and lobular
+  cancers.'
+authors: Andrade VP, Ostrovnaya I, Seshan VE, Morrogh M, Giri D, Olvera N, De Brot
+  M, Morrow M, Begg CB and King TA.
+contact:
+  email: ~
+  name: Tari King
+counts:
+  biosamples: 65
+  samples_acgh: 65
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22776144
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Breast Cancer Res 14, 4 (2012): R103.'
+label: 'Andrade et al. (2012): Clonal Relatedness Between Lobular Carcinoma in Situ
+  and Synchronous Malignant ...'
+notes: ~
+pmid: 22776144
+title: Clonal Relatedness Between Lobular Carcinoma in Situ and Synchronous Malignant
+  Lesions.
+year: 2012

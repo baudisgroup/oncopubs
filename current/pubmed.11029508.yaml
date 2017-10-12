@@ -1,0 +1,46 @@
+---
+abstract: Cytogenetic investigations of bladder cancer suggested that development
+  and progression is characterized by specific chromosomal aberrations. In order to
+  identify genetic changes linked to muscle invasive tumors and metastatic growth
+  we analyzed 67 bladder carcinomas 30 pT1 and 37 pT2-4 by means of comparative genomic
+  hybridization CGH . The most frequent changes were gains of chromosome 1q 54 , 8q
+  54 , 17q 49 , 2p 30 , 12 30 , 5p 25 , 3q 24 and 6p 24 as well as losses of 11p 43
+  , 8p 42 , 9p 36 , 11q 34 , 2q, 4q, 5q 30 each , 9q 27 and 10q 27 . Previously not
+  described amplifications were found at 5p11-p13, 7q21-q31, 9p24 and 17q24-q25. Gains
+  of 3q, 7p, and 18p were markedly more frequent in pT2-4 in comparison to pT1 carcinomas
+  but the difference did not reach statistical significance. Non-metastatic tumors
+  showed more aberrations on average than metastatic carcinomas, although no particular
+  change was found to be predominating in either group. Our data confirm previous
+  findings of strong genetic similarities between minimally and deeply invasive bladder
+  carcinomas but argue for differences between metastatic and non-metastatic disease.
+authors: Simon R, Burger H, Semjonow A, Hertle L, Terpe HJ and Bocker W.
+contact:
+  email: ronald_simon_de@yahoo.de
+  name: Ronald Simon
+counts:
+  biosamples: 67
+  samples_acgh: 0
+  samples_ccgh: 67
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11029508
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Int J Oncol 17, 5 (2000): 1025-29.'
+label: 'Simon et al. (2000): Patterns of Chromosomal Imbalances in Muscle Invasive
+  Bladder Cancer.'
+notes: ~
+pmid: 11029508
+title: Patterns of Chromosomal Imbalances in Muscle Invasive Bladder Cancer.
+year: 2000

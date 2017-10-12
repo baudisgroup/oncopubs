@@ -1,0 +1,45 @@
+---
+abstract: Sporadic clear cell renal cell carcinoma cRCC is genetically characterized
+  by the recurrent loss of the short arm of chromosome 3, with a hotspot for copy
+  number loss in the 3p21 region. We applied a method called amp quot gene identification
+  by nonsense-mediated mRNA decay inhibition amp quot to a panel of 10 cRCC cell lines
+  with 3p21 copy number loss to identify biallelic inactivated genes located at 3p21.
+  This revealed inactivation of the histone methyltransferase gene SETD2, located
+  on 3p21.31, as a common event in cRCC cells. SETD2 is nonredundantly responsible
+  for trimethylation of the histone mark H3K36. Consistent with this function, we
+  observed loss or a decrease of H3K36me3 in 7 out of the 10 cRCC cell lines. Identification
+  of missense mutations in 2 out of 10 primary cRCC tumor samples added support to
+  the involvement of loss of SETD2 function in the development of cRCC tumors.
+authors: Duns G, van den Berg E, van Duivenbode I, Osinga J, Hollema H, Hofstra RM
+  and Kok K.
+contact:
+  email: ~
+  name: Klaas Kok
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20501857
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ~
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Res 70, 11 (2010): 4287-91.'
+label: 'Duns et al. (2010): Histone Methyltransferase Gene Setd2 is a Novel Tumor
+  Suppressor Gene in Clear Cell Renal Cell ...'
+notes: ~
+pmid: 20501857
+title: Histone Methyltransferase Gene Setd2 is a Novel Tumor Suppressor Gene in Clear
+  Cell Renal Cell Carcinoma.
+year: 2010

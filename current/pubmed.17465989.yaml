@@ -1,0 +1,49 @@
+---
+abstract: Array-based comparative genomic hybridization was used to characterize 22
+  medulloblastomas in order to precisely define genetic alterations in these malignant
+  childhood brain tumors. The 17p - 17q copy number abnormality CNA , consistent with
+  the formation of isochromosome 17q, was the most common event 8 22 . Amplifications
+  in this series included MYCL, MYCN and MYC previously implicated in medulloblastoma
+  pathogenesis, as well as novel amplicons on chromosomes 2, 4, 11 and 12. Losses
+  involving chromosomes 1, 2, 8, 10, 11, 16 and 19 and gains of chromosomes 4, 7,
+  8, 9 and 18 were seen in greater than 20 of tumors in this series. A homozygous
+  deletion in 11p15 defines the minimal region of loss on this chromosome arm. In
+  order to map the minimal regions involved in losses, gains and amplifications, we
+  combined aCGH data from this series with that of two others obtained using the same
+  RPCI BAC arrays. As a result of this combined analysis of 72 samples, we have defined
+  specific regions on chromosomes 1, 8p, 10q, 11p and 16q which are frequently involved
+  in CNAs in medulloblastomas. Using high density oligonucleotide expression arrays,
+  candidate genes were identified within these consistently involved regions in a
+  subset of the tumors.
+authors: Lo KC, Rossi MR, Eberhart CG and Cowell JK.
+contact:
+  email: jcowell@mcg.edu
+  name: John C. Cowell
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17465989
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Brain Pathol 17, 3 (2007): 282-96.'
+label: 'Lo et al. (2007): Genome Wide Copy Number Abnormalities in Pediatric Medulloblastomas
+  as Assessed By Array Comparative ...'
+notes: ~
+pmid: 17465989
+title: Genome Wide Copy Number Abnormalities in Pediatric Medulloblastomas as Assessed
+  By Array Comparative Genome Hybridization.
+year: 2007

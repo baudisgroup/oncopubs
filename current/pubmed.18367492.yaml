@@ -1,0 +1,40 @@
+---
+abstract: Low-grade B-cell lymphomas are a very heterogeneous group of tumors, whose
+  differential diagnosis is frequently compromised by the lack of specific cytogenetic
+  or molecular features. Our objective was to search for genomic features that allow
+  a better molecular identification of the different types of lymphoma studied.
+authors: Ferreira BI, Garcia JF, Suela J, Mollejo M, Camacho FI, Carro A, Montes S,
+  Piris MA and Cigudosa JC.
+contact:
+  email: jccigudosa@cnio.es
+  name: Juan C. Cigudosa
+counts:
+  biosamples: 87
+  samples_acgh: 87
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18367492
+- geo:GSE8918
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Haematologica 93, 5 (2008): 670-79.'
+label: 'Ferreira et al. (2008): Comparative Genome Profiling Across Subtypes of Low-Grade
+  B-Cell Lymphoma Identifies ...'
+notes: The annotated data was extracted from the supplements. Also, array data from
+  GEO can be visualized through the Progenetix site.
+pmid: 18367492
+title: Comparative Genome Profiling Across Subtypes of Low-Grade B-Cell Lymphoma Identifies
+  Type-Specific and Common Aberrations That Target Genes With a Role in B-Cell Neoplasia.
+year: 2008

@@ -1,0 +1,54 @@
+---
+abstract: BRCA1 or BRCA2 germline mutations cause approximately 30 of breast cancers
+  within high-risk families. This represents 5 of total breast cancer incidence. Although
+  BRCA1 and BRCA2 are both implicated in DNA repair and genome stability, it is unknown
+  whether BRCA1 and BRCA2 are associated with similar or distinct diseases. In a previous
+  study we reported that BRCA1-related breast carcinomas show a distinct genomic profile
+  as determined by comparative genomic hybridization CGH . We now hypothesize that,
+  if functionally equivalent, mutations in BRCA1 and BRCA2 would result in similar
+  genomic profiles in tumors. Here we report the chromosomal gains and losses as measured
+  by CGH in 25 BRCA2-associated breast tumors and compared them with our existing
+  36 BRCA1 and 30 control profiles. We compared all chromosomal regions and determined
+  the regions of differential gain or loss between tumor classes and controls. BRCA2
+  and control tumors have very similar genomic profiles. As a consequence, and in
+  contrast to BRCA1-associated tumors, CGH profiles from BRCA2-associated tumors could
+  not be distinguished from control tumors using the classification methodology as
+  we have developed before. The largest number of significant differences existed
+  between BRCA1 and controls, followed by BRCA1 compared with BRCA2, suggesting different
+  tumor development pathways for BRCA1 and BRCA2.
+authors: van Beers EH, van Welsem T, Wessels LF, Li Y, Oldenburg RA, Devilee P, Cornelisse
+  CJ, Verhoef S, Hogervorst FB, vant Veer LJ and Nederlof PM.
+contact:
+  email: e.v.beers@gmail.com
+  name: Erik van Beers
+counts:
+  biosamples: 132
+  samples_acgh: 0
+  samples_ccgh: 132
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15705879
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Cancer Res 65, 3 (2005): 822-27.'
+label: 'van Beers et al. (2005): Comparative Genomic Hybridization Profiles in Human
+  Brca1 and Brca2 Breast Tumors Highlight ...'
+notes: Chromosomal CGH data was provided in form of a matrix with ratio values. The
+  dataset also contains cases from Wessels et al. (http://www.ncbi.nlm.nih.gov/entrez/query.fcgi
+  cmd Retrieve&db pubmed&dopt Abstract&list_uids 12460933). Additional information
+  regarding the data can be found there.
+pmid: 15705879
+title: Comparative Genomic Hybridization Profiles in Human Brca1 and Brca2 Breast
+  Tumors Highlight Differential Sets of Genomic Aberrations.
+year: 2005

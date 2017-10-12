@@ -1,0 +1,43 @@
+---
+abstract: X-linked agammaglobulinemia (XLA) is clinically characterized by reduced
+  number of peripheral B cells and diminished levels of serum immunoglobulins, and
+  caused by a mutation in the Bruton's tyrosine kinase (BTK) gene, which play a pivotal
+  role in signal transduction of pre-B-cell receptor (BCR) and BCR. B-cell precursor
+  acute lymphoblastic leukemia (BCP-ALL) is the most common malignancy in children,
+  and it may be associated with gene alterations that regulate B-cell development.
+  Here we described a first case of XLA associated BCP-ALL. The whole-exome sequencing
+  revealed a somatic mutation in MLL2 in the sample from the onset of BCP-ALL. This
+  study suggests that the alterations of BTK and MLL2 synergistically function as
+  leukemogenesis.
+authors: Hoshino A, Okuno Y, Migita M, Ban H, Yang X, Kiyokawa N, Adachi Y, Kojima
+  S, Ohara O and Kanegane H
+contact:
+  email: hkanegane.ped@tmd.ac.jp
+  name: Hirokazu Kanegane
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 1
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25591849
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: J. Clin. Immunol. 35(2), 2015
+label: 'Hoshino A et al. (2015): '
+notes: ~
+pmid: 25591849
+title: X-linked agammaglobulinemia associated with B-precursor acute lymphoblastic
+  leukemia.
+year: 2015

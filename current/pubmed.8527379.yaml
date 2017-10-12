@@ -1,0 +1,43 @@
+---
+abstract: Using comparative genomic hybridization CGH , we have identified and mapped
+  regions of DNA amplification in primary and metastatic osteosarcomas. Samples were
+  obtained from four patients and ten independent xenografts. Sixty-four percent of
+  the tumors showed increased DNA-sequence copy numbers, affecting 23 different chromosomal
+  sites. Most of these regions were not previously associated with the development
+  and or progression of these tumors. Amplicons originating from 1q21-q23, 6p, 8q23-qter,
+  and 17p11-p12 were observed most frequently. The 6p and 17p11-p12 amplicons seem
+  to be specific for osteosarcomas, indicating that these regions may harbor genes
+  relevant for the development of these tumors.
+authors: Forus A, Weghuis DO, Smeets D, Fodstad O, Myklebost O and Geurts van Kessel
+  A.
+contact:
+  email: anne.forus@labmed.uio.no
+  name: Anne Forus
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8527379
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 14, 1 (1995): 15-21.'
+label: 'Forus et al. (1995): Comparative Genomic Hybridization Analysis of Human Sarcomas:
+  Ii. Identification of Novel Amplicons ...'
+notes: ~
+pmid: 8527379
+title: 'Comparative Genomic Hybridization Analysis of Human Sarcomas: Ii. Identification
+  of Novel Amplicons At 6p and 17p in Osteosarcomas.'
+year: 1995

@@ -1,0 +1,47 @@
+---
+abstract: Tissue samples from 60 post-Chernobyl childhood thyroid tumors have been
+  investigated. We used comparative genomic hybridization CGH to detect chromosomal
+  gains and losses within the tumor DNA. This is the first CGH study on childhood
+  thyroid tumors. The post-Chernobyl tumors showed chromosomal imbalances in 30 of
+  tumors. The most frequent DNA copy number changes in post-Chernobyl tumors involved
+  chromosomes 2, 7q11.2-21, 13q21-22, 21 DNA gains , and chromosomes 16p q, 20q, 22q
+  DNA losses . Some of these specific alterations detected in post-Chernobyl thyroid
+  tumors deletions on chromosomes 16p q and 22q have previously been reported in thyroid
+  tumors as associated with an aggressive biologic behavior and may therefore also
+  account for the more aggressive phenotype of papillary thyroid carcinoma PTC found
+  in post- Chernobyl tumors. Eighteen percent of post-Chernobyl PTC that exhibit RET
+  rearrangements also showed chromosomal imbalances indicating that either additional
+  genetic events are involved in this subset of tumors, or that intratumoral genetic
+  heterogeneity exists in these tumors, suggesting a oligoclonal pattern to tumor
+  development.
+authors: Richter H, Braselmann H, Hieber L, Thomas G, Bogdanova T, Tronko N and Zitzelsberger
+  H.
+contact:
+  email: zitzelsberger@gsf.de
+  name: Horst Zitzelsberger
+counts:
+  biosamples: 89
+  samples_acgh: 0
+  samples_ccgh: 89
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15650359
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: Europe
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: 'Thyroid 14, 12 (2004): 1061-64.'
+label: 'Richter et al. (2004): Chromosomal Imbalances in Post-Chernobyl Thyroid Tumors.'
+notes: ~
+pmid: 15650359
+title: Chromosomal Imbalances in Post-Chernobyl Thyroid Tumors.
+year: 2004

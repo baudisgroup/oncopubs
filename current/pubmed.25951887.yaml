@@ -1,0 +1,52 @@
+---
+abstract: The aims of this study were to perform a whole-exome sequencing analysis
+  of a breast cylindroma and to investigate the role of molecular analyses in the
+  differentiation between breast cylindroma, a benign tumor that displays MYB expression
+  and CYLD gene mutations, and its main differential diagnosis, the breast solid-basaloid
+  adenoid cystic carcinoma, a malignant tumor that is characterized by the presence
+  of the MYB-NFIB fusion gene and MYB overexpression.  A 66-year old female underwent
+  quadrantectomy after an irregular dense shadow was discovered in the right breast
+  at the screening mammogram. Histologically, the tumor displayed features suggestive
+  of a solid-basaloid variant of adenoid cystic carcinoma with a differential diagnosis
+  of cylindroma. Fluorescence in situ hybridization, reverse transcription PCR, immunohistochemistry
+  and whole-exome sequencing revealed absence of the MYB-NFIB fusion gene, low levels
+  of MYB protein expression and a clonal somatic CYLD splice site mutation associated
+  with loss of heterozygosity of the wild-type allele.  The results of the histologic,
+  immunohistochemical and molecular analyses were consistent with a diagnosis of breast
+  cylindroma, providing a proof-of-principle that the integration of histopathologic
+  and molecular approaches can help differentiate between a low-malignant potential
+  and a benign breast tumor of triple-negative phenotype. This article is protected
+  by copyright. All rights reserved.  This article is protected by copyright. All
+  rights reserved.
+authors: Fusco N, Colombo PE, Martelotto LG, De Filippo MR, Piscuoglio S, Ng CK, Lim
+  RS, Jacot W, Vincent-Salomon A, Reis-Filho JS and Weigelt B
+contact:
+  email: weigeltb@mskcc.org
+  name: Britta Weigelt
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 1
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25951887
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Histopathology, 2015
+label: 'Fusco N et al. (2015): '
+notes: ~
+pmid: 25951887
+title: 'Resolving quandaries: basaloid adenoid cystic carcinoma or breast cylindroma?
+  The role of massively parallel sequencing.'
+year: 2015

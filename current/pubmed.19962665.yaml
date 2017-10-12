@@ -1,0 +1,45 @@
+---
+abstract: Members of the mammalian phosphoinositide-3-OH kinase PI3K family of proteins
+  are critical regulators of various cellular process including cell survival, growth,
+  proliferation, and motility. Oncogenic activating mutations in the p110alpha catalytic
+  subunit of the heterodimeric p110 p85 PI3K enzyme are frequent in human cancers.
+  Here we show the presence of frequent mutations in p85alpha in colon cancer, a majority
+  of which occurs in the inter-Src homology-2 iSH2 domain. These mutations uncouple
+  and retain p85alphas p110-stabilizing activity, while abrogating its p110-inhibitory
+  activity. The p85alpha mutants promote cell survival, AKT activation, anchorage-independent
+  cell growth, and oncogenesis in a p110-dependent manner.
+authors: Jaiswal BS, Janakiraman V, Kljavin NM, Chaudhuri S, Stern HM, Wang W, Kan
+  Z, Dbouk HA, Peters BA, Waring P, Dela Vega T, Kenski DM, Bowman KK, Lorenzo M,
+  Li H, Wu J, Modrusan Z, Stinson J, Eby M, Yue P, Kaminker JS, de Sauvage FJ, Backer
+  JM and Seshagiri S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 81
+  samples_acgh: 81
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19962665
+- geo:GSE18252
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.41
+    - 37.65
+    type: Point
+  info:
+    city: South San Francisco
+    continent: North America
+    country: United States
+    label: South San Francisco, United States, North America
+    precision: city
+journal: 'Cancer Cell 16, 6 (2009): 463-74.'
+label: 'Jaiswal et al. (2009): Somatic Mutations in P85Alpha Promote Tumorigenesis
+  Through Class Ia Pi3K Activation.'
+notes: ~
+pmid: 19962665
+title: Somatic Mutations in P85Alpha Promote Tumorigenesis Through Class Ia Pi3K Activation.
+year: 2009

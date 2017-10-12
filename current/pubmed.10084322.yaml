@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: Karenko L, Kahkonen M, Hyytinen ER, Lindlof M, and Ranki A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10084322
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: J Invest Dermatol, 112(3) 1999, 392-95.
+label: 'Karenko et al. (1999): Notable losses at specific regions of chromosomes 10q
+  and 13q in the Sezary syndrome detected by ...'
+notes: ~
+pmid: 10084322
+title: Notable losses at specific regions of chromosomes 10q and 13q in the Sezary
+  syndrome detected by comparative genomic hybridization.
+year: 1999

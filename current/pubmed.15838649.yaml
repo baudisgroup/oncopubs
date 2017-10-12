@@ -1,0 +1,45 @@
+---
+abstract: Pyloric gland adenoma is a recently described and very rare entity. The
+  occurrence of adenoma is very unusual in Barretts epithelium of the esophagus. We
+  report a case of esophageal polyp showing the features of pyloric gland adenoma,
+  which was surrounded by so-called specialized columnar epithelium. Immunohistochemically,
+  most tumor glands were strongly positive for MUC6, except in the superficial layer.
+  MUC5AC was positive in almost all tumor cells, but MUC2 and CD10 were negative in
+  the tumor. MIB-1-positive proliferating cells were distributed throughout the tumor.
+  Microdissection and comparative genomic hybridization analyses revealed losses on
+  2p24-25.2, 2q14.1-ter, 5q31.3-32, 6q23-24, 8q23-24.2, 11q22.3-24 and 18q21.1-22.
+  This is the first case of pyloric gland adenoma found to arise in Barretts epithelium
+  of the esophagus, showing its unstable and precancerous nature.
+authors: Kushima R, Vieth M, Mukaisho K, Sakai R, Okabe H, Hattori T, Neuhaus H, Borchard
+  F and Stolte M.
+contact:
+  email: kushima@belle.shiga-med.ac.jp
+  name: Ryoji Kushima
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15838649
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: Asia
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: 'Virchows Arch 446, 5 (2005): 537-41.'
+label: 'Kushima et al. (2005): Pyloric Gland Adenoma Arising in Barretts Esophagus
+  With Mucin Immunohistochemical and Molecular ...'
+notes: ~
+pmid: 15838649
+title: Pyloric Gland Adenoma Arising in Barretts Esophagus With Mucin Immunohistochemical
+  and Molecular Cytogenetic Evaluation.
+year: 2005

@@ -1,0 +1,46 @@
+---
+abstract: Little is known about genetic alterations during malignant progression of
+  meningioma. We used comparative genomic hybridization CGH in 20 patients 13 with
+  typical, 4 with atypical and 3 with anaplastic meningiomas to investigate the genetic
+  pathway underlying the development of meningioma. Typical meningiomas displayed
+  only a few genetic changes such as monosomy 22. Anaplastic meningiomas manifested
+  more aberrations than typical meningiomas, frequently exhibiting losses of 1p, 2p,
+  6q, chromosome 10 and 14q, and gain of 20q, in addition to monosomy 22. The average
+  number of alteration sites in each patient with typical meningioma was significantly
+  less than those in each patient with atypical p amp lt 0.01 and with anaplastic
+  meningioma p amp lt 0.05 . Anaplastic meningiomas showed the chromosomal changes
+  seen in atypical meningiomas together with other aberrations. These CGH findings
+  suggest that losses of 1p, 2p, 6q, chromosome 10 and 14q, and gain of 20q are genetic
+  changes implicated in the malignant progression of meningioma.
+authors: Ozaki S, Nishizaki T, Ito H and Sasaki K.
+contact:
+  email: nishi-ygc@umin.u-tokyo.ac.jp
+  name: Takafumi Nishizaki
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10222437
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'J Neurooncol 41, 2 (1999): 167-74.'
+label: 'Ozaki et al. (1999): Comparative Genomic Hybridization Analysis of Genetic
+  Alterations Associated With Malignant ...'
+notes: ~
+pmid: 10222437
+title: Comparative Genomic Hybridization Analysis of Genetic Alterations Associated
+  With Malignant Progression of Meningioma.
+year: 1999

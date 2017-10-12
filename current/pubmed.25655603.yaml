@@ -1,0 +1,55 @@
+---
+abstract: Although information about the molecular pathogenesis of Waldenstrï¿½m macroglobulinemia
+  (WM) has significantly advanced, the precise cell of origin and the mechanisms behind
+  WM transformation from immunoglobulin-M (IgM) monoclonal gammopathy of undetermined
+  significance (MGUS) remain undetermined. Here, we undertook an integrative phenotypic,
+  molecular, and genomic approach to study clonal B cells from newly diagnosed patients
+  with IgM MGUS (n = 22), smoldering (n = 16), and symptomatic WM (n = 11). Through
+  principal component analysis of multidimensional flow cytometry data, we demonstrated
+  highly overlapping phenotypic profiles for clonal B cells from IgM MGUS, smoldering,
+  and symptomatic WM patients. Similarly, virtually no genes were significantly deregulated
+  between fluorescence-activated cell sorter-sorted clonal B cells from the 3 disease
+  groups. Interestingly, the transcriptome of the Waldenstrï¿½m B-cell clone was highly
+  different than that of normal CD25(-)CD22(+) B cells, whereas significantly less
+  genes were differentially expressed and specific WM pathways normalized once the
+  transcriptome of the Waldenstrï¿½m B-cell clone was compared with its normal phenotypic
+  (CD25(+)CD22(+low)) B-cell counterpart. The frequency of specific copy number abnormalities
+  [+4, del(6q23.3-6q25.3), +12, and +18q11-18q23] progressively increased from IgM
+  MGUS and smoldering WM vs symptomatic WM (18% vs 20% and 73%, respectively; P =
+  .008), suggesting a multistep transformation of clonal B cells that, albeit benign
+  (ie, IgM MGUS and smoldering WM), already harbor the phenotypic and molecular signatures
+  of the malignant Waldenstrï¿½m clone.  ï¿½ 2015 by The American Society of Hematology.
+authors: Paiva B, Corchete LA, Vidriales MB, Garcï¿½a-Sanz R, Perez JJ, Aires-Mejia
+  I, Sanchez ML, Barcena P, Alignani D, Jimenez C, Sarasquete ME, Mateos MV, Ocio
+  EM, Puig N, Escalante F, Hernï¿½ndez J, Cuello R, Garcï¿½a de Coca A, Sierra M,
+  Montes MC, Gonzï¿½lez-Lï¿½pez TJ, Galende J, Bï¿½rez A, Alonso J, Pardal E, Orfao
+  A, Gutierrez NC and San Miguel JF
+contact:
+  email: bpaiva@unav.es
+  name: Bruno Paiva
+counts:
+  biosamples: 37
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 37
+external_identifiers:
+- pubmed:25655603
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.64
+    - 42.82
+    type: Point
+  info:
+    city: Pamplona
+    continent: Europe
+    country: Spain
+    label: Pamplona, Spain, Europe
+    precision: city
+journal: Blood 125(15), 2015
+label: 'Paiva B et al. (2015): '
+notes: ~
+pmid: 25655603
+title: The cellular origin and malignant transformation of Waldenstrï¿½m macroglobulinemia.
+year: 2015

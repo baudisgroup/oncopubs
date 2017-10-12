@@ -1,0 +1,49 @@
+---
+abstract: To investigate the genomic aberrations that are involved in lung tumorigenesis
+  and therefore may be developed as biomarkers for lung cancer diagnosis, we characterized
+  the genomic copy number changes associated with individual genes in 14 tumors from
+  patients with primary non small cell lung cancer NSCLC . Six squamous cell carcinomas
+  SQCAs and eight adenocarcinomas ADCAs were examined by high-resolution comparative
+  genomic hybridization CGH analysis of cDNA microarray. The SQCAs and ADCAs shared
+  common frequency distributions of recurrent genomic gains of 63 genes and losses
+  of 72 genes. Cluster analysis using 57 genes defined the genomic differences between
+  these two major histologic types of NSCLC. Genomic aberrations from a set of 18
+  genes showed distinct difference of primary ADCAs from their paired normal lung
+  tissues. The genomic copy number of four genes was validated by fluorescence in
+  situ hybridization of 32 primary NSCLC tumors, including those used for cDNA microarray
+  CGH analysis a strong correlation with cDNA microarray CGH data emerged. The identified
+  genomic aberrations may be involved in the initiation and progression of lung tumorigenesis
+  and, most importantly, may be developed as new biomarkers for the early detection
+  and classification of lung cancer.
+authors: Jiang F, Yin Z, Caraway NP, Li R and Katz RL.
+contact:
+  email: fjiang@mail.mdanderson.org
+  name: Feng Jiang
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15548372
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Neoplasia 6, 5 (2004): 623-35.'
+label: 'Jiang et al. (2004): Genomic Profiles in Stage I Primary Non Small Cell Lung
+  Cancer Using Comparative Genomic ...'
+notes: ~
+pmid: 15548372
+title: Genomic Profiles in Stage I Primary Non Small Cell Lung Cancer Using Comparative
+  Genomic Hybridization Analysis of Cdna Microarrays.
+year: 2004

@@ -1,0 +1,48 @@
+---
+abstract: By using comparative genomic hybridization CGH , we characterized the genetic
+  profiles of 36 VHL-related pheochromocytomas. We then compared the results with
+  those of sporadic and MEN 2-related pheochromocytomas. In 36 VHL-related tumors,
+  loss of chromosome 3 and chromosome 11 were found in 34 tumors 94 and 31 tumors
+  86 , respectively. There was significant concordance of deletions in chromosomes
+  3 and 11 Kappa 0.64, P 0.0095 , suggesting that they are involved in two different
+  but necessary and complementary genetic pathways. The loss of chromosome 11 appeared
+  to be specific for VHL-related pheochromocytoma as it was not present in any of
+  the 10 VHL-related CNS hemangioblastomas studied and was significantly less common
+  when compared with a sporadic pheochromocytomas from previously published results
+  13 P amp lt 0.0001 , and b MEN 2-related pheochromocytomas from this and previously
+  published studies 30 P 0.0012 . In summary, this is the first report of a novel
+  consistent genetic alteration that is selected and specific for VHL-related pheochromocytoma,
+  besides the two hits of the VHL gene.
+authors: Lui WO, Chen J, Glasker S, Bender BU, Madura C, Khoo SK, Kort E, Larsson
+  C, Neumann HP and Teh BT.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 51
+  samples_acgh: 0
+  samples_ccgh: 51
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11850829
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Oncogene 21, 7 (2002): 1117-22.'
+label: 'Lui et al. (2002): Selective Loss of Chromosome 11 in Pheochromocytomas Associated
+  With the Vhl Syndrome.'
+notes: ~
+pmid: 11850829
+title: Selective Loss of Chromosome 11 in Pheochromocytomas Associated With the Vhl
+  Syndrome.
+year: 2002

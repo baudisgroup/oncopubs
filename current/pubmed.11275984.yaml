@@ -1,0 +1,47 @@
+---
+abstract: Pituitary adenomas are common intracranial neoplasms that may be hormone-secreting
+  or nonfunctional. Genetic defects associated with some pituitary tumors have been
+  identified, although our understanding of the underlying molecular mechanisms remains
+  incomplete. We have studied 75 sporadic pituitary tumors, representing the major
+  clinical subtypes, by comparative genomic hybridization CGH with the aim of assessing
+  for DNA copy number changes. CGH revealed chromosomal imbalances in 34 adenomas
+  45.3 , whereby gains were 4.9 times more frequently observed than losses. Most of
+  the genetic alterations detected by CGH affected entire chromosomes 108 131, 82.4
+  . Gain of genetic material was observed predominantly on chromosomes X 24 75, 32
+  , 19 12 75, 16 , 12 6 75, 6.7 , 7 and 9 5 75, 6.7 , whereas loss of DNA sequences
+  most frequently affected chromosomes 11 4 75, 5.3 , 13 and 10 3 75, 4 . There were
+  no significant differences in the CGH results for the individual clinical subtypes
+  of pituitary tumors. These results reveal a nonrandom pattern of chromosomal alterations
+  in pituitary tumors, in particular gains of entire chromosomes, and this may contribute
+  to the development of such neoplasms.
+authors: Trautmann K, Thakker RV, Ellison DW, Ibrahim A, Lees PD, Harding B, Fischer
+  C, Popp S, Bartram CR and Jauch A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11275984
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 91, 6 (2001): 809-14.'
+label: 'Trautmann et al. (2001): Chromosomal Aberrations in Sporadic Pituitary Tumors.'
+notes: ~
+pmid: 11275984
+title: Chromosomal Aberrations in Sporadic Pituitary Tumors.
+year: 2001

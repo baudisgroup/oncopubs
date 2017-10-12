@@ -1,0 +1,54 @@
+---
+abstract: In colorectal cancer (CRC), chromosomal instability (CIN) is typically studied
+  using comparative-genomic hybridization (CGH) arrays. We studied paired (tumor and
+  surrounding healthy) fresh frozen tissue from 86 CRC patients using Illumina's Infinium-based
+  SNP array. This method allowed us to study CIN in CRC, with simultaneous analysis
+  of copy number (CN) and B-allele frequency (BAF)--a representation of allelic composition.
+  These data helped us to detect mono-allelic and bi-allelic amplifications/deletion,
+  copy neutral loss of heterozygosity, and levels of mosaicism for mixed cell populations,
+  some of which can not be assessed with other methods that do not measure BAF. We
+  identified associations between CN abnormalities and different CRC phenotypes (histological
+  diagnosis, location, tumor grade, stage, MSI and presence of lymph node metastasis).
+  We showed commonalities between regions of CN change observed in CRC and the regions
+  reported in previous studies of other solid cancers (e.g. amplifications of 20q,
+  13q, 8q, 5p and deletions of 18q, 17p and 8p). From Therapeutic Target Database,
+  we identified relevant drugs, targeted to the genes located in these regions with
+  CN changes, approved or in trials for other cancers and common diseases. These drugs
+  may be considered for future therapeutic trials in CRC, based on personalized cytogenetic
+  diagnosis. We also found many regions, harboring genes, which are not currently
+  targeted by any relevant drugs that may be considered for future drug discovery
+  studies. Our study shows the application of high density SNP arrays for cytogenetic
+  study in CRC and its potential utility for personalized treatment.
+authors: Jasmine F, Rahaman R, Dodsworth C, Roy S, Paul R, Raza M, Paul-Brutus R,
+  Kamal M, Ahsan H and Kibriya MG
+contact:
+  email: kibriya@uchicago.edu
+  name: ~
+counts:
+  biosamples: 0
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22363777
+- geo:GSE34678
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.65
+    - 41.85
+    type: Point
+  info:
+    city: Chicago
+    continent: North America
+    country: United States
+    label: Chicago, United States, North America
+    precision: city
+journal: PLoS ONE 7(2), 2012
+label: 'Jasmine F et al. (2012): '
+notes: ~
+pmid: 22363777
+title: 'A genome-wide study of cytogenetic changes in colorectal cancer using SNP
+  microarrays: opportunities for future personalized treatment.'
+year: 2012

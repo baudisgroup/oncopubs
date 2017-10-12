@@ -1,0 +1,57 @@
+---
+abstract: Loss of heterozygosity and fluorescence in situ hybridization FISH studies
+  have shown that deletions of 1p and 19q are highly prevalent in oligodendroglioma.
+  However, these tumors have not been comprehensively screened for other alterations
+  in chromosomal dosage. In this study, we used array-based comparative genomic hybridization
+  CGHa of mapped BAC DNA to screen for such alterations in 31 oligodendrogliomas 20
+  grade II, 9 grade III, and 2 grade IV and 4 mixed oligoastrocytomas 1 grade I, 1
+  grade II, and 2 grade IV . The most frequent aberrations were loss of 1p 17 cases
+  49 and 19q 15 cases 43 and combined loss of 1p 19q 13 cases 37 . In addition, deletion
+  of 4q, 5p, 9p, 10q, 11p, and 13q was observed in 10, 4, 8, 4, 4, and 13 cases, respectively
+  loss of whole chromosomes 4, 9, and 13 in 4, 1, and 7 cases, respectively gain of
+  7p, 8q, 10p, and 11q in 6, 6, 5, and 10 cases, respectively, and gain of whole chromosomes
+  7 and 11 in 2 patients each. Minimally altered regions detected by CGHa involved
+  chromosome bands 1p36.32, 4q33, 5p15, 8q24, 11p15, and 19q13.3. Univariate analysis
+  of all 35 cases suggested that combined deletion of 1p and 19q is associated with
+  better survival P 0.03 . In addition, 8q gain in the oligodendrogliomas was strongly
+  associated with poor outcome P 0.002 . Also associated with poor disease outcome
+  were alterations that had low prevalence in the pure oligodendrogliomas, including
+  loss of 3q, 9q, and 12q and gain of 1p, 8p, and 10q. In summary, in oligodendrogliomas,
+  CGHa was able to detect novel small alterations in chromosomal dosage that had not
+  been previously detected by other methods. In addition, our findings support the
+  hypotheses that oligodendroglioma can be classified into several groups by CGHa
+  analysis and that specific alterations in genetic dosage may have biologic or clinical
+  significance.
+authors: Kitange G, Misra A, Law M, Passe S, Kollmeyer TM, Maurer M, Ballman K, Feuerstein
+  BG and Jenkins RB.
+contact:
+  email: ~
+  name: Ronald Jenkins
+counts:
+  biosamples: 35
+  samples_acgh: 35
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15472895
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 42, 1 (2005): 68-77.'
+label: 'Kitange et al. (2005): Chromosomal Imbalances Detected By Array Comparative
+  Genomic Hybridization in Human ...'
+notes: ~
+pmid: 15472895
+title: Chromosomal Imbalances Detected By Array Comparative Genomic Hybridization
+  in Human Oligodendrogliomas and Mixed Oligoastrocytomas.
+year: 2005

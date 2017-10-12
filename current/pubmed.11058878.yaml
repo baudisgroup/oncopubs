@@ -1,0 +1,51 @@
+---
+abstract: Detailed knowledge of chromosomal aberrations in a specific tumor may facilitate
+  the development of individually tailored chemotherapy, hormone or gene therapy.
+  Unfortunately, karyotype analysis requires living cells and is complicated by the
+  low number of good metaphase spreads obtained. Comparative genomic hybridization
+  CGH , however, is capable of detecting and mapping genome-wide amplifications and
+  deletions using an equimolar mixture of normal and tumor cell DNA. We show here
+  that even the few cells from a fine needle aspirate of a tumor are sufficient for
+  a direct CGH assay, independent of DNA amplification. Ten primary breast cancers
+  were analyzed by CGH. A fresh frozen fine needle aspirate and a formalin-fixed and
+  paraffin-embedded section were used for each tumor. Metaphases from each CGH reaction
+  were imaged, and a sum ratio profile was determined for every chromosome. The ratio
+  profiles of DNA isolated from the 2 material sources were then compared. Fine needle
+  aspirates and the paraffin-embedded material of a single tumor yielded the same
+  fluorescence ratio profiles, albeit with slightly different confidence intervals.
+  Different tumors showed a variety of aberrations. The most frequently observed changes
+  were 1q , 8q , 14q-, 16p , 16q-, 17p-, 17q , 19q , 20q , 21q- and 22q-. The ability
+  of CGH to assess chromosomal changes in breast cancer from fine needle aspirates
+  could facilitate genetic evaluation of tumors prior to surgery.
+authors: Burki NG, Caduff R, Walt H, Moll C, Pejovic T, Haller U and Ward DC.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11058878
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: North America
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: 'Int J Cancer 88, 4 (2000): 607-13.'
+label: 'Burki et al. (2000): Comparative Genomic Hybridization of Fine Needle Aspirates
+  From Breast Carcinomas.'
+notes: In this publication, aberrations were only indicated per arm without single
+  band resolution.
+pmid: 11058878
+title: Comparative Genomic Hybridization of Fine Needle Aspirates From Breast Carcinomas.
+year: 2000

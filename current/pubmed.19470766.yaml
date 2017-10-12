@@ -1,0 +1,55 @@
+---
+abstract: 'Recent insights into the role of the von-Hippel Lindau VHL tumor suppressor
+  gene in hereditary and sporadic clear-cell renal cell carcinoma ccRCC have led to
+  new treatments for patients with metastatic ccRCC, although virtually all patients
+  eventually succumb to the disease. We performed an integrated, genome-wide analysis
+  of copy-number changes and gene expression profiles in 90 tumors, including both
+  sporadic and VHL disease-associated tumors, in hopes of identifying new therapeutic
+  targets in ccRCC. We identified 14 regions of nonrandom copy-number change, including
+  7 regions of amplification 1q, 2q, 5q, 7q, 8q, 12p, and 20q and 7 regions of deletion
+  1p, 3p, 4q, 6q, 8p, 9p, and 14q . An analysis aimed at identifying the relevant
+  genes revealed VHL as one of three genes in the 3p deletion peak, CDKN2A and CDKN2B
+  as the only genes in the 9p deletion peak, and MYC as the only gene in the 8q amplification
+  peak. An integrated analysis to identify genes in amplification peaks that are consistently
+  overexpressed among amplified samples confirmed MYC as a potential target of 8q
+  amplification and identified candidate oncogenes in the other regions. A comparison
+  of genomic profiles revealed that VHL disease-associated tumors are similar to a
+  subgroup of sporadic tumors and thus more homogeneous overall. Sporadic tumors without
+  evidence of biallelic VHL inactivation fell into two groups: one group with genomic
+  profiles highly dissimilar to the majority of ccRCC and a second group with genomic
+  profiles that are much more similar to tumors with biallelic inactivation of VHL.'
+authors: Beroukhim R, Brunet JP, Di Napoli A, Mertz KD, Seeley A, Pires MM, Linhart
+  D, Worrell RA, Moch H, Rubin MA, Sellers WR, Meyerson M, Linehan WM, Kaelin WG Jr
+  and Signoretti S.
+contact:
+  email: ssignoretti@partners.org
+  name: Sabina Signoretti
+counts:
+  biosamples: 111
+  samples_acgh: 111
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19470766
+- geo:GSE14994
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Res 69, 11 (2009): 4674-81.'
+label: 'Beroukhim et al. (2009): Patterns of Gene Expression and Copy-Number Alterations
+  in Von-Hippel Lindau Disease-Associated ...'
+notes: ~
+pmid: 19470766
+title: Patterns of Gene Expression and Copy-Number Alterations in Von-Hippel Lindau
+  Disease-Associated and Sporadic Clear Cell Carcinoma of the Kidney.
+year: 2009

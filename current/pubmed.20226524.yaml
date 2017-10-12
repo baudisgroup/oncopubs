@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: Tack GJ, Verbeek WH, van de Water JM, von Blomberg BM, Bhola SL, Ylstra B,
+  Mulder CJ, and Schreurs MW.
+contact:
+  email: ~
+  name: Greetje Tack
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20226524
+- geo:GSE17715
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Leuk Res, 34(8) 2010, e183-9.
+label: 'Tack et al. (2010): Phenotypic and genomic analysis of an exceptional case
+  of enteropathy associated T-cell ...'
+notes: ~
+pmid: 20226524
+title: Phenotypic and genomic analysis of an exceptional case of enteropathy associated
+  T-cell lymphoma.
+year: 2010

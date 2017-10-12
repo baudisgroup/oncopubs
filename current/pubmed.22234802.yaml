@@ -1,0 +1,55 @@
+---
+abstract: "About 50% of children with neuroblastoma (NB) show a metastatic disease
+  and have a poor prognosis. However, disease progression is greatly variable and
+  depends on patients' age and MYCN oncogene amplification. To investigate the role
+  of patients' age in tumor aggressiveness, we performed array-CGH and gene expression
+  profiles of three groups (G) of metastatic NBs: G1, stage 4S patients and MYCN single
+  copy (MYCN-) tumors; G2, stage 4 patients, â\x89¤ 18 months of age, MYCN- tumors
+  and favorable outcome and G3, Stage 4 patients, â\x89¥ 19 months with unfavorable
+  outcome. G1 was characterized by numerical aberrations prevalently; on the contrary,
+  all G3 tumors had structural rearrangements, whereas G2 showed an intermediate pattern.
+  The average of numerical alterations decreased significantly from G1 to G2 to G3
+  (p < 0.01). Contrarily, the number of structural aberrations increased from G1 to
+  G2 to G3 (p < 2.35 E-05). Noteworthy, G3/MYCN- NBs were characterized by several
+  complex intrachromosome rearrangements. Expression analysis of the three groups
+  showed significant differences in genes of Rho and Ras signaling pathways, development
+  and adhesion, cell cycle regulation and telomerase activity. Accumulation of structural
+  alterations increased with patients' age and was associated with a more aggressive
+  disease. Abnormal expression of genes involved in cell cycle and telomerase in G3
+  may be responsible for the genomic instability in this cohort of patients. The higher
+  DNA instability observed in G3/MYCN- NBs than in MYCN-amplified G3 may also explain
+  why patients â\x89¥ 19 months have a poor outcome independently by MYCN status.
+  \ Copyright Â© 2012 UICC."
+authors: Coco S, Theissen J, Scaruffi P, Stigliani S, Moretti S, Oberthuer A, Valdora
+  F, Fischer M, Gallo F, Hero B, Bonassi S, Berthold F and Tonini GP
+contact:
+  email: simona.coco@istge.it
+  name: ~
+counts:
+  biosamples: 133
+  samples_acgh: 133
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22234802
+- geo:GSE25771
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: Int. J. Cancer 131(7), 2012
+label: 'Coco S et al. (2012): '
+notes: ~
+pmid: 22234802
+title: Age-dependent accumulation of genomic aberrations and deregulation of cell
+  cycle and telomerase genes in metastatic neuroblastoma.
+year: 2012

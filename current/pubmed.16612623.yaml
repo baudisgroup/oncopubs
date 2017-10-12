@@ -1,0 +1,48 @@
+---
+abstract: One of the most controversial issues in breast pathology is whether lobular
+  neoplasia LN is a risk factor or a precursor lesion of invasive lobular carcinoma
+  ILC . This is consequent to the fact that no conclusive data on the biology of LN
+  exist. Molecular studies of LN and ILC are scanty, variable, and not consistent.
+  Clonality of 12 cases of LN and ILC present simultaneously in the same block has
+  been studied. Cells from both lesions were obtained by microdissection and were
+  studied for mitochondrial DNA mtDNA , D-loop sequencing, and neighbor-joining trees.
+  Eight of the same cases were studied with comparative genomic hybridization CGH
+  array to have additional data consistent with mtDNA. In all cases, loss of heterozygosity
+  was studied for D16S496,locus 16q22.1 related to e-cadherin. It appears that no
+  fewer than eight cases were genetically very similar clonal with mtDNA. Seven of
+  these cases appeared also clonal with CGH array. It is concluded that in the present
+  series, LN and ILC are genetically related lesions in the majority of cases and
+  that LN might be the precursor of ILC.
+authors: Morandi L, Marucci G, Foschini MP, Cattani MG, Pession A, Riva C and Eusebi
+  V.
+contact:
+  email: vincenzo.eusebi@ausl.bo.it
+  name: V. Eusebi
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16612623
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: Europe
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: 'Virchows Arch 449, 1 (2006): 14-23.'
+label: 'Morandi et al. (2006): Genetic Similarities and Differences Between Lobular
+  in Situ Neoplasia (Ln) and Invasive Lobular ...'
+notes: ~
+pmid: 16612623
+title: Genetic Similarities and Differences Between Lobular in Situ Neoplasia (Ln)
+  and Invasive Lobular Carcinoma of the Breast.
+year: 2006

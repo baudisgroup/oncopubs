@@ -1,0 +1,37 @@
+---
+abstract: Comparative genomic hybridization was performed on head and neck squamous
+  cell carcinoma and surrounding mucosa to determine whether common chromosomal aberrations
+  could be detected that would predispose an individual to developing a second primary
+  tumor.
+authors: Stafford ND, Ashman JN, MacDonald AW, Ell SR, Monson JR and Greenman J.
+contact:
+  email: ~
+  name: Nicholas D. Stafford
+counts:
+  biosamples: 57
+  samples_acgh: 0
+  samples_ccgh: 57
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10604412
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.34
+    - 53.74
+    type: Point
+  info:
+    city: Hull
+    continent: Europe
+    country: United Kingdom
+    label: Hull, United Kingdom, Europe
+    precision: city
+journal: 'Arch Otolaryngol Head Neck Surg 125, 12 (1999): 1341-48.'
+label: 'Stafford et al. (1999): Genetic Analysis of Head and Neck Squamous Cell Carcinoma
+  and Surrounding Mucosa.'
+notes: From 19 patients with HNSCC, biopsies from tumor and tumor margins were analyzed
+  by CGH.
+pmid: 10604412
+title: Genetic Analysis of Head and Neck Squamous Cell Carcinoma and Surrounding Mucosa.
+year: 1999

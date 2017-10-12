@@ -1,0 +1,47 @@
+---
+abstract: A 4-year-old patient, who was newly diagnosed with acute lymphoblastic leukemia
+  ALL , was referred to us for cytogenetic evaluation. He had a normal karyotype by
+  G-banded chromosome analysis, and a deletion of the ETV6 alias TEL gene was determined
+  by fluorescence in situ hybridization analysis using DNA probes specific for t 12
+  21 , which leads to ETV6 RUNX1 alias TEL AML1 gene fusion, but no translocation
+  was found between the two genes. To find out if there were possibly additional subtle
+  chromosomal changes undetectable by routine cytogenetics, high-density 385K oligo
+  array comparative genomic hybridization CGH assay was performed. Besides the confirmation
+  of the 12p deletion, a deletion of a 12-megabase Mb chromosomal segment on 14q24.1
+  approximately q24.3 was also detected. Within the deleted 12-Mb region, there were
+  a total of 155 genes and at least 28 of these were cancer-related genes. A similar
+  approach by array CGH in patients with ALL, especially in those patients with 12p
+  deletion, could help to determine the significance of this rare event.
+authors: Xu W, Lu X, Kim Y, Luo Y, Martin M, Mulvihill JJ and Li S.
+contact:
+  email: shibo-li@ouhsc.edu
+  name: Shibo Li
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18656693
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.52
+    - 35.47
+    type: Point
+  info:
+    city: Oklahoma City
+    continent: North America
+    country: United States
+    label: Oklahoma City, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 185, 1 (2008): 43-46.'
+label: 'Xu et al. (2008): Deletion of 14q24.1 Approximately Q24.3 in a Patient With
+  Acute Lymphoblastic Leukemia: A Hidden ...'
+notes: ~
+pmid: 18656693
+title: 'Deletion of 14q24.1 Approximately Q24.3 in a Patient With Acute Lymphoblastic
+  Leukemia: A Hidden Chromosomal Anomaly Detected By Array-Based Comparative Genomic
+  Hybridization.'
+year: 2008

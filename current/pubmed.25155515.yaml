@@ -1,0 +1,58 @@
+---
+abstract: Genomic analyses of hundreds of prostate tumors have defined a diverse landscape
+  of mutations and genome rearrangements, but the transcriptomic effect of this complexity
+  is less well understood, particularly at the individual tumor level. We selected
+  a cohort of 25 high-risk prostate tumors, representing the lethal phenotype, and
+  applied deep RNA-sequencing and matched whole genome sequencing, followed by detailed
+  molecular characterization.  Ten tumors were exposed to neo-adjuvant hormone therapy
+  and expressed marked evidence of therapy response in all except one extreme case,
+  which demonstrated early resistance via apparent neuroendocrine transdifferentiation.
+  We observe high inter-tumor heterogeneity, including unique sets of outlier transcripts
+  in each tumor. Interestingly, outlier expression converged on druggable cellular
+  pathways associated with cell cycle progression, translational control or immune
+  regulation, suggesting distinct contemporary pathway affinity and a mechanism of
+  tumor stratification. We characterize hundreds of novel fusion transcripts, including
+  a high frequency of ETS fusions associated with complex genome rearrangements and
+  the disruption of tumor suppressors. Remarkably, several tumors express unique but
+  potentially-oncogenic non-ETS fusions, which may contribute to the phenotype of
+  individual tumors, and have significance for disease progression. Finally, one ETS-negative
+  tumor has a striking tandem duplication genotype which appears to be highly aggressive
+  and present at low recurrence in ETS-negative prostate cancer, suggestive of a novel
+  molecular subtype.  The multitude of rare genomic and transcriptomic events detected
+  in a high-risk tumor cohort offer novel opportunities for personalized oncology
+  and their convergence on key pathways and functions has broad implications for precision
+  medicine.
+authors: Wyatt AW, Mo F, Wang K, McConeghy B, Brahmbhatt S, Jong L, Mitchell DM, Johnston
+  RL, Haegert A, Li E, Liew J, Yeung J, Shrestha R, Lapuk AV, McPherson A, Shukin
+  R, Bell RH, Anderson S, Bishop J, Hurtado-Coll A, Xiao H, Chinnaiyan AM, Mehra R,
+  Lin D, Wang Y, Fazli L, Gleave ME, Volik SV and Collins CC
+contact:
+  email: moc.ertnecetatsorp@ttaywa
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 25
+external_identifiers:
+- pubmed:25155515
+- geo:GSE55016
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Genome Biol. 15(8), 2014
+label: 'Wyatt AW et al. (2014): '
+notes: ~
+pmid: 25155515
+title: Heterogeneity in the inter-tumor transcriptome of high risk prostate cancer.
+year: 2014

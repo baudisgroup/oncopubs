@@ -1,0 +1,38 @@
+---
+abstract: In the current study the authors attempted to evaluate genetic alterations
+  in a large set of primary ovarian carcinomas and to compare the genetic findings
+  with clinical parameters such as grade of tumor differentiation. This strategy was
+  applied to identify chromosomal regions containing genes associated with tumor progression.
+authors: Kiechle M, Jacobsen A, Schwarz-Boeger U, Hedderich J, Pfisterer J and Arnold
+  N.
+contact:
+  email: ~
+  name: NA Kiechle
+counts:
+  biosamples: 106
+  samples_acgh: 0
+  samples_ccgh: 106
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11169935
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.58
+    - 48.14
+    type: Point
+  info:
+    city: Munich
+    continent: Europe
+    country: Germany
+    label: Munich, Germany, Europe
+    precision: city
+journal: 'Cancer 91, 3 (2001): 534-40.'
+label: 'Kiechle et al. (2001): Comparative Genomic Hybridization Detects Genetic Imbalances
+  in Primary Ovarian Carcinomas as ...'
+notes: ~
+pmid: 11169935
+title: Comparative Genomic Hybridization Detects Genetic Imbalances in Primary Ovarian
+  Carcinomas as Correlated With Grade of Differentiation.
+year: 2001

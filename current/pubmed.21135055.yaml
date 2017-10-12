@@ -1,0 +1,41 @@
+---
+abstract: Breast cancer cells deficient for BRCA1 are hypersensitive to agents inducing
+  DNA double-strand breaks DSB , such as bifunctional alkylators and platinum agents.
+  Earlier, we had developed a comparative genomic hybridisation CGH classifier based
+  on BRCA1-mutated breast cancers. We hypothesised that this BRCA1-like CGH classifier
+  could also detect loss of function of BRCA1 due to other causes besides mutations
+  and, consequently, might predict sensitivity to DSB-inducing agents.
+authors: Vollebergh MA, Lips EH, Nederlof PM, Wessels LF, Schmidt MK, van Beers EH,
+  Cornelissen S, Holtkamp M, Froklage FE, de Vries EG, Schrama JG, Wesseling J, van
+  de Vijver MJ, van Tinteren H, de Bruin M, Hauptmann M, Rodenhuis S and Linn SC.
+contact:
+  email: ~
+  name: Sabine Linn
+counts:
+  biosamples: 230
+  samples_acgh: 230
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21135055
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Ann Oncol 22, 7 (2011): 1561-70.'
+label: 'Vollebergh et al. (2011): An Acgh Classifier Derived From Brca1-Mutated Breast
+  Cancer and Benefit of High-Dose ...'
+notes: ~
+pmid: 21135055
+title: An Acgh Classifier Derived From Brca1-Mutated Breast Cancer and Benefit of
+  High-Dose Platinum-Based Chemotherapy in Her2-Negative Breast Cancer Patients.
+year: 2011

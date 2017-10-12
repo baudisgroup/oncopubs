@@ -1,0 +1,39 @@
+---
+abstract: Long-term survival for children with diffuse intrinsic pontine glioma DIPG
+  is less than 10 , and new therapeutic targets are urgently required. We evaluated
+  a large cohort of DIPGs to identify recurrent genomic abnormalities and gene expression
+  signatures underlying DIPG.
+authors: Paugh BS, Broniscer A, Qu C, Miller CP, Zhang J, Tatevossian RG, Olson JM,
+  Geyer JR, Chi SN, da Silva NS, Onar-Thomas A, Baker JN, Gajjar A, Ellison DW and
+  Baker SJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 51
+  samples_acgh: 51
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21931021
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'J Clin Oncol 29, 30 (2011): 3999-4006.'
+label: 'Paugh et al. (2011): Genome-Wide Analyses Identify Recurrent Amplifications
+  of Receptor Tyrosine Kinases and Cell-Cycle ...'
+notes: ~
+pmid: 21931021
+title: Genome-Wide Analyses Identify Recurrent Amplifications of Receptor Tyrosine
+  Kinases and Cell-Cycle Regulatory Genes in Diffuse Intrinsic Pontine Glioma.
+year: 2011

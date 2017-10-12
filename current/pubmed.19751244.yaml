@@ -1,0 +1,56 @@
+---
+abstract: Solitary fibrous tumors SFT are rare neoplasms of mesenchymal origin involving
+  soft tissues, mainly serosal sites the spinal cord location is uncommon. We report
+  a case of SFT occurring in the thoracic spinal cord, discussing histological, ultrastructural
+  and molecular aspects. A 75-year-old woman with an MRI suggesting a dorsal intracanalar
+  lesion was admitted to our institution. T5-T7 laminectomies were performed and an
+  intramedullary tumor was discovered. The tumor arose within the spinal cord and
+  was completely removed. Tumor samples were processed for histological, ultrastructural
+  and molecular analysis comparative genomic hybridization CGH , methylation status
+  of O6-methylguanine-DNA methyltransferase MGMT , p16, deleted in colorectal cancer
+  DCC and death-associated protein kinase 1 DAPK1 . The histological examination demonstrated
+  a proliferation of spindle-shaped cells with a collagen-matrix background. Immunohistochemical
+  staining was positive for vimentin and CD34 and negative for S-100 and epithelial
+  membrane antigen. A histological diagnosis of SFT was made. The ultrastructural
+  examination showed undifferentiated cells within a collagenous matrix and sparse
+  extravascular basement membrane. CGH analysis revealed deletion of 9p21 and losses
+  on 2q, 3p, 16q and 19q and gains on 7q furthermore, no aberrant methylation pattern
+  was found in the promoter region of MGMT, p16, DCC and DAPK1 genes. On the second-year
+  follow-up, the patient was neurologically intact. The occurrence of SFT within the
+  spinal cord parenchyma and its histological characteristics demonstrate that SFTs
+  are not restricted to serosal surfaces. The course of spinal cord SFT is unknown
+  and long-term follow-up is necessary. The histological, ultrastructural and molecular
+  findings are important for the diagnosis and the authors provide a literature review
+  of these aspects.
+authors: Ciappetta P, DUrso PI, Cimmino A, Ingravallo G, Rossi R, Colamaria A and
+  DUrso OF.
+contact:
+  email: ~
+  name: Pietro Ivo DUrso
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19751244
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: Europe
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: 'Neuropathology 30, 3 (2010): 273-78.'
+label: 'Ciappetta et al. (2010): Intramedullary Solitary Fibrous Tumor of Dorsal Spinal
+  Cord.'
+notes: ~
+pmid: 19751244
+title: Intramedullary Solitary Fibrous Tumor of Dorsal Spinal Cord.
+year: 2010

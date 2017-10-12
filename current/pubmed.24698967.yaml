@@ -1,0 +1,59 @@
+---
+abstract: Spitz tumors represent a group of melanocytic neoplasms that typically affect
+  young individuals. Microscopically, the lesions are composed of cytologically distinct
+  spindle and epithelioid melanocytes, with a range in the architectural display or
+  the cells, their nuclear features, and secondary epidermal or stromal changes. Recently,
+  kinase fusions have been documented in a subset of Spitz tumors, but there is limited
+  information on the clinical and pathologic features associated with those lesions.
+  Here, we report a series of 17 patients 9 male, 8 female with spitzoid neoplasms
+  showing ALK fusions 5 Spitz nevi and 12 atypical Spitz tumors . The patients ages
+  ranged from 2 years to 35 years mean 17 y median 16 y . Most lesions were located
+  on the lower extremities and presented clinically as polypoid nodules. All tumors
+  were compound melanocytic proliferations with a predominant intradermal growth.
+  Tumor thickness ranged from 1.1 to 6 mm mean 2.9 mm median 2.5 mm . The most characteristic
+  histopathologic feature of the tumors seen in all but 2 lesions was a plexiform
+  dermal growth of intersecting fascicles of fusiform melanocytes. All but 2 tumors
+  were amelanotic. All tumors were strongly immunoreactive for ALK. The ALK rearrangements
+  were confirmed in all cases by fluorescence in situ hybridization FISH , and the
+  fusion partner was determined by quantitative polymerase chain reaction as TPM3
+  tropomyosin 3 in 11 cases and DCTN1 dynactin 1 in 6 cases. None of the 8 tumors
+  that were analyzed by FISH for copy number changes of 6p, 6q, 9p, or 11q met criteria
+  for melanoma. Two patients underwent a sentinel lymph node biopsy, and in both cases
+  melanocyte nests were found in the subcapsular sinus of the node. Array comparative
+  genomic hybridization of these 2 tumors revealed no chromosomal gains or losses.
+  In conclusion, our study revealed that Spitz nevi tumors with ALK rearrangement
+  show a characteristic plexiform morphology and that ALK immunohistochemistry and
+  FISH enable the accurate identification of this morphologic and genetic distinct
+  subset of spitzoid neoplasms.
+authors: Busam KJ, Kutzner H, Cerroni L and Wiesner T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24698967
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Am J Surg Pathol (2014).
+label: 'Busam et al. (2014): Clinical and Pathologic Findings of Spitz Nevi and Atypical
+  Spitz Tumors With ALK ...'
+notes: 2 of 17 samples were analyzed by aCGH, with no CNA being detected.
+pmid: 24698967
+title: Clinical and Pathologic Findings of Spitz Nevi and Atypical Spitz Tumors With
+  ALK Fusions.
+year: 2014

@@ -1,0 +1,48 @@
+---
+abstract: To search for new recurrent genetic aberrations in malignant fibrous histiocytoma
+  MFH , a combination of conventional cytogenetic, comparative genomic hybridization
+  CGH , and Southern blot analyses was applied to a series of 34 tumors. Cytogenetic
+  analysis revealed the presence of multiple structural and numerical aberrations,
+  including marker chromosomes, telomeric associations, double minutes, and ring chromosomes.
+  The most frequent genomic imbalances in this series of neoplasms as detected by
+  CGH were gains of 1q21-q22 69 , 17q23-qter 41 , and 20q 66 , and losses of 9p21-pter
+  55 , 10q 48 , 11q23-qter 55 , and 13q10-q31 55 . Southern blot analyses with p16
+  INK4A CDKN2A 9p21 and RB1 13q14 probes provided clear indications for frequent deletions
+  of these tumor suppressor genes, and as such, substantiated the CGH results. Additionally,
+  examination of the TP53 and MDM2 genes showed frequent loss and amplification, respectively.
+  These data indicate that genes involved in the RB1- and TP53-associated cell cycle
+  regulatory pathways may play prominent roles in the development of human MFH.
+authors: Simons A, Schepens M, Jeuken J, Sprenger S, van de Zande G, Bjerkehagen B,
+  Forus A, Weibolt V, Molenaar I, van den Berg E, Myklebost O, Bridge J, van Kessel
+  AG and Suijkerbuijk R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10748288
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 118, 2 (2000): 89-98.'
+label: 'Simons et al. (2000): Frequent Loss of 9p21 (P16(Ink4A)) and Other Genomic
+  Imbalances in Human Malignant Fibrous ...'
+notes: ~
+pmid: 10748288
+title: Frequent Loss of 9p21 (P16(Ink4A)) and Other Genomic Imbalances in Human Malignant
+  Fibrous Histiocytoma.
+year: 2000

@@ -1,0 +1,49 @@
+---
+abstract: Enteropathy-associated T cell lymphoma (EATL) is a lethal, and the most
+  common, neoplastic complication of celiac disease. Here, we defined the genetic
+  landscape of EATL through whole-exome sequencing of 69 EATL tumors. SETD2 was the
+  most frequently silenced gene in EATL (32% of cases). The JAK-STAT pathway was the
+  most frequently mutated pathway, with frequent mutations in STAT5B as well as JAK1,
+  JAK3, STAT3, and SOCS1 We also identified mutations in KRAS, TP53, and TERT Type
+  I EATL and type II EATL (monomorphic epitheliotropic intestinal T cell lymphoma)
+  had highly overlapping genetic alterations indicating shared mechanisms underlying
+  their pathogenesis. We modeled the effects of SETD2 loss in vivo by developing a
+  T cell-specific knockout mouse. These mice manifested an expansion of Î³Î´ T cells,
+  indicating novel roles for SETD2 in T cell development and lymphomagenesis. Our
+  data render the most comprehensive genetic portrait yet of this uncommon but lethal
+  disease and may inform future classification schemes.
+authors: Moffitt AB, Ondrejka SL, McKinney M, Rempel RE, Goodlad JR, Teh CH, Leppa
+  S, Mannisto S, Kovanen PE, Tse E, Au-Yeung RKH, Kwong YL, Srivastava G, Iqbal J,
+  Yu J, Naresh K, Villa D, Gascoyne RD, Said J, Czader MB, Chadburn A, Richards KL,
+  Rajagopalan D, Davis NS, Smith EC, Palus BC, Tzeng TJ, Healy JA, Lugar PL, Datta
+  J, Love C, Levy S, Dunson DB, Zhuang Y, Hsi ED, Dave SS.
+contact:
+  email: sandeep.dave@duke.edu
+  name: Sandeep S. Dave
+counts:
+  biosamples: 69
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 69
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28424246
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.9
+    - 35.99
+    type: Point
+  info:
+    city: Durham
+    continent: North America
+    country: United States
+    label: Durham, United States, North America
+    precision: city
+journal: J. Exp. Med. 214(5), 2017
+label: ' (2017): '
+notes: ~
+pmid: 28424246
+title: Enteropathy-associated T cell lymphoma subtypes are characterized by loss of
+  function of SETD2.
+year: 2017

@@ -1,0 +1,38 @@
+---
+abstract: This study was performed to test the validity of different methods for determining
+  the status of the erbB-2 HER-2 oncogene in breast cancer tissues for diagnostic
+  use.
+authors: Bankfalvi A, Simon R, Brandt B, Burger H, Vollmer I, Dockhorn-Dworniczak
+  B, Lelle RJ, and Boecker W.
+contact:
+  email: ~
+  name: NA Dockhorn-Dworniczak
+counts:
+  biosamples: 40
+  samples_acgh: 0
+  samples_ccgh: 40
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11119122
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: Histopathology, 37(5) 2000, 411-19.
+label: 'Bankfalvi et al. (2000): Comparative methodological analysis of erbB-2/HER-2
+  gene dosage, chromosomal copy number and ...'
+notes: ~
+pmid: 11119122
+title: Comparative methodological analysis of erbB-2/HER-2 gene dosage, chromosomal
+  copy number and protein overexpression in breast carcinoma tissues for diagnostic
+  use.
+year: 2000

@@ -1,0 +1,55 @@
+---
+abstract: Gastric cancer and esophageal cancer are the second and sixth leading causes
+  of cancer-related death worldwide. Multiple genomic alterations underlying gastric
+  cancer and esophageal squamous cell carcinoma (ESCC) have been identified, but the
+  full spectrum of genomic structural variations and mutations have yet to be uncovered.
+  Here, we report the results of whole-genome sequencing of 30 samples comprising
+  tumor and blood from 15 patients, four of whom presented with ESCC, seven with gastric
+  cardia adenocarcinoma (GCA), and four with gastric noncardia adenocarcinoma. Analyses
+  revealed that an A>C mutation was common in GCA, and in addition to the preferential
+  nucleotide sequence of A located 5 prime to the mutation as noted in previous studies,
+  we found enrichment of T in the 5 prime base. The A>C mutations in GCA suggested
+  that oxidation of guanine may be a potential mechanism underlying cancer mutagenesis.
+  Furthermore, we identified genes with mutations in gastric cancer and ESCC, including
+  well-known cancer genes, TP53, JAK3, BRCA2, FGF2, FBXW7, MSH3, PTCH, NF1, ERBB2,
+  and CHEK2, and potentially novel cancer-associated genes, KISS1R, AMH, MNX1, WNK2,
+  and PRKRIR Finally, we identified recurrent chromosome alterations in at least 30%
+  of tumors in genes, including MACROD2, FHIT, and PARK2 that were often intragenic
+  deletions. These structural alterations were validated using the The Cancer Genome
+  Atlas dataset. Our studies provide new insights into understanding the genomic landscape,
+  genome instability, and mutation profile underlying gastric cancer and ESCC development.
+  Cancer Res; 76(7); 1714-23. ï¿½2016 AACR.
+authors: Hu N, Kadota M, Liu H, Abnet CC, Su H, Wu H, Freedman ND, Yang HH, Wang C,
+  Yan C, Wang L, Gere S, Hutchinson A, Song G, Wang Y, Ding T, Qiao YL, Koshiol J,
+  Dawsey SM, Giffen C, Goldstein AM, Taylor PR, Lee MP.
+contact:
+  email: ptaylor@mail.nih.gov
+  name: Philip R Taylor
+counts:
+  biosamples: 90
+  samples_acgh: 90
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 15
+external_identifiers:
+- pubmed:26857264
+- geo:GSE43470
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.15
+    - 39.08
+    type: Point
+  info:
+    city: Rockville
+    continent: North America
+    country: United States
+    label: Rockville, United States, North America
+    precision: city
+journal: Cancer Res. 76(7), 2016
+label: ' (2016): '
+notes: Mixed cancer types (esophagus and gastric).
+pmid: 26857264
+title: Genomic Landscape of Somatic Alterations in Esophageal Squamous Cell Carcinoma
+  and Gastric Cancer.
+year: 2016

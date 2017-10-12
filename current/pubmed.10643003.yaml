@@ -1,0 +1,52 @@
+---
+abstract: We describe amplification of the MYCC oncogene in a medulloblastoma with
+  aggressive clinical behavior. The patient was a six year old boy who underwent gross
+  total surgical excision of a cerebellar tumor. Despite chemotherapy and total neuraxis
+  radiation, the clinical course was one of relentless progression, with extensive
+  subarachnoid spread and death within eight months of presentation. The pathological
+  features were consistent with the recently described, amp quot large cell variant
+  amp quot of medulloblastoma. Tumor cells exhibited large vesicular nuclei, prominent
+  nucleoli and strong immunoreactivity for synaptophysin. Polymerase chain reaction
+  PCR and fluorescence in situ hybridization FISH assay revealed no evidence of MYCN
+  amplification or 1p deletion in the tumor. FISH analysis revealed evidence of MYCC
+  amplification in the 20- to 30-fold range. Comparative genomic hybridization CGH
+  revealed regions of gains and amplification in three locations, with gains of chromosome
+  7, amplification of 8q24 corresponding to the MYCC locus and gains of the long arm
+  of chromosome 17 suggestive of isochromosome 17q . While conventional karyotypic
+  analysis was not successful in the present case, CGH provided invaluable information
+  about gene amplification and losses gains of chromosomes and chromosomal regions.
+  Thus, CGH is a powerful technique applicable to frozen or paraffin-embedded material
+  which helps to ascertain the presence of gene amplification even without prior knowledge
+  of the gene to be tested.
+authors: Jay V, Squire J, Bayani J, Alkhani AM, Rutka JT and Zielenska M.
+contact:
+  email: vjay@sickkids.on.ca
+  name: V. Jay
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10643003
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Pathology 31, 4 (1999): 337-44.'
+label: 'Jay et al. (1999): Oncogene Amplification in Medulloblastoma: Analysis of
+  a Case By Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 10643003
+title: 'Oncogene Amplification in Medulloblastoma: Analysis of a Case By Comparative
+  Genomic Hybridization and Fluorescence in Situ Hybridization.'
+year: 1999

@@ -1,0 +1,42 @@
+---
+abstract: We analyzed 23 samples of primary pediatric ependymoma for significant gains
+  or losses of genomic DNA, using comparative genomic hybridization CGH and a rigorous
+  statistical approach. Nine of the tumors in this series 39 appeared normal by CGH.
+  The remainder had a limited number of regions of genomic imbalance, most often involving
+  losses of chromosome arms 6q and 22q and the X chromosome, or gains of either 1q
+  or 9. Recurrent and exclusive losses of 6q or 22q suggest that these regions harbor
+  tumor suppressor genes that may contribute independently to the pathogenesis of
+  childhood ependymoma.
+authors: Reardon DA, Entrekin RE, Sublett J, Ragsdale S, Li H, Boyett J, Kepner JL
+  and Look AT.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10451703
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 24, 3 (1999): 230-37.'
+label: 'Reardon et al. (1999): Chromosome Arm 6q Loss is the Most Common Recurrent
+  Autosomal Alteration Detected in Primary ...'
+notes: ~
+pmid: 10451703
+title: Chromosome Arm 6q Loss is the Most Common Recurrent Autosomal Alteration Detected
+  in Primary Pediatric Ependymoma.
+year: 1999

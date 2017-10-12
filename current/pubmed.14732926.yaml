@@ -1,0 +1,55 @@
+---
+abstract: Prostate cancer is known for its highly heterogeneous histological appearance.
+  Data concerning the cytogenetic content of areas with different histology are sparse.
+  We have genetically evaluated 10 prostatic adenocarcinomas with intermediate histopathological
+  grades Gleason score 7 that showed two distinctive growth patterns with different
+  pathologies, that is, Gleason grades 3 and 4 G3 and G4 . The G3 and G4 tumor specimens
+  were taken from spatially separated regions within the cancer mass. Array-based
+  comparative genomic hybridization aCGH was performed to obtain genotypes from the
+  10 pairs of G3 and G4 cancer areas. The cancer DNAs were retrieved from formalin-fixed
+  and paraffin-embedded tissues allowing optimal recognition and selection of target
+  cells. A genome-wide 2,400-element BAC array that provided high-resolution detection
+  of both deletions and amplifications was used. In the 20 G3 and G4 areas, 252 genomic
+  aberrations 88 gains, 164 deletions were noted, of which 86 were concurrent in G3
+  and G4 areas 34 overlap . Ninety-five of the 252 alterations were defined by a single
+  BAC clone 54 gains, 41 deletions . Overlapping changes were more frequent for deletions
+  46 than for gains 13 . Frequent coinciding deletions amp gt or 20 of tumors were
+  seen on 8p 60 , 6q 30 , 1p 20 , 2q 20 , proximal 8q 20 , 10q 20 , 13q 20 , 16q 20
+  , and 18q 20 . A frequent overlapping gain amp gt or 20 of tumors was detected on
+  distal 13q 20 . The patterns of imbalance could be found to coincide in the G3 and
+  G4 areas of the majority of cancers. Array-based CGH can be used as a tool for the
+  evaluation of genetic patterns in prostate cancer.
+authors: van Dekken H, Paris PL, Albertson DG, Alers JC, Andaya A, Kowbel D, van der
+  Kwast TH, Pinkel D, Schroder FH, Vissers KJ, Wildhagen MF and Collins C.
+contact:
+  email: ~
+  name: H van Dekken
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14732926
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 39, 3 (2004): 249-56.'
+label: 'van Dekken et al. (2004): Evaluation of Genetic Patterns in Different Tumor
+  Areas of Intermediate-Grade Prostatic ...'
+notes: The data was represented in a derived ISCN annotation. Supplementary material
+  is linked through the article.
+pmid: 14732926
+title: Evaluation of Genetic Patterns in Different Tumor Areas of Intermediate-Grade
+  Prostatic Adenocarcinomas By High-Resolution Genomic Array Analysis.
+year: 2004

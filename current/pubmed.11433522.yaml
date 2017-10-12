@@ -1,0 +1,54 @@
+---
+abstract: 'Extranodal B-cell lymphoma of mucosa-associated lymphoid tissue MALT type
+  may represent a model of lymphoma progression, because a small cell component frequently
+  occurs in the large cell variants. We studied 52 extranodal B-cell lymphomas: 18
+  extranodal marginal zone B-cell lymphomas of MALT type MZBL,MT , 7 MZBL,MT of the
+  gastro-intestinal tract with a diffuse large B-cell component giMZBLplusLBCL , and
+  27 diffuse large B-cell lymphomas of the gastro-intestinal tract without small cell
+  component giLBCL . Analytical techniques were comparative genomic hybridization
+  CGH and fluorescence in situ hybridization FISH . The translocation t 11 18 was
+  found as the sole aberration in two MZBL,MT only. In contrast to this, t 11 18 -negative
+  MZBL,MT were characterized by frequent gains on chromosome 3 and DNA amplifications
+  on 2p13-p15. Furthermore, we found a clonal lymphoma progression from the small
+  to the large cell component with accumulation of gains and losses of chromosomal
+  material in the large cell component in giMZBLplusLBCL. Aberrations overlapping
+  with MZBL,MT and giMZBLplusLBCL included losses on chromosome 13, amplifications
+  of the REL proto-oncogene, or gains on chromosome 12. In addition, the large cell
+  component revealed gains on 8q24, including amplifications of the MYC proto-oncogene,
+  and losses on 2q. The giLBCL had frequent gains on chromosomes 12 and 9, as well
+  as on 11q, and losses on 6q. We conclude that, based on the distinctive and partly
+  overlapping patterns of genetic aberrations, MALT lymphomas can be divided into
+  different genetic subgroups.'
+authors: Barth TF, Bentz M, Leithauser F, Stilgenbauer S, Siebert R, Schlotter M,
+  Schlenk RF, Dohner H and Moller P.
+contact:
+  email: thomas.barth@medizin.uni-ulm.de
+  name: Thomas Barth
+counts:
+  biosamples: 52
+  samples_acgh: 0
+  samples_ccgh: 52
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11433522
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 31, 4 (2001): 316-25.'
+label: 'Barth et al. (2001): Molecular-Cytogenetic Comparison of Mucosa-Associated
+  Marginal Zone B-Cell Lymphoma and Large ...'
+notes: ~
+pmid: 11433522
+title: Molecular-Cytogenetic Comparison of Mucosa-Associated Marginal Zone B-Cell
+  Lymphoma and Large B-Cell Lymphoma Arising in the Gastro-Intestinal Tract.
+year: 2001

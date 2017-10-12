@@ -1,0 +1,54 @@
+---
+abstract: Aberrations of the Insulin-like Growth Factor IGF system have been found
+  in association with a variety of cancer types. The potential role of IGF1R has been
+  postulated in a small subset of GISTs, but until now the implications of its aberrations
+  have not been defined. The aim of the study was to examine the IGF1R status in patients
+  with gastric GIST in regard to KIT and PDGFRA genotype. Fresh resection specimens
+  were collected from 8 primary tumours 2 wild-type WT and 6 mutant cases . IGF1R
+  was studied as gene expression profiling with Affymetrix GeneChip HG-U133Plus 2.0
+  arrays and as genomic copy number with SNP array analysis Affymetrix Genome Wide
+  Human SNP 6.0 arrays, and at protein level with western blotting WB and immunohistochemistry
+  IHC . The unsupervised analysis of gene expression profiling of our patients merged
+  with a data set from gastric GISTs identified 2 patients out of 8 with different
+  expression of IGF1R. The data were confirmed by WB and IHC. In particular, IGF1R
+  was upregulated in 2 young patients amp lt 30-years old , who had both WT disease
+  and metastases at diagnosis. The SNP array analysis showed that none of the tumours
+  had IGF1R amplification. GISTs are characterized by abnormalities of the KIT and
+  PDGFRA receptors that affect prognosis and response to tyrosine kinase inhibitors.
+  Both young adult with WT GIST had the over-expression of IGF1R at mRNA and protein
+  level. These results further confirm the hypothesis that IGF1R may be a potential
+  therapeutic target in GISTs lacking KIT and PDGFRA mutations.
+authors: Pantaleo MA, Astolfi A, Di Battista M, Heinrich MC, Paterini P, Scotlandi
+  K, Santini D, Catena F, Manara MC, Nannini M, Maleddu A, Saponara M, Lolli C, Formica
+  S and Biasco G.
+contact:
+  email: maria.pantaleo@unibo.it
+  name: Maria Pantaleo
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19672856
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: Europe
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: 'Int J Cancer 125, 12 (2009): 2991-94.'
+label: 'Pantaleo et al. (2009): Insulin-Like Growth Factor 1 Receptor Expression in
+  Wild-Type Gists: A Potential Novel ...'
+notes: Expression data for this series is available through GEO (GSE8167).
+pmid: 19672856
+title: 'Insulin-Like Growth Factor 1 Receptor Expression in Wild-Type Gists: A Potential
+  Novel Therapeutic Target.'
+year: 2009

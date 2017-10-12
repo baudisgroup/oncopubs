@@ -1,0 +1,46 @@
+---
+abstract: Aggressive neuroblastoma remains a therapeutic challenge, and additional
+  understanding of its biology is of paramount importance. Changes in DNA-copy number
+  were analysed in the neuroblastoma cells of 27 patients using comparative genomic
+  hybridization CGH . Eighteen of the patients had a poor risk disease 16 18 stage
+  IV and 9 had a non-poor-risk disease 3 9 stage I-II, 2 9 stage III, and 4 9 stage
+  IVS . Changes in DNA-copy number were detected in 72 of the poor-risk and 22 of
+  the non-poor-risk tumors with gains of chromosomal material being more prevalent
+  than losses. Gains were most common in chromosomes 2, 7, and 17 and losses in chromosome
+  11. Changes in DNA-copy number were multiple in all but one of the patients with
+  poor-risk disease. The applicability of CGH in studies on the genomic changes in
+  pediatric malignancies is demonstrated by our data also adding weight to the argument
+  of multiple elements with oncogenic and or tumor suppressor potential being involved
+  in the aggressive phenotype of poor-risk neuroblastoma.
+authors: Vettenranta K, Aalto Y, Wikstrom S, Knuutila S and Saarinen-Pihkala U.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11369055
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 125, 2 (2001): 125-30.'
+label: 'Vettenranta et al. (2001): Comparative Genomic Hybridization Reveals Changes
+  in DNA-Copy Number in Poor-Risk ...'
+notes: ~
+pmid: 11369055
+title: Comparative Genomic Hybridization Reveals Changes in DNA-Copy Number in Poor-Risk
+  Neuroblastoma.
+year: 2001

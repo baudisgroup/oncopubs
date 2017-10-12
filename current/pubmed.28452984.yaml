@@ -1,0 +1,53 @@
+---
+abstract: Although tyrosine kinase inhibitors (TKIs) have significantly improved the
+  prognosis of chronic myeloid leukemia (CML), the ability of TKIs to eradicate CML
+  remains uncertain and patients must continue TKI therapy for indefinite periods.
+  In this study, we performed whole-exome sequencing to identify somatic mutations
+  in 24 patients with newly diagnosed chronic phase CML who were registered in the
+  JALSG CML212 study. We identified 191 somatic mutations other than the BCR-ABL1
+  fusion gene (median 8, range 1-17). Age, hemoglobin concentration and white blood
+  cell counts were correlated with the number of mutations. Patients with mutations
+  â©¾6 showed higher rate of achieving major molecular response than those<6 (P=0.0381).
+  Mutations in epigenetic regulator, ASXL1, TET2, TET3, KDM1A and MSH6 were found
+  in 25% of patients. TET2 or TET3, AKT1 and RUNX1 were mutated in one patient each.
+  ASXL1 was mutated within exon 12 in three cases. Mutated genes were significantly
+  enriched with cell signaling and cell division pathways. Furthermore, DNA copy number
+  analysis showed that 2 of 24 patients had uniparental disomy of chromosome 1p or
+  3q, which disappeared major molecular response was achieved. These mutations may
+  play significant roles in CML pathogenesis in addition to the strong driver mutation
+  BCR-ABL1.
+authors: Togasaki E, Takeda J, Yoshida K, Shiozawa Y, Takeuchi M, Oshima M, Saraya
+  A, Iwama A, Yokote K, Sakaida E, Hirase C, Takeshita A, Imai K, Okumura H, Morishita
+  Y, Usui N, Takahashi N, Fujisawa S, Shiraishi Y, Chiba K, Tanaka H, Kiyoi H, Ohnishi
+  K, Ohtake S, Asou N, Kobayashi Y, Miyazaki Y, Miyano S, Ogawa S, Matsumura I, Nakaseko
+  C, Naoe T.
+contact:
+  email: chiaki-nakaseko@faculty.chiba-u.jp
+  name: C Nakaseko
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 24
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28452984
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.12
+    - 35.6
+    type: Point
+  info:
+    city: Chiba
+    continent: Asia
+    country: Japan
+    label: Chiba, Japan, Asia
+    precision: city
+journal: Blood Cancer J 7(4), 2017
+label: ' (2017): '
+notes: ~
+pmid: 28452984
+title: Frequent somatic mutations in epigenetic regulators in newly diagnosed chronic
+  myeloid leukemia.
+year: 2017

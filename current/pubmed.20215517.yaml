@@ -1,0 +1,54 @@
+---
+abstract: Because topoisomerase 1 TOP1 is critical for the relaxation of DNA supercoils
+  and because it is the target for the anticancer activity of camptothecins, we assessed
+  TOP1 transcript levels in the 60 cell line panel the NCI-60 of the National Cancer
+  Institutes anticancer drug screen. TOP1 expression levels varied over a 5.7-fold
+  range across the NCI-60. HCT116 colon and MCF-7 breast cancer cells were the highest
+  expressers SK-MEL-28 melanoma and HS578T breast carcinoma cells were the lowest.
+  TOP1 mRNA expression was highly correlated with Top1 protein levels, indicating
+  that TOP1 transcripts could be conveniently used to monitor Top1 protein levels
+  and activity in tissues. Assessment of the TOP1 locus by array comparative genomic
+  hybridization across the NCI-60 showed copy numbers ranging from 1.71 to 4.13 and
+  a statistically significant correlation with TOP1 transcript levels P amp lt 0.01
+  . Further analyses of TOP1 expression on an exon-specific basis revealed that exon
+  1 expression was generally higher and less variable than expression of the other
+  exons, suggesting some form of transcriptional pausing regulation between exons
+  1 and 2. Accordingly, we found the presence of multiple evolutionarily conserved
+  potential G-quadruplex-forming sequences in the first TOP1 intron. Physicochemical
+  tests for actual quadruplex formation by several of those sequences yielded quadruplex
+  formation for two of them and duplex formation for one. The observations reported
+  here suggest the hypothesis that there is a conserved negative transcription regulator
+  within intron 1 of the TOP1 gene associated with a quadruplex-prone region.
+authors: Reinhold WC, Mergny JL, Liu H, Ryan M, Pfister TD, Kinders R, Parchment R,
+  Doroshow J, Weinstein JN and Pommier Y.
+contact:
+  email: wcr@mail.nih.gov
+  name: William Reinhold
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20215517
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 70, 6 (2010): 2191-203.'
+label: 'Reinhold et al. (2010): Exon Array Analyses Across the Nci-60 Reveal Potential
+  Regulation of Top1 By Transcription ...'
+notes: ~
+pmid: 20215517
+title: Exon Array Analyses Across the Nci-60 Reveal Potential Regulation of Top1 By
+  Transcription Pausing At Guanosine Quartets in the First Intron.
+year: 2010

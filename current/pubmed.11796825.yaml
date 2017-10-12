@@ -1,0 +1,60 @@
+---
+abstract: Genome-wide screening for chromosomal imbalances using comparative genomic
+  hybridization CGH revealed a wealth of data on previously unrecognized tumor-specific
+  genomic alterations. CGH to microarrays of DNA, an approach termed matrix-CGH, allows
+  detection of genomic imbalances at a much higher resolution. We show that matrix
+  CGH is also feasible from small tissue samples requiring universal amplification
+  of genomic DNA. Because widespread application of matrix-CGH experiments using large
+  numbers of DNA targets demands a high degree of automation, we have developed a
+  protocol for a fully automated procedure. The use of specialized instrumentation
+  for the generation of DNA chips, their hybridization, scanning, and evaluation required
+  numerous alterations and modifications of the initial protocol. We here present
+  the elaboration and testing of automated matrix-CGH. A chip consisting of 188 different
+  genomic DNA fragments, cloned in bacterial artificial chromosome BAC or P1-derived
+  artificial chromosome PAC vectors and immobilized in replicas of 10, was used to
+  assess the performance of the automated protocol in determining the gene dosage
+  variations in tumor cell lines COLO320-HSR, HL60, and NGP. Although ratios of matrix-CGH
+  were highly concordant with results of chromosomal CGH 85 , the dynamic range of
+  the matrix-CGH ratios was highly superior. Investigation of the two amplicons on
+  8q24 in COLO320-HSR and HL60, containing the MYC gene, revealed a homogeneous amplicon
+  in COLO320-HSR but a heterogeneous amplification pattern in HL60 cells. Although
+  control clones for normalization of the signal ratios can be predicted in cases
+  with defined chromosomal aberrations, in primary tumors such data are often not
+  available, requiring alternative normalization algorithms. Testing such algorithms
+  in a primary high-grade B-cell lymphoma, we show the feasibility of this approach.
+  With the matrix-CGH protocol presented here, robust and reliable detection of genomic
+  gains and losses is accomplished in an automated fashion, which provides the basis
+  for widespread application in tumor and clinical genetics.
+authors: Wessendorf S, Fritz B, Wrobel G, Nessling M, Lampel S, Goettel D, Kuepper
+  M, Joos S, Hopman T, Kokocinski F, Dohner H, Bentz M, Schwaenen C and Lichter P.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11796825
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Lab Invest 82, 1 (2002): 47-60.'
+label: 'Wessendorf et al. (2002): Automated Screening for Genomic Imbalances Using
+  Matrix-Based Comparative Genomic ...'
+notes: ~
+pmid: 11796825
+title: Automated Screening for Genomic Imbalances Using Matrix-Based Comparative Genomic
+  Hybridization.
+year: 2002

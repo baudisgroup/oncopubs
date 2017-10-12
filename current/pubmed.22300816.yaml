@@ -1,0 +1,43 @@
+---
+abstract: The analysis of nucleic acids is limited by the availability of archival
+  specimens and the quality and amount of the extracted material. Archived cytogenetic
+  preparations are stored in many laboratories and are a potential source of total
+  genomic DNA for array karyotyping and other applications. Array CGH using DNA from
+  fixed cytogenetic preparations has been described, but it is not known whether it
+  can be used for SNP arrays. Diagnostic bone marrow specimens taken during the assessment
+  of hematological malignancies are also a potential source of DNA, but it is generally
+  assumed that DNA must be extracted, or the specimen frozen, within a day or two
+  of collection, to obtain DNA suitable for further analysis. We have assessed DNA
+  extracted from these materials for both SNP array and array CGH.
+authors: Mackinnon RN, Selan C, Zordan A, Wall M, Nandurkar H and Campbell LJ.
+contact:
+  email: ~
+  name: Ruth MacKinnon
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22300816
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: 'Mol Cytogenet 5 (2012): 10.'
+label: 'Mackinnon et al. (2012): Cgh and Snp Array Using DNA Extracted From Fixed
+  Cytogenetic Preparations and Long-Term ...'
+notes: ~
+pmid: 22300816
+title: Cgh and Snp Array Using DNA Extracted From Fixed Cytogenetic Preparations and
+  Long-Term Refrigerated Bone Marrow Specimens.
+year: 2012

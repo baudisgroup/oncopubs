@@ -1,0 +1,52 @@
+---
+abstract: Glioblastoma (GBM) is an aggressive, malignant brain tumor typically resulting
+  in death of the patient within one year following diagnosis; and those who survive
+  beyond this point usually present with tumor recurrence within two years (5-year
+  survival is 5%). The genetic heterogeneity of GBM has made the molecular characterization
+  of these tumors an area of great interest and has led to identification of molecular
+  subtypes in GBM. The availability of sequencing platforms that are both fast and
+  economical can further the adoption of tumor sequencing in the clinical environment,
+  potentially leading to identification of clinically actionable genetic targets.
+  In this pilot study, comprised of triplet samples of normal blood, primary tumor,
+  and recurrent tumor samples from three patients; we compared the ability of Illumina
+  whole exome sequencing (ExomeSeq) and the Ion AmpliSeq Comprehensive Cancer Panel
+  (CCP) to identify somatic variants in patient-paired primary and recurrent tumor
+  samples. Thirteen genes were found to harbor variants, the majority of which were
+  exclusive to the ExomeSeq data. Surprisingly, only two variants were identified
+  by both platforms and they were located within the PTCH1 and NF1 genes. Although
+  preliminary in nature, this work highlights major differences in variant identification
+  in data generated from the two platforms. Additional studies with larger samples
+  sizes are needed to further explore the differences between these technologies and
+  to enhance our understanding of the clinical utility of panel based platforms in
+  genomic profiling of brain tumors.
+authors: Virk SM, Gibson RM, Quinones-Mateu ME and Barnholtz-Sloan JS
+contact:
+  email: ' jsb42@case.edu '
+  name: Jill S. Barnholtz-Sloan
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 6
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25950952
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: North America
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: PLoS ONE 10(5), 2015
+label: 'Virk SM et al. (2015): '
+notes: ~
+pmid: 25950952
+title: Identification of variants in primary and recurrent glioblastoma using a cancer-specific
+  gene panel and whole exome sequencing.
+year: 2015

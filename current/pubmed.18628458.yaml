@@ -1,0 +1,40 @@
+---
+abstract: 'In the quest for new targets, genomes of ductal carcinoma in situ DCIS
+  and infiltrating duct carcinoma IDC have been compared previously however, genomic
+  alterations associated with cancer progression were difficult to identify. We hypothesized
+  that significant events can be detected by comparing lesions with a broader range
+  of behavior: from pure DCIS to IDC associated with lymph node metastasis.'
+authors: Iakovlev VV, Arneson NC, Wong V, Wang C, Leung S, Iakovleva G, Warren K,
+  Pintilie M and Done SJ.
+contact:
+  email: sdone@uhnres.utoronto.ca
+  name: Susan J. Done
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18628458
+- geo:GSE10197
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Clin Cancer Res 14, 14 (2008): 4446-54.'
+label: 'Iakovlev et al. (2008): Genomic Differences Between Pure Ductal Carcinoma
+  in Situ of the Breast and That Associated With ...'
+notes: Data available through GEO (GSE10197).
+pmid: 18628458
+title: 'Genomic Differences Between Pure Ductal Carcinoma in Situ of the Breast and
+  That Associated With Invasive Disease: A Calibrated Acgh Study.'
+year: 2008

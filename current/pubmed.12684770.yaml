@@ -1,0 +1,43 @@
+---
+abstract: Atypical adenomatous hyperplasia is the only known precursor lesion of lung
+  adenocarcinomas ACs so far. Here, we describe a new dysplastic lesion in the bronchioles
+  of peripheral lung for which we propose the name bronchiolar columnar cell dysplasia
+  BCCD . Eight of fourteen BCCDs were successfully analyzed by means of comparative
+  genomic hybridization CGH . The average number of chromosomal aberrations was 2.6
+  in BCCD and 14.7 in concomitant AC. Among the aberrations were losses of 3p, 9,
+  13, 14 and gains of 1q, 17, 19q and 20q. Summarizing our data from morphological
+  and genetic analysis, we conclude that BCCD is a preneoplasia of the bronchiolar
+  epithelium and most probably represents an additional precursor lesion of lung adenocarcinomas.
+authors: Ullmann R, Bongiovanni M, Halbwedl I, Petzmann S, Gogg-Kammerer M, Sapino
+  A, Papotti M, Bussolati G and Popper HH.
+contact:
+  email: popper@uni-graz.at
+  name: Helmut H. Popper
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12684770
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: Europe
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: 'Virchows Arch 442, 5 (2003): 429-36.'
+label: 'Ullmann et al. (2003): Bronchiolar Columnar Cell Dysplasia--Genetic Analysis
+  of a Novel Preneoplastic Lesion of ...'
+notes: ~
+pmid: 12684770
+title: Bronchiolar Columnar Cell Dysplasia--Genetic Analysis of a Novel Preneoplastic
+  Lesion of Peripheral Lung.
+year: 2003

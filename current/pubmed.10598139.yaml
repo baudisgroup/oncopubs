@@ -1,0 +1,53 @@
+---
+abstract: Comparative genomic hybridization CGH was used to detect chromosomal gains
+  and losses in a series of 90 frozen soft tissue primary tumors STTs , all untreated.
+  The material consisted of 69 malignant sarcomas, including 20 malignant fibrous
+  histiocytomas MFH , 23 liposarcomas LPS , 6 leiomyosarcomas LMS , 4 synovial sarcomas,
+  4 primitive neuroectodermal tumors PNETs , and various others subtypes, in addition
+  to 21 benign tumors. Within the benign tumors, only 2 of the 3 schwannomas showed
+  genetic changes. In malignant sarcomas, genetic changes were detected in 64 of the
+  69 samples analyzed 92 , with a mean of 4.5 per sample range 0-10 . Gains and losses
+  on chromosome 13 were observed in 32 of the sarcomas with genomic imbalance. Recurring
+  low-level copy number increases were found at new sites on chromosomes 7 6 MFH samples,
+  30 and 8 10 LPS samples, 43 , the minimal common regions being 7p15-pter and 8q24.
+  No new recurring high-level amplifications were found. Surprisingly, losses of DNA
+  sequences were more frequent than gains particularly, losses were the main feature
+  in LMS, with highly recurrent common minimal losses at 11q14-qter and 13q21-q22
+  4 samples, 66 , and 5 samples, 83 , respectively . Losses of chromosome 2 sequences
+  minimal common regions at 2p24-pter and 2q32-qter were observed in 50 of the MFH
+  analyzed. New recurrent losses of whole or part of chromosome 14 were found in 57
+  of the pleomorphic LPS PLPS analyzed. This study uncovers new clues for the diagnosis
+  of malignant STTs and shows the importance of deletions as events in the early steps
+  involved in the tumorigenesis of STTs.
+authors: Parente F, Grosgeorge J, Coindre JM, Terrier P, Vilain O and Turc-Carel C.
+contact:
+  email: fabienne_parente@hotmail.com
+  name: Fabienne Parente
+counts:
+  biosamples: 87
+  samples_acgh: 0
+  samples_ccgh: 87
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10598139
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 115, 2 (1999): 89-95.'
+label: 'Parente et al. (1999): Comparative Genomic Hybridization Reveals Novel Chromosome
+  Deletions in 90 Primary Soft Tissue ...'
+notes: ~
+pmid: 10598139
+title: Comparative Genomic Hybridization Reveals Novel Chromosome Deletions in 90
+  Primary Soft Tissue Tumors.
+year: 1999

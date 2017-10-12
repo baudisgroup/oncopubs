@@ -1,0 +1,38 @@
+---
+abstract: PD-0332991 is a selective inhibitor of the CDK4 6 kinases with the ability
+  to block retinoblastoma Rb phosphorylation in the low nanomolar range. Here we investigate
+  the role of CDK4 6 inhibition in human ovarian cancer.
+authors: Konecny GE, Winterhoff B, Kolarova T, Qi J, Manivong K, Dering J, Yang G,
+  Chalukya M, Wang HJ, Anderson L, Kalli KR, Finn RS, Ginther C, Jones S, Velculescu
+  VE, Riehle D, Cliby WA, Randolph S, Koehler M, Hartmann LC and Slamon DJ.
+contact:
+  email: ~
+  name: Gottfried Konecny
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21278246
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 17, 6 (2011): 1591-602.'
+label: 'Konecny et al. (2011): Expression of P16 and Retinoblastoma Determines Response
+  to Cdk4/6 Inhibition in Ovarian ...'
+notes: ~
+pmid: 21278246
+title: Expression of P16 and Retinoblastoma Determines Response to Cdk4/6 Inhibition
+  in Ovarian Cancer.
+year: 2011

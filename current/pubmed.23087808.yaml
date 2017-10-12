@@ -1,0 +1,54 @@
+---
+abstract: "More than 50% of myeloma cases have normal karyotypes under conventional
+  cytogenetic analysis due to low mitotic activity and content of plasma cells in
+  the bone marrow. We used a polymerase chain reaction (PCR)-based translocation detection
+  assay to detect BCL1/JH t(11;14) (q13;q32) in 105 myeloma patients, and randomly
+  selected 8 translocation positive samples for array comparative genomic hybridization
+  (aCGH) analysis. Our findings revealed 14.3% of myeloma samples were positive for
+  BCL1/JH t(11;14) (q13;q32) translocation (n=15 of 105). We found no significant
+  correlation between this translocation with age (P=0.420), gender (P=0.317), ethnicity
+  (P=0.066) or new/relapsed status of multiple myeloma (P=0.412) at 95% confidence
+  interval level by Ï\x87(2)test. In addition, aCGH results showed genomic imbalances
+  in all samples analyzed. Frequent chromosomal gains were identified at regions 1q,
+  2q, 3p, 3q, 4p, 4q, 5q, 7q, 9q, 11q, 13q, 15q, 21q, 22q and Xq, while chromosomal
+  losses were detected at 4q and 14q. Copy number variations at genetic loci that
+  contain NAMPT, IVNS1ABP and STK17B genes are new findings that have not previously
+  been reported in myeloma patients. Besides fluorescence in situ hybridization, PCR
+  is another rapid, sensitive and simple technique that can be used for detecting
+  BCL1/JH t(11;14)(q13;q32) translocation in multiple myeloma patients. Genes located
+  in the chromosomal aberration regions in our study, such as NAMPT, IVNS1ABP, IRF2BP2,
+  PICALM, STAT1, STK17B, FBXL5, ACSL1, LAMP2, SAMSN1 and ATP8B4 might be potential
+  prognostic markers and therapeutic targets in the treatment and management of multiple
+  myeloma patients positive for BCL1/JH t(11;14) (q13;q32) translocation."
+authors: Ni IB, Ching NC, Meng CK and Zakaria Z
+contact:
+  email: ivyna@imr.gov.my
+  name: '+60.326162710'
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23087808
+- geo:GSE33757
+geo_data:
+  geo_json:
+    coordinates:
+    - 101.69
+    - 3.14
+    type: Point
+  info:
+    city: Kuala Lumpur
+    continent: Asia
+    country: Malaysia
+    label: Kuala Lumpur, Malaysia, Asia
+    precision: city
+journal: Hematol Rep 4(3), 2012
+label: 'Ni IB et al. (2012): '
+notes: ~
+pmid: 23087808
+title: 'Translocation t(11;14) (q13;q32) and genomic imbalances in multi-ethnic multiple
+  myeloma patients: a Malaysian study.'
+year: 2012

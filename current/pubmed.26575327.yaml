@@ -1,0 +1,53 @@
+---
+abstract: 'The prime focus of the current therapeutic strategy for Multiple Myeloma
+  (MM) is to obtain an early and deep tumour burden reduction, up to the level of
+  complete response (CR). To date, no description of the characteristics of the plasma
+  cells (PC) prone to achieve CR has been reported. This study aimed at the molecular
+  characterization of PC obtained at baseline from MM patients in CR after bortezomib-thalidomide-dexamethasone
+  (VTD) first line therapy.One hundred and eighteen MM primary tumours obtained from
+  homogeneously treated patients were profiled both for gene expression and for single
+  nucleotide polymorphism genotype. Genomic results were used to obtain a predictor
+  of sensitivity to VTD induction therapy, as well as to describe both the transcription
+  and the genomic profile of PC derived from MM with subsequent optimal response to
+  primary induction therapy.By analysing the gene profiles of CR patients, we identified
+  a 5-gene signature predicting CR with an overall median accuracy of 75% (range:
+  72%-85%). In addition, we highlighted the differential expression of a series of
+  genes, whose deregulation might explain patients'' sensitivity to VTD therapy. We
+  also showed that a small copy number loss, covering 606Kb on chromosome 1p22.1 was
+  the most significantly associated with CR patients.'
+authors: Terragna C, Remondini D, Martello M, Zamagni E, Pantani L, Patriarca F, Pezzi
+  A, Levi G, Offidani M, Proserpio I, De Sabbata G, Tacchetti P, Cangialosi C, Ciambelli
+  F, Viganï¿½ CV, Dico FA, Santacroce B, Borsi E, Brioli A, Marzocchi G, Castellani
+  G, Martinelli G, Palumbo A, Cavo M.
+contact:
+  email: carolina.terragna@unibo.it
+  name: Carolina Terragna
+counts:
+  biosamples: 89
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 89
+external_identifiers:
+- pubmed:26575327
+- geo:GSE69028
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: Europe
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: Oncotarget 7(9), 2016
+label: ' (2016): '
+notes: ~
+pmid: 26575327
+title: The genetic and genomic background of multiple myeloma patients achieving complete
+  response after induction therapy with bortezomib, thalidomide and dexamethasone
+  (VTD).
+year: 2016

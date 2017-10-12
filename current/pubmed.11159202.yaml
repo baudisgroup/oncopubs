@@ -1,0 +1,55 @@
+---
+abstract: Gastric adenoma is a precancerous lesion of the stomach and its malignant
+  transformation is thought to result from accumulative series of gene alterations.
+  The aim of this study was to determine the pattern of chromosomal changes during
+  gastric carcinogenesis. Pairs of adenoma and carcinoma tissues from 15 gastrectomy
+  cases containing both adenomas and carcinomas in the same adjacent pairs, 6 cases
+  and different non-adjacent pairs, 9 cases lesions, were analyzed for chromosomal
+  alterations of 39 non-acrocentric chromosomal arms by comparative genomic hybridization
+  CGH . CGH analysis identified frequent chromosomal alterations in most of the gastric
+  adenomas 14 15, 93 and all of the carcinomas. The mean number of chromosomal alterations
+  was higher in carcinoma 5.5 for adenoma and 11.7 for carcinoma P 0.006, by nonparametric
+  Wilcoxons test . Losses on the short arm of chromosome 17 were most common in both
+  adenomas 43 and carcinomas 67 . The pattern of chromosomal alterations in paired
+  gastric adenomas and carcinomas showed greater similarity compared to the non-case
+  pairs and this similarity was increased in the adjacent pairs. Deletion mapping
+  analysis on chromosome 17p also demonstrated that the conserved deletion area was
+  more frequent in the adjacent pairs. Among these 6 adjacent pairs, all had common
+  deletion areas. In contrast, among the 9 non-adjacent pairs, 2 22 had common area
+  of deletion, 5 56 showed deletion only in the carcinoma, and the remaining 2 22
+  had no deletion on 17p, suggesting diverse genetic changes might be involved in
+  the multiple tumor formation. Our results that common clonal genetic changes between
+  adjacent pairs of gastric adenomas and carcinomas and accumulated genetic changes
+  in the carcinomas provide evidences for the stepwise mode of gastric carcinogenesis
+  through the accumulation of a series of genetic alterations.
+authors: Kim YH, Kim NG, Lim JG, Park C and Kim H.
+contact:
+  email: ~
+  name: NA Kim
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11159202
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Am J Pathol 158, 2 (2001): 655-62.'
+label: 'Kim et al. (2001): Chromosomal Alterations in Paired Gastric Adenomas and
+  Carcinomas.'
+notes: ~
+pmid: 11159202
+title: Chromosomal Alterations in Paired Gastric Adenomas and Carcinomas.
+year: 2001

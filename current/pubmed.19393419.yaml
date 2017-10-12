@@ -1,0 +1,38 @@
+---
+abstract: Paragangliomas PGLs of the head and neck are benign neoplasms derived from
+  the autonomic nervous system. Familial PGLs have been associated with germline mutations
+  in succinate dehydrogenase SDH genes, and occasionally in Von Hippel-Lindau VHL
+  and RET. The aim of this study was to compare somatic DNA copy number changes in
+  tumors of familial and sporadic origin.
+authors: Sevilla MA, Hermsen MA, Weiss MM, Grimbergen A, Balbin M, Llorente JL, Rodrigo
+  JP and Suarez C.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 18
+  samples_acgh: 18
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19393419
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.84
+    - 43.36
+    type: Point
+  info:
+    city: Oviedo
+    continent: Europe
+    country: Spain
+    label: Oviedo, Spain, Europe
+    precision: city
+journal: 'Otolaryngol Head Neck Surg 140, 5 (2009): 724-29.'
+label: 'Sevilla et al. (2009): Chromosomal Changes in Sporadic and Familial Head and
+  Neck Paragangliomas.'
+notes: ~
+pmid: 19393419
+title: Chromosomal Changes in Sporadic and Familial Head and Neck Paragangliomas.
+year: 2009

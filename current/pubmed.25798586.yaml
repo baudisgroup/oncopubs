@@ -1,0 +1,51 @@
+---
+abstract: Peritoneal mesothelioma is a rare and sometimes lethal malignancy that presents
+  a clinical challenge for both diagnosis and management. Recent studies have led
+  to a better understanding of the molecular biology of peritoneal mesothelioma. Translation
+  of the emerging data into better treatments and outcome is needed. From two patients
+  with peritoneal mesothelioma, we derived whole genome sequences, RNA expression
+  profiles, and targeted deep sequencing data. Molecular data were made available
+  for translation into a clinical treatment plan. Treatment responses and outcomes
+  were later examined in the context of molecular findings. Molecular studies presented
+  here provide the first reported whole genome sequences of peritoneal mesothelioma.
+  Mutations in known mesothelioma-related genes NF2, CDKN2A, LATS2, amongst others,
+  were identified. Activation of MET-related signaling pathways was demonstrated in
+  both cases. A hypermutated phenotype was observed in one case (434 vs. 18 single
+  nucleotide variants) and was associated with a favourable outcome despite sarcomatoid
+  histology and multifocal disease. This study represents the first report of whole
+  genome analyses of peritoneal mesothelioma, a key step in the understanding and
+  treatment of this disease.
+authors: Sheffield BS, Tinker AV, Shen Y, Hwang H, Li-Chang HH, Pleasance E, Ch'ng
+  C, Lum A, Lorette J, McConnell YJ, Sun S, Jones SJ, Gown AM, Huntsman DG, Schaeffer
+  DF, Churg A, Yip S, Laskin J and Marra MA
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 2
+external_identifiers:
+- pubmed:25798586
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: PLoS ONE 10(3), 2015
+label: 'Sheffield et al. (): Personalized oncogenomics: clinical experience with malignant
+  peritoneal mesothelioma using whole ...'
+notes: ~
+pmid: 25798586
+title: 'Personalized oncogenomics: clinical experience with malignant peritoneal mesothelioma
+  using whole genome sequencing.'
+year: 2015

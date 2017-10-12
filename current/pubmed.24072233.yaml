@@ -1,0 +1,41 @@
+---
+abstract: The introduction of the bowel cancer screening programme has resulted in
+  increasing numbers of patients being diagnosed with node-negative disease. Unfortunately,
+  approximately 30 will develop recurrence following surgery. Given the toxicity associated
+  with adjuvant chemotherapy, it is important to identify high-risk patients who may
+  benefit from adjuvant therapy. This study aims to identify which clinicopathological
+  factors and genetic profiling markers predict outcome in node-negative disease.
+authors: Powell AG, Ferguson J, Al-Mulla F, Orange C, McMillan DC, Horgan PG, Edwards
+  J and Going JJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 49
+  samples_acgh: 0
+  samples_ccgh: 49
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24072233
+geo_data:
+  geo_json:
+    coordinates:
+    - -4.26
+    - 55.87
+    type: Point
+  info:
+    city: Glasgow
+    continent: Europe
+    country: United Kingdom
+    label: Glasgow, United Kingdom, Europe
+    precision: city
+journal: J Cancer Res Clin Oncol (2013).
+label: 'Powell et al. (2013): The relationship between genetic profiling, clinicopathological
+  factors and survival in patients ...'
+notes: ~
+pmid: 24072233
+title: 'The relationship between genetic profiling, clinicopathological factors and
+  survival in patients undergoing surgery for node-negative colorectal cancer: 10-year
+  follow-up.'
+year: 2013

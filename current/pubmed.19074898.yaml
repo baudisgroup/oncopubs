@@ -1,0 +1,49 @@
+---
+abstract: An additional tumor suppressor gene on chromosome 9p telomeric to the CDKN2A
+  B locus has long been postulated to exist. Using Affymetrix 250K single nucleotide
+  polymorphism arrays to screen for copy number changes in glioblastoma multiforme
+  GBM , we detected a high frequency of deletions of the PTPRD gene, which encodes
+  a receptor protein tyrosine phosphatase at chromosome 9p23-24.1. Missense and nonsense
+  mutations of PTPRD were identified in a subset of the samples lacking deletions,
+  including an inherited mutation with somatic loss of the wild-type allele. We then
+  sequenced the gene in melanoma and identified 10 somatic mutations in 7 of 57 tumors
+  12 . Reconstitution of PTPRD expression in GBM and melanoma cells harboring deletions
+  or mutations led to growth suppression and apoptosis that was alleviated by both
+  the somatic and constitutional mutations. These data implicate PTPRD in the pathogenesis
+  of tumors of neuroectodermal origin and, when taken together with other recent reports
+  of PTPRD mutations in adenocarcinoma of the colon and lung, suggest that PTPRD may
+  be one of a select group of tumor suppressor genes that are inactivated in a wide
+  range of common human tumor types.
+authors: Solomon DA, Kim JS, Cronin JC, Sibenaller Z, Ryken T, Rosenberg SA, Ressom
+  H, Jean W, Bigner D, Yan H, Samuels Y and Waldman T.
+contact:
+  email: waldmant@georgetown.edu
+  name: Todd Waldman
+counts:
+  biosamples: 58
+  samples_acgh: 58
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19074898
+- geo:GSE13021
+geo_data:
+  geo_json:
+    coordinates:
+    - -89.41
+    - 40.7
+    type: Point
+  info:
+    city: Washington
+    continent: North America
+    country: United States
+    label: Washington, United States, North America
+    precision: city
+journal: 'Cancer Res 68, 24 (2008): 10300-06.'
+label: 'Solomon et al. (2008): Mutational Inactivation of Ptprd in Glioblastoma Multiforme
+  and Malignant Melanoma.'
+notes: ~
+pmid: 19074898
+title: Mutational Inactivation of Ptprd in Glioblastoma Multiforme and Malignant Melanoma.
+year: 2008

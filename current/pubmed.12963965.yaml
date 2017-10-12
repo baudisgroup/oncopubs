@@ -1,0 +1,58 @@
+---
+abstract: We performed an integrated cytogenetic study using a combination of comparative
+  genomic hybridization CGH , spectral karyotyping SKY and fluorescence in situ hybridization
+  FISH to analyze chromosomal aberrations associated with 8 human esophageal squamous
+  cell carcinoma EC-SCC cell lines, and used real-time quantitative PCR Q-PCR to study
+  the copy number changes of two candidate genes of chromosome 3q, PIK3CA and TP63,
+  in 20 primary tumors of EC-SCC. The pooled CGH results revealed frequent gain abnormalities
+  on chromosome arms 1p, 1q, 3q, 5p, 6p, 7p, 7q, 8q, 9q, 11q, 12p, 14q, 15q, 16p,
+  16q, 17q, 18p, 19q, 20q, 22q, and Xq, while frequent losses were found on 3p, 4,
+  5q, 6q, 7q, 9p, and 18q. SKY detected 195 translocations, 13 deletions and 2 duplications.
+  Among the 374 breakpoints, most clustered at the centromeric regions, such as 8q10,
+  13q10, 7q10, 9q10, 14q10, 15q10, 16q10, 21q10, and 22q10, but also at other regions,
+  including 3q 3q21, 3q22, 3q25 , 7p 7p22, 7p14, 7p12 , 7q 7q21, 7q31, 7q32 , 8q 8q21.1,
+  8q23 , 11q 11q21, 11q24 , 13q 13q14 and 18q 18q21 . There was a good correlation
+  between the number of aberrations identified by CGH and SKY r 0.667 p 0.035 . Combined
+  CGH and SKY analyses indicated that chromosomes 3, 7, 9, 11, 14, 16, 18, 19, 20,
+  and 22 harbored higher frequency of chromosomal aberrations than expected. FISH
+  using BAC clones containing oncogene PIK3CA and TP63 found that both genes were
+  amplified in 6 and 5 cell lines, respectively. Q-PCR analysis of primary tumors
+  revealed amplification of PIK3CA and TP63 in 100 and 80 of the cases. Average copy
+  number of PIK3CA per haploid genome was greater than that of TP63 6.27 vs 2.73 ,
+  and the difference showed statistical significance p amp lt 0.001 . Combination
+  of CGH, SKY and FISH could reveal detailed chromosomal changes associated with esophageal
+  cancer cells, and Q-PCR could assess the change of the candidate genes in clinical
+  samples in a high throughput way.
+authors: Yen CC, Chen YJ, Lu KH, Hsia JY, Chen JT, Hu CP, Chen PM, Liu JH, Chiou TJ,
+  Wang WS, Yang MH, Chao TC and Lin CH.
+contact:
+  email: linch@ym.edu.tw
+  name: Chi-Hung Lin
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12963965
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Int J Oncol 23, 4 (2003): 871-81.'
+label: 'Yen et al. (2003): Genotypic Analysis of Esophageal Squamous Cell Carcinoma
+  By Molecular Cytogenetics and Real-Time ...'
+notes: ~
+pmid: 12963965
+title: Genotypic Analysis of Esophageal Squamous Cell Carcinoma By Molecular Cytogenetics
+  and Real-Time Quantitative Polymerase Chain Reaction.
+year: 2003

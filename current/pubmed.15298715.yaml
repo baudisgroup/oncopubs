@@ -1,0 +1,43 @@
+---
+abstract: Osteosarcoma is a highly malignant bone neoplasm of children and young adults.
+  It is characterized by extremely complex karyotypes and high frequency of chromosomal
+  amplifications. Currently, only the histological response degree of necrosis to
+  therapy represent gold standard for predicting the outcome in a patient with non-metastatic
+  osteosarcoma at the time of definitive surgery. Patients with lower degree of necrosis
+  have a higher risk of relapse and poor outcome even after chemotherapy and complete
+  resection of the primary tumor. Therefore, a better understanding of the underlying
+  molecular genetic events leading to tumor initiation and progression could result
+  in the identification of potential diagnostic and therapeutic targets.
+authors: Man TK, Lu XY, Jaeweon K, Perlaky L, Harris CP, Shah S, Ladanyi M, Gorlick
+  R, Lau CC and Rao PH.
+contact:
+  email: phrao@txccc.org
+  name: Pulivarthi H. Rao
+counts:
+  biosamples: 48
+  samples_acgh: 48
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15298715
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'BMC Cancer 4 (2004): 45.'
+label: 'Man et al. (2004): Genome-Wide Array Comparative Genomic Hybridization Analysis
+  Reveals Distinct Amplifications in ...'
+notes: ~
+pmid: 15298715
+title: Genome-Wide Array Comparative Genomic Hybridization Analysis Reveals Distinct
+  Amplifications in Osteosarcoma.
+year: 2004

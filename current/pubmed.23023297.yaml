@@ -1,0 +1,58 @@
+---
+abstract: Lung cancer is the worldwide leading cause of death from cancer and has
+  been shown to be a heterogeneous disease at the genomic level. To delineate the
+  genomic landscape of copy number alterations, amplifications, loss-of-heterozygosity
+  (LOH), tumor ploidy and copy-neutral allelic imbalance in lung cancer, microarray-based
+  genomic profiles from 2,141 tumors and cell lines including adenocarcinomas (AC,
+  n = 1,206), squamous cell carcinomas (SqCC, n = 467), large cell carcinomas (n =
+  37) and small cell lung carcinomas (SCLC, n = 88) were assembled from different
+  repositories. Copy number alteration differences between lung cancer histologies
+  were confirmed in 285 unrelated tumors analyzed by BAC array comparative genomic
+  hybridization. Tumor ploidy patterns were validated by DNA flow cytometry analysis
+  of 129 unrelated cases. Eighty-nine recurrent copy number alterations (55 gains,
+  34 losses) were identified harboring genes with gene expression putatively driven
+  by gene dosage through integration with gene expression data for 496 cases. Thirteen
+  and 26 of identified regions discriminated AC/SqCC and AC/SqCC/SCLC, respectively,
+  while 48 regions harbored recurrent (n > 15) high-level amplifications comprising
+  established and putative oncogenes, differing in frequency and coamplification patterns
+  between histologies. Lung cancer histologies displayed differences in patterns/frequency
+  of copy number alterations, genomic architecture, LOH, copy-neutral allelic imbalance
+  and tumor ploidy, with AC generally displaying less copy number alterations and
+  allelic imbalance. Moreover, a strong association was demonstrated between different
+  types of copy number alterations and allelic imbalances with tumor aneuploidy. In
+  summary, these analyses provide a comprehensive overview of the landscape of genomic
+  alterations in lung cancer, highlighting differences but also similarities between
+  subgroups of the disease.
+authors: Staaf J, Isaksson S, Karlsson A, Jï¿½nsson M, Johansson L, Jï¿½nsson P, Botling
+  J, Micke P, Baldetorp B, Planck M.
+contact:
+  email: johan.staaf@med.lu.se
+  name: ~
+counts:
+  biosamples: 78
+  samples_acgh: 78
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23023297
+- geo:GSE29065
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Int. J. Cancer 132(9), 2013
+label: ' (2013): '
+notes: ~
+pmid: 23023297
+title: Landscape of somatic allelic imbalances and copy number alterations in human
+  lung carcinoma.
+year: 2013

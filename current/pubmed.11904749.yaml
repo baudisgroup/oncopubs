@@ -1,0 +1,46 @@
+---
+abstract: 'Seven granular cell tumours GCT were studied by comparative genomic hybridisation.
+  These consisted of two cerebral and one pituitary GCT as well as four other central
+  nervous system tumours predominantly composed of granular cells one glioblastoma,
+  meningioma, ganglioglioma and neurinoma each . DNA copy number changes were found
+  in four of seven tumours. Overall, losses mean: 1.0 per tumour were more frequent
+  than gains mean: 0.6 per tumour and no high-level gains were found. The only DNA
+  copy number change found in two tumours both cerebral GCT was loss of 13q21, while
+  the other nine aberrations were only encountered once each: the granular cells of
+  one cerebral GCT additionally showed 1p32-pter, 9q33-qter, 20q, -4, and -18q, of
+  the glioblastoma 7 and -10, and of the meningioma -1p and -22q, while the pituitary
+  GCT, the ganglioglioma and the neurinoma showed no imbalances. Our data suggest
+  that a variety of genetic changes are associated with granular cell formation and
+  support the notion that GCT are not a distinct tumour entity characterised by specific
+  chromosomal imbalances but rather a degenerative phenomenon of cells of various
+  origin showing DNA copy number changes akin to the underlying tumour.'
+authors: Rickert CH and Paulus W.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11904749
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Acta Neuropathol 103, 4 (2002): 309-12.'
+label: 'Rickert et al. (2002): Genetic Characterisation of Granular Cell Tumours.'
+notes: ~
+pmid: 11904749
+title: Genetic Characterisation of Granular Cell Tumours.
+year: 2002

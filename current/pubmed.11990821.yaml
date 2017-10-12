@@ -1,0 +1,63 @@
+---
+abstract: Hemangioblastomas of the central nervous system CNS may occur sporadically
+  or in association with von Hippel-Lindau VHL syndrome. The authors present four
+  patients with no family history or clinical evidence of VHL syndrome in whom extensive,
+  progressive, en plaque coating of the brainstem and spinal cord with hemangioblastomas
+  developed 1 to 8 years after complete resection of a solitary cerebellar hemangioblastoma.
+  Analysis included detailed physical, biochemical, radiological, and pathological
+  examinations in all four patients, combined with family pedigree analysis. In addition,
+  a detailed investigation of the VHL gene was undertaken. Allelic loss, comparative
+  genomic hybridization CGH , single-stranded conformational polymorphism screening,
+  CpG island methylation status, and X chromosome inactivation clonality analyses
+  were performed. Although there was no evidence of germline alterations in the VHL
+  gene on clinical and radiological examination or in the family history all four
+  patients or analysis of peripheral blood three patients , somatic deletion of one
+  copy of the VHL gene occurred in these tumors. These findings indicate that the
+  multiple, separate deposits of tumors were likely derived from a single clone. Results
+  of CGH indicate that one or several additional genes are probably involved in the
+  malignant behavior of the hemangioblastomas in these patients. Furthermore, the
+  malignant biological and clinical behavior of these tumors, in which multiple sites
+  of subarachnoid dissemination developed 1 to 8 years after initial complete resection,
+  followed by progressive tumor growth and death of the patients, occurred despite
+  a histological appearance typical of benign hemangioblastomas. Malignant hemangioblastomatosis
+  developed 1 to 8 years after resection of an isolated cerebellar hemangioblastoma.
+  Alterations of the VHL gene may be permissive in this setting, but other genes are
+  likely to be the source of the novel biological and clinical presentation of the
+  disseminated hemangioblastomas in these patients. This appears to represent a novel
+  condition in which the product of one or more mutations in several genes permits
+  malignant tumor behavior despite retention of a benign histological picture, a circumstance
+  previously not recognized in CNS tumors.
+authors: Weil RJ, Vortmeyer AO, Zhuang Z, Pack SD, Theodore N, Erickson RK and Oldfield
+  EH.
+contact:
+  email: oldfield@box-o.nih.gov
+  name: Edward H. Oldfield
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11990821
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'J Neurosurg 96, 4 (2002): 775-87.'
+label: 'Weil et al. (2002): Clinical and Molecular Analysis of Disseminated Hemangioblastomatosis
+  of the Central Nervous System ...'
+notes: ~
+pmid: 11990821
+title: Clinical and Molecular Analysis of Disseminated Hemangioblastomatosis of the
+  Central Nervous System in Patients Without Von Hippel-Lindau Disease. Report of
+  Four Cases.
+year: 2002

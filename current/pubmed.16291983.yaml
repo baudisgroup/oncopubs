@@ -1,0 +1,37 @@
+---
+abstract: Exposure to ultraviolet light is a major causative factor in melanoma, although
+  the relationship between risk and exposure is complex. We hypothesized that the
+  clinical heterogeneity is explained by genetically distinct types of melanoma with
+  different susceptibility to ultraviolet light.
+authors: Curtin JA, Fridlyand J, Kageshita T, Patel HN, Busam KJ, Kutzner H, Cho KH,
+  Aiba S, Brocker EB, LeBoit PE, Pinkel D and Bastian BC.
+contact:
+  email: bastian@cc.ucsf.edu
+  name: Boris C. Bastian
+counts:
+  biosamples: 126
+  samples_acgh: 126
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16291983
+- geo:GSE2631
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'N Engl J Med 353, 20 (2005): 2135-47.'
+label: 'Curtin et al. (2005): Distinct Sets of Genetic Alterations in Melanoma.'
+notes: ~
+pmid: 16291983
+title: Distinct Sets of Genetic Alterations in Melanoma.
+year: 2005

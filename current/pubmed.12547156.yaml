@@ -1,0 +1,46 @@
+---
+abstract: A molecular cytogenetic study was performed on the diagnostic tumor sample
+  and three relapses from a case with blastoid mantle cell lymphoma. The clonal relatedness
+  of the tumors was demonstrated by identical rearrangements of the immunoglobulin
+  heavy chain gene and was supported by results from comparative genomic hybridization
+  analyses. All samples shared the common alterations of losses of 6q, 9p, and 11q
+  and gains of 3q, 9q, 12p, and 13q, suggesting that they were relatively early events
+  in the tumorigenesis. Relapse 1 also showed a loss of 8p, while relapses 2 and 3
+  had gained the X chromosome and 7p, in addition, relapse 3 displayed gains of chromosomes
+  3 and 20. Taken together, the findings suggest that relapses 2 and 3 developed from
+  the diagnostic tumor sample, while relapse 1 represents a separate lineage of tumor
+  progression originating directly from a postulated ancestral tumor cell carrying
+  the common chromosomal alterations identified in all tumors.
+authors: Flordal E, Berglund M, Rosenquist R, Erlanson M, Enblad G, Roos G, Larsson
+  C and Lagercrantz S.
+contact:
+  email: Emma.Flordal.Thelander@ki.se
+  name: Emma Flordal Thelander
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12547156
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 139, 1 (2002): 38-43.'
+label: 'Flordal et al. (2002): Clonal Development of a Blastoid Mantle Cell Lymphoma
+  Studied With Comparative Genomic ...'
+notes: ~
+pmid: 12547156
+title: Clonal Development of a Blastoid Mantle Cell Lymphoma Studied With Comparative
+  Genomic Hybridization.
+year: 2002

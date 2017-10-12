@@ -1,0 +1,51 @@
+---
+abstract: Adenocarcinomas of the gastroesophageal junction GEJ show frequent high-level
+  amplifications HLA , but the underlying genes are not well defined. We have characterized
+  genomic gain in 14 GEJ carcinomas by array-based comparative genomic hybridization
+  aCGH . The most frequent gains and amplifications were detected at 7q 57 , 8q 57
+  , 17q 64 , and 20q 79 , with minimally amplified regions at 7q21.1, 8q24.2, 17q12,
+  and 20q13.2. Five HLA were detected on 7q, one on 8q, two on 17q, and three on 20q.
+  HLA of 8q24 and 17q12 were related to MYC and ERBB2, respectively. The HLA on 7q21
+  was associated recurrently with ABCB1, whereas the amplified region on 20q13 implicated
+  ZNF217, BCAS1, and CYP24. RNA expression analysis of 11 adenocarcinomas by reverse-transcription
+  polymerase chain reaction was performed for cancer-related genes residing at 7q21
+  ABCB1, ABCB4, CDK6, HGF, DMTF1, SRI, TP53AP1 and 20q13 ZNF217, BCAS1, CYP24, TNFRSF6B
+  . The most frequently upregulated gene on 7q21 was HGF 45 , but there was no association
+  with genomic amplification. The most frequently overexpressed gene at 20q13 was
+  BCAS1 27 , which was related to HLA of this region P 0.006 in all three cases. We
+  conclude that HLA occur often in GEJ adenocarcinomas. The gene responsible for the
+  HLA of 7q21 requires further investigation, whereas BCAS1 is a good candidate for
+  the frequent amplification of 20q13.
+authors: van Dekken H, Vissers K, Tilanus HW, Kuo WL, Tanke HJ, Rosenberg C, Ijszenga
+  M and Szuhai K.
+contact:
+  email: ~
+  name: H van Dekken
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16631473
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 166, 2 (2006): 157-62.'
+label: 'van Dekken et al. (2006): Genomic Array and Expression Analysis of Frequent
+  High-Level Amplifications in Adenocarcinomas ...'
+notes: ~
+pmid: 16631473
+title: Genomic Array and Expression Analysis of Frequent High-Level Amplifications
+  in Adenocarcinomas of the Gastro-Esophageal Junction.
+year: 2006

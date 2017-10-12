@@ -1,0 +1,57 @@
+---
+abstract: 'The diagnosis and management of uterine smooth muscle tumors with uncertain
+  malignant potential (STUMP) is often challenging, and genomic data on these lesions
+  as well as on uterine smooth muscle lesions are limited. We tested the hypothesis
+  that genomic profile determination by array-CGH could split STUMP into a benign
+  group with scarce chromosomal alterations akin to leiomyoma and a malignant group
+  with high chromosomal instability akin to leiomyosarcoma. Array-CGH genomic profile
+  analysis was conducted for a series of 29 cases of uterine STUMP. A group of ten
+  uterine leiomyomas and ten uterine leiomyosarcomas served as controls. The mean
+  age was 50 years (range, 24-85) and the follow-up ranged from 12 to 156 months (average
+  70 months). Since STUMP is a heterogenous group of tumors with genomic profiles
+  that can harbor few to many chromosomal alterations, we compared genomic indices
+  in leiomyomas and leiomyosarcomas and set a genomic index=10 threshold. Tumors with
+  a genomic index <10 were classified as nonrecurring STUMPs and those with a genomic
+  index >10 represented STUMPs with recurrences and unfavorable outcomes. Hence, the
+  genomic index threshold splits the STUMP category into two groups of tumors with
+  different outcomes: a group comparable to leiomyomas and another similar to leiomyosarcomas,
+  but more indolent. In our STUMP series, genomic analysis by array-CGH is an innovative
+  diagnostic tool for problematic smooth muscle uterine lesions, complementary to
+  the morphological evaluation approach. We provide an improved classification method
+  for distinguishing truly malignant tumors from benign lesions within the category
+  of STUMP, especially those with equivocal morphological features.Modern Pathology
+  advance online publication, 1 May 2015; doi:10.1038/modpathol.2015.3.'
+authors: Croce S, Ribeiro A, Brulard C, Noel JC, Amant F, Stoeckle E, Devouassoux-Shisheborah
+  M, Floquet A, Arnould L, Guyon F, Mishellany F, Garbay D, Cuppens T, Zikan M, Leroux
+  A, Frouin E, Duvillard P, Terrier P, Farre I, Valo I, MacGrogan GM and Chibon F
+contact:
+  email: ~
+  name: F Chibon
+counts:
+  biosamples: 49
+  samples_acgh: 49
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25932961
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: Mod. Pathol., 2015
+label: 'Croce et al. (): Uterine smooth muscle tumor analysis by comparative genomic
+  hybridization: a useful diagnostic tool in ...'
+notes: ~
+pmid: 25932961
+title: 'Uterine smooth muscle tumor analysis by comparative genomic hybridization:
+  a useful diagnostic tool in challenging lesions.'
+year: 2015

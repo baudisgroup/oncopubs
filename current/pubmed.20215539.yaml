@@ -1,0 +1,40 @@
+---
+abstract: Myeloma is a clonal malignancy of plasma cells. Poor-prognosis risk is currently
+  identified by clinical and cytogenetic features. However, these indicators do not
+  capture all prognostic information. Gene expression analysis can be used to identify
+  poor-prognosis patients and this can be improved by combination with information
+  about DNA-level changes.
+authors: Dickens NJ, Walker BA, Leone PE, Johnson DC, Brito JL, Zeisig A, Jenner MW,
+  Boyd KD, Gonzalez D, Gregory WM, Ross FM, Davies FE and Morgan GJ.
+contact:
+  email: ~
+  name: Brian Walker
+counts:
+  biosamples: 168
+  samples_acgh: 168
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20215539
+- geo:GSE15695
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Clin Cancer Res 16, 6 (2010): 1856-64.'
+label: 'Dickens et al. (2010): Homozygous Deletion Mapping in Myeloma Samples Identifies
+  Genes and an Expression Signature ...'
+notes: ~
+pmid: 20215539
+title: Homozygous Deletion Mapping in Myeloma Samples Identifies Genes and an Expression
+  Signature Relevant to Pathogenesis and Outcome.
+year: 2010

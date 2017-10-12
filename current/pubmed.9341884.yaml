@@ -1,0 +1,46 @@
+---
+abstract: Comparative genomic hybridization CGH was employed to survey genomic regions
+  with increased and decreased copy number of the DNA sequence in 15 endometrial cancers
+  10 cases with microsatellite instability positive MI and 5 cases with MI- . Twelve
+  of these 15 tumors 80 showed abnormalities in copy number at one or more of the
+  chromosomal regions. There were no regions with frequent chromosomal losses. Conversely,
+  11 of 15 cases 73 showed gains on chromosome arms 1q 8 15 53 and or 8q 6 15 40 .
+  Concordant gains of both chromosome arms 1q and 8q were observed in all three endometrial
+  cancers of histological grade 3. These results suggest that these two chromosomal
+  regions may contain genes whose increased expression contributes to development
+  and or progression of endometrial carcinogenesis. Two cases were further analyzed
+  by fluorescence in situ hybridization FISH using three probes on chromosome 1 and
+  two probes on chromosome 8 to more accurately determine increases in copy number.
+  We found gains of chromosome 1q to 2.9-3.6 copies per cell and on 8q to 4.4 copies
+  per cell.
+authors: Suzuki A, Fukushige S, Nagase S, Ohuchi N, Satomi S and Horii A.
+contact:
+  email: ~
+  name: NA Horii
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9341884
+geo_data:
+  geo_json:
+    coordinates:
+    - 140.87
+    - 38.26
+    type: Point
+  info:
+    city: Sendai
+    continent: Asia
+    country: Japan
+    label: Sendai, Japan, Asia
+    precision: city
+journal: 'Hum Genet 100, 5-6 (1997): 629-36.'
+label: 'Suzuki et al. (1997): Frequent Gains on Chromosome Arms 1q and/Or 8q in Human
+  Endometrial Cancer.'
+notes: ~
+pmid: 9341884
+title: Frequent Gains on Chromosome Arms 1q and/Or 8q in Human Endometrial Cancer.
+year: 1997

@@ -1,0 +1,57 @@
+---
+abstract: Intratumoral heterogeneity may help drive resistance to targeted therapies
+  in cancer. In breast cancer, the presence of nodal metastases is a key indicator
+  of poorer overall survival. The aim of this study was to identify somatic genetic
+  alterations in early dissemination of breast cancer by whole genome next generation
+  sequencing (NGS) of a primary breast tumor, a matched locally-involved axillary
+  lymph node and healthy normal DNA from blood.  Whole genome NGS was performed on
+  12 ï¿½g (range 11.1-13.3 ï¿½g) of DNA isolated from fresh-frozen primary breast
+  tumor, axillary lymph node and peripheral blood following the DNA nanoball sequencing
+  protocol. Single nucleotide variants, insertions, deletions, and substitutions were
+  identified through a bioinformatic pipeline and compared to CIN25, a key set of
+  genes associated with tumor metastasis.  Whole genome sequencing revealed overlapping
+  variants between the tumor and node, but also variants that were unique to each.
+  Novel mutations unique to the node included those found in two CIN25 targets, TGIF2
+  and CCNB2, which are related to transcription cyclin activity and chromosomal stability,
+  respectively, and a unique frameshift in PDS5B, which is required for accurate sister
+  chromatid segregation during cell division. We also identified dominant clonal variants
+  that progressed from tumor to node, including SNVs in TP53 and ARAP3, which mediates
+  rearrangements to the cytoskeleton and cell shape, and an insertion in TOP2A, the
+  expression of which is significantly associated with tumor proliferation and can
+  segregate breast cancers by outcome.  This case study provides preliminary evidence
+  that primary tumor and early nodal metastasis have largely overlapping somatic genetic
+  alterations. There were very few mutations unique to the involved node. However,
+  significant conclusions regarding early dissemination needs analysis of a larger
+  number of patient samples.
+authors: Blighe K, Kenny L, Patel N, Guttery DS, Page K, Gronau JH, Golshani C, Stebbing
+  J, Coombes RC and Shaw JA
+contact:
+  email: js39@leicester.ac.uk
+  name: Jacqueline A. Shaw
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 2
+external_identifiers:
+- pubmed:25546409
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.13
+    - 52.64
+    type: Point
+  info:
+    city: Leicester
+    continent: Europe
+    country: United Kingdom
+    label: Leicester, United Kingdom, Europe
+    precision: city
+journal: PLoS ONE 9(12), 2014
+label: 'Blighe K et al. (2014): '
+notes: ~
+pmid: 25546409
+title: Whole genome sequence analysis suggests intratumoral heterogeneity in dissemination
+  of breast cancer to lymph nodes.
+year: 2014

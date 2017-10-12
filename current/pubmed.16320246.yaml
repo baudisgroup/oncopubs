@@ -1,0 +1,46 @@
+---
+abstract: Brain tumors are the second most common childhood cancer. We used high-resolution
+  array comparative genomic hybridization aCGH to analyze losses and gains of genetic
+  material from 24 medulloblastomas. The bacterial artificial chromosome clones were
+  ordered on the array, allowing for an average resolution of approximately 420 kilobases.
+  The advantage of this high resolution is that the breakpoints associated with subregional
+  chromosome copy number aberrations can be accurately defined, which in turn allows
+  candidate genes within these regions to be readily defined. In this analysis, we
+  confirmed the frequent involvement of loss of 17p and gain of 17q, although we have
+  now established the position of the breakpoint that consistently lies in the chr17:18318880-19046234
+  region of the chromosome. Other frequent losses were seen on 8p, 10q, 16q, and 20p,
+  and frequent gains were seen on 2p, 4p, 7, and 19. In addition, the fine-resolution
+  mapping provided by aCGH made it possible to define small chromosome deletions in
+  1q23.3-q24.2, 2q13.12-q13.2, 6q25-qter, 8p23.1, 10q25.1, and 12q13.12-q13.2. Overall,
+  amplification events were rare, the most common involving MYC 16 , on 8q, although
+  isolated events were seen in 10p11 and 3q.
+authors: Rossi MR, Conroy J, McQuaid D, Nowak NJ, Rutka JT and Cowell JK.
+contact:
+  email: jcowell@mcg.edu
+  name: John K. Cowell
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16320246
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 45, 3 (2006): 290-303.'
+label: 'Rossi et al. (2006): Array Cgh Analysis of Pediatric Medulloblastomas.'
+notes: ~
+pmid: 16320246
+title: Array Cgh Analysis of Pediatric Medulloblastomas.
+year: 2006

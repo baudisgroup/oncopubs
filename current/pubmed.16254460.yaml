@@ -1,0 +1,49 @@
+---
+abstract: Neck lymphatic metastasis represents the single most important clinical
+  prognostic factor in nasopharyngeal carcinoma NPC , but underlying genetic mechanisms
+  remain ill defined. In this study 23 samples of primary tumor PT and 9 of neck lymph
+  node metastasis NLNM obtained from NPC patients were analyzed by comparative genomic
+  hybridization CGH coupled with tissue microdissection and degenerate oligonucleotide
+  primer-polymerase chain reaction DOP-PCR . A similar pattern of chromosomal abnormalities
+  was seen in PT and NLNM, the common aberrations were gains on 5p, 12p, 12q and 18p
+  and deletions on 1p, 3p, 9q, 14q, 17p and 16q. However, NLNMs, but not PTs, also
+  exhibited frequent losses on 9p, 16p, 17q, 20q, 21p, 21q and 22q and gains on 8q
+  and 8p. The most frequent unique aberration in NLNMs was loss on 16p, observed in
+  100 9 9 NLNMs tested, as well as loss of 20q, observed in 77.8 of tumors tested.
+  For the first time, we report that a gain on 8p and a loss at 20q is common to NLNMs.
+  The analysis furthermore suggests that specific alterations, e.g. losses of 9p,
+  16p, 7q, 20q, 21p, 21q, 22q and gains on 8q and 8p are associated with NLNM of NPC,
+  and that these alterations may be involved in the onset and or progression of a
+  metastatic phenotype.
+authors: Yan W, Song L, Wei W, Li A, Liu J and Fang Y.
+contact:
+  email: wyan@uab.edu
+  name: Wensheng Yan
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16254460
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.25
+    - 23.12
+    type: Point
+  info:
+    city: Guangzhou
+    continent: Asia
+    country: China
+    label: Guangzhou, China, Asia
+    precision: city
+journal: 'Tumour Biol 26, 6 (2005): 306-12.'
+label: 'Yan et al. (2005): Chromosomal Abnormalities Associated With Neck Nodal Metastasis
+  in Nasopharyngeal ...'
+notes: ~
+pmid: 16254460
+title: Chromosomal Abnormalities Associated With Neck Nodal Metastasis in Nasopharyngeal
+  Carcinoma.
+year: 2005

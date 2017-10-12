@@ -1,0 +1,50 @@
+---
+abstract: Amplified MYCN, common in neuroblastomas, can be detected as double minutes
+  dmin or homogenously staining chromosomal regions hsr . Expulsion of amplified MYCN
+  has only been described in dmin. We used hydroxyurea HU , which accelerates the
+  expulsion of amplified genes and cytostatics used in neuroblastoma therapy , to
+  describe MYCN amplification changes after chemotherapy. We used IMR-32, SK-N-AS,
+  UKF-NB-2, UKF-NB-3, UKF-NB-4, and derived sublines resistant to doxorubicin, cisplatin,
+  and vincristine. The loss of amplified MYCN copies was investigated using comparative
+  genomic hybridization and by fluorescent in situ hybridization. We found expulsion
+  of amplified MYCN from hsr in UKF-NB-4 and IMR-32 cell lines, and determined the
+  exact number of amplified MYCN copies. After the first cultivation with HU, some
+  amplified MYCN was lost. UKF-NB-4 lost 20 copies on average, and IMR-32 lost 15
+  copies P amp lt 0.001 . After the second cultivation, cells without MYCN amplification
+  were found. In comparison to sensitive cell lines, drug-resistant cell lines lost
+  17 copies on average. Our data show that expulsion of amplified MYCN genes is also
+  possible from hsr and may be induced, not only by HU, but by other cytostatics as
+  well.
+authors: Prochazka P, Hrabeta J, Vicha A and Eckschlager T.
+contact:
+  email: proch.pavel@gmail.com
+  name: Pavel Prochazka
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19963143
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.42
+    - 50.09
+    type: Point
+  info:
+    city: Prague
+    continent: Europe
+    country: Czech Republic
+    label: Prague, Czech Republic, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 196, 1 (2010): 96-104.'
+label: 'Prochazka et al. (2010): Expulsion of Amplified Mycn From Homogenously Staining
+  Chromosomal Regions in Neuroblastoma ...'
+notes: ~
+pmid: 19963143
+title: Expulsion of Amplified Mycn From Homogenously Staining Chromosomal Regions
+  in Neuroblastoma Cell Lines After Cultivation With Cisplatin, Doxorubicin, Hydroxyurea,
+  and Vincristine.
+year: 2010

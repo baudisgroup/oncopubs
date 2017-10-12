@@ -1,0 +1,54 @@
+---
+abstract: Fanconi anemia FA is a genetic condition associated with bone marrow BM
+  failure, myelodysplasia MDS , and acute myeloid leukemia AML . We studied 57 FA
+  patients with hypoplastic or aplastic anemia n 20 , MDS n 18 , AML n 11 , or no
+  BM abnormality n 8 . BM samples were analyzed by karyotype, high-density DNA arrays
+  with respect to paired fibroblasts, and by selected oncogene sequencing. A specific
+  pattern of chromosomal abnormalities was found in MDS AML, which included 1q 44.8
+  , 3q 41.4 , -7 7q 17.2 , and 11q- 13.8 . Moreover, cryptic RUNX1 AML1 lesions translocations,
+  deletions, or mutations were observed for the first time in FA 20.7 . Rare mutations
+  of NRAS, FLT3-ITD, MLL-PTD, ERG amplification, and ZFP36L2-PRDM16 translocation,
+  but no TP53, TET2, CBL, NPM1, and CEBP mutations were found. Frequent homozygosity
+  regions were related not to somatic copy-neutral loss of heterozygosity but to consanguinity,
+  suggesting that homologous recombination is not a common progression mechanism in
+  FA. Importantly, the RUNX1 and other chromosomal genomic lesions were found at the
+  MDS AML stages, except for 1q , which was found at all stages. These data have implications
+  for staging and therapeutic managing in FA patients, and also to analyze the mechanisms
+  of clonal evolution and oncogenesis in a background of genomic instability and BM
+  failure.
+authors: Quentin S, Cuccuini W, Ceccaldi R, Nibourel O, Pondarre C, Pages MP, Vasquez
+  N, Dubois dEnghien C, Larghero J, Peffault de Latour R, Rocha V, Dalle JH, Schneider
+  P, Michallet M, Michel G, Baruchel A, Sigaux F, Gluckman E, Leblanc T, Stoppa-Lyonnet
+  D, Preudhomme C, Socie G and Soulier J.
+contact:
+  email: jsoulier@chu-stlouis.fr
+  name: Jean Soulier
+counts:
+  biosamples: 57
+  samples_acgh: 57
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21325596
+- arrayexpress:E-MTAB-529
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Blood 117, 15 (2011): e161-70.'
+label: 'Quentin et al. (2011): Myelodysplasia and Leukemia of Fanconi Anemia Are Associated
+  With a Specific Pattern of Genomic ...'
+notes: ~
+pmid: 21325596
+title: Myelodysplasia and Leukemia of Fanconi Anemia Are Associated With a Specific
+  Pattern of Genomic Abnormalities That Includes Cryptic Runx1/Aml1 Lesions.
+year: 2011

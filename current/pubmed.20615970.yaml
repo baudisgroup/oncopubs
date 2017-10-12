@@ -1,0 +1,53 @@
+---
+abstract: The goal of this study was to characterize and classify pulmonary neuroendocrine
+  tumors based on array comparative genomic hybridization aCGH . Using aCGH, we performed
+  karyotype analysis of 33 small cell lung cancer SCLC tumors, 13 SCLC cell lines,
+  19 bronchial carcinoids, and 9 gastrointestinal carcinoids. In contrast to the relatively
+  conserved karyotypes of carcinoid tumors, the karyotypes of SCLC tumors and cell
+  lines were highly aberrant. High copy number CN gains were detected in SCLC tumors
+  and cell lines in cytogenetic bands encoding JAK2, FGFR1, and MYC family members.
+  In some of those samples, the CN of these genes exceeded 100, suggesting that they
+  could represent driver alterations and potential drug targets in subgroups of SCLC
+  patients. In SCLC tumors, as well as bronchial carcinoids and carcinoids of gastrointestinal
+  origin, recurrent CN alterations were observed in 203 genes, including the RB1 gene
+  and 59 microRNAs of which 51 locate in the DLK1-DIO3 domain. These findings suggest
+  the existence of partially shared CN alterations in these tumor types. In contrast,
+  CN alterations of the TP53 gene and the MYC family members were predominantly observed
+  in SCLC. Furthermore, we demonstrated that the aCGH profile of SCLC cell lines highly
+  resembles that of clinical SCLC specimens. Finally, by analyzing potential drug
+  targets, we provide a genomics-based rationale for targeting the AKT-mTOR and apoptosis
+  pathways in SCLC.
+authors: Voortman J, Lee JH, Killian JK, Suuriniemi M, Wang Y, Lucchi M, Smith WI
+  Jr, Meltzer P, Wang Y and Giaccone G.
+contact:
+  email: giacconeg@mail.nih.gov
+  name: Giuseppe Giaccone
+counts:
+  biosamples: 74
+  samples_acgh: 74
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20615970
+- geo:GSE21468
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Proc Natl Acad Sci U S A 107, 29 (2010): 13040-45.'
+label: 'Voortman et al. (2010): Array Comparative Genomic Hybridization-Based Characterization
+  of Genetic Alterations in ...'
+notes: ~
+pmid: 20615970
+title: Array Comparative Genomic Hybridization-Based Characterization of Genetic Alterations
+  in Pulmonary Neuroendocrine Tumors.
+year: 2010

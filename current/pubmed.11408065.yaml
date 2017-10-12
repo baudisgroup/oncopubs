@@ -1,0 +1,48 @@
+---
+abstract: Only limited data are available on comparative genomic hybridization CGH
+  in hepatocellular carcinoma HCC . They concern mainly B virus related HCC. Therefore,
+  we used CGH to detect chromosomal imbalances in 16 non-B virus related HCC in alcoholic
+  cirrhosis in 7 cases HA1 to HA7 , in C virus cirrhosis in 7 cases HC1 to HC7 , in
+  non-cirrhotic liver in 2 cases NC1, NC2 , and in 9 non-malignant cirrhotic tissues.
+  The most frequent imbalances in HCC were gains of whole chromosomes or chromosomal
+  regions 7 or 7q 10 16, 62 , 1q 9 16, 56 , 5 or 5q 9 16, 56 , 8q 8 16, 50 , 6p 6
+  16, 37 , 15q 5 16, 31 , 20 or 20q 5 16, 31 , and losses of 17p 6 16, 37 , and 8p
+  5 16, 31 . High-level gains were identified in HCC on 1q 2 16 , 3q 1 16 , 7q 1 16
+  , and 8q 3 16 . No chromosomal imbalances were detected in any of the cirrhotic
+  tissues. Most of the gains, losses, and amplifications detected in this CGH study
+  corresponded well to those identified in previous studies, except for gains of whole
+  chromosome 5 or 7 and or of chromosome arms 5q or 7q and losses on 4q. Our results
+  suggest that other chromosomal regions are involved in hepatocarcinogenesis.
+authors: Collonge-Rame MA, Bresson-Hadni S, Koch S, Carbillet JP, Blagosklonova O,
+  Mantion G, Miguet JP, Heyd B and Bresson JL.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 16
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11408065
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.02
+    - 47.25
+    type: Point
+  info:
+    city: Besancon
+    continent: Europe
+    country: France
+    label: Besancon, France, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 127, 1 (2001): 49-52.'
+label: 'Collonge-Rame et al. (2001): Pattern of Chromosomal Imbalances in Non-B Virus
+  Related Hepatocellular Carcinoma Detected ...'
+notes: ~
+pmid: 11408065
+title: Pattern of Chromosomal Imbalances in Non-B Virus Related Hepatocellular Carcinoma
+  Detected By Comparative Genomic Hybridization.
+year: 2001

@@ -1,0 +1,50 @@
+---
+abstract: Pleomorphic adenoma is the most common benign tumor of the salivary glands
+  and is rarely associated with concurrent epithelial malignancy, which is designated
+  as carcinoma in pleomorphic adenoma CPA . Genetic abnormalities potentially related
+  to the development of CPA have not been fully investigated. We analyzed DNA copy
+  number changes in each of the adenomatous and carcinomatous components of seven
+  CPA by comparative genomic hybridization using DNA extracted from microdissected
+  tissues of formalin-fixed, paraffin-embedded tumor samples. Carcinomatous components
+  of CPA showed multiple DNA copy number changes at 1-18 different genomic sites mean
+  13 sites . Adenomatous components displayed less frequent DNA copy number changes
+  0-13 sites mean, 5 . In both components, the majority of the changes were gains.
+  The most common recurrent gains in carcinomatous components were seen at 6q four
+  cases in each , whereas gains at 13q1-2 and 15q1 were most frequently detected in
+  adenomatous components three cases in each . In five CPA, the same chromosomal regions
+  were involved in the DNA copy number changes detected in both components. Our data
+  suggest that an accumulated or increased number of chromosomal changes including
+  6q abnormalities may be associated with the development of carcinomatous components
+  in a subset of CPA.
+authors: Morio T, Morimitsu Y, Hisaoka M, Makishima K and Hashimoto H.
+contact:
+  email: hiroshi@med.uoeh-u.ac.jp
+  name: Hiroshi Morio
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12366808
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: 'Pathol Int 52, 8 (2002): 501-07.'
+label: 'Morio et al. (2002): DNA Copy Number Changes in Carcinoma in Pleomorphic Adenoma
+  of the Salivary Gland: A Comparative ...'
+notes: ~
+pmid: 12366808
+title: 'DNA Copy Number Changes in Carcinoma in Pleomorphic Adenoma of the Salivary
+  Gland: A Comparative Genomic Hybridization Study.'
+year: 2002

@@ -1,0 +1,46 @@
+---
+abstract: Recent studies suggest that thousands of genes may contribute to breast
+  cancer pathophysiologies when deregulated by genomic or epigenomic events. Here,
+  we describe a model amp quot system amp quot to appraise the functional contributions
+  of these genes to breast cancer subsets. In general, the recurrent genomic and transcriptional
+  characteristics of 51 breast cancer cell lines mirror those of 145 primary breast
+  tumors, although some significant differences are documented. The cell lines that
+  comprise the system also exhibit the substantial genomic, transcriptional, and biological
+  heterogeneity found in primary tumors. We show, using Trastuzumab Herceptin monotherapy
+  as an example, that the system can be used to identify molecular features that predict
+  or indicate response to targeted therapies or other physiological perturbations.
+authors: Neve RM, Chin K, Fridlyand J, Yeh J, Baehner FL, Fevr T, Clark L, Bayani
+  N, Coppe JP, Tong F, Speed T, Spellman PT, DeVries S, Lapuk A, Wang NJ, Kuo WL,
+  Stilwell JL, Pinkel D, Albertson DG, Waldman FM, McCormick F, Dickson RB, Johnson
+  MD, Lippman M, Ethier S, Gazdar A and Gray JW.
+contact:
+  email: jwgray@lbl.gov
+  name: Joe W. Gray
+counts:
+  biosamples: 53
+  samples_acgh: 53
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17157791
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Cancer Cell 10, 6 (2006): 515-27.'
+label: 'Neve et al. (2006): A Collection of Breast Cancer Cell Lines for the Study
+  of Functionally Distinct Cancer ...'
+notes: ~
+pmid: 17157791
+title: A Collection of Breast Cancer Cell Lines for the Study of Functionally Distinct
+  Cancer Subtypes.
+year: 2006

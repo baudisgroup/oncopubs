@@ -1,0 +1,56 @@
+---
+abstract: Waldenstr ms macroglobulinemia WM is a distinct clinicobiological entity
+  defined as a B-cell neoplasm characterized by a lymphoplasmacytic infiltrate in
+  bone marrow BM and IgM paraprotein production. Cytogenetic analyses were historically
+  limited by difficulty in obtaining tumor metaphases, and the genetic basis of the
+  disease remains poorly defined. Here, we performed a comprehensive analysis in 42
+  WM patients by using a high-resolution, array-based comparative genomic hybridization
+  approach to unravel the genetic mechanisms associated with WM pathogenesis. Overall,
+  83 of cases have chromosomal abnormalities, with a median of three abnormalities
+  per patient. Gain of 6p was the second most common abnormality 17 , and its presence
+  was always concomitant with 6q loss. A minimal deleted region, including MIRN15A
+  and MIRN16-1, was delineated on 13q14 in 10 of patients. Of interest, we reported
+  biallelic deletions and or inactivating mutations with uniparental disomy in tumor
+  necrosis factor TNF receptor-associated factor 3 and TNFalpha-induced protein 3,
+  two negative regulators of the nuclear factor-kappaB NF-kappaB signaling pathway.
+  Furthermore, we confirmed the association between TRAF3 inactivation and increased
+  transcriptional activity of NF-kappaB target genes. Mutational activation of the
+  NF-kappaB pathway, which is normally activated by ligand receptor interactions within
+  the BM microenvironment, highlights its biological importance, and suggests a therapeutic
+  role for inhibitors of NF-kappaB pathway activation in the treatment of WM.
+authors: Braggio E, Keats JJ, Leleu X, Van Wier S, Jimenez-Zepeda VH, Valdez R, Schop
+  RF, Price-Troska T, Henderson K, Sacco A, Azab F, Greipp P, Gertz M, Hayman S, Rajkumar
+  SV, Carpten J, Chesi M, Barrett M, Stewart AK, Dogan A, Bergsagel PL, Ghobrial IM
+  and Fonseca R.
+contact:
+  email: fonseca.rafael@mayo.edu
+  name: Rafael Fonseca
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19351844
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Cancer Res 69, 8 (2009): 3579-88.'
+label: 'Braggio et al. (2009): Identification of Copy Number Abnormalities and Inactivating
+  Mutations in Two Negative Regulators ...'
+notes: ~
+pmid: 19351844
+title: Identification of Copy Number Abnormalities and Inactivating Mutations in Two
+  Negative Regulators of Nuclear Factor-Kappab Signaling Pathways in Waldenstroms
+  Macroglobulinemia.
+year: 2009

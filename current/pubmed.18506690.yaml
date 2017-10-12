@@ -1,0 +1,56 @@
+---
+abstract: We performed an integrated array comparative genomic hybridization aCGH
+  and expression microarray analysis of 8 normal gastric tissues and 38 primary tumors,
+  including 25 intestinal and 13 diffuse gastric adenocarcinomas to identify genes
+  whose expression is deregulated in association with copy number alteration. Our
+  aim was also to identify molecular genetic alterations that are specific to particular
+  clinicopathological characteristics of gastric cancer. Distinct molecular genetic
+  profiles were identified for intestinal and diffuse gastric cancers and for tumors
+  obtained from 2 different locations of the stomach. Interestingly, the ERBB2 amplification
+  and gains at 20q13.12-q13.33 almost exclusively discriminated intestinal cancers
+  from the diffuse type. In addition, the 17q12-q25 gain was characteristic to cancers
+  located in corpus and the 20q13.12-q13.13 gain was more common in the antrum. Statistical
+  analysis was performed using integrated copy number and expression data to identify
+  genes showing differential expression associated with a copy number alteration.
+  Genes with the highest statistical significance included ERBB2, MUC1, GRB7, PPP1R1B
+  and PPARBP with concomitant changes in copy number and expression. Immunohistochemical
+  analysis of ERBB2 and MUC1 on a tissue microarray containing 78 independent gastric
+  tissues showed statistically significant differences p amp lt 0.05 and amp lt 0.001
+  in immunopositivity in the intestinal 31 and 70 and diffuse subtypes 14 and 41 ,
+  respectively. In conclusion, our results demonstrate that intestinal and diffuse
+  type gastric cancers as well as cancers located in different sites of the stomach
+  have distinct molecular profiles which may have clinical value.
+authors: Myllykangas S, Junnila S, Kokkola A, Autio R, Scheinin I, Kiviluoto T, Karjalainen-Lindsberg
+  ML, Hollmen J, Knuutila S, Puolakkainen P and Monni O.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18506690
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Int J Cancer 123, 4 (2008): 817-25.'
+label: 'Myllykangas et al. (2008): Integrated Gene Copy Number and Expression Microarray
+  Analysis of Gastric Cancer Highlights ...'
+notes: The supplementary data files, linked through http://www.mrw.interscience.wiley.com/suppmat/0020-7136/suppmat/ijc.23574.html,
+  were not available at the time of checking.
+pmid: 18506690
+title: Integrated Gene Copy Number and Expression Microarray Analysis of Gastric Cancer
+  Highlights Potential Target Genes.
+year: 2008

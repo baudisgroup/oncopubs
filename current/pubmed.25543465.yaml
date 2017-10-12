@@ -1,0 +1,51 @@
+---
+abstract: The present study was designed to investigate the prevalence and clinical
+  significance of SIL-TAL1 rearrangements in T-cell acute lymphoblastic leukemia (T-ALL).
+  The incidence of SIL-TAL1 rearrangements was analyzed by nest real-time quantitative
+  polymerase chain reaction (RT-PCR) in 68 patients with T-ALL. Karyotypic analysis
+  was performed by conventional R-banding assay and array-based comparative genomic
+  hybridization (array-CGH). The results showed that SIL-TAL1 rearrangements were
+  identified in 10/26 (38.5%) pediatric and 2/42 (4.8%) adult T-ALL cases, which indicate
+  a pediatric preference for SIL-TAL1 rearrangements in T-ALL. Two different transcripts
+  were detected in 6/12(50%) T-ALL samples. Abnormal karyotypes were detected in 6
+  out of 11 cases (54.5%) and a deletion of the long arm of chromosome 6 was observed
+  in 4 cases. Array-CGH results of 2 T-ALL cases with SIL-TAL1 rearrangement revealed
+  that this fusion gene was resulted from a cryptic deletion of 1p32, and the overlap
+  region of 6q deletion was 6q14.1-16.3. These cases with SIL-TAL1 fusion had a higher
+  white blood cell (WBC) count and higher serum levels of lactate dehydrogenase (LDH)
+  than cases without SIL-TAL1 fusion. It is concluded that SIL-TAL1 rearrangements
+  are associated with loss of heterozygosity of chromosomal 6q, and SIL-TAL1-positive
+  patients are younger than SIL-TAL1-negative patients. In contrast to the cases without
+  SIL-TAL1 fusion, there are many adverse prognostic factors in the cases with SIL-TAL1
+  fusion, such as higher WBC count and higher LDH levels.
+authors: Wang Q, Wu LL, Dai HP, Ping NN, Wu CX, Pan JL, Cen JN, Qiu HY and Chen SN
+contact:
+  email: ~
+  name: SN Chen
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25543465
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.98
+    - 33.64
+    type: Point
+  info:
+    city: Suzhou
+    continent: Asia
+    country: China
+    label: Suzhou, China, Asia
+    precision: city
+journal: Zhongguo Shi Yan Xue Ye Xue Za Zhi 22(6), 2014
+label: 'Wang Q et al. (2014): '
+notes: ~
+pmid: 25543465
+title: '[Correlation between expression of SIL-TAL1 fusion gene and deletion of 6q
+  in T-cell acute lymphoblastic leukemia].'
+year: 2014

@@ -1,0 +1,37 @@
+---
+abstract: The purpose of this study was to identify genetic aberrations contributing
+  to clinical aggressiveness of malignant peripheral nerve sheath tumors MPNSTs .
+authors: Brekke HR, Ribeiro FR, Kolberg M, Agesen TH, Lind GE, Eknaes M, Hall KS,
+  Bjerkehagen B, van den Berg E, Teixeira MR, Mandahl N, Smeland S, Mertens F, Skotheim
+  RI and Lothe RA.
+contact:
+  email: ragnhild.a.lothe@rr-research.no
+  name: Ragnhild Lothe
+counts:
+  biosamples: 58
+  samples_acgh: 20
+  samples_ccgh: 58
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20159821
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'J Clin Oncol 28, 9 (2010): 1573-82.'
+label: 'Brekke et al. (2010): Genomic Changes in Chromosomes 10, 16, and X in Malignant
+  Peripheral Nerve Sheath Tumors Identify ...'
+notes: ~
+pmid: 20159821
+title: Genomic Changes in Chromosomes 10, 16, and X in Malignant Peripheral Nerve
+  Sheath Tumors Identify a High-Risk Patient Group.
+year: 2010

@@ -1,0 +1,50 @@
+---
+abstract: The mapping of a balanced t(12;18)(q21;q21.2) translocation in a Sï¿½zary
+  syndrome (SS) case led Karenko et al. to identify NAV3 gene (12q21-22) deletion
+  by interphase fluorescence in situ hybridization (FISH) in 15/21 patients with mycosis
+  fungoides (MF) or SS. To determine whether the NAV3 deletion is the result of a
+  specific gene breakpoint, we used FISH with dual-color split or break-apart bacterial
+  artificial chromosome (BAC) probes covering the NAV3 locus. A total of 31 samples
+  (18 skin, 11 blood, 1 lymph node, and 1 spleen) from 24 patients with advanced MF/SS
+  (18 with large-cell transformation) were studied. Chromosome 12 imbalances were
+  analyzed by comparative genomic hybridization (CGH) array with a 3K BAC probes in
+  24 samples from 22 patients. Both normal FISH and CGH array patterns were observed
+  in 22 samples from 18 patients. In 6 patients, abnormal patterns were observed with
+  an abnormal number of chromosome 12 set in 5 of them. Chromosome 12 structural abnormalities
+  were seen in four of these six patients. An imbalanced FISH pattern between NAV3
+  and pericentromeric control probes was seen in three patients in accordance with
+  CGH array data (one with a pericentromeric deletion and two with a large 12q deletion
+  including NAV3). No NAV3 specific breakpoint or partial deletion was detected.
+authors: Marty M, Prochazkova M, Laharanne E, Chevret E, Longy M, Jouary T, Vergier
+  B, Beylot-Barry M, Merlio JP and Philippe MJ
+contact:
+  email: jp.merlio@histo.u-bordeaux2.fr
+  name: Jean Philippe Merlio
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18509363
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: J. Invest. Dermatol. 128(10), 2008
+label: 'Marty M et al. (2008): '
+notes: Of overall 24 aCGH analyses, 3 had been reported previously (Prochazkova et
+  al.).
+pmid: 18509363
+title: Primary cutaneous T-cell lymphomas do not show specific NAV3 gene deletion
+  or translocation.
+year: 2008

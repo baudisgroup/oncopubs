@@ -1,0 +1,53 @@
+---
+abstract: Array comparative genomic hybridization has increasingly become the standard
+  of care to evaluate patients for genomic imbalance. As the patient population evaluated
+  by microarray expands, there is certain to be an increase in the detection of unexpected,
+  yet common diseases. When array results predict a late-onset disorder or cancer
+  predisposition, it becomes a challenge for physicians and counselors to adequately
+  address with patients. Included in this study were three patients described with
+  nonspecific phenotypic findings who underwent microarray testing to better define
+  their disease etiology. An unexpected deletion within the dystrophin gene was observed
+  in each case, despite that no patient was suspected of a dystrophinopathy at the
+  time of testing. The patients included an 8-day-old male with a dystrophin deletion
+  predictive of Becker muscular dystrophy, an 18-month old female found to be the
+  carrier of deletion, and a 4-year-8-month-old male with a deletion predictive of
+  Duchenne muscular dystrophy. In this circumstance it becomes difficult to counsel
+  the family, as well as to predict disease course when underlying medical conditions
+  may exist. However, early detection may enable the patient to receive proactive
+  treatment, and allows for screening of at-risk family members. Ultimately, it is
+  up to the clinician to promote informed decision-making within the family prior
+  to testing, and ensure that adequate counseling is provided during follow-up.
+authors: Cottrell CE, Prior TW, Pyatt R, Astbury C, Reshmi S, Bartholomew D, Atkin
+  J, Manickam K, Thrush DL, Pastore M, Mendell J, Tsao CY, Al-Dahhak R, Newmeyer A
+  and Gastier-Foster JM.
+contact:
+  email: gastierj@chi.osu.edu
+  name: Julie Gastier-Foster
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20683981
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.37
+    - 41.43
+    type: Point
+  info:
+    city: Columbus
+    continent: North America
+    country: United States
+    label: Columbus, United States, North America
+    precision: city
+journal: 'Am J Med Genet A 152A, 9 (2010): 2301-07.'
+label: 'Cottrell et al. (2010): Unexpected Detection of Dystrophin Gene Deletions
+  By Array Comparative Genomic ...'
+notes: ~
+pmid: 20683981
+title: Unexpected Detection of Dystrophin Gene Deletions By Array Comparative Genomic
+  Hybridization.
+year: 2010

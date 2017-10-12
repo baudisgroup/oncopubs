@@ -1,0 +1,50 @@
+---
+abstract: Comparative genomic hybridization CGH was used to screen 22 esthesioneuroblastomas
+  ENB from 12 patients including 12 primary tumors and 10 metastasis recurrent lesions
+  for chromosomal imbalances being the most extensive study so far. The analysis revealed
+  a characteristic pattern consisting of deletions on chromosomes 3p and overrepresentations
+  on 17q in up to 100 of cases. Other important alterations being detectable in more
+  than 80 of cases were deletions on 1p, 3p q, 9p, 10p q along with overrepresentation
+  on 17p13, 20p and 22q. Particularly striking was the pattern for chromosomes 3,
+  10 and 17q and 20 being affected almost exclusively by deletions or overrepresentations,
+  respectively. Pronounced overrepresentations suggestive for high copy amplifications
+  were seen on 1p34, 1q23-q31, 7p21, 7q31, 9p23-p24, 17q11-q22, 17q24-q25, 19, 20p,
+  20q13 and 22q13. Comparing tumor pairs from the same patient revealed a high concordance
+  indicating clonality and confirming the genetic homogeneity of the tumor entity.
+  The analysis of metastatic recurrent lesions indicated a higher percentage of pronounced
+  alterations, e.g., high copy DNA gains at 1q34-qter, 7q11, 9p23-p24, 9q34, 13q33-q34,
+  16p13.3, 16p11, 16q23-q24 and 17p13. The analysis furthermore suggested specific
+  alterations, e.g., deletions of chromosome 11 and gains of 1p to be associated with
+  metastasis formation and or worse prognosis. Our results indicate that ENB is a
+  distinct entity and provides criteria for its genetic distinction from other small
+  round cell tumor types.
+authors: Bockmuhl U, You X, Pacyna-Gengelbach M, Arps H, Draf W and Petersen I.
+contact:
+  email: ~
+  name: Ulrike Bockmuehl
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15193028
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.77
+    - 50.8
+    type: Point
+  info:
+    city: Marburg
+    continent: Europe
+    country: Germany
+    label: Marburg, Germany, Europe
+    precision: city
+journal: 'Brain Pathol 14, 2 (2004): 158-63.'
+label: 'Bockmuhl et al. (2004): Cgh Pattern of Esthesioneuroblastoma and Their Metastases.'
+notes: ~
+pmid: 15193028
+title: Cgh Pattern of Esthesioneuroblastoma and Their Metastases.
+year: 2004

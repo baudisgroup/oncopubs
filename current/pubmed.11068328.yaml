@@ -1,0 +1,37 @@
+---
+abstract: The genetic basis underlying prostate cancer development and progression
+  is poorly understood. The primary aim of this study was to identify chromosomal
+  regions important for progression in clinically localized prostate cancer removed
+  by radical prostatectomy.
+authors: Fu W, Bubendorf L, Willi N, Moch H, Mihatsch MJ, Sauter G and Gasser TC.
+contact:
+  email: thomas.gasser@ksli.ch
+  name: Thomas C. Gasser
+counts:
+  biosamples: 56
+  samples_acgh: 0
+  samples_ccgh: 56
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11068328
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Urology 56, 5 (2000): 880-85.'
+label: 'Fu et al. (2000): Genetic Changes in Clinically Organ-Confined Prostate Cancer
+  By Comparative Genomic ...'
+notes: ~
+pmid: 11068328
+title: Genetic Changes in Clinically Organ-Confined Prostate Cancer By Comparative
+  Genomic Hybridization.
+year: 2000

@@ -1,0 +1,50 @@
+---
+abstract: Acute megakaryocytic leukemia is a rare subtype of AML that is often difficult
+  to diagnose it is most commonly associated with Down syndrome in children. To identify
+  chromosomal imbalances and rearrangements associated with acute megakaryocytic leukemia,
+  we used G-banding, comparative genomic hybridization CGH , and whole chromosome
+  painting WCP on a variety of primary patients samples and leukemia cell lines. The
+  most common abnormality was gain of chromosome 19 or arm 19q, which was detected
+  by CGH in four of 12 33.3 primary samples and nine of 11 81.8 cell lines. In none
+  of the primary samples was this abnormality detected by G-banding analysis. WCP
+  was used to define further the nature of the chromosome 19 gain in the cell lines,
+  which was found to be due to the presence of additional 19q material on marker chromosomes
+  or to cryptic translocations involving 19q. The most common chromosomal loss--detected
+  only in the cell lines--was deletion of chromosomal band 13q14, which was seen in
+  six of 11 54.5 cell lines. Other recurrent changes included gains of 1p, 6p, 8q,
+  11q, 15q, 17q, and 21q and losses of 2, 4q, 5q, 7q, 9p, and 11p. Combining conventional
+  and molecular cytogenetic analyses defined recurrent clonal chromosomal abnormalities,
+  which will aid in the identification of critical genes that are abnormal in acute
+  megakaryocytic leukemia cells.
+authors: Alvarez S, MacGrogan D, Calasanz MJ, Nimer SD, and Jhanwar SC.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11579469
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer, 32(3) 2001, 285-93.
+label: 'Alvarez et al. (2001): Frequent gain of chromosome 19 in megakaryoblastic
+  leukemias detected by comparative genomic ...'
+notes: ~
+pmid: 11579469
+title: Frequent gain of chromosome 19 in megakaryoblastic leukemias detected by comparative
+  genomic hybridization.
+year: 2001

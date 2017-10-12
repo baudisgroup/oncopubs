@@ -1,0 +1,45 @@
+---
+abstract: The development of cervical cancer and its high-grade precursor lesions
+  Cervical Intraepithelial Neoplasia grade 2 3 CIN2 3 result from a persistent infection
+  with high-risk human papillomavirus hrHPV types and the accumulation of epi genetic
+  host cell aberrations. Epidemiological studies have demonstrated variable CIN2 3
+  and cancer risks between different hrHPV types. Recent genomic profiling studies
+  revealed substantial heterogeneity in the chromosomal aberrations detected in morphologically
+  indistinguishable CIN2 3 suggestive of varying cancer risk. The current study aimed
+  to investigate whether CIN2 3 with different hrHPV types vary with respect to their
+  chromosomal profiles, both in terms of the number of aberrations and chromosomal
+  loci affected.
+authors: Bierkens M, Wilting SM, van Wieringen WN, van de Wiel MA, Ylstra B, Meijer
+  CJ, Snijders PJ and Steenbergen RD.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22273477
+- geo:GSE31241
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'BMC Cancer (2012) 12: 36.'
+label: 'Bierkens et al. (2012): HPV type-related chromosomal profiles in high-grade
+  cervical intraepithelial ...'
+notes: ~
+pmid: 22273477
+title: HPV type-related chromosomal profiles in high-grade cervical intraepithelial
+  neoplasia.
+year: 2012

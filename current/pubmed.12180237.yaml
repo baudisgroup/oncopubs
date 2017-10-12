@@ -1,0 +1,36 @@
+---
+abstract: The genetic changes underlying the development and progression of prostate
+  cancer are poorly understood. To identify chromosomal regions in incidental prostatic
+  carcinoma T1a and T1b was the primary aim of this study.
+authors: Wolter H, Trijic D, Gottfried HW and Mattfeldt T.
+contact:
+  email: ~
+  name: NA Mattfeldt
+counts:
+  biosamples: 48
+  samples_acgh: 0
+  samples_ccgh: 48
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12180237
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Eur Urol 41, 3 (2002): 328-34.'
+label: 'Wolter et al. (2002): Chromosomal Changes in Incidental Prostatic Carcinomas
+  Detected By Comparative Genomic ...'
+notes: ~
+pmid: 12180237
+title: Chromosomal Changes in Incidental Prostatic Carcinomas Detected By Comparative
+  Genomic Hybridization.
+year: 2002

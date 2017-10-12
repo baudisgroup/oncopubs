@@ -1,0 +1,38 @@
+---
+abstract: Pediatric lipomas are rare and their etiology is unknown. As in adult lipomas,
+  a segment of 12q13-q15 has been documented as a common chromosomal rearrangement
+  region. Here, we report a pediatric lipoma case without rearrangement of 12q13-q15
+  but with an apparently balanced translocation involving chromosomes 8 and 13 t 8
+  13 q21 q22 detected by routine cytogenetic analysis, and small deletions on 5q21.1
+  and 8q21.11 detected by array comparative genetic hybridization. The small deletion
+  on 8q21.11 is possibly due to chromosomal instability at the breakpoint of the translocation.
+authors: Jin J, Niu J, Kim YM, Wang X, Parham D, Letton R, Li S and Lee JY.
+contact:
+  email: ~
+  name: Ji-Yun Lee
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22200087
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.56
+    - 43.85
+    type: Point
+  info:
+    city: Jilin
+    continent: Asia
+    country: China
+    label: Jilin, China, Asia
+    precision: city
+journal: 'Cancer Genet 204, 11 (2011): 629-33.'
+label: 'Jin et al. (2011): A Novel T(8;13)(Q21;Q22) Translocation in a Pediatric Lipoma.'
+notes: ~
+pmid: 22200087
+title: A Novel T(8;13)(Q21;Q22) Translocation in a Pediatric Lipoma.
+year: 2011

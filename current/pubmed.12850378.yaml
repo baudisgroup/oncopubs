@@ -1,0 +1,53 @@
+---
+abstract: 'Biopsies of oropharyngeal cancer were screened for chromosomal imbalances
+  by comparative genomic hybridization CGH performed on 22 primary tumors and morphologically
+  nonmalignant surrounding mucosa. The aim was to determine early chromosomal changes
+  of tumor development and to draw conclusions on the mechanisms leading to multiple
+  tumors. The most prominent chromosomal imbalances observed were over representations
+  of genomic material on 3q, 15q, 8q, and 11q and losses on 9p, 3p, and 11q. In morphologically
+  normal mucosa collected at 1 cm from the primary tumor border M1 , amplifications
+  on 15q and 21q were most frequent. Far fewer gains and losses were found in M1 than
+  in the primary tumor average 2.2 vs. 6.9 . Gains dominated over losses, but a tendency
+  toward an increasing proportion of losses in the primary tumor PT was observed ratio
+  of gains to losses: PT, 4.75 M1, 6.3 . Almost all the imbalances in M1 were detected
+  in the primary tumor. No chromosomal alterations were identified with CGH in tissue
+  samples dissected at 2 cm from the primary tumor M2 . In all samples, dysplastic
+  morphologic changes decreased with distance from the primary tumor, which correlates
+  with the observed lower level of genetic changes. We suggest that gains of genetic
+  material on 15q and 21q are early events in malignant progression of squamous cell
+  carcinoma, followed by gains on 3q, 8q, and 11q, and losses on 3p and 9p at later
+  stages. Based on our cytogenetic data, we discuss the monoclonal model followed
+  by lateral epithelial spread as an explanation of multiple head and neck squamous
+  cell carcinomas.'
+authors: Brieger J, Jacob R, Riazimand HS, Essig E, Heinrich UR, Bittinger F and Mann
+  WJ.
+contact:
+  email: brieger@mail.uni-mainz.de
+  name: J. Brieger
+counts:
+  biosamples: 44
+  samples_acgh: 0
+  samples_ccgh: 44
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12850378
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.28
+    - 49.98
+    type: Point
+  info:
+    city: Mainz
+    continent: Europe
+    country: Germany
+    label: Mainz, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 144, 2 (2003): 148-55.'
+label: 'Brieger et al. (2003): Chromosomal Aberrations in Premalignant and Malignant
+  Squamous Epithelium.'
+notes: ~
+pmid: 12850378
+title: Chromosomal Aberrations in Premalignant and Malignant Squamous Epithelium.
+year: 2003

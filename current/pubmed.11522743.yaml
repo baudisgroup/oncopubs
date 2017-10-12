@@ -1,0 +1,38 @@
+---
+abstract: Barrett adenocarcinoma BA and gastric adenocarcinoma comprise a related
+  group of neoplasms that nevertheless have some distinct clinicopathologic characteristics.
+  This study aimed at defining critical molecular abnormalities that may underlie
+  differences between BA and gastric adenocarcinomas.
+authors: El-Rifai W, Frierson HF Jr, Moskaluk CA, Harper JC, Petroni GR, Bissonette
+  EA, Jones DR, Knuutila S and Powell SM.
+contact:
+  email: wael.el-rifai@Vanderbilt.Edu
+  name: W. El-Rifai
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11522743
+geo_data:
+  geo_json:
+    coordinates:
+    - -78.48
+    - 38.03
+    type: Point
+  info:
+    city: Charlottesville
+    continent: North America
+    country: United States
+    label: Charlottesville, United States, North America
+    precision: city
+journal: 'Gastroenterology 121, 3 (2001): 592-98.'
+label: 'El-Rifai et al. (2001): Genetic Differences Between Adenocarcinomas Arising
+  in Barretts Esophagus and Gastric ...'
+notes: ~
+pmid: 11522743
+title: Genetic Differences Between Adenocarcinomas Arising in Barretts Esophagus and
+  Gastric Mucosa.
+year: 2001

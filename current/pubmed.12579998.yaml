@@ -1,0 +1,47 @@
+---
+abstract: Occasionally hepatocellular carcinomas HCCs occur synchronously with or
+  within focal nodular hyperplasias FNHs , raising the question of a putative causal
+  relationship. In the present study, we used comparative genomic hybridization to
+  investigate the occurrence of genomic aberrations in FNHs, which might lead to hepatocarcinogenesis.
+  Tissue samples from FNHs and nonlesional liver tissue were obtained from 7 women.
+  None of the patients had a chronic diffuse liver disease. A synchronous HCC not
+  spatially related to FNH was present in 1 patient. Two patients had received oral
+  contraceptives. Genomic aberrations were found in only 1 FNH. No aberration was
+  found in the FNH occurring synchronously with HCC, but the HCC included gains at
+  chromosomes 1q, 5, 12, and 19q and losses at 4p, 7q22-q35, 9p, 17p, 21q, and 22q.
+  No aberrations were found in nonneoplastic liver tissues. Our findings support the
+  notion that FNH is not a preneoplastic lesion for the occurrence of HCC in humans
+  and that the synchronous occurrence of FNH and HCC is coincidental in our case.
+authors: Kellner U, Jacobsen A, Kellner A, Mantke R, Roessner A and Rocken C.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12579998
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.91
+    - 52.29
+    type: Point
+  info:
+    city: Minden
+    continent: Europe
+    country: Germany
+    label: Minden, Germany, Europe
+    precision: city
+journal: 'Am J Clin Pathol 119, 2 (2003): 265-71.'
+label: 'Kellner et al. (2003): Comparative Genomic Hybridization. Synchronous Occurrence
+  of Focal Nodular Hyperplasia and ...'
+notes: ~
+pmid: 12579998
+title: Comparative Genomic Hybridization. Synchronous Occurrence of Focal Nodular
+  Hyperplasia and Hepatocellular Carcinoma in the Same Liver is Not Based on Common
+  Chromosomal Aberrations.
+year: 2003

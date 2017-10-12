@@ -1,0 +1,37 @@
+---
+abstract: Molecular genetic analysis of 14 freshly resected human mesotheliomas was
+  used to identify regions in the tumor genomes that display DNA copy number alterations,
+  especially the regions that may harbor tumor suppressor genes.
+authors: Jensen RH, Tiirikainen M, You L, Ginzinger D, He B, Uematsu K, Xu Z, Treseler
+  P, McCormick F and Jablons DM.
+contact:
+  email: rjensen@cc.ucsf.edu
+  name: Ronald H. Jensen
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12894504
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Anticancer Res 23, 3B (2003): 2281-89.'
+label: 'Jensen et al. (2003): Genomic Alterations in Human Mesothelioma Including
+  High Resolution Mapping of Common Regions of ...'
+notes: ~
+pmid: 12894504
+title: Genomic Alterations in Human Mesothelioma Including High Resolution Mapping
+  of Common Regions of DNA Loss in Chromosome Arm 6q.
+year: 2003

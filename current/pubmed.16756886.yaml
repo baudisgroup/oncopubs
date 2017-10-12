@@ -1,0 +1,54 @@
+---
+abstract: Different subtypes of neuroblastoma NB carry associated genetic aberrations
+  that predict their clinical course. Whole chromosome gains are usually associated
+  with early clinical stages and good prognosis, while 1p deletion, 17q gain and MYCN
+  amplification MNA are related to advanced stages and poor prognosis. High-risk neuroblastomas
+  NB-HR include NB in children aged more than 1 year old, either stage 4 or any stages
+  showing MNA except stage 1. The prognosis of NB-HR patients remains poor, despite
+  aggressive therapy. Only MNA confers poor prognosis. Between January 2000 and February
+  2005, tumoral specimens from 60 patients with NB-HR were sent to the Spanish Reference
+  Center for NB biological studies. In all cases, MYCN together with 1p36 status was
+  analyzed by fluorescence in situ hybridization FISH . Comparative genomic hybridization
+  CGH was performed in 24 cases. Using FISH we detected 31 MNA cases including 29
+  with 1p36 deletion there were 21 cases without MYCN amplification MNNA but 7 of
+  these had 1p36 deletion 8 cases showed MYCN gain MNG but 6 of these had 1p36 deletion.
+  CGH showed other chromosomal alterations. Of 11 MNA cases, none had 11q loss and
+  all of them showed 17q gain or 17 disomy. Of the 7 MNNA cases, there were 4 with
+  11q loss including 2 with 3p loss and all presented 17q gain or 17 disomy. The 6
+  MNG cases included 4 cases with 11q loss and 5 cases with 17q gain or 17 disomy.
+  Genomic profiling by CGH in NB-HR confirms the interaction among genetic alterations,
+  the prognostic significance of which should be evaluated to establish new treatment
+  criteria.
+authors: Noguera Salva R, Piqueras Franco M, Ruiz Sauri A, Llombart-Bosch A, Castel
+  Sanchez V and Navarro Fos S.
+contact:
+  email: rosa.noguera@uv.es
+  name: Rosa Noguera Salva
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 50
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16756886
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: Europe
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: 'An Pediatr (Barc) 64, 5 (2006): 449-56.'
+label: 'Noguera Salva et al. (2006): [Genomic Profile in High Risk Neuroblastoma By
+  Comparative Genomic Hybridization].'
+notes: The dataset contains additional cases compared to the ones discussed in the
+  article. The data was provided by Rosa Noguera Salv  .
+pmid: 16756886
+title: '[Genomic Profile in High Risk Neuroblastoma By Comparative Genomic Hybridization].'
+year: 2006

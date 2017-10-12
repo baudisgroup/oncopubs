@@ -1,0 +1,51 @@
+---
+abstract: In an effort to identify novel genes implicated in breast carcinogenesis,
+  a genomewide scan for loss of heterozygosity LOH and copy number changes in paired-DNA
+  samples extracted from normal and tumor tissue of frozen sections from women undergoing
+  surgery for invasive breast cancer was conducted. The Affymetrix 10K SNP array was
+  used to examine genomewide LOH of chromosomal regions. The number of LOH events,
+  number of informative loci, percent heterozygosity, and percent fractional allelic
+  loss FAL were calculated. Although LOH events were detected in all samples, the
+  proportion of LOH ranged from 0.1 to 57.2 . Elevated LOH events were detected in
+  two samples, with a FAL of 57.2 and 56.2. Chromosomal regions exceeding a threshold
+  value for a P-value curve based on multiple-testing adjusted permutation methods
+  were identified as significant regions of shared LOH across samples. Regions with
+  significant LOH included 2p25.3 2p21 2p15 approximately p16.1, 2q23.3 and, 16q12.1.
+  Chromosomal region 1q32.1 was identified as a region with significant copy number
+  amplification. Regions of LOH and copy number changes identified from this analysis
+  may provide insights into the underlying processes of and genes involved in breast
+  carcinogenesis. The present study demonstrates a feasible methodological approach
+  for the assessment of LOH and copy number changes.
+authors: Argos M, Kibriya MG, Jasmine F, Olopade OI, Su T, Hibshoosh H, and Ahsan
+  H.
+contact:
+  email: habib@uchicago.edu
+  name: Habibul Ahsan
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18406867
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.65
+    - 41.85
+    type: Point
+  info:
+    city: Chicago
+    continent: North America
+    country: United States
+    label: Chicago, United States, North America
+    precision: city
+journal: Cancer Genet Cytogenet, 182(2) 2008, 69-74.
+label: 'Argos et al. (2008): Genomewide scan for loss of heterozygosity and chromosomal
+  amplification in breast carcinoma using ...'
+notes: ~
+pmid: 18406867
+title: Genomewide scan for loss of heterozygosity and chromosomal amplification in
+  breast carcinoma using single-nucleotide polymorphism arrays.
+year: 2008

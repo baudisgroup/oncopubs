@@ -1,0 +1,50 @@
+---
+abstract: 'Neuroblastoma behavior is variable and outcome partially depends on genetic
+  factors. However, tumors that lack high-risk factors such as MYCN amplification
+  or 1p deletion may progress, possibly due to other genetic aberrations. Comparative
+  genomic hybridization summarizes DNA copy number abnormalities in a tumor by mapping
+  them to their positions on normal metaphase chromosomes. We analyzed 29 tumors from
+  nearly equal proportions of children with stage I, II, III, IV, and IV-S disease
+  by comparative genomic hybridization. We found two classes of copy number abnormalities:
+  whole chromosome and partial chromosome. Whole chromosome losses were frequent at
+  11, 14, and X. The most frequent partial chromosome losses were on 1p and 11q. Gains
+  were most frequent on chromosome 17 72 of cases . The two patterns of gain for this
+  chromosome were whole 17 gain and 17q gain, with 17q21-qter as a minimal common
+  region of gain. Other common gains were on chromosomes 7, 6, and 18. High level
+  amplifications were detected at 2p23-25 MYCN region , at 4q33-35, and at 6p11-22.
+  Chromosome 17q gains were associated with 1p and or 11q deletions and advanced stage.
+  The high frequency of chromosome 17 gain and its association with bad prognostic
+  factors suggest an important role for this chromosome in the development of neuroblastoma.'
+authors: Plantaz D, Mohapatra G, Matthay KK, Pellarin M, Seeger RC and Feuerstein
+  BG.
+contact:
+  email: bfeuerstein@email.arizona.edu
+  name: Burt Feuerstein
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9006325
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Am J Pathol 150, 1 (1997): 81-89.'
+label: 'Plantaz et al. (1997): Gain of Chromosome 17 is the Most Frequent Abnormality
+  Detected in Neuroblastoma By Comparative ...'
+notes: ~
+pmid: 9006325
+title: Gain of Chromosome 17 is the Most Frequent Abnormality Detected in Neuroblastoma
+  By Comparative Genomic Hybridization.
+year: 1997

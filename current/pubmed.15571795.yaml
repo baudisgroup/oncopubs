@@ -1,0 +1,55 @@
+---
+abstract: We have established a method for using a cDNA array platform in combination
+  with degenerate oligonucleotide primer polymerase chain reaction DOP-PCR and taramide
+  signal amplification TSA to identify DNA copy number abnormalities CNA in cancer
+  cell lines and cancer cells procured with laser-based microdissection. To determine
+  the sensitivity and specificity for detecting single-copy gain and loss, receiver-operator
+  curve analysis was performed on hybridization signal ratios generated from non-DOP
+  and DOP amplified female and male DNA using a 10,816-element cDNA microarray. A
+  cutoff value of 1.12 and 1.07 average signal ratio for X-chromosomal genes versus
+  autosomal genes provided a sensitivity and specificity of 50 and 79 , respectively,
+  for non-DOP amplified DNA and a sensitivity and specificity of 50 and 72 , respectively,
+  for DOP amplified DNA. We used this approach to identify DNA copy number abnormalities
+  in the ovarian cancer cell line OVCA633, which has previously been shown to have
+  12p amplification. Transcription profiling of OVCA633 was also performed. Two amplified
+  and overexpressed genes located on 12p11, KRAS2 and LRMP, were identified these
+  were validated with quantitative real-time PCR. Subsequently, the same approach
+  was used to identify CNAs and gene expression alterations in 11 microdissected serous
+  ovarian adenocarcinoma cases. Validated data revealed amplification and overexpression
+  of ERBB3 and FOS and deletion and underexpression of KRT6 and APXL in more than
+  50 of the tissue samples. These results show the feasibility of using the cDNA array
+  platform to identify changes in DNA and mRNA copy number simultaneously in microdissected
+  tumor tissues.
+authors: Tsuda H, Birrer MJ, Ito YM, Ohashi Y, Lin M, Lee C, Wong WH, Rao PH, Lau
+  CC, Berkowitz RS, Wong KK and Mok SC.
+contact:
+  email: ~
+  name: S.C. Mok
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15571795
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 155, 2 (2004): 97-107.'
+label: 'Tsuda et al. (2004): Identification of DNA Copy Number Changes in Microdissected
+  Serous Ovarian Cancer Tissue Using a ...'
+notes: ~
+pmid: 15571795
+title: Identification of DNA Copy Number Changes in Microdissected Serous Ovarian
+  Cancer Tissue Using a Cdna Microarray Platform.
+year: 2004

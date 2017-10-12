@@ -1,0 +1,52 @@
+---
+abstract: Sclerosing pseudovascular rhabdomyosarcoma in adults has been described
+  as a rare variant of rhabdomyosarcoma characterized by extensive hyaline fibrosis
+  and pseudovascular growth patterns. We describe another case of this rhabdomyosarcoma
+  subtype including ultrastructural and genetic findings-the lesion presented in a
+  62-year-old male patient in the left lower leg. The tumor was located within the
+  deep soft tissue with maximum diameter of 11.8 cm and skin ulceration. Ultrastructural
+  analysis revealed irregularly distributed disorganized filaments without clear evidence
+  of Z-bands and a richly collagenized matrix. Using comparative genomic hybridization,
+  a sharply delineated loss of chromosomal region 10q22, loss of chromosome Y, and
+  a gain of chromosome 18 trisomy were detected. Reciprocal translocations t 1 13
+  and t 2 13 q35 q14 which are characteristic of alveolar rhabdomyosarcoma could be
+  excluded. These findings, while showing a relation to other rhabdomyosarcoma subtypes,
+  represent a relatively circumscribed genetic defect pattern in sclerosing pseudovascular
+  rhabdomyosarcoma that is somewhat different from patterns described in most other
+  rhabdomyosarcoma subtypes. Six months after tumor resection, the patient presented
+  with metastatic disease. Further studies should concentrate on the identification
+  of genes especially on chromosomal region 10q22 to elucidate more aspects in the
+  pathogenesis of this rhabdomyosarcoma subtype.
+authors: Kuhnen C, Herter P, Leuschner I, Mentzel T, Druecke D, Jaworska M and Johnen
+  G.
+contact:
+  email: Cornelius.Kuhnen@ruhr-uni-bochum.de
+  name: Cornelius Kuhnen
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17016719
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: Europe
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: 'Virchows Arch 449, 5 (2006): 572-78.'
+label: 'Kuhnen et al. (2006): Sclerosing Pseudovascular Rhabdomyosarcoma-Immunohistochemical,
+  Ultrastructural, and Genetic ...'
+notes: ~
+pmid: 17016719
+title: Sclerosing Pseudovascular Rhabdomyosarcoma-Immunohistochemical, Ultrastructural,
+  and Genetic Findings Indicating a Distinct Subtype of Rhabdomyosarcoma.
+year: 2006

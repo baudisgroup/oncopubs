@@ -1,0 +1,38 @@
+---
+abstract: Genetic changes in sporadic ovarian cancer are relatively poorly characterized
+  compared with other tumor types. We have evaluated the use of high-resolution whole
+  genome arrays for the genetic profiling of epithelial ovarian cancer.
+authors: Gorringe KL, Jacobs S, Thompson ER, Sridhar A, Qiu W, Choong DY and Campbell
+  IG.
+contact:
+  email: Kylie.Gorringe@petermac.org
+  name: Kylie Gorringe
+counts:
+  biosamples: 31
+  samples_acgh: 31
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17699850
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: 'Clin Cancer Res 13, 16 (2007): 4731-39.'
+label: 'Gorringe et al. (2007): High-Resolution Single Nucleotide Polymorphism Array
+  Analysis of Epithelial Ovarian Cancer ...'
+notes: The data was converted from the value table provided in the supplement, re-mapped
+  to HG18. Updated 2011-12-22.
+pmid: 17699850
+title: High-Resolution Single Nucleotide Polymorphism Array Analysis of Epithelial
+  Ovarian Cancer Reveals Numerous Microdeletions and Amplifications.
+year: 2007

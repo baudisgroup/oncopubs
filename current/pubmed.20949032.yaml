@@ -1,0 +1,56 @@
+---
+abstract: The BCR-ABL tyrosine kinase inhibitor imatinib is highly effective for chronic
+  myeloid leukemia CML . However, some patients gradually develop resistance to imatinib,
+  resulting in therapeutic failure. Metabonomic and genomic profiling of patients
+  responses to drug interventions can provide novel information about the in vivo
+  metabolism of low-molecular-weight compounds and extend our insight into the mechanism
+  of drug resistance. Based on a multi-platform of high-throughput metabonomics, SNP
+  array analysis, karyotype and mutation, the metabolic phenotypes and genomic polymorphisms
+  of CML patients and their diverse responses to imatinib were characterized. The
+  untreated CML patients UCML showed different metabolic patterns from those of healthy
+  controls, and the discriminatory metabolites suggested the perturbed metabolism
+  of the urea cycle, tricarboxylic acid cycle, lipid metabolism, and amino acid turnover
+  in UCML. After imatinib treatment, patients sensitive to imatinib SCML and patients
+  resistant to imatinib RCML had similar metabolic phenotypes to those of healthy
+  controls and UCML, respectively. SCML showed a significant metabolic response to
+  imatinib, with marked restoration of the perturbed metabolism. Most of the metabolites
+  characterizing CML were adjusted to normal levels, including the intermediates of
+  the urea cycle and tricarboxylic acid cycle TCA . In contrast, neither cytogenetic
+  nor metabonomic analysis indicated any positive response to imatinib in RCML. We
+  report for the first time the associated genetic and metabonomic responses of CML
+  patients to imatinib and show that the perturbed in vivo metabolism of UCML is independent
+  of imatinib treatment in resistant patients. Thus, metabonomics can potentially
+  characterize patients sensitivity or resistance to drug intervention.
+authors: A J, Qian S, Wang G, Yan B, Zhang S, Huang Q, Ni L, Zha W, Liu L, Cao B,
+  Hong M, Wu H, Lu H, Shi J, Li M and Li J.
+contact:
+  email: lijianyonglm@medmail.com.cn
+  name: Jianyong Li
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20949032
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.78
+    - 32.06
+    type: Point
+  info:
+    city: Nanjing
+    continent: Asia
+    country: China
+    label: Nanjing, China, Asia
+    precision: city
+journal: 'PLoS One 5, 10 (2010): e13186.'
+label: 'A et al. (2010): Chronic Myeloid Leukemia Patients Sensitive and Resistant
+  to Imatinib Treatment Show Different ...'
+notes: ~
+pmid: 20949032
+title: Chronic Myeloid Leukemia Patients Sensitive and Resistant to Imatinib Treatment
+  Show Different Metabolic Responses.
+year: 2010

@@ -1,0 +1,47 @@
+---
+abstract: The atypical teratoid rhabdoid tumour AT RT is an uncommon tumour of the
+  central nervous system in children, characterized by the presence of a rhabdoid
+  cell component associated with variable combinations of primitive neuroectodermal
+  tumour, mesenchymal and epithelial differentiation. Immunohistochemistry reveals
+  a complex pattern of antigen expression and cytogenetic studies have demonstrated
+  losses from chromosome 22. We have performed comparative genomic hybridization CGH
+  on paraffin-embedded material from three cases of AT RT. Two cases showed losses
+  from chromosome 22 associated with other chromosome imbalances including losses
+  from 1p in both cases. The third case demonstrated a loss from 8p as the sole abnormality.
+  While monosomy or deletion from chromosome 22 is a useful diagnostic marker for
+  AT RT, it is not present in all cases. The variation in cytogenetic patterns reported
+  for this tumour type raises the possibility that different genetic pathways may
+  underlie this tumour phenotype and warrants the further definition of the cytogenetic
+  spectrum for this rare tumour.
+authors: Wharton SB, Wardle C, Ironside JW, Wallace WH, Royds JA and Hammond DW.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12787322
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.47
+    - 53.38
+    type: Point
+  info:
+    city: Sheffield
+    continent: Europe
+    country: United Kingdom
+    label: Sheffield, United Kingdom, Europe
+    precision: city
+journal: 'Neuropathol Appl Neurobiol 29, 3 (2003): 254-61.'
+label: 'Wharton et al. (2003): Comparative Genomic Hybridization and Pathological
+  Findings in Atypical Teratoid/Rhabdoid Tumour ...'
+notes: ~
+pmid: 12787322
+title: Comparative Genomic Hybridization and Pathological Findings in Atypical Teratoid/Rhabdoid
+  Tumour of the Central Nervous System.
+year: 2003

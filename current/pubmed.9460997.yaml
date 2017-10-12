@@ -1,0 +1,53 @@
+---
+abstract: The differential diagnosis of mesothelioma, primary adenocarcinomas and
+  pleural metastases frequently causes problems. We have used the comparative genomic
+  hybridization CGH technique on 34 malignant mesotheliomas and 30 primary lung carcinomas
+  adenocarcinoma, including bronchoalveolar carcinoma and large-cell anaplastic carcinoma
+  to compare their copy number changes and to evaluate the use of CGH to distinguish
+  between these two types of tumour. In mesothelioma, gains of genetic material occurred
+  as frequently as losses, whereas gains predominated over losses in carcinoma. In
+  mesothelioma, the most frequent changes were losses in 4q, 6q and 14q and gains
+  in 15q and 7p, whereas gains in 8q, 1q, 7p, 5p and 6p were the most common changes
+  in carcinoma. Amplification of KRAS2 was detected in two adenocarcinomas by Southern
+  blot analysis. CGH showed gains in 12p in the same tumours. Statistically significant
+  differences between the two types of tumour were detected in chromosomes X, 1, 2p,
+  4, 8q, 10q, 12p, 14q, 15q and 18q. When comparing the frequency of gains and losses
+  between mesothelioma and lung carcinoma using discriminant analysis, the sensitivity
+  of CGH to differentiate mesotheliomas from lung carcinomas was 81 and the specificity
+  77 . The differences in DNA copy number changes between the two types of tumour
+  suggest that they are genetically different tumour entities. Although CGH cannot
+  be used as a definitive discriminatory method, we were able to distinguish between
+  mesothelioma and lung carcinoma in a large proportion of the abnormal cases.
+authors: Bjorkqvist AM, Tammilehto L, Nordling S, Nurminen M, Anttila S, Mattson K
+  and Knuutila S.
+contact:
+  email: ~
+  name: NA Knuutila
+counts:
+  biosamples: 64
+  samples_acgh: 0
+  samples_ccgh: 64
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9460997
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Br J Cancer 77, 2 (1998): 260-69.'
+label: 'Bjorkqvist et al. (1998): Comparison of DNA Copy Number Changes in Malignant
+  Mesothelioma, Adenocarcinoma and Large-Cell ...'
+notes: ~
+pmid: 9460997
+title: Comparison of DNA Copy Number Changes in Malignant Mesothelioma, Adenocarcinoma
+  and Large-Cell Anaplastic Carcinoma of the Lung.
+year: 1998

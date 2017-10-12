@@ -1,0 +1,39 @@
+---
+abstract: Malignant peripheral nerve sheath tumors MPNST are highly aggressive sarcomas
+  with variable patient survival and few known prognostically relevant genomic biomarkers.
+  To identify survival-associated genomic biomarkers, we performed high-resolution
+  array-based comparative genomic hybridization aCGH on a large set of MPNSTs.
+authors: Yu J, Deshmukh H, Payton JE, Dunham C, Scheithauer BW, Tihan T, Prayson RA,
+  Guha A, Bridge JA, Ferner RE, Lindberg GM, Gutmann RJ, Emnett RJ, Salavaggione L,
+  Gutmann DH, Nagarajan R, Watson MA and Perry A.
+contact:
+  email: Arie.Perry@ucsf.edu
+  name: Arie Perry
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21325289
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.26
+    - 38.64
+    type: Point
+  info:
+    city: saint louis
+    continent: ~
+    country: United States
+    label: saint louis, United States
+    precision: city [needs verification]
+journal: 'Clin Cancer Res 17, 7 (2011): 1924-34.'
+label: 'Yu et al. (2011): Array-Based Comparative Genomic Hybridization Identifies
+  Cdk4 and Foxm1 Alterations as Independent ...'
+notes: ~
+pmid: 21325289
+title: Array-Based Comparative Genomic Hybridization Identifies Cdk4 and Foxm1 Alterations
+  as Independent Predictors of Survival in Malignant Peripheral Nerve Sheath Tumor.
+year: 2011

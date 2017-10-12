@@ -1,0 +1,52 @@
+---
+abstract: The acute phase of chronic myeloid leukemia CML is accompanied by secondary
+  chromosomal changes. The additional changes have a non-random pattern however, highly
+  abnormal marker chromosomes are reported in some 20 of abnormal karyotypes. These
+  marker chromosomes have proved to be beyond the resolution of conventional G-banding
+  analysis. We used molecular cytogenetic techniques to determine the structure of
+  complex chromosome markers in 10 CML-derived cell lines after our investigations
+  of CML patients in blast crisis. Multicolor fluorescence in situ hybridization identified
+  a multitude of structural chromosome aberrations. In addition, genomic gains identified
+  by comparative genomic hybridization CGH were mapped to highly complex marker chromosomes
+  in more than one cell line. The most common genomic loss detected by CGH affected
+  chromosome 9, whereas the most common genomic gains affected, in order of frequency,
+  the sequences of 8q, 6, and 13q. The smallest discrete amplification on 8q was identified
+  in cell line MEG-01. This amplicon contains sequences represented by the marker
+  D8S263 RMC08P029 but did not contain the proximal MYC gene or a more distal marker,
+  D8S256 RMC08P025. We determined the size of the amplicon to be less than the chromosome
+  segment 8q24.12-q24.13. The use of region- and locus-specific probes to analyze
+  the organization of highly complex marker structures aided the identification of
+  preferentially amplified genomic regions. The resultant amplifications could harbor
+  gene s driving disease progression.
+authors: Gribble SM, Reid AG, Roberts I, Grace C, Green AR and Nacheva EP.
+contact:
+  email: enacheva@ucl.ac.uk
+  name: E.P. Nacheva
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12800146
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 37, 4 (2003): 346-58.'
+label: 'Gribble et al. (2003): Genomic Imbalances in Cml Blast Crisis: 8q24.12-Q24.13
+  Segment Identified as a Common Region of ...'
+notes: ~
+pmid: 12800146
+title: 'Genomic Imbalances in Cml Blast Crisis: 8q24.12-Q24.13 Segment Identified
+  as a Common Region of Over-Representation.'
+year: 2003

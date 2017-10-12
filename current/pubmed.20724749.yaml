@@ -1,0 +1,53 @@
+---
+abstract: Application of array comparative genomic hybridization aCGH has allowed
+  an unprecedented high-resolution analysis of cancer genomes. We developed a custom
+  genome-wide oligonucleotide microarray interrogating 493 genes involved in hematological
+  disorders. We analyzed 55 patients with hematological neoplasms by using this microarray.
+  In 33 patients with apparent normal conventional cytogenetic analysis, aneuploidy
+  or isochromosomes were detected in 12 4 of 33 of the patients by aCGH. The chromosomal
+  changes included trisomy of chromosomes 10, 14, and 15, tetrasomy 11, and isochromosome
+  17q. In 17 patients with chronic lymphocytic leukemia who were initially investigated
+  by using a panel of standard fluorescence in situ hybridization probes, additional
+  copy number changes that were not interrogated by the fluorescence in situ hybridization
+  FISH panel were detected in 47 8 of 17 of the patients by aCGH. Important copy number
+  changes included gain on 2p16 involving REL and BCL11A genes, rearrangements of
+  chromosomes 8 and 15, and trisomy of chromosomes 19 and 22. In five patients with
+  known abnormal karyotypes, aCGH identified the origin of two marker chromosomes
+  and detected microdeletions at five breakpoints involved in three apparent balanced
+  translocations. Our results suggest that a subset of potentially significant genomic
+  alterations is missed by the currently available cytogenetic techniques. This pilot
+  study clearly demonstrates high sensitivity of oligonucleotide aCGH for potential
+  use in diagnosis and follow-up in patients with hematological neoplasms.
+authors: Shao L, Kang SH, Li J, Hixson P, Taylor J, Yatsenko SA, Shaw CA, Milosavljevic
+  A, Chang CC, Cheung SW and Patel A.
+contact:
+  email: ankitap@bcm.tmc.edu
+  name: Ankita Patel
+counts:
+  biosamples: 55
+  samples_acgh: 55
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20724749
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'J Mol Diagn 12, 5 (2010): 670-79.'
+label: 'Shao et al. (2010): Array Comparative Genomic Hybridization Detects Chromosomal
+  Abnormalities in Hematological Cancers ...'
+notes: ~
+pmid: 20724749
+title: Array Comparative Genomic Hybridization Detects Chromosomal Abnormalities in
+  Hematological Cancers That Are Not Detected By Conventional Cytogenetics.
+year: 2010

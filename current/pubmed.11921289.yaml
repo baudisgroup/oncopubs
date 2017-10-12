@@ -1,0 +1,59 @@
+---
+abstract: Primary mediastinal germ cell tumors M-GCTs represent a heterogeneous group
+  of tumors that varies with regard to age at presentation, histologic differentiation,
+  and outcome. We retrospectively analyzed archival tissue samples of mediastinal
+  mature and immature teratomas n 15 and malignant nonseminomatous M-GCTs n 20 with
+  comparative genomic hybridization CGH . The aim of this study was to define distinct
+  genetic subgroups of M-GCT among the pediatric cohort that may differ in their clinical
+  behavior and prognosis. All pure teratomas showed normal CGH profiles. Malignant
+  M-GCTs in infants and children amp lt 8 years old most frequently showed a gain
+  of 1q, 3, and 20q and a loss of 1p, 4q, and 6q. Gain of 12p and sex chromosomal
+  abnormalities were not observed in this age group. In contrast, the gain of 12p
+  was the most common aberration in M-GCTs that arose in children amp gt or 8 years
+  old. Additional recurrent changes included the loss of chromosome 13 and the gain
+  of chromosome 21. All ten adolescents with malignant M-GCT were male, and five showed
+  a gain of the X chromosome. In two of these five patients, Klinefelter syndrome
+  was confirmed by cytogenetic analysis or by fluorescence in situ hybridization FISH
+  . In conclusion, CGH analysis of M-GCTs defines distinct genetic subgroups. Mediastinal
+  teratomas show no genetic gains or losses. Malignant M-GCTs in children amp lt 8
+  years old show the same pattern of gains and losses identified in sacrococcygeal
+  and testicular GCTs at this age, and they lack sex-chromosomal abnormalities. Malignant
+  M-GCTs in children amp gt or 8 years old show the same genetic profile previously
+  reported in gonadal GCTs at this age. In addition, approximately 50 demonstrate
+  a gain of the X chromosome, consistent with Klinefelter syndrome. Cooperative group
+  studies reveal a significantly better prognosis of malignant M-GCT arising in infants
+  compared to that in adolescents, suggesting that these genetic differences are associated
+  with differences in clinical behavior.
+authors: Schneider DT, Schuster AE, Fritsch MK, Calaminus G, Gobel U, Harms D, Lauer
+  S, Olson T and Perlman EJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11921289
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: North America
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 34, 1 (2002): 115-25.'
+label: 'Schneider et al. (2002): Genetic Analysis of Mediastinal Nonseminomatous Germ
+  Cell Tumors in Children and ...'
+notes: ~
+pmid: 11921289
+title: Genetic Analysis of Mediastinal Nonseminomatous Germ Cell Tumors in Children
+  and Adolescents.
+year: 2002

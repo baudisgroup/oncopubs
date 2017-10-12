@@ -1,0 +1,35 @@
+---
+abstract: The aim of this study was to characterize the profile of chromosomal imbalances
+  of alveolar rhabdomyosarcoma ARMS .
+authors: Li QX, Li F, Zhang W, Liu X, Ma YQ, Shi XL and Miao N.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20021942
+geo_data:
+  geo_json:
+    coordinates:
+    - 87.17
+    - 43.82
+    type: Point
+  info:
+    city: Wulumuqi
+    continent: Asia
+    country: China
+    label: Wulumuqi, China, Asia
+    precision: city
+journal: 'Zhonghua Zhong Liu Za Zhi (2009) 31: 571-576.'
+label: 'Li et al. (2009): [Profile of chromosomal imbalances in 10 cases of primary
+  alveolar rhabdomyosarcoma analyzed by ...'
+notes: The data is probably included in 19567137.
+pmid: 20021942
+title: '[Profile of chromosomal imbalances in 10 cases of primary alveolar rhabdomyosarcoma
+  analyzed by comparative genomic hybridization].'
+year: 2009

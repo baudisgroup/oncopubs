@@ -1,0 +1,47 @@
+---
+abstract: Eleven uveal melanomas were analyzed using comparative genomic hybridization
+  CGH . The most abundant genetic changes were loss of chromosome 3, overrepresentation
+  of 6p, loss of 6q, and multiplication of 8q. The smallest overrepresented regions
+  on 6p and 8q were 6pter-- amp gt p21 and 8q24-- amp gt qter, respectively. Several
+  additional gains and losses of chromosome segments were repeatedly observed, the
+  most frequent one being loss of 9p three cases . Monosomy 3 appeared to be a marker
+  for ciliary body involvement. CGH data were compared with the results of chromosome
+  banding. Some alterations, e.g., gains of 6p and losses of 6q, were observed with
+  higher frequencies after CGH, while others, e.g., 9p deletions, were detected only
+  by CGH. The data suggest some similarities of cytogenetic alterations between cutaneous
+  and uveal melanoma. In particular, the 9p deletions are of interest due to recent
+  reports about the location of a putative tumor-suppressor gene for cutaneous malignant
+  melanoma in this region.
+authors: Speicher MR, Prescher G, du Manoir S, Jauch A, Horsthemke B, Bornfeld N,
+  Becher R and Cremer T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8033101
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cancer Res 54, 14 (1994): 3817-23.'
+label: 'Speicher et al. (1994): Chromosomal Gains and Losses in Uveal Melanomas Detected
+  By Comparative Genomic ...'
+notes: ~
+pmid: 8033101
+title: Chromosomal Gains and Losses in Uveal Melanomas Detected By Comparative Genomic
+  Hybridization.
+year: 1994

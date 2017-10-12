@@ -1,0 +1,50 @@
+---
+abstract: Array-based comparative genomic hybridization CGH-array has a powerful potential
+  for high-throughput identification of genetic aberrations in cell genomes. We identified
+  a homozygous loss of ADAM23 2q33.3 in the course of a program to screen a panel
+  of gastric cancer GC cell lines 1 32, 3.1 for genomic copy-number aberrations using
+  our custom-made CGH-array. Infrequent homozygous deletion of ADAM23 was also seen
+  in primary gastric tumors 1 39, 2.6 . ADAM23 mRNA was expressed in normal stomach
+  tissue, but not in the majority of GC cell lines without homozygous deletion of
+  this gene. Expression of ADAM23 mRNA was restored to gene-silenced GC cells after
+  treatment with 5-aza 2-deoxycytidine. The methylation status of the ADAM23 CpG island,
+  which showed promoter activity, correlated inversely with its expression. Methylation
+  of this CpG island was observed both in GC cell lines and in primary GC tissues
+  in primary tumors with a hypermethylated CpG island, expression of ADAM23 was lower
+  than in adjacent noncancerous tissues. Moreover, restoration of ADAM23 in GC cells
+  reduced their numbers in colony-formation assays. These results suggest that genetic
+  or epigenetic silencing by hypermethylation of the ADAM23 CpG-rich promoter region
+  leads to loss of ADAM23 function, which may be a factor in gastric carcinogenesis.
+authors: Takada H, Imoto I, Tsuda H, Nakanishi Y, Ichikura T, Mochizuki H, Mitsufuji
+  S, Hosoda F, Hirohashi S, Ohki M and Inazawa J.
+contact:
+  email: johinaz.cgen@mri.tmd.ac.jp
+  name: Johji Inazawa
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16103878
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Oncogene 24, 54 (2005): 8051-60.'
+label: 'Takada et al. (2005): Adam23, a Possible Tumor Suppressor Gene, is Frequently
+  Silenced in Gastric Cancers By Homozygous ...'
+notes: ~
+pmid: 16103878
+title: Adam23, a Possible Tumor Suppressor Gene, is Frequently Silenced in Gastric
+  Cancers By Homozygous Deletion Or Aberrant Promoter Hypermethylation.
+year: 2005

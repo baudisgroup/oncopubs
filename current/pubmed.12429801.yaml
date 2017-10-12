@@ -1,0 +1,60 @@
+---
+abstract: Frequent chromosome 1 abnormalities detected in human hepatocellular carcinoma
+  have been implicated in early genetic events of liver carcinogenesis. Recurrent
+  loss of 1p with a common deleted region 1p36-p34 has been reported from microsatellite
+  analysis, whereas common gain of the whole chromosome q-arm was described from several
+  comparative genomic hybridization studies. The relationships between copy number
+  changes and allelic status however remains unclear. In this study, we have conducted
+  a simultaneous comparative genomic hybridization and microsatellite analysis study
+  on chromosome 1 in 31 hepatocellular carcinoma cases. Microsatellite analysis revealed
+  frequent loss of heterozygosity on 1p at loci D1S468 74 , D1S450 67 , D1S2667 65
+  , D1S2697 75 , D1S199 52 , and D1S234 67 corresponded to the distal 1p36 region
+  and coincided with 12 cases 86 that presented losses on 1p by comparative genomic
+  hybridization analysis. Although comparative genomic hybridization indicated a common
+  deleted region of 1p36-p35 in the current series, microsatellite analysis has refined
+  the smallest overlapping region SOR to 1p36.13-p36.22. Gain of 1q as revealed by
+  comparative genomic hybridization suggested low and high-level gains, and cases
+  that displayed an amplicon below the heterochromatic region 1q21-q25. Common allelic
+  imbalances of polymorphic markers D1S2635 64 , D1S484 67 , D1S2878 65 , D1S196 70
+  , D1S249 64 D1S2785 75 , D1S2842 73 and D1S2836 74 that corresponded to the regions
+  1q23.1-q24.2, 1q32.1 and 1q43-q44 were detected. Three distinct regions of allelic
+  imbalances were thus suggested on recurring 1q gain found in hepatocellular carcinoma.
+  Furthermore, microsatellite analysis has enabled a mapping of common overrepresented
+  regions and suggested SOR on 1q23.1-q23.3 D1S2635-D1S2878 , 1q25.1-q31.1 D1S452-D1S238
+  , and 1q43 D1S2785-D1S2842 . Our current study has refined chromosome 1 aberrations
+  in hepatocellular carcinoma to four regions of allelic imbalances. The SORs delineated
+  should provide basis for further molecular investigation in hepatocarcinogenesis
+  on genes residing on these chromosomal regions.
+authors: Leung TH, Wong N, Lai PB, Chan A, To KF, Liew CT, Lau WY and Johnson PJ.
+contact:
+  email: natwong@cuhk.edu.hk
+  name: Nathalie Wong
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 31
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12429801
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Mod Pathol 15, 11 (2002): 1213-20.'
+label: 'Leung et al. (2002): Identification of Four Distinct Regions of Allelic Imbalances
+  on Chromosome 1 By the Combined ...'
+notes: Only chromosome 1 data is presented.
+pmid: 12429801
+title: Identification of Four Distinct Regions of Allelic Imbalances on Chromosome
+  1 By the Combined Comparative Genomic Hybridization and Microsatellite Analysis
+  on Hepatocellular Carcinoma.
+year: 2002

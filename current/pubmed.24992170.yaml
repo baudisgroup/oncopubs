@@ -1,0 +1,51 @@
+---
+abstract: Detailed genetic profiling of clear cell renal cell carcinoma (ccRCC) has
+  revealed genomic regions commonly affected by structural changes and a general genetic
+  heterogeneity. VHL and PBRM1, both located at chromosome 3p, are 2 major genes mutated
+  at high frequency but apart from these aberrations, the mutational landscape in
+  ccRCC is largely undefined. Potential prognostic information given by the genomic
+  changes appears to depend on the particular cohort studied. We analyzed a Swedish
+  ccRCC cohort of 74 patients and found common changes (loss or gain occurring in
+  >20% of the tumors) in 12 chromosomal regions (1p, 3p, 3q, 5q, 6q, 7p, 7q 8p, 9p,
+  9q, 10q, and 14q). A poor outcome was associated with gain of 7q and losses on 9p,
+  9q, and 14q. These aberrations were more frequent in metastasized tumors, suggesting
+  alterations of genes important for tumor progression. Sequencing of 48 genes implicated
+  in cancer revealed that only VHL, TP53, and PTEN were mutated at a noticeable frequency
+  (51%, 9%, and 9%, respectively). Shorter relative telomere length (RTL) has been
+  associated with loss of specific chromosomal regions in ccRCC tumors, but we could
+  not verify this finding. However, a significantly lower tumor/nontumor (T/N) RTL
+  ratio was detected for tumors with losses in 4q or 9p. In conclusion, poor outcome
+  in ccRCC was associated with gain of 7q and loss on 9p, 9q, and 14q, whereas the
+  mutation rate overall was low in a screen of cancer-associated genes.
+authors: Kï¿½hn L, Svenson U, Ljungberg B, Roos G.
+contact:
+  email: linda.kohn@medbio.umu.se
+  name: Linda Kohn
+counts:
+  biosamples: 74
+  samples_acgh: 74
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24992170
+- geo:GSE30460
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.26
+    - 63.83
+    type: Point
+  info:
+    city: Umea
+    continent: Europe
+    country: Sweden
+    label: Umea, Sweden, Europe
+    precision: city
+journal: Appl. Immunohistochem. Mol. Morphol. 23(5), 2015
+label: ' (2015): '
+notes: ~
+pmid: 24992170
+title: Specific genomic aberrations predict survival, but low mutation rate in cancer
+  hot spots, in clear cell renal cell carcinoma.
+year: 2015

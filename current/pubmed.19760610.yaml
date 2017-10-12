@@ -1,0 +1,55 @@
+---
+abstract: 'Metastatic potential of breast cancer may be associated with specific genomic
+  alterations and the earliest metastases are likely to be found in the sentinel lymph
+  nodes SLN . Using array comparative genomic hybridization aCGH , we compared the
+  genomes of primary breast invasive duct carcinomas IDCs , their sentinel and more
+  distal lymph node metastases, and IDCs without nodal metastasis. Thirty-three samples
+  from 22 patients with IDC were subjected to aCGH: 8 IDC samples from patients without
+  lymph node metastasis, 11 IDCs associated with SLN metastases out of which 7 had
+  paired samples of metastases, and 14 samples of lymph node metastases out of which
+  8 were sentinel-distal pairs from 4 patients. aCGH data were analyzed by correlation
+  of genomic profiles, cluster analysis, segmentation, and peak identification. Quantitative
+  real-time PCR was used for data validation. We observed high genomic similarity
+  between primary tumors and their nodal metastases as well as between metastases
+  to the sentinel and distal lymph nodes. Several recurrent alterations were detected
+  preferentially in IDC associated with SLN metastases compared to IDCs without metastasis.
+  Amplification within the 17q24.1-24.2 59.96-62.76 Mb region was associated with
+  presence of sentinel or distal lymph node metastases larger tumor size and higher
+  histological grade. In our samples, there were genomic events associated with metastatic
+  progression, which could be detected in both primary tumors and LN metastases. Gain
+  on 17q24.1-24.2 is a candidate region for further testing as a predictor of nodal
+  metastasis.'
+authors: Wang C, Iakovlev VV, Wong V, Leung S, Warren K, Iakovleva G, Arneson NC,
+  Pintilie M, Miller N, Youngson B, McCready DR and Done SJ.
+contact:
+  email: sdone@uhnres.utoronto.ca
+  name: Susan J Done
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19760610
+- geo:GSE10600
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 48, 12 (2009): 1091-101.'
+label: 'Wang et al. (2009): Genomic Alterations in Primary Breast Cancers Compared
+  With Their Sentinel and More Distal Lymph ...'
+notes: ~
+pmid: 19760610
+title: 'Genomic Alterations in Primary Breast Cancers Compared With Their Sentinel
+  and More Distal Lymph Node Metastases: An Acgh Study.'
+year: 2009

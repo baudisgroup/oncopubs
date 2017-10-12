@@ -1,0 +1,39 @@
+---
+abstract: It has been shown that refractory hyperparathyroidism HPT correlates biologically
+  with a monoclonal true neoplasm, but the chromosomal changes and their relationship
+  with biochemical variables such as high levels of phosphate, low levels of calcium
+  Ca , and calcitriol deficiency are still in need of a deeper analysis.
+authors: Afonso S, Santamaria I, Guinsburg ME, Gomez AO, Miranda JL, Jofre R, Menarguez
+  J, Cannata-Andia J, and Cigudosa JC.
+contact:
+  email: jccigudosa@cnio.es
+  name: Juan C. Cigudosa
+counts:
+  biosamples: 85
+  samples_acgh: 0
+  samples_ccgh: 85
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12753262
+geo_data:
+  geo_json:
+    coordinates:
+    - -5.84
+    - 43.36
+    type: Point
+  info:
+    city: Oviedo
+    continent: Europe
+    country: Spain
+    label: Oviedo, Spain, Europe
+    precision: city
+journal: Kidney Int Suppl, (85) 2003, S32-8.
+label: 'Afonso et al. (2003): Chromosomal aberrations, the consequence of refractory
+  hyperparathyroidism: its relationship with ...'
+notes: 57 thyroid glands from refractory secondary HPT and 28 glands from refractory
+  HPT after kidney transplantation were analyzed by CGH.
+pmid: 12753262
+title: 'Chromosomal aberrations, the consequence of refractory hyperparathyroidism:
+  its relationship with biochemical parameters.'
+year: 2003

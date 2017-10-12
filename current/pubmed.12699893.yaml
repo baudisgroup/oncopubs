@@ -1,0 +1,42 @@
+---
+abstract: We applied a comparative genomic hybridization CGH technique to paraffin-embedded
+  tissue samples taken from fibroadenomas, benign breast tumors, to detect possible
+  numerical and unbalanced genetic changes. We compared the results to those from
+  previous cytogenetic studies of fibroadenomas. In concurrence with previous cytogenetic
+  studies of fibroadenomas, we detected genetic aberrations in chromosomes 4-6, 8-13,
+  16, 18, 19, 20, and 22. In addition, with the CGH technique we were able to find
+  two new aberrations, 15q and 16p-. Because these aberrations have also been reported
+  to be present in breast cancer, the importance of this finding is yet to be determined.
+authors: Amiel A, Kaufman Z, Goldstein E, Bruchim RB, Kidron D, Gaber E, and Fejgin
+  MD.
+contact:
+  email: amielaliza@clalit.org.il
+  name: Aliza Amiel
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12699893
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.91
+    - 32.18
+    type: Point
+  info:
+    city: Kfar Saba
+    continent: Asia
+    country: Israel
+    label: Kfar Saba, Israel, Asia
+    precision: city
+journal: Cancer Genet Cytogenet, 142(2) 2003, 145-48.
+label: 'Amiel et al. (2003): Application of comparative genomic hybridization in search
+  for genetic aberrations in fibroadenomas ...'
+notes: ~
+pmid: 12699893
+title: Application of comparative genomic hybridization in search for genetic aberrations
+  in fibroadenomas of the breast.
+year: 2003

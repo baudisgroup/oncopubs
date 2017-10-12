@@ -1,0 +1,54 @@
+---
+abstract: 'Malignant transformation of endometriosis, an uncommon phenomenon, can
+  occur in gonadal and extragonadal sites and results in a wide histological range
+  of tumors. Published series reporting malignant transformation of endometriosis
+  have largely been confined to clinical and histopathological discussions with no
+  studies reporting oncoprotein expression and genetic alterations. We report three
+  cases of carcinomas arising in ovarian endometriosis: a serous cystadenocarcinoma,
+  an endometrioid carcinoma with squamous differentiation, and a pure squamous cell
+  carcinoma. Each tumor was analyzed immunohistochemically to compare oncoprotein
+  expression p53, bcl2, cyclin D1, and c-erb B2 between the tumors and the endometriotic
+  tissue as well as with comparative genomic hybridization CGH to compare genetic
+  alterations. All three tumors expressed nuclear p53, in contrast to the endometriotic
+  tissue in which no p53 expression was found. Both endometrial and tumor tissue expressed
+  bcl-2. No expression of cyclin D1 or c-erb B2 was detected in endometriotic or tumoral
+  tissues. The CGH analysis revealed one or two chromosomal aberrations in each of
+  the three tumors with gains on chromosomes 1q, 8q, and 13q, and losses on chromosome
+  10p. The endometriotic tissue, as expected, showed a normal genetic profile. These
+  results suggest that p53 protein abnormalities and chromosomal aberrations may be
+  involved in malignant transformation of endometriosis in the ovary. However, our
+  results are limited by the number of cases examined and a definite conclusion on
+  the pathogenesis of this process should be followed by future studies with a larger
+  number of cases.'
+authors: Mhawech P, Kinkel K, Vlastos G and Pelte MF.
+contact:
+  email: Marie-Francoise.Pelte@hcuge.ch
+  name: Marie-Francoise Pelte
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12352189
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.15
+    - 46.2
+    type: Point
+  info:
+    city: Geneve
+    continent: Europe
+    country: Switzerland
+    label: Geneve, Switzerland, Europe
+    precision: city
+journal: 'Int J Gynecol Pathol 21, 4 (2002): 401-06.'
+label: 'Mhawech et al. (2002): Ovarian Carcinomas in Endometriosis: An Immunohistochemical
+  and Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 12352189
+title: 'Ovarian Carcinomas in Endometriosis: An Immunohistochemical and Comparative
+  Genomic Hybridization Study.'
+year: 2002

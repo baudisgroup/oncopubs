@@ -1,0 +1,56 @@
+---
+abstract: Primary cutaneous CD30 large T-cell lymphoma CD30 CTCL is a subset of non-epidermotropic
+  primary cutaneous T-cell lymphoma. Although frequent spontaneous regression may
+  be observed, skin relapses occur frequently. Cytogenetic abnormalities that could
+  play a role in CD30 CTCL tumour pathogenesis and relapses remain unknown. The identification
+  of recurrent cytogenetic abnormalities is hampered by difficulty in culturing tumours
+  and the lack of CD30 CTCL serial studies comparing genetic changes both at diagnosis
+  and at relapse. The purpose of this study was to investigate the cytogenetic abnormalities
+  present in a series of 13 CD30 CTCL samples obtained from nine patients fulfilling
+  both EORTC and WHO diagnostic criteria, by the use of comparative genomic hybridization
+  CGH . CGH analysis revealed a non-random distribution of genetic imbalances between
+  relapsing and non-relapsing disease. In relapsing disease, chromosomal abnormalities
+  were detected both in the primary tumour and in relapses. The mean number of changes
+  in non-relapsing disease was 0.33 range 0-1 , compared with 6.29 range 1-16 in relapsing
+  disease. The recurrent chromosomes involved in relapsing disease were chromosomes
+  6 86 , 9 86 , and 18 43 . While chromosome 9 was mostly affected by gain, chromosomes
+  6 and 18 mainly contained regions of loss, exclusively on 6q and 18p. The common
+  regions of deletion were 6q21 and 18p11.3. In one patient, we successfully cultured
+  tumour cells from a skin biopsy from a second relapse. The G-banded karyotype was
+  concordant with both CGH and fluorescence in situ hybridization FISH results. Although
+  further studies are required to strengthen these data, this CGH analysis demonstrates
+  chromosomal imbalances that may be involved in the pathogenesis of relapsing CD30
+  CTCL.
+authors: Prochazkova M, Chevret E, Beylot-Barry M, Sobotka J, Vergier B, Delaunay
+  M, Turmo M, Ferrer J, Kuglik P and Merlio JP.
+contact:
+  email: edith.chevret@histo.u-bordeaux2.fr
+  name: Edith Chevret
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14595754
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.58
+    - 44.84
+    type: Point
+  info:
+    city: Bordeaux
+    continent: Europe
+    country: France
+    label: Bordeaux, France, Europe
+    precision: city
+journal: 'J Pathol 201, 3 (2003): 421-29.'
+label: 'Prochazkova et al. (2003): Chromosomal Imbalances: A Hallmark of Tumour Relapse
+  in Primary Cutaneous Cd30  T-Cell ...'
+notes: ~
+pmid: 14595754
+title: 'Chromosomal Imbalances: A Hallmark of Tumour Relapse in Primary Cutaneous
+  Cd30  T-Cell Lymphoma.'
+year: 2003

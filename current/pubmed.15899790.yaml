@@ -1,0 +1,57 @@
+---
+abstract: Epithelioid sarcoma is a rare soft tissue neoplasm of uncertain lineage
+  that usually arises in the distal extremities of adults, presents a high rate of
+  recurrences and metastases and frequently poses diagnostic dilemmas. The recently
+  reported large-cell amp quot proximal-type amp quot variant is characterized by
+  increased aggressiveness, deep location, preferential occurrence in proximal axial
+  regions of older patients, and rhabdoid features. Previous cytogenetic studies indicated
+  that the most frequent alterations associated with this tumor entity affect chromosome
+  22. In this study, combined spectral karyotyping, fluorescence in situ hybridization,
+  and array-based comparative genomic hybridization analyses of two proximal-type
+  cases harboring a rearrangement involving 10q26 and 22q11 revealed that the 22q11
+  breakpoints were located in a 150-kb region containing the SMARCB1 INI1 gene, and
+  that homozygous deletion of the gene was present in the tumor tissue. The SMARCB1
+  INI1 gene encodes for an invariant subunit of SWI SNF chromatin remodeling complex
+  and has been previously reported to act as a tumor suppressor gene frequently inactivated
+  in infantile malignant rhabdoid tumors. We analyzed SMARCB1 INI1 gene status in
+  nine additional epithelioid sarcoma cases four proximal types and five conventional
+  types and altogether we identified deletions of SMARCB1 INI1 gene in 5 of 11 cases,
+  all proximal types. We confirmed and further extended the number of cases with SMARCB1
+  INI1 inactivation to 6 of 11 cases, by real-time quantitative PCR analysis of mRNA
+  expression and by SMARCB1 INI1 immunohistochemistry. Overall, these results point
+  to SMARCB1 INI1 gene involvement in the genesis and or progression of epithelioid
+  sarcomas. Analysis of larger series of epithelioid sarcomas will be necessary to
+  highlight putative clinically relevant features related to SMARCB1 INI1 inactivation.
+authors: Modena P, Lualdi E, Facchinetti F, Galli L, Teixeira MR, Pilotti S and Sozzi
+  G.
+contact:
+  email: ~
+  name: G. Sozzi
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15899790
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: 'Cancer Res 65, 10 (2005): 4012-19.'
+label: 'Modena et al. (2005): Smarcb1/Ini1 Tumor Suppressor Gene is Frequently Inactivated
+  in Epithelioid Sarcomas.'
+notes: ~
+pmid: 15899790
+title: Smarcb1/Ini1 Tumor Suppressor Gene is Frequently Inactivated in Epithelioid
+  Sarcomas.
+year: 2005

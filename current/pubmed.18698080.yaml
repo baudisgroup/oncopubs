@@ -1,0 +1,46 @@
+---
+abstract: Burkitts lymphoma is an aggressive B-cell lymphoma characterized by typical
+  morphological, immunophenotypic and molecular features. Gene expression profiling
+  provided a molecular signature of Burkitts lymphoma, but also demonstrated that
+  a subset of aggressive B-cell lymphomas not fulfilling the current World Health
+  Organization criteria for the diagnosis of Burkitts lymphoma nonetheless show a
+  molecular signature of Burkitts lymphoma discrepant Burkitts lymphoma . Given the
+  different treatment of Burkitts lymphoma and diffuse large B-cell lymphomas we investigated
+  molecular differences within gene expression-defined Burkitts lymphoma.
+authors: Salaverria I, Zettl A, Bea S, Hartmann EM, Dave SS, Wright GW, Boerma EJ,
+  Kluin PM, Ott G, Chan WC, Weisenburger DD, Lopez-Guillermo A, Gascoyne RD, Delabie
+  J, Rimsza LM, Braziel RM, Jaffe ES, Staudt LM, Muller-Hermelink HK, Campo E and
+  Rosenwald A.
+contact:
+  email: Rosenwald@mail.uni-wuerzburg.de
+  name: Andreas Rosenwald
+counts:
+  biosamples: 56
+  samples_acgh: 0
+  samples_ccgh: 56
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18698080
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: Europe
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: 'Haematologica 93, 9 (2008): 1327-34.'
+label: 'Salaverria et al. (2008): Chromosomal Alterations Detected By Comparative
+  Genomic Hybridization in Subgroups of Gene ...'
+notes: The CGH data in NCBIs SKY-CGH database did not contain information about the
+  cases without CGH abnormalities. We added 14 empty cases to correct for overall
+  aberration frequencies.
+pmid: 18698080
+title: Chromosomal Alterations Detected By Comparative Genomic Hybridization in Subgroups
+  of Gene Expression-Defined Burkitts Lymphoma.
+year: 2008

@@ -1,0 +1,61 @@
+---
+abstract: "Triple Negative Breast Cancers (TNBC) represent about 12% to 20% of all
+  breast cancers (BC) and have a worse outcome compared to other BC subtypes. TNBC
+  often show a deficiency in DNA double-strand break repair mechanisms. This is generally
+  related to the inactivation of a repair enzymatic complex involving BRCA1 caused
+  either by genetic mutations, epigenetic modifications or by post-transcriptional
+  regulations. The identification of new molecular biomarkers that would allow the
+  rapid identification of BC presenting a BRCA1 deficiency could be useful to select
+  patients who could benefit from PARP inhibitors, alkylating agents or platinum-based
+  chemotherapy.  Genomic DNA from 131 formalin-fixed paraffin-embedded (FFPE) tumors
+  (luminal A and B, HER2+ and triple negative BC) with known BRCA1 mutation status
+  or unscreened for BRCA1 mutation were analysed by array Comparative Genomic Hybridization
+  (array CGH). One highly significant and recurrent gain in the 17q25.3 genomic region
+  was analysed by fluorescent in situ hybridization (FISH). Expression of the genes
+  of the 17q25.3 amplicon was studied using customized Taqman low density arrays and
+  single Taqman assays (Applied Biosystems).  We identified by array CGH and confirmed
+  by FISH a gain in the 17q25.3 genomic region in 90% of the BRCA1 mutated tumors.
+  This chromosomal gain was present in only 28.6% of the BRCA1 non-mutated TNBC, 26.7%
+  of the unscreened TNBC, 13.6% of the luminal B, 19.0% of the HER2+ and 0% of the
+  luminal A breast cancers. The 17q25.3 gain was also detected in 50% of the TNBC
+  with BRCA1 promoter methylation. Interestingly, BRCA1 promoter methylation was never
+  detected in BRCA1 mutated BC. Gene expression analyses of the 17q25.3 sub-region
+  showed a significant over-expression of 17 genes in BRCA1 mutated TNBC (nâ\x80\x89=â\x80\x8915)
+  as compared to the BRCA1 non mutated TNBC (nâ\x80\x89=â\x80\x8913).  In this study,
+  we have identified by array CGH and confirmed by FISH a recurrent gain in 17q25.3
+  significantly associated to BRCA1 mutated TNBC. Up-regulated genes in the 17q25.3
+  amplicon might represent potential therapeutic targets and warrant further investigation."
+authors: Toffoli S, Bar I, Abdel-Sater F, Delrï¿½e P, Hilbert P, Cavallin F, Moreau
+  F, Van Criekinge W, Lacroix-Triki M, Campone M, Martin AL, Rochï¿½ H, Machiels JP,
+  Carrasco J and Canon JL
+contact:
+  email: sebastien.toffoli@ipg.be
+  name: ~
+counts:
+  biosamples: 131
+  samples_acgh: 131
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25416589
+- geo:GSE54140
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.44
+    - 50.41
+    type: Point
+  info:
+    city: Charleroi
+    continent: Europe
+    country: Belgium
+    label: Charleroi, Belgium, Europe
+    precision: city
+journal: Breast Cancer Res. 16(6), 2014
+label: 'Toffoli S et al. (2014): '
+notes: ~
+pmid: 25416589
+title: Identification by array comparative genomic hybridization of a new amplicon
+  on chromosome 17q highly recurrent in BRCA1 mutated triple negative breast cancer.
+year: 2014

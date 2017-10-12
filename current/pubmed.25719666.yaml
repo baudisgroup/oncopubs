@@ -1,0 +1,57 @@
+---
+abstract: 'Pancreatic cancer remains one of the most lethal of malignancies and a
+  major health burden. We performed whole-genome sequencing and copy number variation
+  (CNV) analysis of 100 pancreatic ductal adenocarcinomas (PDACs). Chromosomal rearrangements
+  leading to gene disruption were prevalent, affecting genes known to be important
+  in pancreatic cancer (TP53, SMAD4, CDKN2A, ARID1A and ROBO2) and new candidate drivers
+  of pancreatic carcinogenesis (KDM6A and PREX2). Patterns of structural variation
+  (variation in chromosomal structure) classified PDACs into 4 subtypes with potential
+  clinical utility: the subtypes were termed stable, locally rearranged, scattered
+  and unstable. A significant proportion harboured focal amplifications, many of which
+  contained druggable oncogenes (ERBB2, MET, FGFR1, CDK6, PIK3R3 and PIK3CA), but
+  at low individual patient prevalence. Genomic instability co-segregated with inactivation
+  of DNA maintenance genes (BRCA1, BRCA2 or PALB2) and a mutational signature of DNA
+  damage repair deficiency. Of 8 patients who received platinum therapy, 4 of 5 individuals
+  with these measures of defective DNA maintenance responded.'
+authors: Waddell N, Pajic M, Patch AM, Chang DK, Kassahn KS, Bailey P, Johns AL, Miller
+  D, Nones K, Quek K, Quinn MC, Robertson AJ, Fadlullah MZ, Bruxner TJ, Christ AN,
+  Harliwong I, Idrisoglu S, Manning S, Nourse C, Nourbakhsh E, Wani S, Wilson PJ,
+  Markham E, Cloonan N, Anderson MJ, Fink JL, Holmes O, Kazakoff SH, Leonard C, Newell
+  F, Poudel B, Song S, Taylor D, Waddell N, Wood S, Xu Q, Wu J, Pinese M, Cowley MJ,
+  Lee HC, Jones MD, Nagrial AM, Humphris J, Chantrill LA, Chin V, Steinmann AM, Mawson
+  A, Humphrey ES, Colvin EK, Chou A, Scarlett CJ, Pinho AV, Giry-Laterriere M, Rooman
+  I, Samra JS, Kench JG, Pettitt JA, Merrett ND, Toon C, Epari K, Nguyen NQ, Barbour
+  A, Zeps N, Jamieson NB, Graham JS, Niclou SP, Bjerkvig R, Grï¿½tzmann R, Aust D,
+  Hruban RH, Maitra A, Iacobuzio-Donahue CA, Wolfgang CL, Morgan RA, Lawlor RT, Corbo
+  V, Bassi C, Falconi M, Zamboni G, Tortora G, Tempero MA, Gill AJ, Eshleman JR, Pilarsky
+  C, Scarpa A, Musgrove EA, Pearson JV, Biankin AV and Grimmond SM
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 100
+  samples_acgh: 100
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 100
+external_identifiers:
+- pubmed:25719666
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.03
+    - -27.47
+    type: Point
+  info:
+    city: Brisbane
+    continent: Australia
+    country: Australia
+    label: Brisbane, Australia, Australia
+    precision: city
+journal: Nature 518(7540), 2015
+label: 'Waddell et al. (): Whole genomes redefine the mutational landscape of pancreatic
+  cancer.'
+notes: ~
+pmid: 25719666
+title: Whole genomes redefine the mutational landscape of pancreatic cancer.
+year: 2015

@@ -1,0 +1,52 @@
+---
+abstract: Hemangioblastomas HBs of the central nervous system are benign tumors and
+  occur as sporadic sp tumors 75 or as a manifestation of the von Hippel-Lindau VHL
+  disease 25 . VHL-disease is an autosomal dominant disorder characterized by HBs
+  of the central nervous system and retina, renal cell carcinoma RCC , phaeochromocytoma
+  PHEO , islet tumors of the pancreas, and endolympatic sac tumors as well as cysts
+  and cystadenoma in the kidney, pancreas and epididymis. In VHL patients a large
+  spectrum of germline mutations in the VHL gene has been detected. In spHBs VHL alleles
+  are reported to be inactivated in up to 50 of the tumors. To our knowledge the involvement
+  of other genes in spHBs has not been investigated. To elucidate the oncogenesis
+  of spHBs, we performed CGH on 10 spHBs to screen for chromosomal imbalances throughout
+  the entire tumor genome. Aberrations most frequently detected are losses of chromosomes
+  3 70 , 6 50 , 9 30 , and 18q 30 and a gain of chromosome 19 30 . Based on these
+  frequencies and the co-occurrence of these aberrations in the analyzed tumors we
+  hypothesize that loss of chromosome 3 harboring the VHL gene is an early event in
+  the oncogenesis of spHBs, followed by loss of 6, and then losses of chromosomes
+  9, 18q and gain of chromosome 19. Comparison of the chromosomal imbalances in spHBs
+  to those previously reported in RCCs and PHEOs reveals that the pathway of spHBs
+  shows similarities to both the RCCs and PHEOs.
+authors: Sprenger SH, Gijtenbeek JM, Wesseling P, Sciot R, van Calenbergh F, Lammens
+  M and Jeuken JW.
+contact:
+  email: j.jeuken@pathol.umcn.nl
+  name: Judith Jeuken
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11519854
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'J Neurooncol 52, 3 (2001): 241-47.'
+label: 'Sprenger et al. (2001): Characteristic Chromosomal Aberrations in Sporadic
+  Cerebellar Hemangioblastomas Revealed By ...'
+notes: ~
+pmid: 11519854
+title: Characteristic Chromosomal Aberrations in Sporadic Cerebellar Hemangioblastomas
+  Revealed By Comparative Genomic Hybridization.
+year: 2001

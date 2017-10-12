@@ -1,0 +1,51 @@
+---
+abstract: The pancreatic adenocarcinoma genome harbors multiple amplifications and
+  deletions, pointing to the existence of numerous oncogenes and tumor suppressor
+  genes driving the genesis and progression of this lethal cancer. Here, array comparative
+  genomic hybridization on a cDNA microarray platform and informatics tools have been
+  used to define the copy number alterations in a panel of 24 pancreatic adenocarcinoma
+  cell lines and 13 primary tumor specimens. This high-resolution genomic analysis
+  has identified all known regional gains and losses as well as many previously uncharacterized
+  highly recurrent copy number alterations. A systematic prioritization scheme has
+  selected 64 focal minimal common regions MCRs of recurrent copy number change. These
+  MCRs possess a median size of 2.7 megabases Mb , with 21 33 MCRs spanning 1 Mb or
+  less median of 0.33 Mb and possessing an average of 15 annotated genes. Furthermore,
+  complementary expression profile analysis of a significant fraction of the genes
+  residing within these 64 prioritized MCRs has enabled the identification of a subset
+  of candidates with statistically significant association between gene dosage and
+  mRNA expression. Thus, the integration of DNA and RNA profiles provides a highly
+  productive entry point for the discovery of genes involved in the pathogenesis of
+  pancreatic adenocarcinoma.
+authors: Aguirre AJ, Brennan C, Bailey G, Sinha R, Feng B, Leo C, Zhang Y, Zhang J,
+  Gans JD, Bardeesy N, Cauwels C, Cordon-Cardo C, Redston MS, DePinho RA, and Chin
+  L.
+contact:
+  email: lynda_chin@dfci.harvard.edu
+  name: Lynda Chin
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15199222
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Proc Natl Acad Sci U S A, 101(24) 2004, 9067-72.
+label: 'Aguirre et al. (2004): High-resolution characterization of the pancreatic
+  adenocarcinoma genome.'
+notes: ~
+pmid: 15199222
+title: High-resolution characterization of the pancreatic adenocarcinoma genome.
+year: 2004

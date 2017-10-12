@@ -1,0 +1,41 @@
+---
+abstract: Tumor risk stratification during diagnosis is paramount for children with
+  medulloblastomas, primarily because very young patients amp lt 3 years suffer cognitive
+  deficits from radio- and chemotherapy sequelae. Thus, distinguishing tumors that
+  are biologically more aggressive is essential for medulloblastoma management to
+  maximize the delay in radiation treatment without adversely affecting survival outcome.
+  In this context, current strategies for risk assessment, which are based on clinical
+  parameters, remain unsatisfactory.
+authors: Lo KC, Ma C, Bundy BN, Pomeroy SL, Eberhart CG and Cowell JK.
+contact:
+  email: jcowell@mcg.edu
+  name: John K. Cowell
+counts:
+  biosamples: 49
+  samples_acgh: 49
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18056178
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 13, 23 (2007): 7022-28.'
+label: 'Lo et al. (2007): Gain of 1q is a Potential Univariate Negative Prognostic
+  Marker for Survival in Medulloblastoma.'
+notes: A table with per arm involvement was used for transcribing imbalance data.
+  No detailed locus information was provided.
+pmid: 18056178
+title: Gain of 1q is a Potential Univariate Negative Prognostic Marker for Survival
+  in Medulloblastoma.
+year: 2007

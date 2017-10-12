@@ -1,0 +1,56 @@
+---
+abstract: TP53 mutations play an important role in the development of several cancers
+  and are present in 20-40 of all breast carcinomas, contributing to increased genomic
+  instability. In order to address the relationship of mutated TP53 to genomic complexity,
+  the present study analysed 61 breast carcinomas for TP53 mutations and compared
+  mutation status with the pattern of genomic imbalances as assessed by comparative
+  genomic hybridization CGH . Twenty per cent of the present series of breast carcinomas
+  harboured TP53 mutations. An increasing number of abnormalities, as identified by
+  CGH higher genomic complexity , correlated significantly with mutant TP53. Among
+  the chromosome arms most commonly altered in more than 20 of the tumours , loss
+  of 8p and gain of 8q were associated with TP53 mutations, whereas loss of 16q was
+  associated with wild-type TP53. By performing supervised hierarchical clustering
+  analysis of the CGH data, a cluster of chromosome imbalances was observed that showed
+  differences between wild-type and mutant TP53 cases. Among these, loss of chromosome
+  arm 5q revealed the strongest correlation with altered TP53. To investigate further
+  the most commonly deleted region of 5q, gene expression patterns from two publicly
+  available microarray data sets of breast carcinomas were evaluated statistically.
+  The expression data sets identified potential target genes, including genes involved
+  in ubiquitination and the known TP53 target CSPG2. The genomic complexity of breast
+  carcinomas as assessed by CGH is associated with TP53 mutation status breast cancers
+  with TP53 mutations display more complex genomes than do those with wild-type TP53.
+  The pattern of genomic imbalances associated with mutant TP53 is non-random, with
+  loss of chromosome arm 5q being particularly closely associated with TP53 mutations.
+authors: Kleivi K, Diep CB, Pandis N, Heim S, Teixeira MR and Lothe RA.
+contact:
+  email: ragnhild.a.lothe@rr-research.no
+  name: Ragnhild Lothe
+counts:
+  biosamples: 61
+  samples_acgh: 0
+  samples_ccgh: 61
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16007576
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'J Pathol 207, 1 (2005): 14-19.'
+label: 'Kleivi et al. (2005): Tp53 Mutations Are Associated With a Particular Pattern
+  of Genomic Imbalances in Breast ...'
+notes: The CGH data of the 61 cases was published previously (Kleivi et al., 2002,
+  and Teixeira et al., 2001)
+pmid: 16007576
+title: Tp53 Mutations Are Associated With a Particular Pattern of Genomic Imbalances
+  in Breast Carcinomas.
+year: 2005

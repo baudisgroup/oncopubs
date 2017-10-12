@@ -1,0 +1,63 @@
+---
+abstract: 'We revisited the cytogenetic alterations of the cervical adenocarcinoma
+  cell line HeLa through the use of spectral karyotyping SKY , comparative genomic
+  hybridization CGH , and fluorescence in situ hybridization FISH . SKY analysis unequivocally
+  characterized all abnormal chromosomes. Chromosomal breakpoints were primarily assigned
+  by simultaneous assessment of SKY painted chromosomes and inverted 4,6-diamidino2-phenylindole
+  banding from the same cell. Twenty clonally abnormal chromosomes were found. Comparison
+  with previously reported HeLa G-banding karyotypes revealed a remarkably stable
+  cytogenetic constitution because 18 of 20 markers that were found were present before.
+  The classification of 12 markers was refined in this study. Our assignment of the
+  remaining six markers was consistent with those described in the literature. The
+  CGH map of chromosomal copy number gains and losses strikingly matched the SKY results
+  and was, in a few instances, decisive for assigning breakpoints. The combined use
+  of molecular cytogenetic methods SKY, CGH, and FISH with site-specific probes, in
+  addition to inverted 4,6-diamidino-2-phenylindole or conventional G-banding analysis,
+  provides the means to fully assess the genomic abnormalities in cancer cells. Human
+  papillomaviruses HPVs are frequently integrated into the cellular DNA in cervical
+  cancers. We mapped by FISH five HPV18 integration sites: three on normal chromosomes
+  8 at 8q24 and two on derivative chromosomes, der 5 t 5 22 8 qll q11q13 q24 and der
+  22 t 8 22 q24 q13 , which have chromosome 8q24 material. An 8q24 copy number increase
+  was detected by CGH. Dual-color FISH with a c-MYC probe mapping to 8q24 revealed
+  colocalization with HPV18 at all integration sites, indicating that dispersion and
+  amplification of the c-MYC gene sequences occurred after and was most likely triggered
+  by the viral insertion at a single integration site. Numerical and structural chromosomal
+  aberrations identified by SKY, genomic imbalances detected by CGH, as well as FISH
+  localization of HPV18 integration at the c-MYC locus in HeLa cells are common and
+  representative for advanced stage cervical cell carcinomas. The HeLa genome has
+  been remarkably stable after years of continuous cultivation therefore, the genetic
+  alterations detected may have been present in the primary tumor and reflect events
+  that are relevant to the development of cervical cancer.'
+authors: Macville M, Schrock E, Padilla-Nash H, Keck C, Ghadimi BM, Zimonjic D, Popescu
+  N and Ried T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9892199
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 59, 1 (1999): 141-50.'
+label: 'Macville et al. (1999): Comprehensive and Definitive Molecular Cytogenetic
+  Characterization of Hela Cells By Spectral ...'
+notes: ~
+pmid: 9892199
+title: Comprehensive and Definitive Molecular Cytogenetic Characterization of Hela
+  Cells By Spectral Karyotyping.
+year: 1999

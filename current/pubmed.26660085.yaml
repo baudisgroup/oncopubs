@@ -1,0 +1,35 @@
+---
+abstract: ~
+authors: Bodelon C, Vinokurova S, Sampson JN, den Boon JA, Walker JL, Horswill MA,
+  Korthauer K, Schiffman M, Sherman ME, Zuna RE, Mitchell J, Zhang X, Boland JF, Chaturvedi
+  AK, Dunn ST, Newton MA, Ahlquist P, Wang SS and Wentzensen N
+contact:
+  email: clara.bodelon@nih.gov
+  name: Clara Bodelon
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26660085
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: Carcinogenesis, 2015
+label: 'Bodelon C et al. (2015): '
+notes: ~
+pmid: 26660085
+title: Chromosomal copy number alterations and HPV integration in cervical precancer
+  and invasive cancer.
+year: 2015

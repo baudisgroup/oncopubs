@@ -1,0 +1,53 @@
+---
+abstract: In order to identify small regions of the genome whose specific copy number
+  alteration is associated with high genomic instability in the form of overall genome-wide
+  copy number aberrations, we have analyzed array-based comparative genomic hybridization
+  aCGH data from 33 sporadic colorectal carcinomas. Copy number changes of a small
+  number of specific regions were significantly correlated with elevated overall amplifications
+  and deletions scattered throughout the entire genome. One significant region at
+  9q34 includes the c-ABL gene. Another region spanning 22q11-q13 includes the breakpoint
+  cluster region BCR of the Philadelphia chromosome. Coordinate 22q11-q13 alterations
+  were observed in 9 of 11 tumors with the 9q34 alteration. Additional regions on
+  1q and 14q were associated with overall genome-wide copy number changes, while copy
+  number aberrations on chromosome 7p, 7q, and 13q21.1-q31.3 were found associated
+  with this instability only in tumors from patients with a smoking history. Our analysis
+  demonstrates there are a small number of regions of the genome where gain or loss
+  is commonly associated with a tumors overall level of copy number aberrations. Our
+  finding BCR and ABL located within two of the instability-associated regions, and
+  the involvement of these two regions occurring coordinately, suggests a system akin
+  to the BCR-ABL translocation of CML may be involved in genomic instability in about
+  one-third of human colorectal carcinomas.
+authors: Bartos JD, Gaile DP, McQuaid DE, Conroy JM, Darbary H, Nowak NJ, Block A,
+  Petrelli NJ, Mittelman A, Stoler DL and Anderson GR.
+contact:
+  email: garth.anderson@roswellpark.org
+  name: Garth R. Anderson
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17196995
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Mutat Res 615, 1-2 (2007): 1-11.'
+label: 'Bartos et al. (2007): Acgh Local Copy Number Aberrations Associated With Overall
+  Copy Number Genomic Instability in ...'
+notes: ~
+pmid: 17196995
+title: 'Acgh Local Copy Number Aberrations Associated With Overall Copy Number Genomic
+  Instability in Colorectal Cancer: Coordinate Involvement of the Regions Including
+  Bcr and Abl.'
+year: 2007

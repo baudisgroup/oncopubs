@@ -1,0 +1,46 @@
+---
+abstract: We have performed a retrospective array-based comparative hybridization
+  array-CGH study on 41 acute leukemia samples n 17 acute lymphoblastic leukemia ALL
+  patients only at diagnosis, n 3 ALL patients both at diagnosis and relapse n 20
+  acute myeloid leukemia AML patients only at diagnosis and n 1 AML patient both at
+  diagnosis and relapse using an Agilent 44K array. In addition to previously detected
+  cytogenetic aberrations, we observed cryptic aberrations in 95 of ALL and 90.5 of
+  AML cases. ALL-specific recurrent abnormalities were RB1 n 3 , PAX5 n 4 , and CDKN2B
+  n 3 deletions AML-specific recurrent abnormalities were HOXA9 and HOXA10 n 2 deletions
+  and NOTCH1 duplication n 2 . Recurrent duplication of the ELK1 oncogene was observed
+  in both ALL n 2 and AML n 3 cases. Our results demonstrate that oligo-array CGH
+  oaCGH is an effective method for defining copy number alterations and identification
+  of novel recurring unbalanced abnormalities. At least for now, however, the use
+  of oaCGH for routine diagnosis still has some restrictions.
+authors: Yasar D, Karadogan I, Alanoglu G, Akkaya B, Luleci G, Salim O, Timuragaoglu
+  A, Toruner GA and Berker-Karauzum S.
+contact:
+  email: sibelkarauzum@akdeniz.edu.tr
+  name: Sibel Berker Karauzum
+counts:
+  biosamples: 41
+  samples_acgh: 41
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20193845
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.7
+    - 36.91
+    type: Point
+  info:
+    city: Antalya
+    continent: Europe
+    country: Turkey
+    label: Antalya, Turkey, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 197, 2 (2010): 122-29.'
+label: 'Yasar et al. (2010): Array Comparative Genomic Hybridization Analysis of Adult
+  Acute Leukemia Patients.'
+notes: ~
+pmid: 20193845
+title: Array Comparative Genomic Hybridization Analysis of Adult Acute Leukemia Patients.
+year: 2010

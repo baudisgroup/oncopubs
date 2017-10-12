@@ -1,0 +1,38 @@
+---
+abstract: Genetic instability plays an important role in ovarian carcinogenesis. We
+  investigated the level of telomere shortening and genomic instability in early and
+  preinvasive stages of ovarian cancer, serous tubal intraepithelial carcinoma STIC
+  , and tubo-ovarian dysplasia TOD .
+authors: Chene G, Tchirkov A, Pierre-Eymard E, Dauplat J, Raoelfils I, Cayre A, Watkin
+  E, Vago P and Penault Llorca F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23589176
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.09
+    - 45.78
+    type: Point
+  info:
+    city: Clermont-Ferrand
+    continent: Europe
+    country: France
+    label: Clermont-Ferrand, France, Europe
+    precision: city
+journal: Clin Cancer Res (2013).
+label: 'Chene et al. (2013): Early telomere shortening and genomic instability in
+  tubo-ovarian preneoplastic ...'
+notes: ~
+pmid: 23589176
+title: Early telomere shortening and genomic instability in tubo-ovarian preneoplastic
+  lesions.
+year: 2013

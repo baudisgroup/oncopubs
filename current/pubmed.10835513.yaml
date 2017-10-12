@@ -1,0 +1,38 @@
+---
+abstract: A rare subset of human immunodeficiency virus HIV lymphomas, known as primary
+  effusion lymphomas PELs , are high-grade tumors carrying human herpes virus 8. Mechanisms
+  postulated to contribute to lymphomagenesis include impaired immune surveillance,
+  alterations in hemopoietic regulatory pathways due to expressed viral genes, and
+  acquisition of genomic alterations in regions of the genome that contain regulatory
+  genes. In PEL, limited information exists about the nature of genome-wide aberrations
+  in these rare lymphomas.
+authors: Mullaney BP, Ng VL, Herndier BG, McGrath MS and Pallavicini MG.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10835513
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Arch Pathol Lab Med 124, 6 (2000): 824-26.'
+label: 'Mullaney et al. (2000): Comparative Genomic Analyses of Primary Effusion Lymphoma.'
+notes: ~
+pmid: 10835513
+title: Comparative Genomic Analyses of Primary Effusion Lymphoma.
+year: 2000

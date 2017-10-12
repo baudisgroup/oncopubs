@@ -1,0 +1,51 @@
+---
+abstract: As recent technological innovations make it possible to clarify the concordant
+  relationship between genomic alterations and aberrant gene expression during the
+  progression of colorectal cancer CRC , we aimed at identifying new overexpressing
+  genes with genomic amplification on the responsible loci in CRC. The candidate gene
+  was found using cDNA microarray and array-based comparative genomic hybridization
+  CGH analysis after laser microdissection LMD in 132 Japanese CRC. We focused on
+  SUGT1, which is associated with the assembling of kinetochore proteins at the metaphase
+  of the cell cycle, with significant association between genetic alterations and
+  expression. SUGT1 mRNA expression was evaluated in 98 CRC cases to determine the
+  clinicopathological significance of SUGT1 expression. The mean level of SUGT1 mRNA
+  expression in tumor tissue specimens was significantly higher than in non-tumor
+  tissue. The high SUGT1 expression group was characterized by a significantly elevated
+  frequency of recurrence and a significantly poorer prognosis than the low expression
+  group. There was a significant association between poor prognosis of CRC cases and
+  the overexpression of SUGT1 with genomic amplification of the loci concordantly.
+  The amplification of SUGT1 might give rise to promote the transcription of the gene
+  directly subsequent to the progression of CRC cases with worsening prognosis.
+authors: Iwatsuki M, Mimori K, Sato T, Toh H, Yokobori T, Tanaka F, Ishikawa K, Baba
+  H and Mori M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 132
+  samples_acgh: 132
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20126976
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.5
+    - 33.28
+    type: Point
+  info:
+    city: Beppu
+    continent: Asia
+    country: Japan
+    label: Beppu, Japan, Asia
+    precision: city
+journal: 'Int J Oncol 36, 3 (2010): 569-75.'
+label: 'Iwatsuki et al. (2010): Overexpression of Sugt1 in Human Colorectal Cancer
+  and Its Clinicopathological ...'
+notes: ~
+pmid: 20126976
+title: Overexpression of Sugt1 in Human Colorectal Cancer and Its Clinicopathological
+  Significance.
+year: 2010

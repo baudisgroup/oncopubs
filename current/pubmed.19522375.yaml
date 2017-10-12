@@ -1,0 +1,39 @@
+---
+abstract: 'We present the results of a cytogenetic and molecular cytogenetic analysis
+  of a series of patients with bone and soft tissue tumors. PATIENTS ANDMETHODS: We
+  analyzed a cohort of 26 patients with Ewing sarcoma PNET, 15 patients with rhabdomyosarcoma,
+  5 with synovial sarcoma and one patient with an undifferentiated sarcoma using the
+  cytogenetic and molecular cytogenetic techniques M-FISH and arrayCGH.'
+authors: Stejskalova E, Jarosova M, Malis J, Sumerauer D, Urbankova H, Krskova L,
+  Pycha K, Schovanec J, Balcarkova J, Smelhaus V, Kodetova D and Stary J.
+contact:
+  email: eva.stejskalova@lfmotol.cuni.cz
+  name: Eva Stejskalova
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19522375
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.42
+    - 50.09
+    type: Point
+  info:
+    city: Prague
+    continent: Europe
+    country: Czech Republic
+    label: Prague, Czech Republic, Europe
+    precision: city
+journal: 'Klin Onkol 22, 2 (2009): 58-66.'
+label: 'Stejskalova et al. (2009): [Clinical Relevance of Chromosomal Aberrations
+  in Bone and Soft Tissue Tumors in Children and ...'
+notes: ~
+pmid: 19522375
+title: '[Clinical Relevance of Chromosomal Aberrations in Bone and Soft Tissue Tumors
+  in Children and Young Adults].'
+year: 2009

@@ -1,0 +1,58 @@
+---
+abstract: MiRNAs regulate gene expression at a post-transcriptional level and their
+  dysregulation can play major roles in the pathogenesis of many different forms of
+  cancer, including neuroblastoma, an often fatal paediatric cancer originating from
+  precursor cells of the sympathetic nervous system. We have analyzed a set of neuroblastoma
+  n 145 that is broadly representative of the genetic subtypes of this disease for
+  miRNA expression 430 loci by stem-loop RT qPCR and for DNA copy number alterations
+  array CGH to assess miRNA involvement in disease pathogenesis. The tumors were stratified
+  and then randomly split into a training set n 96 and a validation set n 49 for data
+  analysis. Thirty-seven miRNAs were significantly over- or under-expressed in MYCN
+  amplified tumors relative to MYCN single copy tumors, indicating a potential role
+  for the MYCN transcription factor in either the direct or indirect dysregulation
+  of these loci. In addition, we also determined that there was a highly significant
+  correlation between miRNA expression levels and DNA copy number, indicating a role
+  for large-scale genomic imbalances in the dysregulation of miRNA expression. In
+  order to directly assess whether miRNA expression was predictive of clinical outcome,
+  we used the Random Forest classifier to identify miRNAs that were most significantly
+  associated with poor overall patient survival and developed a 15 miRNA signature
+  that was predictive of overall survival with 72.7 sensitivity and 86.5 specificity
+  in the validation set of tumors. We conclude that there is widespread dysregulation
+  of miRNA expression in neuroblastoma tumors caused by both over-expression of the
+  MYCN transcription factor and by large-scale chromosomal imbalances. MiRNA expression
+  patterns are also predicative of clinical outcome, highlighting the potential for
+  miRNA mediated diagnostics and therapeutics.
+authors: Bray I, Bryan K, Prenter S, Buckley PG, Foley NH, Murphy DM, Alcock L, Mestdagh
+  P, Vandesompele J, Speleman F, London WB, McGrady PW, Higgins DG, OMeara A, OSullivan
+  M and Stallings RL.
+contact:
+  email: Stallings@uthscsa.edu
+  name: Raymond  L. Stallings
+counts:
+  biosamples: 145
+  samples_acgh: 145
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19924232
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: Europe
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: 'PLoS One 4, 11 (2009): e7850.'
+label: 'Bray et al. (2009): Widespread Dysregulation of Mirnas By Mycn Amplification
+  and Chromosomal Imbalances in ...'
+notes: ~
+pmid: 19924232
+title: 'Widespread Dysregulation of Mirnas By Mycn Amplification and Chromosomal Imbalances
+  in Neuroblastoma: Association of Mirna Expression With Survival.'
+year: 2009

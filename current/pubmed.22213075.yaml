@@ -1,0 +1,43 @@
+---
+abstract: Androgen deprivation therapy ADT and novel agents targeting the androgen
+  synthesis axis e.g., abiraterone acetate are adjuvant therapies that are currently,
+  or may in the future be, combined with radiotherapy to reduce the chance of disease
+  relapse. Little is known about allelic loss or gain pertaining to genes associated
+  with the androgen synthesis axis and whether this is prognostic in patients who
+  receive localized radiotherapy. In this hypothesis generating study, we conducted
+  an array comparative genomic hybridization aCGH analysis of 33 androgen synthesis
+  genes to identify potential prognostic factors for radiotherapy outcome.
+authors: Locke JA, Zafarana G, Malloff CA, Lam WL, Sykes J, Pintilie M, Ramnarine
+  VR, Meng A, Ahmed O, Jurisica I, Guns ET, van der Kwast T, Milosevic M and Bristow
+  RG.
+contact:
+  email: ~
+  name: Robert Bristow
+counts:
+  biosamples: 126
+  samples_acgh: 126
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22213075
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Prostate (2011)
+label: 'Locke et al. (2011): Allelic Loss of the Loci Containing the Androgen Synthesis
+  Gene, Star, is Prognostic for Relapse in ...'
+notes: ~
+pmid: 22213075
+title: Allelic Loss of the Loci Containing the Androgen Synthesis Gene, Star, is Prognostic
+  for Relapse in Intermediate-Risk Prostate Cancer.
+year: 2011

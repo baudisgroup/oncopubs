@@ -1,0 +1,52 @@
+---
+abstract: Breast cancer includes high number of molecular entities targetable by specific
+  agents. In this study, array CGH and PIK3CA AKT1 mutations were used to drive patients
+  into targeted therapy. A prospective molecular analysis was offered to metastatic
+  breast cancer patients for whom samples were collected prospectively or retrospectively
+  either from frozen or paraffin-embedded tissue. Analyses were performed using array
+  CGH Agilent platform and PIK3CA exon 10 and 21 and AKT1 mutations were explored
+  by standard Sanger sequencing. One hundred and eight patients were included. Good
+  quality CGH was obtained in 79 cases and was better for frozen samples. Genomic
+  alterations were identified in 50 of patients including 11 PIK3CA and 8 AKT1 mutations.
+  Eighteen treatments 17 patients were administered according to their molecular profile
+  with evidence of activity in nine. Reasons for not providing a genomic-driven treatment
+  included absence of progressive disease 38 , investigators choice 9 , rapid PD 19
+  , and no drug access 21 . Array CGH correctly identified Her2 status in 97 cases
+  failures were related to low of tumour cells. Our study showed that array CGH is
+  feasible in the context of daily practice and, in combination with PIK3CA AKT1 mutations,
+  identifies a significant number of actionable molecular alterations that allow driving
+  patients into specific targeted agents.
+authors: Arnedos M, Scott V, Job B, De La Cruz J, Commo F, Mathieu MC, Wolp-Diniz
+  R, Richon C, Campone M, Bachelot T, Dalenc F, Dessen P, Lacroix L, Lazar V, Soria
+  JC, Delaloge S and Andre F.
+contact:
+  email: fandre@igr.fr
+  name: Fabrice Andre
+counts:
+  biosamples: 108
+  samples_acgh: 108
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22840369
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: Europe
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: Eur J Cancer (2012)
+label: 'Arnedos et al. (2012): Array Cgh and Pik3Ca/Akt1 Mutations to Drive Patients
+  to Specific Targeted Agents: A Clinical ...'
+notes: ~
+pmid: 22840369
+title: 'Array Cgh and Pik3Ca/Akt1 Mutations to Drive Patients to Specific Targeted
+  Agents: A Clinical Experience in 108 Patients With Metastatic Breast Cancer.'
+year: 2012

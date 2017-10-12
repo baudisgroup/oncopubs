@@ -1,0 +1,46 @@
+---
+abstract: Translocations involving an MYC gene c amp gt N amp gt L are very late tumor
+  progression events and provide a paradigm for secondary translocations in multiple
+  myeloma. Using a combination of fluorescent in situ hybridization and comparative
+  genomic hybridization arrays aCGH , we have identified rearrangements of an MYC
+  gene in 40 of 43 independent myeloma cell lines. A majority of MYC translocations
+  involve an Ig locus IgH amp gt Iglambda amp gt Igkappa , but the breakpoints only
+  infrequently occur near or within switch regions or V D J sequences. Surprisingly,
+  about 40 of MYC translocations do not involve an Ig locus. The MYC translocations
+  mostly are nonreciprocal translocations or insertions, often with the involvement
+  of three chromosomes and sometimes with associated duplication, amplification, inversion,
+  and other associated chromosomal abnormalities. High-density aCGH analyses should
+  facilitate the cloning of MYC breakpoints, enabling the determination of their structures
+  and perhaps elucidating how rearrangements not involving an Ig gene cause dysregulation
+  of an MYC gene.
+authors: Dib A, Gabrea A, Glebov OK, Bergsagel PL and Kuehl WM.
+contact:
+  email: wmk@helix.nih.gov
+  name: W. Michael Kuehl
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18647998
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'J Natl Cancer Inst Monogr 39 (2008): 25-31.'
+label: 'Dib et al. (2008): Characterization of Myc Translocations in Multiple Myeloma
+  Cell Lines.'
+notes: Gene expression data is accessible through GEO (GSE2658).
+pmid: 18647998
+title: Characterization of Myc Translocations in Multiple Myeloma Cell Lines.
+year: 2008

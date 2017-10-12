@@ -1,0 +1,52 @@
+---
+abstract: Genetic gains and losses resulting from DNA strand breakage by ionizing
+  radiation have been demonstrated in vitro and suspected in radiation-associated
+  thyroid cancer. We hypothesized that copy number deviations might be more prevalent,
+  and or occur in genomic patterns, in tumors associated with presumptive DNA strand
+  breakage from radiation exposure than in their spontaneous counterparts. We used
+  cDNA microarray-based comparative genome hybridization to obtain genome-wide, high-resolution
+  copy number profiles at 14,573 genomic loci in 23 post-Chernobyl and 20 spontaneous
+  thyroid cancers. The prevalence of DNA gains in tumors from cases in exposed individuals
+  was two- to fourfold higher than for cases in unexposed individuals and up to 10-fold
+  higher for the subset of recurrent gains. DNA losses for all cases were low and
+  more prevalent in spontaneous cases. We identified unique patterns of copy variation
+  mostly gains that depended on a history of radiation exposure. Exposed cases, especially
+  the young, harbored more recurrent gains that covered more of the genome. The largest
+  regions, spanning 1.2 to 4.9 Mbp, were located at 1p36.32-.33, 2p23.2-.3, 3p21.1-.31,
+  6p22.1-.2, 7q36.1, 8q24.3, 9q34.11, 9q34.3, 11p15.5, 11q13.2-12.3, 14q32.33, 16p13.3,
+  16p11.2, 16q21-q12.2, 17q25.1, 19p13.31-qter, 22q11.21 and 22q13.2. Copy number
+  changes, particularly gains, in post-Chernobyl thyroid cancer are influenced by
+  radiation exposure and age at exposure, in addition to the neoplastic process.
+authors: Kimmel RR, Zhao LP, Nguyen D, Lee S, Aronszajn M, Cheng C, Troshin VP, Abrosimov
+  A, Delrow J, Tuttle RM, Tsyb AF, Kopecky KJ, Davis S and Neiman PE.
+contact:
+  email: kimmel@fhcrc.org
+  name: Roger R. Kimmel
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16953671
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: 'Radiat Res 166, 3 (2006): 519-31.'
+label: 'Kimmel et al. (2006): Microarray Comparative Genomic Hybridization Reveals
+  Genome-Wide Patterns of DNA Gains and Losses ...'
+notes: ~
+pmid: 16953671
+title: Microarray Comparative Genomic Hybridization Reveals Genome-Wide Patterns of
+  DNA Gains and Losses in Post-Chernobyl Thyroid Cancer.
+year: 2006

@@ -1,0 +1,53 @@
+---
+abstract: Systematic analyses of cancer genomes promise to unveil patterns of genetic
+  alterations linked to the genesis and spread of human cancers. High-density single-nucleotide
+  polymorphism SNP arrays enable detailed and genome-wide identification of both loss-of-heterozygosity
+  events and copy-number alterations in cancer. Here, by integrating SNP array-based
+  genetic maps with gene expression signatures derived from NCI60 cell lines, we identified
+  the melanocyte master regulator MITF microphthalmia-associated transcription factor
+  as the target of a novel melanoma amplification. We found that MITF amplification
+  was more prevalent in metastatic disease and correlated with decreased overall patient
+  survival. BRAF mutation and p16 inactivation accompanied MITF amplification in melanoma
+  cell lines. Ectopic MITF expression in conjunction with the BRAF V600E mutant transformed
+  primary human melanocytes, and thus MITF can function as a melanoma oncogene. Reduction
+  of MITF activity sensitizes melanoma cells to chemotherapeutic agents. Targeting
+  MITF in combination with BRAF or cyclin-dependent kinase inhibitors may offer a
+  rational therapeutic avenue into melanoma, a highly chemotherapy-resistant neoplasm.
+  Together, these data suggest that MITF represents a distinct class of lineage survival
+  or lineage addiction oncogenes required for both tissue-specific cancer development
+  and tumour progression.
+authors: Garraway LA, Widlund HR, Rubin MA, Getz G, Berger AJ, Ramaswamy S, Beroukhim
+  R, Milner DA, Granter SR, Du J, Lee C, Wagner SN, Li C, Golub TR, Rimm DL, Meyerson
+  ML, Fisher DE and Sellers WR.
+contact:
+  email: william.sellers@novartis.com
+  name: William Sellers
+counts:
+  biosamples: 58
+  samples_acgh: 58
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16001072
+- geo:GSE2520
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Nature 436, 7047 (2005): 117-22.'
+label: 'Garraway et al. (2005): Integrative Genomic Analyses Identify Mitf as a Lineage
+  Survival Oncogene Amplified in Malignant ...'
+notes: ~
+pmid: 16001072
+title: Integrative Genomic Analyses Identify Mitf as a Lineage Survival Oncogene Amplified
+  in Malignant Melanoma.
+year: 2005

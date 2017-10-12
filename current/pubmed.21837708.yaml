@@ -1,0 +1,55 @@
+---
+abstract: Although t 11 18 q21 q21 , t 1 14 p22 q32 , and a few other genetic mutations
+  are specific markers for the Helicobacter pylori HP -independent status of gastric
+  mucosa-associated lymphoid tissue MALT lymphoma, the molecular mechanisms responsible
+  for HP-independence of gastric MALT lymphoma without such translocations and mutations
+  remain uncharacterized. In the present study, we describe the establishment and
+  characterization of a novel MALT lymphoma cell line, MA-1, which was derived from
+  a gastric MALT lymphoma which was negative for both t 11 18 q21 q21 and t 1 14 p22
+  q32 the patient had failed HP eradication therapy and chemotherapy. The cell morphology
+  and the immunophenotype of this cell line were similar to that of the original gastric
+  MALT lymphoma. Comparative genomic hybridization analysis showed no significant
+  gene copy number changes. Spectral karyotyping displayed a near-diploid chromosome
+  content 48 amp lt 2n amp gt XY , with at least 13 chromosome structural abnormalities.
+  Furthermore, fluorescence in situ hybridization analyses disclosed the existence
+  of three sub-clones, characterized by t 14 18 q32 q21 IGH-BCL2, t 14 18 q32 q21
+  IGH-MALT1, and the presence of both chromosomal translocations in the same cell,
+  respectively whereas amplification of the genes CRAD9, TRAF2, and BCL10 were not
+  found. In conclusion, we have established the first human gastric MALT lymphoma
+  cell line, which is characterized by unusual and complex chromosome translocations
+  and will be useful to explore further the molecular mechanisms of HP-independence
+  in gastric MALT lymphoma.
+authors: Kuo SH, Weng WH, Chen ZH, Hsu PN, Wu MS, Lin CW, Jeng HJ, Yeh KH, Tsai HJ,
+  Chen LT and Cheng AL.
+contact:
+  email: ~
+  name: Ann-Lii Cheng
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21837708
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 11 (2011): 908-21.'
+label: 'Kuo et al. (2011): Establishment of a Novel Malt Lymphoma Cell Line, Ma-1,
+  From a Patient With T(14;18)(Q32;Q21)-Positive Helicobacter Pylori-Independent Gastric
+  Malt Lymphoma.'
+notes: ~
+pmid: 21837708
+title: Establishment of a Novel Malt Lymphoma Cell Line, Ma-1, From a Patient With
+  T(14;18)(Q32;Q21)-Positive Helicobacter Pylori-Independent Gastric Malt Lymphoma.
+year: 2011

@@ -1,0 +1,55 @@
+---
+abstract: Desmoplastic medulloblastoma DMB is a malignant cerebellar tumour composed
+  of two distinct tissue components, pale islands and desmoplastic areas. Previous
+  studies revealed mutations in genes encoding members of the sonic hedgehog pathway,
+  including PTCH, SMOH and SUFUH in DMBs. However, little is known about other genomic
+  aberrations. We performed comparative genomic hybridization CGH analysis of 22 sporadic
+  DMBs and identified chromosomal imbalances in 20 tumours 91 mean, 4.9 imbalances
+  tumour . Recurrent chromosomal gains were found on chromosomes 3, 9 six tumours
+  each , 20, 22 five tumours each , 2, 6, 7, 17 four tumours each and 1 three tumours
+  . Recurrent losses involved chromosomes X eight tumours , Y six of eleven tumours
+  from male patients , 9, 12 four tumours each , as well as 10, 13 and 17 three tumours
+  each . Four tumours demonstrated high-level amplifications involving sequences from
+  1p22, 5p15, 9p, 12p13, 13q33-q34 and 17q22-q24, respectively. Further analysis of
+  the 9p and 17q22-q24 amplicons by array-based CGH matrix-CGH and candidate gene
+  analyses revealed amplification of JMJD2C at 9p24 in one DMB and amplification of
+  RPS6KB1, APPBP2, PPM1D and BCAS3 from 17q23 in three DMBs. Among the 17q23 genes,
+  RPS6KB1 showed markedly elevated transcript levels as compared to normal cerebellum
+  in five of six DMBs and four of five classic medulloblastomas investigated. Finally,
+  CGH analysis of microdissected pale islands and desmoplastic areas showed common
+  chromosomal imbalances in five of six informative tumours. In summary, we have identified
+  several novel genetic alterations in DMBs and provide genetic evidence for a monoclonal
+  origin of their different tissue components.
+authors: Ehrbrecht A, Muller U, Wolter M, Hoischen A, Koch A, Radlwimmer B, Actor
+  B, Mincheva A, Pietsch T, Lichter P, Reifenberger G and Weber RG.
+contact:
+  email: weber.ruthild@mh-hannover.de
+  name: Ruthild G. Weber
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16400626
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.1
+    - 50.73
+    type: Point
+  info:
+    city: Bonn
+    continent: Europe
+    country: Germany
+    label: Bonn, Germany, Europe
+    precision: city
+journal: 'J Pathol 208, 4 (2006): 554-63.'
+label: 'Ehrbrecht et al. (2006): Comprehensive Genomic Analysis of Desmoplastic Medulloblastomas:
+  Identification of Novel ...'
+notes: ~
+pmid: 16400626
+title: 'Comprehensive Genomic Analysis of Desmoplastic Medulloblastomas: Identification
+  of Novel Amplified Genes and Separate Evaluation of the Different Histological Components.'
+year: 2006

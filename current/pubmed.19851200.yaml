@@ -1,0 +1,45 @@
+---
+abstract: Multiple primary malignant neoplasms are not uncommon, whereas 2 different
+  types of primary sarcomas simultaneously presenting in 1 individual is quite unusual.
+  We encountered a patient presenting with a uterine sarcoma and another retroperitoneal
+  mass at the same time. These 2 tumors showed distinct pathologic and immunohistochemical
+  features. The diagnosis of a synchronous presentation of a uterine leiomyosarcoma
+  and a retroperitoneal sclerosing well-differentiated liposarcoma was rendered. Further
+  study by comparative genomic hybridization showed unrelated genomic alterations
+  of these 2 tumors. Nevertheless, other common genetic alterations such as balanced
+  translocations, point mutations, or epigenetic modifications could still exist because
+  of the limitation of findings by comparative genomic hybridization. In conclusion,
+  both metastasis and multiple primary tumors should always be taken into consideration
+  in differential diagnosis while encountering synchronous sarcomas.
+authors: Chen HK, Huang HY, Li CF, Ko SF, Changchien CC, Chen WJ and Huang CC.
+contact:
+  email: ~
+  name: Chao-Cheng Huang
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19851200
+geo_data:
+  geo_json:
+    coordinates:
+    - 120.31
+    - 22.62
+    type: Point
+  info:
+    city: Kaohsiung
+    continent: Asia
+    country: Taiwan
+    label: Kaohsiung, Taiwan, Asia
+    precision: city
+journal: 'Int J Gynecol Pathol 28, 6 (2009): 535-40.'
+label: 'Chen et al. (2009): Synchronous Presentation of Uterine Leiomyosarcoma and
+  Retroperitoneal Liposarcoma: Analysis By ...'
+notes: ~
+pmid: 19851200
+title: 'Synchronous Presentation of Uterine Leiomyosarcoma and Retroperitoneal Liposarcoma:
+  Analysis By Comparative Genomic Hybridization and Review of the Literature.'
+year: 2009

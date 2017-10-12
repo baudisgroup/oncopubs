@@ -1,0 +1,48 @@
+---
+abstract: High-resolution genome-wide mapping of exact boundaries of chromosomal alterations
+  should facilitate the localization and identification of genes involved in gliomagenesis
+  and may characterize genetic subgroups of glial brain tumors. We have done such
+  mapping using cDNA microarray-based comparative genomic hybridization technology
+  to profile copy number alterations across 42,000 mapped human cDNA clones, in a
+  series of 54 gliomas of varying histogenesis and tumor grade. This gene-by-gene
+  approach permitted the precise sizing of critical amplicons and deletions and the
+  detection of multiple new genetic aberrations. It has also revealed recurrent patterns
+  of occurrence of distinct chromosomal aberrations as well as their interrelationships
+  and showed that gliomas can be clustered into distinct genetic subgroups. A subset
+  of detected alterations was shown predominantly associated with either astrocytic
+  or oligodendrocytic tumor phenotype. Finally, five novel minimally deleted regions
+  were identified in a subset of tumors, containing putative candidate tumor suppressor
+  genes TOPORS, FANCG, RAD51, TP53BP1, and BIK that could have a role in gliomagenesis.
+authors: Bredel M, Bredel C, Juric D, Harsh GR, Vogel H, Recht LD and Sikic BI.
+contact:
+  email: mbredel@stanford.edu
+  name: Markus Bredel
+counts:
+  biosamples: 54
+  samples_acgh: 54
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15899798
+- geo:GSE1991
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: 'Cancer Res 65, 10 (2005): 4088-96.'
+label: 'Bredel et al. (2005): High-Resolution Genome-Wide Mapping of Genetic Alterations
+  in Human Glial Brain ...'
+notes: ~
+pmid: 15899798
+title: High-Resolution Genome-Wide Mapping of Genetic Alterations in Human Glial Brain
+  Tumors.
+year: 2005

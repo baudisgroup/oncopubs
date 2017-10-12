@@ -1,0 +1,55 @@
+---
+abstract: Esophageal squamous cell carcinoma (ESCC) is the sixth most lethal cancer
+  worldwide and the fourth most lethal cancer in China. Genomic characterization of
+  tumors, particularly those of different stages, is likely to reveal additional oncogenic
+  mechanisms. Although copy number alterations and somatic point mutations associated
+  with the development of ESCC have been identified by array-based technologies and
+  genome-wide studies, the genomic characterization of ESCCs from different stages
+  of the disease has not been explored. Here, we have performed either whole-genome
+  sequencing or whole-exome sequencing on 51 stage I and 53 stage III ESCC patients
+  to characterize the genomic alterations that occur during the various clinical stages
+  of ESCC, and further validated these changes in 36 atypical hyperplasia samples.  Recurrent
+  somatic amplifications at 8q were found to be enriched in stage I tumors and the
+  deletions of 4p-q and 5q were particularly identified in stage III tumors. In particular,
+  the FAM84B gene was amplified and overexpressed in preclinical and ESCC tumors.
+  Knockdown of FAM84B in ESCC cell lines significantly reduced in vitro cell growth,
+  migration and invasion. Although the cancer-associated genes TP53, PIK3CA, CDKN2A
+  and their pathways showed no significant difference between stage I and stage III
+  tumors, we identified and validated a prevalence of mutations in NOTCH1 and in the
+  NOTCH pathway that indicate that they are involved in the preclinical and early
+  stages of ESCC.  Our results suggest that FAM84B and the NOTCH pathway are involved
+  in the progression of ESCC and may be potential diagnostic targets for ESCC susceptibility.
+authors: Cheng C, Cui H, Zhang L, Jia Z, Song B, Wang F, Li Y, Liu J, Kong P, Shi
+  R, Bi Y, Yang B, Wang J, Zhao Z, Zhang Y, Hu X, Yang J, He C, Zhao Z, Wang J, Xi
+  Y, Xu E, Li G, Guo S, Chen Y, Yang X, Chen X, Liang J, Guo J, Cheng X, Wang C, Zhan
+  Q and Cui Y
+contact:
+  email: xiaopi080721@163.com
+  name: Caixia Cheng
+counts:
+  biosamples: 104
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 104
+  samples_wgs: 104
+external_identifiers:
+- pubmed:26759717
+geo_data:
+  geo_json:
+    coordinates:
+    - 112.56
+    - 37.87
+    type: Point
+  info:
+    city: Taiyuan
+    continent: Asia
+    country: China
+    label: Taiyuan, China, Asia
+    precision: city
+journal: Gigascience 5, 2016
+label: 'Cheng C et al. (2016): '
+notes: ~
+pmid: 26759717
+title: Genomic analyses reveal FAM84B and the NOTCH pathway are associated with the
+  progression of esophageal squamous cell carcinoma.
+year: 2016

@@ -1,0 +1,49 @@
+---
+abstract: The 6q23-27 region, recurrently deleted in Sï¿½zary syndrome (SS), was characterized
+  at the molecular level in 13 SS patients and SS cell line SeAx. Using fine-tiling
+  comparative genomic hybridization, deletions within the 6q23-27 region were detected
+  in half of the samples (six patients and SeAx). All samples with deletions were
+  further analyzed by ligation-mediated PCR. In addition, in one patient sample and
+  in SeAx, paired-end next-generation sequencing was performed on the HiSeq2000 Illumina
+  platform. Using those techniques, 23 rearrangements associated with the deletions
+  were identified. The majority of rearrangements showed enormous complexity and diversity,
+  including eight inversions, three transpositions, and four translocations (with
+  chromosomes 3, 17, 10, and 12). Fifteen genes were disrupted by those rearrangements,
+  the MYB proto-oncogene three times and the interleukin-22 receptor subunit alpha-2
+  gene (IL22RA2) twice. All three patients with MYB alterations showed low MYB expression,
+  whereas seven of the remaining patients showed overexpression. Most patients overexpressing
+  MYB also presented increased expression of MYC, HSPA8, and BCL2. Five gene fusions
+  were identified, of which two, CCDC28A-IL22RA2 and AIG1-GOSR1, both in SeAx, were
+  in the same orientation and were expressed at the messenger RNA level.
+authors: IÅ¼ykowska K, Zawada M, Nowicka K, Grabarczyk P, Braun FC, Delin M, MÃ¶bs
+  M, Beyer M, Sterry W, Schmidt CA and Przybylski GK
+contact:
+  email: przybylg@man.poznan.pl
+  name: Grzegorz K. Przybylski
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 2
+external_identifiers:
+- pubmed:23698072
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: Europe
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: J. Invest. Dermatol. 133(11), 2013
+label: 'IÅ¼ykowska K et al. (2013): '
+notes: In 14 samples, aCGH for chromosome 6 was performed (but no whole genome coverage).
+pmid: 23698072
+title: Identification of multiple complex rearrangements associated with deletions
+  in the 6q23-27 region in Sï¿½zary syndrome.
+year: 2013

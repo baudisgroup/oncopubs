@@ -1,0 +1,63 @@
+---
+abstract: 'Low-grade head and neck squamous cell carcinomas without lymph node involvement
+  or distant metastasis N 0 M 0 were screened for chromosomal imbalances by comparative
+  genomic hybridization CGH . pT 1-2 tumors contain a low number of aberrations average
+  number, 4.3 15 cases , in contrast to pT 3 tumors average number, 11.8 6 cases ,
+  and exhibit a specific CGH pattern, affecting three chromosomes: partial or total
+  3q gain and or 3p loss 73 of cases , 8q gain 47 , and 11q13 gain 27 . Thus, these
+  changes represent early events in the pathogenesis of low-grade tumors. Cytogenetic
+  exploration of chromosome 3 aberrations in head and neck cell lines suggests that
+  the formation of an isochromosome 3q is one intermediate mechanism leading to 3p
+  losses and or 3q gains. On the long arm of chromosome 3, most of tumors exhibit
+  low-level gains of large segments, involving systematically the 3q26-qter area,
+  but with two alternative smallest region overlaps at 3q26 and 3q28-qter. We decided
+  to refine the mapping of 3q26-qter gains by using fluorescence in situ hybridization
+  on tumor nuclei, with clones containing two outstanding positional and functional
+  candidate genes, PIK3CA and p63, located respectively at 3q26 and at 3q28. Although
+  PIK3CA or p63 were preferentially gained in few cases 4 of 45 , both genes were
+  over-represented in 27 of 45 low-grade N 0 M 0 carcinomas analyzed by CGH or fluorescence
+  in situ hybridization. To evaluate the relative contribution of PIK3CA and p63 in
+  the pathogenesis of head and neck carcinomas displaying a 3q gain, we measured their
+  respective transcription levels in tumors with previously determined gene copy number.
+  DNp63, the predominant p63 transcript, is overexpressed in tumors compared with
+  normal tissues, but its expression level is independent to gene copy number. In
+  contrast, a significant PIK3CA overexpression is associated with increased gene
+  dosage. These results indicate that PIK3CA, contrary to DNp63, may participate to
+  the progression of head and neck tumors consequent to a low-level 3q over-representation.
+  Interestingly, survival analysis using CGH suggested, in accordance with previous
+  data, that 3q26 gain, the locus of PIK3CA, could predict clinical outcome for early
+  disease tumors. This prompts us to pursue 3q26 or PIK3CA prognostic evaluation in
+  a larger population of head and neck squamous cell carcinomas.'
+authors: Redon R, Muller D, Caulee K, Wanherdrick K, Abecassis J and du Manoir S.
+contact:
+  email: ~
+  name: NA du Manoir
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11358835
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.75
+    - 48.58
+    type: Point
+  info:
+    city: Strasbourg
+    continent: Europe
+    country: France
+    label: Strasbourg, France, Europe
+    precision: city
+journal: 'Cancer Res 61, 10 (2001): 4122-29.'
+label: 'Redon et al. (2001): A Simple Specific Pattern of Chromosomal Aberrations
+  At Early Stages of Head and Neck Squamous Cell ...'
+notes: ~
+pmid: 11358835
+title: 'A Simple Specific Pattern of Chromosomal Aberrations At Early Stages of Head
+  and Neck Squamous Cell Carcinomas: Pik3Ca But Not P63 Gene as a Likely Target of
+  3q26-Qter Gains.'
+year: 2001

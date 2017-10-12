@@ -1,0 +1,55 @@
+---
+abstract: The MA11 cell line was established from malignant cells isolated from the
+  bone marrow of a breast cancer patient. It metastasizes selectively to the brain
+  in athymic mice. Since the genomic rearrangements of only a few breast cancer cell
+  lines have been characterized completely, we analyzed MA11 cytogenetically. Because
+  the G-banding analysis revealed a very complex karyotype with several markers and
+  chromosomes with additional material of unknown origin, we used multicolor fluorescence
+  in situ hybridization M-FISH , cross-species color banding RxFISH , comparative
+  genomic hybridization CGH , and chromosome-specific probes to better characterize
+  the chromosome abnormalities. The use of these FISH-based screening techniques allowed
+  us to detect previously unsuspected chromosomal changes and determine the identity
+  of chromosomal markers. Multicolor FISH was especially useful to identify the rearranged
+  chromosomes, whereas RxFISH, G-banding, and CGH were instrumental in determining
+  breakpoint positions, although some uncertainties were removed only after hybridization
+  with chromosome-specific probes. The combined analysis revealed a near-triploid
+  karyotype with no less than 20 chromosomes demonstrating structural rearrangements.
+  The resulting imbalances included several of those known to be common in primary
+  breast carcinomas gain of 1q, 8q, and 20q and loss of 8p, 11q, and 13q , indicating
+  that the MA11 cell line may serve as a good model to study breast carcinogenesis.
+  The full cytogenetic characterization we present may guide future searches for the
+  mechanism of organ-selective metastasis in this model system and, possibly, also
+  in vivo.
+authors: Micci F, Teixeira MR and Heim S.
+contact:
+  email: sverre.heim@labmed.uio.no
+  name: Sverre Heim
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11734314
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 131, 1 (2001): 25-30.'
+label: 'Micci et al. (2001): Complete Cytogenetic Characterization of the Human Breast
+  Cancer Cell Line Ma11 Combining ...'
+notes: ~
+pmid: 11734314
+title: Complete Cytogenetic Characterization of the Human Breast Cancer Cell Line
+  Ma11 Combining G-Banding, Comparative Genomic Hybridization, Multicolor Fluorescence
+  in Situ Hybridization, Rxfish, and Chromosome-Specific Painting.
+year: 2001

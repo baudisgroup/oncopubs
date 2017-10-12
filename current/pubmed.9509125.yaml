@@ -1,0 +1,49 @@
+---
+abstract: 'Cytogenetic studies have demonstrated that oral squamous cell carcinomas
+  OSCCs are usually characterised by complex karyotypes with many marker chromosomes.
+  We analysed the genetic changes of six OSCC cell cultures by comparative genomic
+  hybridisation CGH . The CGH technique provides information on chromosomal gains
+  and losses of the whole tumour genome in a single experiment and can therefore identify
+  regions that harbour putative tumour suppressor genes in the case of loss of chromosomal
+  material or oncogenes in the case of gain or amplification of chromosomal material
+  . Recurrent losses were detected at chromosome arms Xp and 3p four cases . Gains
+  consistently occurred at chromosome arms 8q and 9q four cases and at 1q, 3q, 5p,
+  7p, and 9p three cases . The same six tumour cultures have previously been analysed
+  by classical karyotyping. An important discrepancy between the two techniques was
+  the number of losses detected: 55 with karyotyping versus 26 with CGH. On the basis
+  of the cytogenetic complexity of these tumours and on FISH experiments that confirmed
+  the CGH results, we conclude that genetic changes, particularly losses, can be more
+  reliably detected by CGH analysis.'
+authors: Hermsen MA, Joenje H, Arwert F, Braakhuis BJ, Baak JP, Westerveld A and Slater
+  R.
+contact:
+  email: mhermsen@hca.es
+  name: Mario A.J.A. Hermsen
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9509125
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Oral Oncol 33, 6 (1997): 414-18.'
+label: 'Hermsen et al. (1997): Assessment of Chromosomal Gains and Losses in Oral
+  Squamous Cell Carcinoma By Comparative Genomic ...'
+notes: ~
+pmid: 9509125
+title: Assessment of Chromosomal Gains and Losses in Oral Squamous Cell Carcinoma
+  By Comparative Genomic Hybridisation.
+year: 1997

@@ -1,0 +1,49 @@
+---
+abstract: Gastric carcinoma GC is one of the most common malignancies worldwide and
+  has a very poor prognosis. Genetic imbalances in 62 primary gastric adenocarcinomas
+  of various histopathologic types and pathologic stages and six gastric cancer-derived
+  cell lines were analyzed by comparative genomic hybridization, and the relationship
+  of genomic abnormalities to clinical features in primary GC was evaluated at a genome-wide
+  level. Eighty-four percent of the tumors and all six cell lines showed DNA copy
+  number changes. The recurrent chromosomal abnormalities including gains at 15 regions
+  and losses at 8 regions were identified. Statistical analyses revealed that gains
+  at 17q24-qter 53 , 20q13-qter 48 , 1p32-p36 42 , 22q12-qter 27 , 17p13-pter 24 ,
+  16p13-pter 21 , 6p21-pter 19 , 20p12-pter 19 , 7p21-pter 18 , 3q28-qter 8 , and
+  13q13-q14 8 , and losses at 18q12-qter 11 , 3p12 8 , 3p25-pter 8 , 5q14-q23 8 ,
+  and 9p21-p23 5 , are associated with unique patient or tumor-related features. GCs
+  of differing histopathologic features were shown to be associated with distinct
+  patterns of genetic alterations, supporting the notion that they evolve through
+  distinct genetic pathways. Metastatic tumors were also associated with specific
+  genetic changes. These regions may harbor candidate genes involved in the pathogenesis
+  of this malignancy.
+authors: Wu CW, Chen GD, Fann CS, Lee AF, Chi CW, Liu JM, Weier U and Chen JY.
+contact:
+  email: bmchen@ibms.sinica.edu.tw
+  name: Jeou-Yuan Chen
+counts:
+  biosamples: 62
+  samples_acgh: 0
+  samples_ccgh: 62
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12353264
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 35, 3 (2002): 219-31.'
+label: 'Wu et al. (2002): Clinical Implications of Chromosomal Abnormalities in Gastric
+  Adenocarcinomas.'
+notes: ~
+pmid: 12353264
+title: Clinical Implications of Chromosomal Abnormalities in Gastric Adenocarcinomas.
+year: 2002

@@ -1,0 +1,45 @@
+---
+abstract: Comparative genomic hybridization CGH was used to identify chromosomal imbalances
+  in 19 samples of squamous cell carcinoma of the head and neck HNSCC . The chromosome
+  arms most often over-represented were 3q 48 , 8q 42 , and 7p 32 in many cases, these
+  changes were observed at high copy number. Other commonly over-represented sites
+  were 1q, 2q, 6p, 6q, and 18q. The most frequently under-represented segments were
+  3p and 22q. Loss of heterozygosity of two polymorphic microsatellite loci from chromosome
+  22 was observed in two tongue tumors, in agreement with the CGH analysis. Gains
+  of 1q and 2q material were detected in patients exhibiting a clinical history of
+  recurrence and or metastasis followed by terminal disease. This association suggests
+  that gain of 1q and 2q may be a new marker of head and neck tumors with a refractory
+  clinical response.
+authors: Bergamo NA, Rogatto SR, Poli-Frederico RC, Reis PP, Kowalski LP, Zielenska
+  M and Squire JA.
+contact:
+  email: ~
+  name: NA Squire
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10812171
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: 'Cancer Genet Cytogenet 119, 1 (2000): 48-55.'
+label: 'Bergamo et al. (2000): Comparative Genomic Hybridization Analysis Detects
+  Frequent Over-Representation of DNA Sequences ...'
+notes: ~
+pmid: 10812171
+title: Comparative Genomic Hybridization Analysis Detects Frequent Over-Representation
+  of DNA Sequences At 3q, 7p, and 8q in Head and Neck Carcinomas.
+year: 2000

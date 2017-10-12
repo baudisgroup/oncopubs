@@ -1,0 +1,41 @@
+---
+abstract: A combination of molecular cytogenetic and expression array analysis has
+  been performed on head and neck squamous cell carcinoma HNSCC of the oral cavity
+  and supraglottis. These studies were performed to identify consensus regions of
+  chromosomal imbalance and structural rearrangement to determine whether genes located
+  in these genomic regions are subject to alterations in gene expression. Such combinatorial
+  studies may help to identify recurrent patterns of altered gene expression in the
+  context of specific chromosomal changes.
+authors: Squire JA, Bayani J, Luk C, Unwin L, Tokunaga J, MacMillan C, Irish J, Brown
+  D, Gullane P and Kamel-Reid S.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12211052
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Head Neck 24, 9 (2002): 874-87.'
+label: 'Squire et al. (2002): Molecular Cytogenetic Analysis of Head and Neck Squamous
+  Cell Carcinoma: By Comparative Genomic ...'
+notes: ~
+pmid: 12211052
+title: 'Molecular Cytogenetic Analysis of Head and Neck Squamous Cell Carcinoma: By
+  Comparative Genomic Hybridization, Spectral Karyotyping, and Expression Array Analysis.'
+year: 2002

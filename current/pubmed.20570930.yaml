@@ -1,0 +1,39 @@
+---
+abstract: As genome-scale technologies begin to unravel the complexity of the equivalent
+  tumors in adults, we can attempt detailed characterization of high-grade gliomas
+  in children, that have until recently been lacking. Toward this end, we sought to
+  validate and extend investigations of the differences between pediatric and adult
+  tumors.
+authors: Bax DA, Mackay A, Little SE, Carvalho D, Viana-Pereira M, Tamber N, Grigoriadis
+  AE, Ashworth A, Reis RM, Ellison DW, Al-Sarraj S, Hargrave D and Jones C.
+contact:
+  email: chris.jones@icr.ac.uk
+  name: Chris Jones
+counts:
+  biosamples: 63
+  samples_acgh: 63
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20570930
+- arrayexpress:E-TABM-857
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Clin Cancer Res 16, 13 (2010): 3368-77.'
+label: 'Bax et al. (2010): A Distinct Spectrum of Copy Number Aberrations in Pediatric
+  High-Grade Gliomas.'
+notes: ~
+pmid: 20570930
+title: A Distinct Spectrum of Copy Number Aberrations in Pediatric High-Grade Gliomas.
+year: 2010

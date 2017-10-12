@@ -1,0 +1,49 @@
+---
+abstract: 'We analyzed DNA sequence copy number aberrations DSCNAs in 17 primary oral
+  squamous cell carcinomas OSCCs by comparative genomic hybridization. DSCNAs were
+  detected frequently at 3q25-qter 7 17 , Xp21 5 17 , and Xq12-q23 and 8q23-q24 4
+  17 , and losses were detected frequently at 13q21-q22 5 17 , 3p21-pter, 4p15-pter
+  and 17p13 4 17 , and 8p22-pter and 9p21-pter 3 17 . Four tumors showed amplifications
+  of seven loci: 3q11-qter, 3q13, 3q26, 7q21-q22, 8q23-qter, 9p22-pter, and 12p11.
+  The total number of DSCNAs was significantly greater in stage III and stage IV tumors
+  than in stage I and stage II tumors P .008 . Furthermore, 3q gain was detected preferentially
+  in stage III and stage IV tumors 6 8 rather than in stage I and stage II tumors
+  1 9, P .013 . In our study, all tumors with gain of 3q also contained one or more
+  loss es in common regions. On the other hand, all tumors with gain of 9p did not
+  contain 3q gains. These observations indicate that gain of 3q and accumulation of
+  DSCNAs are strongly associated with tumor progression in OSCC. Furthermore, 3q gain
+  and loss of one or more additional loci in common aberration regions appears to
+  be a group of DSCNs associated with dominant genetic pathways of leading to advanced
+  OSCCs.'
+authors: Oga A, Kong G, Tae K, Lee Y and Sasaki K.
+contact:
+  email: oga@po.cc.yamaguchi-u.ac.jp
+  name: Atsunori Oga
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11408060
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 127, 1 (2001): 24-29.'
+label: 'Oga et al. (2001): Comparative Genomic Hybridization Analysis Reveals 3q Gain
+  Resulting in Genetic Alteration in 3q in ...'
+notes: ~
+pmid: 11408060
+title: Comparative Genomic Hybridization Analysis Reveals 3q Gain Resulting in Genetic
+  Alteration in 3q in Advanced Oral Squamous Cell Carcinoma.
+year: 2001

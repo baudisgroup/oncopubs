@@ -1,0 +1,55 @@
+---
+abstract: 'Single-cell polymerase chain reaction PCR has been used as a tool to demonstrate
+  clonality and B-cell origin of Reed-Sternberg RS cells in Hodgkin disease HD . An
+  analogous approach was used to investigate genomic imbalances in a cyto genetically
+  poorly characterized subentity: lymphocyte predominance Hodgkin disease LPHD . Nineteen
+  cases of LPHD were selected for a comparative genomic hybridization CGH study. CGH
+  was performed with degenerate oligonucleotide primed-PCR DOP-PCR -amplified DNA
+  from 4-5 microdissected CD20 malignant cells. All analyzed cases revealed a high
+  number of genomic imbalances average 10.8 per case , involving all chromosomes but
+  the excluded 19, 22, and Y, indicating a high complexity of LPHD. The majority of
+  detected aberrations were recurrent. Gain of 1, 2q, 3, 4q, 5q, 6, 8q, 11q, 12q,
+  and X, and loss of chromosome 17 were identified in 36.8 to 68.4 of the analyzed
+  cases. Some of them have also been found in non-Hodgkin lymphoma NHL , and possibly
+  represent secondary changes associated with disease progression. Gain of 2q, 4q,
+  5q, 6, 11q, however, are much more rarely observed in NHL and could be more specifically
+  associated with LPHD. Particularly interesting is a frequent overrepresentation
+  of chromosome arm 6q, a region usually deleted in NHL. Rearrangement of the BCL6
+  gene 3q27 demonstrated by cytogenetics and fluorescence in situ hybridization in
+  2 cases in this study suggests its contribution in pathogenesis of LPHD. In conclusion,
+  the data show a consistent occurrence of genomic alterations in LPHD and highlight
+  genomic regions that might be relevant for development and or progression of this
+  lymphoma entity.'
+authors: Franke S, Wlodarska I, Maes B, Vandenberghe P, Delabie J, Hagemeijer A and
+  De Wolf-Peeters C.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11238128
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: 'Blood 97, 6 (2001): 1845-53.'
+label: 'Franke et al. (2001): Lymphocyte Predominance Hodgkin Disease is Characterized
+  By Recurrent Genomic Imbalances.'
+notes: ~
+pmid: 11238128
+title: Lymphocyte Predominance Hodgkin Disease is Characterized By Recurrent Genomic
+  Imbalances.
+year: 2001

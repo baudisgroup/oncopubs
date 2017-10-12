@@ -1,0 +1,52 @@
+---
+abstract: Malignant fibrous histiocytoma MFH of bone is a rare, highly malignant tumour.
+  As very little is known about its genetic alterations, 26 bone MFHs were analysed
+  by comparative genomic hybridisation CGH . Twenty-three tumours 89 had DNA sequence
+  copy number changes mean, 7.2 changes per sample . Gains were more frequent than
+  losses gains:losses 2.5:1 . Minimal common regions for the most frequent gains were
+  8q21.3-qter 35 , 9q32-qter 35 , 7q22-q31 35 , 1q21-q23 31 , 7p12-pter 31 , 7cen-q11.2
+  31 and 15q21 31 . Minimal common regions for the most frequent losses were 13q21-q22
+  42 and 18q12-q22 27 . High-level amplifications were detected in 8 out of the 26
+  tumours 31 . The only recurrent amplifications, 1q21-q23 and 8q21.2-q22, were present
+  in two samples 8 . As copy number increase at 8q24 the locus of C-MYC was frequent,
+  the expression of C-MYC was studied by immunohistochemistry. Increased levels of
+  c-myc protein were detected in 7 out of 21 tumours studied 33 . 81 of the samples
+  studied both by CGH and immunohistochemistry showed concordant results. Furthermore,
+  the findings of the present study were compared to previous publications on osteosarcoma,
+  soft tissue MFH and fibrosarcoma of bone. Clear differences were detected in CGH
+  aberration patterns, further supporting the concept of bone MFH as an individual
+  bone tumour entity. Finally, the findings of the present study reflect well the
+  high malignancy and aggressive nature of bone MFH.
+authors: Tarkkanen M, Larramendy ML, Bohling T, Serra M, Hattinger CM, Kivioja A,
+  Elomaa I, Picci P and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16630715
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Eur J Cancer 42, 8 (2006): 1172-80.'
+label: 'Tarkkanen et al. (2006): Malignant Fibrous Histiocytoma of Bone: Analysis
+  of Genomic Imbalances By Comparative Genomic ...'
+notes: ~
+pmid: 16630715
+title: 'Malignant Fibrous Histiocytoma of Bone: Analysis of Genomic Imbalances By
+  Comparative Genomic Hybridisation and C-Myc Expression By Immunohistochemistry.'
+year: 2006

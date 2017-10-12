@@ -1,0 +1,36 @@
+---
+abstract: To investigate the pathologic, clinical, and genetic features of renal medullary
+  carcinomas RMCs in search of clues to their pathogenesis.
+authors: Swartz MA, Karth J, Schneider DT, Rodriguez R, Beckwith JB and Perlman EJ.
+contact:
+  email: eperlman@childrensmemorial.org
+  name: Elizabeth J. Perlman
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12475675
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.61
+    - 39.29
+    type: Point
+  info:
+    city: Baltimore
+    continent: North America
+    country: United States
+    label: Baltimore, United States, North America
+    precision: city
+journal: 'Urology 60, 6 (2002): 1083-89.'
+label: 'Swartz et al. (2002): Renal Medullary Carcinoma: Clinical, Pathologic, Immunohistochemical,
+  and Genetic Analysis With ...'
+notes: CGH results were inferred from the text (no change in 8 cases, 1 case loss
+  of chromosome 22). No match to the clinical data was possible.
+pmid: 12475675
+title: 'Renal Medullary Carcinoma: Clinical, Pathologic, Immunohistochemical, and
+  Genetic Analysis With Pathogenetic Implications.'
+year: 2002

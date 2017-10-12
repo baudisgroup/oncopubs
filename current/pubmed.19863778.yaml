@@ -1,0 +1,39 @@
+---
+abstract: The active form of Vitamin D, 1,25-dihydroxyvitamin D3 1,25D , has strong
+  anti-proliferative effects, yet the molecular mechanisms underneath this effect
+  remain unclear. In contrast, the molecular mechanism of 1,25D for the regulation
+  of calcium homeostasis has principally been resolved, demonstrating a pivotal role
+  for the vitamin D receptor VDR .
+authors: Costa JL, Eijk PP, van de Wiel MA, ten Berge D, Schmitt F, Narvaez CJ, Welsh
+  J and Ylstra B.
+contact:
+  email: jcosta@ipatimup.pt
+  name: J. L. Costa
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19863778
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'BMC Genomics 10 (2009): 499.'
+label: 'Costa et al. (2009): Anti-Proliferative Action of Vitamin D in Mcf7 is Still
+  Active After Sirna-Vdr Knock-Down.'
+notes: ~
+pmid: 19863778
+title: Anti-Proliferative Action of Vitamin D in Mcf7 is Still Active After Sirna-Vdr
+  Knock-Down.
+year: 2009

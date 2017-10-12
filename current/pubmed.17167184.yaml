@@ -1,0 +1,37 @@
+---
+abstract: Testicular germ cell tumors of adolescent and young adult men TGCTs generally
+  have near triploid and complex karyotypes. The actual genes driving the tumorigenesis
+  remain essentially to be identified.
+authors: Skotheim RI, Autio R, Lind GE, Kraggerud SM, Andrews PW, Monni O, Kallioniemi
+  O and Lothe RA.
+contact:
+  email: ragnhild.a.lothe@rr-research.no
+  name: Ragnhild Lothe
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17167184
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Cell Oncol 28, 5-6 (2006): 315-26.'
+label: 'Skotheim et al. (2006): Novel Genomic Aberrations in Testicular Germ Cell
+  Tumors By Array-Cgh, and Associated Gene ...'
+notes: Expression data is available through GEO (GSE1818).
+pmid: 17167184
+title: Novel Genomic Aberrations in Testicular Germ Cell Tumors By Array-Cgh, and
+  Associated Gene Expression Changes.
+year: 2006

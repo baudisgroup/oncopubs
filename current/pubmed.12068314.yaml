@@ -1,0 +1,50 @@
+---
+abstract: Gastric signet-ring cell carcinoma comprises a distinct category of gastric
+  cancers and has been reported to have poor prognosis. In an attempt to define genetic
+  changes involved in the pathogenesis of this lesion in an in vivo state, we isolated
+  signet-ring cell carcinoma cells from freshly fixed smears of tumor tissues of 7
+  primary gastric signet-ring cell carcinomas by laser capture microdissection and
+  applied comparative genomic hybridization CGH to screen for DNA sequence copy number
+  changes. Frequent chromosomal gains were detected on 2q, 5p, 7q, 14q and 20q, each
+  in 6 7 cases, on 9q, 12q, 17q, and 19q, each in 5 7 cases, and on 18p in 4 7 cases.
+  Frequent losses were observed on 6p and 17p, each in 5 7 cases, on 6q, and 21p,
+  each in 4 7 cases, and on 3p, 8p and 8q, each in 3 7 cases. Losses on 6p have rarely
+  been observed in conventional types of gastric carcinomas reported in the literature.
+  These data provide the first evidence for the occurrence of specific genomic aberrations
+  in gastric signet-ring cell carcinomas. Our observation of frequent losses on 6p
+  chromosomal arm may provide novel abnormalities of potential significance in gastric
+  signet-ring cell carcinomas, suggesting the involvement of genes residing in this
+  region in the genesis of the disease.
+authors: Kurihara Y, Ghazizadeh M, Bo H, Shimizu H, Kawanami O, Moriyama Y and Onda
+  M.
+contact:
+  email: ~
+  name: Y. Kurihara et al.
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12068314
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'J Nihon Med Sch 69, 3 (2002): 235-42.'
+label: 'Kurihara et al. (2002): Genome-Wide Screening of Laser Capture Microdissected
+  Gastric Signet-Ring Cell ...'
+notes: ~
+pmid: 12068314
+title: Genome-Wide Screening of Laser Capture Microdissected Gastric Signet-Ring Cell
+  Carcinomas.
+year: 2002

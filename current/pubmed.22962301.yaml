@@ -1,0 +1,53 @@
+---
+abstract: Germline mutations in the RET, SDHA, SDHAF2, SDHB, SDHC, SDHD, MAX, TMEM127,
+  NF1 or VHL genes are identified in about 30% of patients with pheochromocytoma or
+  paraganglioma and somatic mutations in RET, VHL or MAX genes are reported in 17%
+  of sporadic tumors. In the present study, using mutation screening of the NF1 gene,
+  mapping of chromosome aberrations by single nucleotide polymorphism (SNP) array,
+  microarray-based expression profiling and immunohistochemistry (IHC), we addressed
+  the implication of NF1 somatic alterations in pheochromocytomas and paragangliomas.
+  We studied 53 sporadic tumors, selected because of their classification with RET/NF1/TMEM127-related
+  tumors by genome wide expression studies, as well as a second set of 11 independent
+  tumors selected on their low individual levels of NF1 expression evaluated by microarray.
+  Direct sequencing of the NF1 gene in tumor DNA identified the presence of an inactivating
+  NF1 somatic mutation in 41% (25/61) of analyzed sporadic tumors, associated with
+  loss of the wild-type allele in 84% (21/25) of cases. Gene expression signature
+  of NF1-related tumors highlighted the downregulation of NF1 and the major overexpression
+  of SOX9. Among the second set of 11 tumors, two sporadic tumors carried somatic
+  mutations in NF1 as well as in another susceptibility gene. These new findings suggest
+  that NF1 loss of function is a frequent event in the tumorigenesis of sporadic pheochromocytoma
+  and strengthen the new concept of molecular-based targeted therapy for pheochromocytoma
+  or paraganglioma.
+authors: Burnichon N, Buffet A, Parfait B, Letouzï¿½ E, Laurendeau I, Loriot C, Pasmant
+  E, Abermil N, Valeyrie-Allanore L, Bertherat J, Amar L, Vidaud D, Favier J, Gimenez-Roqueplo
+  AP.
+contact:
+  email: nelly.burnichon@inserm.fr
+  name: Nelly Burnichon
+counts:
+  biosamples: 78
+  samples_acgh: 78
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22962301
+- geo:GSE38525
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Hum. Mol. Genet. 21(26), 2012
+label: ' (2012): '
+notes: ~
+pmid: 22962301
+title: Somatic NF1 inactivation is a frequent event in sporadic pheochromocytoma.
+year: 2012

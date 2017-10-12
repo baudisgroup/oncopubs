@@ -1,0 +1,49 @@
+---
+abstract: Using comparative genomic hybridisation, we have analysed genetic imbalance
+  in a series of 86 ependymomas from children and adults. Tumours were derived from
+  intracranial and spinal sites, and classified histologically as classic, anaplastic
+  or myxopapillary. Ependymomas showing a balanced profile were significantly P amp
+  lt 0.0005 more frequent in children than adults. Profiles suggesting intermediate
+  ploidy were common 44 of all tumours , and found more often P amp lt 0.0005 in tumours
+  from adults and the spinal region. Loss of 22q was the most common specific abnormality,
+  occurring in 50 of spinal medullary ependymomas and 26 of tumours overall. Genetic
+  profiles combining loss of 22q with other specific abnormalities--gain of 1q, loss
+  of 6q, loss of 10q 10, loss of 13, loss of 14q 14--varied according to site and
+  histology. In particular, we showed that classic ependymomas from within the cranium
+  and spine have distinct genetic profiles. Classic and anaplastic ependymomas with
+  gain of 1q tended to occur in the posterior fossa of children and to behave aggressively.
+  Our extensive data on ependymomas demonstrate significant associations between genetic
+  aberrations and clinicopathological variables, and represent a starting point for
+  further biological and clinical studies.
+authors: Carter M, Nicholson J, Ross F, Crolla J, Allibone R, Balaji V, Perry R, Walker
+  D, Gilbertson R and Ellison DW.
+contact:
+  email: D.W.Ellison@ncl.ac.uk
+  name: David W. Ellison
+counts:
+  biosamples: 86
+  samples_acgh: 0
+  samples_ccgh: 86
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11953826
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.4
+    - 50.9
+    type: Point
+  info:
+    city: Southampton
+    continent: Europe
+    country: United Kingdom
+    label: Southampton, United Kingdom, Europe
+    precision: city
+journal: 'Br J Cancer 86, 6 (2002): 929-39.'
+label: 'Carter et al. (2002): Genetic Abnormalities Detected in Ependymomas By Comparative
+  Genomic Hybridisation.'
+notes: ~
+pmid: 11953826
+title: Genetic Abnormalities Detected in Ependymomas By Comparative Genomic Hybridisation.
+year: 2002

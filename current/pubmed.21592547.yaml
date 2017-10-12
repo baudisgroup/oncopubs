@@ -1,0 +1,45 @@
+---
+abstract: Simultaneous independent primary tumors of the female genital tract occur
+  in 1-2 of gynecological cancer patients, 50-70 of which are synchronous tumors of
+  the endometrium and ovary. Guidelines for determining the nature of simultaneously
+  detected tumors, based on surgical and histopathological findings, are often ambiguous
+  and may require further molecular analyses. Such approach is necessary to indicate
+  correct prognosis and hence treatment. We here demonstrate how mitochondrial DNA
+  sequencing may provide a cheap and useful tool to contribute to indisputably recognize
+  the synchronous nature of simultaneously detected endometrial and ovarian carcinomas.
+  We further confirm our findings by means of Comparative Genomic Hybridization array
+  analysis, which strengthens the informative potential of mitochondrial DNA genotyping
+  in diagnosing synchrony.
+authors: Guerra F, Kurelac I, Magini P, Cormio A, Santini D, Ceccarelli C and Gasparre
+  G.
+contact:
+  email: ~
+  name: Giuseppe Gasparre
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21592547
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: Europe
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: 'Gynecol Oncol 122, 2 (2011): 457-58.'
+label: 'Guerra et al. (2011): Mitochondrial DNA Genotyping Reveals Synchronous Nature
+  of Simultaneously Detected Endometrial and ...'
+notes: ~
+pmid: 21592547
+title: Mitochondrial DNA Genotyping Reveals Synchronous Nature of Simultaneously Detected
+  Endometrial and Ovarian Cancers.
+year: 2011

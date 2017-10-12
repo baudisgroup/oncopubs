@@ -1,0 +1,44 @@
+---
+abstract: Comparative genomic hybridization was applied to 5 breast cancer cell lines
+  and 33 primary tumors to discover and map regions of the genome with increased DNA-sequence
+  copy-number. Two-thirds of primary tumors and almost all cell lines showed increased
+  DNA-sequence copy-number affecting a total of 26 chromosomal subregions. Most of
+  these loci were distinct from those of currently known amplified genes in breast
+  cancer, with sequences originating from 17q22-q24 and 20q13 showing the highest
+  frequency of amplification. The results indicate that these chromosomal regions
+  may contain previously unknown genes whose increased expression contributes to breast
+  cancer progression. Chromosomal regions with increased copy-number often spanned
+  tens of Mb, suggesting involvement of more than one gene in each region.
+authors: Kallioniemi A, Kallioniemi OP, Piper J, Tanner M, Stokke T, Chen L, Smith
+  HS, Pinkel D, Gray JW and Waldman FM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8134364
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Proc Natl Acad Sci U S A 91, 6 (1994): 2156-60.'
+label: 'Kallioniemi et al. (1994): Detection and Mapping of Amplified DNA Sequences
+  in Breast Cancer By Comparative Genomic ...'
+notes: In this early CGH article, only gains were described.
+pmid: 8134364
+title: Detection and Mapping of Amplified DNA Sequences in Breast Cancer By Comparative
+  Genomic Hybridization.
+year: 1994

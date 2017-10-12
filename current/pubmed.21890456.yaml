@@ -1,0 +1,35 @@
+---
+abstract: To further our understanding of the biology and prognostic significance
+  of various chromosomal 13q14 deletions in chronic lymphocytic leukemia CLL .
+authors: Ouillette P, Collins R, Shakhan S, Li J, Li C, Shedden K and Malek SN.
+contact:
+  email: smalek@med.umich.edu
+  name: Sami Malek
+counts:
+  biosamples: 255
+  samples_acgh: 255
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21890456
+geo_data:
+  geo_json:
+    coordinates:
+    - -83.74
+    - 42.28
+    type: Point
+  info:
+    city: Ann Arbor
+    continent: North America
+    country: United States
+    label: Ann Arbor, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 17, 21 (2011): 6778-90.'
+label: 'Ouillette et al. (2011): The Prognostic Significance of Various 13q14 Deletions
+  in Chronic Lymphocytic ...'
+notes: ~
+pmid: 21890456
+title: The Prognostic Significance of Various 13q14 Deletions in Chronic Lymphocytic
+  Leukemia.
+year: 2011

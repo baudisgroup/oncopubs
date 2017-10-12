@@ -1,0 +1,55 @@
+---
+abstract: The evolution of somatic genetic aberrations in breast cancer has remained
+  poorly understood. The most common chromosomal abnormality is hyperdiploidy, which
+  is thought to arise via a transient hypodiploid state. However, hypodiploidy persists
+  in 1 to 2 of breast tumors, which are characterized by a poor prognosis. We studied
+  the genetic aberrations in 15 flow cytometrically hypodiploid breast cancers by
+  comparative genomic hybridization CGH and fluorescence in situ hybridization FISH
+  . Surprisingly, numerous copy number gains were detected in addition to the copy
+  number losses. The number of gains per tumor was 4.3 - 3.2 and that of losses was
+  4.5 - 3.3 mean - SD , which is similar to that previously observed in hyperdiploid
+  breast cancers. Gains at chromosomes or chromosomal regions at 11q13, 1q, 19, and
+  16p and losses of 2q, 4, 6q, 9p, 13, and 18 were most commonly observed. Compared
+  with unselected breast carcinomas, hypodiploid tumors showed certain differences.
+  Loss of chromosome 4 53 and gain of 11q13 60 were significantly more common in hypodiploid
+  tumors. The gain at 11q13 was found by FISH to harbor amplification of the Cyclin
+  D1 oncogene, which is therefore three to four times more common in hypodiploid than
+  in unselected breast cancers 15 to 20 . Structural chromosomal aberrations such
+  as Cyclin D1 amplification were present both in diploid and hypodiploid tumor cell
+  populations, as assessed by FISH and CGH after flow cytometric sorting. Together
+  these results indicate that hypodiploid tumors form a distinct genetic entity of
+  invasive breast cancer, although they probably share a common genetic evolution
+  pathway where structural chromosomal aberrations precede gross DNA ploidy changes.
+authors: Tanner MM, Karhu RA, Nupponen NN, Borg A, Baldetorp B, Pejovic T, Ferno M,
+  Killander D and Isola JJ.
+contact:
+  email: jorma.isola@uta.fi
+  name: Jorma Isola
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9665480
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Am J Pathol 153, 1 (1998): 191-99.'
+label: 'Tanner et al. (1998): Genetic Aberrations in Hypodiploid Breast Cancer: Frequent
+  Loss of Chromosome 4 and Amplification ...'
+notes: ~
+pmid: 9665480
+title: 'Genetic Aberrations in Hypodiploid Breast Cancer: Frequent Loss of Chromosome
+  4 and Amplification of Cyclin D1 Oncogene.'
+year: 1998

@@ -1,0 +1,54 @@
+---
+abstract: Increased production of Th2 cytokines characterizes Sezary syndrome, the
+  leukemic form of cutaneous T-cell lymphomas (CTCL). To identify the molecular background
+  and to study whether shared by the most common CTCL subtype, mycosis fungoides,
+  we analyzed the gene expression profiles in both subtypes.  Freshly isolated cells
+  from 30 samples, representing skin, blood, and enriched CD4(+) cell populations
+  of mycosis fungoides and Sezary syndrome, were analyzed with Affymetrix (Santa Clara,
+  CA) oligonucleotide microarrays, quantitative PCR, or immunohistochemistry. The
+  gene expression profiles were combined with findings of comparative genomic hybridization
+  of the same samples to identify chromosomal changes affecting the aberrant gene
+  expression.  We identified a set of Th1-specific genes [e.g., TBX21 (T-bet), NKG7,
+  and SCYA5 (RANTES)] to be down-regulated in Sezary syndrome as well as in a proportion
+  of mycosis fungoides samples. In both Sezary syndrome and mycosis fungoides blood
+  samples, the S100P and LIR9 gene expression was up-regulated. In lesional skin,
+  IL7R and CD52 were up-regulated. Integration of comparative genomic hybridization
+  and transcriptomic data identified chromosome arms 1q, 3p, 3q, 4q, 12q, 16p, and
+  16q as likely targets for new CTCL-associated gene aberrations.  Our findings revealed
+  several new genes involved in CTCL pathogenesis and potential therapeutic targets.
+  Down-regulation of a set of genes involved in Th1 polarization, including the major
+  Th1-polarizing factor, TBX21, was for the first time associated with CTCL. In addition,
+  a plausible explanation for the proliferative response of CTCL cells to locally
+  produced interleukin-7 was revealed.
+authors: Hahtola S, Tuomela S, Elo L, Hï¿½kkinen T, Karenko L, Nedoszytko B, Heikkilï¿½
+  H, Saarialho-Kere U, Roszkiewicz J, Aittokallio T, Lahesmaa R and Ranki A
+contact:
+  email: Annamari.Ranki@hus.fi
+  name: Annamari Ranki
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16914566
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Clin. Cancer Res. 12(16), 2006
+label: 'Hahtola S et al. (2006): '
+notes: ~
+pmid: 16914566
+title: Th1 response and cytotoxicity genes are down-regulated in cutaneous T-cell
+  lymphoma.
+year: 2006

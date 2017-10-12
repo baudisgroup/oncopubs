@@ -1,0 +1,37 @@
+---
+abstract: The reported incidence of peripheral blood involvement in patients with
+  mantle cell lymphoma MCL ranges from 13 to 77 . The aim of the study was to analyze
+  the prevalence and the biologic and clinical significance of leukemic involvement
+  in a series of patients with MCL.
+authors: Ferrer A, Salaverria I, Bosch F, Villamor N, Rozman M, Bea S, Gine E, Lopez-Guillermo
+  A, Campo E and Montserrat E.
+contact:
+  email: ISALAVER@clinic.ub.es
+  name: Itziar Salaverria
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17477385
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Cancer 109, 12 (2007): 2473-80.'
+label: 'Ferrer et al. (2007): Leukemic Involvement is a Common Feature in Mantle Cell
+  Lymphoma.'
+notes: ~
+pmid: 17477385
+title: Leukemic Involvement is a Common Feature in Mantle Cell Lymphoma.
+year: 2007

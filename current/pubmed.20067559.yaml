@@ -1,0 +1,52 @@
+---
+abstract: Metaphase M- and array A- Comparative Genomic Hybridization CGH were used
+  to investigate 40 cases of T- and 32 of B-cell acute lymphoblastic leukaemia ALL
+  with normal failed cytogenetics. M-CGH was performed in all cases and A-CGH in 10
+  12 T-ALL cases with uncertain normal M-CGH results. M-CGH was abnormal in 38 72
+  cases, with a total of 110 imbalances 60 gains, 50 losses . 25 40 patients with
+  T-ALL 62.5 showed 77 imbalances, with at least 1 genomic imbalance and a mean of
+  3 aberrations patient range 1-12 . 13 32 patients with B-ALL 40.6 presented 34 imbalances,
+  with a mean of 2.6 imbalances range 1-8 . A-CGH detected 4 more T-ALL cases with
+  genomic imbalances. A-CGH identified NF1 17q11.2 deletion and interphase fluorescence
+  in situ hybridization provided a 10.8 estimated overall incidence of NF1 17q11.2
+  deletion in T-ALL. In all but one case 6 7 with NF1 deletion, denaturing high-performance
+  liquid chromatography and direct sequencing detected NOTCH1 gene mutations. Three
+  or more imbalances in CGH-positive cases were significantly associated with resistance
+  to treatment and death during or after induction therapy. We suggest that the work-up
+  for ALL at diagnosis should include CGH investigations, particularly when cytogenetics
+  is uninformative, because they may provide potentially valuable information with
+  prognostic and therapeutic implications.
+authors: Matteucci C, Barba G, Varasano E, Vitale A, Mancini M, Testoni N, Cuneo A,
+  Rege-Cambrin G, Elia L, La Starza R, Pierini V, Brandimarte L, Vignetti M, Foa R
+  and Mecucci C.
+contact:
+  email: crimecux@unipg.it
+  name: Cristina Mecucci
+counts:
+  biosamples: 72
+  samples_acgh: 12
+  samples_ccgh: 72
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20067559
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.39
+    - 43.11
+    type: Point
+  info:
+    city: Perugia
+    continent: Europe
+    country: Italy
+    label: Perugia, Italy, Europe
+    precision: city
+journal: 'Br J Haematol 149, 1 (2010): 70-78.'
+label: 'Matteucci et al. (2010): Rescue of Genomic Information in Adult Acute Lymphoblastic
+  Leukaemia (All) With Normal/Failed ...'
+notes: ~
+pmid: 20067559
+title: 'Rescue of Genomic Information in Adult Acute Lymphoblastic Leukaemia (All)
+  With Normal/Failed Cytogenetics: A Gimema Centralized Biological Study.'
+year: 2010

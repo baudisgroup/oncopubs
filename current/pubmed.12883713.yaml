@@ -1,0 +1,49 @@
+---
+abstract: 'DNA copy number changes were analyzed by comparative genomic hybridization
+  CGH in 53 esophageal squamous cell carcinomas ESCC to clarify the relationship between
+  DNA sequence copy number aberrations and clinicopathological factors. Changes in
+  DNA copy number were observed in all 53 ESCC patients. The average number of DNA
+  copy number gains was 9.32 range 1-23 , most frequently located on chromosomes 3q,
+  5p, 8q, 11q and Xq in over 40 of tumors. Loss of DNA copy number was detected on
+  3p, 5q, 4p, 1p and Xp in over 20 of tumors. No statistically significant differences
+  in the frequency of DNA copy number changes were observed. However, some loci showed
+  correlation with clinicopathologic factors: 8q gain correlated with the pattern
+  of tumor infiltration, 3q gain correlated with pT, 2p gain, 1p loss and 16p loss
+  correlated with lymphatic invasion, and 3q gain correlated with clinical stage.
+  Thus, in ESCC, gain of 3q is the only specific recurrent pattern of DNA aberration
+  that correlates with clinicopathologic parameters, although no particular loci correlated
+  with patient prognosis. Further CGH analysis may reveal new, recurrent genetic changes
+  in ESCC affecting chromosomes sites that harbor genes known to participate in tumorigenesis
+  and progression of several human malignant neoplasms.'
+authors: Noguchi T, Kimura Y, Takeno S, Chujo M, Uchida Y, Mueller W and Gabbert HE.
+contact:
+  email: tnoguc@oita-med.ac.jp
+  name: T. Nogushi
+counts:
+  biosamples: 53
+  samples_acgh: 0
+  samples_ccgh: 53
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12883713
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: Asia
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: 'Oncol Rep 10, 5 (2003): 1393-400.'
+label: 'Noguchi et al. (2003): Chromosomal Imbalance in Esophageal Squamous Cell Carcinoma:
+  3q Gain Correlates With Tumor ...'
+notes: ~
+pmid: 12883713
+title: 'Chromosomal Imbalance in Esophageal Squamous Cell Carcinoma: 3q Gain Correlates
+  With Tumor Progression But Not Prognostic Significance.'
+year: 2003

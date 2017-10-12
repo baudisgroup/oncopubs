@@ -1,0 +1,40 @@
+---
+abstract: Gastric cancer is one of the most frequent malignancies in the world, ranking
+  fifth in the Netherlands as a cause of cancer death. Surgery is the only curative
+  treatment for advanced cases, but results of gastrectomy largely depend on the stage
+  of the disease. A better understanding of the mechanisms of progression from a preneoplastic
+  condition through intraepithelial neoplasia to invasive cancer may provide information
+  relevant to designing focused prevention strategies.
+authors: Weiss MM, Kuipers EJ, Postma C, Snijders AM, Stolte M, Vieth M, Pinkel D,
+  Meuwissen SG, Albertson D and Meijer GA.
+contact:
+  email: ~
+  name: G. A. Meijer
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14514924
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Mol Pathol 56, 5 (2003): 293-98.'
+label: 'Weiss et al. (2003): Genome Wide Array Comparative Genomic Hybridisation Analysis
+  of Premalignant Lesions of the ...'
+notes: ~
+pmid: 14514924
+title: Genome Wide Array Comparative Genomic Hybridisation Analysis of Premalignant
+  Lesions of the Stomach.
+year: 2003

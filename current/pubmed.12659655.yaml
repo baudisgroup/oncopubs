@@ -1,0 +1,40 @@
+---
+abstract: Uterine cervix carcinoma is the second most common female malignancy worldwide
+  and a major health problem in Mexico, representing the primary cause of death among
+  the Mexican female population. High risk human papillomavirus HPV infection is considered
+  to be the most important risk factor for the development of this tumor and cervical
+  carcinoma derived cell lines are very useful models for the study of viral carcinogenesis.
+  Comparative Genomic Hybridization CGH experiments have detected a specific pattern
+  of chromosomal imbalances during cervical cancer progression, indicating chromosomal
+  regions that might contain genes that are important for cervical transformation.
+authors: Hidalgo A, Monroy A, Arana RM, Taja L, Vazquez G and Salcedo M.
+contact:
+  email: alfhm@yahoo.com
+  name: Alfredo Hidalgo
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12659655
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: North America
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: 'BMC Cancer 3 (2003): 8.'
+label: 'Hidalgo et al. (2003): Chromosomal Imbalances in Four New Uterine Cervix Carcinoma
+  Derived Cell Lines.'
+notes: ~
+pmid: 12659655
+title: Chromosomal Imbalances in Four New Uterine Cervix Carcinoma Derived Cell Lines.
+year: 2003

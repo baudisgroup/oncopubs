@@ -1,0 +1,53 @@
+---
+abstract: 'We report the use of spectral karyotyping SKY and comparative genomic hybridization
+  CGH to describe the numerous genomic imbalances characteristic of stage IV clear
+  cell renal cell carcinoma CCRCC . SKY and CGH were performed on 10 cell lines established
+  from nephrectomy specimens, and CGH on uncultured material from five of the primary
+  renal tumors. The mutational status of VHL 3p25 and MET 7q31 , genes implicated
+  in renal carcinogenesis, were determined for each case. Each case showed marked
+  aneuploidy, with an average number of copy alterations of 14.6 -2.7 in the primary
+  tumors and 19.3 -4.6 in the cell lines. Both whole-chromosome and chromosome-segment
+  imbalances were noted by CGH: consistent losses or gains included 5q23-- amp gt
+  ter 100 , -3p14-- amp gt ter 80 , and 7 70 . All VHL mutations and 83 of the genomic
+  imbalances found in the primary tumors were also found in the cell lines derived
+  from them. SKY showed many complex structural rearrangements that were undetected
+  by conventional banding analysis in these solid tumors. All cases with VHL inactivation
+  had 3p loss and 5q gain related primarily to unbalanced translocations between 3p
+  and 5q. In contrast, gains of chromosome 7 resulted primarily from whole-chromosome
+  gains and were not associated with mutations of MET. SKY and CGH demonstrated that
+  genomic imbalances in advanced RCC were the result of either segregation errors
+  i.e., whole chromosomal gains and losses 7.8 case or chromosomal rearrangements
+  10.7 case , of which the majority were unbalanced translocations.'
+authors: Pavlovich CP, Padilla-Nash H, Wangsa D, Nickerson ML, Matrosova V, Linehan
+  WM, Ried T and Phillips JL.
+contact:
+  email: phillipj@mail.nih.gov
+  name: John L. Phillips
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12759923
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 37, 3 (2003): 252-60.'
+label: 'Pavlovich et al. (2003): Patterns of Aneuploidy in Stage Iv Clear Cell Renal
+  Cell Carcinoma Revealed By Comparative ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 12759923
+title: Patterns of Aneuploidy in Stage Iv Clear Cell Renal Cell Carcinoma Revealed
+  By Comparative Genomic Hybridization and Spectral Karyotyping.
+year: 2003

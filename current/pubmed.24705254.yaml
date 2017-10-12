@@ -1,0 +1,57 @@
+---
+abstract: Diffuse intrinsic pontine glioma DIPG is a fatal brain cancer that arises
+  in the brainstem of children, with no effective treatment and near 100 fatality.
+  The failure of most therapies can be attributed to the delicate location of these
+  tumors and to the selection of therapies on the basis of assumptions that DIPGs
+  are molecularly similar to adult disease. Recent studies have unraveled the unique
+  genetic makeup of this brain cancer, with nearly 80 found to harbor a p.Lys27Met
+  histone H3.3 or p.Lys27Met histone H3.1 alteration. However, DIPGs are still thought
+  of as one disease, with limited understanding of the genetic drivers of these tumors.
+  To understand what drives DIPGs, we integrated whole-genome sequencing with methylation,
+  expression and copy number profiling, discovering that DIPGs comprise three molecularly
+  distinct subgroups H3-K27M, silent and MYCN and uncovering a new recurrent activating
+  mutation affecting the activin receptor gene ACVR1 in 20 of DIPGs. Mutations in
+  ACVR1 were constitutively activating, leading to SMAD phosphorylation and increased
+  expression of the downstream activin signaling targets ID1 and ID2. Our results
+  highlight distinct molecular subgroups and novel therapeutic targets for this incurable
+  pediatric cancer.
+authors: Buczkowicz P, Hoeman C, Rakopoulos P, Pajovic S, Letourneau L, Dzamba M,
+  Morrison A, Lewis P, Bouffet E, Bartels U, Zuccaro J, Agnihotri S, Ryall S, Barszczyk
+  M, Chornenkyy Y, Bourgey M, Bourque G, Montpetit A, Cordero F, Castelo-Branco P,
+  Mangerel J, Tabori U, Ho KC, Huang A, Taylor KR, Mackay A, Bendel AE, Nazarian J,
+  Fangusaro JR, Karajannis MA, Zagzag D, Foreman NK, Donson A, Hegert JV, Smith A,
+  Chan J, Lafay-Cousin L, Dunn S, Hukin J, Dunham C, Scheinemann K, Michaud J, Zelcer
+  S, Ramsay D, Cain J, Brennan C, Souweidane MM, Jones C, Allis CD, Brudno M, Becher
+  O and Hawkins C.
+contact:
+  email: cynthia.hawkins@sickkids.ca
+  name: Cynthia Hawkins
+counts:
+  biosamples: 45
+  samples_acgh: 45
+  samples_ccgh: 0
+  samples_wes: 16
+  samples_wgs: 20
+external_identifiers:
+- pubmed:24705254
+- geo:GSE50024
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Nat Genet (2014).
+label: 'Buczkowicz et al. (2014): Genomic analysis of diffuse intrinsic pontine gliomas
+  identifies three molecular subgroups and ...'
+notes: ~
+pmid: 24705254
+title: Genomic analysis of diffuse intrinsic pontine gliomas identifies three molecular
+  subgroups and recurrent activating ACVR1 mutations.
+year: 2014

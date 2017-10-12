@@ -1,0 +1,40 @@
+---
+abstract: Medulloblastoma is the most common malignant brain tumor in children. Despite
+  multimodal aggressive treatment, nearly half of the patients die as a result of
+  this tumor. Identification of molecular markers for prognosis and development of
+  novel pathogenesis-based therapies depends crucially on a better understanding of
+  medulloblastoma pathomechanisms.
+authors: Mendrzyk F, Radlwimmer B, Joos S, Kokocinski F, Benner A, Stange DE, Neben
+  K, Fiegler H, Carter NP, Reifenberger G, Korshunov A and Lichter P.
+contact:
+  email: m.macleod@dkfz.de
+  name: Peter Lichter
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16314645
+- geo:GSE2139
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'J Clin Oncol 23, 34 (2005): 8853-62.'
+label: 'Mendrzyk et al. (2005): Genomic and Protein Expression Profiling Identifies
+  Cdk6 as Novel Independent Prognostic Marker ...'
+notes: Data was derived from GEO (GSE2139) and converted using aCGH2ProgenetiXML software.
+pmid: 16314645
+title: Genomic and Protein Expression Profiling Identifies Cdk6 as Novel Independent
+  Prognostic Marker in Medulloblastoma.
+year: 2005

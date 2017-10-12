@@ -1,0 +1,45 @@
+---
+abstract: To identify recurrent chromosomal imbalances in pancreatic adenocarcinoma,
+  27 tumors were analyzed by using comparative genomic hybridization. In 23 cases
+  chromosomal imbalances were found. Gains of chromosomal material were much more
+  frequent than losses. The most common overrepresentations were observed on chromosomes
+  16p eight cases , 20q seven cases , 22q six cases , and 17q five cases and under-representations
+  on a subregion of chromosome 9p eight cases . Distinct high-level amplifications
+  were found on 1p32-p34, 6q24, 7q22, 12p13, and 22q. These data provide evidence
+  for a number of new cytogenetically defined recurrent aberrations which are characteristic
+  of pancreatic carcinoma. The overrepresented or underrepresented chromosomal regions
+  represent candidate regions for potential oncogenes and tumor suppressor genes,
+  respectively, possibly involved in pancreatic tumorigenesis.
+authors: Solinas-Toldo S, Wallrapp C, Muller-Pillasch F, Bentz M, Gress T and Lichter
+  P.
+contact:
+  email: sabinatoldo@aol.com
+  name: Sabina Solinas-Toldo
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8706027
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cancer Res 56, 16 (1996): 3803-07.'
+label: 'Solinas-Toldo et al. (1996): Mapping of Chromosomal Imbalances in Pancreatic
+  Carcinoma By Comparative Genomic ...'
+notes: ~
+pmid: 8706027
+title: Mapping of Chromosomal Imbalances in Pancreatic Carcinoma By Comparative Genomic
+  Hybridization.
+year: 1996

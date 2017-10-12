@@ -1,0 +1,46 @@
+---
+abstract: To identify genetic events underlying the genesis and progression of multiple
+  myeloma MM , we conducted a high-resolution analysis of recurrent copy number alterations
+  CNAs and expression profiles in a collection of MM cell lines and outcome-annotated
+  clinical specimens. Attesting to the molecular heterogeneity of MM, unsupervised
+  classification using nonnegative matrix factorization NMF designed for array comparative
+  genomic hybridization aCGH analysis uncovered distinct genomic subtypes. Additionally,
+  we defined 87 discrete minimal common regions MCRs within recurrent and highly focal
+  CNAs. Further integration with expression data generated a refined list of MM gene
+  candidates residing within these MCRs, thereby providing a genomic framework for
+  dissection of disease pathogenesis, improved clinical management, and initiation
+  of targeted drug discovery for specific MM patients.
+authors: Carrasco DR, Tonon G, Huang Y, Zhang Y, Sinha R, Feng B, Stewart JP, Zhan
+  F, Khatry D, Protopopova M, Protopopov A, Sukhdeo K, Hanamura I, Stephens O, Barlogie
+  B, Anderson KC, Chin L, Shaughnessy JD Jr, Brennan C and Depinho RA.
+contact:
+  email: ron_depinho@dfci.harvard.edu
+  name: Ronald A. DePinho
+counts:
+  biosamples: 87
+  samples_acgh: 87
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16616336
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Cell 9, 4 (2006): 313-25.'
+label: 'Carrasco et al. (2006): High-Resolution Genomic Profiles Define Distinct Clinico-Pathogenetic
+  Subgroups of Multiple ...'
+notes: The expression data for this publication is available through GEO (GSE4452).
+pmid: 16616336
+title: High-Resolution Genomic Profiles Define Distinct Clinico-Pathogenetic Subgroups
+  of Multiple Myeloma Patients.
+year: 2006

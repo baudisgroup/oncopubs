@@ -1,0 +1,45 @@
+---
+abstract: Chromosomal aberrations in 22 Koreans with ovarian carcinomas were investigated
+  by degenerate oligonucleotide primed-polymerase chain reaction comparative genomic
+  hybridization. The common sites of copy number increases were 20q 90 , 17q23 approximately
+  qter 86 , 8q22 approximately qter 68 , 3q25 approximately qter 59 , 6p21 59 , 11q13
+  54 , 16p 40 , 2q31 approximately qter 36 , 7q 36 , 14q31 36 , 15q24 approximately
+  qter 36 , and 1q32 approximately qter 31 . DNA amplification was identified in 18
+  carcinomas 82 . The frequent sites of amplification were 20q13.2 approximately qter,
+  8q24.1, 17q23 approximately qter, 3q25 approximately qter, and 6p21. The most frequent
+  sites of copy number decreases were 4q21 approximately q31 54 , 5q13 approximately
+  q21 50 , and 13q14 approximately q21 45 . The recurrent gains and losses of chromosomal
+  regions identified in this study provide candidate regions that may contain oncogenes
+  or tumor suppressor genes, respectively.
+authors: Kim GJ, Kim JO, Hong EK, Kim H, Chun YH and Park SH.
+contact:
+  email: parksh@korea.ac.kr
+  name: Sun-Hwa Park
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14580767
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 147, 1 (2003): 23-27.'
+label: 'Kim et al. (2003): Detection of Genetic Alterations in Korean Ovarian Carcinomas
+  By Degenerate Oligonucleotide Primed ...'
+notes: ~
+pmid: 14580767
+title: Detection of Genetic Alterations in Korean Ovarian Carcinomas By Degenerate
+  Oligonucleotide Primed Polymerase Chain Reaction-Comparative Genomic Hybridization.
+year: 2003

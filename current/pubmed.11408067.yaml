@@ -1,0 +1,44 @@
+---
+abstract: We used comparative genomic hybridization to analyze 10 primary tumor samples
+  from patients with transitional cell carcinoma of the renal pelvis. The most frequent
+  loss was located at 9q, that is, in 50 of the tumors. Gains of DNA sequences were
+  most frequently observed in chromosome regions 1q21 approximately q23, 2p23 approximately
+  p25, 8q21.1 approximately q22 and in the whole chromosome 20. High level amplifications
+  at 1q21 approximately q25, 6p22 approximately p23, 8q21 approximately q22, 8q22
+  approximately q24.1, 11q13, and 12q14 approximately q21 were detected. Most of these
+  regions have previously been reported to be involved in transitional cell carcinoma
+  of the bladder, thus confirming the importance of an increasing number of chromosome
+  imbalances in the development and progression of this type of tumors.
+authors: Rigola MA, Fuster C, Casadevall C, Bernues M, Caballin MR, Gelabert A, Egozcue
+  J and Miro R.
+contact:
+  email: mariaangels.rigola@uab.es
+  name: Maria Angels Rigola
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11408067
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 127, 1 (2001): 59-63.'
+label: 'Rigola et al. (2001): Comparative Genomic Hybridization Analysis of Transitional
+  Cell Carcinomas of the Renal ...'
+notes: ~
+pmid: 11408067
+title: Comparative Genomic Hybridization Analysis of Transitional Cell Carcinomas
+  of the Renal Pelvis.
+year: 2001

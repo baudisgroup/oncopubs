@@ -1,0 +1,52 @@
+---
+abstract: Despite advances in the curative treatment of acute myeloid leukemia AML
+  , recurrence will occur in the majority of cases. At diagnosis, acquisition of segmental
+  uniparental disomy UPD by mitotic recombination has been reported in 15 to 20 of
+  AML cases, associated with homozygous mutations in the region of loss of heterozygosity.
+  This study aimed to discover if clonal evolution from heterozygous to homozygous
+  mutations by mitotic recombination provides a mechanism for relapse. DNA from 27
+  paired diagnostic and relapsed AML samples were analyzed using genotyping arrays.
+  Newly acquired segmental UPDs were observed at relapse in 11 AML samples 40 . Six
+  were segmental UPDs of chromosome 13q, which were shown to lead to a change from
+  heterozygosity to homozygosity for internal tandem duplication mutation of FLT3
+  FLT3 ITD . Three further AML samples had evidence of acquired segmental UPD of 13q
+  in a subclone of the relapsed leukemia. One patient acquired segmental UPD of 19q
+  that led to homozygosity for a CEBPA mutation 207C amp gt T. Finally, a single patient
+  with AML acquired segmental UPD of chromosome 4q, for which the candidate gene is
+  unknown. We conclude that acquisition of segmental UPD and the resulting homozygous
+  mutation is a common event associated with relapse of AML.
+authors: Raghavan M, Smith LL, Lillington DM, Chaplin T, Kakkas I, Molloy G, Chelala
+  C, Cazier JB, Cavenagh JD, Fitzgibbon J, Lister TA and Young BD.
+contact:
+  email: manoj.raghavan@cancer.org.uk
+  name: Manoj Raghavan
+counts:
+  biosamples: 54
+  samples_acgh: 54
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18490517
+- geo:GSE7210
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Blood 112, 3 (2008): 814-21.'
+label: 'Raghavan et al. (2008): Segmental Uniparental Disomy is a Commonly Acquired
+  Genetic Event in Relapsed Acute Myeloid ...'
+notes: The dataset contains UPD information, which was not included into Progenetix
+  (yet).
+pmid: 18490517
+title: Segmental Uniparental Disomy is a Commonly Acquired Genetic Event in Relapsed
+  Acute Myeloid Leukemia.
+year: 2008

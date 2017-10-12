@@ -1,0 +1,39 @@
+---
+abstract: Multiple genetic alterations are responsible for development and progression
+  of gastric cancer which is one of the leading causes of cancer-related deaths worldwide.
+  The aim of this study was to identify the genomic imbalances of gains and or losses
+  in gastric adenocarcinomas from Turkish patients and to investigate their association
+  with development and progression of this type of cancer.
+authors: Gumus-Akay G, Unal AE, Elhan AH, Bayar S, Karadayt K, Sunguroglu A, Kadikiran
+  A and Tukun A.
+contact:
+  email: guvemg@yahoo.com
+  name: Guvem Gumus-Akay
+counts:
+  biosamples: 43
+  samples_acgh: 0
+  samples_ccgh: 43
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20082868
+geo_data:
+  geo_json:
+    coordinates:
+    - 32.85
+    - 39.92
+    type: Point
+  info:
+    city: Ankara
+    continent: Europe
+    country: Turkey
+    label: Ankara, Turkey, Europe
+    precision: city
+journal: 'Arch Med Res 40, 7 (2009): 551-60.'
+label: 'Gumus-Akay et al. (2009): DNA Copy Number Changes in Gastric Adenocarcinomas:
+  High Resolution-Comparative Genomic ...'
+notes: ~
+pmid: 20082868
+title: 'DNA Copy Number Changes in Gastric Adenocarcinomas: High Resolution-Comparative
+  Genomic Hybridization Study in Turkey.'
+year: 2009

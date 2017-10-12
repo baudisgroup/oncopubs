@@ -1,0 +1,55 @@
+---
+abstract: Dihydropyrimidine dehydrogenase DPD is the initial enzyme acting in the
+  catabolism of the widely used antineoplastic agent 5-fluorouracil 5FU . DPD deficiency
+  is known to cause a potentially lethal toxicity following administration of 5FU.
+  Here, we report novel genetic mechanisms underlying DPD deficiency in patients presenting
+  with grade III IV 5FU-associated toxicity. In one patient a genomic DPYD deletion
+  of exons 21-23 was observed. In five patients a deep intronic mutation c.1129-5923C
+  amp gt G was identified creating a cryptic splice donor site. As a consequence,
+  a 44 bp fragment corresponding to nucleotides c.1129-5967 to c.1129-5924 of intron
+  10 was inserted in the mature DPD mRNA. The deleterious c.1129-5923C amp gt G mutation
+  proved to be in cis with three intronic polymorphisms c.483 18G amp gt A, c.959-51T
+  amp gt G, c.680 139G amp gt A and the synonymous mutation c.1236G amp gt A of a
+  previously identified haplotype. Retrospective analysis of 203 cancer patients showed
+  that the c.1129-5923C amp gt G mutation was significantly enriched in patients with
+  severe 5FU-associated toxicity 9.1 compared to patients without toxicity 2.2 . In
+  addition, a high prevalence was observed for the c.1129-5923C amp gt G mutation
+  in the normal Dutch 2.6 and German 3.3 population. Our study demonstrates that a
+  genomic deletion affecting DPYD and a deep intronic mutation affecting pre-mRNA
+  splicing can cause severe 5FU-associated toxicity. We conclude that screening for
+  DPD deficiency should include a search for genomic rearrangements and aberrant splicing.
+authors: van Kuilenburg AB, Meijer J, Mul AN, Meinsma R, Schmid V, Dobritzsch D, Hennekam
+  RC, Mannens MM, Kiechle M, Etienne-Grimaldi MC, Klumpen HJ, Maring JG, Derleyn VA,
+  Maartense E, Milano G, Vijzelaar R and Gross E.
+contact:
+  email: a.b.vanKuilenburg@amc.uva.nl
+  name: Andre Kuilenburg
+counts:
+  biosamples: 92
+  samples_acgh: 92
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20803296
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Hum Genet 128, 5 (2010): 529-38.'
+label: 'van Kuilenburg et al. (2010): Intragenic Deletions and a Deep Intronic Mutation
+  Affecting Pre-Mrna Splicing in the ...'
+notes: ~
+pmid: 20803296
+title: Intragenic Deletions and a Deep Intronic Mutation Affecting Pre-Mrna Splicing
+  in the Dihydropyrimidine Dehydrogenase Gene as Novel Mechanisms Causing 5-Fluorouracil
+  Toxicity.
+year: 2010

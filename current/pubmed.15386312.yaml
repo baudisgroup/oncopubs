@@ -1,0 +1,42 @@
+---
+abstract: The widespread use of prostate-specific antigen PSA testing to screen for
+  prostate carcinoma has led to significant overdiagnosis, due to the frequent detection
+  of indolent malignancies on PSA screening. The detection of abnormal PSA levels
+  typically is followed by ultrasound-guided needle biopsy. Therefore, in an effort
+  to identify genetic markers that augment the information provided by standard histopathologic
+  classification, the authors tested the feasibility of using these minute biopsy
+  samples for genomic profiling via chromosome banding analysis and comparative genomic
+  hybridization CGH .
+authors: Teixeira MR, Ribeiro FR, Eknaes M, Waehre H, Stenwig AE, Giercksky KE, Heim
+  S and Lothe RA.
+contact:
+  email: sverre.heim@labmed.uio.no
+  name: Sverre Heim
+counts:
+  biosamples: 33
+  samples_acgh: 0
+  samples_ccgh: 33
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15386312
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: Europe
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: 'Cancer 101, 8 (2004): 1786-93.'
+label: 'Teixeira et al. (2004): Genomic Analysis of Prostate Carcinoma Specimens Obtained
+  Via Ultrasound-Guided Needle Biopsy ...'
+notes: ~
+pmid: 15386312
+title: Genomic Analysis of Prostate Carcinoma Specimens Obtained Via Ultrasound-Guided
+  Needle Biopsy May be of Use in Preoperative Decision-Making.
+year: 2004

@@ -1,0 +1,38 @@
+---
+abstract: The formation of fusion genes plays roles in both oncogenesis and evolution
+  by facilitating the acquisition of novel functions. Here we describe the first example
+  of a human polymorphic in-frame fusion of two unrelated genes associated with a
+  copy number variant.
+authors: Chase A, Ernst T, Fiebig A, Collins A, Grand F, Erben P, Reiter A, Schreiber
+  S and Cross NC.
+contact:
+  email: achase@soton.ac.uk
+  name: Andrew Chase
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19797732
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.8
+    - 51.07
+    type: Point
+  info:
+    city: Salisbury
+    continent: Europe
+    country: United Kingdom
+    label: Salisbury, United Kingdom, Europe
+    precision: city
+journal: 'Haematologica 95, 1 (2010): 20-26.'
+label: 'Chase et al. (2010): Tfg, a Target of Chromosome Translocations in Lymphoma
+  and Soft Tissue Tumors, Fuses to Gpr128 in ...'
+notes: ~
+pmid: 19797732
+title: Tfg, a Target of Chromosome Translocations in Lymphoma and Soft Tissue Tumors,
+  Fuses to Gpr128 in Healthy Individuals.
+year: 2010

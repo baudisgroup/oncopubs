@@ -1,0 +1,53 @@
+---
+abstract: Marginal zone B-cell lymphomas MZLs have been divided into 3 distinct subtypes
+  extranodal MZLs of mucosa-associated lymphoid tissue MALT type, nodal MZLs, and
+  splenic MZLs . Nevertheless, the relationship between the subtypes is still unclear.
+  We performed a comprehensive analysis of genomic DNA copy number changes in a very
+  large series of MZL cases with the aim of addressing this question. Samples from
+  218 MZL patients 25 nodal, 57 MALT, 134 splenic, and 2 not better specified MZLs
+  were analyzed with the Affymetrix Human Mapping 250K SNP arrays, and the data combined
+  with matched gene expression in 33 of 218 cases. MALT lymphoma presented significantly
+  more frequently gains at 3p, 6p, 18p, and del 6q23 TNFAIP3 A20 , whereas splenic
+  MZLs was associated with del 7q31 , del 8p . Nodal MZLs did not show statistically
+  significant differences compared with MALT lymphoma while lacking the splenic MZLs-related
+  7q losses. Gains of 3q and 18q were common to all 3 subtypes. del 8p was often present
+  together with del 17p TP53 . Although del 17p did not determine a worse outcome
+  and del 8p was only of borderline significance, the presence of both deletions had
+  a highly significant negative impact on the outcome of splenic MZLs.
+authors: Rinaldi A, Mian M, Chigrinova E, Arcaini L, Bhagat G, Novak U, Rancoita PM,
+  De Campos CP, Forconi F, Gascoyne RD, Facchetti F, Ponzoni M, Govi S, Ferreri AJ,
+  Mollejo M, Piris MA, Baldini L, Soulier J, Thieblemont C, Canzonieri V, Gattei V,
+  Marasca R, Franceschetti S, Gaidano G, Tucci A, Uccella S, Tibiletti MG, Dirnhofer
+  S, Tripodo C, Doglioni C, Dalla Favera R, Cavalli F, Zucca E, Kwee I and Bertoni
+  F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 218
+  samples_acgh: 218
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21115979
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.02
+    - 46.19
+    type: Point
+  info:
+    city: Bellinzona
+    continent: Europe
+    country: Switzerland
+    label: Bellinzona, Switzerland, Europe
+    precision: city
+journal: 'Blood 117, 5 (2011): 1595-604.'
+label: 'Rinaldi et al. (2011): Genome-Wide DNA Profiling of Marginal Zone Lymphomas
+  Identifies Subtype-Specific Lesions With an ...'
+notes: ~
+pmid: 21115979
+title: Genome-Wide DNA Profiling of Marginal Zone Lymphomas Identifies Subtype-Specific
+  Lesions With an Impact on the Clinical Outcome.
+year: 2011

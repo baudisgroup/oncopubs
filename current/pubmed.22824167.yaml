@@ -1,0 +1,41 @@
+---
+abstract: Renal cell carcinoma RCC is characterized by a number of diverse molecular
+  aberrations that differ among individuals. Recent approaches to molecularly classify
+  RCC were based on clinical, pathological as well as on single molecular parameters.
+  As a consequence, gene expression patterns reflecting the sum of genetic aberrations
+  in individual tumors may not have been recognized. In an attempt to uncover such
+  molecular features in RCC, we used a novel, unbiased and integrative approach.
+authors: Beleut M, Zimmermann P, Baudis M, Bruni N, Buhlmann P, Laule O, Luu VD, Gruissem
+  W, Schraml P and Moch H.
+contact:
+  email: holger.moch@usz.ch
+  name: Holger Moch
+counts:
+  biosamples: 45
+  samples_acgh: 45
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22824167
+- geo:GSE19949
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.55
+    - 47.37
+    type: Point
+  info:
+    city: Zurich
+    continent: Europe
+    country: Switzerland
+    label: Zurich, Switzerland, Europe
+    precision: city
+journal: 'BMC Cancer 12, 1 (2012): 310.'
+label: 'Beleut et al. (2012): Integrative Genome-Wide Expression Profiling Identifies
+  Three Distinct Molecular Subgroups of ...'
+notes: ~
+pmid: 22824167
+title: Integrative Genome-Wide Expression Profiling Identifies Three Distinct Molecular
+  Subgroups of Renal Cell Carcinoma With Different Patient Outcome.
+year: 2012

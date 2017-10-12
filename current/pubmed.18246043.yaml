@@ -1,0 +1,55 @@
+---
+abstract: 'Solid pseudopapillary neoplasms of the pancreas are low-grade malignancies,
+  but their biological behavior cannot be stratified solely on the basis of histopathologic
+  criteria. Aside from mutations in beta-catenin and lack of genetic changes common
+  to pancreatic ductal adenocarcinomas, little is known about the chromosomal alterations
+  in solid pseudopapillary neoplasms. We applied array comparative genomic hybridization
+  to a series of 12 patients. The average age was 31 years range 12-52 years with
+  10 female and 2 male patients. The average tumor size was 7.3 cm range 2-24 cm with
+  five lesions greater than 5 cm. All cases had bland cytology without significant
+  pleomorphism or high nuclear grade, but seven cases demonstrated at least one of
+  these potentially aggressive histopathologic features: size amp gt 5 cm, tumor necrosis,
+  lymphovascular invasion, perineural invasion and peripancreatic invasion. Clinically,
+  one lesion demonstrated aggressive behavior. By array comparative genomic hybridization,
+  chromosomal losses and or gains were identified in eight cases five cases had multiple
+  five or more alterations. The most common alterations were gains at 13q, 17q, 1q
+  and 8q. Six of the seven cases with at least one aggressive feature had genetic
+  alterations, while only two cases without adverse features had genetic alterations
+  P 0.024 . The single clinically aggressive tumor exhibited seven chromosomal gains
+  and four aggressive histopathologic features. Our study demonstrates that genetic
+  alterations detected by array comparative genomic hybridization are common in solid
+  pseudopapillary neoplasms of the pancreas. Additional study and longer follow-up
+  are needed to determine if these genetic abnormalities could help predict clinical
+  behavior in these neoplasms.'
+authors: Rund CR, Moser AJ, Lee KK, Zeh HJ, Teot LA, Dacic S and Krasinskas AM.
+contact:
+  email: krasinskasam@upmc.edu
+  name: Alyssa M Krasinskas
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18246043
+geo_data:
+  geo_json:
+    coordinates:
+    - -80
+    - 40.44
+    type: Point
+  info:
+    city: Pittsburgh
+    continent: North America
+    country: United States
+    label: Pittsburgh, United States, North America
+    precision: city
+journal: 'Mod Pathol 21, 5 (2008): 559-64.'
+label: 'Rund et al. (2008): Array Comparative Genomic Hybridization Analysis of Solid
+  Pseudopapillary Neoplasms of the ...'
+notes: ~
+pmid: 18246043
+title: Array Comparative Genomic Hybridization Analysis of Solid Pseudopapillary Neoplasms
+  of the Pancreas.
+year: 2008

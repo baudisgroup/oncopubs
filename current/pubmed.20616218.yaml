@@ -1,0 +1,52 @@
+---
+abstract: 'To obtain a comprehensive genomic profile of presenting multiple myeloma
+  cases we performed high-resolution single nucleotide polymorphism mapping array
+  analysis in 114 samples alongside 258 samples analyzed by U133 Plus 2.0 expression
+  array Affymetrix . We examined DNA copy number alterations and loss of heterozygosity
+  LOH to define the spectrum of minimally deleted regions in which relevant genes
+  of interest can be found. The most frequent deletions are located at 1p 30 , 6q
+  33 , 8p 25 , 12p 15 , 13q 59 , 14q 39 , 16q 35 , 17p 7 , 20 12 , and 22 18 . In
+  addition, copy number-neutral LOH, or uniparental disomy, was also prevalent on
+  1q 8 , 16q 9 , and X 20 , and was associated with regions of gain and loss. Based
+  on fluorescence in situ hybridization and expression quartile analysis, genes of
+  prognostic importance were found to be located at 1p FAF1, CDKN2C , 1q ANP32E ,
+  and 17p TP53 . In addition, we identified common homozygously deleted genes that
+  have functions relevant to myeloma biology. Taken together, these analyses indicate
+  that the crucial pathways in myeloma pathogenesis include the nuclear factor- B
+  pathway, apoptosis, cell-cycle regulation, Wnt signaling, and histone modifications.
+  This study was registered at http: isrctn.org as ISRCTN68454111.'
+authors: Walker BA, Leone PE, Chiecchio L, Dickens NJ, Jenner MW, Boyd KD, Johnson
+  DC, Gonzalez D, Dagrada GP, Protheroe RK, Konn ZJ, Stockley DM, Gregory WM, Davies
+  FE, Ross FM and Morgan GJ.
+contact:
+  email: ~
+  name: Brian Walker
+counts:
+  biosamples: 114
+  samples_acgh: 114
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20616218
+- geo:GSE21349
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Blood 116, 15 (2010): e56-65.'
+label: 'Walker et al. (2010): A Compendium of Myeloma-Associated Chromosomal Copy
+  Number Abnormalities and Their Prognostic ...'
+notes: ~
+pmid: 20616218
+title: A Compendium of Myeloma-Associated Chromosomal Copy Number Abnormalities and
+  Their Prognostic Value.
+year: 2010

@@ -1,0 +1,53 @@
+---
+abstract: The analysis of chromosomal imbalances in solid tumors using comparative
+  genetic hybridization CGH has gained much attention. A survey of the literature
+  suggests that CGH is more sensitive in detecting copy number aberrations than is
+  karyotyping, although careful comparisons between CGH and cytogenetics have not
+  been performed. Here, we compared cytogenetics and CGH in 29 invasive breast cancers
+  after converting the karyotypes into net copy number gains and losses. We found
+  15 tumors 56 with a significant agreement between the two methods and 12 tumors
+  44 where the methods were in disagreement two cases failed CGH analysis . Interestingly,
+  in 13 of the 15 tumors where the two methods were concordant, there was also a strong
+  correlation between chromosome index and DNA index by flow cytometry. In the opposite
+  situation, i.e., when chromosome and DNA indices were not matching, there was disagreement
+  between cytogenetics and CGH in 10 of the 12 tumors. Of the discordant cases, all
+  except one had a amp quot simple amp quot abnormal karyotype. Unresolved chromosomal
+  aberrations marker chromosomes, homogeneously staining regions, double minutes could
+  not completely explain the differences between CGH and karyotyping. A likely explanation
+  for the discrepancies is that the methods analyzed different cell populations. Gains
+  and losses found by CGH represented the predominant often aneuploid clone, whereas
+  the abnormal, near-diploid karyotypes represented minor cell clone s , which, for
+  unknown reasons, had a growth advantage in vitro.
+authors: Persson K, Pandis N, Mertens F, Borg A, Baldetorp B, Killander D and Isola
+  J.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10337995
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 25, 2 (1999): 115-22.'
+label: 'Persson et al. (1999): Chromosomal Aberrations in Breast Cancer: A Comparison
+  Between Cytogenetics and Comparative ...'
+notes: ~
+pmid: 10337995
+title: 'Chromosomal Aberrations in Breast Cancer: A Comparison Between Cytogenetics
+  and Comparative Genomic Hybridization.'
+year: 1999

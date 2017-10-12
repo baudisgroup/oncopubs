@@ -1,0 +1,54 @@
+---
+abstract: Glioblastomas are cytogenetically heterogeneous tumors that frequently display
+  alterations of chromosomes 7, 9p, and 10q. We used high-density 500K single-nucleotide
+  polymorphism arrays to investigate genome-wide copy number alterations and loss
+  of heterozygosity in 35 primary glioblastomas. We focused on the identification
+  and detailed characterization of alterations involving the most frequently altered
+  chromosomes chromosomes 7, 9, and 10 , the identification of distinct prognostic
+  subgroups of glioblastomas based on the cytogenetic patterns of alteration for these
+  chromosomes, and validation of their prognostic impact in a larger series of tumors
+  from public databases. Gains of chromosome 7 97 , with or without epidermal growth
+  factor receptor EGFR amplification, and losses of chromosomes 9p 83 and 10 91 were
+  the most frequent alterations. Such alterations defined five different cytogenetic
+  groups with a significant effect on patient survival notably, EGFR amplification
+  29 was associated with a better survival among older patients, as confirmed by multivariate
+  analysis of a larger series of glioblastomas from the literature. In addition, our
+  results provide further evidence about the relevance of other genes eg, EGFR, CDKN2A
+  B, MTAP in the pathogenesis of glioblastomas. Altogether, our results confirm the
+  cytogenetic heterogeneity of glioblastomas and suggest that their stratification
+  based on combined assessment of cytogenetic alterations involving chromosomes 7,
+  9, and 10 may contribute to the prognostic evaluation of glioblastomas.
+authors: Crespo I, Vital AL, Nieto AB, Rebelo O, Tao H, Lopes MC, Oliveira CR, French
+  PJ, Orfao A and Tabernero MD.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 70
+  samples_acgh: 70
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21884817
+- geo:GSE42631
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.42
+    - 40.21
+    type: Point
+  info:
+    city: Coimbra
+    continent: Europe
+    country: Portugal
+    label: Coimbra, Portugal, Europe
+    precision: city
+journal: 'J Mol Diagn (2011) 13: 634-647.'
+label: 'Crespo et al. (2011): Detailed characterization of alterations of chromosomes
+  7, 9, and 10 in glioblastomas as assessed ...'
+notes: also 23029397
+pmid: 21884817
+title: Detailed characterization of alterations of chromosomes 7, 9, and 10 in glioblastomas
+  as assessed by single-nucleotide polymorphism arrays.
+year: 2011

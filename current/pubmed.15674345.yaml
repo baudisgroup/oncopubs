@@ -1,0 +1,50 @@
+---
+abstract: Structural chromosomal aberrations are common in epithelial tumors. Here,
+  we compared the location of centromeric breaks associated with whole arm translocations
+  in seven adenocarcinoma cell lines and nine squamous cell carcinoma cell lines using
+  SKY, microarray-based comparative genomic hybridization array CGH and fluorescence
+  in situ hybridization FISH . Whole arm translocations were more frequent in squamous
+  cell carcinomas 112 in nine cell lines and nine in one short-term culture than in
+  adenocarcinomas 13 in seven cases and most often resulted in copy number alterations.
+  Array CGH analysis demonstrated that in all squamous cell carcinomas and in most
+  adenocarcinomas, the breakpoints of unbalanced whole arm translocations occurred
+  between the two clones on the array flanking the centromeres. However, FISH with
+  centromeric probes revealed that in squamous cell carcinomas, the marker chromosomes
+  with whole arm translocations contained centromeres comprised of material from both
+  participating chromosomes, while in adenocarcinomas centromeric material from only
+  one of the chromosomes was present. These observations suggest that different mechanisms
+  of centromeric instability underlie the formation of chromosomal aberrations in
+  adenocarcinomas and squamous cell carcinomas.
+authors: Hermsen M, Snijders A, Guervos MA, Taenzer S, Koerner U, Baak J, Pinkel D,
+  Albertson D, van Diest P, Meijer G and Schrock E.
+contact:
+  email: mhermsen@hca.es
+  name: Mario A.J.A. Hermsen
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15674345
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Oncogene 24, 9 (2005): 1571-79.'
+label: 'Hermsen et al. (2005): Centromeric Chromosomal Translocations Show Tissue-Specific
+  Differences Between Squamous Cell ...'
+notes: ~
+pmid: 15674345
+title: Centromeric Chromosomal Translocations Show Tissue-Specific Differences Between
+  Squamous Cell Carcinomas and Adenocarcinomas.
+year: 2005

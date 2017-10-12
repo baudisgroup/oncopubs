@@ -1,0 +1,52 @@
+---
+abstract: Unexpectedly aggressive clinical course of some grade II astrocytomas is
+  a diagnostic dilemma for routine histopathology. Because increasing tumor malignancy
+  is a consequence of progressive accumulation of chromosomal alterations, we investigated
+  whether aggressive behavior of grade II astrocytomas could be predicted by the number
+  and type of gross chromosomal aberrations. We used comparative genomic hybridization
+  to analyze 11 grade II astrocytomas with typical good, n 7 or poor n 4 prognosis.
+  The results were also compared with a reference material of 13 grade III-IV astrocytomas
+  and nine established cell lines. We found a median of two aberrations range 0 to
+  4 in tumors with good prognosis and of 15.5 changes range 8 to 28 in tumors with
+  poor prognosis. Chromosomal gains were present in both groups, whereas chromosomal
+  losses were frequent in tumors with poor prognosis median 9.5, range 3 to 14 but
+  rare in tumors with good prognosis range 0 to 2 . All chromosomal gains were also
+  found in the high-grade astrocytoma group and the majority of them in cell lines.
+  Chromosomal losses in grade II astrocytomas with poor prognosis were very similar
+  to those in grade III-IV astrocytomas and cell lines. We conclude that an early
+  accumulation of genetic changes in grade II astrocytomas is closely associated with
+  poor patient prognosis, suggesting diagnostic use for comparative genomic hybridization
+  in characterization of grade II astrocytomas.
+authors: Sallinen SL, Sallinen P, Haapasalo H, Kononen J, Karhu R, Helen P and Isola
+  J.
+contact:
+  email: ~
+  name: Satu-Leena Salinen
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9403731
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Am J Pathol 151, 6 (1997): 1799-807.'
+label: 'Sallinen et al. (1997): Accumulation of Genetic Changes is Associated With
+  Poor Prognosis in Grade Ii ...'
+notes: ~
+pmid: 9403731
+title: Accumulation of Genetic Changes is Associated With Poor Prognosis in Grade
+  Ii Astrocytomas.
+year: 1997

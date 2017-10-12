@@ -1,0 +1,56 @@
+---
+abstract: Over-representation of sequences on chromosome 7 and 8 have been reported
+  to be associated with aggressive behavior of prostate cancer. In this study we have
+  performed a molecular cytogenetic survey by comparative genomic hybridization of
+  a cohort of 40 prostate cancer patients, consisting of 20 progressors and 20 nonprogressors,
+  after radical surgery for localized adenocarcinoma. Progression was defined as a
+  biochemical relapse, ie, an elevation in prostate-specific antigen level in the
+  serum. The mean follow-up after prostatectomy for the progressor group was 10.6
+  years, for the nonprogressor group, 9.1 years. Using comparative genomic hybridization,
+  we found that progressors harbored on average more aberrations than nonprogressors.
+  Gains were especially more prominent among progressors p amp lt 0.05 , whereas a
+  statistical trend was detected for losses p 0.10 . As a consequence we examined
+  all chromosome arms separately. The frequencies of loss for areas known to be frequently
+  deleted in prostate cancer, such as 6q, 8p, or 13q, were not different between the
+  two groups. A tendency was observed for more frequent gain on 3q in the progressor
+  group p 0.09 . However, gain of 8q minimal overlapping region at 8q24-qter was significantly
+  more frequent in the progressor group p 0.04 . This biomarker retained its significance
+  when adjusted for the factors age, tumor grade, tumor stage, resection margin status,
+  and preoperative prostate-specific antigen level. In conclusion we have created
+  a map of genetic changes in progressive and nonprogressive prostatic carcinomas.
+  Importantly, the presence of gain of distal 8q markedly reduced the progression-free
+  survival, suggesting a clinical role for 8q gain in assessing the malignant potential
+  of localized prostatic adenocarcinoma.
+authors: van Dekken H, Alers JC, Damen IA, Vissers KJ, Krijtenburg PJ, Hoedemaeker
+  RF, Wildhagen MF, Hop WC, van der Kwast TH, Tanke HJ and Schroder FH.
+contact:
+  email: h.vandekken@slaz.nl
+  name: Herman van Dekken
+counts:
+  biosamples: 40
+  samples_acgh: 0
+  samples_ccgh: 40
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12808114
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Lab Invest 83, 6 (2003): 789-96.'
+label: 'van Dekken et al. (2003): Genetic Evaluation of Localized Prostate Cancer
+  in a Cohort of Forty Patients: Gain of Distal ...'
+notes: ~
+pmid: 12808114
+title: 'Genetic Evaluation of Localized Prostate Cancer in a Cohort of Forty Patients:
+  Gain of Distal 8q Discriminates Between Progressors and Nonprogressors.'
+year: 2003

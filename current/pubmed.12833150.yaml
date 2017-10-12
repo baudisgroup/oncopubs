@@ -1,0 +1,52 @@
+---
+abstract: Fallopian tube carcinoma FTC is a rare, poorly studied and aggressive cancer,
+  associated with poor survival. Since tumorigenesis is related to the acquisition
+  of genetic changes, we used genome-wide array comparative genomic hybridization
+  to analyse copy number aberrations occurring in FTC in order to obtain a better
+  understanding of FTC carcinogenesis and to identify prognostic events and targets
+  for therapy. We used arrays of 2464 genomic clones, providing approximately 1.4
+  Mb resolution across the genome to map genomic DNA copy number aberrations quantitatively
+  from 14 FTC onto the human genome sequence. All tumors showed a high frequency of
+  copy number aberrations with recurrent gains on 3q, 6p, 7q, 8q, 12p, 17q, 19 and
+  20q, and losses involving chromosomes 4, 5q, 8p, 16q, 17p, 18q and X. Recurrent
+  regions of amplification included 1p34, 8p11-q11, 8q24, 12p, 17p13, 17q12-q21, 19p13,
+  19q12-q13 and 19q13. Candidate, known oncogenes mapping to these amplicons included
+  CMYC 8q24 , CCNE1 19q12-q21 and AKT2 19q13 , whereas PIK3CA and KRAS, previously
+  suggested to be candidate driver genes for amplification, mapped outside copy number
+  maxima on 3q and 12p, respectively. The FTC were remarkably homogeneous, with some
+  recurrent aberrations occurring in more than 70 of samples, which suggests a stereotyped
+  pattern of tumor evolution.
+authors: Snijders AM, Nowee ME, Fridlyand J, Piek JM, Dorsman JC, Jain AN, Pinkel
+  D, van Diest PJ, Verheijen RH and Albertson DG.
+contact:
+  email: albertson@cc.ucsf.edu
+  name: Donna G. Albertson
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12833150
+- geo:GSE7180
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Oncogene 22, 27 (2003): 4281-86.'
+label: 'Snijders et al. (2003): Genome-Wide-Array-Based Comparative Genomic Hybridization
+  Reveals Genetic Homogeneity and ...'
+notes: ~
+pmid: 12833150
+title: Genome-Wide-Array-Based Comparative Genomic Hybridization Reveals Genetic Homogeneity
+  and Frequent Copy Number Increases Encompassing Ccne1 in Fallopian Tube Carcinoma.
+year: 2003

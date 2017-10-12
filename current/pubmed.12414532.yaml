@@ -1,0 +1,51 @@
+---
+abstract: Several lines of evidences suggest that T cell histiocyte-rich B-cell lymphoma
+  T HRBCL represents an aggressive variant of the clinically indolent entity nodular
+  lymphocyte predominance Hodgkins lymphoma LPHL . Still, this view has not yet been
+  supported by firm genetic evidence. In this study, we analyzed 17 T HRBCL cases
+  using comparative genomic hybridization CGH combined with microdissection of single
+  CD20 neoplastic cells and DNA amplification by degenerate oligonucleotide primed-polymerase
+  chain reaction, an approach we previously used in LPHL. Genomic imbalances were
+  detected in all cases in total, 80 changes . The most common imbalances included
+  gain of Xq, 4q13q28, Xp21p11, and 18q21, and loss of 17p. Of note, a partial gain
+  of 4q, a rare change in lymphoma, is also among the genomic imbalances most frequently
+  encountered in LPHL. On the other hand, the CGH profiles of T HRBCL and LPHL showed
+  several distinct features, in particular with respect to the number of genomic imbalances
+  average of 4.7 in T HRBCL versus 10.8 in LPHL and their distribution usually 1 to
+  5 in T HRBCL versus 6 to 22 in LPHL . Altogether, our CGH findings of shared as
+  well as distinctive cytogenetic features in both diseases suggest that T HRBCL constitutes
+  a separate lymphoma entity, possibly originating from the same precursor cell as
+  LPHL.
+authors: Franke S, Wlodarska I, Maes B, Vandenberghe P, Achten R, Hagemeijer A and
+  De Wolf-Peeters C.
+contact:
+  email: anne.hagemeijer@med.kuleuven.ac.be
+  name: Anne Hagemeijer
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12414532
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: 'Am J Pathol 161, 5 (2002): 1861-67.'
+label: 'Franke et al. (2002): Comparative Genomic Hybridization Pattern Distinguishes
+  T-Cell/Histiocyte-Rich B-Cell Lymphoma ...'
+notes: ~
+pmid: 12414532
+title: Comparative Genomic Hybridization Pattern Distinguishes T-Cell/Histiocyte-Rich
+  B-Cell Lymphoma From Nodular Lymphocyte Predominance Hodgkins Lymphoma.
+year: 2002

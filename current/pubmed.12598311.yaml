@@ -1,0 +1,50 @@
+---
+abstract: We have used prostate cancer, the most commonly diagnosed noncutaneous neoplasm
+  among men, to investigate the feasibility of performing genomic array analyses of
+  archival tissue. Prostate-specific antigen and a biopsy Gleason grade have not proven
+  to be accurate in predicting clinical outcome, yet they remain the only accepted
+  biomarkers for prostate cancer. It is likely that distinct spectra of genomic alterations
+  underlie these phenotypic differences, and that once identified, may be used to
+  differentiate between indolent and aggressive tumors. Array comparative genomic
+  hybridization allows quantitative detection and mapping of copy number aberrations
+  in tumors and subsequent associations to be made with clinical outcome. Archived
+  tissues are needed to have patients with sufficient clinical follow-up. In this
+  report, 20 formalin-fixed and paraffin-embedded prostate cancer samples originating
+  from 1986 to 1996 were studied. We present a straightforward protocol and demonstrate
+  the utility of archived tissue for array comparative genomic hybridization with
+  a 2400 element BAC array that provides high-resolution detection of both deletions
+  and amplifications.
+authors: Paris PL, Albertson DG, Alers JC, Andaya A, Carroll P, Fridlyand J, Jain
+  AN, Kamkar S, Kowbel D, Krijtenburg PJ, Pinkel D, Schroder FH, Vissers KJ, Watson
+  VJ, Wildhagen MF, Collins C and Van Dekken H.
+contact:
+  email: collins@cc.ucsf.edu
+  name: Colin Collins
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12598311
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Am J Pathol 162, 3 (2003): 763-70.'
+label: 'Paris et al. (2003): High-Resolution Analysis of Paraffin-Embedded and Formalin-Fixed
+  Prostate Tumors Using Comparative ...'
+notes: ~
+pmid: 12598311
+title: High-Resolution Analysis of Paraffin-Embedded and Formalin-Fixed Prostate Tumors
+  Using Comparative Genomic Hybridization to Genomic Microarrays.
+year: 2003

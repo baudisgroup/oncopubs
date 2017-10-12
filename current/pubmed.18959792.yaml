@@ -1,0 +1,40 @@
+---
+abstract: Accurate staging of rectal tumors is essential for making the correct treatment
+  choice. In a previous study, we found that loss of 17p, 18q and gain of 8q, 13q
+  and 20q could distinguish adenoma from carcinoma tissue and that gain of 1q was
+  related to lymph node metastasis. In order to find markers for tumor staging, we
+  searched for candidate genes on these specific chromosomes.
+authors: Lips EH, van Eijk R, de Graaf EJ, Oosting J, de Miranda NF, Karsten T, van
+  de Velde CJ, Eilers PH, Tollenaar RA, van Wezel T and Morreau H.
+contact:
+  email: j.morreau@Lumc.nl
+  name: Hans Morreau
+counts:
+  biosamples: 79
+  samples_acgh: 79
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18959792
+- geo:GSE12225
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: 'BMC Cancer 8 (2008): 314.'
+label: 'Lips et al. (2008): Integrating Chromosomal Aberrations and Gene Expression
+  Profiles to Dissect Rectal ...'
+notes: ~
+pmid: 18959792
+title: Integrating Chromosomal Aberrations and Gene Expression Profiles to Dissect
+  Rectal Tumorigenesis.
+year: 2008

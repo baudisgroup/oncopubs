@@ -1,0 +1,45 @@
+---
+abstract: A subset of B cell chronic lymphocytic leukaemia CLL is familial. Lack of
+  large families makes it attractive to exploit methods in addition to genetic linkage
+  analysis for the identification of a susceptibility locus. One strategy that can
+  localise regions of the genome that may harbour tumour suppressor genes is to identify
+  regions of chromosomal imbalance using comparative genomic hybridisation CGH analysis.
+  We examined 24 familial CLL cases by CGH analysis. Losses that are documented as
+  arising frequently in sporadic CLL were observed at a comparable frequency in familial
+  CLL. However, gains and losses in two regions of the X chromosome - Xp11.2-p21 and
+  Xq21-qter - appear more common in familial CLL than in sporadic CLL. This suggests
+  these regions may harbour a susceptibility locus for CLL. There is also some evidence
+  that chromosome regions 2p12-p14 and 4q11-q21 may harbour predisposition genes.
+authors: Summersgill B, Thornton P, Atkinson S, Matutes E, Shipley J, Catovsky D,
+  Houlston RS and Yuille MR.
+contact:
+  email: brendas@icr.ac.uk
+  name: Brenda Summersgill
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12094247
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Leukemia 16, 7 (2002): 1229-32.'
+label: 'Summersgill et al. (2002): Chromosomal Imbalances in Familial Chronic Lymphocytic
+  Leukaemia: A Comparative Genomic ...'
+notes: ~
+pmid: 12094247
+title: 'Chromosomal Imbalances in Familial Chronic Lymphocytic Leukaemia: A Comparative
+  Genomic Hybridisation Analysis.'
+year: 2002

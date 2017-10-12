@@ -1,0 +1,56 @@
+---
+abstract: Uterine Leiomyomas (ULs) are the most common benign tumours affecting women
+  of reproductive age. ULs represent a major problem in public health, as they are
+  the main indication for hysterectomy. Approximately 40-50% of ULs have non-random
+  cytogenetic abnormalities, and half of ULs may have copy number alterations (CNAs).
+  Gene expression microarrays studies have demonstrated that cell proliferation genes
+  act in response to growth factors and steroids. However, only a few genes mapping
+  to CNAs regions were found to be associated with ULs.  We applied an integrative
+  analysis using genomic and transcriptomic data to identify the pathways and molecular
+  markers associated with ULs. Fifty-one fresh frozen specimens were evaluated by
+  array CGH (JISTIC) and gene expression microarrays (SAM). The CONEXIC algorithm
+  was applied to integrate the data.  The integrated analysis identified the top 30
+  significant genes (P<0.01), which comprised genes associated with cancer, whereas
+  the protein-protein interaction analysis indicated a strong association between
+  FANCA and BRCA1. Functional in silico analysis revealed target molecules for drugs
+  involved in cell proliferation, including FGFR1 and IGFBP5. Transcriptional and
+  protein analyses showed that FGFR1 (P = 0.006 and P<0.01, respectively) and IGFBP5
+  (P = 0.0002 and P = 0.006, respectively) were up-regulated in the tumours when compared
+  with the adjacent normal myometrium.  The integrative genomic and transcriptomic
+  approach indicated that FGFR1 and IGFBP5 amplification, as well as the consequent
+  up-regulation of the protein products, plays an important role in the aetiology
+  of ULs and thus provides data for potential drug therapies development to target
+  genes associated with cellular proliferation in ULs.
+authors: Cirilo PD, Marchi FA, Barros Filho Mde C, Rocha RM, Domingues MA, Jurisica
+  I, Pontes A and Rogatto SR
+contact:
+  email: rogatto@fmb.unesp.br
+  name: ~
+counts:
+  biosamples: 51
+  samples_acgh: 51
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23483937
+- geo:GSE43027
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: PLoS ONE 8(3), 2013
+label: 'Cirilo PD et al. (2013): '
+notes: ~
+pmid: 23483937
+title: An integrative genomic and transcriptomic analysis reveals potential targets
+  associated with cell proliferation in uterine leiomyomas.
+year: 2013

@@ -1,0 +1,33 @@
+---
+abstract: ~
+authors: Faria C, Miguens J, Antunes JL, Salgado D, Nunes S, Barroso C, Martins Mdo
+  C, Nunes VM and Roque L.
+contact:
+  email: lroque@ipolisboa.min-saude.pt
+  name: Lucia Roque
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20192643
+geo_data:
+  geo_json:
+    coordinates:
+    - -9.13
+    - 38.72
+    type: Point
+  info:
+    city: Lisbon
+    continent: Europe
+    country: Portugal
+    label: Lisbon, Portugal, Europe
+    precision: city
+journal: 'J Neurosurg Pediatr 5, 3 (2010): 263-70.'
+label: 'Faria et al. (2010): Pediatric Brain Tumors: Genetics and Clinical Outcome.'
+notes: ~
+pmid: 20192643
+title: 'Pediatric Brain Tumors: Genetics and Clinical Outcome.'
+year: 2010

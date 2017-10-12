@@ -1,0 +1,44 @@
+---
+abstract: 'We used comparative genomic hybridization to analyze 17 tumor samples from
+  11 patients with papillary renal cell carcinoma RCC , including three patients with
+  hereditary papillary RCC. Whereas the most frequent aberrations confirmed data obtained
+  by banding analyses, copy number increases on 5q, which previously were considered
+  characteristic of nonpapillary RCC, were identified in two cases. In two complex
+  cases belonging to the same family, a characteristic pattern of chromosomal aberrations
+  was found: five of the six imbalances present in the less complex case were included
+  in the karyotype of the other case, suggesting a genetically determined mechanism
+  resulting in genomic instability of specific chromosomes or chromosomal subregions
+  and or selection of specific mutations.'
+authors: Bentz M, Bergerheim US, Li C, Joos S, Werner CA, Baudis M, Gnarra J, Merino
+  MJ, Zbar B, Linehan WM and Lichter P.
+contact:
+  email: martin.bentz@medizin.uni-ulm.de
+  name: Martin Bentz
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8995481
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cytogenet Cell Genet 75, 1 (1996): 17-21.'
+label: 'Bentz et al. (1996): Chromosome Imbalances in Papillary Renal Cell Carcinoma
+  and First Cytogenetic Data of Familial ...'
+notes: ~
+pmid: 8995481
+title: Chromosome Imbalances in Papillary Renal Cell Carcinoma and First Cytogenetic
+  Data of Familial Cases Analyzed By Comparative Genomic Hybridization.
+year: 1996

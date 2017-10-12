@@ -1,0 +1,57 @@
+---
+abstract: It is now understood that epigenetic alterations occur frequently in sporadic
+  breast carcinogenesis, but little is known about the epigenetic alterations associated
+  with familial breast tumors. We performed genome-wide DNA-methylation profiling
+  on familial breast cancers n 33 to identify patterns of methylation specific to
+  the different mutation groups BRCA1, BRCA2, and BRCAx or intrinsic subtypes of breast
+  cancer basal, luminal A, luminal B, HER2-amplified, and normal-like . We used methylated
+  DNA immunoprecipitation MeDIP on Affymetrix promoter chips to interrogate methylation
+  profiles across 25,500 distinct transcripts. Using a support vector machine classification
+  algorithm, we demonstrated that genome-wide methylation profiles predicted tumor
+  mutation status with estimated error rates of 19 BRCA1 , 31 BRCA2 , and 36 BRCAx
+  but did not accurately predict the intrinsic subtypes defined by gene expression.
+  Furthermore, using unsupervised hierarchical clustering, we identified a distinct
+  subgroup of BRCAx tumors defined by methylation profiles. We validated these findings
+  in the 33 tumors in the test set, as well as in an independent validation set of
+  47 formalin-fixed, paraffin-embedded familial breast tumors, by pyrosequencing and
+  Epityper. Finally, gene-expression profiling and SNP CGH array previously performed
+  on the same samples allowed full integration of methylation, gene-expression, and
+  copy-number data sets, revealing frequent hypermethylation of genes that also displayed
+  loss of heterozygosity, as well as of genes that show copy-number gains, providing
+  a potential mechanism for expression dosage compensation. Together, these data show
+  that methylation profiles for familial breast cancers are defined by the mutation
+  status and are distinct from the intrinsic subtypes.
+authors: Flanagan JM, Cocciardi S, Waddell N, Johnstone CN, Marsh A, Henderson S,
+  Simpson P, da Silva L, Khanna K, Lakhani S, Boshoff C and Chenevix-Trench G.
+contact:
+  email: j.flanagan@imperial.ac.uk
+  name: James Flanagan
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20206335
+- geo:GSE17125
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Am J Hum Genet 86, 3 (2010): 420-33.'
+label: 'Flanagan et al. (2010): DNA Methylome of Familial Breast Cancer Identifies
+  Distinct Profiles Defined By Mutation ...'
+notes: ~
+pmid: 20206335
+title: DNA Methylome of Familial Breast Cancer Identifies Distinct Profiles Defined
+  By Mutation Status.
+year: 2010

@@ -1,0 +1,54 @@
+---
+abstract: Stable cell lines obtained by spontaneous immortalization might represent
+  early stages of malignant transformation and be useful experimental models for studies
+  of mechanisms of cancer development. The FHC fetal human cells cell line has been
+  established from normal fetal colonic mucosa. Detailed characterization of this
+  cell line and mechanism of spontaneously acquired immortality have not been described
+  yet. Therefore, we characterized the FHC cell line in terms of its tumorigenicity,
+  cytogenetics, and TP53 gene mutation analysis. FHC cells displayed capability for
+  anchorage-independent growth in semisolid media in vitro and formed solid tumors
+  after transplantation into SCID severe combined immunodeficiency mice. This tumorigenic
+  phenotype was associated with hypotriploidy and chromosome number ranging from 66
+  to 69. Results of comparative genetic hybridization arrays showed that most chromosomes
+  included regions of copy number gains or losses. Region 8q23 approximately 8q24.3
+  containing, e.g., MYC proto-oncogene was present in more than 20 copies per nucleus.
+  Moreover, we identified mutation of TP53 gene in codon 273 triplet CGT coding Arg
+  was changed to CAG coding His. Expression of Pro codon 72 polymorphic variant of
+  p53 was also detected. Mutation of TP53 gene was associated with abolished induction
+  of p21 Waf1 Cip1 and MDM-2 proteins and resistance to apoptosis after genotoxic
+  treatment. Because of their origin from normal fetal colon and their relative resistance
+  to the induction of apoptosis, FHC cells can be considered a valuable experimental
+  model for various studies.
+authors: Soucek K, Gajduskova P, Brazdova M, Hyzdalova M, Koci L, Vydra D, Trojanec
+  R, Pernicova Z, Lentvorska L, Hajduch M, Hofmanova J and Kozubik A.
+contact:
+  email: ksoucek@ibp.cz
+  name: Karel Soucek
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20193843
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.61
+    - 49.2
+    type: Point
+  info:
+    city: Brno
+    continent: Europe
+    country: Czech Republic
+    label: Brno, Czech Republic, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 197, 2 (2010): 107-16.'
+label: 'Soucek et al. (2010): Fetal Colon Cell Line Fhc Exhibits Tumorigenic Phenotype,
+  Complex Karyotype, and Tp53 Gene ...'
+notes: ~
+pmid: 20193843
+title: Fetal Colon Cell Line Fhc Exhibits Tumorigenic Phenotype, Complex Karyotype,
+  and Tp53 Gene Mutation.
+year: 2010

@@ -1,0 +1,54 @@
+---
+abstract: Lenalidomide is an effective drug in low-risk myelodysplastic syndromes
+  (MDS) with isolated del(5q), although not all patients respond. Studies have suggested
+  a role for TP53 mutations and karyotype complexity in disease progression and outcome.
+  In order to assess the impact of complex karyotypes on treatment response and disease
+  progression in 52 lenalidomide-treated patients with del(5q) MDS, conventional G-banding
+  cytogenetics (CC), single nucleotide polymorphism array (SNP-A), and genomic sequencing
+  methods were used. SNP-A analysis (with control sample, lymphocytes CD3+, in 30
+  cases) revealed 5q losses in all cases. Other recurrent abnormalities were infrequent
+  and were not associated with lenalidomide responsiveness. Low karyotype complexity
+  (by CC) and a high baseline platelet count (>280ï¿½× 10(9) /l) were associated with
+  the achievement of haematological response (Pï¿½=ï¿½0ï¿½020, Pï¿½=ï¿½0ï¿½013 respectively).
+  Unmutated TP53 status showed a tendency for haematological response (Pï¿½=ï¿½0ï¿½061).
+  Complete cytogenetic response was not observed in any of the mutated TP53 cases.
+  By multivariate analysis, the most important predictor for lenalidomide treatment
+  failure was a platelet count <280ï¿½× 10(9) /l (Odds Ratioï¿½=ï¿½6ï¿½17, Pï¿½=ï¿½0ï¿½040).
+  This study reveals the importance of a low baseline platelet count, karyotypic complexity
+  and TP53 mutational status for response to lenalidomide treatment. It supports the
+  molecular study of TP53 in MDS patients treated with lenalidomide.
+authors: Mallo M, Del Rey M, Ibï¿½ï¿½ez M, Calasanz MJ, Arenillas L, Larrï¿½yoz MJ,
+  Pedro C, Jerez A, Maciejewski J, Costa D, Nomdedeu M, Diez-Campelo M, Lumbreras
+  E, Gonzï¿½lez-Martï¿½nez T, Marugï¿½n I, Such E, Cervera J, Cigudosa JC, Alvarez
+  S, Florensa L, Hernï¿½ndez JM, Solï¿½ F.
+contact:
+  email: ~
+  name: Mar Mallo
+counts:
+  biosamples: 81
+  samples_acgh: 81
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23614682
+- geo:GSE35656
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.25
+    - 41.45
+    type: Point
+  info:
+    city: Badalona
+    continent: Europe
+    country: Spain
+    label: Badalona, Spain, Europe
+    precision: city
+journal: Br. J. Haematol. 162(1), 2013
+label: ' (2013): '
+notes: ~
+pmid: 23614682
+title: 'Response to lenalidomide in myelodysplastic syndromes with del(5q): influence
+  of cytogenetics and mutations.'
+year: 2013

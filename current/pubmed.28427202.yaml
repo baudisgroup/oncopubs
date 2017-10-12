@@ -1,0 +1,53 @@
+---
+abstract: 'Breast cancer (BC) has been genetically profiled through large-scale genome
+  analyses. However, the role and clinical implications of genetic alterations in
+  metastatic BC (MBC) have not been evaluated. Therefore, we conducted whole-exome
+  sequencing (WES) and RNA-Seq of 37 MBC samples and targeted deep sequencing of another
+  29 MBCs. We evaluated somatic mutations from WES and targeted sequencing and assessed
+  gene expression and performed pathway analysis from RNA-Seq. In this analysis, PIK3CA
+  was the most commonly mutated gene in estrogen receptor (ER)-positive BC, while
+  in ER-negative BC, TP53 was the most commonly mutated gene (p = 0.018 and p < 0.001,
+  respectively). TP53 stopgain/loss and frameshift mutation was related to low expression
+  of TP53 in contrast nonsynonymous mutation was related to high expression. The impact
+  of TP53 mutation on clinical outcome varied with regard to ER status. In ER-positive
+  BCs, wild type TP53 had a better prognosis than mutated TP53 (median overall survival
+  (OS) (wild type vs. mutated): 88.5 ï¿½ 54.4 vs. 32.6 ï¿½ 10.7 (months), p = 0.002).
+  In contrast, mutated TP53 had a protective effect in ER-negative BCs (median OS:
+  0.10 vs. 32.6 ï¿½ 8.2, p = 0.026). However, PIK3CA mutation did not affect patient
+  survival. In gene expression analysis, CALM1, a potential regulator of AKT, was
+  highly expressed in PIK3CA-mutated BCs. In conclusion, mutation of TP53 was associated
+  with expression status and affect clinical outcome according to ER status in MBC.
+  Although mutation of PIK3CA was not related to survival in this study, mutation
+  of PIK3CA altered the expression of other genes and pathways including CALM1 and
+  may be a potential predictive marker of PI3K inhibitor effectiveness.'
+authors: Kim JY, Lee E, Park K, Park WY, Jung HH, Ahn JS, Im YH, Park YH.
+contact:
+  email: yhparkhmo@skku.edu
+  name: Yeon Hee Park
+counts:
+  biosamples: 37
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 37
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28427202
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Oncotarget 8(17), 2017
+label: ' (2017): '
+notes: ~
+pmid: 28427202
+title: Clinical implications of genomic profiles in metastatic breast cancer with
+  a focus on TP53 and PIK3CA, the most frequently mutated genes.
+year: 2017

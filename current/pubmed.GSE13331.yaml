@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: de Leeuw RJ, Malloff CA, Johnson NA, Shen Y, Dyer MJ, Connors JM, Gascoyne
+  RD, Chan WC, Horsman DE, Lam WL
+contact:
+  email: rdeleeuw@bccrc.ca
+  name: Ronald J. deLeeuw
+counts:
+  biosamples: 52
+  samples_acgh: 52
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:GSE13331
+- geo:GSE13331
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: ~
+label: 'de Leeuw et al. (): Prognostic analysis of mantle cell lymphoma genomes'
+notes: No associated publication has been found so far.
+pmid: 0
+title: Prognostic analysis of mantle cell lymphoma genomes
+year: 0

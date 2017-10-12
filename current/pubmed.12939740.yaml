@@ -1,0 +1,50 @@
+---
+abstract: The etiology of Hodgkin lymphoma HL is poorly understood, and studies of
+  the genetics of this disease have been hampered by the scarcity of the Hodgkin and
+  Reed-Sternberg HRS cells within tumors. To determine whether recurrent genomic imbalances
+  are a feature of HL, CD30-positive HRS cells were laser-microdissected from 20 classical
+  Hodgkin lymphomas cHLs and four HL-derived cells lines and subjected to analyses
+  by comparative genomic hybridization. In primary tumors, the most frequently involved
+  chromosomal gains were 17q 70 , 2p 40 , 12q 40 , 17p 40 , 22q 35 , 9p 30 , 14q 30
+  , and 16p 30 , with minimal overlapping regions at 17q21, 2p23-13, 12q24, 17p13,
+  22q13, 9p24-23, 14q32, 16p13.3, and 16p11.2. The most frequent losses involved 13q
+  35 , 6q 30 , 11q 25 , and 4q 25 , with corresponding minimal overlapping regions
+  at 13q21, 6q22, 11q22, and 4q32. Statistical analysis revealed significantly more
+  gains of 2p and 14q in the older adult cases loss of 13q was associated with a poor
+  outcome. The results suggest that there is a set of recurrent chromosomal abnormalities
+  associated with cHL and provide further evidence that cHL is genetically distinct
+  from nodular lymphocyte predominance Hodgkin lymphoma NLPHL . Abnormalities of 17q
+  are infrequent in other lymphomas or NLPHL this finding, coupled with current knowledge
+  of gene expression in cHL, suggests that genes present on 17q may play an important
+  role in the pathogenesis of cHL.
+authors: Chui DT, Hammond D, Baird M, Shield L, Jackson R and Jarrett RF.
+contact:
+  email: dtychui@aol.com
+  name: Daniel T.Y. Chui
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12939740
+geo_data:
+  geo_json:
+    coordinates:
+    - -4.26
+    - 55.87
+    type: Point
+  info:
+    city: Glasgow
+    continent: Europe
+    country: United Kingdom
+    label: Glasgow, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 38, 2 (2003): 126-36.'
+label: 'Chui et al. (2003): Classical Hodgkin Lymphoma is Associated With Frequent
+  Gains of 17q.'
+notes: ~
+pmid: 12939740
+title: Classical Hodgkin Lymphoma is Associated With Frequent Gains of 17q.
+year: 2003

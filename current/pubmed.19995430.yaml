@@ -1,0 +1,39 @@
+---
+abstract: Breast cancer subtypes exhibit different genomic aberration patterns with
+  a tendency for high-level amplifications in distinct chromosomal regions. These
+  genomic aberrations may drive carcinogenesis through the upregulation of proto-oncogenes.
+  We have characterized DNA amplification at the human chromosomal region 13q34 in
+  breast cancer.
+authors: Melchor L, Saucedo-Cuevas LP, Munoz-Repeto I, Rodriguez-Pinilla SM, Honrado
+  E, Campoverde A, Palacios J, Nathanson KL, Garcia MJ and Benitez J.
+contact:
+  email: jbenitez@cnio.es
+  name: Javier Benitez
+counts:
+  biosamples: 277
+  samples_acgh: 277
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19995430
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Breast Cancer Res 11, 6 (2009): R86.'
+label: 'Melchor et al. (2009): Comprehensive Characterization of the DNA Amplification
+  At 13q34 in Human Breast Cancer Reveals ...'
+notes: ~
+pmid: 19995430
+title: Comprehensive Characterization of the DNA Amplification At 13q34 in Human Breast
+  Cancer Reveals Tfdp1 and Cul4A as Likely Candidate Target Genes.
+year: 2009

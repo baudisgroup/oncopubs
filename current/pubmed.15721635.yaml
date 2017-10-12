@@ -1,0 +1,52 @@
+---
+abstract: Nasopharyngeal carcinoma NPC occurs with a high incidence in Southeast Asia
+  and to a lesser extent in the Mediterranean area, especially in Tunisia, Algeria,
+  and Morocco. Cellular gene alterations combined with latent Epstein-Barr virus infection
+  are thought to be essential for NPC oncogenesis. To date, chromosome analysis with
+  comparative genomic hybridization CGH has been reported exclusively for NPCs from
+  Southeast Asia. Although NPCs from the Mediterranean area have several distinct
+  clinical and epidemiological features, CGH investigations have been lacking. Chromosome
+  analysis was therefore undertaken on a series of NPC xenografts and biopsies derived
+  from patients of Mediterranean origin. Four xenografts were investigated with a
+  combination of conventional CGH, array-based CGH, and comparative expressed sequence
+  hybridization. In addition, 23 fresh NPC biopsies were analyzed with conventional
+  CGH. Data obtained from xenografts and fresh biopsies were consistent, except that
+  amplification of genes at 18p was observed only in xenografts derived from metastatic
+  tissues. Frequent gains associated with gene overexpression were detected at 1q25
+  approximately qter 64 and 12p13 50 . Losses were noticed mainly at 11q14 approximately
+  q23 50 , 13q12 approximately q31 50 , 14q24 approximately q31 43 , and 3p13 approximately
+  p23 43 . Comparison with previous reports suggests that Mediterranean NPCs have
+  higher frequencies of gains at 1q and losses at 13q than their Asian counterparts.
+authors: Rodriguez S, Khabir A, Keryer C, Perrot C, Drira M, Ghorbel A, Jlidi R, Bernheim
+  A, Valent A and Busson P.
+contact:
+  email: pbusson@igr.fr
+  name: P. Busson
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15721635
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: Europe
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 157, 2 (2005): 140-47.'
+label: 'Rodriguez et al. (2005): Conventional and Array-Based Comparative Genomic
+  Hybridization Analysis of Nasopharyngeal ...'
+notes: ~
+pmid: 15721635
+title: Conventional and Array-Based Comparative Genomic Hybridization Analysis of
+  Nasopharyngeal Carcinomas From the Mediterranean Area.
+year: 2005

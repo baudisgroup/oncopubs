@@ -1,0 +1,59 @@
+---
+abstract: We designed a study to investigate genetic relationships between primary
+  tumors of oral squamous cell carcinoma OSCC and their lymph node metastases, and
+  to identify genomic copy number aberrations CNAs related to lymph node metastasis.
+  For this purpose, we collected a total of 42 tumor samples from 25 patients and
+  analyzed their genomic profiles by array-based comparative genomic hybridization.
+  We then compared the genetic profiles of metastatic primary tumors MPTs with their
+  paired lymph node metastases LNMs , and also those of LNMs with non-metastatic primary
+  tumors NMPTs . Firstly, we found that although there were some distinctive differences
+  in the patterns of genomic profiles between MPTs and their paired LNMs, the paired
+  samples shared similar genomic aberration patterns in each case. Unsupervised hierarchical
+  clustering analysis grouped together 12 of the 15 MPT-LNM pairs. Furthermore, similarity
+  scores between paired samples were significantly higher than those between non-paired
+  samples. These results suggested that MPTs and their paired LNMs are composed predominantly
+  of genetically clonal tumor cells, while minor populations with different CNAs may
+  also exist in metastatic OSCCs. Secondly, to identify CNAs related to lymph node
+  metastasis, we compared CNAs between grouped samples of MPTs and LNMs, but were
+  unable to find any CNAs that were more common in LNMs. Finally, we hypothesized
+  that subpopulations carrying metastasis-related CNAs might be present in both the
+  MPT and LNM. Accordingly, we compared CNAs between NMPTs and LNMs, and found that
+  gains of 7p, 8q and 17q were more common in the latter than in the former, suggesting
+  that these CNAs may be involved in lymph node metastasis of OSCC. In conclusion,
+  our data suggest that in OSCCs showing metastasis, the primary and metastatic tumors
+  share similar genomic profiles, and that cells in the primary tumor may tend to
+  metastasize after acquiring metastasis-associated CNAs.
+authors: Yoshioka S, Tsukamoto Y, Hijiya N, Nakada C, Uchida T, Matsuura K, Takeuchi
+  I, Seto M, Kawano K and Moriyama M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23457519
+- geo:GSE36942
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: Asia
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: 'PLoS One (2013) 8: e56165.'
+label: 'Yoshioka et al. (2013): Genomic profiling of oral squamous cell carcinoma
+  by array-based comparative genomic ...'
+notes: ~
+pmid: 23457519
+title: Genomic profiling of oral squamous cell carcinoma by array-based comparative
+  genomic hybridization.
+year: 2013

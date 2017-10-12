@@ -1,0 +1,46 @@
+---
+abstract: In this study, we report cytogenetic findings in two cases of malignant
+  peripheral nerve sheath tumor MPNST with hypodiploid karyotypes. A G-band technique,
+  multicolor fluorescence in situ hybridization m-FISH and comparative genomic hybridization
+  CGH were used and compared in this investigation. In both tumors, the G-band and
+  m-FISH analysis demonstrated multiple rearrangements on chromosomes 1-5, 8-12, 15-17,
+  20 and 21, whereas CGH exhibited gains at 8q and 4q. Both of the structural aberrations
+  and the genomic imbalances of the chromosomes may play an important role in the
+  pathogenesis and development of MPNST. No cytogenetic abnormalities specific for
+  MPNST were found in the present cases or in other previously reported cases. This
+  may reflect the diversity or heterogeneity of MPNST that exhibit various clinical
+  and histological features. However, there are few cases described in detail on a
+  morphologic pattern of MPNST, a correlation between the cytogenetic aberrations
+  and the histologic patterns are still uncertain.
+authors: Ishiguro M, Iwasaki H, Takeshita M, Hirose Y and Kaneko Y.
+contact:
+  email: ~
+  name: Hiroshi Iwasaki
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16820897
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: 'Oncol Rep 16, 2 (2006): 225-32.'
+label: 'Ishiguro et al. (2006): A Cytogenetic Analysis in Two Cases of Malignant Peripheral
+  Nerve Sheath Tumor Showing ...'
+notes: ~
+pmid: 16820897
+title: A Cytogenetic Analysis in Two Cases of Malignant Peripheral Nerve Sheath Tumor
+  Showing Hypodiploid Karyotype.
+year: 2006

@@ -1,0 +1,56 @@
+---
+abstract: Nongestational choriocarcinomas are rare tumors. In the gastrointestinal
+  tract, they are characterized by a biphasic tumor growth with separated areas of
+  adenocarcinomatous and choriocarcinomatous differentiation. We here report a case
+  of a combined adenocarcinoma-choriocarcinoma of the rectum. The tumor showed an
+  aggressive clinical behavior with metastasis to the liver and lungs. A transient
+  partial remission was achieved after 4 cycles of cisplatinum, etoposide, and ifosfamide
+  chemotherapy, with normalization of serum beta-human chorionic gonadotropin levels.
+  At this time, viable residual choriocarcinoma cells were found in surgically resected
+  lung metastasis. The patient succumbed 8 months after initial diagnosis to a rapid
+  abdominal relapse. We used comparative genomic hybridization CGH and fluorescence
+  in situ hybridization to elucidate the genetic relationship of adenocarcinoma and
+  choriocarcinoma in this neoplasm. We found genetic changes characteristic for colorectal
+  adenocarcinomas, a loss of chromosomal regions 8p21-pter as well as 18q21-pter,
+  and a gain of 5p and 20q, in both tumor parts. This provides evidence for the common
+  origin of both components. A differential pattern of additional genetic changes
+  suggests a clonal evolution from a common ancestor cell. In contrast to findings
+  from a comparative study on a choriocarcinoma of the renal pelvis, we did not find
+  an amplification of the germ cell cancer-associated chromosomal region 12p11.2-p12.1
+  in the areas of choriocarcinoma but found instead a loss of Xp11.3-pter. To our
+  knowledge, this is the first report of a CGH comparison of the adenocarcinomatous
+  and choriocarcinomatous tumor parts in a nongestational choriocarcinoma of the gastrointestinal
+  tract.
+authors: Verbeek W, Schulten HJ, Sperling M, Tiesmeier J, Stoop H, Dinjens W, Looijenga
+  L, Wormann B, Fuzesi L and Donhuijsen K.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15668903
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.53
+    - 52.27
+    type: Point
+  info:
+    city: Braunschweig
+    continent: Europe
+    country: Germany
+    label: Braunschweig, Germany, Europe
+    precision: city
+journal: 'Hum Pathol 35, 11 (2004): 1427-30.'
+label: 'Verbeek et al. (2004): Rectal Adenocarcinoma With Choriocarcinomatous Differentiation:
+  Clinical and Genetic ...'
+notes: ~
+pmid: 15668903
+title: 'Rectal Adenocarcinoma With Choriocarcinomatous Differentiation: Clinical and
+  Genetic Aspects.'
+year: 2004

@@ -1,0 +1,53 @@
+---
+abstract: The diagnostic and prognostic importance of recurrent chromosomal aberrations
+  in systemic B cell lymphoma is well documented. In contrast, limited data exist
+  on genetic changes in primary cutaneous B cell lymphoma. In this study we investigated
+  chromosomal aberration patterns in two types of primary cutaneous B cell lymphoma
+  with a different clinical behavior. Twenty-two primary cutaneous B cell lymphomas,
+  including nine follicle center cell lymphomas and 13 large B cell lymphomas of the
+  leg, were analyzed by comparative genomic hybridization and in part by fluorescence
+  in situ hybridization. The most frequent imbalances detectable were gains in 18q
+  eight of 22 , 1q six of 22 , 7 six of 22 , 12q six of 22 , or Xp four of 22 , and
+  losses in 6q four of 22 . In contrast to large B cell lymphomas of the leg, primary
+  cutaneous follicle center cell lymphomas had fewer imbalances and lacked translocations
+  affecting the IGH locus. Gains in 18q eight of 13 and losses in 6q four of 13 as
+  well as breakpoints within the IGH locus six of 11 were restricted to the large
+  B cell lymphomas of the leg subtype. Translocation t 14 18 was excluded in 16 primary
+  cutaneous B cell lymphomas of both subtypes that were studied by fluorescence in
+  situ hybridization. These results suggest that primary cutaneous follicle center
+  cell lymphoma and large B cell lymphoma of the leg are characterized by different
+  chromosomal aberration patterns, which in part might determine the different clinical
+  course of these malignancies.
+authors: Hallermann C, Kaune KM, Siebert R, Vermeer MH, Tensen CP, Willemze R, Gunawan
+  B, Bertsch HP and Neumann C.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15175042
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'J Invest Dermatol 122, 6 (2004): 1495-502.'
+label: 'Hallermann et al. (2004): Chromosomal Aberration Patterns Differ in Subtypes
+  of Primary Cutaneous B Cell ...'
+notes: ~
+pmid: 15175042
+title: Chromosomal Aberration Patterns Differ in Subtypes of Primary Cutaneous B Cell
+  Lymphomas.
+year: 2004

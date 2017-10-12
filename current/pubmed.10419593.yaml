@@ -1,0 +1,51 @@
+---
+abstract: Oesophageal adenocarcinomas arising in Barretts epithelium occasionally
+  present as multiple lesions. This could be due to either a multifocal presentation
+  of the same tumour, or different neoplasms arising simultaneously in a dysplastic
+  Barretts oesophagus field cancerization . This is a report of the genetic analysis
+  of multiple neoplastic sites in a Barretts oesophagus with an extensive area of
+  dysplasia. In addition, the dysplastic Barretts epithelium was evaluated. For the
+  genetic screening, comparative genomic hybridization CGH allowed evaluation of the
+  whole genome of each specimen. Five cancerous regions were selected and subsequently
+  dissected from paraffin-embedded tissue blocks. The use of archival materials enabled
+  a targeted collection of representative tumour locations. Multiple genetic aberrations
+  were detected by CGH in all cancer sites. Losses on 3p, 4, 7q, 18q, and Y, as well
+  as gains on 8q, 9q, 12p, 13q, 17q, 20p and X, were found in each specimen. In four
+  out of the five lesions, simultaneous losses on 9p, 15q, and 16q, with concomitant
+  gains on 5p, 7q, and 10p, were disclosed by CGH. Adjacent high-grade dysplastic
+  Barretts mucosa shared the losses on 3p, 4, 7q, 9p, 18, and Y, as well as the gains
+  on 5p, 7q, 13q, 17q, and X, thereby confirming its precursor status. Within this
+  single and rare case of multifocal Barretts adenocarcinoma, a monoclonal genotype
+  was present. This must have been caused by an extensive outgrowth of a single tumour.
+authors: van Dekken H, Vissers CJ, Tilanus HW, Tanke HJ and Rosenberg C.
+contact:
+  email: h.vandekken@slaz.nl
+  name: Herman van Dekken
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10419593
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'J Pathol 188, 3 (1999): 263-66.'
+label: 'van Dekken et al. (1999): Clonal Analysis of a Case of Multifocal Oesophageal
+  (Barretts) Adenocarcinoma By Comparative ...'
+notes: ~
+pmid: 10419593
+title: Clonal Analysis of a Case of Multifocal Oesophageal (Barretts) Adenocarcinoma
+  By Comparative Genomic Hybridization.
+year: 1999

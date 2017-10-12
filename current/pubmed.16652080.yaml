@@ -1,0 +1,40 @@
+---
+abstract: Array-based comparative genomic hybridization aCGH was used to develop a
+  genome-wide molecular profile of oral squamous cell carcinoma OSCC . Copy number
+  alterations CNAs were identified by chromosomal region, mapped to specific genes,
+  and compared with several previously documented CNAs associated with head and neck
+  squamous cell carcinoma HNSCC . The status of 512 commonly altered cancer genes
+  was assessed and evaluated as potential correlates of tumor behavior.
+authors: Sparano A, Quesnelle KM, Kumar MS, Wang Y, Sylvester AJ, Feldman M, Sewell
+  DA, Weinstein GS and Brose MS.
+contact:
+  email: brosem@mail.med.upenn.edu
+  name: Marcia S. Brose
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16652080
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Laryngoscope 116, 5 (2006): 735-41.'
+label: 'Sparano et al. (2006): Genome-Wide Profiling of Oral Squamous Cell Carcinoma
+  By Array-Based Comparative Genomic ...'
+notes: ~
+pmid: 16652080
+title: Genome-Wide Profiling of Oral Squamous Cell Carcinoma By Array-Based Comparative
+  Genomic Hybridization.
+year: 2006

@@ -1,0 +1,58 @@
+---
+abstract: 'High-resolution array comparative genomic hybridisation aCGH analysis of
+  DNA copy number aberrations CNAs was performed on breast carcinomas in premenopausal
+  women from Western New York WNY and from Gomel, Belarus, an area exposed to fallout
+  from the 1986 Chernobyl nuclear accident. Genomic DNA was isolated from 47 frozen
+  tumour specimens from 42 patients and hybridised to arrays spotted with more than
+  3000 BAC clones. In all, 20 samples were from WNY and 27 were from Belarus. In total,
+  34 samples were primary tumours and 13 were lymph node metastases, including five
+  matched pairs from Gomel. The average number of total CNAs per sample was 76 range
+  35-134 . We identified 152 CNAs 92 gains and 60 losses occurring in more than 10
+  of the samples. The most common amplifications included gains at 8q13.2 49 , at
+  1p21.1 36 , and at 8q24.21 36 . The most common deletions were at 1p36.22 26 , at
+  17p13.2 26 , and at 8p23.3 23 . Belarussian tumours had more amplifications and
+  fewer deletions than WNY breast cancers. HER2 neu negativity and younger age were
+  also associated with a higher number of gains and fewer losses. In the five paired
+  samples, we observed more discordant than concordant DNA changes. Unsupervised hierarchical
+  cluster analysis revealed two distinct groups of tumours: one comprised predominantly
+  of Belarussian carcinomas and the other largely consisting of WNY cases. In total,
+  50 CNAs occurred significantly more commonly in one cohort vs the other, and these
+  included some candidate signature amplifications in the breast cancers in women
+  exposed to significant radiation. In conclusion, our high-density aCGH study has
+  revealed a large number of genetic aberrations in individual premenopausal breast
+  cancer specimens, some of which had not been reported before. We identified a distinct
+  CNA profile for carcinomas from a nuclear fallout area, suggesting a possible molecular
+  fingerprint of radiation-associated breast cancer.'
+authors: Varma G, Varma R, Huang H, Pryshchepava A, Groth J, Fleming D, Nowak NJ,
+  McQuaid D, Conroy J, Mahoney M, Moysich K, Falkner KL and Geradts J.
+contact:
+  email: joseph.geradts@duke.edu
+  name: J. Geradts
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16222315
+geo_data:
+  geo_json:
+    coordinates:
+    - -93.87
+    - 45.17
+    type: Point
+  info:
+    city: Buffalo
+    continent: North America
+    country: United States
+    label: Buffalo, United States, North America
+    precision: city
+journal: 'Br J Cancer 93, 6 (2005): 699-708.'
+label: 'Varma et al. (2005): Array Comparative Genomic Hybridisation (Acgh) Analysis
+  of Premenopausal Breast Cancers From a ...'
+notes: ~
+pmid: 16222315
+title: Array Comparative Genomic Hybridisation (Acgh) Analysis of Premenopausal Breast
+  Cancers From a Nuclear Fallout Area and Matched Cases From Western New York.
+year: 2005

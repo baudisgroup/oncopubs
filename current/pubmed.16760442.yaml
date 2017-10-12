@@ -1,0 +1,43 @@
+---
+abstract: The distinction between Burkitts lymphoma and diffuse large-B-cell lymphoma
+  is unclear. We used transcriptional and genomic profiling to define Burkitts lymphoma
+  more precisely and to distinguish subgroups in other types of mature aggressive
+  B-cell lymphomas.
+authors: Hummel M, Bentink S, Berger H, Klapper W, Wessendorf S, Barth TF, Bernd HW,
+  Cogliatti SB, Dierlamm J, Feller AC, Hansmann ML, Haralambieva E, Harder L, Hasenclever
+  D, Kuhn M, Lenze D, Lichter P, Martin-Subero JI, Moller P, Muller-Hermelink HK,
+  Ott G, Parwaresch RM, Pott C, Rosenwald A, Rosolowski M, Schwaenen C, Sturzenhofecker
+  B, Szczepanowski M, Trautmann H, Wacker HH, Spang R, Loeffler M, Trumper L, Stein
+  H and Siebert R.
+contact:
+  email: rsiebert@medgen.uni-kiel.de
+  name: Reiner Siebert
+counts:
+  biosamples: 185
+  samples_acgh: 185
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16760442
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.41
+    - 52.52
+    type: Point
+  info:
+    city: Berlin
+    continent: Europe
+    country: Germany
+    label: Berlin, Germany, Europe
+    precision: city
+journal: 'N Engl J Med 354, 23 (2006): 2419-30.'
+label: 'Hummel et al. (2006): A Biologic Definition of Burkitts Lymphoma From Transcriptional
+  and Genomic Profiling.'
+notes: The data from the expression analysis is available through NCBI GEO (GSE4475).
+  Publication of the aCGH data is in preparation.
+pmid: 16760442
+title: A Biologic Definition of Burkitts Lymphoma From Transcriptional and Genomic
+  Profiling.
+year: 2006

@@ -1,0 +1,49 @@
+---
+abstract: Histopathological differentiation between dermatofibrosarcoma protuberans
+  DFSP and dermatofibroma DF is often difficult, because both neoplasms share some
+  clinical features and the presence of a storiform pattern. In the present study,
+  we investigated the usefulness of comparative genomic hybridization CGH in the diagnosis
+  of these entities by examining 12 DFSP and 12 DF cases. The most frequent DNA sequence
+  copy number changes detected in 10 83 of 12 DFSP cases mean, 1.9 aberrations tumor
+  range, 0-3 consisted of gains of 17q22-qter 10 tumors , 22q13 nine tumors , and
+  8q24.1-qter three tumors . High-level amplification, which was detected in three
+  tumors, was seen only in chromosome 17, with 17q23-q25 as the minimal common region.
+  Loss of DNA sequences was not found in DFSP cases. In contrast, two 17 of the 12
+  DF cases mean, 0.5 aberrations tumor range, 0-4 showed DNA sequence copy number
+  changes, although recurrent gains and losses and high-level amplifications were
+  not observed. Gains were more common than losses in DF. Overrepresentation of 17q
+  and 22q sequences was a common finding in DFSP but not in DF. Thus, CGH seems to
+  be useful for distinguishing DFSP from DF in most cases.
+authors: Nishio J, Iwasaki H, Ohjimi Y, Ishiguro M, Isayama T, Naito M, Iwashita A
+  and Kikuchi M.
+contact:
+  email: ~
+  name: NA Nishio
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11850069
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 132, 2 (2002): 102-08.'
+label: 'Nishio et al. (2002): Overrepresentation of 17q22-Qter and 22q13 in Dermatofibrosarcoma
+  Protuberans But Not in ...'
+notes: ~
+pmid: 11850069
+title: 'Overrepresentation of 17q22-Qter and 22q13 in Dermatofibrosarcoma Protuberans
+  But Not in Dermatofibroma: A Comparative Genomic Hybridization Study.'
+year: 2002

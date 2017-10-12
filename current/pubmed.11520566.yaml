@@ -1,0 +1,44 @@
+---
+abstract: We performed CGH analysis on 34 cervical lesions, which included 8 cases
+  of koilocytosis, 6 mild dysplasias and 20 moderate dysplasias. Chromosome aberrations
+  were detected in 11 cases of which 9 were moderate dysplasias. A total of 55 chromosome
+  arms were involved. The most frequent aberrations were losses of 5p and Xq, each
+  of which was present in 5 34 cases. Gain of 3q was detected in two moderate dysplasias.
+  This aberration is the most frequent copy number change in advanced-stage cervical
+  carcinoma. A considerable number of the aberrations found in the preinvasive cases
+  of this study are frequently present in invasive cervical tumors. The presence of
+  apparently non-random chromosome aberrations in early preinvasive cervical lesions
+  has not previously been described.
+authors: Kirchhoff M, Rose H, Petersen BL, Maahr J, Gerdes T, Philip J and Lundsteen
+  C.
+contact:
+  email: rh06097@rh.dk
+  name: Maria kirchhoff
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11520566
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: Europe
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 129, 1 (2001): 47-51.'
+label: 'Kirchhoff et al. (2001): Comparative Genomic Hybridization Reveals Non-Random
+  Chromosomal Aberrations in Early ...'
+notes: ~
+pmid: 11520566
+title: Comparative Genomic Hybridization Reveals Non-Random Chromosomal Aberrations
+  in Early Preinvasive Cervical Lesions.
+year: 2001

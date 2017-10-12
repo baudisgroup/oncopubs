@@ -1,0 +1,41 @@
+---
+abstract: Comparative genomic hybridization was applied for a comprehensive screening
+  of under- and overrepresentation of genetic material in 13 autoptic small cell lung
+  cancer specimens. The most abundant genetic changes include DNA losses of chromosome
+  arms 3p, 5q, 10q, 13q, and 17p and DNA gains of 3q, 5p, 8q, and 17q. Amplification
+  sites in these tumors were mapped to 22 chromosome bands. The most frequently involved
+  band was 19q13.1 4 cases . Bands 1p32, 2p23, 7q11.2, 8q24, and 13q33-34 were involved
+  in two cases each.
+authors: Ried T, Petersen I, Holtgreve-Grez H, Speicher MR, Schrock E, du Manoir S
+  and Cremer T.
+contact:
+  email: riedt@mail.nih.gov
+  name: Thomas Ried
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8137295
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cancer Res 54, 7 (1994): 1801-06.'
+label: 'Ried et al. (1994): Mapping of Multiple DNA Gains and Losses in Primary Small
+  Cell Lung Carcinomas By Comparative ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 8137295
+title: Mapping of Multiple DNA Gains and Losses in Primary Small Cell Lung Carcinomas
+  By Comparative Genomic Hybridization.
+year: 1994

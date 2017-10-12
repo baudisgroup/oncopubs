@@ -1,0 +1,50 @@
+---
+abstract: Blastic plasmacytoid dendritic cell neoplasm BPDCN is a rare, clinically
+  aggressive malignancy with a median survival of 12-14 months. To identify pathogenetic
+  relevant genomic aberrations and molecular targets for therapy, we analyzed skin
+  biopsy samples obtained from 14 patients using high-resolution array-based comparative
+  genomic hybridization and immunostaining. Losses of chromosomes 9, 12, 13, and 15
+  were detected most frequently. Loss of the CDKN1B locus was the most common finding
+  and was detected in 64 of tumors. In all but one case, the dose-dependent haploinsufficient
+  cell-cycle inhibitor p27 KIP1 , encoded by CDKN1B, was weakly expressed in the nuclei
+  of tumor cells. Losses of the CDKN2A-ARF-CDKN2B locus occurred in 50 of patients,
+  and in one case a distinct biallelic loss was identified. The cell-cycle inhibitor
+  p16 INK4a , which is encoded by CDKN2A, was not expressed in tumor cells, suggesting
+  a complete loss of function. Loss of chromosome 13, including the RB1 gene, was
+  observed in 43 of tumors. These results imply that alterations of the cell-cycle
+  checkpoint controlling proteins p27 KIP1 , p16 INK4a , and RB1 may exert a profound
+  effect in malignant transformation in BPDCN. The elucidation of the affected pathways
+  may guide the development of new treatments specifically designed for this aggressive
+  disease entity.
+authors: Wiesner T, Obenauf AC, Cota C, Fried I, Speicher MR and Cerroni L.
+contact:
+  email: lorenzo.cerroni@medunigraz.at
+  name: Lorenzo Cerroni
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19924135
+geo_data:
+  geo_json:
+    coordinates:
+    - 15.45
+    - 47.07
+    type: Point
+  info:
+    city: Graz
+    continent: Europe
+    country: Austria
+    label: Graz, Austria, Europe
+    precision: city
+journal: 'J Invest Dermatol 130, 4 (2010): 1152-57.'
+label: 'Wiesner et al. (2010): Alterations of the Cell-Cycle Inhibitors P27(Kip1)
+  and P16(Ink4A) Are Frequent in Blastic ...'
+notes: ~
+pmid: 19924135
+title: Alterations of the Cell-Cycle Inhibitors P27(Kip1) and P16(Ink4A) Are Frequent
+  in Blastic Plasmacytoid Dendritic Cell Neoplasms.
+year: 2010

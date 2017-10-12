@@ -1,0 +1,52 @@
+---
+abstract: 'Hepatocellular carcinoma HCC is one of the most common neoplasms worldwide.
+  Well-established risk factors include infections with two very different viruses:
+  the DNA virus causing hepatitis B HBV and the RNA virus inducing hepatitis C HCV
+  . In order to determine whether genetic differences exist between HBV- and HCV-induced
+  HCC, 41 HCC samples of known vival status were examined by comparative genomic hybridization
+  CGH . The analysis revealed frequent deletions of 1p 24 , 4q 39 , 6q 41 , 8p 44
+  , 9p 24 , 11q 24 , 12q 22 , and 13q 39 , as well as common gains of 1q 46 , 6p 20
+  , 8q 41 , 11q 27 , and 17q 37 . There was no significant difference in the number
+  and type of chromosomal imbalances between 25 HCV- and 16 HBV-infected tumours.
+  This is consistent with models suggesting that HBV and HCV cause cancer through
+  non-specific inflammatory and regenerative processes, rather than through virus-specific
+  interactions with defined target genes. Chromosomal imbalances were also unrelated
+  to the grade and stage of HCC. This may suggest that most gross genomic alterations
+  occur early during HCC development and that further progression of these tumours
+  may be associated with other types of genetic changes, not detectable by CGH. In
+  summary, these data show that characteristic gross genomic changes occur in HCC,
+  but these alterations at present do not appear to have diagnostic or prognostic
+  applications.'
+authors: Tornillo L, Carafa V, Richter J, Sauter G, Moch H, Minola E, Gambacorta M,
+  Bianchi L, Vecchione R and Terracciano LM.
+contact:
+  email: lterracciano@uhbs.ch
+  name: Luigi M. Terraciano
+counts:
+  biosamples: 41
+  samples_acgh: 0
+  samples_ccgh: 41
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11054713
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'J Pathol 192, 3 (2000): 307-12.'
+label: 'Tornillo et al. (2000): Marked Genetic Similarities Between Hepatitis B Virus-Positive
+  and Hepatitis C Virus-Positive ...'
+notes: ~
+pmid: 11054713
+title: Marked Genetic Similarities Between Hepatitis B Virus-Positive and Hepatitis
+  C Virus-Positive Hepatocellular Carcinomas.
+year: 2000

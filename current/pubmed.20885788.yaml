@@ -1,0 +1,56 @@
+---
+abstract: Studies have suggested that somatic events in tumors can depend on an individuals
+  constitutional genotype. We used squamous cell carcinomas SCC of the skin, which
+  arise in high multiplicity in organ transplant recipients, as a model to compare
+  the pattern of somatic alterations within and across individuals. Specifically,
+  we performed array comparative genomic hybridization on 104 tumors from 25 unrelated
+  individuals who each had three or more independently arisen SCCs and compared the
+  profiles occurring within patients to profiles of tumors across a larger set of
+  135 patients. In general, chromosomal aberrations in SCCs were more similar within
+  than across individuals two-sided exact-test p-value amp lt 1x10 -7 , consistent
+  with the notion that the genetic background was affecting the pattern of somatic
+  changes. To further test this possibility, we performed allele-specific imbalance
+  studies using microsatellite markers mapping to 14 frequently aberrant regions of
+  multiple independent tumors from 65 patients. We identified nine loci which show
+  evidence of preferential allelic imbalance. One of these loci, 8q24, corresponded
+  to a region in which multiple single nucleotide polymorphisms have been associated
+  with increased cancer risk in genome-wide association studies GWAS . We tested three
+  implicated variants and identified one, rs13281615, with evidence of allele-specific
+  imbalance p-value 0.012 . The finding of an independently identified cancer susceptibility
+  allele with allele-specific imbalance in a genomic region affected by recurrent
+  DNA copy number changes suggest that it may also harbor risk alleles for SCC. Together
+  these data provide strong evidence that the genetic background is a key driver of
+  somatic events in cancer, opening an opportunity to expand this approach to identify
+  cancer risk alleles.
+authors: Dworkin AM, Ridd K, Bautista D, Allain DC, Iwenofu OH, Roy R, Bastian BC
+  and Toland AE.
+contact:
+  email: Amanda.toland@osumc.edu
+  name: Amanda Toland
+counts:
+  biosamples: 305
+  samples_acgh: 305
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20885788
+geo_data:
+  geo_json:
+    coordinates:
+    - -97.37
+    - 41.43
+    type: Point
+  info:
+    city: Columbus
+    continent: North America
+    country: United States
+    label: Columbus, United States, North America
+    precision: city
+journal: PLoS Genet 6, 9 (2010)
+label: 'Dworkin et al. (2010): Germline Variation Controls the Architecture of Somatic
+  Alterations in Tumors.'
+notes: ~
+pmid: 20885788
+title: Germline Variation Controls the Architecture of Somatic Alterations in Tumors.
+year: 2010

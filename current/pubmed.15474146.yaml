@@ -1,0 +1,50 @@
+---
+abstract: 'Many detailed genetic studies have been reported on prostate carcinogenesis.
+  A major shortcoming of these studies, however, is the fact that most data have been
+  gained from investigations that were performed at a single point of time during
+  tumor development. Only little is known on the dynamic process of genetic changes
+  during the course of the disease. We performed comparative genomic hybridization
+  in two cases of prostate cancer brain metastases. Tissue samples from the primary
+  tumors, the locally recurrent tumor in one case, and the brain metastases from both
+  cases were available for analysis. The number of chromosome abnormalities was found
+  to be increased in the metastases. This contrasts to a remarkably stable chromosome
+  composition of the primary tumor over several years, even in an androgen-depleted
+  environment. When focusing on these changes, which either emerged as new common
+  aberrations in both brain metastases, or which were commonly present in the primary
+  and metastatic tumors, we were able to delineate five chromosomal sites that are
+  assumed to be related to prostate cancer metastasis: 8q21 approximately q22, 8q24,
+  15q24 approximately q26, 20q12 approximately q13.1, and Xq12 approximately q21.
+  These findings provide new evidence for a putative role of genes at 15q and 20q
+  in the metastatic process of prostate cancer.'
+authors: Wullich B, Riedinger S, Brinck U, Stoeckle M, Kamradt J, Ketter R and Jung
+  V.
+contact:
+  email: urbwul@uniklinik-saarland.de
+  name: Bernd Wullich
+counts:
+  biosamples: 5
+  samples_acgh: 0
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15474146
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: Europe
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 154, 2 (2004): 119-23.'
+label: 'Wullich et al. (2004): Evidence for Gains At 15q and 20q in Brain Metastases
+  of Prostate Cancer.'
+notes: ~
+pmid: 15474146
+title: Evidence for Gains At 15q and 20q in Brain Metastases of Prostate Cancer.
+year: 2004

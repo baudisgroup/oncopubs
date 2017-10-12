@@ -1,0 +1,44 @@
+---
+abstract: Molecular alterations critical to development of cancer include mutations,
+  copy number alterations amplifications and deletions as well as genomic rearrangements
+  resulting in gene fusions. Massively parallel next generation sequencing, which
+  enables the discovery of such changes, uses considerable quantities of genomic DNA
+  amp gt 5 ug , a serious limitation in ever smaller clinical samples. However, a
+  commonly available microarray platforms such as array comparative genomic hybridization
+  array CGH allows the characterization of gene copy number at a single gene resolution
+  using much smaller amounts of genomic DNA. In this study we evaluate the sensitivity
+  of ultra-dense array CGH platforms developed by Agilent, especially that of the
+  1 million probe array 1 M array , and their application when whole genome amplification
+  is required because of limited sample quantities.
+authors: Przybytkowski E, Ferrario C and Basik M.
+contact:
+  email: ~
+  name: Mark Basik
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21272361
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.59
+    - 45.51
+    type: Point
+  info:
+    city: Montreal
+    continent: North America
+    country: Canada
+    label: Montreal, Canada, North America
+    precision: city
+journal: 'BMC Med Genomics 4 (2011): 16.'
+label: 'Przybytkowski et al. (2011): The Use of Ultra-Dense Array Cgh Analysis for
+  the Discovery of Micro-Copy Number ...'
+notes: ~
+pmid: 21272361
+title: The Use of Ultra-Dense Array Cgh Analysis for the Discovery of Micro-Copy Number
+  Alterations and Gene Fusions in the Cancer Genome.
+year: 2011

@@ -1,0 +1,46 @@
+---
+abstract: Mutations in BRCA1 and BRCA2 genes confer a high risk of breast and ovarian
+  cancer but the incomplete penetrance of these mutations suggests that other genetic
+  and or environmental factors may modify this risk. We present a family where all
+  affected members carried a mutation in the BRCA1 gene and the index case had suffered
+  from cancer twice in the last 27 years, whereas her monozygotic twin sister, also
+  a carrier of the mutation, remained healthy. As copy number variants CNVs contribute
+  to phenotypic diversity, a comparative genomic hybridization array CGH was performed
+  to see whether the differences in the CNV profile were a modifier factor of the
+  phenotype in our monozygotic twins. Our results show that differences in the CNVs
+  profile were not the cause of the extremely variable penetrance observed in our
+  MZ twin. The search for an explanation should not therefore be limited to genetic
+  changes at the level of the DNA sequence.
+authors: Lasa A, Ramon y Cajal T, Llort G, Suela J, Cigudosa JC, Cornet M, Alonso
+  C, Barnadas A and Baiget M.
+contact:
+  email: mbaiget@santpau.cat
+  name: Montserrat Baiget
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20369283
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Breast Cancer Res Treat 123, 3 (2010): 901-05.'
+label: 'Lasa et al. (2010): Copy Number Variations Are Not Modifiers of Phenotypic
+  Expression in a Pair of Identical Twins ...'
+notes: ~
+pmid: 20369283
+title: Copy Number Variations Are Not Modifiers of Phenotypic Expression in a Pair
+  of Identical Twins Carrying a Brca1 Mutation.
+year: 2010

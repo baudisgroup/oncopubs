@@ -1,0 +1,48 @@
+---
+abstract: Leiomyosarcomas of soft tissues are an aggressive group of tumors with a
+  high incidence of recurrence. Little is known about the molecular genetic changes
+  associated with clinical outcome. Therefore, we studied 28 leiomyosarcoma samples
+  of similar grade using comparative genomic hybridization and DNA flow cytometry
+  and identified a difference in survival time associated with ploidy status and the
+  number of chromosomal aberrations. The average survival time was shown to decrease
+  with increase in chromosomal aberrations identified using comparative genomic hybridization.
+  The average survival time was shorter in the near-tetraploid group than in the diploid
+  and triploid group. Gain of 5p14-pter was significantly more common in near-tetraploid
+  tumors. The survival time of patients with near-tetraploidy together with gain of
+  5p14-pter was reduced, and 50 died within the 1st year. Furthermore, loss of 13q14-q21
+  was significantly more frequent in the amp lt 5-year than in the amp gt 5-year survival
+  group P .01 . These results suggest that 13q14-q21 loss and 5p14-pter gain at diagnosis
+  could be used to identify patients with leiomyosarcoma who are likely to have a
+  shorter survival time and who might benefit from early treatment intensification.
+authors: Wang R, Titley JC, Lu YJ, Summersgill BM, Bridge JA, Fisher C and Shipley
+  J.
+contact:
+  email: janet.shipley@icr.ac.uk
+  name: Janet Shipley
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12920222
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Mod Pathol 16, 8 (2003): 778-85.'
+label: 'Wang et al. (2003): Loss of 13q14-Q21 and Gain of 5p14-Pter in the Progression
+  of Leiomyosarcoma.'
+notes: ~
+pmid: 12920222
+title: Loss of 13q14-Q21 and Gain of 5p14-Pter in the Progression of Leiomyosarcoma.
+year: 2003

@@ -1,0 +1,58 @@
+---
+abstract: The identification of genetic aberrations may help understand the mechanisms
+  of tumorigenesis and has important implications in diagnosis, prognosis and treatment.
+  We applied Illuminas 317K high-density single nucleotide polymorphism SNP arrays
+  to profile chromosomal aberrations in clear cell renal cell carcinoma ccRCC from
+  80 patients and analyzed the association of LOH amplification events with clinicopathological
+  characteristics and telomere length. The most common loss of heterozygosity LOH
+  were 3p 69 cases including 38 whole 3p arm losses, 30 large fragment LOH spanning
+  3p21-36 , and 1 interstitial LOH spanning 3p12-14, 3p21-22, 3p24.1-24.2 and 3p24.3
+  , followed by chromosome losses at 8p12-pter, 6q23.3-27, 14q24.1-qter, 9q32-qter,
+  10q22.3-qter, 9p13.3-pter, 4q28.3-qter and 13q12.1-21.1. We also found several smallest
+  overlapping regions of LOH that contained tumor suppressor genes. One smallest LOH
+  in 8p12 had a size of 0.29 Mb and only contained one gene NRG1 . The most frequent
+  chromosome gains were at 5q 32 cases , including 10 whole 5q amplification, 21 large
+  amplifications encompassing 5q32-ter and 1 focal amplification in 5q35.3 0.42 Mb
+  . The other common chromosome gains were 1q25.1-qter, 7q21.13-qter, 8q24.12-qter
+  and whole 7p arm. Significant associations of LOH at 9p, 9q, 14q and 18q were observed
+  with higher nuclear grade. Significant associations with tumor stage were observed
+  for LOH at 14q, 18p and 21q. Finally, we found that tumors with LOH at 2q, 6p, 6q,
+  9p, 9q and 17p had significantly shorter telomere length than those without LOH.
+  This is the first study to use Illuminas SNP-CGH array that provides a close estimate
+  of the size and frequency of chromosome LOH and amplifications of ccRCC. The identified
+  regions and genes may become diagnostic and prognostic biomarkers as well as potential
+  targets of therapy.
+authors: Chen M, Ye Y, Yang H, Tamboli P, Matin S, Tannir NM, Wood CG, Gu J and Wu
+  X.
+contact:
+  email: xwu@mdanderson.org
+  name: Xifeng Wu
+counts:
+  biosamples: 80
+  samples_acgh: 80
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19521957
+- geo:GSE16019
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Int J Cancer 125, 10 (2009): 2342-48.'
+label: 'Chen et al. (2009): Genome-Wide Profiling of Chromosomal Alterations in Renal
+  Cell Carcinoma Using High-Density Single ...'
+notes: ~
+pmid: 19521957
+title: Genome-Wide Profiling of Chromosomal Alterations in Renal Cell Carcinoma Using
+  High-Density Single Nucleotide Polymorphism Arrays.
+year: 2009

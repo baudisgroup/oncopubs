@@ -1,0 +1,51 @@
+---
+abstract: Splenic marginal zone lymphoma SMZL is a rare non-Hodgkins lymphoma that
+  recently has been recognized as an entity. The first goal of this study was to identify
+  potential chromosomal aberrations in this entity by cytogenetic analysis and comparative
+  genomic hybridization CGH . The second goal was to assess the frequency of 7q31-32
+  allelic imbalances in SMZL with primary involvement of the spleen and the typical
+  immunophenotype IgM IgD dim and CD5-, CD10-, and CD23- . We applied CGH and cytogenetics
+  to 13 cases of SMZL with primary splenic involvement. By CGH, we found DNA copy
+  number changes in 11 of 13 cases. Overall chromosomal gains were more frequent than
+  chromosomal losses. Gains were most frequently detected for chromosome X, chromosome
+  3, and chromosome 18. Losses commonly involved chromosome 7 and chromosome 6.CGH
+  and cytogenetic analysis showed a deletion in chromosome 7q31 in 4 cases. Loss of
+  heterozygosity LOH analysis using three microsatellite markers located at 7q31 revealed
+  LOH in 9 cases. Remarkably, 2 of the 4 cases that lacked a 7q31 deletion had an
+  atypical immunophenotype because they were partially CD23 positive. The other 2
+  cases were not informative. The findings indicate that SMZL with primary splenic
+  presentation and the typical IgM , IgDdim, CD5-, CD10-, CD23- immunophenotype is
+  characterized by the presence of deletions in chromosome 7q31-32.
+authors: Boonstra R, Bosga-Bouwer A, van Imhoff GW, Krause V, Palmer M, Coupland RW,
+  Dabbagh L, van den Berg E, van den Berg A and Poppema S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14681321
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ~
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city [needs verification]
+journal: 'Mod Pathol 16, 12 (2003): 1210-17.'
+label: 'Boonstra et al. (2003): Splenic Marginal Zone Lymphomas Presenting With Splenomegaly
+  and Typical Immunophenotype Are ...'
+notes: ~
+pmid: 14681321
+title: Splenic Marginal Zone Lymphomas Presenting With Splenomegaly and Typical Immunophenotype
+  Are Characterized By Allelic Loss in 7q31-32.
+year: 2003

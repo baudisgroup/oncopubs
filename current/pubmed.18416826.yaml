@@ -1,0 +1,41 @@
+---
+abstract: Mantle cell lymphoma MCL is an incurable B cell lymphoma and accounts for
+  6 of all non-Hodgkins lymphomas. On the genetic level, MCL is characterized by the
+  hallmark translocation t 11 14 that is present in most cases with few exceptions.
+  Both gene expression and comparative genomic hybridization CGH data vary considerably
+  between patients with implications for their prognosis.
+authors: Blenk S, Engelmann JC, Pinkert S, Weniger M, Schultz J, Rosenwald A, Muller-Hermelink
+  HK, Muller T and Dandekar T.
+contact:
+  email: dandekar@biozentrum.uni-wuerzburg.de
+  name: Thomas Dandekar
+counts:
+  biosamples: 71
+  samples_acgh: 0
+  samples_ccgh: 71
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18416826
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: Europe
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: 'BMC Cancer 8 (2008): 106.'
+label: 'Blenk et al. (2008): Explorative Data Analysis of Mcl Reveals Gene Expression
+  Networks Implicated in Survival and ...'
+notes: Data for the caes was contributed by Thomas Dandekar. However, the data was
+  not included here due to incomplete genome coverage (data subset used for network
+  analysis).
+pmid: 18416826
+title: Explorative Data Analysis of Mcl Reveals Gene Expression Networks Implicated
+  in Survival and Prognosis Supported By Explorative Cgh Analysis.
+year: 2008

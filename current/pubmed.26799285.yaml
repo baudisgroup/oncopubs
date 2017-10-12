@@ -1,0 +1,53 @@
+---
+abstract: Neoadjuvant chemotherapy (NAC) is intensively used for the treatment of
+  primary breast cancer. In our previous studies, we reported that clinical tumor
+  response to NAC is associated with the change of multidrug resistance (MDR) gene
+  expression in tumors after chemotherapy. In this study we performed a combined analysis
+  of MDR gene locus deletions in tumor DNA, MDR gene expression and clinical response
+  to NAC in 73 BC patients. Copy number variations (CNVs) in biopsy specimens were
+  tested using high-density microarray platform CytoScanTM HD Array (Affymetrix, USA).
+  75%-100% persons having deletions of MDR gene loci demonstrated the down-regulation
+  of MDR gene expression. Expression of MDR genes was 2-8 times lower in patients
+  with deletion than in patients having no deletion only in post-NAC tumors samples
+  but not in tumor tissue before chemotherapy. All patients with deletions of ABCB1
+  ABCB 3 ABCC5 gene loci - 7q21.1, 6p21.32, 3q27 correspondingly, and most patients
+  having deletions in ABCC1 (16p13.1), ABCC2 (10q24), ABCG1 (21q22.3), ABCG2 (4q22.1),
+  responded favorably to NAC. The analysis of all CNVs, including both amplification
+  and deletion showed that the frequency of 13q14.2 deletion was 85% among patients
+  bearing tumor with the deletion at least in one MDR gene locus versus 9% in patients
+  with no deletions. Differences in the frequency of 13q14.2 deletions between the
+  two groups were statistically significant (p = 2.03 ï¿½10-11, Fisher test, Bonferroni-adjusted
+  p = 1.73 ï¿½ 10-8). In conclusion, our study for the first time demonstrates that
+  deletion MDR gene loci can be used as predictive marker for tumor response to NAC.
+authors: Litviakov NV, Cherdyntseva NV, Tsyganov MM, Slonimskaya EM, Ibragimova MK,
+  Kazantseva PV, Kzhyshkowska J, Choinzonov EL.
+contact:
+  email: nvch@oncology.tomsk.ru
+  name: Nadezhda V. Cherdyntseva
+counts:
+  biosamples: 68
+  samples_acgh: 68
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26799285
+geo_data:
+  geo_json:
+    coordinates:
+    - 84.97
+    - 56.5
+    type: Point
+  info:
+    city: Tomsk
+    continent: Asia
+    country: Russia
+    label: Tomsk, Russia, Asia
+    precision: city
+journal: Oncotarget 7(7), 2016
+label: ' (2016): '
+notes: ~
+pmid: 26799285
+title: Deletions of multidrug resistance gene loci in breast cancer leads to the down-regulation
+  of its expression and predict tumor response to neoadjuvant chemotherapy.
+year: 2016

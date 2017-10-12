@@ -1,0 +1,60 @@
+---
+abstract: 'Renal cell carcinoma is characterized by an accumulation of complex chromosomal
+  alterations during tumor progression. Chromosome 3p deletions are known to occur
+  early in the carcinogenesis, but the nature of subsequent events, their interrelationships,
+  and their sequence is poorly understood, as one usually only obtains a single amp
+  quot view amp quot of the dynamic process of tumor development in a particular cancer
+  patient. To address this limitation, we used comparative genomic hybridization analysis
+  in combination with a distance-based and a branching-tree method to search for tree
+  models of the oncogenesis process of 116 conventional clear cell renal carcinomas.
+  This provides a means to analyze and model cancer development processes based on
+  a more dynamic model, including the presence of multiple pathways, as compared with
+  the fixed linear model first proposed by Vogelstein et al. N. Engl. J. Med., 319:
+  525-532, 1988 for colorectal cancer. The most common DNA losses involved 3p 61 ,
+  4q 50 , 6q 40 , 9p 35 , 13q 37 , and Xq 21 . The most common gains were seen at
+  chromosome 17p and 17q 20 . The tree model derived from the distance-based method
+  is consistent with the established theory that -3p is an important early event in
+  conventional clear cell renal cancer and supports the prediction made from the branching
+  tree that -4q is another important early event. Both tree models suggest that there
+  may be two groups of clear cell renal cancers: one characterized by -6q, 17q, and
+  17p, and another by -9p, -13q, and -18q. Putative prognostic parameters were -9p
+  and -13q. The distance-based tree clarifies that -8p present in 12 of tumors is
+  a late event, largely independent of other events. In summary, tree modeling of
+  comparative genomic hybridization data provided new information on the interrelationships
+  of genetic changes in renal cancer and their possible order, as well as a clustering
+  of these events. Using tree analysis, one can derive a more in-depth understanding
+  of the renal cancer development process than is possible by simply focusing on the
+  frequencies of genetic events in a given cancer type.'
+authors: Jiang F, Desper R, Papadimitriou CH, Schaffer AA, Kallioniemi OP, Richter
+  J, Schraml P, Sauter G, Mihatsch MJ and Moch H.
+contact:
+  email: holger.moch@usz.ch
+  name: Holger Moch
+counts:
+  biosamples: 116
+  samples_acgh: 0
+  samples_ccgh: 116
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11103820
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Cancer Res 60, 22 (2000): 6503-09.'
+label: 'Jiang et al. (2000): Construction of Evolutionary Tree Models for Renal Cell
+  Carcinoma From Comparative Genomic ...'
+notes: ~
+pmid: 11103820
+title: Construction of Evolutionary Tree Models for Renal Cell Carcinoma From Comparative
+  Genomic Hybridization Data.
+year: 2000

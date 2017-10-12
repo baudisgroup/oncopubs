@@ -1,0 +1,53 @@
+---
+abstract: In order to approach the genetic mechanisms behind initiation and progression
+  of papillary thyroid carcinoma PTC tumorigenesis, we characterized numerical chromosomal
+  imbalances in a panel of 25 PTCs with varying histopathological and clinical features
+  using comparative genomic hybridization CGH . The most frequently detected imbalance
+  was gain of 9q33-qter, which was seen in close to 30 of the cases. The commonly
+  occurring regions of loss were assigned to 22q 12 and 9q21.3-q32 12 , while gains
+  preferentially involved the entire X chromosome 20 , 1q 16 , 17q 16 , and 22q 12
+  . The distribution of CGH alterations supports the idea of a progression of genetic
+  events in the development of PTC, where gain of 9q33-qter would represent a relatively
+  early event that is followed by loss of 22q and gain of X, 1q, 17q, and 22q. When
+  the detected CGH alterations were compared with the clinical outcome and the histopathological
+  features of the 25 PTC cases, several statistically significant correlations were
+  revealed. The total number of genetic alterations was higher in tumors from patients
+  with aggressive disease as compared to those without signs of aggressiveness. Gain
+  of 1q and loss of 9q21.3-q32 were exclusively seen in tumors from patients with
+  aggressive disease, and the presence of distant metastases was associated with gain
+  of 1q. A sex-dependent distribution was also evident for one of the common alterations,
+  with gain of X exclusively seen in male cases. Taken together, the findings identify
+  several candidate locations for tumor suppressor genes and oncogenes that are potentially
+  involved in the establishment and progression of papillary thyroid carcinogenesis.
+authors: Kjellman P, Lagercrantz S, Hoog A, Wallin G, Larsson C and Zedenius J.
+contact:
+  email: petra.kjellman@ks.se
+  name: Petra Kjellman
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11477660
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 32, 1 (2001): 43-49.'
+label: 'Kjellman et al. (2001): Gain of 1q and Loss of 9q21.3-Q32 Are Associated With
+  a Less Favorable Prognosis in Papillary ...'
+notes: ~
+pmid: 11477660
+title: Gain of 1q and Loss of 9q21.3-Q32 Are Associated With a Less Favorable Prognosis
+  in Papillary Thyroid Carcinoma.
+year: 2001

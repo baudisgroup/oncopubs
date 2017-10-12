@@ -1,0 +1,37 @@
+---
+abstract: Patients with stage I granulosa cell tumors GCTs may occasionally develop
+  metastasis, which is hard to predict using pathologic criteria. It is interesting
+  to elucidate whether certain chromosomal imbalances CIs , detected by comparative
+  genomic hybridization CGH , could be useful prognostic markers.
+authors: Lin YS, Eng HL, Jan YJ, Lee HS, Ho WL, Liou CP, Lee WY and Tzeng CC.
+contact:
+  email: tzeng-tainan@yahoo.com.tw
+  name: Ching-Cherng Tzeng
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15790439
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.45
+    - 25.03
+    type: Point
+  info:
+    city: Daan District
+    continent: '25.03'
+    country: Taiwan
+    label: Daan District, Taiwan, 25.03
+    precision: city
+journal: 'Gynecol Oncol 97, 1 (2005): 68-73.'
+label: 'Lin et al. (2005): Molecular Cytogenetics of Ovarian Granulosa Cell Tumors
+  By Comparative Genomic Hybridization.'
+notes: ~
+pmid: 15790439
+title: Molecular Cytogenetics of Ovarian Granulosa Cell Tumors By Comparative Genomic
+  Hybridization.
+year: 2005

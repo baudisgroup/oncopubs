@@ -1,0 +1,43 @@
+---
+abstract: Comparative genomic hybridization CGH is a powerful new technique for the
+  molecular cytogenetic analysis of cancer. In this method, at first the cancer DNA
+  and normal DNA are labeled with biotin and digoxigenin, respectively, and then the
+  labeled DNAs are applied onto normal lymphocyte metaphase preparations in hybridization.
+  After hybridization, they are stained with FITC and rhodamine, respectively, so
+  chromosomal gains and losses in cancer are thus detected by using a green:red ratio.
+  In this study, we analyzed the abnormal chromosomes in nine cases with human primary
+  colon cancer. A gain in chromosomes 11p, 12q, 16p, 20p, and 20q were observed, while
+  a loss of 18q and 22q were discovered. CGH may thus provide us with important information
+  for analyzing the genes in colon cancer.
+authors: Nakao K, Shibusawa M, Tsunoda A, Yoshizawa H, Murakami M, Kusano M, Uesugi
+  N and Sasaki K.
+contact:
+  email: knakao@cc.ucsf.edu
+  name: Kentaro Nakao
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9607913
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Surg Today 28, 5 (1998): 567-69.'
+label: 'Nakao et al. (1998): Genetic Changes in Primary Colorectal Cancer By Comparative
+  Genomic Hybridization.'
+notes: ~
+pmid: 9607913
+title: Genetic Changes in Primary Colorectal Cancer By Comparative Genomic Hybridization.
+year: 1998

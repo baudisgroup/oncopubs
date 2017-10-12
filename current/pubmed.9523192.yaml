@@ -1,0 +1,51 @@
+---
+abstract: Comparative genomic hybridization CGH reveals DNA sequence copy number changes
+  that are shared among the different cell subpopulations present in a tumor and may
+  help to delineate the average progression pathways of breast cancer. Previous CGH
+  studies of breast cancer have concentrated on selected subgroups of breast cancer.
+  Here, 55 unselected primary breast carcinomas were analyzed using optimized quality-controlled
+  CGH procedures. Gains of 1q 67 and 8q 49 were the most frequent aberrations. Other
+  recurrent gains were found at 33 chromosomal regions, with 16p, 5p12-14, 19q, 11q13-14,
+  17q12, 17q22-24, 19p, and 20q13 being most often amp gt 18 involved. Losses found
+  in amp gt 18 of the tumors involved 8p, 16q, 13q, 17p, 9p, Xq, 6q, 11q, and 18q.
+  The total number of aberrations per tumor was highest in poorly differentiated P
+  0.01 and in DNA aneuploid P 0.05 tumors. The high frequency of 1q gains and presence
+  of 1q as the sole abnormality suggest that it is an early genetic event. In contrast,
+  gains of 8q were most common in genetically and phenotypically advanced breast cancers.
+  The vast majority of breast cancers 80 have gains of 1q, 8q, or both, and 3 changes
+  1q, 8q, or -13q account for 91 of the tumors. In conclusion, CGH results indicate
+  that certain chromosomal imbalances are very often selected for, sometimes in a
+  preferential order, during the progression of breast cancer. Further studies of
+  such common changes may form the basis for a molecular cytogenetic classification
+  of breast cancer.
+authors: Tirkkonen M, Tanner M, Karhu R, Kallioniemi A, Isola J and Kallioniemi OP.
+contact:
+  email: mika.tirkkonen@uta.fi
+  name: Mika Tirkkonen
+counts:
+  biosamples: 55
+  samples_acgh: 0
+  samples_ccgh: 55
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9523192
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 21, 3 (1998): 177-84.'
+label: 'Tirkkonen et al. (1998): Molecular Cytogenetics of Primary Breast Cancer By
+  Cgh.'
+notes: ~
+pmid: 9523192
+title: Molecular Cytogenetics of Primary Breast Cancer By Cgh.
+year: 1998

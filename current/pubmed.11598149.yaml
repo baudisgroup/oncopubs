@@ -1,0 +1,58 @@
+---
+abstract: The vast majority of familial ovarian cancers harbor a germline mutation
+  in either the breast cancer gene BRCA1 or BRCA2 tumor suppressor genes. However,
+  mutations of these genes in sporadic ovarian cancer are rare. This suggests that
+  in contrast to hereditary disease, BRCA1 and BRCA2 are not commonly involved in
+  sporadic ovarian cancer and may indicate that there are two distinct pathways for
+  the development of ovarian cancer. To characterize further differences between hereditary
+  and sporadic cancers, the comparative genomic hybridization technique was employed
+  to analyze changes in copy number of genetic material in a panel of 36 microdissected
+  hereditary ovarian cancers. Gains at 8q23-qter 18 of 36, 5 cases with high-level
+  amplifications , 3q26.3-qter 18 of 36, 2 cases with high-level amplifications ,
+  11q22 11 of 36 and 2q31-32 8 of 36 were most frequent. Losses most frequently occurred
+  in decreasing order of frequency on 8p21-pter 23 of 36 , 16q22-pter 19 of 36 , 22q13
+  19 of 36 , 9q31-33 16 of 36 , 12q24 16 of 36 , 15q11-15 16 of 36 , 17p12-13 14 of
+  36 , Xp21-22 14 of 36 , 20q13 13 of 36 , 15q24-25 12 of 36 , and 18q21 12 of 36
+  . Comparison with the literature revealed that the majority of these genetic alterations
+  are also common in sporadic ovarian cancer. Deletions of 15q11-15, 15q24-25, 8p21-ter,
+  22q13, 12q24 and gains at 11q22, 13q22, and 17q23-25, however, appear to be specific
+  to hereditary ovarian cancer. Aberrations at 15q11-15 and 15q24-25 have not yet
+  been described in familial ovarian cancer. In these regions, important tumor suppressor
+  genes, including the hRAD51 gene, are located. These and other yet unknown suppressor
+  genes may be involved in a specific carcinogenic pathway for familial ovarian cancer
+  and may explain the distinct clinical presentation and behavior of familial ovarian
+  cancer.
+authors: Zweemer RP, Ryan A, Snijders AM, Hermsen MA, Meijer GA, Beller U, Menko FH,
+  Jacobs IJ, Baak JP, Verheijen RH, Kenemans P and van Diest PJ.
+contact:
+  email: r.zweemer@tiscali.nl
+  name: Ronald P. Zweemer
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11598149
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Lab Invest 81, 10 (2001): 1363-70.'
+label: 'Zweemer et al. (2001): Comparative Genomic Hybridization of Microdissected
+  Familial Ovarian Carcinoma: Two Deleted ...'
+notes: ~
+pmid: 11598149
+title: 'Comparative Genomic Hybridization of Microdissected Familial Ovarian Carcinoma:
+  Two Deleted Regions on Chromosome 15q Not Previously Identified in Sporadic Ovarian
+  Carcinoma.'
+year: 2001

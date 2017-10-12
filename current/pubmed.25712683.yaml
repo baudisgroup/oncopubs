@@ -1,0 +1,57 @@
+---
+abstract: "Although novel agents targeting the androgen-androgen receptor (AR) axis
+  have altered the treatment paradigm of metastatic castration-resistant prostate
+  cancer (mCRPC), development of therapeutic resistance is inevitable. In this study,
+  we examined whether AR gene aberrations detectable in circulating cell-free DNA
+  (cfDNA) are associated with resistance to abiraterone acetate and enzalutamide in
+  mCRPC patients.  Plasma was collected from 62 mCRPC patients ceasing abiraterone
+  acetate (n = 29), enzalutamide (n = 19), or other agents (n = 14) due to disease
+  progression. DNA was extracted and subjected to array comparative genomic hybridization
+  (aCGH) for chromosome copy number analysis, and Roche 454 targeted next-generation
+  sequencing of exon 8 in the AR.  On aCGH, AR amplification was significantly more
+  common in patients progressing on enzalutamide than on abiraterone or other agents
+  (53% vs. 17% vs. 21%, P = 0.02, Ï\x87(2)). Missense AR exon 8 mutations were detected
+  in 11 of 62 patients (18%), including the first reported case of an F876L mutation
+  in an enzalutamide-resistant patient and H874Y and T877A mutations in 7 abiraterone-resistant
+  patients. In patients switched onto enzalutamide after cfDNA collection (n = 39),
+  an AR gene aberration (copy number increase and/or an exon 8 mutation) in pretreatment
+  cfDNA was associated with adverse outcomes, including lower rates of PSA decline
+  â\x89¥ 30% (P = 0.013, Ï\x87(2)) and shorter time to radiographic/clinical progression
+  (P = 0.010, Cox proportional hazards regression).  AR gene aberrations in cfDNA
+  are associated with resistance to enzalutamide and abiraterone in mCRPC. Our data
+  illustrate that genomic analysis of cfDNA is a minimally invasive method for interrogating
+  mechanisms of therapeutic resistance in mCRPC.  Â©2015 American Association for
+  Cancer Research."
+authors: Azad AA, Volik SV, Wyatt AW, Haegert A, Le Bihan S, Bell RH, Anderson SA,
+  McConeghy B, Shukin R, Bazov J, Youngren J, Paris P, Thomas G, Small EJ, Wang Y,
+  Gleave ME, Collins CC and Chi KN
+contact:
+  email: kchi@bccancer.bc.ca
+  name: Kim N. Chi
+counts:
+  biosamples: 69
+  samples_acgh: 69
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25712683
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: Clin. Cancer Res. 21(10), 2015
+label: 'Azad AA et al. (2015): '
+notes: ~
+pmid: 25712683
+title: 'Androgen Receptor Gene Aberrations in Circulating Cell-Free DNA: Biomarkers
+  of Therapeutic Resistance in Castration-Resistant Prostate Cancer.'
+year: 2015

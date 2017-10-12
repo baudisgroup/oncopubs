@@ -1,0 +1,37 @@
+---
+abstract: Pancreatic cancer is the fourth leading cause of cancer-related death, and
+  studies on the clinical relevance of its genomic imbalances are warranted.
+authors: Lee JH, Giovannetti E, Hwang JH, Petrini I, Wang Q, Voortman J, Wang Y, Steinberg
+  SM, Funel N, Meltzer PS, Wang Y and Giaccone G.
+contact:
+  email: giacconeg@mail.nih.gov
+  name: Giuseppe Giaccone
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22128300
+- geo:GSE28732
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 18, 2 (2012): 524-33.'
+label: 'Lee et al. (2012): Loss of 18q22.3 Involving the Carboxypeptidase of Glutamate-Like
+  Gene is Associated With Poor ...'
+notes: ~
+pmid: 22128300
+title: Loss of 18q22.3 Involving the Carboxypeptidase of Glutamate-Like Gene is Associated
+  With Poor Prognosis in Resected Pancreatic Cancer.
+year: 2012

@@ -1,0 +1,49 @@
+---
+abstract: We established a novel human myxofibrosarcoma cell line NMFH-1 and analyzed
+  it with spectral karyotyping and comparative genomic hybridization CGH . NMFH-1
+  cells are composed of two different types of cells, small, spindle-shaped mononuclear
+  cells and bizarre multinucleated giant cells, which were maintained in vitro over
+  200 passages. Xenografted tumor showed typical features of myxofibrosarcoma, which
+  included bizarre multinucleated giant cells. Cytogenetic analyses revealed complex
+  abnormalities, including a t 17 22 q2 2 q13 , which has been found in dermatofibrosarcoma
+  protuberans. Subsequent reverse-transcription polymerase chain reaction revealed
+  that the cell line did not have the COL1A1-PDGFB gene fusion. Significant gains
+  of the 1q12 approximately q23 and 8q13 approximately qter regions and loss of the
+  9p21 approximately pter and 13q12 regions often found in MFH were observed by CGH
+  analysis. We investigated the origin of multinucleated giant cells in xenografted
+  tumor through DNA in situ hybridization. In this system, the human-specific Alu
+  sequence and the mouse L1 sequence were used as specific cell markers of identity.
+  In situ hybridization revealed neoplastic proliferation of the multinucleated giant
+  cells of human origin.
+authors: Kawashima H, Ogose A, Gu W, Nishio J, Kudo N, Kondo N, Hotta T, Umezu H,
+  Tohyama T, Nishijima H, Iwasaki H and Endo N.
+contact:
+  email: aogose@med.niigata-u.ac.jp
+  name: Akira Ogose
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16080955
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.02
+    - 37.9
+    type: Point
+  info:
+    city: Niigata-shi
+    continent: Asia
+    country: Japan
+    label: Niigata-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 161, 1 (2005): 28-35.'
+label: 'Kawashima et al. (2005): Establishment and Characterization of a Novel Myxofibrosarcoma
+  Cell Line.'
+notes: ~
+pmid: 16080955
+title: Establishment and Characterization of a Novel Myxofibrosarcoma Cell Line.
+year: 2005

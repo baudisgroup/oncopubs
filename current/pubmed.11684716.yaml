@@ -1,0 +1,40 @@
+---
+abstract: Comparative genomic hybridisation CGH is a reliable tool to gain an overview
+  of all unbalanced chromosomal alterations within a tumour. Nevertheless, the high
+  numbers of tumour cells required and the comparatively low resolution are drawbacks
+  of this technique. Polymerase chain reaction PCR based multiplex microsatellite
+  analysis represents a semi-automated, highly reproducible method, which requires
+  small amounts of tumour cells. This is a comparative study of CGH and microsatellite
+  analysis.
+authors: Buerger H, Schmidt H, Beckmann A, Zanker KS, Boecker W and Brandt B.
+contact:
+  email: brandt@uni-muenster.de
+  name: B. Brandt
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 31
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11684716
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'J Clin Pathol 54, 11 (2001): 836-40.'
+label: 'Buerger et al. (2001): Genetic Characterisation of Invasive Breast Cancer:
+  A Comparison of Cgh and Pcr Based Multiplex ...'
+notes: ~
+pmid: 11684716
+title: 'Genetic Characterisation of Invasive Breast Cancer: A Comparison of Cgh and
+  Pcr Based Multiplex Microsatellite Analysis.'
+year: 2001

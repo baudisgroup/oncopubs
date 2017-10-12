@@ -1,0 +1,55 @@
+---
+abstract: Hepatocellular carcinoma HCC is one of the most frequent human malignancies,
+  especially in Asia and Africa, but also in the Western world its incidence is increasing.
+  HCC is a complication of chronic liver disease with cirrhosis as the most important
+  risk factor. Viral co-pathogenesis due to hepatitis B virus HBV and hepatitis C
+  virus HCV infection seems to be an important factor in the development of HCC. Curative
+  therapy is often not possible due to the late detection of HCC. Thus, it is attractive
+  to find parameters which predict malignant transformation in HBV- and HCV-infected
+  livers. In the past decade, preneoplastic lesions, i.e. dysplastic foci or nodules,
+  have gained interest as possible markers for imminent malignancy. Noteworthy, dysplastic
+  liver lesions are increasingly detected by imaging techniques. We describe here
+  two cases of chronic viral liver disease, one HBV-and one HCV-related, in which
+  dysplastic lesions were present adjacent to HCC. In the HBV case, a smaller satellite
+  of HCC was present as well. The neoplastic specimens were investigated by comparative
+  genomic hybridization CGH and in situ hybridization ISH . Both methods revealed
+  multiple genetic alterations in the HCCs. The genetic patterns of the HBV-related
+  HCC and the satellite tumor showed many shared alterations suggesting a clonal relationship.
+  A subset of genetic changes were already present in dysplasias illustrating their
+  preneoplastic nature. Surrounding liver cirrhosis samples did not display chromosomal
+  aberrations. A literature survey illustrates the relative paucity of information
+  concerning genetic alterations in preneoplastic liver lesions. However, all the
+  data strongly suggests a role for liver cell dysplasia as a precursor condition
+  of liver cell cancer.
+authors: van Dekken H, Wink J, Alers JC, de Man RA, IJzermans JN and Zondervan PE.
+contact:
+  email: ~
+  name: H. van Dekken
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12666986
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Acta Histochem 105, 1 (2003): 29-41.'
+label: 'van Dekken et al. (2003): Genetic Evaluation of the Dysplasia-Carcinoma Sequence
+  in Chronic Viral Liver Disease: A ...'
+notes: ~
+pmid: 12666986
+title: 'Genetic Evaluation of the Dysplasia-Carcinoma Sequence in Chronic Viral Liver
+  Disease: A Detailed Analysis of Two Cases and a Review of the Literature.'
+year: 2003

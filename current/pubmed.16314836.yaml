@@ -1,0 +1,53 @@
+---
+abstract: 'Oncogene-expressing human papillomavirus type 16 HPV16 is found in a subset
+  of head and neck squamous cell carcinomas HNSCC . HPV16 drives carcinogenesis by
+  inactivating p53 and pRb with the viral oncoproteins E6 and E7, paralleled by a
+  low level of mutations in TP53 and allelic loss at 3p, 9p, and 17p, genetic changes
+  frequently found in HNSCCs of nonviral etiology. We hypothesize that two pathways
+  to HNSCC exist: one determined by HPV16 and the other by environmental carcinogens.
+  To define the critical genetic events in these two pathways, we now present a detailed
+  genome analysis of HNSCC with and without HPV16 involvement by employing high-resolution
+  microarray comparative genomic hybridization. Four regions showed alterations in
+  HPV-negative tumors that were absent in HPV-positive tumors: losses at 3p11.2-26.3,
+  5q11.2-35.2, and 9p21.1-24, and gains amplifications at 11q12.1-13.4. Also, HPV16-negative
+  tumors demonstrated loss at 18q12.1-23, in contrast to gain in HPV16-positive tumors.
+  Seven regions were altered at high frequency amp gt 33 in both groups: gains at
+  3q22.2-qter, 5p15.2-pter, 8p11.2-qter, 9q22-34.1, and 20p-20q, and losses at 11q14.1-qter
+  and 13q11-33. These data show that HNSCC arising by environmental carcinogens are
+  characterized by genetic alterations that differ from those observed in HPV16-induced
+  HNSCC, and most likely occur early in carcinogenesis. A number of genetic changes
+  are shared in both tumor groups and can be considered crucial in the later stages
+  of HNSCC progression.'
+authors: Smeets SJ, Braakhuis BJ, Abbas S, Snijders PJ, Ylstra B, van de Wiel MA,
+  Meijer GA, Leemans CR and Brakenhoff RH.
+contact:
+  email: rh.brakenhoff@vumc.nl
+  name: RH Brakenhoff
+counts:
+  biosamples: 143
+  samples_acgh: 143
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16314836
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Oncogene 25, 17 (2006): 2558-64.'
+label: 'Smeets et al. (2006): Genome-Wide DNA Copy Number Alterations in Head and
+  Neck Squamous Cell Carcinomas With Or Without ...'
+notes: ~
+pmid: 16314836
+title: Genome-Wide DNA Copy Number Alterations in Head and Neck Squamous Cell Carcinomas
+  With Or Without Oncogene-Expressing Human Papillomavirus.
+year: 2006

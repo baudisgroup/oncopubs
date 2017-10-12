@@ -1,0 +1,57 @@
+---
+abstract: Comparative genomic hybridization CGH was employed to study chromosomal
+  aberrations in relation to cell proliferation, apoptosis, and patient survival in
+  94 cases of B-cell non-Hodgkins lymphoma diagnosed between 1983 and 1993. Eighty
+  cases had aberrations by CGH. Chromosomal regions 1p21-31.1 10 , 6cen-q24 12 , 8p
+  11 , 9p21-ter 14 , 11q21-23.1 11 , 13q13-21.1 12 , and 17p 15 were frequently lost.
+  Gains were found at 3q21-ter 22 , 6p 11 , 7p 12 , 8q23-ter 13 , 12cen-q15 17 , 17q24-ter
+  13 , and 18q13.3-21 20 . A high number of aberrations amp gt or 4, 33 cases was
+  associated P amp lt or 0.001 with the mantle cell and diffuse large B-cell lymphoma
+  subtypes, a high fraction of tumour cells in S phase, and short survival RR relative
+  risk 3.7 . Loss of 1p21-31.1, 8p, 9p21-ter, 11q21-23.1, and 13q13-21.1 were associated
+  with mantle cell lymphoma P amp lt or 0.03 , while gain of 6p and 12cen-q15 were
+  more frequent in diffuse large B-cell and small lymphocytic lymphoma, respectively
+  P 0.04 . Loss of 8p and 17p, and gain of 3q21-ter, 6p, 7p, and 8q23-ter were associated
+  with a high S phase fraction P amp lt or 0.03 , but none of the aberrations were
+  associated with tumour apoptotic fraction P amp gt or 0.13 . The most important
+  prognostic CGH parameters P amp lt 0.001 were losses of 11q21-23.1 RR 3.8 and 17p
+  RR 4.4 , and gain of 6p RR 4.2 . The latter parameters and IPI were the only ones
+  with independent prognostic value RR 10, 5.0, 6.7, and 3.7, respectively P amp lt
+  0.001 when assessed together with lymphoma sub-type, primary versus relapse cases,
+  treatment, B symptoms, S phase fraction, and presence of BCL1 and BCL2 translocations.
+  A combined CGH IPI binary parameter had high prognostic value for patients receiving
+  different treatments, with various lymphoma sub-types, and for primary as well as
+  relapse cases.
+authors: Stokke T, DeAngelis P, Smedshammer L, Galteland E, Steen HB, Smeland EB,
+  Delabie J and Holte H.
+contact:
+  email: trond.stokke@dnr.uio.no
+  name: Trond Stokke
+counts:
+  biosamples: 94
+  samples_acgh: 0
+  samples_ccgh: 94
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11747333
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Br J Cancer 85, 12 (2001): 1900-13.'
+label: 'Stokke et al. (2001): Loss of Chromosome 11q21-23.1 and 17p and Gain of Chromosome
+  6p Are Independent Prognostic ...'
+notes: ~
+pmid: 11747333
+title: Loss of Chromosome 11q21-23.1 and 17p and Gain of Chromosome 6p Are Independent
+  Prognostic Indicators in B-Cell Non-Hodgkins Lymphoma.
+year: 2001

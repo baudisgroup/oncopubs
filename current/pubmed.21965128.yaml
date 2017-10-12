@@ -1,0 +1,52 @@
+---
+abstract: In this study, we established and analyzed a novel human myeloid leukemia
+  cell line, AMU-AML1, from a patient with acute myeloid leukemia with multilineage
+  dysplasia before the initiation of chemotherapy. AMU-AML1 cells were positive for
+  CD13, CD33, CD117, and HLA-DR by flow cytometry analysis and showed a single chromosomal
+  abnormality, 46, XY, t 12 22 p13 q11.2 , by G-banding and spectral karyotyping.
+  Fluorescent in situ hybridization analysis indicated that the chromosomal breakpoint
+  in band 12p13 was in the sequence from the 5 untranslated region to intron 1 of
+  TEL and that the chromosomal breakpoint in band 22q11 was in the 3 untranslated
+  region of MN1. The chimeric transcript and protein of MN1-TEL could not be detected
+  by reverse-transcriptase polymerase chain reaction or Western blot analysis. However,
+  the MN1 gene was amplified to three copies detected by array comparative genomic
+  hybridization analysis, and the expression levels of the MN1 transcript and protein
+  were high in AMU-AML1 cells when compared with other cell lines with t 12 22 p13
+  q11-12 . Our data showed that AMU-AML1 cells contain t 12 22 p13 q11.2 without chimeric
+  fusion of MN1 and TEL. The AMU-AML1 cells gained MN1 copies and had high expression
+  levels of MN1. Thus, the AMU-AML1 cell line is useful for studying the biological
+  consequences of t 12 22 p13 q11.2 lacking chimeric MN1-TEL.
+authors: Gotou M, Hanamura I, Nagoshi H, Wakabayashi M, Sakamoto N, Tsunekawa N, Horio
+  T, Goto M, Mizuno S, Takahashi M, Suganuma K, Yamamoto H, Hiramatsu A, Watarai M,
+  Shikami M, Imamura A, Mihara H, Taki T, Miwa H, Taniwaki M and Nitta M.
+contact:
+  email: ~
+  name: Ichiro Hanamura
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21965128
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 51, 1 (2012): 42-53.'
+label: 'Gotou et al. (2012): Establishment of a Novel Human Myeloid Leukemia Cell
+  Line, Amu-Aml1, Carrying T(12;22)(P13;Q11) ...'
+notes: ~
+pmid: 21965128
+title: Establishment of a Novel Human Myeloid Leukemia Cell Line, Amu-Aml1, Carrying
+  T(12;22)(P13;Q11) Without Chimeric Mn1-Tel and With High Expression of Mn1.
+year: 2012

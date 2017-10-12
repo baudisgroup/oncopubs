@@ -1,0 +1,53 @@
+---
+abstract: Currently there is a lack of objective markers that can reliably differentiate
+  benign and malignant follicular thyroid tumours. Such markers are needed to avoid
+  the morbidity and cost of diagnosing these lesions by a thyroid lobectomy and then
+  a second operation to remove the remaining half of thyroid if cancer is found. The
+  aim of this research was to look for genomic markers that might solve this important
+  problem. Ethical approval for the project was obtained. DNA was extracted from formalin-fixed
+  paraffin-embedded specimens and copy number analysed using an in-house produced
+  1-megabase genomic array by comparative genomic hybridization 1Mb-aCGH . Acceptable
+  quality data were obtained in 25 26 96 of adenomas and 17 28 61 of carcinomas. Among
+  the carcinomas, 11 were minimally invasive MI , 5 widely invasive WI and there was
+  one metastasis. Recurrent copy number changes distinguishing benign and malignant
+  included 1p34.2-36.33, 1q, 13q12.11-14.3, 14q22.1-32.33, 20q and -22. 20q became
+  more sensitive 36.4 for MI carcinomas, whereas 13q12.11-14.3 and 14q22.1-32.33 became
+  more sensitive 66.7 for identifying WI cancers from adenomas. Only in the context
+  of aneuploidy 3 adenomas, 3 MI, 3 WI there were some specific copy number changes
+  that could differentiate all aneuploid adenomas from carcinomas. This research is
+  the first using 1Mb-aCGH to study benign and malignant follicular thyroid tumours.
+  Overall, the incidence of any copy number changes is low, but there are a number
+  of changes associated with different tumour types. Further research with a larger
+  sample and better quality DNA will clarify these findings.
+authors: Qureshi AA, Collins VP and Jani P.
+contact:
+  email: aa_qur@yahoo.co.uk
+  name: Abdul Qureshi
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22526578
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: Eur Arch Otorhinolaryngol (2012)
+label: 'Qureshi et al. (2012): Genomic Differences in Benign and Malignant Follicular
+  Thyroid Tumours Using 1-Mb ...'
+notes: ~
+pmid: 22526578
+title: Genomic Differences in Benign and Malignant Follicular Thyroid Tumours Using
+  1-Mb Array-Comparative Genomic Hybridisation.
+year: 2012

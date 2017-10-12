@@ -1,0 +1,42 @@
+---
+abstract: Rhabdoid tumors represent an independent entity among embryonal neoplasms.
+  These tumors affect the kidney RTK, rhabdoid tumor of kidney and central nervous
+  system AT RT, atypical teratoid, rhabdoid tumor , but may also be found in peripheral
+  soft tissue. Unifying features include immunohistochemical characteristics and inactivation
+  of the putative tumor suppressor gene SMARCB1 hSNF5 INI1 in chromosome 22q11.2.
+  Several familial cases have been published and summarized under the term rhabdoid
+  tumor predisposition syndrome. In all of the published familial cases, inactivation
+  of SMARCB1 was detected in tumor tissues.
+authors: Fruhwald MC, Hasselblatt M, Wirth S, Kohler G, Schneppenheim R, Subero JI,
+  Siebert R, Kordes U, Jurgens H and Vormoor J.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16206192
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Pediatr Blood Cancer 47, 3 (2006): 273-78.'
+label: 'Fruhwald et al. (2006): Non-Linkage of Familial Rhabdoid Tumors to Smarcb1
+  Implies a Second Locus for the Rhabdoid Tumor ...'
+notes: No CNAs were identified in two patients from the same family.
+pmid: 16206192
+title: Non-Linkage of Familial Rhabdoid Tumors to Smarcb1 Implies a Second Locus for
+  the Rhabdoid Tumor Predisposition Syndrome.
+year: 2006

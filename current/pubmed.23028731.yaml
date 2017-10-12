@@ -1,0 +1,49 @@
+---
+abstract: Splenic marginal zone lymphoma (SMZL) is an indolent B-cell lymphoproliferative
+  disorder characterised by 7q32 deletion, but the target genes of this deletion remain
+  unknown. In order to elucidate the genetic target of this deletion, we performed
+  an integrative analysis of the genetic, epigenetic, transcriptomic and miRNomic
+  data. High resolution array comparative genomic hybridization of 56 cases of SMZL
+  delineated a minimally deleted region (2.8 Mb) at 7q32, but showed no evidence of
+  any cryptic homozygous deletion or recurrent breakpoint in this region. Integrated
+  transcriptomic analysis confirmed significant under-expression of a number of genes
+  in this region in cases of SMZL with deletion, several of which showed hypermethylation.
+  In addition, a cluster of 8 miRNA in this region showed under-expression in cases
+  with the deletion, and three (miR-182/96/183) were also significantly under-expressed
+  (P<0.05) in SMZL relative to other lymphomas. Genomic sequencing of these miRNA
+  and IRF5, a strong candidate gene, did not show any evidence of somatic mutation
+  in SMZL. These observations provide valuable guidance for further characterisation
+  of 7q deletion.
+authors: Watkins AJ, Hamoudi RA, Zeng N, Yan Q, Huang Y, Liu H, Zhang J, Braggio E,
+  Fonseca R, de Leval L, Isaacson PG, Wotherspoon A, McPhail ED, Dogan A and Du MQ
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 56
+  samples_acgh: 56
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23028731
+- geo:GSE21554
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.2
+    type: Point
+  info:
+    city: Cambridge
+    continent: Europe
+    country: United Kingdom
+    label: Cambridge, United Kingdom, Europe
+    precision: city
+journal: PLoS ONE 7(9), 2012
+label: 'Watkins AJ et al. (2012): '
+notes: ~
+pmid: 23028731
+title: An integrated genomic and expression analysis of 7q deletion in splenic marginal
+  zone lymphoma.
+year: 2012

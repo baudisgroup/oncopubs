@@ -1,0 +1,56 @@
+---
+abstract: Neuroendocrine tumors NETs comprise a group of rare tumors derived from
+  the diffuse neuroendocrine system or islet endocrine cells of the pancreas. The
+  molecular mechanisms underlying NETs are largely unknown. The tumor suppressor p53
+  plays a critical role in maintaining genomic stability and tumor prevention. The
+  p53 pathway is tightly regulated by a number of proteins, among which MDM2, MDM4,
+  and WIP1 are key negative regulators of p53 protein levels or activity. Aberrant
+  activation of these negative regulators can attenuate the p53 function that serves
+  as an important mechanism of tumorigenesis. In this study, several genetic alterations
+  in pancreatic NETs were studied. These tumors exhibit various chromosomal aberrations
+  throughout the whole genome as examined by array-based comparative genomic hybridization.
+  Although p53 mutations are rare in NETs amp lt 3 , this study presents evidence
+  that the p53 pathway is altered in pancreatic NETs through aberrant activation of
+  its negative regulators. A high percentage of pancreatic NETs contain extra gene
+  copies of MDM2 22 , MDM4 30 , and WIP1 51 , which are correlated with expression
+  of corresponding mRNAs and proteins. In addition, there is a higher frequency 23
+  v. 15 in the control population of the G G genotype of MDM2 SNP309, a functional
+  single-nucleotide polymorphism in the MDM2 gene that attenuates the function of
+  the p53 protein. Overall, approximately 70 of pancreatic NETs have one or more of
+  these genetic changes. These findings suggest that the negative regulation of p53
+  function could be an important mechanism for the initiation and or progression of
+  pancreatic NETs, and reactivation of p53 could be a potential therapeutic strategy
+  for patients with this disease.
+authors: Hu W, Feng Z, Modica I, Klimstra DS, Song L, Allen PJ, Brennan MF, Levine
+  AJ and Tang LH.
+contact:
+  email: tangl@mskcc.org
+  name: Laura Tang
+counts:
+  biosamples: 55
+  samples_acgh: 55
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20871795
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.45
+    - 40.49
+    type: Point
+  info:
+    city: New Brunswick
+    continent: North America
+    country: United States
+    label: New Brunswick, United States, North America
+    precision: city
+journal: 'Genes Cancer 1, 4 (2010): 360-68.'
+label: 'Hu et al. (2010): Gene Amplifications in Well-Differentiated Pancreatic Neuroendocrine
+  Tumors Inactivate the P53 ...'
+notes: ~
+pmid: 20871795
+title: Gene Amplifications in Well-Differentiated Pancreatic Neuroendocrine Tumors
+  Inactivate the P53 Pathway.
+year: 2010

@@ -1,0 +1,36 @@
+---
+abstract: Cytogenetic abnormalities occur at an early stage of bladder urothelial
+  carcinomas BUC , and their frequency increases as the cancer becomes more advanced.
+authors: Larre S, Camparo P, Comperat E, Gil Diez De Medina S, Traxer O, Roupret M,
+  Sebe P, Cancel-Tassin G, Sighar K, Lozach F and Cussenot O.
+contact:
+  email: ~
+  name: Stephane Larre
+counts:
+  biosamples: 36
+  samples_acgh: 36
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21056532
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.26
+    - 51.75
+    type: Point
+  info:
+    city: Oxford
+    continent: Europe
+    country: United Kingdom
+    label: Oxford, United Kingdom, Europe
+    precision: city
+journal: 'Eur Urol 59, 2 (2011): 250-57.'
+label: 'Larre et al. (2011): Diagnostic, Staging, and Grading of Urothelial Carcinomas
+  From Urine: Performance of Bca-1, a ...'
+notes: ~
+pmid: 21056532
+title: 'Diagnostic, Staging, and Grading of Urothelial Carcinomas From Urine: Performance
+  of Bca-1, a Mini-Array Comparative Genomic Hybridisation-Based Test.'
+year: 2011

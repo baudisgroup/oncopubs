@@ -1,0 +1,49 @@
+---
+abstract: Extranodal malignant non-Hodgkins lymphomas account for about 40 of lymphoid
+  neoplasms, but few data are available concerning the genetic background of primary
+  gastric diffuse large B-cell lymphoma DLBCL . A study was performed of 27 primary
+  gastric DLBCLs and 5 gastric DLBCLs with a concomitant low grade component of mucosa-associated
+  lymphoid tissue-type lymphoma using comparative genomic hybridization CGH , microsatellite
+  studies, classic cytogenetics, and fluorescence in situ hybridization FISH to search
+  for specific genetic aberrations. The most frequent aberrations were losses of material
+  on chromosome 6q and gains of parts of chromosome 3. In three cases, a total of
+  six high level DNA amplifications were detected, with five of them involving chromosomal
+  regions not having been reported before in gastric DLBCL. A high overall concordance
+  of 91.4 between microsatellite analysis and CGH was observed using DNA extracted
+  from the same tissue block. The concordance achieved using DNA from different tissue
+  blocks of the same patient was 85 . Microsatellite studies, CGH, FISH, and classic
+  cytogenetics represent complementary techniques that facilitate a comprehensive
+  view of genetic alterations in malignancies such as primary gastric DLBCL.
+authors: Peters K, Zettl A, Starostik P, Greiner A, Rosenwald A, Katzenberger T, Ott
+  G and Muller-Hermelink HK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10718214
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.95
+    - 49.79
+    type: Point
+  info:
+    city: Wuerzburg
+    continent: Europe
+    country: Germany
+    label: Wuerzburg, Germany, Europe
+    precision: city
+journal: 'Diagn Mol Pathol 9, 1 (2000): 58-65.'
+label: 'Peters et al. (2000): Genetic Imbalances in Primary Gastric Diffuse Large
+  B-Cell Lymphomas: Comparison of Comparative ...'
+notes: ~
+pmid: 10718214
+title: 'Genetic Imbalances in Primary Gastric Diffuse Large B-Cell Lymphomas: Comparison
+  of Comparative Genomic Hybridization, Microsatellite, and Cytogenetic Analysis.'
+year: 2000

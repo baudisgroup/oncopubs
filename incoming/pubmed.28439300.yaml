@@ -1,0 +1,57 @@
+---
+abstract: Helicobacter pylori infection is associated with risk for chronic gastritis
+  (CG), gastric ulcer (GU), duodenal ulcer (DU), and gastric cancer (GC). The H. pylori
+  Cag type IV secretion system (TFSS) translocates the virulence factor cytotoxin-associated
+  gene A protein into host cells and plays an important role in initiating gastric
+  carcinogenesis. The CagL and CagI proteins are components of the TFSS. The Arg-Gly-Asp
+  (RGD) motif of CagL, and the six most distal C-terminal amino acids (Ser-Lys-Ile-Ile-Val-Lys,
+  and Ser-Lys-Val-Ile-Val-Lys) of CagL and CagI are essential for TFSS adhesion to
+  host cells. Additionally, the CagL variant Tyr58Glu59 was previously shown to be
+  associated with GC patients.We isolated 43 H. pylori isolates from 17 CG, 8 GU,
+  8 DU, and 10 GC patients in Southeast Asia. Total DNAs were extracted and sequenced
+  with MiSeq. H. pylori strain ATCC 26695, which was isolated from CG patients, was
+  used as a reference. We examined the full sequences of H. pylori cagL and cagI using
+  whole-genome sequencing (WGS), and analyzed whether single nucleotide variants and
+  amino acid changes (AACs) correlated with adverse clinical outcomes. Three isolates
+  were excluded from the analysis due to cagPAI rearrangements. CagL RGD motifs were
+  conserved in 39 isolates (97.5%). CagL-Glu59 and Ile234 in the C-terminal motif
+  were more common in 10 H. pylori isolates from GC patients (pï¿½<ï¿½0.001 and pï¿½<ï¿½0.05,
+  respectively). When 5 Vietnamese isolates from GC patients were excluded, CagL-Glu59
+  still remains significant (pï¿½<ï¿½0.05), but not Ile234. CagL-Tyr58 was seen in
+  only one isolate. The CagI C-terminal motif was completely conserved across all
+  40 isolates, and there were no significant AACs in CagI.Using WGS, we analyzed genetic
+  variants in clinical H. pylori isolates and identified putative novel and candidate
+  variants in uncharacterized CagL and CagI sequences that are related to gastric
+  carcinogenesis. In particular, CagL-Glu59 has the possible association with GC.
+authors: Ogawa H, Iwamoto A, Tanahashi T, Okada R, Yamamoto K, Nishiumi S, Yoshida
+  M, Azuma T.
+contact:
+  email: ~
+  name: Jingzhou Hu
+counts:
+  biosamples: 0
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28439300
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Gut Pathog 9, 2017
+label: ' (2017): '
+notes: ~
+pmid: 28439300
+title: Genetic variants of Helicobacter pylori type IV secretion system components
+  CagL and CagI and their association with clinical outcomes.
+year: 2017

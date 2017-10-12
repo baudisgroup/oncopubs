@@ -1,0 +1,38 @@
+---
+abstract: The pathogenetic relation between liver cell dysplasia and hepatocellular
+  carcinoma HCC is poorly understood. The aim of this study was to determine whether
+  there is a genetic link between liver cell dysplasia and HCC that could support
+  the role of dysplasia as a tumour precursor lesion.
+authors: Marchio A, Terris B, Meddeb M, Pineau P, Duverger A, Tiollais P, Bernheim
+  A and Dejean A.
+contact:
+  email: amarchio@pasteur.fr
+  name: Agnes Marchio
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11477144
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Mol Pathol 54, 4 (2001): 270-74.'
+label: 'Marchio et al. (2001): Chromosomal Abnormalities in Liver Cell Dysplasia Detected
+  By Comparative Genomic ...'
+notes: ~
+pmid: 11477144
+title: Chromosomal Abnormalities in Liver Cell Dysplasia Detected By Comparative Genomic
+  Hybridisation.
+year: 2001

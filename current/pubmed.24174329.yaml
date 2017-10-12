@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: The Clinical Lung Cancer Genome Project (CLCGP) and Network Genomic Medicine
+  (NGM).
+contact:
+  email: roman.thomas@uni-koeln.de
+  name: Roman Thomas
+counts:
+  biosamples: 1033
+  samples_acgh: 1033
+  samples_ccgh: 0
+  samples_wes: 15
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24174329
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.95
+    - 50.93
+    type: Point
+  info:
+    city: Koeln
+    continent: Europe
+    country: Germany
+    label: Koeln, Germany, Europe
+    precision: city
+journal: Sci Transl Med. 2013 Oct 30;5(209):209ra153
+label: 'The Clinical Lung Cancer Genome Project (CLCGP) and Network Genomic Medicine
+  (NGM). (2013): A Genomics-Based ...'
+notes: E-MTAB-1999 only conteins the expression data. Data also available at http://www.uni-koeln.de/med-fak/clcgp/.
+pmid: 24174329
+title: A Genomics-Based Classification of Human Lung Tumors
+year: 2013

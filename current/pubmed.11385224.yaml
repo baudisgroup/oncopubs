@@ -1,0 +1,39 @@
+---
+abstract: Cutaneous squamous-cell carcinoma SCC sometimes causes lymph node metastasis
+  and results in poor prognosis. However, little is known about cytogenetic alterations
+  underlying tumor progression or metastasis. The aim of the present study was to
+  investigate the genetic aberrations and expression of epidermal growth factor receptor
+  EGFR in metastatic SCC of the skin.
+authors: Shimizu T, Izumi H, Oga A, Furumoto H, Murakami T, Ofuji R, Muto M and Sasaki
+  K.
+contact:
+  email: ~
+  name: NA Shimizu
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11385224
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Dermatology 202, 3 (2001): 203-06.'
+label: 'Shimizu et al. (2001): Epidermal Growth Factor Receptor Overexpression and
+  Genetic Aberrations in Metastatic ...'
+notes: ~
+pmid: 11385224
+title: Epidermal Growth Factor Receptor Overexpression and Genetic Aberrations in
+  Metastatic Squamous-Cell Carcinoma of the Skin.
+year: 2001

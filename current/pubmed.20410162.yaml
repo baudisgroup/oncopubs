@@ -1,0 +1,57 @@
+---
+abstract: Pheochromocytomas and abdominal paragangliomas are adrenal and extra-adrenal
+  catecholamine-producing tumours. They arise due to heritable cancer syndromes, or
+  more frequently occur sporadically due to an unknown genetic cause. The majority
+  of cases are benign, but malignant tumours are observed. Previous comparative genomic
+  hybridization CGH and loss of heterozygosity studies have shown frequent deletions
+  of chromosome arms 1p, 3q and 22q in pheochromocytomas. We applied high-resolution
+  whole-genome array CGH on 53 benign and malignant pheochromocytomas and paragangliomas
+  to narrow down candidate regions as well as to identify chromosomal alterations
+  more specific to malignant tumours. Minimal overlapping regions MORs were identified
+  on 16 chromosomes, with the most frequent MORs of deletion amp gt or 32 occurring
+  on chromosome arms 1p, 3q, 11p q, 17p and 22q, while the chromosome arms 1q, 7p,
+  12q and 19p harboured the most common MORs of gain amp gt or 14 . The most frequent
+  MORs 61-75 in the pheochromocytomas were identified at 1p, and the four regions
+  of common losses encompassed 1p36, 1p32-31, 1p22-21 and 1p13. Tumours that did not
+  show 1p loss generally demonstrated aberrations on chromosome 11. Gain of chromosomal
+  material was significantly more frequent among the malignant cases. Moreover, gain
+  at 19q, trisomy 12 and loss at 11q were positively associated with malignant pheochromocytomas,
+  while 1q gain was commonly observed in the malignant paragangliomas. Our study revealed
+  novel and narrow recurrent chromosomal regions of loss and gain at several autosomes,
+  a prerequisite for identifying candidate tumour suppressor genes and oncogenes involved
+  in the development of adrenal and extra-adrenal catecholamine-producing tumours.
+authors: Sandgren J, Diaz de Stahl T, Andersson R, Menzel U, Piotrowski A, Nord H,
+  Backdahl M, Kiss NB, Brauckhoff M, Komorowski J, Dralle H, Hessman O, Larsson C,
+  Akerstrom G, Bruder C, Dumanski JP and Westin G.
+contact:
+  email: Johanna.Sandgren@surgsci.uu.se
+  name: Johanna Sandgren
+counts:
+  biosamples: 53
+  samples_acgh: 53
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20410162
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: 'Endocr Relat Cancer 17, 3 (2010): 561-79.'
+label: 'Sandgren et al. (2010): Recurrent Genomic Alterations in Benign and Malignant
+  Pheochromocytomas and Paragangliomas ...'
+notes: ~
+pmid: 20410162
+title: Recurrent Genomic Alterations in Benign and Malignant Pheochromocytomas and
+  Paragangliomas Revealed By Whole-Genome Array Comparative Genomic Hybridization
+  Analysis.
+year: 2010

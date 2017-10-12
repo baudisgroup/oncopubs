@@ -1,0 +1,51 @@
+---
+abstract: "Recent technological advances have made it possible to detect circulating
+  tumor cells (CTCs) as a prognostic marker in operable breast cancer patients. Whether
+  the presence of CTCs in cancer patients correlates with molecular alterations in
+  the primary tumor has not been widely explored. We identified 14 primary breast
+  cancer specimens with known CTC status, in order to evaluate the presence of differential
+  genetic aberrations by using SNP array assay. There was a global increase of altered
+  genome, CNA, and copy-neutral loss of heterozygosity (cn-LOH) observed in the CTC-positive
+  (CTC(+)) versus CTC-negative (CTC(-)) cases. As the preliminary results showed a
+  higher proportion of copy number alteration (CNA) at 8q24 (MYC loci) and the available
+  evidence supporting the role of MYC in the processes cancer metastases is conflicting,
+  MYC status was determined in tissue microarray sections in a larger series of patients
+  (nâ\x80\x89=â\x80\x8949) with known CTC status using FISH. MYC was altered in 62%
+  (16/26) CTC(+) patients and in 43% (6/14) CTC(-) patients (pâ\x80\x89=â\x80\x890.25).
+  Based on the observation in our study, future studies involving a larger number
+  of patients should be performed in order to definitively define if this correlation
+  exists."
+authors: Nadal R, Salido M, Nonell L, Rodrï¿½guez-Rivera M, Puigdecanet E, Garcia-Puche
+  JL, Maciï¿½ M, Corominas JM, Serrano MJ, Lorente JA, Solï¿½ F.
+contact:
+  email: rnadal2286@gmail.com
+  name: ~
+counts:
+  biosamples: 0
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25286758
+- geo:GSE43149
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: Tumour Biol. 36(2), 2015
+label: ' (2015): '
+notes: Genome variation profiling by SNP array
+pmid: 25286758
+title: 'Combined analysis of copy number alterations by single-nucleotide polymorphism
+  array and MYC status in non-metastatic breast cancer patients: comparison according
+  to the circulating tumor cell status.'
+year: 2015

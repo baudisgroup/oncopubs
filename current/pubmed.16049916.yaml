@@ -1,0 +1,54 @@
+---
+abstract: Natural killer NK cell lymphomas leukemias are highly aggressive lymphoid
+  malignancies, but little is known about their genomic alterations, and thus there
+  is an urgent need for identification and analysis of NK cell lymphomas leukemias.
+  Recently, we developed our own array-based comparative genomic hybridization array
+  CGH with an average resolution of 1.3 Mb. We performed an array CGH analysis for
+  27 NK-cell lymphoma leukemia cases that were classified into two disease groups
+  based on the World Health Organization Classification 10 aggressive NK-cell leukemia
+  cases and 17 extranodal NK T-cell NK T lymphomas, nasal type . We identified the
+  differences in the genomic alteration patterns of the two groups. The recurrent
+  regions characteristic of the aggressive NK-cell leukemia group compared with those
+  of the extranodal NK T lymphoma, nasal-type group, were gain of 1q and loss of 7p15.1-p22.3
+  and 17p13.1. In particular, gain of 1q23.1-24.2 P 0.041 and 1q31.3-q44 P 0.003-0.047
+  , and loss of 7p15.1-p22.3 P 0.012-0.041 and 17p13.1 P 0.012 occurred significantly
+  more frequently in the former than in the latter group. Recurrent regions characteristic
+  of the extranodal NK T lymphoma, nasal-type group, compared with those of the other
+  group were gain of 2q, and loss of 6q16.1-q27, 11q22.3-q23.3, 5p14.1-p14.3, 5q34-q35.3,
+  1p36.23-p36.33, 2p16.1-p16.3, 4q12, and 4q31.3-q32.1. Our results can be expected
+  to provide further insights into the genetic basis of lymphomagenesis and the clinicopathologic
+  features of NK-cell lymphomas leukemias.
+authors: Nakashima Y, Tagawa H, Suzuki R, Karnan S, Karube K, Ohshima K, Muta K, Nawata
+  H, Morishima Y, Nakamura S and Seto M.
+contact:
+  email: mseto@aichi-cc.jp
+  name: Masao Seto
+counts:
+  biosamples: 27
+  samples_acgh: 27
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16049916
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 44, 3 (2005): 247-55.'
+label: 'Nakashima et al. (2005): Genome-Wide Array-Based Comparative Genomic Hybridization
+  of Natural Killer Cell ...'
+notes: ~
+pmid: 16049916
+title: 'Genome-Wide Array-Based Comparative Genomic Hybridization of Natural Killer
+  Cell Lymphoma/Leukemia: Different Genomic Alteration Patterns of Aggressive Nk-Cell
+  Leukemia and Extranodal Nk/T-Cell Lymphoma, Nasal Type.'
+year: 2005

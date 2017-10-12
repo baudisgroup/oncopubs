@@ -1,0 +1,38 @@
+---
+abstract: Squamous cell carcinomas of the head and neck show frequent and complex
+  chromosome aberrations, but little is known about the changes that occur during
+  the metastatic process. To compare the accumulation of changes in primary and metastatic
+  tumors we analyzed 19 pairs of primary larynx cancer tumors and their metastases.
+  The most frequent changes were found at 3p, 3q, 5p, 9, and 13. Losses at 13, 8p,
+  and 9q were more frequent in metastases than in primary tumors.
+authors: Kujawski M, Sarlomo-Rikala M, Gabriel A, Szyfter K and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 36
+  samples_acgh: 0
+  samples_ccgh: 36
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10502324
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.93
+    - 52.41
+    type: Point
+  info:
+    city: Poznan
+    continent: Europe
+    country: Poland
+    label: Poznan, Poland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 26, 3 (1999): 253-57.'
+label: 'Kujawski et al. (1999): Recurrent DNA Copy Number Losses Associated With Metastasis
+  of Larynx Carcinoma.'
+notes: ~
+pmid: 10502324
+title: Recurrent DNA Copy Number Losses Associated With Metastasis of Larynx Carcinoma.
+year: 1999

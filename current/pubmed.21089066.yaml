@@ -1,0 +1,54 @@
+---
+abstract: High-throughput single nucleotide polymorphism SNP -array technologies allow
+  to investigate copy number variants CNVs in genome-wide scans and specific calling
+  algorithms have been developed to determine CNV location and copy number. We report
+  the results of a reliability analysis comparing data from 96 pairs of samples processed
+  with CNVpartition, PennCNV, and QuantiSNP for Infinium Illumina Human 1Million probe
+  chip data. We also performed a validity assessment with multiplex ligation-dependent
+  probe amplification MLPA as a reference standard. The number of CNVs per individual
+  varied according to the calling algorithm. Higher numbers of CNVs were detected
+  in saliva than in blood DNA samples regardless of the algorithm used. All algorithms
+  presented low agreement with mean Kappa Index KI amp lt 66. PennCNV was the most
+  reliable algorithm KI w 98.96 when assessing the number of copies. The agreement
+  observed in detecting CNV was higher in blood than in saliva samples. When comparing
+  to MLPA, all algorithms identified poorly known copy aberrations sensitivity 0.19-0.28
+  . In contrast, specificity was very high 0.97-0.99 . Once a CNV was detected, the
+  number of copies was truly assessed sensitivity amp gt 0.62 . Our results indicate
+  that the current calling algorithms should be improved for high performance CNV
+  analysis in genome-wide scans. Further refinement is required to assess CNVs as
+  risk factors in complex diseases.
+authors: Marenne G, Rodriguez-Santiago B, Closas MG, Perez-Jurado L, Rothman N, Rico
+  D, Pita G, Pisano DG, Kogevinas M, Silverman DT, Valencia A, Real FX, Chanock SJ,
+  Genin E and Malats N.
+contact:
+  email: ~
+  name: Nuria Malats
+counts:
+  biosamples: 96
+  samples_acgh: 96
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21089066
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Hum Mutat 32, 2 (2011): 240-48.'
+label: 'Marenne et al. (2011): Assessment of Copy Number Variation Using the Illumina
+  Infinium 1m Snp-Array: A Comparison of ...'
+notes: ~
+pmid: 21089066
+title: 'Assessment of Copy Number Variation Using the Illumina Infinium 1m Snp-Array:
+  A Comparison of Methodological Approaches in the Spanish Bladder Cancer/Epicuro
+  Study.'
+year: 2011

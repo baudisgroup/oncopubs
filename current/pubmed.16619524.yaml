@@ -1,0 +1,37 @@
+---
+abstract: Prostate cancer is known for its heterogeneous histological appearance.
+  It is currently not clear whether this histological heterogeneity is also reflected
+  in the genomic composition of a tumor.
+authors: Postma R, van Marion R, van Duin M, Vissers KJ, Wink JC, Schroder FH, Tanke
+  HJ, Szuhai K, van der Kwast TH and van Dekken H.
+contact:
+  email: ~
+  name: H. van Dekken
+counts:
+  biosamples: 17
+  samples_acgh: 17
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16619524
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Anticancer Res 26, 2A (2006): 1193-200.'
+label: 'Postma et al. (2006): Array-Based Genomic Analysis of Screen-Detected Gleason
+  Score 6 and 7 Prostatic ...'
+notes: ~
+pmid: 16619524
+title: Array-Based Genomic Analysis of Screen-Detected Gleason Score 6 and 7 Prostatic
+  Adenocarcinomas.
+year: 2006

@@ -1,0 +1,55 @@
+---
+abstract: 'Genomic aberrations on chromosome 8 are common in colon cancer, and are
+  associated with lymph node and distant metastases as well as with disease susceptibility.
+  This prompted us to generate a high-resolution map of genomic imbalances of chromosome
+  8 in 51 primary colon carcinomas using a custom-designed genomic array consisting
+  of a tiling path of BAC clones. This analysis confirmed the dominant role of this
+  chromosome. Unexpectedly, the position of the breakpoints suggested colocalization
+  with structural variants in the human genome. In order to map these sites with increased
+  resolution and to extend the analysis to the entire genome, we analyzed a subset
+  of these tumors n 32 by comparative genomic hybridization on a 185K oligonucleotide
+  array platform. Our comprehensive map of the colon cancer genome confirmed recurrent
+  and specific low-level copy number changes of chromosomes 7, 8, 13, 18, and 20,
+  and unveiled additional, novel sites of genomic imbalances including amplification
+  of a histone gene cluster on chromosome 6p21.1-21.33 and deletions on chromosome
+  4q34-35. The systematic comparison of segments of copy number change with gene expression
+  profiles showed that genomic imbalances directly affect average expression levels.
+  Strikingly, we observed a significant association of chromosomal breakpoints with
+  structural variants in the human genome: 41 of all copy number changes occurred
+  at sites of such copy number variants P amp lt 2.2e -16 . Such an association has
+  not been previously described and reveals a yet underappreciated plasticity of the
+  colon cancer genome it also points to potential mechanisms for the induction of
+  chromosomal breakage in cancer cells.'
+authors: Camps J, Grade M, Nguyen QT, Hormann P, Becker S, Hummon AB, Rodriguez V,
+  Chandrasekharappa S, Chen Y, Difilippantonio MJ, Becker H, Ghadimi BM and Ried T.
+contact:
+  email: riedt@mail.nih.gov
+  name: Thomas Ried
+counts:
+  biosamples: 29
+  samples_acgh: 29
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18316590
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Res 68, 5 (2008): 1284-95.'
+label: 'Camps et al. (2008): Chromosomal Breakpoints in Primary Colon Cancer Cluster
+  At Sites of Structural Variants in the ...'
+notes: ~
+pmid: 18316590
+title: Chromosomal Breakpoints in Primary Colon Cancer Cluster At Sites of Structural
+  Variants in the Genome.
+year: 2008

@@ -1,0 +1,49 @@
+---
+abstract: Wilms tumors have characteristic chromosomal abnormalities, such as the
+  11p13 deletion, in a subset of cases. This is one of the very few reports comparing
+  single nucleotide polymorphism SNP array analysis with conventional karyotyping
+  of Wilms tumors. A total of 43 frozen tumor samples were analyzed using the Affymetrix
+  Cytogenetics Whole-Genome 2.7M array. The findings from the SNP array analysis were
+  then compared with those from conventional karyotyping. A comparison between SNP
+  array and conventional karyotype findings was possible in 38 of 43 specimens 88.4
+  . The SNP array and classic cytogenetic results were concordant in 33 of 38 specimens
+  87 . SNP array analysis was able to support the findings of classic cytogenetics.
+  The SNP array detected regions of loss of heterozygosity LOH in 41 of 43 95 specimens.
+  However, it did not detect balanced translocations and inversions that were observed
+  by conventional cytogenetics. Our results show that the data generated from these
+  platforms are complementary. The SNP array also detected additional gains and losses
+  as well as regions of LOH with associated disomy, which are likely to represent
+  segmental uniparental disomy. The observed discrepancies can be explained by the
+  inherent limitations of each technique.
+authors: Zin R., Pham K., Ashleigh M., Ravine D., Waring P. and Charles A.
+contact:
+  email: ~
+  name: Reena Zin
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22469507
+geo_data:
+  geo_json:
+    coordinates:
+    - 115.81
+    - -31.98
+    type: Point
+  info:
+    city: Nedlands
+    continent: Australia
+    country: Australia
+    label: Nedlands, Australia, Australia
+    precision: city
+journal: 'Cancer Genet 205, 3 (2012): 80-93.'
+label: 'Zin R., Pham K., Ashleigh M., Ravine D., Waring P. and Charles A. (2012):
+  Snp-Based Arrays Complement Classic ...'
+notes: ~
+pmid: 22469507
+title: Snp-Based Arrays Complement Classic Cytogenetics in the Detection of Chromosomal
+  Aberrations in Wilms Tumor.
+year: 2012

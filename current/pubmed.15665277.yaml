@@ -1,0 +1,54 @@
+---
+abstract: Bladder cancer is a common disease characterized by multiple recurrences
+  and an invasive disease course in more than 10 of patients. It is of monoclonal
+  or oligoclonal origin and genomic instability has been shown at certain loci. We
+  used a 10,000 single nucleotide polymorphism SNP array with an average of 2,700
+  heterozygous SNPs to detect allelic imbalances AI in 37 microdissected bladder tumors
+  from 17 patients. Eight tumors represented upstaging from Ta to T1, eight from T1
+  to T2 , and one from Ta to T2 . The AI was strongly stage-dependent as four chromosomal
+  arms showed AI in amp gt 50 of Ta samples, eight in T1, and twenty-two in T2 samples.
+  The tumors showed stage-dependent clonality as 61.3 of AIs were reconfirmed in later
+  T1 tumors and 84.4 in muscle-invasive tumors. Novel unstable chromosomal areas were
+  identified at chromosomes 6q, 10p, 16q, 20p, 20q, and 22q. The tumors separated
+  into two distinct groups, highly stable tumors all Ta tumors and unstable tumors
+  2 3 muscle-invasive . All 11 unstable tumors had lost chromosome 17p areas and 90
+  chromosome 8 areas affecting Netrin-1 UNC5D MAP2K4 genes as well as others. AI was
+  present at the TP53 locus in 10 out of 11 unstable tumors, whereas 6 had homozygous
+  TP53 mutations. Tumor distribution pattern reflected AI as seven out of eight patients
+  with additional upper urinary tract tumors had genomic stable bladder tumors P amp
+  lt 0.05 . These data show the power of high-resolution SNP arrays for defining clinically
+  relevant AIs.
+authors: Koed K, Wiuf C, Christensen LL, Wikman FP, Zieger K, Moller K, von der Maase
+  H and Orntoft TF.
+contact:
+  email: orntoft@kba.sks.au.dk
+  name: Torben F. Orntoft
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15665277
+- geo:GSE2258
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.21
+    - 56.16
+    type: Point
+  info:
+    city: Aarhus
+    continent: Europe
+    country: Denmark
+    label: Aarhus, Denmark, Europe
+    precision: city
+journal: 'Cancer Res 65, 1 (2005): 34-45.'
+label: 'Koed et al. (2005): High-Density Single Nucleotide Polymorphism Array Defines
+  Novel Stage and Location-Dependent Allelic ...'
+notes: ~
+pmid: 15665277
+title: High-Density Single Nucleotide Polymorphism Array Defines Novel Stage and Location-Dependent
+  Allelic Imbalances in Human Bladder Tumors.
+year: 2005

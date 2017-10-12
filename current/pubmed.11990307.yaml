@@ -1,0 +1,51 @@
+---
+abstract: Despite intensive therapy, the survival of children with medulloblastoma
+  remains disappointing. Moreover, children who survive are affected by serious long-term
+  sequelae of treatment that impair their quality of life. In search of chromosomal
+  aberrations indicative of sites involved in oncogenic transformation and in an attempt
+  to find reliable prognostic markers, the authors analyzed 15 medulloblastomas by
+  comparative genomic hybridization. All neoplasms showed chromosomal abnormalities.
+  The most frequent losses were 17p 7 15 tumors , 8p and 11p 6 15 , 10p, 1lq, 16q,
+  and 20q 5 15 , and 20p 4 15 . Gains were recurrently found at 7q 10 15 tumors ,
+  17q and 18q 9 15 tumors , 7p and 13q 7 15 , 18p 6 15 , and 1q, 4q, 6q. and 9p 5
+  15 tumors . Four tumors showed loss of 17p together with gain of 17q, suggesting
+  an isochromosome 17q. High-level amplifications were seen at 1p34, 5p15, 13q34,
+  and 18p11 one tumor each , and at 2p15 in two tumors, one of which was proven to
+  be N-Myc amplification. The overall pattern of alterations found in this study confirms
+  the findings of other studies and adds two novel regions with chromosomal gains,
+  at 13q and 18q. Previous reports on the relation between 17q gain and survival could
+  not be confirmed, whereas amplification of N-myc or L-myc seems to indicate poor
+  clinical outcome.
+authors: Michiels EM, Weiss MM, Hoovers JM, Baak JP, Voute PA, Baas F and Hermsen
+  MA.
+contact:
+  email: f.baas@amc.uva.nl
+  name: Frank Baas
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11990307
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pediatr Hematol Oncol 24, 3 (2002): 205-10.'
+label: 'Michiels et al. (2002): Genetic Alterations in Childhood Medulloblastoma Analyzed
+  By Comparative Genomic ...'
+notes: ~
+pmid: 11990307
+title: Genetic Alterations in Childhood Medulloblastoma Analyzed By Comparative Genomic
+  Hybridization.
+year: 2002

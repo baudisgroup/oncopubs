@@ -1,0 +1,57 @@
+---
+abstract: The first Swiss human embryonic stem cell hESC line, CH-ES1, has shown features
+  of a malignant cell line. It originated from the only single blastomere that survived
+  cryopreservation of an embryo, and it more closely resembles teratocarcinoma lines
+  than other hESC lines with respect to its abnormal karyotype and its formation of
+  invasive tumors when injected into SCID mice. The aim of this study was to characterize
+  the molecular basis of the oncogenicity of CH-ES1 cells, we looked for abnormal
+  chromosomal copy number by array Comparative Genomic Hybridization, aCGH and single
+  nucleotide polymorphisms SNPs . To see how unique these changes were, we compared
+  these results to data collected from the 2102Ep teratocarcinoma line and four hESC
+  lines H1, HS293, HS401 and SIVF-02 which displayed normal G-banding result. We identified
+  genomic gains and losses in CH-ES1, including gains in areas containing several
+  oncogenes. These features are similar to those observed in teratocarcinomas, and
+  this explains the high malignancy. The CH-ES1 line was trisomic for chromosomes
+  1, 9, 12, 17, 19, 20 and X. Also the karyotypically based on G-banding normal hESC
+  lines were also found to have several genomic changes that involved genes with known
+  roles in cancer. The largest changes were found in the H1 line at passage number
+  56, when large 5 Mb duplications in chromosomes 1q32.2 and 22q12.2 were detected,
+  but the losses and gains were seen already at passage 22. These changes found in
+  the other lines highlight the importance of assessing the acquisition of genetic
+  changes by hESCs before their use in regenerative medicine applications. They also
+  point to the possibility that the acquisition of genetic changes by ESCs in culture
+  may be used to explore certain aspects of the mechanisms regulating oncogenesis.
+authors: Hovatta O, Jaconi M, Tohonen V, Bena F, Gimelli S, Bosman A, Holm F, Wyder
+  S, Zdobnov EM, Irion O, Andrews PW, Antonarakis SE, Zucchelli M, Kere J and Feki
+  A.
+contact:
+  email: Outi.hovatta@ki.se
+  name: Outi Hovatta
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20428235
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'PLoS One 5, 4 (2010): e10263.'
+label: 'Hovatta et al. (2010): A Teratocarcinoma-Like Human Embryonic Stem Cell (Hesc)
+  Line and Four Hesc Lines Reveal ...'
+notes: ~
+pmid: 20428235
+title: A Teratocarcinoma-Like Human Embryonic Stem Cell (Hesc) Line and Four Hesc
+  Lines Reveal Potentially Oncogenic Genomic Changes.
+year: 2010

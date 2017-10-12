@@ -1,0 +1,39 @@
+---
+abstract: Adenoid cystic carcinoma ACC is a relatively uncommon salivary gland malignancy
+  known for its protean phenotypic features and pernicious clinical behavior. Currently,
+  no effective therapy is available for patients with advanced nonresectable, recurrent,
+  and or metastatic disease. The purpose of this study is to identify prognostic factors
+  other than tumor stage that can be used to predict the outcome of the patients with
+  ACC.
+authors: Rao PH, Roberts D, Zhao YJ, Bell D, Harris CP, Weber RS and El-Naggar AK.
+contact:
+  email: phrao@txccc.org
+  name: Pulivarthi H. Rao
+counts:
+  biosamples: 53
+  samples_acgh: 3
+  samples_ccgh: 53
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18698036
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 14, 16 (2008): 5181-87.'
+label: 'Rao et al. (2008): Deletion of 1p32-P36 is the Most Frequent Genetic Change
+  and Poor Prognostic Marker in Adenoid Cystic ...'
+notes: ~
+pmid: 18698036
+title: Deletion of 1p32-P36 is the Most Frequent Genetic Change and Poor Prognostic
+  Marker in Adenoid Cystic Carcinoma of the Salivary Glands.
+year: 2008

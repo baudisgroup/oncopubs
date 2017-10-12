@@ -1,0 +1,56 @@
+---
+abstract: We used comparative genomic hybridization CGH to identify recurrent chromosomal
+  imbalances in tumor DNA from 25 malignant ovarian carcinomas and two ovarian tumors
+  of low malignant potential LMP . Many of the carcinoma specimens displayed numerous
+  imbalances. The most common sites of copy number increases, in order of frequency,
+  were 8q24.1, 20q13.2-qter, 3q26.3-qter, 1q32, 20p, 9p21-pter, and 12p. DNA amplification
+  was identified in 12 carcinomas 48 . The most frequent sites of amplification were
+  8q24.1-24.2, 3q26.3, and 20q13.2-qter. Other recurrent sites of amplification included
+  7q36, 17q25, and 19q13.1-13.2. The most frequent sites of copy number decreases
+  were 5q21, 9q, 17p, 17q12-21, 4q26-31, 16q, and 22q. Underrepresentation of 17p
+  was observed in six of 16 stage III IV tumors, but in none of seven stage I II tumors,
+  suggesting that this change may be a late event associated with the transition of
+  ovarian carcinomas to a more metastatic disease. Overrepresentation of 3q26.3-qter,
+  5p14-pter, 8q24.1, 9p21-pter, 20p, and 20q13.2-qter and underrepresentation of 4q26-31
+  and 17q12-21 also tended to be more common in advanced-stage tumors. All ten grade
+  3 tumors had copy number increases involving 8q24.1, compared to only three of nine
+  grade 2 tumors. Overrepresentation of 3q26.3-qter and 20q13.2-qter was also observed
+  at a higher frequency in high-grade tumors. One of the two LMP tumors displayed
+  chromosomal alterations, which consisted of overrepresentation of 5p and 9p only.
+  Taken collectively, these findings and data from other CGH studies of ovarian cancers
+  define a set of small chromosome segments that are consistently over- or underrepresented
+  and, thus, highlight sites of putative oncogenes and tumor suppressor genes that
+  contribute to the pathogenesis of these highly malignant neoplasms.
+authors: Sonoda G, Palazzo J, du Manoir S, Godwin AK, Feder M, Yakushiji M and Testa
+  JR.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9408747
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 20, 4 (1997): 320-28.'
+label: 'Sonoda et al. (1997): Comparative Genomic Hybridization Detects Frequent Overrepresentation
+  of Chromosomal Material From ...'
+notes: ~
+pmid: 9408747
+title: Comparative Genomic Hybridization Detects Frequent Overrepresentation of Chromosomal
+  Material From 3q26, 8q24, and 20q13 in Human Ovarian Carcinomas.
+year: 1997

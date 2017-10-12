@@ -1,0 +1,55 @@
+---
+abstract: Prostate cancer remains the most common male malignancy in Western countries,
+  yet limited information exists regarding genetic changes and clinical correlations.
+  The advent of comparative genomic hybridization microarray GM technology has recently
+  allowed for precise screening of DNAs for genetic copy number changes this offers
+  an advantage over previous techniques, including conventional cytogenetics. A problem
+  with cytogenetic prostate cancer analysis has been the study of the appropriate
+  cell types because this is a highly heterogeneous tumor. We have performed GM using
+  the Spectral Genomics Inc. dye reversal platform on 20 primary prostate tumors.
+  These tumor samples were from frozen tissue collected over the last 10 years and
+  multiple clinical parameters, including follow-up were collected on these patients
+  cytogenetic analysis was previously attempted on all patients. Eighty percent 16
+  20 of specimens showed copy number changes, 65 of which were losses and 35 were
+  gains of genetic material. The most common changes observed were loss of an interstitial
+  region of 2q 8 cases, 40 , followed by loss of interstitial 6q 6 cases, 30 , loss
+  at 8p and 13q 5 cases each, 25 , gain at 3p and loss at 5q, 16q, and Xq 4 cases
+  each, 20 , and gain at 8p 3 cases, 15 . There was evidence of correlation of loss
+  at 5q with a positive node status. Cytogenetic studies on these same patients only
+  detected clonal changes in 40 8 20 specimens and did not detect the majority of
+  abnormalities seen by the GM technique. We propose this technology for the evaluation
+  of prostate and other heterogeneous cancers as a rapid and efficient way to detect
+  genetic copy number changes.
+authors: Pettus JA, Cowley BC, Maxwell T, Milash B, Stephenson RA, Rohr LR, Hoff C
+  and Brothman AR.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15474145
+geo_data:
+  geo_json:
+    coordinates:
+    - -111.89
+    - 40.76
+    type: Point
+  info:
+    city: Salt Lake City
+    continent: North America
+    country: United States
+    label: Salt Lake City, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 154, 2 (2004): 110-18.'
+label: 'Pettus et al. (2004): Multiple Abnormalities Detected By Dye Reversal Genomic
+  Microarrays in Prostate Cancer: A Much ...'
+notes: ~
+pmid: 15474145
+title: 'Multiple Abnormalities Detected By Dye Reversal Genomic Microarrays in Prostate
+  Cancer: A Much Greater Sensitivity Than Conventional Cytogenetics.'
+year: 2004

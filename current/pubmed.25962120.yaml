@@ -1,0 +1,50 @@
+---
+abstract: Relapse is the leading cause of mortality in children with acute lymphoblastic
+  leukemia (ALL). Among chemotherapeutics, thiopurines are key drugs in ALL combination
+  therapy. Using whole-exome sequencing, we identified relapse-specific mutations
+  in the phosphoribosyl pyrophosphate synthetase 1 gene (PRPS1), which encodes a rate-limiting
+  purine biosynthesis enzyme, in 24/358 (6.7%) relapsed childhood B cell ALL (B-ALL)
+  cases. All individuals who harbored PRPS1 mutations relapsed early during treatment,
+  and mutated ALL clones expanded exponentially before clinical relapse. Our functional
+  analyses of PRPS1 mutants uncovered a new chemotherapy-resistance mechanism involving
+  reduced feedback inhibition of de novo purine biosynthesis and competitive inhibition
+  of thiopurine activation. Notably, the de novo purine synthesis inhibitor lometrexol
+  effectively abrogated PRPS1 mutant-driven drug resistance. These results highlight
+  the importance of constitutive activation of the de novo purine synthesis pathway
+  in thiopurine resistance, and they offer therapeutic strategies for the treatment
+  of relapsed and thiopurine-resistant ALL.
+authors: Li B, Li H, Bai Y, Kirschner-Schwabe R, Yang JJ, Chen Y, Lu G, Tzoneva G,
+  Ma X, Wu T, Li W, Lu H, Ding L, Liang H, Huang X, Yang M, Jin L, Kang H, Chen S,
+  Du A, Shen S, Ding J, Chen H, Chen J, von Stackelberg A, Gu L, Zhang J, Ferrando
+  A, Tang J, Wang S and Zhou BB
+contact:
+  email: ~
+  name: Bin-Bing S Zhou
+counts:
+  biosamples: 45
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 45
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25962120
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Nat. Med., 2015
+label: 'Li et al. (): Negative feedback-defective PRPS1 mutants drive thiopurine resistance
+  in relapsed childhood ...'
+notes: 'The 45 WES samples represent 15 diagnosis-remission-relapse triads. '
+pmid: 25962120
+title: Negative feedback-defective PRPS1 mutants drive thiopurine resistance in relapsed
+  childhood ALL.
+year: 2015

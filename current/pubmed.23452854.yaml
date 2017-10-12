@@ -1,0 +1,51 @@
+---
+abstract: 'Medulloblastoma is the most common pediatric malignant brain tumor. Although
+  current therapies improve survival, these regimens are highly toxic and are associated
+  with significant morbidity. Here, we report that placental growth factor PlGF is
+  expressed in the majority of medulloblastomas, independent of their subtype. Moreover,
+  high expression of PlGF receptor neuropilin 1 Nrp1 correlates with poor overall
+  survival in patients. We demonstrate that PlGF and Nrp1 are required for the growth
+  and spread of medulloblastoma: PlGF Nrp1 blockade results in direct antitumor effects
+  in vivo, resulting in medulloblastoma regression, decreased metastasis, and increased
+  mouse survival. We reveal that PlGF is produced in the cerebellar stroma via tumor-derived
+  Sonic hedgehog Shh and show that PlGF acts through Nrp1-and not vascular endothelial
+  growth factor receptor 1-to promote tumor cell survival. This critical tumor-stroma
+  interaction-mediated by Shh, PlGF, and Nrp1 across medulloblastoma subtypes-supports
+  the development of therapies targeting PlGF Nrp1 pathway.'
+authors: Snuderl M, Batista A, Kirkpatrick ND, Ruiz de Almodovar C, Riedemann L, Walsh
+  EC, Anolik R, Huang Y, Martin JD, Kamoun W, Knevels E, Schmidt T, Farrar CT, Vakoc
+  BJ, Mohan N, Chung E, Roberge S, Peterson T, Bais C, Zhelyazkova BH, Yip S, Hasselblatt
+  M, Rossig C, Niemeyer E, Ferrara N, Klagsbrun M, Duda DG, Fukumura D, Xu L, Carmeliet
+  P and Jain RK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23452854
+- geo:GSE37412
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cell (2013) 152: 1065-1076.'
+label: 'Snuderl et al. (2013): Targeting placental growth factor/neuropilin 1 pathway
+  inhibits growth and spread of ...'
+notes: ~
+pmid: 23452854
+title: Targeting placental growth factor/neuropilin 1 pathway inhibits growth and
+  spread of medulloblastoma.
+year: 2013

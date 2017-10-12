@@ -1,0 +1,39 @@
+---
+abstract: Enchondromas are benign lesions that can occur as solitary tumors or multiple
+  tumors Ollier disease and may be precursors of central chondrosarcomas. Recurrent
+  chondrosarcomas can be of a higher grade compared with primary tumors, suggesting
+  possible progression.
+authors: Rozeman LB, Szuhai K, Schrage YM, Rosenberg C, Tanke HJ, Taminiau AH, Cleton-Jansen
+  AM, Bovee JV and Hogendoorn PC.
+contact:
+  email: P.C.W.Hogendoorn@lumc.nl
+  name: Pancras C. W. Hogendoorn
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16779802
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer 107, 2 (2006): 380-88.'
+label: 'Rozeman et al. (2006): Array-Comparative Genomic Hybridization of Central
+  Chondrosarcoma: Identification of Ribosomal ...'
+notes: ~
+pmid: 16779802
+title: 'Array-Comparative Genomic Hybridization of Central Chondrosarcoma: Identification
+  of Ribosomal Protein S6 and Cyclin-Dependent Kinase 4 as Candidate Target Genes
+  for Genomic Aberrations.'
+year: 2006

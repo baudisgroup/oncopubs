@@ -1,0 +1,59 @@
+---
+abstract: Circulating tumor cells (CTC) have been found in patients with metastatic
+  melanoma and are associated with advanced melanoma stage and poor patient outcome.
+  We hypothesize that CTC harbor genomic changes critical in the development of distant
+  systemic metastasis. Here, we present the first genome-wide copy-number aberration
+  (CNA) and loss of heterozygosity (LOH)-based characterization of melanoma CTC.  CTC
+  were isolated from peripheral blood monocytes of 13 melanoma patients with regional
+  metastasis stage IIIB/C using antibodies against melanoma-associated cell surface
+  gangliosides.  We characterized 251 CNA in CTC. Comparative analysis demonstrated
+  >90% concordance in single-nucleotide polymorphism profiles between paired CTC and
+  tumor metastases. In particular, there were notable recurring CNA across patients.
+  In exploratory studies, the presence of several top CTC-associated CNA was verified
+  in distant metastasis (stage IV) from 27 patients, suggesting that certain genomic
+  changes are propagated from regional metastasis to CTC and to distant systemic metastases.
+  Lastly, an exploratory biomarker panel derived from 5 CTC-associated CNA [CSMD2
+  (CUB and Sushi multiple domains 2), 1p35.1; CNTNAP5 (contactin associated protein-like
+  5), 2q14.3; NRDE2 (NRDE-2, necessary for RNA interference, domain containing), 14q32.11;
+  ADAM6 (ADAM metallopeptidase domain 6, pseudogene), 14q32.33; and TRPM2 (transient
+  receptor potential cation channel, subfamily m, member 2), 21q22.3] conferred prognostic
+  utility for melanoma recurrence [hazard ratio (HR), 1.14; CI, 1.00-1.44; P = 0.0471]
+  and death (HR, 2.86; CI, 1.23-14.42; P = 0.0014) in 35 patients with stage IIIB/C
+  melanoma, with a 5-year disease-free survival of 13% vs 69% (P = 0.0006) and overall
+  survival of 28% vs 94% between high-risk and low-risk groups defined by the biomarker
+  panel, respectively.  This study provides the first detailed CNA-based profile of
+  melanoma CTC and illustrates how CTC may be used as a novel approach for identification
+  of systemic metastasis.  ï¿½ 2014 The American Association for Clinical Chemistry.
+authors: Chiu CG, Nakamura Y, Chong KK, Huang SK, Kawas NP, Triche T, Elashoff D,
+  Kiyohara E, Irie RF, Morton DL and Hoon DS
+contact:
+  email: hoon@jwci.org
+  name: Hoon, DS
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24718909
+- geo:GSE43934
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.49
+    - 34.02
+    type: Point
+  info:
+    city: Santa Monica
+    continent: North America
+    country: United States
+    label: Santa Monica, United States, North America
+    precision: city
+journal: Clin. Chem. 60(6), 2014
+label: 'Chiu CG et al. (2014): '
+notes: ~
+pmid: 24718909
+title: Genome-wide characterization of circulating tumor cells identifies novel prognostic
+  genomic alterations in systemic melanoma metastasis.
+year: 2014

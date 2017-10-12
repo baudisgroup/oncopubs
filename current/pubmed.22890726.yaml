@@ -1,0 +1,55 @@
+---
+abstract: The response rate to sorafenib in hepatocellular carcinoma HCC is relatively
+  low 0.7 -3 , however, rapid and drastic tumor regression is occasionally observed.
+  The molecular backgrounds and clinico-pathological features of these responders
+  remain largely unclear. We analyzed the clinical and molecular backgrounds of 13
+  responders to sorafenib with significant tumor shrinkage in a retrospective study.
+  A comparative genomic hybridization analysis using one frozen HCC sample from a
+  responder demonstrated that the 11q13 region, a rare amplicon in HCC including the
+  loci for FGF3 and FGF4, was highly amplified. A real-time polymerase chain reaction-based
+  copy number assay revealed that FGF3 FGF4 amplification was observed in three of
+  the 10 HCC samples from responders in which DNA was evaluable, whereas amplification
+  was not observed in 38 patients with stable or progressive disease P 0.006 . Fluorescence
+  in situ hybridization analysis confirmed FGF3 amplification. In addition, the clinico-pathological
+  features showed that multiple lung metastases 5 13, P 0.006 and a poorly differentiated
+  histological type 5 13, P 0.13 were frequently observed in responders. A growth
+  inhibitory assay showed that only one FGF3 FGF4-amplified and three FGFR2-amplified
+  cancer cell lines exhibited hypersensitivity to sorafenib in vitro. Finally, an
+  in vivo study revealed that treatment with a low dose of sorafenib was partially
+  effective for stably and exogenously expressed FGF4 tumors, while being less effective
+  in tumors expressing EGFP or FGF3.
+authors: Arao T, Ueshima K, Matsumoto K, Nagai T, Kimura H, Hagiwara S, Sakurai T,
+  Haji S, Kanazawa A, Hidaka H, Iso Y, Kubota K, Shimada M, Utsunomiya T, Hirooka
+  M, Hiasa Y, Toyoki Y, Hakamada K, Yasui K, Kumada T, Toyoda H, Sato S, Hisai H,
+  Kuzuya T, Tsuchiya K, Izumi N, Arii S, Nishio K and Kudo M.
+contact:
+  email: ~
+  name: Kazuto Nishio
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22890726
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: Asia
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: Hepatology (2012)
+label: 'Arao et al. (2012): Fgf3/Fgf4 Amplification and Multiple Lung Metastases in
+  Responders to Sorafenib in Hepatocellular ...'
+notes: ~
+pmid: 22890726
+title: Fgf3/Fgf4 Amplification and Multiple Lung Metastases in Responders to Sorafenib
+  in Hepatocellular Carcinoma.
+year: 2012

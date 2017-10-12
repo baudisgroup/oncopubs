@@ -1,0 +1,56 @@
+---
+abstract: The application of comparative genomic hybridization CGH has led to the
+  rapid accumulation of cytogenetic information on gastric carcinoma GC , but there
+  is little information on the time sequence of cytogenetic changes. In the present
+  study, degenerate oligonucleotide-primed polymerase chain reaction DOP-PCR and CGH
+  were applied to multiple samples microdissected from 19 diffuse-type GCs including
+  eight early cancers. Recurrent gains were detected at 8q, 3q, 7q, and 8p, and loss
+  at 17p in more than 50 of the cancers , the frequencies of which were fairly similar
+  between the samples with SIG and those without POR abundant signet ring cells. Earlier
+  stemline changes 8q , 8p , 1q , 17p-, etc , with breakpoints that were common to
+  all the samples, were discriminated from later sideline changes 2q , 11q , 17q-,
+  21q-, etc in individual tumours. The changes were generally common to early and
+  advanced cancers, except for 7p , 15q , 3p-, and 18q-, which were largely sideline
+  changes and more frequently detected in advanced cancers p amp lt 0.05 . Because
+  the samples with 7p had a greater number of copy-number changes than those without
+  7p p amp lt 0.01 , 7p may play a role in tumour progression by acceleration of chromosomal
+  instability. Fifteen different chromosomal loci with amplification were detected
+  in ten cases, mostly as sideline changes in advanced cancers. By microarray-based
+  CGH, KRAS, MDM2, and FGFR2 were confirmed in the amplicons at 12p, 12q, and 10q,
+  and FES at 15q26, for the first time in GC. These results support the notion that
+  SIG and POR are of a genetically single lineage in both early and advanced diffuse-type
+  GC and that the majority of advanced cancers derive from early cancers through the
+  accumulation of various sideline changes in addition to stemline changes.
+authors: Peng DF, Sugihara H, Mukaisho K, Tsubosa Y and Hattori T.
+contact:
+  email: sugihara@belle.shiga-med.ac.jp
+  name: Hiroyuki Sugihara
+counts:
+  biosamples: 69
+  samples_acgh: 10
+  samples_ccgh: 69
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14595756
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: Asia
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: 'J Pathol 201, 3 (2003): 439-50.'
+label: 'Peng et al. (2003): Alterations of Chromosomal Copy Number During Progression
+  of Diffuse-Type Gastric Carcinomas: ...'
+notes: ~
+pmid: 14595756
+title: 'Alterations of Chromosomal Copy Number During Progression of Diffuse-Type
+  Gastric Carcinomas: Metaphase- and Array-Based Comparative Genomic Hybridization
+  Analyses of Multiple Samples From Individual Tumours.'
+year: 2003

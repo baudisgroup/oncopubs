@@ -1,0 +1,51 @@
+---
+abstract: Invasive cervical carcinoma is thought to arise from cervical intraepithelial
+  neoplasm CIN . Genetic changes that occur during progression of CIN to cervical
+  carcinoma are poorly understood, although they appear to be directly involved in
+  this process. We used comparative genomic hybridization CGH with precise microdissection
+  and degenerate oligonucleotide primed-polymerase chain reaction DOP-PCR to detect
+  genetic alterations in normal epithelial, CIN, and invasive carcinoma tissues colocalized
+  in tumors from 18 patients with squamous cell carcinoma of the uterine cervix. Gains
+  on chromosome 1 and on 3q and losses on 2q, 3p, 4, 6p, 11q, and 17p were frequent
+  alterations found in CIN and invasive carcinoma lesions. Interestingly, several
+  of these genetic changes were observed in preinvasive carcinoma lesions. The frequency
+  and average number of genetic alterations corresponded directly to the extent to
+  which the cervical carcinoma had progressed. Frequent alterations were found in
+  more than 90 of CIN III lesions. Gains on 3q and losses on 11q were the most prevalent
+  genetic alterations found in association with uterine cervix carcinogenesis. The
+  common regions of alteration were 3q26.1-q28 and 11q23-qter. The majority of tumor
+  samples showed variability in genetic alterations across lesion types within a single
+  specimen.
+authors: Umayahara K, Numa F, Suehiro Y, Sakata A, Nawata S, Ogata H, Suminami Y,
+  Sakamoto M, Sasaki K and Kato H.
+contact:
+  email: kenji-u@po.cc.yamaguchi-u.ac.jp
+  name: Kenji Umayahara
+counts:
+  biosamples: 60
+  samples_acgh: 0
+  samples_ccgh: 60
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11746992
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 33, 1 (2002): 98-102.'
+label: 'Umayahara et al. (2002): Comparative Genomic Hybridization Detects Genetic
+  Alterations During Early Stages of Cervical ...'
+notes: ~
+pmid: 11746992
+title: Comparative Genomic Hybridization Detects Genetic Alterations During Early
+  Stages of Cervical Cancer Progression.
+year: 2002

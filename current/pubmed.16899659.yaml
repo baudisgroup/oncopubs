@@ -1,0 +1,55 @@
+---
+abstract: 'Array-CGH is a powerful tool for the detection of chromosomal aberrations.
+  The introduction of high-density SNP genotyping technology to genomic profiling,
+  termed SNP-CGH, represents a further advance, since simultaneous measurement of
+  both signal intensity variations and changes in allelic composition makes it possible
+  to detect both copy number changes and copy-neutral loss-of-heterozygosity LOH events.
+  We demonstrate the utility of SNP-CGH with two Infinium whole-genome genotyping
+  BeadChips, assaying 109,000 and 317,000 SNP loci, to detect chromosomal aberrations
+  in samples bearing constitutional aberrations as well tumor samples at sub-100 kb
+  effective resolution. Detected aberrations include homozygous deletions, hemizygous
+  deletions, copy-neutral LOH, duplications, and amplifications. The statistical ability
+  to detect common aberrations was modeled by analysis of an X chromosome titration
+  model system, and sensitivity was modeled by titration of gDNA from a tumor cell
+  with that of its paired normal cell line. Analysis was facilitated by using a genome
+  browser that plots log ratios of normalized intensities and allelic ratios along
+  the chromosomes. We developed two modes of SNP-CGH analysis, a single sample and
+  a paired sample mode. The single sample mode computes log intensity ratios and allelic
+  ratios by referencing to canonical genotype clusters generated from approximately
+  120 reference samples, whereas the paired sample mode uses a paired normal reference
+  sample from the same individual. Finally, the two analysis modes are compared and
+  contrasted for their utility in analyzing different types of input gDNA: low input
+  amounts, fragmented gDNA, and Phi29 whole-genome pre-amplified DNA.'
+authors: Peiffer DA, Le JM, Steemers FJ, Chang W, Jenniges T, Garcia F, Haden K, Li
+  J, Shaw CA, Belmont J, Cheung SW, Shen RM, Barker DL and Gunderson KL.
+contact:
+  email: hsolvang@rr-research.no
+  name: Hiroko Solvang
+counts:
+  biosamples: 102
+  samples_acgh: 102
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16899659
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.16
+    - 32.72
+    type: Point
+  info:
+    city: San Diego
+    continent: North America
+    country: United States
+    label: San Diego, United States, North America
+    precision: city
+journal: 'Genome Res 16, 9 (2006): 1136-48.'
+label: 'Peiffer et al. (2006): High-Resolution Genomic Profiling of Chromosomal Aberrations
+  Using Infinium Whole-Genome ...'
+notes: ~
+pmid: 16899659
+title: High-Resolution Genomic Profiling of Chromosomal Aberrations Using Infinium
+  Whole-Genome Genotyping.
+year: 2006

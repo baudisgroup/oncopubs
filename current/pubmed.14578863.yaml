@@ -1,0 +1,53 @@
+---
+abstract: We investigated 39 primary hepatocellular carcinomas HCCs for aberrations
+  in DNA copy number, using comparative genomic hybridization CGH . Gain of DNA at
+  8q was common in these tumors high-level gains, indicative of gene amplification,
+  occurred most frequently at 8q23-q24. Gains of 8q correlated with large amp gt 5
+  cm tumor size. To identify targets of the amplification events involving 8q, we
+  determined expression levels of 14 candidate genes within that region in a total
+  of 41 HCCs by means of real-time quantitative reverse-transcription polymerase chain
+  reactions RT-PCR . Significant correlation was found between elevated levels of
+  expression and increases in copy number for PTK2 located at 8q24.3 and EIF3S3 at
+  8q23.3 , but for none of the other candidates, which included MYC 8q24.1 . Southern
+  blot analyses confirmed that PTK2 and EIF3S3 were amplified, respectively, in 5
+  19 and 7 26 of the 27 tumors examined in accordance with expression patterns, an
+  indication that expression of PTK2 and EIF3S3 was probably up-regulated by the amplification
+  mechanism. When we analyzed potential relationships between elevated expression
+  of PTK2 and EIF3S3 and clinicopathologic parameters, high expression of the 2 transcripts
+  was significantly associated with large amp gt 5 cm tumor size and with hepatitis
+  B virus HBV infection. In conclusion, PTK2 and EIF3S3, which, respectively, encode
+  focal adhesion kinase and the p40 subunit of the eukaryotic initiation factor 3,
+  were probable targets within the amplification at 8q23-q24 and may be involved in
+  progression of HCC.
+authors: Okamoto H, Yasui K, Zhao C, Arii S and Inazawa J.
+contact:
+  email: johinaz.cgen@mri.tmd.ac.jp
+  name: Johji Inazawa
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 39
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14578863
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Hepatology 38, 5 (2003): 1242-49.'
+label: 'Okamoto et al. (2003): Ptk2 and Eif3S3 Genes May be Amplification Targets
+  At 8q23-Q24 and Are Associated With Large ...'
+notes: ~
+pmid: 14578863
+title: Ptk2 and Eif3S3 Genes May be Amplification Targets At 8q23-Q24 and Are Associated
+  With Large Hepatocellular Carcinomas.
+year: 2003

@@ -1,0 +1,51 @@
+---
+abstract: In neuroblastoma, the most frequent genetic alterations are unbalanced translocations
+  involving chromosome 17. To gain insights into these rearrangements, we have characterized
+  a previously identified der 1 t 1 17 of the CLB-Bar cell line. The 17q breakpoint
+  was mapped by FISH. Subsequently, a rearranged fragment was identified by Southern
+  analysis, cloned in a lambda vector and sequenced. The chromosome rearrangement
+  is more complex than expected due to the presence of an interstitial 4p telomeric
+  sequence between chromosome 1p and 17q. Three different genes, which may play a
+  role in neuroblastoma development, are disrupted by the translocation breakpoints.
+  Indeed, the 3UTR of the PIP5K2B gene on chromosome 17q is directly fused to the
+  TTAGGG n repeat of the chromosome 4p telomere, and the 1 4 fusion disrupts the MACF1
+  microtubule-actin crosslinking factor 1 and POLN genes, respectively. Interestingly,
+  the 1 4 fusion was present at diagnosis and at relapse, whereas the 4 17 fusion
+  was detected at relapse only, leading to a secondary 17q gain confirmed by array
+  CGH therefore indicating that 17q gain may not be a primary event in neuroblastoma.
+  Finally, screening of a panel of neuroblastoma cell lines identified interstitial
+  telomeric sequences in three other cases, suggesting that this may be a recurrent
+  mechanism leading to unbalanced translocations in neuroblastoma.
+authors: Schleiermacher G, Bourdeaut F, Combaret V, Picrron G, Raynal V, Aurias A,
+  Ribeiro A, Janoueix-Lerosey I and Delattre O.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15735707
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Oncogene 24, 20 (2005): 3377-84.'
+label: 'Schleiermacher et al. (2005): Stepwise Occurrence of a Complex Unbalanced
+  Translocation in Neuroblastoma Leading to ...'
+notes: ~
+pmid: 15735707
+title: Stepwise Occurrence of a Complex Unbalanced Translocation in Neuroblastoma
+  Leading to Insertion of a Telomere Sequence and Late Chromosome 17q Gain.
+year: 2005

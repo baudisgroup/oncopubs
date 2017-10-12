@@ -1,0 +1,41 @@
+---
+abstract: Available clinical, radiological and histopathologic risk factors are not
+  adequate for accurate prognosis in uterine cervix carcinoma. Hence there is a need
+  to identify indicators to select high risk cases. Most cancers occur and progress
+  through step-wise somatic genetic mutations. Thus screening of whole genome for
+  specific genomic alterations and its outcome following treatment may predict prognosis.
+  The present study was carried out to investigate genomic alterations associated
+  with cervical carcinoma and any association of genomic alterations with clinico-pathologic
+  parameters.
+authors: Halder A, Halder S and Fauzdar A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16456259
+geo_data:
+  geo_json:
+    coordinates:
+    - 80.92
+    - 26.84
+    type: Point
+  info:
+    city: Lucknow
+    continent: Asia
+    country: India
+    label: Lucknow, India, Asia
+    precision: city
+journal: 'Indian J Med Res (2005) 122: 434-446.'
+label: 'Halder et al. (2005): A preliminary investigation of genomic screening in
+  cervical carcinoma by comparative genomic ...'
+notes: ~
+pmid: 16456259
+title: A preliminary investigation of genomic screening in cervical carcinoma by comparative
+  genomic hybridization.
+year: 2005

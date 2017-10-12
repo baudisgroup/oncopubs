@@ -1,0 +1,52 @@
+---
+abstract: Gastrointestinal stromal tumors GISTs are the most common mesenchymal tumors
+  of the gastrointestinal tract. Current criteria for the diagnosis of malignant GISTs
+  do not always reliably predict patient outcomes. In order to search for genetic
+  markers with prognostic potential, chromosomal imbalance aberrations CIAs were analyzed
+  in 28 subjects with GIST using comparative genomic hybridization and correlated
+  with clinicopathological features. Except for a small rectal tumor, CIAs were identified
+  in all GISTs, including 14 from the stomach, 11 from the small intestine, 1 from
+  the esophagus, and 1 from the rectum. Losses were more common than gains. The median
+  number of CIAs in high-risk GISTs was significantly higher than that in low-risk
+  GISTs 5.60 - 2.59 vs. 3.38 - 2.55 p amp lt 0.05 , especially for losses 4.60 - 1.84
+  vs. 2.63 - 2.13 p amp lt 0.01 . Loss of 14q was the most common CIA in both low-risk
+  and high-risk GISTs, and can be regarded as an early event of GIST development.
+  Losses of 1p and 15q were also very common, often coexisting, and were slightly
+  more frequent in high-risk GISTs than in low-risk GISTs. Other recurrent CIAs, including
+  losses of 10q, 13q, 15q, 18q, and 22q and gains of 5p, 12q, 17q, and 20q were relatively
+  less common in this series. Among these CIAs, losses of 13q, 10q with minimal overlapping
+  on q11-q22 , and 22q were most likely the chromosomal loci potentially harboring
+  the tumor suppressor gene s which may be related to early recurrence and or metastasis
+  during malignant transformation of GISTs.
+authors: Chen Y, Tzeng CC, Liou CP, Chang MY, Li CF and Lin CN.
+contact:
+  email: tzeng-tainan@yahoo.com.tw
+  name: Ching-Cherng Tzeng
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14730211
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.45
+    - 25.03
+    type: Point
+  info:
+    city: Daan District
+    continent: '25.03'
+    country: Taiwan
+    label: Daan District, Taiwan, 25.03
+    precision: city
+journal: 'J Biomed Sci 11, 1 (2004): 65-71.'
+label: 'Chen et al. (2004): Biological Significance of Chromosomal Imbalance Aberrations
+  in Gastrointestinal Stromal ...'
+notes: ~
+pmid: 14730211
+title: Biological Significance of Chromosomal Imbalance Aberrations in Gastrointestinal
+  Stromal Tumors.
+year: 2004

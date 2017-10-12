@@ -1,0 +1,42 @@
+---
+abstract: Malignant mesothelioma MM is predominantly a sporadic malignancy linked
+  to exposure to asbestos. Clustering of MM in families suggests genetic susceptibility
+  as a contributing factor. We performed comparative genomic hybridization CGH analysis
+  on tumor samples from members of a family with MM of the pleura and a history of
+  parental cancer. Our specific aim was to find a recurrent copy number loss indicating
+  the chromosomal area to which a gene underlying the development of MM could be assigned
+  according to the Knudson two-hit hypothesis. We found losses at 1p, 6q, 9p, 13q,
+  and 14q. The copy number changes were very similar to those reported in sporadic
+  cases. Our findings and results from sporadic cases highlight the importance of
+  cloning the genes in the loss sites at 1p, 6q, 14q, and 22q.
+authors: Ascoli V, Aalto Y, Carnovale-Scalzo C, Nardi F, Falzetti D, Mecucci C, and
+  Knuutila S.
+contact:
+  email: ~
+  name: NA Ascoli
+counts:
+  biosamples: 4
+  samples_acgh: 0
+  samples_ccgh: 4
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11408072
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.51
+    - 41.89
+    type: Point
+  info:
+    city: Rome
+    continent: Europe
+    country: Italy
+    label: Rome, Italy, Europe
+    precision: city
+journal: Cancer Genet Cytogenet, 127(1) 2001, 80-82.
+label: 'Ascoli et al. (2001): DNA copy number changes in familial malignant mesothelioma.'
+notes: ~
+pmid: 11408072
+title: DNA copy number changes in familial malignant mesothelioma.
+year: 2001

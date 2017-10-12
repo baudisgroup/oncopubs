@@ -1,0 +1,54 @@
+---
+abstract: Philadelphia chromosome-negative myeloproliferative neoplasms MPNs including
+  polycythemia vera, essential thrombocythemia, and primary myelofibrosis show an
+  inherent tendency for transformation into leukemia MPN-blast phase , which is hypothesized
+  to be accompanied by acquisition of additional genomic lesions. We, therefore, examined
+  chromosomal abnormalities by high-resolution single nucleotide polymorphism SNP
+  array in 88 MPN patients, as well as 71 cases with MPN-blast phase, and correlated
+  these findings with their clinical parameters. Frequent genomic alterations were
+  found in MPN after leukemic transformation with up to 3-fold more genomic changes
+  per sample compared with samples in chronic phase P amp lt .001 . We identified
+  commonly altered regions involved in disease progression including not only established
+  targets ETV6, TP53, and RUNX1 but also new candidate genes on 7q, 16q, 19p, and
+  21q. Moreover, trisomy 8 or amplification of 8q24 MYC was almost exclusively detected
+  in JAK2V617F - cases with MPN-blast phase. Remarkably, copy number-neutral loss
+  of heterozygosity CNN-LOH on either 7q or 9p including homozygous JAK2V617F was
+  related to decreased survival after leukemic transformation P .01 and P .016, respectively
+  . Our high-density SNP-array analysis of MPN genomes in the chronic compared with
+  leukemic stage identified novel target genes and provided prognostic insights associated
+  with the evolution to leukemia.
+authors: Thoennissen NH, Krug UO, Lee DH, Kawamata N, Iwanski GB, Lasho T, Weiss T,
+  Nowak D, Koren-Michowitz M, Kato M, Sanada M, Shih LY, Nagler A, Raynaud SD, Muller-Tidow
+  C, Mesa R, Haferlach T, Gilliland DG, Tefferi A, Ogawa S and Koeffler HP.
+contact:
+  email: nils.thoennissen@cshs.org
+  name: Nils Thoennissen
+counts:
+  biosamples: 159
+  samples_acgh: 159
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20068225
+- geo:GSE19647
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Blood 115, 14 (2010): 2882-90.'
+label: 'Thoennissen et al. (2010): Prevalence and Prognostic Impact of Allelic Imbalances
+  Associated With Leukemic ...'
+notes: ~
+pmid: 20068225
+title: Prevalence and Prognostic Impact of Allelic Imbalances Associated With Leukemic
+  Transformation of Philadelphia Chromosome-Negative Myeloproliferative Neoplasms.
+year: 2010

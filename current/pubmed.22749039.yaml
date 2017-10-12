@@ -1,0 +1,52 @@
+---
+abstract: Acute promyelocytic leukemia APL is characterized by the generation of the
+  PML-RAR fusion transcript as a result of a reciprocal chromosomal rearrangement,
+  t 15 17 q22 q12 , with breakpoints within the PML gene and the RAR gene. In a small
+  proportion of APL cases, RAR is fused with a number of alternative partner genes.
+  The signal transducer and activator of transcription 5 beta STAT5b is one of the
+  variant partners. Here, we describe one rare case with all-trans retinoic acid ATRA
+  -unresponsive APL characterized by the STAT5b-RAR fusion transcript. Morphology
+  and immunophenotypic analyses indicated the typical features of APL however, cytogenetic
+  analysis exhibited a normal karyotype, and importantly, results of interphase fluorescence
+  in situ hybridization FISH or reverse transcriptase-polymerase chain reaction RT-PCR
+  analysis indicated that PML-RAR expression was negative. FISH analysis with the
+  RAR dual-color break-apart rearrangement probe indicated a submicroscopic deletion
+  of the 3 end of one RARA gene. Indeed, the STAT5b-RAR fusion transcript was found
+  in this case by array-based comparative genomic hybridization and nested RT-PCR.
+  To the best of our knowledge, we report here only the sixth APL patient in the world
+  with the STAT5b-RAR fusion transcript. Additional clinical studies concerning the
+  prognosis, response to therapy, and pathogenesis of APL patients with STAT5b-RAR
+  fusion are necessary.
+authors: Chen H, Pan J, Yao L, Wu L, Zhu J, Wang W, Liu C, Han Q, Du G, Cen J, Xue
+  Y, Wu D, Sun M and Chen S.
+contact:
+  email: ~
+  name: Miao Sun
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22749039
+geo_data:
+  geo_json:
+    coordinates:
+    - 118.28
+    - 33.96
+    type: Point
+  info:
+    city: Suqian
+    continent: ~
+    country: China
+    label: Suqian, China
+    precision: city [needs verification]
+journal: 'Cancer Genet 205, 6 (2012): 327-31.'
+label: 'Chen et al. (2012): Acute Promyelocytic Leukemia With a Stat5B-Raralpha Fusion
+  Transcript Defined By Array-Cgh, Fish, ...'
+notes: ~
+pmid: 22749039
+title: Acute Promyelocytic Leukemia With a Stat5B-Raralpha Fusion Transcript Defined
+  By Array-Cgh, Fish, and Rt-Pcr.
+year: 2012

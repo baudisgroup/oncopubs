@@ -1,0 +1,45 @@
+---
+abstract: The differential diagnosis between benign Spitz nevus and malignant melanoma
+  may present considerable difficulties in some cases. Here we report 2 unusual melanocytic
+  tumors with spitzoid features developing in acral sites of Japanese patients to
+  illustrate the use of comparative genomic hybridization CGH to classify these lesions.
+  Case 1 was a 12-mm-thick, amp gt 2 cm-diameter nodule on the sole of a 37-year-old
+  man. Case 2 was a subungual tumor of the left index finger in a 13-year-old boy.
+  CGH showed absence of chromosomal aberrations in case 1 and multiple aberrations
+  in case 2, including focused amplification as previously described in acral melanomas.
+  Case 1 was free of disease after 2.5 years of follow-up, whereas case 2 developed
+  lymph node metastasis. We conclude that molecular techniques such as CGH can be
+  of diagnostic help in the classification of histologically ambiguous lesions.
+authors: Takata M, Maruo K, Kageshita T, Ikeda S, Ono T, Shirasaki F, Takehara K and
+  Bastian BC.
+contact:
+  email: ~
+  name: Fumaki Shirasaki
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12605371
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.66
+    - 36.56
+    type: Point
+  info:
+    city: Kanazawa
+    continent: ~
+    country: Japan
+    label: Kanazawa, Japan
+    precision: city [needs verification]
+journal: 'Hum Pathol 34, 1 (2003): 89-92.'
+label: 'Takata et al. (2003): Two Cases of Unusual Acral Melanocytic Tumors: Illustration
+  of Molecular Cytogenetics as a ...'
+notes: ~
+pmid: 12605371
+title: 'Two Cases of Unusual Acral Melanocytic Tumors: Illustration of Molecular Cytogenetics
+  as a Diagnostic Tool.'
+year: 2003

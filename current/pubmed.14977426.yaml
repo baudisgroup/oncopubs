@@ -1,0 +1,42 @@
+---
+abstract: Colorectal cancer CRC is one of the most common causes of cancer-related
+  deaths in the Western world, and despite the fact that metastases are usually the
+  ultimate cause of deaths, the knowledge of the genetics of advanced stages of this
+  disease is limited. In order to identify potential genetic abnormalities underlying
+  the development of local and distant metastases in CRC patients, we have, by comparative
+  genomic hybridization, compared the DNA copy number profiles of 10 primary carcinomas,
+  14 local recurrences, 7 peritoneal carcinomatoses, and 42 liver metastases from
+  61 CRC patients.
+authors: Diep CB, Teixeira MR, Thorstensen L, Wiig JN, Eknaes M, Nesland JM, Giercksky
+  KE, Johansson B and Lothe RA.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 56
+  samples_acgh: 0
+  samples_ccgh: 56
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14977426
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Mol Cancer 3 (2004): 6.'
+label: 'Diep et al. (2004): Genome Characteristics of Primary Carcinomas, Local Recurrences,
+  Carcinomatoses, and Liver ...'
+notes: Data alreadu published in Diep et al. - PMID 12508247 - was omitted.
+pmid: 14977426
+title: Genome Characteristics of Primary Carcinomas, Local Recurrences, Carcinomatoses,
+  and Liver Metastases From Colorectal Cancer Patients.
+year: 2004

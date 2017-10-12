@@ -1,0 +1,52 @@
+---
+abstract: Lung cancer is the leading cause of cancer-related death, with non-small
+  cell lung cancer NSCLC being the predominant form of the disease. Most lung cancer
+  is caused by the accumulation of genomic alterations due to tobacco exposure. To
+  uncover its mutational landscape, we performed whole-exome sequencing in 31 NSCLCs
+  and their matched normal tissue samples. We identified both common and unique mutation
+  spectra and pathway activation in lung adenocarcinomas and squamous cell carcinomas,
+  two major histologies in NSCLC. In addition to identifying previously known lung
+  cancer genes TP53, KRAS, EGFR, CDKN2A and RB1 , the analysis revealed many genes
+  not previously implicated in this malignancy. Notably, a novel gene CSMD3 was identified
+  as the second most frequently mutated gene next to TP53 in lung cancer. We further
+  demonstrated that loss of CSMD3 results in increased proliferation of airway epithelial
+  cells. The study provides unprecedented insights into mutational processes, cellular
+  pathways and gene networks associated with lung cancer. Of potential immediate clinical
+  relevance, several highly mutated genes identified in our study are promising druggable
+  targets in cancer therapy including ALK, CTNNA3, DCC, MLL3, PCDHIIX, PIK3C2B, PIK3CG
+  and ROCK2.
+authors: Liu P, Morrison C, Wang L, Xiong D, Vedell P, Cui P, Hua X, Ding F, Lu Y,
+  James M, Ebben JD, Xu H, Adjei AA, Head K, Andrae JW, Tschannen MR, Jacob H, Pan
+  J, Zhang Q, Van den Bergh F, Xiao H, Lo KC, Patel J, Richmond T, Watt M-A, Albert
+  T, Selzer R, Anderson M, Wang J, Wang Y, Starnes S, Yang P and You M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 33
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 33
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22510280
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.91
+    - 43.04
+    type: Point
+  info:
+    city: Milwaukee
+    continent: North America
+    country: United States
+    label: Milwaukee, United States, North America
+    precision: city
+journal: 'Carcinogenesis (2012) 33: 1270-1276.'
+label: 'Liu et al. (2012): Identification of somatic mutations in non-small cell lung
+  carcinomas using whole-exome ...'
+notes: ~
+pmid: 22510280
+title: Identification of somatic mutations in non-small cell lung carcinomas using
+  whole-exome sequencing.
+year: 2012

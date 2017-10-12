@@ -1,0 +1,50 @@
+---
+abstract: Hereditary breast cancers BCs are incompletely explained by BRCA genes abnormalities,
+  as 70 of them are not associated with known genetic alterations. Array-based comparative
+  genomic hybridization aCGH of tumors provides an opportunity for identifying new
+  BC susceptibility genes. By analyzing our database of high-resolution aCGH profiles
+  of 330 BCs, we identified a case with homozygous deletion of the entire BARD1 gene.
+  The BARD1-deleted case displayed a familial history of BC and other clinico-pathological
+  features of BRCAness, and a 17 probability of BRCA1 2 mutation. Analysis of constitutional
+  DNA showed a BARD1 germline heterozygous deletion without BRCA1 2 mutation. Gene
+  expression analysis using DNA microarrays classified the tumor as basal-like, with
+  very low BARD1 and ID4 expression, but high expression of BRCA1, RAD51, PARP1, CHEK1,
+  and FANCA. The tumor displayed a BRCA1-mutated expression profile. This is the first
+  report of a non-BRCA1 2-mutated BC with somatic homozygous and germ-line heterozygous
+  deletion of the entire BARD1 gene. This observation suggests that BARD1 might be
+  a BC susceptibility gene that follows the Knudson rule. Identification of BARD1
+  deletion could have clinical applications including screening for hereditary forms.
+  2010 Wiley-Liss, Inc.
+authors: Sabatier R, Adelaide J, Finetti P, Ferrari A, Huiart L, Sobol H, Chaffanet
+  M, Birnbaum D and Bertucci F.
+contact:
+  email: bertuccif@marseille.fnclcc.fr
+  name: Francois Bertucci
+counts:
+  biosamples: 330
+  samples_acgh: 330
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20842729
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: Europe
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 49, 12 (2010): 1143-51.'
+label: 'Sabatier et al. (2010): Bard1 Homozygous Deletion, a Possible Alternative
+  to Brca1 Mutation in Basal Breast ...'
+notes: ~
+pmid: 20842729
+title: Bard1 Homozygous Deletion, a Possible Alternative to Brca1 Mutation in Basal
+  Breast Cancer.
+year: 2010

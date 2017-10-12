@@ -1,0 +1,37 @@
+---
+abstract: To identify chromosomal copy numbers of frequent genetic aberrations within
+  squamous cell carcinomas SCCs and solar keratoses SKs , and provide further evidence
+  to support or challenge current dogma concerning the relationship between these
+  lesions.
+authors: Ashton KJ, Weinstein SR, Maguire DJ, and Griffiths LR.
+contact:
+  email: L.Cawkwell@hull.ac.uk
+  name: L. Cawkwell
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12873882
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.05
+    - -27.55
+    type: Point
+  info:
+    city: Nathan
+    continent: Australia
+    country: Australia
+    label: Nathan, Australia, Australia
+    precision: city
+journal: Arch Dermatol, 139(7) 2003, 876-82.
+label: 'Ashton et al. (2003): Chromosomal aberrations in squamous cell carcinoma and
+  solar keratoses revealed by comparative ...'
+notes: ~
+pmid: 12873882
+title: Chromosomal aberrations in squamous cell carcinoma and solar keratoses revealed
+  by comparative genomic hybridization.
+year: 2003

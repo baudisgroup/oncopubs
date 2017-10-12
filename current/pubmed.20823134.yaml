@@ -1,0 +1,37 @@
+---
+abstract: Knowledge about the genetic lesions that occur in Burkitts lymphoma, besides
+  the pathognomonic IG-MYC translocations, is limited.
+authors: Scholtysik R, Kreuz M, Klapper W, Burkhardt B, Feller AC, Hummel M, Loeffler
+  M, Rosolowski M, Schwaenen C, Spang R, Stein H, Thorns C, Trumper L, Vater I, Wessendorf
+  S, Zenz T, Siebert R and Kuppers R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20823134
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.01
+    - 51.46
+    type: Point
+  info:
+    city: Essen
+    continent: Europe
+    country: Germany
+    label: Essen, Germany, Europe
+    precision: city
+journal: 'Haematologica 95, 12 (2010): 2047-55.'
+label: 'Scholtysik et al. (2010): Detection of Genomic Aberrations in Molecularly
+  Defined Burkitts Lymphoma By Array-Based, High ...'
+notes: ~
+pmid: 20823134
+title: Detection of Genomic Aberrations in Molecularly Defined Burkitts Lymphoma By
+  Array-Based, High Resolution, Single Nucleotide Polymorphism Analysis.
+year: 2010

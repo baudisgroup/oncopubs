@@ -1,0 +1,56 @@
+---
+abstract: Rectal cancer response to chemoradiation CRT varies from no response to
+  a pathologic complete response pCR . Identifying predictive biomarkers of response
+  would therefore be useful. We assessed whether chromosomal copy number alterations
+  CNAs can assist in predicting pCR. Pretreatment tumor biopsies and paired normal
+  surgical tissues from the proximal resection margin were collected from 95 rectal
+  cancer patients treated with preoperative CRT and total mesorectal excision in a
+  prospective Phase II study. Tumor and control DNA were extracted, and oligonucleotide
+  array-based comparative genomic hybridization aCGH was used to identify CNAs, which
+  were correlated with pCR. Ingenuity pathway analysis IPA was then used to identify
+  functionally relevant genes in aberrant regions. Finally, a predictive model for
+  pCR was built using support vector machine SVM , and leave-one-out cross validation
+  assessed the accuracy of aCGH. Chromosomal regions most commonly affected by gains
+  were 20q11.21-q13.33, 13q11.32-23, 7p22.3-p22.2, and 8q23.3-q24.3, and losses were
+  present at 18q11.32-q23, 17p13.3-q11.1, 10q23.1, and 4q32.1-q32.3. The 25 26 patients
+  who achieved a pCR had significantly fewer high copy gains overall than non-pCR
+  patients P 0.01 . Loss of chromosomal region 15q11.1-q26.3 was significantly associated
+  with non-pCR P amp lt 0.00002 Q-bound amp lt 0.0391 , while loss of 12p13.31 was
+  significantly associated with pCR P amp lt 0.0003 Q-bound amp lt 0.097 . IPA identified
+  eight genes in the imbalanced chromosomal regions that associated with tumor response.
+  SVM identified 58 probes that predict pCR with 76 sensitivity, 97 specificity, and
+  positive and negative predictive values of 91 and 92 . Our data indicate that chromosomal
+  CNAs can help identify rectal cancer patients more likely to develop a pCR to CRT.
+authors: Chen Z, Liu Z, Li W, Qu K, Deng X, Varma MG, Fichera A, Pigazzi A and Garcia-Aguilar
+  J.
+contact:
+  email: ~
+  name: Julio Garcia-Aguilar
+counts:
+  biosamples: 95
+  samples_acgh: 95
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21584903
+geo_data:
+  geo_json:
+    coordinates:
+    - -117.98
+    - 34.14
+    type: Point
+  info:
+    city: Duarte
+    continent: North America
+    country: United States
+    label: Duarte, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 9 (2011): 689-99.'
+label: 'Chen et al. (2011): Chromosomal Copy Number Alterations Are Associated With
+  Tumor Response to Chemoradiation in Locally ...'
+notes: ~
+pmid: 21584903
+title: Chromosomal Copy Number Alterations Are Associated With Tumor Response to Chemoradiation
+  in Locally Advanced Rectal Cancer.
+year: 2011

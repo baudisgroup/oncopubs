@@ -1,0 +1,42 @@
+---
+abstract: By identifying cancer driver genes involved in tumorigenesis, whole-exome
+  sequencing (WES) analyses enable the development of robust biomarkers and novel
+  therapeutic targets to reach precision oncology.WES analyses were performed in matched
+  gastric cancer-normal gastric tissues from two patients. We compared genes highlighted
+  with those of a database and recent WES/whole-genome sequencing studies.We identified
+  32 highlighted gastric cancer genes, two of these (DEFB118 and RNF43) may provide
+  future potential clinical implications.Definitive evidence on extensive genetic
+  heterogeneity suggests the need for large-scale next-generation sequencing studies
+  to validate gastric cancer driver genes catalog. This list represents the foundation
+  for developing genome-based biomarkers to guide precision gastric cancer treatment.
+authors: Lianos GD, Glantzounis GK, Bali CD, Katsios C, Roukos DH.
+contact:
+  email: droukos@uoi.gr
+  name: Dimitrios H Roukos
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 2
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27897040
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.85
+    - 39.66
+    type: Point
+  info:
+    city: Ioannina
+    continent: Europe
+    country: Greece
+    label: Ioannina, Greece, Europe
+    precision: city
+journal: Future Oncol, 2016
+label: ' (2016): '
+notes: ~
+pmid: 27897040
+title: Identification of novel genes by whole-exome sequencing can improve gastric
+  cancer precision oncology.
+year: 2016

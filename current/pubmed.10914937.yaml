@@ -1,0 +1,53 @@
+---
+abstract: Drug resistance is a major problem in chemotherapy of chronic lymphocytic
+  leukemia CLL . The genetic basis and molecular pathogenesis of drug resistance in
+  CLL remain poorly understood. Here, we have investigated the association between
+  chromosomal aberrations and cellular resistance of CLL cells against seven drugs,
+  gamma and ultraviolet irradiation. Samples were obtained from 35 patients having
+  a classical form of B-CLL. Chromosomal aberrations were first analyzed by traditional
+  karyotyping improved by using optimized mitogen combinations. DNA sequence copy
+  number changes throughout the genome were next screened by comparative genomic hybridization.
+  Finally, fluorescence in situ hybridization was used to detect trisomy 12 and loss
+  of Rb and deletions at chromosome 11. The cellular sensitivity in vitro was assessed
+  by the reduction of macromolecular protein synthesis measured as incorporation of
+  radioactive L-leucine as an endpoint. The overall analysis disclosed a statistically
+  highly significant difference in cellular drug resistance between patients having
+  at least three aberrations compared with patients with fewer or no aberrations.
+  This strongly indicates that complex rather than simple molecular mechanisms are
+  responsible for the drug and irradiation resistance in CLL. According to published
+  results, complex aberrations are constantly associated with poor prognosis in CLL.
+  We demonstrated here that complex chromosomal aberrations were associated with cellular
+  irradiation and drug resistance, which, on the other hand, may be responsible for
+  the poor clinical outcome in CLL.
+authors: Koski T, Karhu R, Visakorpi T, Vilpo L, Knuutila S and Vilpo J.
+contact:
+  email: Juhani.Vilpo@hus.fi
+  name: Juhani Vilpo
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10914937
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Eur J Haematol 65, 1 (2000): 32-39.'
+label: 'Koski et al. (2000): Complex Chromosomal Aberrations in Chronic Lymphocytic
+  Leukemia Are Associated With Cellular Drug ...'
+notes: ~
+pmid: 10914937
+title: Complex Chromosomal Aberrations in Chronic Lymphocytic Leukemia Are Associated
+  With Cellular Drug and Irradiation Resistance.
+year: 2000

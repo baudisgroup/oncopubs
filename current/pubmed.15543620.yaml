@@ -1,0 +1,53 @@
+---
+abstract: Several chromosomal regions are recurrently amplified or deleted in lung
+  tumors, but little is known about the underlying genes, which could be important
+  mediators in tumor formation or progression. In lung cancer, the RB1-CCND1-CDKN2A
+  pathway, involved in the G1-S transition, is damaged in nearly all tumors. In the
+  present study, we localized a novel amplicon in lung tumors to a fragment of less
+  than 0.5 Mb at 12q13.3-q14.1 by using comparative genomic hybridization CGH on cDNA
+  microarrays. This approach enabled us to identify 10-15 genes with the most consistent
+  amplifications. Semiquantitative RT-PCR analyses of 13 genes in this region showed
+  that four of them CDK4, CYP27B1, METTL1, and TSFM were also highly up-regulated.
+  Immunohistochemical IHC analysis of 141 tumor samples on a tissue microarray showed
+  that CDK4 was expressed at a high level in 23 of lung tumors. Six 21.4 of the tumors
+  with high CDK4 expression n 28 were shown by fluorescence in situ hybridization
+  FISH to contain the 12q13.3-q14.1 amplification. For CDK4, a positive correlation
+  was found between gene copy number FISH and CGH array , mRNA expression RT-PCR ,
+  and level of protein expression IHC . CDK4 expression did not correlate with CDKN2A
+  methylation status. Amplification of CDK4 has been described in other tumor types,
+  but its role in lung cancer remains to be elucidated. Although CDK4 amplification
+  seems to be a relatively rare event 4.3 in lung tumors, it indicates the significance
+  of the RB1-CCND1 pathway in lung tumorigenesis.
+authors: Wikman H, Nymark P, Vayrynen A, Jarmalaite S, Kallioniemi A, Salmenkivi K,
+  Vainio-Siukola K, Husgafvel-Pursiainen K, Knuutila S, Wolf M and Anttila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 7
+  samples_acgh: 7
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15543620
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 42, 2 (2005): 193-99.'
+label: 'Wikman et al. (2005): Cdk4 is a Probable Target Gene in a Novel Amplicon At
+  12q13.3-Q14.1 in Lung Cancer.'
+notes: ~
+pmid: 15543620
+title: Cdk4 is a Probable Target Gene in a Novel Amplicon At 12q13.3-Q14.1 in Lung
+  Cancer.
+year: 2005

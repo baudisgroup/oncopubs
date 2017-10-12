@@ -1,0 +1,52 @@
+---
+abstract: 'Intrachromosomal amplification of chromosome 21 (iAMP21) defines a distinct
+  subgroup of childhood B-cell precursor acute lymphoblastic leukemia (BCP-ALL) that
+  has a dismal outcome when treated with standard therapy. For improved diagnosis
+  and risk stratification, the initiating genetic events need to be elucidated. To
+  investigate the genetic basis of BCP-ALL, genomes of 94 iAMP21 patients were interrogated
+  by arrays, FISH, and multiplex ligation-dependent probe amplification. Most copy
+  number alterations targeted chromosome 21, reinforcing the complexity of this chromosome.
+  The common region of amplification on chromosome 21 was refined to a 5.1-mb region
+  that included RUNX1, miR-802, and genes mapping to the Down syndrome critical region.
+  Recurrent abnormalities affecting genes in key pathways were identified: IKZF1 (22%),
+  CDKN2A/B (17%), PAX5 (8%), ETV6 (19%), and RB1 (37%). Investigation of clonal architecture
+  provided evidence that these abnormalities, and P2RY8-CRLF2, were secondary to chromosome
+  21 rearrangements. Patient outcome was uniformly poor with standard therapy irrespective
+  of the presence or absence of these changes. This study has provided evidence that
+  chromosome 21 instability is the only anomaly among those so far investigated that
+  is common to all iAMP21 patients, and therefore the initiating event is likely to
+  be found among the complex structural rearrangements of this abnormal chromosome.'
+authors: Rand V, Parker H, Russell LJ, Schwab C, Ensor H, Irving J, Jones L, Masic
+  D, Minto L, Morrison H, Ryan S, Robinson H, Sinclair P, Moorman AV, Strefford JC,
+  Harrison CJ.
+contact:
+  email: vikki.rand@newcastle.ac.uk
+  name: Vikki Rand
+counts:
+  biosamples: 18
+  samples_acgh: 18
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21527530
+- geo:GSE26192
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.61
+    - 54.97
+    type: Point
+  info:
+    city: Newcastle upon Tyne
+    continent: Europe
+    country: United Kingdom
+    label: Newcastle upon Tyne, United Kingdom, Europe
+    precision: city
+journal: Blood 117(25), 2011
+label: ' (2011): '
+notes: ~
+pmid: 21527530
+title: Genomic characterization implicates iAMP21 as a likely primary genetic event
+  in childhood B-cell precursor acute lymphoblastic leukemia.
+year: 2011

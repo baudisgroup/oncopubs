@@ -1,0 +1,53 @@
+---
+abstract: 'Chromosomal analysis of acute lymphoblastic leukemia ALL is often difficult
+  because of the suboptimal in vitro growth of the immature lymphoid cell and the
+  poor morphology obtained. In this study, we describe the application of comparative
+  genomic hybridization CGH to investigate the genomic abnormalities in 14 patients
+  with ALL, all of whom had cytogenetically identified numerical aberrations or gross
+  chromosomal structural alteration. With the use of CGH, regional or whole chromosome
+  overrepresentation or both were found to be more frequent than underrepresentation
+  52 gains vs. 6 losses , the most common gains being chromosomes 21 and X. The results
+  of the comparison between CGH and conventional R-banding analysis could be classified
+  into three categories: 1 in three cases, including two with trisomy, CGH and banding
+  analysis gave identical results 2 in six cases with hyperdiploidy and two cases
+  presenting chromosome structural abnormalities, the results were consistent but
+  with minor discrepancies 3 in three cases, including two with triploidy and tetraploidy
+  and one with chimeric karyotype together with 22, the data from CGH and cytogenetical
+  analysis were discrepant. CGH could not find the triploidy and tetraploidy. Our
+  results suggest that CGH has certain value in the detection of gains or losses of
+  chromosome materials in hyperdiploid ALL. Nevertheless, the combination of CGH and
+  conventional karyotyping provides more precise information on the genomic imbalance
+  in ALL.'
+authors: Wong N, Chen SJ, Cao Q, Su XY, Niu C, Wu QW, Leung TW, Wickham N, Johnson
+  PJ and Chen Z.
+contact:
+  email: natwong@cuhk.edu.hk
+  name: Nathalie Wong
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9595040
+geo_data:
+  geo_json:
+    coordinates:
+    - 79.85
+    - 6.93
+    type: Point
+  info:
+    city: Colombo
+    continent: Asia
+    country: Sri Lanka
+    label: Colombo, Sri Lanka, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 103, 1 (1998): 20-24.'
+label: 'Wong et al. (1998): Detection of Chromosome Over- and Underrepresentations
+  in Hyperdiploid Acute Lymphoblastic Leukemia ...'
+notes: ~
+pmid: 9595040
+title: Detection of Chromosome Over- and Underrepresentations in Hyperdiploid Acute
+  Lymphoblastic Leukemia By Comparative Genomic Hybridization.
+year: 1998

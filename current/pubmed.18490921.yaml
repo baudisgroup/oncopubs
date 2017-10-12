@@ -1,0 +1,53 @@
+---
+abstract: 'Invasive ductal carcinomas IDCs and invasive lobular carcinomas ILCs are
+  the two major pathological types of breast cancer. Epidemiological and histoclinical
+  data suggest biological differences, but little is known about the molecular alterations
+  involved in ILCs. We undertook a comparative large-scale study by both array-compared
+  genomic hybridization and cDNA microarray of a set of 50 breast tumors 21 classic
+  ILCs and 29 IDCs selected on homogeneous histoclinical criteria. Results were validated
+  on independent tumor sets, as well as by quantitative RT-PCR. ILCs and IDCs presented
+  differences at both the genomic and expression levels with ILCs being less rearranged
+  and heterogeneous than IDCs. Supervised analysis defined a 75-BACs signature discriminating
+  accurately ILCs from IDCs. Expression profiles identified two subgroups of ILCs:
+  typical ILCs approximately 50 , which were homogeneous and displayed a normal-like
+  molecular pattern, and atypical ILCs, more heterogeneous with features intermediate
+  between ILCs and IDCs. Supervised analysis identified a 75-gene expression signature
+  that discriminated ILCs from IDCs, with many genes involved in cell adhesion, motility,
+  apoptosis, protein folding, extracellular matrix and protein phosphorylation. Although
+  ILCs and IDCs share common alterations, our data show that ILCs and IDCs could be
+  distinguished on the basis of their genomic and expression profiles suggesting that
+  they evolve along distinct genetic pathways.'
+authors: Bertucci F, Orsetti B, Negre V, Finetti P, Rouge C, Ahomadegbe JC, Bibeau
+  F, Mathieu MC, Treilleux I, Jacquemier J, Ursule L, Martinec A, Wang Q, Benard J,
+  Puisieux A, Birnbaum D and Theillet C.
+contact:
+  email: theillet@valdorel.fnclcc.fr
+  name: Charles Theillet
+counts:
+  biosamples: 50
+  samples_acgh: 50
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18490921
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: Europe
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: 'Oncogene 27, 40 (2008): 5359-72.'
+label: 'Bertucci et al. (2008): Lobular and Ductal Carcinomas of the Breast Have Distinct
+  Genomic and Expression ...'
+notes: ~
+pmid: 18490921
+title: Lobular and Ductal Carcinomas of the Breast Have Distinct Genomic and Expression
+  Profiles.
+year: 2008

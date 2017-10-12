@@ -1,0 +1,56 @@
+---
+abstract: Cytogenetic analysis of acute myeloid leukemia AML cells has accelerated
+  the identification of genes important for AML pathogenesis. To complement cytogenetic
+  studies and to identify genes altered in AML genomes, we performed genome-wide copy
+  number analysis with paired normal and tumor DNA obtained from 86 adult patients
+  with de novo AML using 1.85 million feature SNP arrays. Acquired copy number alterations
+  CNAs were confirmed using an ultra-dense array comparative genomic hybridization
+  platform. A total of 201 somatic CNAs were found in the 86 AML genomes mean, 2.34
+  CNAs per genome , with French-American-British system M6 and M7 genomes containing
+  the most changes 10-29 CNAs per genome . Twenty-four percent of AML patients with
+  normal cytogenetics had CNA, whereas 40 of patients with an abnormal karyotype had
+  additional CNA detected by SNP array, and several CNA regions were recurrent. The
+  mRNA expression levels of 57 genes were significantly altered in 27 of 50 recurrent
+  CNA regions amp lt 5 megabases in size. A total of 8 uniparental disomy UPD segments
+  were identified in the 86 genomes 6 of 8 UPD calls occurred in samples with a normal
+  karyotype. Collectively, 34 of 86 AML genomes 40 contained alterations not found
+  with cytogenetics, and 98 of these regions contained genes. Of 86 genomes, 43 50
+  had no CNA or UPD at this level of resolution. In this study of 86 adult AML genomes,
+  the use of an unbiased high-resolution genomic screen identified many genes not
+  previously implicated in AML that may be relevant for pathogenesis, along with many
+  known oncogenes and tumor suppressor genes.
+authors: Walter MJ, Payton JE, Ries RE, Shannon WD, Deshmukh H, Zhao Y, Baty J, Heath
+  S, Westervelt P, Watson MA, Tomasson MH, Nagarajan R, OGara BP, Bloomfield CD, Mrozek
+  K, Selzer RR, Richmond TA, Kitzman J, Geoghegan J, Eis PS, Maupin R, Fulton RS,
+  McLellan M, Wilson RK, Mardis ER, Link DC, Graubert TA, DiPersio JF and Ley TJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 86
+  samples_acgh: 86
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19651600
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.2
+    - 38.63
+    type: Point
+  info:
+    city: st.louis
+    continent: ~
+    country: United States
+    label: st.louis, United States
+    precision: city [needs verification]
+journal: 'Proc Natl Acad Sci U S A 106, 31 (2009): 12950-55.'
+label: 'Walter et al. (2009): Acquired Copy Number Alterations in Adult Acute Myeloid
+  Leukemia Genomes.'
+notes: Copy number data is accessible through dbGAP. Expression data for the series
+  is available through GEO (GSE10358).
+pmid: 19651600
+title: Acquired Copy Number Alterations in Adult Acute Myeloid Leukemia Genomes.
+year: 2009

@@ -1,0 +1,59 @@
+---
+abstract: Breast cancer is a heterogeneous disease with known expression-defined tumor
+  subtypes. DNA copy number studies have suggested that tumors within gene expression
+  subtypes share similar DNA Copy number aberrations (CNA) and that CNA can be used
+  to further sub-divide expression classes. To gain further insights into the etiologies
+  of the intrinsic subtypes, we classified tumors according to gene expression subtype
+  and next identified subtype-associated CNA using a novel method called SWITCHdna,
+  using a training set of 180 tumors and a validation set of 359 tumors. Fisher's
+  exact tests, Chi-square approximations, and Wilcoxon rank-sum tests were performed
+  to evaluate differences in CNA by subtype. To assess the functional significance
+  of loss of a specific chromosomal region, individual genes were knocked down by
+  shRNA and drug sensitivity, and DNA repair foci assays performed. Most tumor subtypes
+  exhibited specific CNA. The Basal-like subtype was the most distinct with common
+  losses of the regions containing RB1, BRCA1, INPP4B, and the greatest overall genomic
+  instability. One Basal-like subtype-associated CNA was loss of 5q11-35, which contains
+  at least three genes important for BRCA1-dependent DNA repair (RAD17, RAD50, and
+  RAP80); these genes were predominantly lost as a pair, or all three simultaneously.
+  Loss of two or three of these genes was associated with significantly increased
+  genomic instability and poor patient survival. RNAi knockdown of RAD17, or RAD17/RAD50,
+  in immortalized human mammary epithelial cell lines caused increased sensitivity
+  to a PARP inhibitor and carboplatin, and inhibited BRCA1 foci formation in response
+  to DNA damage. These data suggest a possible genetic cause for genomic instability
+  in Basal-like breast cancers and a biological rationale for the use of DNA repair
+  inhibitor related therapeutics in this breast cancer subtype.
+authors: Weigman VJ, Chao HH, Shabalin AA, He X, Parker JS, Nordgard SH, Grushko T,
+  Huo D, Nwachukwu C, Nobel A, Kristensen VN, Bï¿½rresen-Dale AL, Olopade OI and Perou
+  CM
+contact:
+  email: cperou@med.unc.edu
+  name: Charles M Perou
+counts:
+  biosamples: 180
+  samples_acgh: 180
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22048815
+- geo:GSE10893
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.06
+    - 35.91
+    type: Point
+  info:
+    city: Chapel Hill
+    continent: North America
+    country: United States
+    label: Chapel Hill, United States, North America
+    precision: city
+journal: Breast Cancer Res. Treat. 133(3), 2012
+label: 'Weigman et al. (): Basal-like Breast cancer DNA copy number losses identify
+  genes involved in genomic instability, ...'
+notes: ~
+pmid: 22048815
+title: Basal-like Breast cancer DNA copy number losses identify genes involved in
+  genomic instability, response to therapy, and patient survival.
+year: 2012

@@ -1,0 +1,51 @@
+---
+abstract: The purpose of this study was to compare the chromosomal genotype between
+  breast cancers with and without secondary manifestations and between primary tumors
+  and their secondary manifestations. Eighty six breast cancers, twenty lymph node
+  metastases, ten distant metastases and ten local recurrences were analyzed by comparative
+  genomic hybridization. Tumors with local recurrences showed significant more frequent
+  losses at 2q32 than the tumors without recurrences. Lymph node positive cases showed
+  significant more frequent losses at 9p21 than node negative cases. Lymph node metastases
+  exhibited significant more frequent losses at 7q11, 14q24.3-q31 and 17q22-q24 than
+  their primary tumors. In cases with distant metastases, losses at 5q23 were more
+  frequent than in those without, but not reaching the significance level. The distant
+  metastases showed significant more frequent losses at 5p15, 12q24 and 17q22-q24
+  than the primary tumors. These results reveal strong evidence that the potential
+  for progression is determined in the primary tumor and that different ways of the
+  development of local recurrences, lymph node and distant metastases exist. After
+  confirmation of the results by interphase FISH on tissue micro arrays, the detection
+  of these specific chromosomal imbalances may contribute to a more individual prediction
+  of prognosis in breast cancer.
+authors: Friedrich K, Weber T, Scheithauer J, Meyer W, Haroske G, Kunze KD and Baretton
+  G.
+contact:
+  email: ~
+  name: Kartrin Friedrich
+counts:
+  biosamples: 126
+  samples_acgh: 0
+  samples_ccgh: 126
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18219109
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.74
+    - 51.05
+    type: Point
+  info:
+    city: Dresden
+    continent: Europe
+    country: Germany
+    label: Dresden, Germany, Europe
+    precision: city
+journal: 'Cell Oncol 30, 1 (2008): 39-50.'
+label: 'Friedrich et al. (2008): Chromosomal Genotype in Breast Cancer Progression:
+  Comparison of Primary and Secondary ...'
+notes: ~
+pmid: 18219109
+title: 'Chromosomal Genotype in Breast Cancer Progression: Comparison of Primary and
+  Secondary Manifestations.'
+year: 2008

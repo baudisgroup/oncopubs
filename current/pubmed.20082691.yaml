@@ -1,0 +1,41 @@
+---
+abstract: Chronic myelogenous leukemia CML results from the neoplastic transformation
+  of a haematopoietic stem cell. The hallmark genetic abnormality of CML is a chimeric
+  BCR ABL1 fusion gene resulting from the Philadelphia chromosome rearrangement t
+  9 22 q34 q11 . Clinical and laboratory studies indicate that the BCR ABL1 fusion
+  protein is essential for initiation, maintenance and progression of CML, yet the
+  event s driving the transformation from chronic phase to blast phase are poorly
+  understood.
+authors: Nacheva EP, Brazma D, Virgili A, Howard-Reeves J, Chanalaris A, Gancheva
+  K, Apostolova M, Valganon M, Mazzullo H and Grace C.
+contact:
+  email: e.nacheva@ucl.ac.uk
+  name: Elisabeth Nacheva
+counts:
+  biosamples: 92
+  samples_acgh: 92
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20082691
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'BMC Genomics 11 (2010): 41.'
+label: 'Nacheva et al. (2010): Deletions of Immunoglobulin Heavy Chain and T Cell
+  Receptor Gene Regions Are Uniquely Associated ...'
+notes: ~
+pmid: 20082691
+title: Deletions of Immunoglobulin Heavy Chain and T Cell Receptor Gene Regions Are
+  Uniquely Associated With Lymphoid Blast Transformation of Chronic Myeloid Leukemia.
+year: 2010

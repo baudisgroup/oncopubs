@@ -1,0 +1,56 @@
+---
+abstract: Bronchioloalveolar carcinoma BAC , a subtype of lung adenocarcinoma ADC
+  without stromal, vascular, or pleural invasion, is considered an in situ tumor with
+  a 100 survival rate. However, the histological criteria for invasion remain controversial.
+  BAC-like areas may accompany otherwise invasive adenocarcinoma, referred to as mixed
+  type adenocarcinoma with BAC features AWBF . AWBF are considered to evolve from
+  BAC, representing a paradigm for malignant progression in ADC. However, the supporting
+  molecular evidence remains forthcoming. Here, we have studied the genomic changes
+  of BAC and AWBF by array comparative genomic hybridization CGH . We used submegabase-resolution
+  tiling set array CGH to compare the genomic profiles of 14 BAC or BAC with focal
+  area suspicious for invasion with those of 15 AWBF. Threshold-filtering and frequency-scoring
+  analysis found that genomic profiles of noninvasive and focally invasive BAC are
+  indistinguishable and show fewer aberrations than tumor cells in BAC-like areas
+  of AWBF. These aberrations occurred mainly at the subtelomeric chromosomal regions.
+  Increased genomic alterations were noted between BAC-like and invasive areas of
+  AWBF. We identified 113 genes that best differentiated BAC from AWBF and were considered
+  candidate marker genes for tumor invasion and progression. Correlative gene expression
+  analyses demonstrated a high percentage of them to be poor prognosis markers in
+  early stage ADC. Quantitative PCR also validated the amplification and overexpression
+  of PDCD6 and TERT on chromosome 5p and the prognostic significance of PDCD6 in early
+  stage ADC patients. We identified candidate genes that may be responsible for and
+  are potential markers for malignant progression in AWBF.
+authors: Aviel-Ronen S, Coe BP, Lau SK, da Cunha Santos G, Zhu CQ, Strumpf D, Jurisica
+  I, Lam WL, and Tsao MS.
+contact:
+  email: ming.tsao@uhn.on.ca
+  name: Ming-Sound Tsao
+counts:
+  biosamples: 29
+  samples_acgh: 29
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18632575
+- geo:GSE11945
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: Proc Natl Acad Sci U S A, 105(29) 2008, 10155-60.
+label: 'Aviel-Ronen et al. (2008): Genomic markers for malignant progression in pulmonary
+  adenocarcinoma with bronchioloalveolar ...'
+notes: 'data accessible through GEO: www.ncbi.nlm.nih.gov/geo (accession no. GSE11945)'
+pmid: 18632575
+title: Genomic markers for malignant progression in pulmonary adenocarcinoma with
+  bronchioloalveolar features.
+year: 2008

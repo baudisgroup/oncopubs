@@ -1,0 +1,49 @@
+---
+abstract: Although medulloblastoma is the most common pediatric malignant brain tumor,
+  its molecular underpinnings are largely unknown. We have identified rare, recurrent
+  homozygous deletions of Kruppel-like Factor 4 KLF4 in medulloblastoma using high-resolution
+  single nucleotide polymorphism arrays, digital karyotyping, and genomic real-time
+  polymerase chain reaction PCR . Furthermore, we show that there is loss of physiological
+  KLF4 expression in more than 40 of primary medulloblastomas both at the RNA and
+  protein levels. Medulloblastoma cell lines drastically increase the expression of
+  KLF4 in response to the demethylating agent 5-azacytidine and demonstrate dense
+  methylation of the promoter CpG island by bisulfite sequencing. Methylation-specific
+  PCR targeting the KLF4 promoter demonstrates CpG methylation in approximately 16
+  of primary medulloblastomas. Reexpression of KLF4 in the D283 medulloblastoma cell
+  line results in significant growth suppression both in vitro and in vivo. We conclude
+  that KLF4 is inactivated by either genetic or epigenetic mechanisms in a large subset
+  of medulloblastomas and that it likely functions as a tumor suppressor gene in the
+  pathogenesis of medulloblastoma.
+authors: Nakahara Y, Northcott PA, Li M, Kongkham PN, Smith C, Yan H, Croul S, Ra
+  YS, Eberhart C, Huang A, Bigner D, Grajkowska W, Van Meter T, Rutka JT and Taylor
+  MD.
+contact:
+  email: mdtaylor@sickkids.ca
+  name: Michael Taylor
+counts:
+  biosamples: 201
+  samples_acgh: 201
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20072650
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Neoplasia 12, 1 (2010): 20-27.'
+label: 'Nakahara et al. (2010): Genetic and Epigenetic Inactivation of Kruppel-Like
+  Factor 4 in Medulloblastoma.'
+notes: ~
+pmid: 20072650
+title: Genetic and Epigenetic Inactivation of Kruppel-Like Factor 4 in Medulloblastoma.
+year: 2010

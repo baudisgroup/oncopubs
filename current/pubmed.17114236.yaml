@@ -1,0 +1,60 @@
+---
+abstract: 'Glioblastoma is classified into two subtypes on the basis of clinical history:
+  amp quot primary glioblastoma amp quot arising de novo without detectable antecedent
+  disease and amp quot secondary glioblastoma amp quot evolving from a low-grade astrocytoma.
+  Despite their distinctive clinical courses, they arrive at an indistinguishable
+  clinical and pathologic end point highlighted by widespread invasion and resistance
+  to therapy and, as such, are managed clinically as if they are one disease entity.
+  Because the life history of a cancer cell is often reflected in the pattern of genomic
+  alterations, we sought to determine whether primary and secondary glioblastomas
+  evolve through similar or different molecular pathogenetic routes. Clinically annotated
+  primary and secondary glioblastoma samples were subjected to high-resolution copy
+  number analysis using oligonucleotide-based array comparative genomic hybridization.
+  Unsupervised classification using genomic nonnegative matrix factorization methods
+  identified three distinct genomic subclasses. Whereas one corresponded to clinically
+  defined primary glioblastomas, the remaining two stratified secondary glioblastoma
+  into two genetically distinct cohorts. Thus, this global genomic analysis showed
+  wide-scale differences between primary and secondary glioblastomas that were previously
+  unappreciated, and has shown for the first time that secondary glioblastoma is heterogeneous
+  in its molecular pathogenesis. Consistent with these findings, analysis of regional
+  recurrent copy number alterations revealed many more events unique to these subclasses
+  than shared. The pathobiological significance of these shared and subtype-specific
+  copy number alterations is reinforced by their frequent occurrence, resident genes
+  with clear links to cancer, recurrence in diverse cancer types, and apparent association
+  with clinical outcome. We conclude that glioblastoma is composed of at least three
+  distinct molecular subtypes, including novel subgroups of secondary glioblastoma,
+  which may benefit from different therapeutic strategies.'
+authors: Maher EA, Brennan C, Wen PY, Durso L, Ligon KL, Richardson A, Khatry D, Feng
+  B, Sinha R, Louis DN, Quackenbush J, Black PM, Chin L and DePinho RA.
+contact:
+  email: ron_depinho@dfci.harvard.edu
+  name: Ronald A. DePinho
+counts:
+  biosamples: 37
+  samples_acgh: 37
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17114236
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Res 66, 23 (2006): 11502-13.'
+label: 'Maher et al. (2006): Marked Genomic Differences Characterize Primary and Secondary
+  Glioblastoma Subtypes and Identify ...'
+notes: ~
+pmid: 17114236
+title: Marked Genomic Differences Characterize Primary and Secondary Glioblastoma
+  Subtypes and Identify Two Distinct Molecular and Clinical Secondary Glioblastoma
+  Entities.
+year: 2006

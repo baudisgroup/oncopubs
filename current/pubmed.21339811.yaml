@@ -1,0 +1,39 @@
+---
+abstract: Inflammatory breast cancer IBC is an aggressive form of BC poorly defined
+  at the molecular level. We compared the molecular portraits of 63 IBC and 134 non-IBC
+  nIBC clinical samples.
+authors: Bekhouche I, Finetti P, Adelaide J, Ferrari A, Tarpin C, Charafe-Jauffret
+  E, Charpin C, Houvenaeghel G, Jacquemier J, Bidaut G, Birnbaum D, Viens P, Chaffanet
+  M and Bertucci F.
+contact:
+  email: bertuccif@marseille.fnclcc.fr
+  name: Francois Bertucci
+counts:
+  biosamples: 197
+  samples_acgh: 197
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21339811
+- geo:GSE23720
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.38
+    - 43.3
+    type: Point
+  info:
+    city: Marseille
+    continent: Europe
+    country: France
+    label: Marseille, France, Europe
+    precision: city
+journal: 'PLoS One 6, 2 (2011): e16950.'
+label: 'Bekhouche et al. (2011): High-Resolution Comparative Genomic Hybridization
+  of Inflammatory Breast Cancer and ...'
+notes: ~
+pmid: 21339811
+title: High-Resolution Comparative Genomic Hybridization of Inflammatory Breast Cancer
+  and Identification of Candidate Genes.
+year: 2011

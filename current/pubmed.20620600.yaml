@@ -1,0 +1,55 @@
+---
+abstract: Comparative genomic hybridization CGH is a technique that permits detection
+  of chromosomal imbalances. This method allows the detection of gains and losses
+  of genetic material at a resolution lower than 5 Mb. The limitations of conventional
+  cytogenetic studies, such as morphologically insufficient quality of metaphases
+  or the mitotic index, can be eliminated by use of CGH. It is particularly important
+  in the diagnosis of leukemias, and CGH could be a useful tool enabling more precise
+  cytogenetic analysis of leukemic cells. A group of 89 children with acute lymphoblastic
+  leukemia was studied by means of CGH using bone marrow obtained from all consecutive
+  pediatric patients. CGH experiments were performed according to the manufacturers
+  instruction with minor modifications. In addition, each sample was examined with
+  standard GTG technique and fluorescence in situ hybridization. The conventional
+  cytogenetics failed in 12 patients 13.5 , and 22 patients 24.7 had a normal karyotype.
+  Structural and numerical changes were found in 55 cases 61.8 displaying a different
+  abnormalities including deletions, trisomies, tetrasomies, isochromosomes, and markers
+  with unknown origin. However, all samples were successfully analyzed by CGH. We
+  have shown that high-resolution comparative genomic hybridization analysis is a
+  reliable and relatively quick one-step method to identify main aberrations that
+  would not be detected by either conventional G banding or by conventional fluorescence
+  in situ hybridization. It should be considered to establish CGH as a routine analysis
+  for screening patients with acute lymphoblastic leukemia.
+authors: Kowalczyk JR, Babicz M, Gaworczyk A, Lejman M, Winnicka D, Styka B and Jaszczuk
+  I.
+contact:
+  email: ~
+  name: Jerzy Kowalczyk
+counts:
+  biosamples: 89
+  samples_acgh: 0
+  samples_ccgh: 89
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20620600
+geo_data:
+  geo_json:
+    coordinates:
+    - 22.57
+    - 51.25
+    type: Point
+  info:
+    city: Lublin
+    continent: Europe
+    country: Poland
+    label: Lublin, Poland, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 200, 2 (2010): 161-66.'
+label: 'Kowalczyk et al. (2010): Structural and Numerical Abnormalities Resolved in
+  One-Step Analysis: The Most Common ...'
+notes: ~
+pmid: 20620600
+title: 'Structural and Numerical Abnormalities Resolved in One-Step Analysis: The
+  Most Common Chromosomal Rearrangements Detected By Comparative Genomic Hybridization
+  in Childhood Acute Lymphoblastic Leukemia.'
+year: 2010

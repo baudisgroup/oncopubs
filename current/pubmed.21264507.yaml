@@ -1,0 +1,54 @@
+---
+abstract: Genomic copy number alterations CNA are common in breast cancer. Identifying
+  characteristic CNAs associated with specific breast cancer subtypes is a critical
+  step in defining potential mechanisms of disease initiation and progression. We
+  used genome-wide array comparative genomic hybridization to identify distinctive
+  CNAs in breast cancer subtypes from 259 young diagnosed with breast cancer at amp
+  lt 55 years African American AA and Caucasian American CA women originally enrolled
+  in a larger population-based study. We compared the average frequency of CNAs across
+  the whole genome for each breast tumor subtype and found that estrogen receptor
+  ER -negative tumors had a higher average frequency of genome-wide gain P amp lt
+  0.0001 and loss P 0.02 compared to ER-positive tumors. Triple-negative TN tumors
+  had a higher average frequency of genome-wide gain P amp lt 0.0001 and loss P 0.003
+  than non-TN tumors. No significant difference in CNA frequency was observed between
+  HER2-positive and -negative tumors. We also identified previously unreported recurrent
+  CNAs frequency amp gt 40 for TN breast tumors at 10q, 11p, 11q, 16q, 20p, and 20q.
+  In addition, we report CNAs that differ in frequency between TN breast tumors of
+  AA and CA women. This is of particular relevance because TN breast cancer is associated
+  with higher mortality and young AA women have higher rates of TN breast tumors compared
+  to CA women. These data support the possibility that higher overall frequency of
+  genomic alteration events as well as specific focal CNAs in TN breast tumors might
+  contribute in part to the poor breast cancer prognosis for young AA women.
+authors: Loo LW, Wang Y, Flynn EM, Lund MJ, Bowles EJ, Buist DS, Liff JM, Flagg EW,
+  Coates RJ, Eley JW, Hsu L and Porter PL.
+contact:
+  email: ~
+  name: Peggy Porter
+counts:
+  biosamples: 259
+  samples_acgh: 259
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21264507
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: 'Breast Cancer Res Treat 127, 1 (2011): 297-308.'
+label: 'Loo et al. (2011): Genome-Wide Copy Number Alterations in Subtypes of Invasive
+  Breast Cancers in Young White and African ...'
+notes: ~
+pmid: 21264507
+title: Genome-Wide Copy Number Alterations in Subtypes of Invasive Breast Cancers
+  in Young White and African American Women.
+year: 2011

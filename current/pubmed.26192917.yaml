@@ -1,0 +1,48 @@
+---
+abstract: Natural killer/T-cell lymphoma (NKTCL) is a malignant proliferation of CD56(+)
+  and cytoCD3(+) lymphocytes with aggressive clinical course, which is prevalent in
+  Asian and South American populations. The molecular pathogenesis of NKTCL has largely
+  remained elusive. We identified somatic gene mutations in 25 people with NKTCL by
+  whole-exome sequencing and confirmed them in an extended validation group of 80
+  people by targeted sequencing. Recurrent mutations were most frequently located
+  in the RNA helicase gene DDX3X (21/105 subjects, 20.0%), tumor suppressors (TP53
+  and MGA), JAK-STAT-pathway molecules (STAT3 and STAT5B) and epigenetic modifiers
+  (MLL2, ARID1A, EP300 and ASXL3). As compared to wild-type protein, DDX3X mutants
+  exhibited decreased RNA-unwinding activity, loss of suppressive effects on cell-cycle
+  progression in NK cells and transcriptional activation of NF-ÎºB and MAPK pathways.
+  Clinically, patients with DDX3X mutations presented a poor prognosis. Our work thus
+  contributes to the understanding of the disease mechanism of NKTCL.
+authors: Jiang L, Gu ZH, Yan ZX, Zhao X, Xie YY, Zhang ZG, Pan CM, Hu Y, Cai CP, Dong
+  Y, Huang JY, Wang L, Shen Y, Meng G, Zhou JF, Hu JD, Wang JF, Liu YH, Yang LH, Zhang
+  F, Wang JM, Wang Z, Peng ZG, Chen FY, Sun ZM, Ding H, Shi JM, Hou J, Yan JS, Shi
+  JY, Xu L, Li Y, Lu J, Zheng Z, Xue W, Zhao WL, Chen Z and Chen SJ
+contact:
+  email: zhao.weili@yahoo.com
+  name: Wei-Li Zhao
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 25
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26192917
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: Nat. Genet. 47(9), 2015
+label: 'Jiang L et al. (2015): '
+notes: ~
+pmid: 26192917
+title: Exome sequencing identifies somatic mutations of DDX3X in natural killer/T-cell
+  lymphoma.
+year: 2015

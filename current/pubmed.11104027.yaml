@@ -1,0 +1,47 @@
+---
+abstract: In this study, we used comparative genomic hybridization to provide an overview
+  of chromosomal imbalances in a series of 20 adult and 8 childhood ependymomas. All
+  tumors displayed multiple genomic imbalances. Loss of genetic material was observed
+  in chromosomes 22q 71 , 16 57 , 17 46 , 6 39 , 19q 32 , 20q 32 , and 1p 29 , with
+  the overlapped deletion regions determined at 16p13.1-13.3, 16q22-q24, 19q13.1-13.4,
+  20q13.1-13.2 and 1p36.1-36.3. Gain of DNA was commonly detected on chromosomes 5q
+  46 , 12q 39 , 7q 36 , 9q 36 , and 4q 32 , with overlapped regions of gain mapped
+  to 5q21-22, 12q15-24.1, 7q11.2-31.2, 9q12-32, and 4q23-28, respectively. These findings
+  suggest a greater degree of genomic imbalance in ependymomas than has been recognized
+  previously and highlight chromosomal loci likely to contain oncogenes or tumor suppressor
+  genes that may contribute to the molecular pathogenesis of this tumor. Our study
+  also confirmed previous findings on frequent losses of 17 and 22q in ependymomas
+  and further identified chromosome 16 loss as a common recurrent genetic aberration
+  in ependymomas.
+authors: Zheng PP, Pang JC, Hui AB and Ng HK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11104027
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 122, 1 (2000): 18-25.'
+label: 'Zheng et al. (2000): Comparative Genomic Hybridization Detects Losses of Chromosomes
+  22 and 16 as the Most Common ...'
+notes: ~
+pmid: 11104027
+title: Comparative Genomic Hybridization Detects Losses of Chromosomes 22 and 16 as
+  the Most Common Recurrent Genetic Alterations in Primary Ependymomas.
+year: 2000

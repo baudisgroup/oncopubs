@@ -1,0 +1,51 @@
+---
+abstract: A thorough cytogenetic investigation and an analysis of detailed questionnaires
+  were performed in a family with three brothers afflicted with germ-cell tumors GCTs
+  , in an attempt to detect a congenital factor related either to a hereditary genetic
+  background or an environmental lifestyle influence. One brother had an intracranial
+  tumor in the pineal region and the two others had testicular tumors. Peripheral
+  blood was studied by traditional karyotyping, multicolor-FISH, high-resolution comparative
+  genomic hybridization HR-CGH , and molecular analysis of selected loci on sex chromosomes
+  Yq11 region, TSPY, and the androgen receptor gene however, no abnormalities were
+  detected. The HR-CGH analysis of microdissected histological components of the overt
+  tumors and the adjacent carcinoma in situ demonstrated a pattern of genomic imbalances
+  characteristic for sporadic GCTs, including gain of 12p. The questionnaire and interview
+  revealed a history of different cancers in the extended family, and a possible in
+  utero and or infantile exposure of the three brothers with GCTs to compounds suspected
+  of endocrine-disrupting properties. Although no genetic aberration was detected
+  in this family, we suspect the presence of a recessive hereditary factor pre-disposing
+  to cancer, which probably was manifested as GCTs in the three brothers because of
+  an adverse effect of an environmental factor on the early germ-cell differentiation.
+authors: Ottesen AM, Rajpert-De Meyts E, Holm M, Andersen IL, Vogt PH, Lundsteen C
+  and Skakkebaek NE.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15032972
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: Europe
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: 'Clin Genet 65, 1 (2004): 32-39.'
+label: 'Ottesen et al. (2004): Cytogenetic and Molecular Analysis of a Family With
+  Three Brothers Afflicted With Germ-Cell ...'
+notes: ~
+pmid: 15032972
+title: Cytogenetic and Molecular Analysis of a Family With Three Brothers Afflicted
+  With Germ-Cell Cancer.
+year: 2004

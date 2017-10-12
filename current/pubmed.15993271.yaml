@@ -1,0 +1,50 @@
+---
+abstract: Much information has been reported on the genetic and genomic alterations
+  in colorectal cancer CRC in various countries however, nonrandom chromosomal alterations
+  in Thai patients have not been described. As a first step toward understanding the
+  underlying genetic changes and determining early chromosomal changes of tumor development
+  in this population, we used comparative genomic hybridization CGH to screen for
+  losses and gains of DNA sequences along chromosomes in 20 morphologically normal
+  tumor surroundings MNTS and 40 CRC tissues from 40 patients. In CRC, we detected
+  gains of chromosome arms 20q 60 , 8q 25 , 19q 22.5 , and 19p 20 , as well as losses
+  of chromosome arms 18q 25 and 4q 20 . There were no differences in genetic alteration
+  between colon and rectal cancer. In morphologically normal tumor surroundings MNTS
+  tissues, gains on 19p and 19q were most frequent. We suggest that gains of this
+  chromosome are early events in the progression of CRC, followed by gains on 8q and
+  20q and losses on 4q and 18q at later stages. Based on our cytogenetic data by comparison
+  of 2 tissue groups in the same cases, we discuss the monoclonal model followed by
+  lateral epithelial spread as an explanation of multiple CRC. Identification and
+  characterization of the causative genes for these cancer syndromes have enabled
+  precise pre-symptomatic detection of mutations in individuals who bear a prior risk
+  of developing CRC.
+authors: Poeaim S, Rerkamnuaychoke B, Jesdapatarakul S and Campiranon A.
+contact:
+  email: poeaim@hotmail.com
+  name: S. Poeaim
+counts:
+  biosamples: 60
+  samples_acgh: 0
+  samples_ccgh: 60
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15993271
+geo_data:
+  geo_json:
+    coordinates:
+    - 100.5
+    - 13.75
+    type: Point
+  info:
+    city: Bangkok
+    continent: Asia
+    country: Thailand
+    label: Bangkok, Thailand, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 160, 2 (2005): 152-59.'
+label: 'Poeaim et al. (2005): Chromosome Alterations in Colorectal Cancer in Thai
+  Patients.'
+notes: ~
+pmid: 15993271
+title: Chromosome Alterations in Colorectal Cancer in Thai Patients.
+year: 2005

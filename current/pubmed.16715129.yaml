@@ -1,0 +1,50 @@
+---
+abstract: Molecular mechanisms contributing to initiation and progression of head
+  and neck squamous cell carcinoma are still poorly known. Numerous genetic alterations
+  have been described, but molecular consequences of such alterations in most cases
+  remain unclear. Here, we performed an integrated high-resolution microarray analysis
+  of gene copy number and expression in 20 laryngeal cancer cell lines and primary
+  tumors. Our aim was to identify genetic alterations that play a key role in disease
+  pathogenesis and pinpoint genes whose expression is directly impacted by these events.
+  Integration of DNA level data from array-based comparative genomic hybridization
+  with RNA level information from oligonucleotide microarrays was achieved with custom-developed
+  bioinformatic methods. High-level amplifications had a clear impact on gene expression.
+  Across the genome, overexpression of 739 genes could be attributed to gene amplification
+  events in cell lines, with 325 genes showing the same phenomenon in primary tumors
+  including FADD and PPFIA1 at 11q13. The analysis of gene ontology and pathway distributions
+  further pinpointed genes that may identify potential targets of therapeutic intervention.
+  Our data highlight genes that may be critically important to laryngeal cancer progression
+  and offer potential therapeutic targets.
+authors: Jarvinen AK, Autio R, Haapa-Paananen S, Wolf M, Saarela M, Grenman R, Leivo
+  I, Kallioniemi O, Makitie AA and Monni O.
+contact:
+  email: outi.monni@helsinki.fi
+  name: Outi Monni
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16715129
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Oncogene 25, 52 (2006): 6997-7008.'
+label: 'Jarvinen et al. (2006): Identification of Target Genes in Laryngeal Squamous
+  Cell Carcinoma By High-Resolution Copy ...'
+notes: ~
+pmid: 16715129
+title: Identification of Target Genes in Laryngeal Squamous Cell Carcinoma By High-Resolution
+  Copy Number and Gene Expression Microarray Analyses.
+year: 2006

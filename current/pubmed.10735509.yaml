@@ -1,0 +1,42 @@
+---
+abstract: Very little is known about genetic abnormalities involved in the development
+  of pilocytic astrocytoma, the most frequently occurring brain tumour of childhood.
+  We have analysed 48 pilocytic astrocytoma specimens using comparative genomic hybridization.
+  Only five of 41 tumours from children showed abnormalities detectable by comparative
+  genomic hybridization, and in each case this represented gain of a single chromosome.
+  Interestingly, two of seven tumours from adults showed abnormalities, which were
+  multiple and relatively complex. Six of the seven tumours showing abnormalities
+  were from female patients two adults and four children . The most frequently detectable
+  abnormality was gain of 9q34.1-qter, which was present in three cases two adult
+  and one paediatric .
+authors: Sanoudou D, Tingby O, Ferguson-Smith MA, Collins VP and Coleman N.
+contact:
+  email: ~
+  name: Nicholas Coleman
+counts:
+  biosamples: 51
+  samples_acgh: 0
+  samples_ccgh: 51
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10735509
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Br J Cancer 82, 6 (2000): 1218-22.'
+label: 'Sanoudou et al. (2000): Analysis of Pilocytic Astrocytoma By Comparative Genomic
+  Hybridization.'
+notes: ~
+pmid: 10735509
+title: Analysis of Pilocytic Astrocytoma By Comparative Genomic Hybridization.
+year: 2000

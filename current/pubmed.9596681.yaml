@@ -1,0 +1,54 @@
+---
+abstract: 'In contrast to low-grade B-cell lymphomas originating in the gastrointestinal
+  GI tract, only few cytogenetic data are available for the large cell, highly malignant
+  variants. We studied 31 large B-cell lymphomas of the GI tract by comparative genomic
+  hybridization CGH and fluorescence in situ hybridization using specific DNA probes
+  FISH . The most frequent aberrations were gains of all or of parts of chromosomes
+  11 11 cases , 12 9 cases , 1q 4 cases , and 3q 4 cases . Losses of parts of chromosome
+  6q and of parts of the short arm of chromosome 17 6 cases each were found most frequently.
+  In four cases a total of seven high-level DNA amplifications was detected. In two
+  of these cases, involvement of specific protooncogenes REL and MYC was shown. Some
+  genetic aberrations seemed to be associated with an inferior clinical course: patients
+  with amp gt 2 aberrations had a significantly shorter median survival. Furthermore,
+  all patients with gains of all or parts of chromosome arm 1q and with high-level
+  DNA amplifications as well as seven of nine patients with gains of all or parts
+  of chromosome 12 died of lymphoma. In conclusion, the pattern of chromosomal gains
+  and losses in large B-cell lymphomas was different from data reported for low-grade
+  MALT lymphomas of the stomach and bowel, especially with respect to the high incidence
+  of partial gains of chromosome arm 11q and of all or parts of chromosome 12 and
+  the low frequency of polysomy 3. In addition, our data suggest that chromosomal
+  gains and losses detected by CGH and FISH may predict for the outcome of patients
+  with this tumor entity.'
+authors: Barth TF, Dohner H, Werner CA, Stilgenbauer S, Schlotter M, Pawlita M, Lichter
+  P, Moller P and Bentz M.
+contact:
+  email: thomas.barth@medizin.uni-ulm.de
+  name: Thomas Barth
+counts:
+  biosamples: 31
+  samples_acgh: 0
+  samples_ccgh: 31
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9596681
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Blood 91, 11 (1998): 4321-30.'
+label: 'Barth et al. (1998): Characteristic Pattern of Chromosomal Gains and Losses
+  in Primary Large B-Cell Lymphomas of the ...'
+notes: ~
+pmid: 9596681
+title: Characteristic Pattern of Chromosomal Gains and Losses in Primary Large B-Cell
+  Lymphomas of the Gastrointestinal Tract.
+year: 1998

@@ -1,0 +1,39 @@
+---
+abstract: Male breast cancer MBC is a rare disease and little is known about its etiopathogenesis.
+  Array comparative genomic hybridization aCGH provides a method to quantitatively
+  measure the changes of DNA copy number and to map them directly onto the complete
+  linear genome sequences. The aim of this study was to investigate DNA imbalances
+  by aCGH and compare them with a female breast cancer dataset.
+authors: Tommasi S, Mangia A, Iannelli G, Chiarappa P, Rossi E, Ottini L, Mottolese
+  M, Zoli W, Zuffardi O and Paradiso A.
+contact:
+  email: ~
+  name: Anita Mangia
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21547577
+- geo:GSE23891
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.86
+    - 41.11
+    type: Point
+  info:
+    city: Bari
+    continent: Europe
+    country: Italy
+    label: Bari, Italy, Europe
+    precision: city
+journal: 'Cell Oncol (Dordr) 34, 5 (2011): 467-73.'
+label: 'Tommasi et al. (2011): Gene Copy Number Variation in Male Breast Cancer By
+  Acgh.'
+notes: ~
+pmid: 21547577
+title: Gene Copy Number Variation in Male Breast Cancer By Acgh.
+year: 2011

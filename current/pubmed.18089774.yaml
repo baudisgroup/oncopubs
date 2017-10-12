@@ -1,0 +1,51 @@
+---
+abstract: CpG island promoter hypermethylation of tumor suppressor genes is a common
+  hallmark of human cancer, and new large-scale epigenomic technologies might be useful
+  in our attempts to define the complete DNA hypermethylome of tumor cells. Here,
+  we report a functional search for hypermethylated CpG islands using the colorectal
+  cancer cell line HCT-116, in which two major DNA methyltransferases, DNMT1 and DNMT3b,
+  have been genetically disrupted DKO cells . Using methylated DNA immunoprecipitation
+  methodology in conjunction with promoter microarray analyses, we found that DKO
+  cells experience a significant loss of hypermethylated CpG islands. Further characterization
+  of these candidate sequences shows CpG island promoter hypermethylation and silencing
+  of genes with potentially important roles in tumorigenesis, such as the Ras guanine
+  nucleotide-releasing factor RASGRF2 , the apoptosis-associated basic helix-loop
+  transcription factor BHLHB9 , and the homeobox gene HOXD1 . Hypermethylation of
+  these genes occurs in premalignant lesions and accumulates during tumorigenesis.
+  Thus, our results show the usefulness of DNMT genetic disruption strategies combined
+  with methylated DNA immunoprecipitation in searching for unknown hypermethylated
+  candidate genes in human cancer that might aid our understanding of the biology
+  of the disease and be of potential translational use.
+authors: Jacinto FV, Ballestar E, Ropero S and Esteller M.
+contact:
+  email: mesteller@cnio.es
+  name: Manel Esteller
+counts:
+  biosamples: 116
+  samples_acgh: 116
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18089774
+- geo:GSE9267
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Cancer Res 67, 24 (2007): 11481-86.'
+label: 'Jacinto et al. (2007): Discovery of Epigenetically Silenced Genes By Methylated
+  DNA Immunoprecipitation in Colon Cancer ...'
+notes: ~
+pmid: 18089774
+title: Discovery of Epigenetically Silenced Genes By Methylated DNA Immunoprecipitation
+  in Colon Cancer Cells.
+year: 2007

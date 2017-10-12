@@ -1,0 +1,54 @@
+---
+abstract: Gastric cancer is one of the most common cancers. Molecular events in the
+  carcinogenesis of gastric cancer remain, however, largely undefined. We investigated
+  changes in DNA copy number in 102 gastric cancers by CGH. We found changes in DNA
+  copy number in all cases, with frequent amp gt or 30 of patients gains at 20q, 8q,
+  20p, 7q, 17q, 5p, and 13q. Frequent amp gt or 20 losses were found at 19p, 18q,
+  5q, 21q, 4p, 4q, 15q, and 17p. The mean number of total alterations was significantly
+  lower in grade 3 and scirrhous-type carcinomas 10.81 in grade 3 vs 13.98 in grade
+  1 and grade 2, 9.31 in scirrhous-type vs 13.18 in medullary- and intermediate-type
+  . The mean number of losses and total alterations were higher in tumors at pT2,
+  pT3 and pT4 4.68 and 12.77 in pT2, pT3, and pT4 vs 2.55 and 9.22 in pT1 . The mean
+  number of losses was higher in carcinomas with lymph node metastasis 4.83 . The
+  mean number of gains and total alterations were higher in carcinomas with venous
+  invasion 8.44 and 13.28 . Several chromosomal alterations were linked in a statistically
+  significant manner to specific clinicopathological parameters. Gain of 17q, 20p,
+  and 20q and loss of 4p were associated with the pattern of the cancer-stroma relationship
+  loss of 18q was associated with pT category gain of 5p was associated with pN category
+  loss of 4q and loss of 21q were associated with lymphatic invasion gain of 7p and
+  loss of 4q and 18q were associated with venous invasion and loss of 18q was associated
+  with pathological stage. These data suggest that gain of 20q and loss of 18q might
+  play an important role in the development and progression of gastric cancer. Moreover,
+  some genes on 20q and 18q might be target genes of gastric cancer.
+authors: Kimura Y, Noguchi T, Kawahara K, Kashima K, Daa T and Yokoyama S.
+contact:
+  email: kimuray@med.oita-u.ac.jp
+  name: Yasuhiko Kimura
+counts:
+  biosamples: 102
+  samples_acgh: 0
+  samples_ccgh: 102
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15154013
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: Asia
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: 'Mod Pathol 17, 11 (2004): 1328-37.'
+label: 'Kimura et al. (2004): Genetic Alterations in 102 Primary Gastric Cancers By
+  Comparative Genomic Hybridization: Gain of ...'
+notes: ~
+pmid: 15154013
+title: 'Genetic Alterations in 102 Primary Gastric Cancers By Comparative Genomic
+  Hybridization: Gain of 20q and Loss of 18q Are Associated With Tumor Progression.'
+year: 2004

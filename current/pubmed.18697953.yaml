@@ -1,0 +1,44 @@
+---
+abstract: We have employed a laser-capture microdissection technique and single-nucleotide
+  polymorphism arrays to characterize genomic alterations associated with the development
+  of glioblastoma multiforme GBM . Combined analysis of loss of heterozygosity LOH
+  and copy number revealed that more than half 56.3 of the 254 identified LOH loci
+  showed no copy-number alteration, indicating the presence of copy-number neutral
+  LOH cnLOH . Furthermore, we found a GBM case that showed cnLOH in 18 of the 22 autosomes.
+  These results were confirmed by quantitative real-time PCR, microsatellite analysis,
+  and fluorescence in situ hybridization. The high rate of cnLOH suggests that epigenetic
+  abnormalities of many genes are involved in the development and progression of GBMs.
+authors: Kuga D, Mizoguchi M, Guan Y, Hata N, Yoshimoto K, Shono T, Suzuki SO, Kukita
+  Y, Tahira T, Nagata S, Sasaki T and Hayashi K.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18697953
+- geo:GSE10922
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: 'Neuro Oncol 10, 6 (2008): 995-1003.'
+label: 'Kuga et al. (2008): Prevalence of Copy-Number Neutral Loh in Glioblastomas
+  Revealed By Genomewide Analysis of ...'
+notes: ~
+pmid: 18697953
+title: Prevalence of Copy-Number Neutral Loh in Glioblastomas Revealed By Genomewide
+  Analysis of Laser-Microdissected Tissues.
+year: 2008

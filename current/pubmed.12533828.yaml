@@ -1,0 +1,53 @@
+---
+abstract: 'Three different cancers predominantly occur at the gastro-oesophageal junction:
+  squamous cell carcinomas of the distal oesophagus, adenocarcinomas of the distal
+  oesophagus Barretts carcinomas , and adenocarcinomas of the gastric cardia. The
+  aim of the present study was to investigate how, and to what extent, Barretts carcinoma
+  differs from adenocarcinoma of the gastric cardia on the one hand and squamous cell
+  carcinoma of the distal oesophagus on the other, with respect to chromosomal aberrations
+  and related gene expression. The present study analysed 14 squamous cell carcinomas,
+  24 Barretts carcinomas, and 16 carcinomas of the gastric cardia. Comparative genomic
+  hybridization revealed chromosomal abnormalities in all cases. Typical chromosomal
+  aberrations for the squamous cell carcinoma type were gains at 3q and 11q13, and
+  losses at 3p, 4q, 9p, 11q, and 13q. In contrast, typical copy number changes for
+  both cardiac and Barretts adenocarcinomas were gains at 2q, 7p, and 13q, and losses
+  at 17p. High-level amplification occurred in all three groups, but its frequency
+  in the cardiac carcinomas was lower than in the other two groups. In conclusion,
+  squamous cell carcinomas are characterized by chromosomal aberrations which are
+  distinct from those seen in carcinomas of the gastric cardia and in Barretts adenocarcinomas.
+  With respect to Barretts cancer, the chromosomal aberrations more closely reflect
+  the adenocarcinoma phenotype than the squamous origin of the epithelium.'
+authors: Weiss MM, Kuipers EJ, Hermsen MA, van Grieken NC, Offerhaus J, Baak JP, Meuwissen
+  SG and Meijer GA.
+contact:
+  email: ga.meijer@vumc.nl
+  name: Gerrit A. Meijer
+counts:
+  biosamples: 54
+  samples_acgh: 0
+  samples_ccgh: 54
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12533828
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pathol 199, 2 (2003): 157-65.'
+label: 'Weiss et al. (2003): Barretts Adenocarcinomas Resemble Adenocarcinomas of
+  the Gastric Cardia in Terms of Chromosomal ...'
+notes: ~
+pmid: 12533828
+title: Barretts Adenocarcinomas Resemble Adenocarcinomas of the Gastric Cardia in
+  Terms of Chromosomal Copy Number Changes, But Relate to Squamous Cell Carcinomas
+  of the Distal Oesophagus With Respect to the Presence of High-Level Amplifications.
+year: 2003

@@ -1,0 +1,51 @@
+---
+abstract: Little is known about the cytogenetic features and molecular mechanisms
+  behind hairy cell leukaemia HCL , despite the advances in diagnosis and treatment.
+  Therefore, we used high-resolution genome-wide array-based comparative genomic hybridisation
+  array-CGH and multiplex ligation-dependent probe amplification MLPA to characterise
+  copy number alterations CNAs in DNA from 13 cases of HCL. We also summarise CNAs
+  and cytogenetic features in 109 HCL cases comprising our 13 cases and 96 cases from
+  the literature. Genomic array-CGH revealed imbalances in two out of 13 cases in
+  addition to previously described copy number variants CNVs found in healthy individuals.
+  In one case, a 700 kb deletion of 20q11.22 was detected encompassing ten characterised
+  genes, among them the TP53INP2, DNCL2A and ITCH genes. In the second case, trisomy
+  5, and a deletion of 5p15.2 encompassing a non-characterised gene AY328033 was found.
+  Altogether only 20 81 25 of all cases studied by CGH or gene dose array revealed
+  CNAs. The most common recurrent deletions and breakpoints were 14q22-32 33 , 6q25
+  16 , 2p12 10 , 22q11 10 , 17p11-13 10 , 7q32-36 9 , 18q11-13 7 , 1q32-44 6 , 8p22-23
+  6 and 7q11 6 . Trisomy 5 occurred in 15 . In addition, several other recurrent breakpoints
+  were identified. Although a number of genomic imbalances were identified in the
+  HCL samples, the genome appeared remarkably stable.
+authors: Nordgren A, Corcoran M, Saaf A, Bremer A, Kluin-Nelemans HC, Schoumans J
+  and Grander D.
+contact:
+  email: Dan.Grander@ki.se
+  name: Dan Grander
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19682064
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Eur J Haematol 84, 1 (2010): 17-25.'
+label: 'Nordgren et al. (2010): Characterisation of Hairy Cell Leukaemia By Tiling
+  Resolution Array-Based Comparative Genome ...'
+notes: ~
+pmid: 19682064
+title: 'Characterisation of Hairy Cell Leukaemia By Tiling Resolution Array-Based
+  Comparative Genome Hybridisation: A Series of 13 Cases and Review of the Literature.'
+year: 2010

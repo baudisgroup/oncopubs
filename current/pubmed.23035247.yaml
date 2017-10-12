@@ -1,0 +1,53 @@
+---
+abstract: Small cell lung cancer SCLC accounts for about 15 of all lung cancers. The
+  prognosis of SCLC patients is devastating and no biologically targeted therapeutics
+  are active in this tumor type. To develop a framework for development of specific
+  SCLC-targeted drugs we conducted a combined genomic and pharmacological vulnerability
+  screen in SCLC cell lines. We show that SCLC cell lines capture the genomic landscape
+  of primary SCLC tumors and provide genetic predictors for activity of clinically
+  relevant inhibitors by screening 267 compounds across 44 of these cell lines. We
+  show Aurora kinase inhibitors are effective in SCLC cell lines bearing MYC amplification,
+  which occur in 3-7 of SCLC patients. In MYC-amplified SCLC cells Aurora kinase inhibition
+  associates with G2 M-arrest, inactivation of PI3-kinase PI3K signaling, and induction
+  of apoptosis. Aurora dependency in SCLC primarily involved Aurora B, required its
+  kinase activity, and was independent of depletion of cytoplasmic levels of MYC.
+  Our study suggests that a fraction of SCLC patients may benefit from therapeutic
+  inhibition of Aurora B. Thus, thorough chemical and genomic exploration of SCLC
+  cell lines may provide starting points for further development of rational targeted
+  therapeutic intervention in this deadly tumor type.
+authors: Sos ML, Dietlein F, Peifer M, Schottle J, Balke-Want H, Muller C, Koker M,
+  Richters A, Heynck S, Malchers F, Heuckmann JM, Seidel D, Eyers PA, Ullrich RT,
+  Antonchick AP, Vintonyak VV, Schneider PM, Ninomiya T, Waldmann H, Buttner R, Rauh
+  D, Heukamp LC and Thomas RK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 123
+  samples_acgh: 123
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23035247
+- geo:GSE40142
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.95
+    - 50.93
+    type: Point
+  info:
+    city: Koeln
+    continent: Europe
+    country: Germany
+    label: Koeln, Germany, Europe
+    precision: city
+journal: 'Proc Natl Acad Sci U S A (2012) 109: 17034-17039.'
+label: 'Sos et al. (2012): A framework for identification of actionable cancer genome
+  dependencies in small cell lung ...'
+notes: ~
+pmid: 23035247
+title: A framework for identification of actionable cancer genome dependencies in
+  small cell lung cancer.
+year: 2012

@@ -1,0 +1,54 @@
+---
+abstract: Genomic rearrangements are thought to occur progressively during tumor development.
+  Recent findings, however, suggest an alternative mechanism, involving massive chromosome
+  rearrangements in a one-step catastrophic event termed chromothripsis. We report
+  the whole-genome sequencing-based analysis of a Sonic-Hedgehog medulloblastoma SHH-MB
+  brain tumor from a patient with a germline TP53 mutation Li-Fraumeni syndrome ,
+  uncovering massive, complex chromosome rearrangements. Integrating TP53 status with
+  microarray and deep sequencing-based DNA rearrangement data in additional patients
+  reveals a striking association between TP53 mutation and chromothripsis in SHH-MBs.
+  Analysis of additional tumor entities substantiates a link between TP53 mutation
+  and chromothripsis, and indicates a context-specific role for p53 in catastrophic
+  DNA rearrangements. Among these, we observed a strong association between somatic
+  TP53 mutations and chromothripsis in acute myeloid leukemia. These findings connect
+  p53 status and chromothripsis in specific tumor types, providing a genetic basis
+  for understanding particularly aggressive subtypes of cancer.
+authors: Rausch T, Jones DT, Zapatka M, Stutz AM, Zichner T, Weischenfeldt J, Jager
+  N, Remke M, Shih D, Northcott PA, Pfaff E, Tica J, Wang Q, Massimi L, Witt H, Bender
+  S, Pleier S, Cin H, Hawkins C, Beck C, von Deimling A, Hans V, Brors B, Eils R,
+  Scheurlen W, Blake J, Benes V, Kulozik AE, Witt O, Martin D, Zhang C, Porat R, Merino
+  DM, Wasserman J, Jabado N, Fontebasso A, Bullinger L, Rucker FG, Dohner K, Dohner
+  H, Koster J, Molenaar JJ, Versteeg R, Kool M, Tabori U, Malkin D, Korshunov A, Taylor
+  MD, Lichter P, Pfister SM and Korbel JO.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 98
+  samples_acgh: 98
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22265402
+- geo:GSE34323
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cell (2012) 148: 59-71.'
+label: 'Rausch et al. (2012): Genome sequencing of pediatric medulloblastoma links
+  catastrophic DNA rearrangements with TP53 ...'
+notes: ~
+pmid: 22265402
+title: Genome sequencing of pediatric medulloblastoma links catastrophic DNA rearrangements
+  with TP53 mutations.
+year: 2012

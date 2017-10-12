@@ -1,0 +1,39 @@
+---
+abstract: In cases of multiple non-small cell lung cancer, clinicians must decide
+  whether patients have independent tumors or metastases and tailor treatment accordingly.
+  Decisions are currently made using the Martini and Melamed criteria, which are mostly
+  based on tumor location and histologic type. New genomic tools could improve the
+  ability to assess tumor clonality.
+authors: Girard N, Ostrovnaya I, Lau C, Park B, Ladanyi M, Finley D, Deshpande C,
+  Rusch V, Orlow I, Travis WD, Pao W and Begg CB.
+contact:
+  email: beggc@mskcc.org
+  name: Colin Begg
+counts:
+  biosamples: 40
+  samples_acgh: 40
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19671847
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 15, 16 (2009): 5184-90.'
+label: 'Girard et al. (2009): Genomic and Mutational Profiling to Assess Clonal Relationships
+  Between Multiple Non-Small Cell ...'
+notes: ~
+pmid: 19671847
+title: Genomic and Mutational Profiling to Assess Clonal Relationships Between Multiple
+  Non-Small Cell Lung Cancers.
+year: 2009

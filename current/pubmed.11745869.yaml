@@ -1,0 +1,38 @@
+---
+abstract: Genetic aberrations provide prognostic information in childhood ALL. The
+  proportion of patients with detectable aberrations can be increased by combining
+  G-banding with comparative genomic hybridization CGH .
+authors: Kanerva J, Niini T, Vettenranta K, Riikonen P, Makipernaa A, Karhu R, Knuutila
+  S and Saarinen-Pihkala UM.
+contact:
+  email: jukka.kanerva@hus.fi
+  name: J. Kanerva
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11745869
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Med Pediatr Oncol 37, 5 (2001): 419-25.'
+label: 'Kanerva et al. (2001): Loss At 12p Detected By Comparative Genomic Hybridization
+  (Cgh): Association With Tel-Aml1 Fusion ...'
+notes: Only the data from the 9 patients with 12p deletion is currently available.
+pmid: 11745869
+title: 'Loss At 12p Detected By Comparative Genomic Hybridization (Cgh): Association
+  With Tel-Aml1 Fusion and Favorable Prognostic Features in Childhood Acute Lymphoblastic
+  Leukemia (All). A Multi-Institutional Study.'
+year: 2001

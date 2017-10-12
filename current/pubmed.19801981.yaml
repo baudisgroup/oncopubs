@@ -1,0 +1,40 @@
+---
+abstract: Using high-resolution array-CGH, we identified unique duplications of a
+  region on 6q27 in four multiplex families with at least three cases of chordoma,
+  a cancer of presumed notochordal origin. The duplicated region contains only the
+  T brachyury gene, which is important in notochord development and is expressed in
+  most sporadic chordomas. Our findings highlight the value of screening for complex
+  genomic rearrangements in searches for cancer-susceptibility genes.
+authors: Yang XR, Ng D, Alcorta DA, Liebsch NJ, Sheridan E, Li S, Goldstein AM, Parry
+  DM and Kelley MJ.
+contact:
+  email: parryd@mail.nih.gov
+  name: Dilys M Parry
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19801981
+- geo:GSE17668
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Nat Genet 41, 11 (2009): 1176-78.'
+label: 'Yang et al. (2009): T (Brachyury) Gene Duplication Confers Major Susceptibility
+  to Familial Chordoma.'
+notes: ~
+pmid: 19801981
+title: T (Brachyury) Gene Duplication Confers Major Susceptibility to Familial Chordoma.
+year: 2009

@@ -1,0 +1,47 @@
+---
+abstract: 'Genetic etiology of squamous cell carcinoma of the larynx SCCL is very
+  complex, with both molecular and chromosomal alterations involved. The target genes
+  have not yet been clearly identified. Therefore, our study focused on searching
+  for regions that potentially harbor genes related to SCCL. After comparative genomic
+  hybridization CGH analysis of a set of 52 SCCL we specified 13q21-q32 and 13q34
+  as the most frequently deleted regions. In order to precisely map the critical region
+  of deletion, we studied these areas by using 15 microsatellite markers. In our material
+  a significantly high frequency of loss of heterozygosity LOH test for a difference
+  in two proportions, p amp lt 0.001 was observed for the following markers: D13S1320
+  13q21.1 , D13S800 13q21.3 , D13S1818 13q32.1 , D13S770 13q32.3 and D13S285 13q34
+  . Three hot spots of LOH were found: 13q21.1-q22.1 D13S1320-D13S1824-D13S800-SHGC30014-
+  WI-16413-D13S1186 , 13q.31.1-13q32.3 D13S317-D13S1818-D13S770 , 13q34 D13S285 .
+  Among these areas, 13q31.1-q32.3 was identified as new hot spot of deletion in SCCLs.'
+authors: Stembalska A, Blin N, Ramsey D and Sasiadek MM.
+contact:
+  email: ~
+  name: Maria Sasiadek
+counts:
+  biosamples: 52
+  samples_acgh: 0
+  samples_ccgh: 52
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16820925
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.03
+    - 51.1
+    type: Point
+  info:
+    city: Wroclaw
+    continent: Europe
+    country: Poland
+    label: Wroclaw, Poland, Europe
+    precision: city
+journal: 'Oncol Rep 16, 2 (2006): 417-21.'
+label: 'Stembalska et al. (2006): Three Distinct Regions of Deletion on 13q in Squamous
+  Cell Carcinoma of the ...'
+notes: 52 cases of squamous cell carcinoma of the larynx (SCCL) were analyzed by CGH,
+  with addtl. LOH analysis of 13q.
+pmid: 16820925
+title: Three Distinct Regions of Deletion on 13q in Squamous Cell Carcinoma of the
+  Larynx.
+year: 2006

@@ -1,0 +1,37 @@
+---
+abstract: The IGF receptor type 1 IGF-1R pathway is frequently deregulated in human
+  tumors and has become a target of interest for anti-cancer therapy.
+authors: Gong Y, Yao E, Shen R, Goel A, Arcila M, Teruya-Feldstein J, Zakowski MF,
+  Frankel S, Peifer M, Thomas RK, Ladanyi M and Pao W.
+contact:
+  email: william.pao@vanderbilt.edu
+  name: William Pao
+counts:
+  biosamples: 84
+  samples_acgh: 84
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19806209
+- geo:GSE17247
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'PLoS One 4, 10 (2009): e7273.'
+label: 'Gong et al. (2009): High Expression Levels of Total Igf-1r and Sensitivity
+  of Nsclc Cells in Vitro to an Anti-Igf-1r ...'
+notes: ~
+pmid: 19806209
+title: High Expression Levels of Total Igf-1r and Sensitivity of Nsclc Cells in Vitro
+  to an Anti-Igf-1r Antibody (R1507).
+year: 2009

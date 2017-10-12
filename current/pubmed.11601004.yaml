@@ -1,0 +1,33 @@
+---
+abstract: To study the genomic abnormality underlying the blast crisis of chronic
+  myeloid leukemia CML .
+authors: Su XY, Cao Q and He KL.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11601004
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: 'Zhonghua Yi Xue Za Zhi 79, 1 (1999): 34-37.'
+label: 'Su et al. (1999): [Chromosomal Abnormalities in 38 Cml Cases of Various Phases].'
+notes: ~
+pmid: 11601004
+title: '[Chromosomal Abnormalities in 38 Cml Cases of Various Phases].'
+year: 1999

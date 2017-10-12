@@ -1,0 +1,52 @@
+---
+abstract: Complex genomic rearrangements CGRs consisting of two or more breakpoint
+  junctions have been observed in genomic disorders. Recently, a chromosome catastrophe
+  phenomenon termed chromothripsis, in which numerous genomic rearrangements are apparently
+  acquired in one single catastrophic event, was described in multiple cancers. Here,
+  we show that constitutionally acquired CGRs share similarities with cancer chromothripsis.
+  In the 17 CGR cases investigated, we observed localization and multiple copy number
+  changes including deletions, duplications, and or triplications, as well as extensive
+  translocations and inversions. Genomic rearrangements involved varied in size and
+  complexities in one case, array comparative genomic hybridization revealed 18 copy
+  number changes. Breakpoint sequencing identified characteristic features, including
+  small templated insertions at breakpoints and microhomology at breakpoint junctions,
+  which have been attributed to replicative processes. The resemblance between CGR
+  and chromothripsis suggests similar mechanistic underpinnings. Such chromosome catastrophic
+  events appear to reflect basic DNA metabolism operative throughout an organisms
+  life cycle.
+authors: Liu P, Erez A, Nagamani SC, Dhar SU, Kolodziejska KE, Dharmadhikari AV, Cooper
+  ML, Wiszniewska J, Zhang F, Withers MA, Bacino CA, Campos-Acevedo LD, Delgado MR,
+  Freedenberg D, Garnica A, Grebe TA, Hernandez-Almaguer D, Immken L, Lalani SR, McLean
+  SD, Northrup H, Scaglia F, Strathearn L, Trapane P, Kang SH, Patel A, Cheung SW,
+  Hastings PJ, Stankiewicz P, Lupski JR and Bi W.
+contact:
+  email: ~
+  name: James Lupski
+counts:
+  biosamples: 17
+  samples_acgh: 17
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21925314
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Cell 146, 6 (2011): 889-903.'
+label: 'Liu et al. (2011): Chromosome Catastrophes Involve Replication Mechanisms
+  Generating Complex Genomic ...'
+notes: ~
+pmid: 21925314
+title: Chromosome Catastrophes Involve Replication Mechanisms Generating Complex Genomic
+  Rearrangements.
+year: 2011

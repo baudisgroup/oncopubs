@@ -1,0 +1,46 @@
+---
+abstract: Matrix-producing bone lesions consist of a wide variety of benign and malignant
+  conditions. With respect to morphology, an overlap exists between benign and malignant
+  bone tumors that causes difficulties in the final determination of the tumor. This
+  study was conducted to show the potential of comparative genomic hybridization as
+  a tool in the differential diagnosis of matrix-producing bone lesions. Thirty benign
+  bone tumors were evaluated by conventional comparative genomic hybridization. To
+  test its diagnostic reliability, 5 additional cases were analyzed, all with differential
+  diagnostic difficulties related to morphology and radiology. All were ultimately
+  diagnosed as malignant sarcomas, and unbalanced alterations were detected. In contrast
+  benign tumors or tumor-like lesions did not reveal any chromosomal alterations.
+  Comparative genomic hybridization is a useful adjunct in the complicated differential
+  diagnostic algorithms of matrix-producing bone tumors.
+authors: Gebert C, Brinkschmidt C, Bielack S, Bernhardt T, Jurgens H, Bocker W, Winkelmann
+  W, Burger H and Gosheger G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16959697
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Int J Surg Pathol 14, 3 (2006): 187-92.'
+label: 'Gebert et al. (2006): The Potential of Comparative Genomic Hybridization as
+  a Tool in the Differential Diagnosis of ...'
+notes: ~
+pmid: 16959697
+title: The Potential of Comparative Genomic Hybridization as a Tool in the Differential
+  Diagnosis of Matrix-Producing Bone Lesions.
+year: 2006

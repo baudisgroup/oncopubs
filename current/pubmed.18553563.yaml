@@ -1,0 +1,56 @@
+---
+abstract: Somatically acquired chromosomal imbalances are a key feature of neuroblastoma,
+  a heterogeneous pediatric solid tumor. Among these alterations, genomic amplification
+  targeting the MYCN oncogene and observed in about 25-30 of the cases, strongly correlates
+  with advanced stage and poor outcome. In this work, we have used BAC and SNP arrays
+  as well as gene expression arrays to characterize amplifications in neuroblastoma.
+  Eighty-eight distinct BACs defining high-level amplification events were identified
+  in 65 samples, including 43 tumors and 22 cell lines. Although the highest recurrence
+  was observed on chromosome 2, clones on chromosomes 8, 12, 16, and 17 also revealed
+  genomic amplification in several samples. A detailed analysis of the 2p22-2p25 MYCN
+  containing region indicated highly complex patterns in a number of cases. Coamplifications
+  involving MYCN and other regions were explored by FISH in three cell lines. High-resolution
+  arrays then allowed us to further refine the mapping of 25 amplicons in 19 samples,
+  either reducing the size of a single continuous amplicon or increasing the complexity
+  by highlighting multiple noncontiguous regions of amplification. Combined analysis
+  of gene expression profiling and array-CGH data indicated that 12 to 25 of the genes
+  that are targeted by genomic amplification are actually over-expressed in tumor
+  cells, several of them having already been implicated in cancer. Finally, our results
+  suggest that the presence of amplicons localized outside of chromosome 2, in addition
+  to MYCN amplification, may be linked to a particularly severe outcome in neuroblastoma
+  patients.
+authors: Fix A, Lucchesi C, Ribeiro A, Lequin D, Pierron G, Schleiermacher G, Delattre
+  O and Janoueix-Lerosey I.
+contact:
+  email: janoueix@curie.fr
+  name: Isabelle Janoueix-Lerosey
+counts:
+  biosamples: 65
+  samples_acgh: 65
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18553563
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 10 (2008): 819-34.'
+label: 'Fix et al. (2008): Characterization of Amplicons in Neuroblastoma: High-Resolution
+  Mapping Using DNA Microarrays, ...'
+notes: Various versions of the BAC arrays were used. Also, 6 cell lines were additionally
+  analyzed with Affymetrix 100k SNP arrays.
+pmid: 18553563
+title: 'Characterization of Amplicons in Neuroblastoma: High-Resolution Mapping Using
+  DNA Microarrays, Relationship With Outcome, and Identification of Overexpressed
+  Genes.'
+year: 2008

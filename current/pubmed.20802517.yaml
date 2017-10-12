@@ -1,0 +1,58 @@
+---
+abstract: Small-cell lung cancer SCLC is the most aggressive subtype of lung cancer
+  in its clinical behavior, with a 5-year overall survival as low as 5 . Despite years
+  of research in the field, molecular determinants of SCLC behavior are still poorly
+  understood, and this deficiency has translated into an absence of specific diagnostics
+  and targeted therapeutics. We hypothesized that tumor DNA copy number alterations
+  would allow the identification of molecular pathways involved in SCLC progression.
+  Array comparative genomic hybridization was performed on DNA extracted from 46 formalin-fixed
+  paraffin-embedded SCLC tissue specimens. Genomic profiling of tumor and sex-matched
+  control DNA allowed the identification of 70 regions of copy number gain and 55
+  regions of copy number loss. Using molecular pathway analysis, we found a strong
+  enrichment in these regions of copy number alterations for 11 genes associated with
+  the focal adhesion pathway. We verified these findings at the genomic, gene expression
+  and protein level. Focal Adhesion Kinase FAK , one of the central genes represented
+  in this pathway, was commonly expressed in SCLC tumors and constitutively phosphorylated
+  in SCLC cell lines. Those were poorly adherent to most substrates but not to laminin-322.
+  Inhibition of FAK phosphorylation at Tyr 397 by a small-molecule inhibitor, PF-573,228,
+  induced a dose-dependent decrease of adhesion and an increase of spreading in SCLC
+  cell lines on laminin-322. Cells that tended to spread also showed a decrease in
+  focal adhesions, as demonstrated by a decreased vinculin expression. These results
+  support the concept that pathway analysis of genes in regions of copy number alterations
+  may uncover molecular mechanisms of disease progression and demonstrate a new role
+  of FAK and associated adhesion pathways in SCLC. Further investigations of FAK at
+  the functional level may lead to a better understanding of SCLC progression and
+  may have therapeutic implications.
+authors: Ocak S, Yamashita H, Udyavar AR, Miller AN, Gonzalez AL, Zou Y, Jiang A,
+  Yi Y, Shyr Y, Estrada L, Quaranta V and Massion PP.
+contact:
+  email: pierre.massion@vanderbilt.edu
+  name: Pierre Massion
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20802517
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.78
+    - 36.17
+    type: Point
+  info:
+    city: Nashville
+    continent: North America
+    country: United States
+    label: Nashville, United States, North America
+    precision: city
+journal: 'Oncogene 29, 48 (2010): 6331-42.'
+label: 'Ocak et al. (2010): DNA Copy Number Aberrations in Small-Cell Lung Cancer
+  Reveal Activation of the Focal Adhesion ...'
+notes: ~
+pmid: 20802517
+title: DNA Copy Number Aberrations in Small-Cell Lung Cancer Reveal Activation of
+  the Focal Adhesion Pathway.
+year: 2010

@@ -1,0 +1,58 @@
+---
+abstract: Two phase II studies assessed the efficacy of vismodegib, a sonic hedgehog
+  (SHH) pathway inhibitor that binds smoothened (SMO), in pediatric and adult recurrent
+  medulloblastoma (MB).  Adult patients enrolled onto PBTC-025B and pediatric patients
+  enrolled onto PBTC-032 were treated with vismodegib (150 to 300 mg/d). Protocol-defined
+  response, which had to be sustained for 8 weeks, was confirmed by central neuroimaging
+  review. Molecular tests to identify patterns of response and insensitivity were
+  performed when tissue was available.  A total of 31 patients were enrolled onto
+  PBTC-025B, and 12 were enrolled onto PBTC-032. Three patients in PBTC-025B and one
+  in PBTC-032, all with SHH-subgroup MB (SHH-MB), exhibited protocol-defined responses.
+  Progression-free survival (PFS) was longer in those with SHH-MB than in those with
+  non-SHH-MB, and prolonged disease stabilization occurred in 41% of patient cases
+  of SHH-MB. Among those with SHH-MB, loss of heterozygosity of PTCH1 was associated
+  with prolonged PFS, and diffuse staining of P53 was associated with reduced PFS.
+  Whole-exome sequencing identified mutations in SHH genes downstream from SMO in
+  four of four tissue samples from nonresponders and upstream of SMO in two of four
+  patients with favorable responses.  Vismodegib exhibits activity against adult recurrent
+  SHH-MB but not against recurrent non-SHH-MB. Inadequate accrual of pediatric patients
+  precluded conclusions in this population. Molecular analyses support the hypothesis
+  that SMO inhibitor activity depends on the genomic aberrations within the tumor.
+  Such inhibitors should be advanced in SHH-MB studies; however, molecular and genomic
+  work remains imperative to identify target populations that will truly benefit.  ï¿½
+  2015 by American Society of Clinical Oncology.
+authors: Robinson GW, Orr BA, Wu G, Gururangan S, Lin T, Qaddoumi I, Packer RJ, Goldman
+  S, Prados MD, Desjardins A, Chintagumpala M, Takebe N, Kaste SC, Rusch M, Allen
+  SJ, Onar-Thomas A, Stewart CF, Fouladi M, Boyett JM, Gilbertson RJ, Curran T, Ellison
+  DW and Gajjar A
+contact:
+  email: giles.robinson@stjude.org
+  name: Giles Robinson
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 8
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26169613
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: J. Clin. Oncol. 33(24), 2015
+label: 'Robinson GW et al. (2015): '
+notes: ~
+pmid: 26169613
+title: 'Vismodegib Exerts Targeted Efficacy Against Recurrent Sonic Hedgehog-Subgroup
+  Medulloblastoma: Results From Phase II Pediatric Brain Tumor Consortium Studies
+  PBTC-025B and PBTC-032.'
+year: 2015

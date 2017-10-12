@@ -1,0 +1,54 @@
+---
+abstract: In hepatocellular carcinoma HCC , multifocal growth may be due to intrahepatic
+  metastatic spread or to the multicentric origin of clonal neoplasms. Although this
+  issue is of potential clinical and prognostic importance, reliable differentiation
+  cannot be achieved using clinical or morphological criteria alone. In this study,
+  comparative genomic hybridization CGH was used to differentiate between metastatic
+  spread and multicentric growth in two cases of HCC. In the first case, six carcinoma
+  nodules were examined. The affected chromosomes and their pattern of aberrations
+  were almost identical for all six nodules. In addition to aberrations of chromosomes
+  1, 4, 9, and 13, further aberrations were observed for chromosomes 2, 5, 7, and
+  17, which are less typical for HCC. These findings were seen as indicative of metastatic
+  spread of the HCC. In the second case, 75 3 4 of the nodules showed comparable aberration
+  patterns involving chromosomes 1, 4, 8, 13, and 17, together with a number of further
+  aberrations also not frequently seen in HCC including chromosomes 5, 7, 10, 12,
+  14, and 18. Chromosomes 4, 5, 8, 10, and 12 were also altered in the fourth nodule
+  examined for this case, but they exhibited a unique aberration pattern. Additionally,
+  gain of chromosome 15q was seen in only this fourth nodule. In the two cases examined,
+  metastatic spread and multicentric origin of HCC could be differentiated by different
+  patterns of karyotypic change. The CGH results were confirmed by fluorescence in
+  situ hybridization FISH . In conclusion, CGH facilitates the differentiation of
+  multicentric growth from metastatic spread in HCC and appears to be superior to
+  techniques previously used to resolve this clinically important diagnostic problem.
+authors: Wilkens L, Bredt M, Flemming P, Klempnauer J and Heinrich Kreipe H.
+contact:
+  email: ludwig.wilkens@pathology.unibe.ch
+  name: Ludwig Wilkens
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10951399
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: 'J Pathol 192, 1 (2000): 43-51.'
+label: 'Wilkens et al. (2000): Differentiation of Multicentric Origin From Intra-Organ
+  Metastatic Spread of Hepatocellular ...'
+notes: ~
+pmid: 10951399
+title: Differentiation of Multicentric Origin From Intra-Organ Metastatic Spread of
+  Hepatocellular Carcinomas By Comparative Genomic Hybridization.
+year: 2000

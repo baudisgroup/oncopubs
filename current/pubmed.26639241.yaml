@@ -1,0 +1,41 @@
+---
+abstract: Copy number alteration (CNA) of chromosome 16, aï¿½frequent genetic event
+  in tumors including hepatocellular carcinoma (HCC), has been associated with HCC
+  etiology of hepatitis Bï¿½virus (HBV) and with clinical outcomes in multiple types
+  of cancer. This study identified CNAs in chromosome 16 in relation to intrahepatic
+  recurrence of HCC in aï¿½population with high HBV prevalence, and further screened
+  for differentially expressed genes in recurrence-related CNAs. Array comparative
+  genomic hybridization and expression arrays were used to detect CNAs and gene expression
+  differences, respectively. The associations between CNAs and intrahepatic recurrence
+  were analyzed on 66 patients, follow-up period of 3-73 months. One hundred and nine
+  cases were further evaluated regarding the differentially expressed genes. Losses
+  at 16q and 16p were detected in 62.1% and 51.5% of the 66 cases, respectively. The
+  most recurrent CNAs (with frequency >20%) were losses at 16p13.3-13.2, 16p13.11,
+  16q11.2-22.1, 16q22.1, 16q22.2-24.2 and 16q24.2. Of the CNAs, 16q22.1 loss was significantly
+  associated with unfavorable intrahepatic recurrence-free survival (P = 0.025). Multivariate
+  Cox analysis identified 16q22.1 loss as an independent risk factor for intrahepatic
+  recurrence (HR = 2.32, 95% CI = 1.26-4.27). Aï¿½panel of 21 genes, including TRADD,
+  PSMB10, THAP11, CTCF and ESRP2, were significantly downregulated in HCCs with 16q22.1
+  loss compared to those without the loss. These results suggest that loss at 16q22.1
+  was associated with increased risk for intrahepatic recurrence of HCC, at least
+  in the HBV-prevalence population. Multiple downregulated genes correlated with the
+  loss were screened.
+authors: Chen L, Zhu ZZ, Liu SF, Wan X, Wen BJ, Jiang H, Zhu J and Cong WM
+contact:
+  email: zzzhu1170@yeah.net
+  name: L. Chen
+counts:
+  biosamples: 66
+  samples_acgh: 0
+  samples_ccgh: 66
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26639241
+journal: Neoplasma 63(1), 2016
+label: 'Chen L et al. (2016): '
+notes: ~
+pmid: 26639241
+title: Loss at 16q22.1 identified as aï¿½risk factor for intrahepatic recurrence in
+  hepatocellular carcinoma and screening of differentially expressed genes.
+year: 2016

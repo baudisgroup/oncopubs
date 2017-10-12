@@ -1,0 +1,54 @@
+---
+abstract: "Whole exome sequencing (WES) and RNA sequencing (RNA-Seq) are two main
+  platforms used for next-generation sequencing (NGS). While WES is primarily for
+  DNA variant discovery and RNA-Seq is mainly for measurement of gene expression,
+  both can be used for detection of genetic variants, especially single nucleotide
+  variants (SNVs). How consistently variants can be detected from WES and RNA-Seq
+  has not been systematically evaluated. In this study, we examined the technical
+  and biological inconsistencies in SNV detection using WES and RNA-Seq data from
+  27 pairs of tumor and matched normal samples. We analyzed SNVs in three categories:
+  WES unique - those only detected in WES, RNA-Seq unique - those only detected in
+  RNA-Seq, and shared - those detected in both. We found a small overlap (average
+  â\x88¼14%) between the SNVs called in WES and RNA-Seq. The WES unique SNVs were
+  mainly due to low coverage, low expression, or their location on the non-transcribed
+  strand in RNA-Seq data, while the RNA-Seq unique SNVs were primarily due to their
+  location out of the WES-capture boundary regions (accounting â\x88¼71%), as well
+  as low coverage of the regions, low coverage of the mutant alleles or RNA-editing.
+  The shared SNVs had high locus-specific coverage in both WES and RNA-Seq and high
+  gene expression levels. Additionally, WES unique and RNA-Seq unique SNVs showed
+  different nucleotide substitution patterns, e.g., â\x88¼55% of RNA-Seq unique variants
+  were A:Tâ\x86\x92G:C, a hallmark of RNA editing. This study provides an important
+  evaluation on the inconsistencies of somatic SNVs called in WES and RNA-Seq data.
+  \ Copyright Â© 2015 Elsevier Inc. All rights reserved."
+authors: O'Brien TD, Jia P, Xia J, Saxena U, Jin H, Vuong H, Kim P, Wang Q, Aryee
+  MJ, Mino-Kenudson M, Engelman JA, Le LP, Iafrate AJ, Heist RS, Pao W and Zhao Z
+contact:
+  email: zhongming.zhao@vanderbilt.edu
+  name: Zhongming Zhao
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 27
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25913717
+geo_data:
+  geo_json:
+    coordinates:
+    - -86.78
+    - 36.17
+    type: Point
+  info:
+    city: Nashville
+    continent: North America
+    country: United States
+    label: Nashville, United States, North America
+    precision: city
+journal: Methods, 2015
+label: 'O''Brien TD et al. (2015): '
+notes: ~
+pmid: 25913717
+title: 'Inconsistency and features of single nucleotide variants detected in whole
+  exome sequencing versus transcriptome sequencing: A case study in lung cancer.'
+year: 2015

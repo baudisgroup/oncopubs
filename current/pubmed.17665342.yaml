@@ -1,0 +1,40 @@
+---
+abstract: Most primary intracranial tumors occur as solitary lesions multiple locations
+  of one tumor, the occurrence of two different tumors or even collision tumors have
+  been described only in a few patients. From a statistical point of view, in less
+  than 100 glioblastoma cases will a meningioma be simultaneously present in the brain.
+  We report three cases with this coincidence and display the results of CGH and chromosome
+  analysis in two patients, in whom the tumors arose in very close spatial correlation
+  to each other.
+authors: Nestler U, Schmidinger A, Schulz C, Huegens-Penzel M, Gamerdinger UA, Koehler
+  A and Kuchelmeister KW.
+contact:
+  email: ulf.nestler@neuro.med.uni-giessen.de
+  name: Ulf Nestler
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17665342
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.68
+    - 50.59
+    type: Point
+  info:
+    city: Giessen
+    continent: Europe
+    country: Germany
+    label: Giessen, Germany, Europe
+    precision: city
+journal: 'Zentralbl Neurochir 68, 3 (2007): 145-50.'
+label: 'Nestler et al. (2007): Glioblastoma Simultaneously Present With Meningioma--Report
+  of Three Cases.'
+notes: ~
+pmid: 17665342
+title: Glioblastoma Simultaneously Present With Meningioma--Report of Three Cases.
+year: 2007

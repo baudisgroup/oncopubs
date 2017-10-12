@@ -1,0 +1,36 @@
+---
+abstract: Central neurocytomas are rare neuronal tumors commonly found in the intraventricular
+  regions. Little is known about the tumorigenesis of these neoplasms. The aim of
+  this study was to provide an overview of genetic imbalances in central neurocytomas.
+authors: Yin XL, Pang JC, Hui AB and Ng HK.
+contact:
+  email: hkng@cuhk.edu.hk
+  name: Ho-Keung Ng
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10883908
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'J Neurosurg 93, 1 (2000): 77-81.'
+label: 'Yin et al. (2000): Detection of Chromosomal Imbalances in Central Neurocytomas
+  By Using Comparative Genomic ...'
+notes: ~
+pmid: 10883908
+title: Detection of Chromosomal Imbalances in Central Neurocytomas By Using Comparative
+  Genomic Hybridization.
+year: 2000

@@ -1,0 +1,59 @@
+---
+abstract: 'BACKGROUND: High-resolution genomic microarrays enable simultaneous detection
+  of copy-number aberrations such as the known recurrent aberrations in chronic lymphocytic
+  leukemia del 11q , del 13q , del 17p and trisomy 12 , and copy-number neutral loss
+  of heterozygosity. Moreover, comparison of genomic profiles from sequential patients
+  samples allows detection of clonal evolution. DESIGN AND METHODS: We screened samples
+  from 369 patients with newly diagnosed chronic lymphocytic leukemia from a population-based
+  cohort using 250K single nucleotide polymorphism-arrays. Clonal evolution was evaluated
+  in 59 follow-up samples obtained after 5-9 years. RESULTS: At diagnosis, copy-number
+  aberrations were identified in 90 of patients 70 carried known recurrent alterations,
+  including del 13q 55 , trisomy 12 10.5 , del 11q 10 , and del 17p 4 . Additional
+  recurrent aberrations were detected on chromosomes 2 1.9 , 4 1.4 , 8 1.6 and 14
+  1.6 . Thirteen patients 3.5 displayed recurrent copy-number neutral loss of heterozygosity
+  on 13q, of whom 11 had concurrent homozygous del 13q . Genomic complexity and large
+  13q deletions correlated with inferior outcome, while the former was linked to poor-prognostic
+  aberrations. In the follow-up study, clonal evolution developed in 8 24 33 patients
+  with unmutated IGHV, and in 4 25 16 IGHV-mutated and treated patients. In contrast,
+  untreated patients with mutated IGHV n 10 did not acquire additional aberrations.
+  The most common secondary event, del 13q , was detected in 6 12 50 of all patients
+  with acquired alterations. Interestingly, aberrations on, for example, chromosome
+  6q, 8p, 9p and 10q developed exclusively in patients with unmutated IGHV. CONCLUSIONS:
+  Whole-genome screening revealed a high frequency of genomic aberrations in newly
+  diagnosed chronic lymphocytic leukemia. Clonal evolution was associated with other
+  markers of aggressive disease and commonly included the known recurrent aberrations.'
+authors: Gunnarsson R, Mansouri L, Isaksson A, Goransson H, Cahill N, Jansson M, Rasmussen
+  M, Lundin J, Norin S, Buhl AM, Smedby KE, Hjalgrim H, Karlsson K, Jurlander J, Geisler
+  C, Juliusson G and Rosenquist R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 369
+  samples_acgh: 369
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21546498
+- geo:GSE28030
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: 'Haematologica (2011) 96: 1161-1169.'
+label: 'Gunnarsson et al. (2011): Array-based genomic screening at diagnosis and during
+  follow-up in chronic lymphocytic ...'
+notes: ~
+pmid: 21546498
+title: Array-based genomic screening at diagnosis and during follow-up in chronic
+  lymphocytic leukemia.
+year: 2011

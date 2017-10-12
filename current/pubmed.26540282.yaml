@@ -1,0 +1,52 @@
+---
+abstract: 'Oral potentially malignant disorders (OPMDs) characterized by the presence
+  of dysplasia and DNA copy number aberrations (CNAs), may reflect chromosomal instability
+  (CIN) and predispose to oral squamous cell carcinoma (OSCC). Early detection of
+  OPMDs with such characteristics may play a crucial role in OSCC prevention. The
+  aim of this study was to explore the relationship between CNAs, histological diagnosis,
+  oral subsite and aneuploidy in OPMDs/OSCCs. Samples from OPMDs and OSCCs were processed
+  by high-resolution DNA flow cytometry (hr DNA-FCM) to determine the relative nuclear
+  DNA content. Additionally, CNAs were obtained for a subset of these samples by genome-wide
+  array comparative genomic hybridization (aCGH) using DNA extracted from either diploid
+  or aneuploid nuclei suspension sorted by FCM. Our study shows that: i) aneuploidy,
+  global genomic imbalance (measured as the total number of CNAs) and specific focal
+  CNAs occur early in the development of oral cancer and become more frequent at later
+  stages; ii) OPMDs limited to tongue (TNG) mucosa display a higher frequency of aneuploidy
+  compared to OPMDs confined to buccal mucosa (BM) as measured by DNA-FCM; iii) TNG
+  OPMDs/OSCCs show peculiar features of CIN compared to BM OPMDs/OSCCs given the preferential
+  association with total broad and specific focal CNA gains. Follow-up studies are
+  warranted to establish whether the presence of DNA aneuploidy and specific focal
+  or broad CNAs may predict cancer development in non-dysplastic OPMDs.'
+authors: Castagnola P, Zoppoli G, Gandolfo S, Monticone M, Malacarne D, Cirmena G,
+  Brown D, Aiello C, Maffei M, Marino R, Giaretti W, Pentenero M.
+contact:
+  email: patrizio.castagnola@istge.it
+  name: Patrizio Castagnola
+counts:
+  biosamples: 151
+  samples_acgh: 151
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26540282
+- geo:GSE66136
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: PLoS ONE 10(11), 2015
+label: ' (2015): '
+notes: ~
+pmid: 26540282
+title: Genomic DNA Copy Number Aberrations, Histological Diagnosis, Oral Subsite and
+  Aneuploidy in OPMDs/OSCCs.
+year: 2015

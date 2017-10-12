@@ -1,0 +1,56 @@
+---
+abstract: In order to optimize the management of patients with renal cell carcinoma
+  RCC it is important to define the genetic risk for metastatic disease. In this study
+  we performed comparative genomic hybridization CGH on metastatic tumors aiming at
+  the identification of genetic alterations associated with metastatic disease. We
+  analyzed 46 renal tumors along with their metastases, and 15 non-metastatic renal
+  tumors. Tumors were classified pathologically according to the Heidelberg classification
+  of RCC, and staged according to the TNM-system. Standard CGH was performed using
+  microdissected archival tissues and DOP-PCR. The average numbers of chromosomal
+  aberrations per tumor were 3.0, 2.1 and 3.9 in patients without metastasis, in patients
+  who developed metastases after a two-year latency period late onset of metastatic
+  disease and in patients who developed metastases within two years after therapy
+  of the primary tumor early onset of metastatic disease . CGH revealed chromosomal
+  aberrations in 91 of primary metastatic tumors. Deletions or losses of chromosomes
+  9 26 vs 6 , 10 21 vs 6 and 18 23 vs 0 and 17 28 vs 7 occurred more often in metastatic
+  tumors than in non-metastatic tumors. Furthermore, these aberrations were more common
+  in patients with early metastases. CGH analysis of 40 pairs of primary RCCs and
+  their corresponding metastasis revealed similar aberrations in 70 of cases. In 30
+  , however, metastases showed additional chromosomal aberrations not detected in
+  the corresponding primary tumors. In conclusion, we identified genetic alterations
+  associated with metastatic disease in RCC which could be useful for predicting prognosis.
+  Genetic changes leading to metastases occurred early in tumorigenesis of metastatic
+  tumors.
+authors: Junker K, Moravek P, Podhola M, Weirich G, Hindermann W, Janitzky V and Schubert
+  J.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 57
+  samples_acgh: 0
+  samples_ccgh: 57
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11029490
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: 'Int J Oncol 17, 5 (2000): 903-08.'
+label: 'Junker et al. (2000): Genetic Alterations in Metastatic Renal Cell Carcinoma
+  Detected By Comparative Genomic ...'
+notes: ~
+pmid: 11029490
+title: 'Genetic Alterations in Metastatic Renal Cell Carcinoma Detected By Comparative
+  Genomic Hybridization: Correlation With Clinical and Histological Data.'
+year: 2000

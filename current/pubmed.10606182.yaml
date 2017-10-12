@@ -1,0 +1,52 @@
+---
+abstract: The establishment of additional powerful prognostic markers in breast cancer
+  patients is of unquestionable importance given that breast cancer is characterized
+  by morphologic, biologic and genetic heterogeneity. In the present study we analyzed
+  8 primary invasive breast carcinomas by comparative genomic hybridization CGH in
+  order to find and map the DNA copy number changes occurring in these tumors. Furthermore,
+  in order to evaluate the potential prognostic significance, we compared these genetic
+  changes with other histo- and immunopathologic prognostic variables, such as tumor
+  type, tumor grade, lymph node status, estrogen receptors content and c-erbB-2 oncoprotein
+  expression. All the studied cases showed a wide variety of gains and losses of chromosomal
+  regions or arms distributed among 16 chromosomes with an average number of 6.12
+  aberrations per case. Although several genetic changes appeared to be common, none
+  was unique or consistent in all the studied cases. The most consistent regions of
+  gain were on 1q, 20q and 8q while the most common regions of loss on 3p and 6q.
+  Accumulation of chromosomal changes were more frequently found in high grade ductal
+  breast carcinomas with overexpression of c-erbB-2 oncoprotein in both lymph node-negative
+  and lymph node-positive patients, whose tumors were positive for estrogen receptors.
+  If any of these genetic changes identified by CGH in breast cancer patients carry
+  prognostic information, regardless of stage or other factors predictive of biologic
+  behavior, further investigation is needed.
+authors: Malamou-Mitsi VD, Syrrou M, Georgiou I, Pagoulatos G and Agnantis NJ.
+contact:
+  email: ~
+  name: V.D. Malamou-Mitsi
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10606182
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.85
+    - 39.66
+    type: Point
+  info:
+    city: Ioannina
+    continent: Europe
+    country: Greece
+    label: Ioannina, Greece, Europe
+    precision: city
+journal: 'J Exp Clin Cancer Res 18, 3 (1999): 357-61.'
+label: 'Malamou-Mitsi et al. (1999): Analysis of Chromosomal Aberrations in Breast
+  Cancer By Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 10606182
+title: Analysis of Chromosomal Aberrations in Breast Cancer By Comparative Genomic
+  Hybridization (Cgh). Correlation With Histoprognostic Variables and C-Erbb-2 Immunoexpression.
+year: 1999

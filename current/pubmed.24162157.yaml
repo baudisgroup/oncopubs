@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: Horlings HM, Weigelt B, Anderson EM, Lambros MB, Mackay A, Natrajan R, Ng
+  CK, Geyer FC, van de Vijver MJ and Reis-Filho JS.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 59
+  samples_acgh: 59
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24162157
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Breast Cancer Res Treat (2013).
+label: 'Horlings et al. (2013): Genomic profiling of histological special types of
+  breast cancer.'
+notes: Array CGH data, the analysis history, script and code are available at http://rock.icr.ac.uk/collaborations/Mackay/Archetypes.
+pmid: 24162157
+title: Genomic profiling of histological special types of breast cancer.
+year: 2013

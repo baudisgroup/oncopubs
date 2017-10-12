@@ -1,0 +1,34 @@
+---
+abstract: ~
+authors: Wan TS, Ma SK, Yip SF, Yeung YM, and Chan LC.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10958948
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Genet Cytogenet, 121(1) 2000, 90-93.
+label: 'Wan et al. (2000): Molecular characterization of der(15)t(11;15) as a secondary
+  cytogenetic abnormality in acute ...'
+notes: ~
+pmid: 10958948
+title: Molecular characterization of der(15)t(11;15) as a secondary cytogenetic abnormality
+  in acute promyelocytic leukemia with cryptic PML-RAR alpha fusion on 17q.
+year: 2000

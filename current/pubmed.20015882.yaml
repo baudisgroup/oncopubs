@@ -1,0 +1,48 @@
+---
+abstract: Single-nucleotide polymorphism arrays allow for genome-wide profiling of
+  copy-number alterations and copy-neutral runs of homozygosity at high resolution.
+  To identify novel genetic lesions in myeloproliferative neoplasms, a large series
+  of 151 clinically well characterized patients was analyzed in our study. Copy-number
+  alterations were rare in essential thrombocythemia and polycythemia vera. In contrast,
+  approximately one third of myelofibrosis patients exhibited small genomic losses
+  less than 5 Mb . In 2 secondary myelofibrosis cases the tumor suppressor gene NF1
+  in 17q11.2 was affected. Sequencing analyses revealed a mutation in the remaining
+  NF1 allele of one patient. In terms of copy-neutral aberrations, no chromosomes
+  other than 9p were recurrently affected. In conclusion, novel genomic aberrations
+  were identified in our study, in particular in patients with myelofibrosis. Further
+  analyses on single-gene level are necessary to uncover the mechanisms that are involved
+  in the pathogenesis of myeloproliferative neoplasms.
+authors: Stegelmann F, Bullinger L, Griesshammer M, Holzmann K, Habdank M, Kuhn S,
+  Maile C, Schauer S, Dohner H and Dohner K.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 151
+  samples_acgh: 151
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20015882
+- geo:GSE18197
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Haematologica 95, 4 (2010): 666-69.'
+label: 'Stegelmann et al. (2010): High-Resolution Single-Nucleotide Polymorphism Array-Profiling
+  in Myeloproliferative Neoplasms ...'
+notes: ~
+pmid: 20015882
+title: High-Resolution Single-Nucleotide Polymorphism Array-Profiling in Myeloproliferative
+  Neoplasms Identifies Novel Genomic Aberrations.
+year: 2010

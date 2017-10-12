@@ -1,0 +1,53 @@
+---
+abstract: Recent studies have shown that intraductal prostate carcinoma IDC-P should
+  be considered as a separate lesion distinct from prostatic intraepithelial neoplasia
+  PIN . The purpose of the present study was to analyze the genetic relationship between
+  benign prostatic tissue, PIN, invasive cancer, IDC-P, and extracapsular tumor tissue
+  to get further information about the role of IDC-P in the development of prostate
+  cancer. One hundred five radical prostatectomy specimens were investigated immunohistochemically,
+  77 cases were analyzed by PCR for LOH of the tumor suppressor genes TP53 and RB1,
+  and 11 cases of IDC-P and 10 cases of PIN were investigated using comparative genomic
+  hybridization CGH . At CGH analysis, IDC-P showed several chromosomal imbalances
+  in contrast to PIN, where no changes were found. We could demonstrate a significant
+  increase of LOH for TP53 or RB1 from benign tissue to PIN. LOH of both TP53 and
+  RB1 were frequently found in IDC-P 52 , followed by extracapsular tumor tissue 44
+  , invasive cancer 24 , PIN 19 , and benign prostatic tissue 17 . Increased immunohistochemical
+  expression was found in invasive cancer for TP53, RB1, and for PTEN. Decreased expression
+  could be demonstrated in extracapsular tumor tissue and in IDC-P. Our results indicate
+  that IDC-P in general follows the genetic pathway from normal epithelium over PIN
+  lesion. IDC-P represents a separate prostatic lesion and should be graded as a poorly
+  differentiated carcinoma.
+authors: Bettendorf O, Schmidt H, Staebler A, Grobholz R, Heinecke A, Boecker W, Hertle
+  L and Semjonow A.
+contact:
+  email: O_Bettendorf@web.de
+  name: Olaf Bettendorf
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18383208
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 7 (2008): 565-72.'
+label: 'Bettendorf et al. (2008): Chromosomal Imbalances, Loss of Heterozygosity,
+  and Immunohistochemical Expression of Tp53, ...'
+notes: ~
+pmid: 18383208
+title: Chromosomal Imbalances, Loss of Heterozygosity, and Immunohistochemical Expression
+  of Tp53, Rb1, and Pten in Intraductal Cancer, Intraepithelial Neoplasia, and Invasive
+  Adenocarcinoma of the Prostate.
+year: 2008

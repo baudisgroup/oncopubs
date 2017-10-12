@@ -1,0 +1,62 @@
+---
+abstract: We combined laser-assisted microdissection from H amp amp E-stained paraffin
+  sections, degenerated oligonucleotide-primed polymerase chain reaction DOP-PCR ,
+  and comparative genomic hybridization CGH to analyse chromosomal imbalances in small
+  tumour areas consisting of 50-100 cells. This approach was used to investigate intratumour
+  genetic heterogeneity in a case of metastatic prostatic adenocarcinoma and chromosomal
+  changes in areas of prostatic intraepithelial neoplasia PIN adjacent to the invasive
+  tumour. In four microdissected invasive tumour areas with different histological
+  patterns acinar, cribriform, papillary and solid marked intratumour heterogeneity
+  was found by CGH. Recurrent chromosomal imbalances detected in at least two microdissected
+  tumour areas were gains on 1p32-- amp gt p36, 2p22, 3q21, 7, 8q21-- amp gt q24,
+  11q12-- amp gt q13, 16p12-- amp gt p13, 17, 19 and loss on 16q23. Additional chromosomal
+  changes were found in only one of the microdissected areas gains on 16q21-- amp
+  gt q23, 20q22 and losses on 8p21-- amp gt p23, 12p11-- amp gt q12, 12q21-- amp gt
+  q26, 13q21-- amp gt q34, 16q12, and 18q22 . In PIN, gains on chromosomes 8q21--
+  amp gt q24 and 17 were found in both samples investigated low and high grade PIN
+  , while gains on chromosomes 7, 11q, 12q, 16p, and 20q and losses on 2p, 8p21--
+  amp gt p23, 12q were found only in one PIN area. Controls to ensure reliable CGH
+  results consisted in CGH analyses of i approximately 80 microdissected normal epithelial
+  cells, which showed no aberrations after DOP-PCR and ii larger cell numbers approximately
+  10 5 or 10 7 cells of the primary tumour investigated without DOP-PCR and partially
+  displaying the chromosomal imbalances gain on 16p12-- amp gt p13, losses on 2p25,
+  8p21-- amp gt p23, 12p11-- amp gt p12, 12q21-- amp gt q26, 18q22 found in the small
+  microdissected areas. Microsatellite and FISH analyses further confirmed our CGH
+  results from microdissected cells. The combined approach of laser-assisted microdissection,
+  DOP-PCR and CGH is suitable to identify early genetic changes in PIN and chromosomal
+  imbalances associated with the particular histological patterns of invasive prostatic
+  adenocarcinoma.
+authors: Zitzelsberger H, Kulka U, Lehmann L, Walch A, Smida J, Aubele M, Lorch T,
+  Hofler H, Bauchinger M and Werner M.
+contact:
+  email: zitzelsberger@gsf.de
+  name: Horst Zitzelsberger
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9808430
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.56
+    - 48.25
+    type: Point
+  info:
+    city: Oberschleissheim
+    continent: Europe
+    country: Germany
+    label: Oberschleissheim, Germany, Europe
+    precision: city
+journal: 'Virchows Arch 433, 4 (1998): 297-304.'
+label: 'Zitzelsberger et al. (1998): Genetic Heterogeneity in a Prostatic Carcinoma
+  and Associated Prostatic Intraepithelial ...'
+notes: ~
+pmid: 9808430
+title: Genetic Heterogeneity in a Prostatic Carcinoma and Associated Prostatic Intraepithelial
+  Neoplasia as Demonstrated By Combined Use of Laser-Microdissection, Degenerate Oligonucleotide
+  Primed Pcr and Comparative Genomic Hybridization.
+year: 1998

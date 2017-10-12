@@ -1,0 +1,48 @@
+---
+abstract: Many common human mesenchymal tumors, including gastrointestinal stromal
+  tumor GIST , rhabdomyosarcoma RMS and leiomyosarcoma LMS , feature myogenic differentiation.
+  Here we report that intragenic deletion of the dystrophin-encoding and muscular
+  dystrophy-associated DMD gene is a frequent mechanism by which myogenic tumors progress
+  to high-grade, lethal sarcomas. Dystrophin is expressed in the non-neoplastic and
+  benign counterparts of GIST, RMS and LMS tumors, and DMD deletions inactivate larger
+  dystrophin isoforms, including 427-kDa dystrophin, while preserving the expression
+  of an essential 71-kDa isoform. Dystrophin inhibits myogenic sarcoma cell migration,
+  invasion, anchorage independence and invadopodia formation, and dystrophin inactivation
+  was found in 96 , 100 and 62 of metastatic GIST, embryonal RMS and LMS samples,
+  respectively. These findings validate dystrophin as a tumor suppressor and likely
+  anti-metastatic factor, suggesting that therapies in development for muscular dystrophies
+  may also have relevance in the treatment of cancer.
+authors: Wang Y, Marino-Enriquez A, Bennett RR, Zhu M, Shen Y, Eilers G, Lee JC, Henze
+  J, Fletcher BS, Gu Z, Fox EA, Antonescu CR, Fletcher CD, Guo X, Raut CP, Demetri
+  GD, van de Rijn M, Ordog T, Kunkel LM and Fletcher JA.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24793134
+- geo:GSE53021
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Nat Genet (2014) 46: 601-606.'
+label: 'Wang et al. (2014): Dystrophin is a tumor suppressor in human cancers with
+  myogenic programs.'
+notes: ~
+pmid: 24793134
+title: Dystrophin is a tumor suppressor in human cancers with myogenic programs.
+year: 2014

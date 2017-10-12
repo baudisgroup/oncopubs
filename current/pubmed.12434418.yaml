@@ -1,0 +1,55 @@
+---
+abstract: The diagnosis of salivary gland myoepithelioma, an entity with heterogeneous
+  cytomorphology and inconsistent immunophenotype, rests on conventional histology.
+  However, the clinical course cannot be predicted reliably from cytomorphological
+  and immunophenotypic analysis. The present study determined the immunophenotype
+  of a representative series of 12 myoepitheliomas and 21 malignant myoepitheliomas.
+  Among the seven markers tested, antibodies against cytokeratins 5 6, S-100 protein,
+  and vimentin produced the most consistent reactivity profile. Comparative genomic
+  hybridization CGH profiles of 12 myoepitheliomas showed chromosomal losses in three
+  of 12 cases. In myoepithelial carcinomas, however, ten of 19 tissues investigated
+  by CGH lacked detectable cytogenetic aberrations. In five cases, aberrations involved
+  chromosome 8, in line with observations in salivary gland carcinomas of other differentiation.
+  One case that was represented in three separately localized manifestations of the
+  disease proved informative as to the relevance of gross aberration for tumour development,
+  as these tumours differed in their CGH profiles. Staining for cytokeratins 5 6 is
+  a useful addition to the established immunohistological marker panel in the work-up
+  of myoepitheliomas, because of its reliable expression in most cases and because
+  it may underline the epithelial nature of the lesion. CGH proved to be of limited
+  value as a diagnostic adjunct the presence of numerous gross cytogenetic aberrations
+  should raise the suspicion of malignancy. The low frequency of aberrations detectable
+  by CGH in overtly malignant myoepithelial neoplasms suggests that gross cytogenetic
+  alterations were acquired in the course of tumour progression and points to the
+  relevance of genetic changes not resolved by CGH.
+authors: Hungermann D, Roeser K, Buerger H, Jakel T, Loning T and Herbst H.
+contact:
+  email: herbsth@uni-muenster.de
+  name: Hermann Herbst
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12434418
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.63
+    - 51.96
+    type: Point
+  info:
+    city: Muenster
+    continent: Europe
+    country: Germany
+    label: Muenster, Germany, Europe
+    precision: city
+journal: 'J Pathol 198, 4 (2002): 487-94.'
+label: 'Hungermann et al. (2002): Relative Paucity of Gross Genetic Alterations in
+  Myoepitheliomas and Myoepithelial Carcinomas ...'
+notes: ~
+pmid: 12434418
+title: Relative Paucity of Gross Genetic Alterations in Myoepitheliomas and Myoepithelial
+  Carcinomas of Salivary Glands.
+year: 2002

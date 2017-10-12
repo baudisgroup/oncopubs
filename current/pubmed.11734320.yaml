@@ -1,0 +1,48 @@
+---
+abstract: 'Hepatocellular carcinoma HCC is a very common and highly malignant tumor,
+  associated mainly with chronic viral hepatitis, cirrhosis of any cause, aflatoxin
+  exposure and ethanol consumption. The aim of this study was to map genomic aberrations
+  in HCC by a recently developed technique: comparative genomic hybridization CGH
+  . We applied CGH on 17 liver specimens, of which seven were HCCs. The rest were
+  benign liver tumors, cirrhotic and normal livers, and other liver malignancies.
+  Our study included mainly large tumors mean size 10.5 cm unrelated to viral hepatitis
+  or cirrhosis. Our CGH analysis detected genomic imbalances in 42 of HCCs. The common
+  aberrations included DNA gains of 1q, 9p, and 8q and DNA losses of 17p, 13q, 9q,
+  4q, and 11q. Also, we detected trisomies 8, 9, 18 and 21, which have not been reported
+  previously. Gains and losses of DNA found in this study probably involve oncogenes
+  and tumor suppressor genes that play a role in the puzzle of hepatocarcinogenesis.
+  This study also suggests a possible link between the size of the tumor and the burden
+  of genetic changes.'
+authors: Kitay-Cohen Y, Amiel A, Ashur Y, Fejgin MD, Herishanu Y, Afanasyev F, Bomstein
+  Y and Lishner M.
+contact:
+  email: amielaliza@clalit.org.il
+  name: Aliza Amiel
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11734320
+geo_data:
+  geo_json:
+    coordinates:
+    - 34.78
+    - 32.08
+    type: Point
+  info:
+    city: Tel Aviv
+    continent: Asia
+    country: Israel
+    label: Tel Aviv, Israel, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 131, 1 (2001): 60-64.'
+label: 'Kitay-Cohen et al. (2001): Analysis of Chromosomal Aberrations in Large Hepatocellular
+  Carcinomas By Comparative Genomic ...'
+notes: ~
+pmid: 11734320
+title: Analysis of Chromosomal Aberrations in Large Hepatocellular Carcinomas By Comparative
+  Genomic Hybridization.
+year: 2001

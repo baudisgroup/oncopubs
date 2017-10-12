@@ -1,0 +1,51 @@
+---
+abstract: Neuroblastoma NB is a pediatric tumor characterized by high genetic heterogeneity.
+  Although the prognostic significance of some genomic abnormalities i.e., MYCN amplification,
+  1p loss, and 17q gain is recognized, genes that are involved in chromosome rearrangements
+  remain largely unknown. Considerable progress has been made over the last years
+  in characterizing DNA abnormalities by metaphase comparative genomic hybridization
+  mCGH and array CGH aCGH . Here we report a pilot study of 5 localized and 12 disseminated
+  NB by 44,000 and of 4 out of 17 cases by 244,000 oligonucleotide aCGH. Localized
+  tumors were predominantly characterized by losses of whole chromosomes 3, 4, 10,
+  and 16, and gains of 6, 7, 8, 13, 17, 18, and 20, whereas disseminated tumors showed
+  several structural aberrations including 17q gain and 3p and 11q losses. Characterization
+  of chromosome 2p in MYCN-amplified NB revealed several structural rearrangements
+  with regions of gain interspersed among sites of amplification, indicating that
+  the MYCN amplicon may encompass several genes. The high-resolution zooming in chromosomal
+  aberrant regions detected several micro-deletions and micro-amplifications in the
+  NB genome. Our results indicate that the increased sensitivity of the aCGH also
+  allows the identification of DNA aberrations in challenging samples i.e., NB showing
+  tissue and genetic heterogeneity .
+authors: Scaruffi P, Coco S, Cifuentes F, Albino D, Nair M, Defferrari R, Mazzocco
+  K and Tonini GP.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 17
+  samples_acgh: 17
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17693187
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 177, 1 (2007): 20-29.'
+label: 'Scaruffi et al. (2007): Identification and Characterization of DNA Imbalances
+  in Neuroblastoma By High-Resolution ...'
+notes: ~
+pmid: 17693187
+title: Identification and Characterization of DNA Imbalances in Neuroblastoma By High-Resolution
+  Oligonucleotide Array Comparative Genomic Hybridization.
+year: 2007

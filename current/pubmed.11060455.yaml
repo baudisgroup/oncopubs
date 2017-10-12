@@ -1,0 +1,51 @@
+---
+abstract: Leiomyosarcomas comprise a group of malignant soft-tissue tumors with smooth-muscle
+  differentiation. In this study, 14 cases of leiomyosarcoma were screened for changes
+  in relative chromosome copy number by comparative genomic hybridization. A high
+  number of imbalances mean, 16.3 range, 6-26 was detected, with chromosomal gains
+  occurring about twice as much as losses. The most frequent gains were found in 5p15,
+  8q24, 15q25-- amp gt q26, 17p, and Xp 43 to 50 , whereas the most frequent losses
+  were found in 10q and 13q 50 and 78 , respectively . Twenty high-level amplifications
+  affecting 15 different chromosomal subregions were detected in nine different tumors.
+  In three leiomyosarcomas, sequences on chromosome arm 17p were found to be highly
+  amplified, with a minimal overlapping region on subbands 17p12-- amp gt p11. We
+  further discovered that the Smith-Magenis syndrome critical region on 17p11.2 is
+  included in the 17p amplicons of two leiomyosarcoma cases. Using probes flanking
+  this genetically unstable region, a mean of 14 and 22 signals per nucleus, respectively,
+  was detected in both leiomyosarcomas by fluorescence in situ hybridization. In conclusion,
+  this analysis identifies a number of characteristic chromosomal imbalances in leiomyosarcomas
+  and provides evidence for the localization of potential oncogenes and tumor suppressor
+  genes active in leiomyosarcoma genomes.
+authors: Otano-Joos M, Mechtersheimer G, Ohl S, Wilgenbus KK, Scheurlen W, Lehnert
+  T, Willeke F, Otto HF, Lichter P and Joos S.
+contact:
+  email: s.joos@dkfz.de
+  name: Stefan Joos
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11060455
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cytogenet Cell Genet 90, 1-2 (2000): 86-92.'
+label: 'Otano-Joos et al. (2000): Detection of Chromosomal Imbalances in Leiomyosarcoma
+  By Comparative Genomic Hybridization and ...'
+notes: ~
+pmid: 11060455
+title: Detection of Chromosomal Imbalances in Leiomyosarcoma By Comparative Genomic
+  Hybridization and Interphase Cytogenetics.
+year: 2000

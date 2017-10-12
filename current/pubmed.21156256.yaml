@@ -1,0 +1,32 @@
+---
+abstract: ~
+authors: Schaefer IM, Gunawan B, Fuzesi L, Blech M, Frasunek J, and Loertzer H.
+contact:
+  email: ~
+  name: Inga-Marie Schaefer
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21156256
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: Cancer Genet Cytogenet, 203(2) 2010, 341-44.
+label: 'Schaefer et al. (2010): Chromosomal imbalances in urinary bladder paraganglioma.'
+notes: ~
+pmid: 21156256
+title: Chromosomal imbalances in urinary bladder paraganglioma.
+year: 2010

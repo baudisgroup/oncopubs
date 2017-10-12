@@ -1,0 +1,55 @@
+---
+abstract: Metastatic urothelial carcinoma of the bladder is associated with multiple
+  somatic copy-number alterations (SCNAs). We evaluated SCNAs to identify predictors
+  of poor survival in patients with metastatic urothelial carcinoma treated with platinum-based
+  chemotherapy.We obtained overall survival (OS) and array DNA copy-number data from
+  patients with metastatic urothelial carcinoma in two cohorts. Associations between
+  recurrent SCNAs and OS were determined by a Cox proportional hazard model adjusting
+  for performance status and visceral disease. mRNA expression was evaluated for potential
+  candidate genes by NanoString nCounter to identify transcripts from the region that
+  are associated with copy-number gain. In addition, expression data from an independent
+  cohort were used to identify candidate genes.Multiple areas of recurrent significant
+  gains and losses were identified. Gain of 1q23.3 was independently associated with
+  a shortened OS in both cohorts [adjusted HR, 2.96; 95% confidence interval (CI),
+  1.35-6.48; P = 0.01 and adjusted HR, 5.03; 95% CI, 1.43-17.73; P < 0.001]. The F11R,
+  PFDN2, PPOX, USP21, and DEDD genes, all located on 1q23.3, were closely associated
+  with poor outcome.1q23.3 copy-number gain displayed association with poor survival
+  in two cohorts of metastatic urothelial carcinoma. The identification of the target
+  of this copy-number gain is ongoing, and exploration of this finding in other disease
+  states may be useful for the early identification of patients with poor-risk urothelial
+  carcinoma. Prospective validation of the survival association is necessary to demonstrate
+  clinical relevance.
+authors: Riester M, Werner L, Bellmunt J, Selvarajah S, Guancial EA, Weir BA, Stack
+  EC, Park RS, O'Brien R, Schutz FA, Choueiri TK, Signoretti S, Lloreta J, Marchionni
+  L, Gallardo E, Rojo F, Garcia DI, Chekaluk Y, Kwiatkowski DJ, Bochner BH, Hahn WC,
+  Ligon AH, Barletta JA, Loda M, Berman DM, Kantoff PW, Michor F, Rosenberg JE.
+contact:
+  email: markus@jimmy.harvard.edu
+  name: Markus Riester
+counts:
+  biosamples: 94
+  samples_acgh: 94
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24486590
+- geo:GSE39281
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: Clin. Cancer Res. 20(7), 2014
+label: ' (2014): '
+notes: ~
+pmid: 24486590
+title: Integrative analysis of 1q23.3 copy-number gain in metastatic urothelial carcinoma.
+year: 2014

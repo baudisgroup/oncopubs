@@ -1,0 +1,50 @@
+---
+abstract: Neoplasm of the vulva is a rare malignancy accounting for amp lt 5 of all
+  female genital-tract cancer. However, in recent years the incidence of vulva intraepithelial
+  neoplasia, known to serve as a precursor to carcinoma, has increased in young women
+  generating considerable interest in its pathogenesis. Genetic changes at the molecular
+  level in precursor or invasive vulvar tumors are not well investigated, and DNA
+  copy number changes have not been reported until now. We used comparative genomic
+  hybridization CGH to analyze genetic alterations in 10 primary invasive squamous
+  cell carcinomas of the vulva. Chromosomal aberrations were identified in 8 10 cases.
+  The most frequent chromosomal losses were 4p13-pter five cases , 3p four cases ,
+  and 5q two cases , and less frequent losses were detected at 6q, 11q, and 13q one
+  case each . The most frequent chromosomal gains were 3q four cases and 8p three
+  cases , and less frequent gains were found in 9p, 14, 17, and 20q one case each
+  . The pattern of chromosomal imbalance in vulvar cancer detected by CGH was revealed
+  to be very similar to that in cervical cancers, despite regional differences in
+  their prevalence. These results suggest that the pathogenic pathways in vulvar and
+  cervical carcinomas may be similar and that the genetic background may be common
+  to these two squamous cell carcinomas.
+authors: Jee KJ, Kim YT, Kim KR, Kim HS, Yan A and Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11353045
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Mod Pathol 14, 5 (2001): 377-81.'
+label: 'Jee et al. (2001): Loss in 3p and 4p and Gain of 3q Are Concomitant Aberrations
+  in Squamous Cell Carcinoma of the ...'
+notes: ~
+pmid: 11353045
+title: Loss in 3p and 4p and Gain of 3q Are Concomitant Aberrations in Squamous Cell
+  Carcinoma of the Vulva.
+year: 2001

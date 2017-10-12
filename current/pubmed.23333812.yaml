@@ -1,0 +1,46 @@
+---
+abstract: Genetic alterations of the short arm of chromosome 9 are frequent in acute
+  lymphoblastic leukemia. We performed targeted sequencing of 9p region in 35 adolescent
+  and adult acute lymphoblastic leukemia patients and sought to investigate the sensitivity
+  of detecting copy number alterations in comparison with array comparative genomic
+  hybridization aCGH , and besides, to detect novel genetic anomalies. We found a
+  high concordance of copy number variations CNVs as detected by next generation sequencing
+  NGS and aCGH. By both methodologies, the recurrent deletion at CDKN2A B locus was
+  identified, whereas NGS revealed additional, small regions of CNVs, seen more frequently
+  in adult patients, while aCGH was better at detecting larger CNVs. Also, by NGS,
+  we detected novel structural variations, novel SNVs and small insertion deletion
+  variants. Our results show that NGS, in addition to detecting mutations and other
+  genetic aberrations, can be used to study CNVs.
+authors: Sarhadi VK, Lahti L, Scheinin I, Tyybakinoja A, Savola S, Usvasalo A, Raty
+  R, Elonen E, Ellonen P, Saarinen-Pihkala UM and Knuutila S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 35
+  samples_acgh: 35
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23333812
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: Genomics (2013)
+label: 'Sarhadi et al. (2013): Targeted resequencing of 9p in acute lymphoblastic
+  leukemia yields concordant results with array ...'
+notes: ~
+pmid: 23333812
+title: Targeted resequencing of 9p in acute lymphoblastic leukemia yields concordant
+  results with array CGH and reveals novel genomic alterations.
+year: 2013

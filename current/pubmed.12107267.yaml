@@ -1,0 +1,54 @@
+---
+abstract: Comparative genomic hybridization CGH is a molecular cytogenetic technique
+  that allows the entire genome of a tumor to be surveyed for gains and losses of
+  DNA copy sequences. A limited number of studies reporting the use of this technique
+  in adult adrenocortical tumors have yielded conflicting results. In this study we
+  performed CGH analysis on 13 malignant, 18 benign, and 1 tumor of indeterminate
+  malignant potential with the aim of identifying genetic loci consistently implicated
+  in the development and progression of adrenocortical tumors. Tissue samples from
+  32 patients with histologically proven adrenocortical tumors were available for
+  CGH analysis. CGH changes were seen in all cancers, 11 of 18 61 adenomas, and the
+  1 tumor of indeterminate malignant potential. Of the adrenal cancers, the most common
+  gains were seen on chromosomes 5 46 , 12 38 , 19 31 , and 4 31 . Losses were most
+  frequently seen at 1p 62 , 17p 54 , 22 38 , 2q 31 , and 11q 31 . Of the benign adenomas,
+  the most common change was gain of 4q 22 . Mann-Whitney analysis showed a highly
+  significant difference between the cancer group mean changes, 7.6 and the adenoma
+  group mean changes, 1.1 for the number of observed CGH changes P amp lt 0.01 . Logistic
+  regression analysis showed that the number of CGH changes was highly predictive
+  of tumor type P amp lt 0.01 . This study has identified several chromosomal loci
+  implicated in adrenocortical tumorigenesis. Activation of a protooncogene s on chromosome
+  4 may be an early event, with progression from adenoma to carcinoma involving activation
+  of oncogenes on chromosomes 5 and 12 and inactivation of tumor suppressor genes
+  on chromosome arms 1p and 17p.
+authors: Sidhu S, Marsh DJ, Theodosopoulos G, Philips J, Bambach CP, Campbell P, Magarey
+  CJ, Russell CF, Schulte KM, Roher HD, Delbridge L and Robinson BG.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 32
+  samples_acgh: 0
+  samples_ccgh: 32
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12107267
+geo_data:
+  geo_json:
+    coordinates:
+    - 151.19
+    - -33.82
+    type: Point
+  info:
+    city: St. Leonards
+    continent: ~
+    country: Australia
+    label: St. Leonards, Australia
+    precision: city [needs verification]
+journal: 'J Clin Endocrinol Metab 87, 7 (2002): 3467-74.'
+label: 'Sidhu et al. (2002): Comparative Genomic Hybridization Analysis of Adrenocortical
+  Tumors.'
+notes: ~
+pmid: 12107267
+title: Comparative Genomic Hybridization Analysis of Adrenocortical Tumors.
+year: 2002

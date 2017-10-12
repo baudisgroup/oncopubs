@@ -1,0 +1,51 @@
+---
+abstract: We examined whole genomic aberrations of biopsied samples from 19 independent
+  glioblastomas by array-based comparative genomic hybridization analysis. The highest
+  frequencies of copy number gains were observed on RFC2 73.3 , EGFR 63.2 , and FGR,
+  ELN, CDKN1C , FES, TOP2A, and ARSA 57.9 each . The highest frequencies of copy number
+  losses were detected on TBR1 52.6 , BMI1 52.6 , EGR2 47.4 , DMBT1 47.4 , MTAP 42.1
+  , and FGFR2 42.1 . The copy number gains of CDKN1C and INS and the copy number losses
+  of TBR1 were significantly correlated with longer survival of patients. High-level
+  amplifications were identified on EGFR, SAS CDK4, PDGFRA, MDM2, and ARSA. These
+  genes are assumed to be involved in tumorigenesis or progression of glioblastomas.
+  The first attempts to apply detrended fluctuation analysis to copy number profiles
+  by considering the reading direction as the time axis demonstrated that higher long-term
+  fractal scaling exponents alpha2 correlated well with longer survival of glioblastoma
+  patients. The present study indicates that array-based comparative genomic hybridization
+  analysis has great potential for assessment of copy number changes and altered chromosomal
+  regions of brain tumors. Furthermore, we show that nonlinear analysis methods of
+  whole genome copy number profiles may provide prognostic information about glioblastoma
+  patients.
+authors: Nakahara Y, Shiraishi T, Okamoto H, Mineta T, Oishi T, Sasaki K and Tabuchi
+  K.
+contact:
+  email: nakahara@post.saga-med.ac.jp
+  name: Yukiko Nakahara
+counts:
+  biosamples: 19
+  samples_acgh: 19
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15494095
+geo_data:
+  geo_json:
+    coordinates:
+    - 133.01
+    - 33.02
+    type: Point
+  info:
+    city: Kuroshio
+    continent: Asia
+    country: Japan
+    label: Kuroshio, Japan, Asia
+    precision: city
+journal: 'Neuro Oncol 6, 4 (2004): 281-89.'
+label: 'Nakahara et al. (2004): Detrended Fluctuation Analysis of Genome-Wide Copy
+  Number Profiles of Glioblastomas Using ...'
+notes: The online supplement does not present case specific data.
+pmid: 15494095
+title: Detrended Fluctuation Analysis of Genome-Wide Copy Number Profiles of Glioblastomas
+  Using Array-Based Comparative Genomic Hybridization.
+year: 2004

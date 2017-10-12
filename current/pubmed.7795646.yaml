@@ -1,0 +1,44 @@
+---
+abstract: Overexpression of amplified genes is often associated with the acquisition
+  of resistance to cancer therapeutic agents in vitro. We have identified a similar
+  molecular mechanism in vivo for endocrine treatment failure in human prostate cancer
+  which involves amplification of the androgen receptor AR gene. Comparative genomic
+  hybridization shows that amplification of the Xq11-q13 region the location , is
+  common in tumours recurring during androgen deprivation therapy. We found high-level
+  AR amplification in seven of 23 30 recurrent tumours, but in none of the specimens
+  taken from the same patients prior to therapy. Our results suggest that AR amplification
+  emerges during androgen deprivation therapy by facilitating tumour cell growth in
+  low androgen concentrations.
+authors: Visakorpi T, Hyytinen E, Koivisto P, Tanner M, Keinanen R, Palmberg C, Palotie
+  A, Tammela T, Isola J and Kallioniemi OP.
+contact:
+  email: tapio.visakorpi@uta.fi
+  name: Tapio Visakorpi
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 39
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:7795646
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Nat Genet 9, 4 (1995): 401-06.'
+label: 'Visakorpi et al. (1995): In Vivo Amplification of the Androgen Receptor Gene
+  and Progression of Human Prostate ...'
+notes: ~
+pmid: 7795646
+title: In Vivo Amplification of the Androgen Receptor Gene and Progression of Human
+  Prostate Cancer.
+year: 1995

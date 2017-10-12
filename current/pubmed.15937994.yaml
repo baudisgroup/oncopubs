@@ -1,0 +1,53 @@
+---
+abstract: Carcinomas are believed to develop by incremental steps of increasingly
+  abnormal morphology driven by accumulating somatic genetic changes. This process
+  is often difficult to study, as the early stages are undetectable. We used fluorescence
+  bronchoscopy, which enhances detection of preinvasive bronchial lesions, and have
+  obtained sequential biopsies of carcinoma in situ CIS from a patient with no detectable
+  tumor and from a squamous cell carcinoma that developed 19 months after presentation
+  at the site of one of the previous CIS lesions. Biopsies of preinvasive CIS, which
+  follow-up showed had different pathologic outcomes, and tumor were microdissected
+  to obtain enriched cell populations and DNA prepared from them. Molecular characteristics
+  of these biopsies were compared by loss of heterozygosity analysis, TP53 mutation
+  analysis, and comparative genomic hybridization. Although all lesions examined had
+  the same TP53 mutation and almost identical allelotypes, differences were observed.
+  Loss in 5q21 and amplification of 3q25-26 were associated with the lesion that progressed
+  and the subsequent carcinoma. Allele loss at 4p16 was detected in the tumor but
+  not in any of the CIS lesions, suggesting it was a late event associated with tumor
+  invasion. Amplification at 4q12 was specifically observed in the tumor and in the
+  CIS at the site of eventual tumor formation. Although these findings may be unique
+  to this one patient, the successful demonstration of sequential genetic changes
+  raises the possibility that this approach, unencumbered by interpatient variability
+  between lesions, will greatly facilitate the identification of molecular events
+  driving the invasive process
+authors: Foster NA, Banerjee AK, Xian J, Roberts I, Pezzella F, Coleman N, Nicholson
+  AG, Goldstraw P, George JP and Rabbitts PH.
+contact:
+  email: p.rabbitts@ucl.ac.uk
+  name: Pamela Rabbitts
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15937994
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 44, 1 (2005): 65-75.'
+label: 'Foster et al. (2005): Somatic Genetic Changes Accompanying Lung Tumor Development.'
+notes: ~
+pmid: 15937994
+title: Somatic Genetic Changes Accompanying Lung Tumor Development.
+year: 2005

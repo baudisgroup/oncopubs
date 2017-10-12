@@ -1,0 +1,40 @@
+---
+abstract: A high-resolution genomic profiling and comprehensive targeted analysis
+  of INI1 SMARCB1 of a large series of pediatric rhabdoid tumors was done. The aim
+  was to identify regions of copy number change and loss of heterozygosity LOH that
+  might pinpoint additional loci involved in the development or progression of rhabdoid
+  tumors and define the spectrum of genomic alterations of INI1 in this malignancy.
+authors: Jackson EM, Sievert AJ, Gai X, Hakonarson H, Judkins AR, Tooke L, Perin JC,
+  Xie H, Shaikh TH and Biegel JA.
+contact:
+  email: ~
+  name: Jacelyn Biegel
+counts:
+  biosamples: 51
+  samples_acgh: 51
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19276269
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Clin Cancer Res 15, 6 (2009): 1923-30.'
+label: 'Jackson et al. (2009): Genomic Analysis Using High-Density Single Nucleotide
+  Polymorphism-Based Oligonucleotide Arrays ...'
+notes: ~
+pmid: 19276269
+title: Genomic Analysis Using High-Density Single Nucleotide Polymorphism-Based Oligonucleotide
+  Arrays and Multiplex Ligation-Dependent Probe Amplification Provides a Comprehensive
+  Analysis of Ini1/Smarcb1 in Malignant Rhabdoid Tumors.
+year: 2009

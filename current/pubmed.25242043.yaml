@@ -1,0 +1,43 @@
+---
+abstract: The casein kinase 1A1 gene (CSNK1A1) is a putative tumor suppressor gene
+  located in the common deleted region for del(5q) myelodysplastic syndrome (MDS).
+  We generated a murine model with conditional inactivation of Csnk1a1 and found that
+  Csnk1a1 haploinsufficiency induces hematopoietic stem cell expansion and a competitive
+  repopulation advantage, whereas homozygous deletion induces hematopoietic stem cell
+  failure. Based on this finding, we found that heterozygous inactivation of Csnk1a1
+  sensitizes cells to a CSNK1 inhibitor relative to cells with two intact alleles.
+  In addition, we identified recurrent somatic mutations in CSNK1A1 on the nondeleted
+  allele of patients with del(5q) MDS. These studies demonstrate that CSNK1A1 plays
+  a central role in the biology of del(5q) MDS and is a promising therapeutic target.
+authors: Schneider RK, Ademï¿½ V, Heckl D, Jï¿½rï¿½s M, Mallo M, Lord AM, Chu LP,
+  McConkey ME, Kramann R, Mullally A, Bejar R, Solï¿½ F, Ebert BL.
+contact:
+  email: vera.adema@gmail.com
+  name: Vera Adema
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25242043
+- geo:GSE59244
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.25
+    - 41.45
+    type: Point
+  info:
+    city: Badalona
+    continent: Europe
+    country: Spain
+    label: Badalona, Spain, Europe
+    precision: city
+journal: Cancer Cell 26(4), 2014
+label: ' (2014): '
+notes: ~
+pmid: 25242043
+title: Role of casein kinase 1A1 in the biology and targeted therapy of del(5q) MDS.
+year: 2014

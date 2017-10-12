@@ -1,0 +1,40 @@
+---
+abstract: Transforming growth factor-beta TGF-beta is a potent growth inhibitor in
+  a wide range of cell types. A transducer of TGF-beta signaling known as Mothers
+  against decapentaplegic homologue 4 Smad4 is a known tumor suppressor found on chromosome
+  18q21.1 and is typically inactivated by deletion or mutation in pancreatic and colorectal
+  cancers. The purpose of the article is to investigate Smad4 expression, gene copy
+  number and methylation status in advanced cases of prostate cancer.
+authors: Aitchison AA, Veerakumarasivam A, Vias M, Kumar R, Hamdy FC, Neal DE, and
+  Mills IG.
+contact:
+  email: ian.mills@cancer.org.uk
+  name: Ian Mills
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18213629
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: Prostate, 2008.
+label: 'Aitchison et al. (2008): Promoter methylation correlates with reduced Smad4
+  expression in advanced prostate ...'
+notes: The data was reported in PMID 17394638.
+pmid: 18213629
+title: Promoter methylation correlates with reduced Smad4 expression in advanced prostate
+  cancer.
+year: 2008

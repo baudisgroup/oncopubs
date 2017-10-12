@@ -1,0 +1,53 @@
+---
+abstract: 'It is widely believed that most human tumors, including esophageal squamous
+  cell carcinoma ESCC , arise through multistep genetic and cytogenetic alterations.
+  The time sequence of these alterations, however, is still unknown. The present study
+  was designed to differentiate common early changes from uncommon later ones with
+  combined comparative genomic hybridization CGH and ploidy analyses in multiple or
+  single samples of 12 ESCCs. We first demonstrated that the mean copy numbers of
+  chromosomes 3 and 11, determined directly by fluorescence in situ hybridization,
+  showed linear correlation with the mean copy numbers calculated from the G R ratio
+  of CGH and DNA ploidy R 2 0.714, P amp lt 0.0001 . On this basis, we estimated the
+  absolute copy numbers of chromosomal parts by applying the ploidy-dependent threshold
+  criteria to the G R ratio data after the criteria were corrected by the percentage
+  of tumor cells in each sample. One-copy changes in the DNA-diploid stage may give
+  large shifts of the G R ratio, even after tetraploidization, whereas those after
+  tetraploidization undergo small shift. Using the tumors with multiple samples, it
+  was actually demonstrated that most of the gains common to the samples in individual
+  tumors showed the large shifts. Though early changes varied from tumor to tumor
+  in the nine informative cases, it was found that gains of 3q 5 7: number of cases
+  with large-shift 3q total number of cases with 3q , 8q 3 4 , 11q13 4 5 , and 14q
+  3 4 were early events, while losses of 3p 2 8 , 5q 1 5 , 13q 1 5 , and 21q 1 5 ,
+  and gains of 1p 1 4 and Xq 1 4 were later events in progression of individual tumors.'
+authors: Shiomi H, Sugihara H, Kamitani S, Tokugawa T, Tsubosa Y, Okada K, Tamura
+  H, Tani T, Kodama M and Hattori T.
+contact:
+  email: shiomi@belle.shiga-med.ac.jp
+  name: H. Shiomi
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14580771
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.87
+    - 35
+    type: Point
+  info:
+    city: Otsu-shi
+    continent: Asia
+    country: Japan
+    label: Otsu-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 147, 1 (2003): 50-61.'
+label: 'Shiomi et al. (2003): Cytogenetic Heterogeneity and Progression of Esophageal
+  Squamous Cell Carcinoma.'
+notes: ~
+pmid: 14580771
+title: Cytogenetic Heterogeneity and Progression of Esophageal Squamous Cell Carcinoma.
+year: 2003

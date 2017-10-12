@@ -1,0 +1,54 @@
+---
+abstract: To identify novel glioma-associated pathomechanisms and molecular markers,
+  we performed an array-based comparative genomic hybridization analysis of 131 diffuse
+  astrocytic gliomas, including 87 primary glioblastomas pGBIV , 13 secondary glioblastomas
+  sGBIV , 19 anaplastic astrocytomas AAIII and 12 diffuse astrocytomas AII . All tumors
+  were additionally screened for IDH1 and IDH2 mutations. Expression profiling was
+  performed for 74 tumors 42 pGBIV, 11 sGBIV, 13 AAIII, 8 AII . Unsupervised and supervised
+  bioinformatic analyses revealed distinct genomic and expression profiles separating
+  pGBIV from the other entities. Classifier expression signatures were strongly associated
+  with the IDH1 gene mutation status. Within pGBIV, the rare subtype of IDH1 mutant
+  tumors shared expression profiles with IDH1 mutant sGBIV and was associated with
+  longer overall survival compared with IDH1 wild-type tumors. In patients with IDH1
+  wild-type pGBIV, PDGFRA gain or amplification as well as 19q gain were associated
+  with patient outcome. Array-CGH analysis additionally revealed homozygous deletions
+  of the FGFR2 gene at 10q26.13 in 2 pGBIV, with reduced FGFR2 mRNA levels being frequent
+  in pGBIV and linked to poor outcome. In conclusion, we report that diffuse astrocytic
+  gliomas can be separated into 2 major molecular groups with distinct genomic and
+  mRNA profiles as well as IDH1 gene mutation status. In addition, our results suggest
+  FGFR2 as a novel glioma-associated candidate tumor suppressor gene on the long arm
+  of chromosome 10.
+authors: Toedt G, Barbus S, Wolter M, Felsberg J, Tews B, Blond F, Sabel MC, Hofmann
+  S, Becker N, Hartmann C, Ohgaki H, von Deimling A, Wiestler OD, Hahn M, Lichter
+  P, Reifenberger G and Radlwimmer B.
+contact:
+  email: b.radlwimmer@dkfz-heidelberg.de
+  name: Bernhard Radlwimmer
+counts:
+  biosamples: 131
+  samples_acgh: 131
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20473936
+- geo:GSE15698510
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 128, 5 (2011): 1095-103.'
+label: 'Toedt et al. (2011): Molecular Signatures Classify Astrocytic Gliomas By Idh1
+  Mutation Status.'
+notes: ~
+pmid: 20473936
+title: Molecular Signatures Classify Astrocytic Gliomas By Idh1 Mutation Status.
+year: 2011

@@ -1,0 +1,47 @@
+---
+abstract: Comparative genomic hybridization CGH was applied to screen the genetic
+  events in six invasive urinary bladder cancers. These cases were also studied by
+  flow cytometry FCM and fluorescence in situ hybridization FISH . Four samples showed
+  partial gain on chromosome 8, with the common region involved was on 8q23-qter.
+  Full or partial deletion on chromosome 2 and 17p in addition to gain on 20q was
+  found in two cases. Interestingly one diploid tumor with low mitotic index, stage
+  and grade showed more genetic aberrations 8 gains and 7 losses by CGH than other
+  aneuploid tumors with high mitotic index, stage and grade. The numerical chromosomal
+  aberration detected by FISH for chromosomes 7, 8, 9, 10, 11 and 17 were 50 in T1
+  cases and 100 in T2-T4 cases. FISH was performed on chromosome 8q and 17p to compare
+  and validate the sensitivity of CGH. The agreement was 100 for 8q24 locus and 50
+  for p53 locus. This indicates that different molecular genetic techniques showed
+  relatively different aspect of genomic aberrations.
+authors: Mahdy E, Yoshihiro S, Zech L, Wester K, Pan Y, Busch C, Dohner H, Kallioniemi
+  O, Bergerheim U and Malmstrom PU.
+contact:
+  email: Per-Uno.Malmstrom@kirurgi.uu.se
+  name: Per-Uno Malmstrom
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10226518
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.64
+    - 59.86
+    type: Point
+  info:
+    city: Uppsala
+    continent: Europe
+    country: Sweden
+    label: Uppsala, Sweden, Europe
+    precision: city
+journal: 'Anticancer Res 19, 1A (1999): 7-12.'
+label: 'Mahdy et al. (1999): Comparison of Comparative Genomic Hybridization, Fluorescence
+  in Situ Hybridization and Flow ...'
+notes: ~
+pmid: 10226518
+title: Comparison of Comparative Genomic Hybridization, Fluorescence in Situ Hybridization
+  and Flow Cytometry in Urinary Bladder Cancer.
+year: 1999

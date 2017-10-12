@@ -1,0 +1,46 @@
+---
+abstract: In this study, we investigated the mechanism s of altered expression of
+  protooncogene SKP2 in metastatic melanoma and its clinical relevance in patients
+  with metastatic melanoma. The genomic status of SKP2 was assessed in cell lines
+  by sequencing, single nucleotide polymorphism array, and genomic PCR. Copy number
+  status was then evaluated for concordance with SKP2 mRNA and protein expression.
+  SKP2 protein was further evaluated by immunohistochemistry in 93 human metastatic
+  tissues. No mutations were identified in SKP2. Increased copy number at the SKP2
+  locus was observed in 6 14 43 metastatic cell lines and in 9 22 41 human metastatic
+  tissues which was associated with overexpression of SKP2 protein. Overexpression
+  of SKP2 protein in human tissues was associated with worse survival in a multivariate
+  model controlling for the site of metastasis. Copy number gain is a major contributing
+  mechanism of SKP2 overexpression in metastatic melanoma. Results may have implications
+  for the development of therapeutics that target SKP2.
+authors: Rose AE, Wang G, Hanniford D, Monni S, Tu T, Shapiro RL, Berman RS, Pavlick
+  AC, Pagano M, Darvishian F, Mazumdar M, Hernando E and Osman I.
+contact:
+  email: ~
+  name: Iman Osman
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20883453
+- geo:GSE22305
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Pigment Cell Melanoma Res 24, 1 (2011): 197-206.'
+label: 'Rose et al. (2011): Clinical Relevance of Skp2 Alterations in Metastatic Melanoma.'
+notes: ~
+pmid: 20883453
+title: Clinical Relevance of Skp2 Alterations in Metastatic Melanoma.
+year: 2011

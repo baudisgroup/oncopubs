@@ -1,0 +1,47 @@
+---
+abstract: 'Small cell carcinomas SCCs represent a rare histological subtype of urinary
+  bladder cancer. Little is known abut the genetic alterations in these tumours. To
+  identify chromosomal aberrations that are typically present in SCC of the urinary
+  bladder, ten tumours were analysed by comparative genomic hybridization CGH . CGH
+  allows screening for all relative DNA copy number gains and losses present in a
+  tumour. SCCs of the bladder were characterized by a high number of genomic alterations
+  mean: 11.3 per tumour . Deletions were most frequent at 10q 7 of 10 tumours deleted
+  , 4q, 5q 5 10 each , and 13q 4 10 . These regions may carry tumour suppressor genes
+  with relevance for this particular tumour type. Gains of DNA sequences were most
+  prevalent at 8q 5 10 , 5p, 6p, and 20q 4 10 each . High level amplifications were
+  found at 1p22-32, 3q26.3, 8q24, and 12q14-21. These loci may pinpoint the localization
+  of oncogenes with relevance for small cell bladder cancer. The analysis of one tumour
+  having areas of both SCC and transitional cell carcinoma strongly suggests that
+  SCC can develop from TCC through the acquisition of additional genetic alterations.'
+authors: Terracciano L, Richter J, Tornillo L, Beffa L, Diener PA, Maurer R, Gasser
+  TC, Moch H, Mihatsch MJ and Sauter G.
+contact:
+  email: lterracciano@uhbs.ch
+  name: Luigi M. Terraciano
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10547580
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'J Pathol 189, 2 (1999): 230-35.'
+label: 'Terracciano et al. (1999): Chromosomal Imbalances in Small Cell Carcinomas
+  of the Urinary Bladder.'
+notes: ~
+pmid: 10547580
+title: Chromosomal Imbalances in Small Cell Carcinomas of the Urinary Bladder.
+year: 1999

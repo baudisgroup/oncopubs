@@ -1,0 +1,44 @@
+---
+abstract: MYCN amplification and overexpression are common in neuroendocrine prostate
+  cancer (NEPC). However, the impact of aberrant N-Myc expression in prostate tumorigenesis
+  and the cellular origin of NEPC have not been established. We define N-Myc and activated
+  AKT1 as oncogenic components sufficient to transform human prostate epithelial cells
+  to prostate adenocarcinoma and NEPC with phenotypic and molecular features of aggressive,
+  late-stage human disease. We directly show that prostate adenocarcinoma and NEPC
+  can arise from a common epithelial clone. Further, N-Myc is required for tumor maintenance,
+  and destabilization of N-Myc through Aurora A kinase inhibition reduces tumor burden.
+  Our findings establish N-Myc as a driver of NEPC and a target for therapeutic intervention.
+authors: Lee JK, Phillips JW, Smith BA, Park JW, Stoyanova T, McCaffrey EF, Baertsch
+  R, Sokolov A, Meyerowitz JG, Mathis C, Cheng D, Stuart JM, Shokat KM, Gustafson
+  WC, Huang J, Witte ON.
+contact:
+  email: ~
+  name: John Lee
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27050099
+- geo:GSE77368
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: Cancer Cell 29(4), 2016
+label: ' (2016): '
+notes: ~
+pmid: 27050099
+title: N-Myc Drives Neuroendocrine Prostate Cancer Initiated from Human Prostate Epithelial
+  Cells.
+year: 2016

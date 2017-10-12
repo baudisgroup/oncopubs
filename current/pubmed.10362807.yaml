@@ -1,0 +1,50 @@
+---
+abstract: Ulcerative colitis UC is a chronic inflammatory disease of the colon associated
+  with a high risk of colorectal cancer. This increased cancer risk is thought to
+  result from the cellular damage induced by the inflammatory field. The aim of this
+  study was to determine the pattern and time course of genomic instability occurring
+  in UC-related neoplasia. Sites of cancer, dysplasia, and nondysplasia from 14 UC
+  colectomy cases containing cancer were analyzed for chromosomal alterations by comparative
+  genomic hybridization CGH and for microsatellite instability using a series of 10
+  microsatellite markers. Clonal chromosomal alterations were present in 85 of cancer
+  sites, 86 of dysplasia sites, and 36 of nondysplasia sites. Losses of chromosome
+  18 or 18q and chromosome 5 or 5q were common in cancer and dysplasia and were occasionally
+  detected in nondysplasia. High-level microsatellite instability was detected in
+  the cancer and dysplasia of two cases. Samples that demonstrated high-level microsatellite
+  instability were unlikely to have chromosomal alterations demonstrable by CGH. These
+  studies suggest that the predominant type of genomic instability in UC-related neoplasia
+  is associated with chromosomal alterations and that this type of genomic instability
+  frequently occurs before the development of histologically defined dysplasia.
+authors: Willenbucher RF, Aust DE, Chang CG, Zelman SJ, Ferrell LD, Moore DH 2nd and
+  Waldman FM.
+contact:
+  email: waldman@cc.ucsf.edu
+  name: Frederic M. Waldman
+counts:
+  biosamples: 41
+  samples_acgh: 0
+  samples_ccgh: 41
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10362807
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Am J Pathol 154, 6 (1999): 1825-30.'
+label: 'Willenbucher et al. (1999): Genomic Instability is an Early Event During the
+  Progression Pathway of Ulcerative-Colitis-Related Neoplasia.'
+notes: ~
+pmid: 10362807
+title: Genomic Instability is an Early Event During the Progression Pathway of Ulcerative-Colitis-Related
+  Neoplasia.
+year: 1999

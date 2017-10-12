@@ -1,0 +1,52 @@
+---
+abstract: Colorectal carcinomas are characterized by frequent recurrent gains and
+  losses of chromosomal material, especially gains of chromosome arms 20q and 13q,
+  and losses of chromosome arms 18q and 4q. These may be important in the development
+  and progression of colorectal carcinomas. Chromosomal aberrations detected by comparative
+  genomic hybridization in 67 sporadic colorectal carcinomas were examined for their
+  possible associations with patient survival. Dukes stage, tumor DNA ploidy status,
+  and TP53 genotype phenotype were also examined for the same. Patients with losses
+  of chromosomal arms 1p, 4q, 8p, 14q, or 18q or gain of chromosomal arm 20q had significantly
+  shorter survival times than those without these aberrations univariate relative
+  risk 3.45, 2.71, 3.32, 3.26, 3.32, 3.91, respectively , as did patients with more
+  than six chromosomal aberrations per tumor than those with fewer than six aberrations
+  univariate relative risk 3.26, P 0.013 . DNA aneuploidy and Dukes stage C D resulted
+  in poor patient survival univariate relative risk 3.58, 3.39, respectively . Dukes
+  stage C D, 1p loss and 8p loss emerged as the only independent prognostic parameters
+  relative risk 3.22, 2.53, 2.45, respectively when entered into multivariate survival
+  analysis together with other significant parameters from univariate survival analysis.
+  Loss of chromosome arm 1p, 4q, 8p, 14q, or 18q or gain of chromosome arm 20q thus
+  results in shortened survival times in colorectal cancer patients. 1p loss and 8p
+  loss were shown to be independent predictors of poor prognosis.
+authors: De Angelis PM, Stokke T, Beigi M, Mjaland O and Clausen OP.
+contact:
+  email: a.p.de@labmed.uio.no
+  name: Paula M. De Angelis
+counts:
+  biosamples: 67
+  samples_acgh: 0
+  samples_ccgh: 67
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11317696
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Int J Colorectal Dis 16, 1 (2001): 38-45.'
+label: 'De Angelis et al. (2001): Prognostic Significance of Recurrent Chromosomal
+  Aberrations Detected By Comparative Genomic ...'
+notes: ~
+pmid: 11317696
+title: Prognostic Significance of Recurrent Chromosomal Aberrations Detected By Comparative
+  Genomic Hybridization in Sporadic Colorectal Cancer.
+year: 2001

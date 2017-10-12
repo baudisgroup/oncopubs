@@ -1,0 +1,53 @@
+---
+abstract: DNA amplifications, leading to the overexpression of oncogenes, are a cardinal
+  feature of lung cancer and directly contribute to its pathogenesis. To uncover such
+  novel alterations, we performed an array-based comparative genomic hybridization
+  survey of 128 non-small-cell lung cancer cell lines and tumors. Prominent among
+  our findings, we identified recurrent high-level amplification at cytoband 22q11.21
+  in 3 of lung cancer specimens, with another 11 of specimens exhibiting low-level
+  gain spanning that locus. The 22q11.21 amplicon core contained eight named genes,
+  only four of which were overexpressed by transcript profiling when amplified. Among
+  these, CRKL encodes an adapter protein functioning in signal transduction, best
+  known as a substrate of the BCR-ABL kinase in chronic myelogenous leukemia. RNA-interference-mediated
+  knockdown of CRKL in lung cancer cell lines with but not without amplification led
+  to significantly decreased cell proliferation, cell-cycle progression, cell survival,
+  and cell motility and invasion. In addition, overexpression of CRKL in immortalized
+  human bronchial epithelial cells led to enhanced growth factor-independent cell
+  growth. Our findings indicate that amplification and resultant overexpression of
+  CRKL contribute to diverse oncogenic phenotypes in lung cancer, with implications
+  for targeted therapy, and highlight a role of adapter proteins as primary genetic
+  drivers of tumorigenesis.
+authors: Kim YH, Kwei KA, Girard L, Salari K, Kao J, Pacyna-Gengelbach M, Wang P,
+  Hernandez-Boussard T, Gazdar AF, Petersen I, Minna JD and Pollack JR.
+contact:
+  email: ~
+  name: JR Pollack
+counts:
+  biosamples: 128
+  samples_acgh: 128
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19966867
+- geo:GSE9995
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: 'Oncogene 29, 10 (2010): 1421-30.'
+label: 'Kim et al. (2010): Genomic and Functional Analysis Identifies Crkl as an Oncogene
+  Amplified in Lung Cancer.'
+notes: ~
+pmid: 19966867
+title: Genomic and Functional Analysis Identifies Crkl as an Oncogene Amplified in
+  Lung Cancer.
+year: 2010

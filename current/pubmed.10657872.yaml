@@ -1,0 +1,36 @@
+---
+abstract: Clear cell sarcoma of the kidney CCSK is a rare malignant pediatric tumor,
+  distinguished from the Wilms tumor by its characteristic histologic features and
+  a more aggressive clinical behavior with a tendency to metastasize to bone. Genetic
+  studies on CCSK are limited and no consistent findings have been reported.
+authors: Barnard M, Bayani J, Grant R, Zielenska M, Squire J and Thorner P.
+contact:
+  email: thorner@sickkids.on.ca
+  name: P. Thorner
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10657872
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Med Pediatr Oncol 34, 2 (2000): 113-16.'
+label: 'Barnard et al. (2000): Comparative Genomic Hybridization Analysis of Clear
+  Cell Sarcoma of the Kidney.'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 10657872
+title: Comparative Genomic Hybridization Analysis of Clear Cell Sarcoma of the Kidney.
+year: 2000

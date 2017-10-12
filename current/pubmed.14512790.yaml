@@ -1,0 +1,53 @@
+---
+abstract: 'Comparative genomic hybridization was used to map copy number abnormalities
+  in 48 short-term cell cultures established from different stages and types of human
+  melanoma. A variety of random and non-random chromosomal alterations were detected,
+  with gains within chromosomes 20q, 7q, 7p, 20p, 6p and 17q and losses in 9p, 10q,
+  6q, 10p, 4q, and 11q being the most common observations. In addition, several other
+  chromosomal loci were over- or under-represented in subgroups of melanomas. For
+  example, sequences on 3q26 were over-represented in 33 and on 5p15.33 in 27 of cell
+  cultures, reaching the level of amplification in 12 and 22 , respectively. These
+  regions harbour the two essential genes for the enzyme telomerase: the telomerase
+  reverse transcriptase gene hTERT on 5p15.33 and the telomerase RNA component gene
+  hTERC on 3q26. Using fluorescence in situ hybridization and Southern blot analysis,
+  both genes were shown to be over-represented or amplified in several melanomas.
+  Interestingly, hTERT amplification was abundant in superficial spreading primary
+  melanomas, subcutaneous metastases and malignant effusion-derived cells, but completely
+  absent or very rare in primary nodular melanomas as well as brain, bone and lymph
+  node metastases. Several chromosomes or chromosomal regions harbouring telomerase-suppressing
+  activities 3p, 4, 6 and 10p were frequently under-represented in melanomas. Our
+  data suggest that genetic alterations at several chromosomal loci might facilitate
+  activation of telomerase during the development of cutaneous malignant melanoma.'
+authors: Pirker C, Holzmann K, Spiegl-Kreinecker S, Elbling L, Thallinger C, Pehamberger
+  H, Micksche M and Berger W.
+contact:
+  email: walter.berger@univie.ac.at
+  name: Walter Berger
+counts:
+  biosamples: 48
+  samples_acgh: 0
+  samples_ccgh: 48
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14512790
+geo_data:
+  geo_json:
+    coordinates:
+    - 16.37
+    - 48.21
+    type: Point
+  info:
+    city: Vienna
+    continent: Europe
+    country: Austria
+    label: Vienna, Austria, Europe
+    precision: city
+journal: 'Melanoma Res 13, 5 (2003): 483-92.'
+label: 'Pirker et al. (2003): Chromosomal Imbalances in Primary and Metastatic Melanomas:
+  Over-Representation of Essential ...'
+notes: ~
+pmid: 14512790
+title: 'Chromosomal Imbalances in Primary and Metastatic Melanomas: Over-Representation
+  of Essential Telomerase Genes.'
+year: 2003

@@ -1,0 +1,52 @@
+---
+abstract: 'We evaluated the WT1 and IGF2 status and performed chromosome and or comparative
+  genomic hybridization analysis in 43 tumor samples from patients with Wilms tumor.
+  On this basis, we classified them into 4 groups: WT1 abnormality, loss of heterozygosity
+  LOH of IGF2, loss of imprinting LOI of IGF2, and retention of imprinting ROI of
+  IGF2, which were seen in 12 , 30 , 16 , and 42 of the tumors, respectively. Patients
+  in the LOI group were older than those in other groups P amp lt 0.01 , and tumors
+  in the WT1 group had fewer cytogenetic changes than did those in the other groups
+  P amp lt 0.01 . It was found that 11q- and 12 were more frequent in the LOI group
+  than in the WT1 LOH ROI group P amp lt 0.01 and P amp lt 0.01 . There was no difference
+  in the incidence of 16q- between the LOI group and the other groups however, when
+  we excluded 16 tumors with LOH on 11p15, 16q- tended to be more frequent in the
+  LOI group than in the WT1 ROI group P 0.06 . The association of 11q- or 12 with
+  LOI of IGF2 found in the present study suggests that many tumors with no WT1 abnormalities
+  need overexpression of IGF2 together with biallelic inactivation of the tumor-suppressor
+  gene on 11q and or overexpression of growth-promoting genes on chromosome 12. The
+  11q gene may code for one of the proteins that constitute a CTCF insulator complex,
+  and its mutation, deletion, or haploinsufficiency may cause insulator abnormalities
+  that might lead to LOI of IGF2.'
+authors: Watanabe N, Nakadate H, Haruta M, Sugawara W, Sasaki F, Tsunematsu Y, Kikuta
+  A, Fukuzawa M, Okita H, Hata J, Soejima H and Kaneko Y.
+contact:
+  email: kaneko@cancer-c.pref.saitama.jp
+  name: Yasuhiko Kaneko
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16518847
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.66
+    - 35.91
+    type: Point
+  info:
+    city: Saitama
+    continent: Asia
+    country: Japan
+    label: Saitama, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 45, 6 (2006): 592-601.'
+label: 'Watanabe et al. (2006): Association of 11q Loss, Trisomy 12, and Possible
+  16q Loss With Loss of Imprinting of ...'
+notes: ~
+pmid: 16518847
+title: Association of 11q Loss, Trisomy 12, and Possible 16q Loss With Loss of Imprinting
+  of Insulin-Like Growth Factor-Ii in Wilms Tumor.
+year: 2006

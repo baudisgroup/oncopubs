@@ -1,0 +1,42 @@
+---
+abstract: To improve the clinical outcome of patients with gastric cancer, intensified
+  combination strategies are currently in clinical development, including combinations
+  of more extensive surgery, neo adjuvant chemotherapy, and radiotherapy. The present
+  study used DNA copy number profiling to identify subgroups of patients with different
+  clinical outcomes. We hypothesize that, by identification of subgroups, individual
+  treatment strategies can be selected to improve clinical outcome and to reduce unnecessary
+  treatment toxicity for patients with gastric cancer.
+authors: Buffart TE, Carvalho B, van Grieken NC, van Wieringen WN, Tijssen M, Kranenbarg
+  EM, Verheul HM, Grabsch HI, Ylstra B, van de Velde CJ and Meijer GA.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 206
+  samples_acgh: 206
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22531355
+- geo:GSE26389
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Oncologist (2012)
+label: 'Buffart et al. (2012): Losses of Chromosome 5q and 14q Are Associated With
+  Favorable Clinical Outcome of Patients With ...'
+notes: ~
+pmid: 22531355
+title: Losses of Chromosome 5q and 14q Are Associated With Favorable Clinical Outcome
+  of Patients With Gastric Cancer.
+year: 2012

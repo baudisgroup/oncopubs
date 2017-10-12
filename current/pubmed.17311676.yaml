@@ -1,0 +1,44 @@
+---
+abstract: Cervical carcinoma develops as a result of multiple genetic alterations.
+  Different studies investigated genomic alterations in cervical cancer mainly by
+  means of metaphase comparative genomic hybridization mCGH and microsatellite marker
+  analysis for the detection of loss of heterozygosity LOH . Currently, high throughput
+  methods such as array comparative genomic hybridization array CGH , single nucleotide
+  polymorphism array SNP array and gene expression arrays are available to study genome-wide
+  alterations. Integration of these 3 platforms allows detection of genomic alterations
+  at high resolution and investigation of an association between copy number changes
+  and expression.
+authors: Kloth JN, Oosting J, van Wezel T, Szuhai K, Knijnenburg J, Gorter A, Kenter
+  GG, Fleuren GJ and Jordanova ES.
+contact:
+  email: J.N.Kloth@lumc.nl
+  name: J. N. Kloth
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17311676
+- geo:GSE8605
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: 'BMC Genomics 8 (2007): 53.'
+label: 'Kloth et al. (2007): Combined Array-Comparative Genomic Hybridization and
+  Single-Nucleotide Polymorphism-Loss of ...'
+notes: ~
+pmid: 17311676
+title: Combined Array-Comparative Genomic Hybridization and Single-Nucleotide Polymorphism-Loss
+  of Heterozygosity Analysis Reveals Complex Genetic Alterations in Cervical Cancer.
+year: 2007

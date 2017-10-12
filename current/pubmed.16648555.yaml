@@ -1,0 +1,58 @@
+---
+abstract: Chromosome rearrangement, a hallmark of cancer, has profound effects on
+  carcinogenesis and tumor phenotype. We used a panel of 60 human cancer cell lines
+  the NCI-60 as a model system to identify relationships among DNA copy number, mRNA
+  expression level, and drug sensitivity. For each of 64 cancer-relevant genes, we
+  calculated all 4,096 possible Pearsons correlation coefficients relating DNA copy
+  number assessed by comparative genomic hybridization using bacterial artificial
+  chromosome microarrays and mRNA expression level determined using both cDNA and
+  Affymetrix oligonucleotide microarrays . The analysis identified an association
+  of ERBB2 overexpression with 3p copy number, a finding supported by data from human
+  tumors and a mouse model of ERBB2-induced carcinogenesis. When we examined the correlation
+  between DNA copy number for all 353 unique loci on the bacterial artificial chromosome
+  microarray and drug sensitivity for 118 drugs with putatively known mechanisms of
+  action, we found a striking negative correlation -0.983 95 bootstrap confidence
+  interval, -0.999 to -0.899 between activity of the enzyme drug L-asparaginase and
+  DNA copy number of genes near asparagine synthetase in the ovarian cancer cells.
+  Previous analysis of drug sensitivity and mRNA expression had suggested an inverse
+  relationship between mRNA levels of asparagine synthetase and L-asparaginase sensitivity
+  in the NCI-60. The concordance of pharmacogenomic findings at the DNA and mRNA levels
+  strongly suggests further study of L-asparaginase for possible treatment of a low-synthetase
+  subset of clinical ovarian cancers. The DNA copy number database presented here
+  will enable other investigators to explore DNA transcript-drug relationships in
+  their own domains of research focus.
+authors: Bussey KJ, Chin K, Lababidi S, Reimers M, Reinhold WC, Kuo WL, Gwadry F,
+  Ajay, Kouros-Mehr H, Fridlyand J, Jain A, Collins C, Nishizuka S, Tonon G, Roschke
+  A, Gehlhaus K, Kirsch I, Scudiero DA, Gray JW and Weinstein JN.
+contact:
+  email: weinstein@dtpax2.ncifcrf.gov
+  name: John N. Weinstein
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16648555
+- arrayexpress:E-TABM-65
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Mol Cancer Ther 5, 4 (2006): 853-67.'
+label: 'Bussey et al. (2006): Integrating Data on DNA Copy Number With Gene Expression
+  Levels and Drug Sensitivities in the ...'
+notes: ~
+pmid: 16648555
+title: Integrating Data on DNA Copy Number With Gene Expression Levels and Drug Sensitivities
+  in the Nci-60 Cell Line Panel.
+year: 2006

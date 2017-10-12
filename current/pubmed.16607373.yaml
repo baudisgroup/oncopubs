@@ -1,0 +1,56 @@
+---
+abstract: 'The limited information available to date regarding the genetic alterations
+  in germ cell tumors of the central nervous system has raised concerns about their
+  biologic relationship to other germ cell tumor entities. We investigated fresh-frozen
+  or archival tumor samples from 19 patients with central nervous system germ cell
+  tumors CNS-GCTs , including seven germinomas, eight malignant nongerminomatous germ
+  cell tumors and four teratomas, using chromosomal comparative genomic hybridization
+  to determine recurrent chromosomal imbalances. All 15 malignant CNS-GCTs and two
+  of four teratomas showed multiple chromosomal imbalances. Chromosomal gains median:
+  4 gains tumor, range: 0-9 gains tumor were observed more frequently than losses
+  median: 1.6 losses tumor, range: 0-6 losses tumor . Gain of 12p, which is considered
+  characteristic for germ cell tumors of the adult testis, was detected in 11 of 19
+  tumors and 10 of 15 malignant CNS-GCTs. In one tumor, gain of 12p was confined to
+  an amplicon at 12p12, corresponding to the commonly amplified region on 12p. Other
+  common gains were found on chromosome arms 1q and 8q n 9, each . Among the chromosomal
+  losses, parts of chromosome 11 n 5 , 18 n 4 , and 13 n 3 were deleted most frequently.
+  Notably, we observed no difference in the genetic profiles of germinomatous and
+  nongerminomatous CNS-GCTs however, the average number of imbalances was higher in
+  the latter group. A meta-analysis comparing 116 malignant gonadal and extragonadal
+  germ cell tumors revealed that the genomic alterations in CNS-GCTs are virtually
+  indistinguishable from those found in their gonadal or other extragonadal counterparts
+  of the corresponding age group. These data strongly argue in favor of common pathogenetic
+  mechanisms in gonadal and extragonadal germ cell tumors.'
+authors: Schneider DT, Zahn S, Sievers S, Alemazkour K, Reifenberger G, Wiestler OD,
+  Calaminus G, Gobel U and Perlman EJ.
+contact:
+  email: dominik.schneider@uni-duesseldorf.de
+  name: Dominik T. Schneider
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16607373
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.78
+    - 51.22
+    type: Point
+  info:
+    city: Dusseldorf
+    continent: Europe
+    country: Germany
+    label: Dusseldorf, Germany, Europe
+    precision: city
+journal: 'Mod Pathol 19, 6 (2006): 864-73.'
+label: 'Schneider et al. (2006): Molecular Genetic Analysis of Central Nervous System
+  Germ Cell Tumors With Comparative Genomic ...'
+notes: ~
+pmid: 16607373
+title: Molecular Genetic Analysis of Central Nervous System Germ Cell Tumors With
+  Comparative Genomic Hybridization.
+year: 2006

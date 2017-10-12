@@ -1,0 +1,55 @@
+---
+abstract: Osteosarcoma is the most common primary malignancy of bone. The tumours
+  are characterized by high genomic instability, including the occurrence of multiple
+  regions of amplifications and deletions. Chromosome region 17p11.2-p12 is amplified
+  in about 25% of cases. In previous studies, COPS3 and PMP22 have been identified
+  as candidate oncogenes in this region. Considering the complexity and variation
+  of the amplification profiles for this segment, the involvement of additional causative
+  oncogenes is to be expected. The aim of the present investigation is to identify
+  novel candidate oncogenes in 17p11.2-p12. We selected 26 of in total 85 osteosarcoma
+  samples (31%) with amplification events in 17p11.2-p12, using quantitative PCR for
+  8 marker genes. These were subjected to high-resolution SNP array analysis and subsequent
+  GISTIC analysis to identify the most significantly amplified regions. Two major
+  amplification peaks were found in the 17p11.2-p12 region. Overexpression as a consequence
+  of gene amplification is a major mechanism for oncogene activation in tumours. Therefore,
+  to identify the causative oncogenes, we next determined expression levels of all
+  genes within the two segments using expression array data that could be generated
+  for 20 of the selected samples. We identified 11 genes that were overexpressed through
+  amplification in at least 50% of cases. Nine of these, c17orf39, RICH2, c17orf45,
+  TOP3A, COPS3, SHMT1, PRPSAP2, PMP22, and RASD1, demonstrated a significant association
+  between copy number and expression level. We conclude that these genes, including
+  COPS3 and PMP22, are candidate oncogenes in 17p11.2-p12 of importance in osteosarcoma
+  tumourigenesis.
+authors: Both J, Wu T, Bras J, Schaap GR, Baas F and Hulsebos TJ
+contact:
+  email: t.j.hulsebos@amc.uva.nl
+  name: ~
+counts:
+  biosamples: 0
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22292074
+- geo:GSE32964
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: PLoS ONE 7(1), 2012
+label: 'Both J et al. (2012): '
+notes: whole genome high-resolution SNP array analysis using Illumina HumanCNV370-Quad
+  BeadChips
+pmid: 22292074
+title: Identification of novel candidate oncogenes in chromosome region 17p11.2-p12
+  in human osteosarcoma.
+year: 2012

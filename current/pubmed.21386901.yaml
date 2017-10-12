@@ -1,0 +1,52 @@
+---
+abstract: Identifying oral cancer lesions associated with high risk of relapse and
+  predicting clinical outcome remain challenging questions in clinical practice. Genomic
+  alterations may add prognostic information and indicate biological aggressiveness
+  thereby emphasizing the need for genome-wide profiling of oral cancers. High-resolution
+  array comparative genomic hybridization was performed to delineate the genomic alterations
+  in clinically annotated primary gingivo-buccal complex and tongue cancers n  60
+  . The specific genomic alterations so identified were evaluated for their potential
+  clinical relevance. Copy-number changes were observed on chromosomal arms with most
+  frequent gains on 3q 60 , 5p 50 , 7p 50 , 8q 73 , 11q13 47 , 14q11.2 47 , and 19p13.3
+  58 and losses on 3p14.2 55 and 8p 83 . Univariate statistical analysis with correction
+  for multiple testing revealed chromosomal gain of region 11q22.1-q22.2 and losses
+  of 17p13.3 and 11q23-q25 to be associated with loco-regional recurrence P  0.004,
+  P  0.003, and P  0.0003 and shorter survival P  0.009, P  0.003, and P 0.0001 respectively.
+  The gain of 11q22 and loss of 11q23-q25 were validated by interphase fluorescent
+  in situ hybridization I-FISH . This study identifies a tractable number of genomic
+  alterations with few underlying genes that may potentially be utilized as biological
+  markers for prognosis and treatment decisions in oral cancers.
+authors: Ambatipudi S, Gerstung M, Gowda R, Pai P, Borges AM, Schaffer AA, Beerenwinkel
+  N, and Mahimkar MB.
+contact:
+  email: mmahimkar@actrec.gov.in
+  name: Manoj Mahimkar
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21386901
+- geo:GSE23831
+geo_data:
+  geo_json:
+    coordinates:
+    - 73.02
+    - 19.04
+    type: Point
+  info:
+    city: Navi Mumbai
+    continent: Asia
+    country: India
+    label: Navi Mumbai, India, Asia
+    precision: city
+journal: PLoS One, 6(2) 2011, e17250.
+label: 'Ambatipudi et al. (2011): Genomic profiling of advanced-stage oral cancers
+  reveals chromosome 11q alterations as markers ...'
+notes: ~
+pmid: 21386901
+title: Genomic profiling of advanced-stage oral cancers reveals chromosome 11q alterations
+  as markers of poor clinical outcome.
+year: 2011

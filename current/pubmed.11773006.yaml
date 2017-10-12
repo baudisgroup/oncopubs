@@ -1,0 +1,34 @@
+---
+abstract: To identify chromosomal gains and losses in lymphoid tumors of the orbit
+  and to examine whether such abnormalities are related to orbital presentation, disease
+  severity, or risk for recurrent disease.
+authors: Ness GO, Lybaek H, Arnes J and Rodahl E.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11773006
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.32
+    - 60.39
+    type: Point
+  info:
+    city: Bergen
+    continent: Europe
+    country: Norway
+    label: Bergen, Norway, Europe
+    precision: city
+journal: 'Invest Ophthalmol Vis Sci 43, 1 (2002): 9-14.'
+label: 'Ness et al. (2002): Chromosomal Imbalances in Lymphoid Tumors of the Orbit.'
+notes: ~
+pmid: 11773006
+title: Chromosomal Imbalances in Lymphoid Tumors of the Orbit.
+year: 2002

@@ -1,0 +1,60 @@
+---
+abstract: Near haploidy 23-29 chromosomes is a numerical cytogenetic aberration in
+  childhood acute lymphoblastic leukemia ALL associated with particularly poor outcome.
+  In contrast, high hyperdiploidy 51-67 chromosomes has a favorable prognosis. Correct
+  classification and appropriate risk stratification of near haploidy is frequently
+  hampered by the presence of apparently high hyperdiploid clones that arise by endoreduplication
+  of the original near haploid clone. We evaluated next-generation-sequencing NGS
+  to distinguish between quot high hyperdiploid quot leukemic clones of near haploid
+  and true high hyperdiploid origin. Five high hyperdiploid ALL cases and the quot
+  high hyperdiploid quot cell line MHH-CALL-2, derived from a near haploid clone,
+  were tested for uniparental isodisomy. NGS showed that all disomic chromosomes of
+  MHH-CALL-2, but none of the patients, were of uniparental origin, thus reliably
+  discriminating these subtypes. Whole-exome- and whole-genome-sequencing of MHH-CALL-2
+  revealed homozygous non-synonymous coding mutations predicted to be deleterious
+  for the protein function of 63 genes, among them known cancer-associated genes,
+  such as FANCA, NF1, TCF7L2, CARD11, EP400, histone demethylases, and transferases
+  KDM6B, KDM1A, PRDM11 . Only eight of these were also, but heterozygously, mutated
+  in the high hyperdiploid patients. Structural variations in MHH-CALL-2 include a
+  homozygous deletion MTAP CDKN2A CDKN2B ANRIL , a homozygous inversion NCKAP5 , and
+  an unbalanced translocation FAM189A1 . Together, the sequence variations provide
+  MHH-CALL-2 with capabilities typically acquired during cancer development, e.g.,
+  loss of cell cycle control, enhanced proliferation, lack of DNA repair, cell death
+  evasion, and disturbance of epigenetic gene regulation. Poorer prognosis of near
+  haploid ALL most likely results from full penetrance of a large array of detrimental
+  homozygous mutations
+authors: Chen C, Bartenhagen C, Gombert M, Okpanyi V, Binder V, R  ttgers S, Bradtke
+  J, Teigler-Schlegel A, Harbott J, Ginzel S, Thiele R, Fischer U, Dugas M, Hu J and
+  Borkhardt A.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 6
+  samples_wgs: 6
+external_identifiers:
+- pubmed:23508829
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.78
+    - 51.22
+    type: Point
+  info:
+    city: Dusseldorf
+    continent: Europe
+    country: Germany
+    label: Dusseldorf, Germany, Europe
+    precision: city
+journal: 'Genes, chromosomes &amp; cancer (2013) 52: 564-579.'
+label: 'Chen et al. (2013): Next-generation-sequencing-based risk stratification and
+  identification of new genes involved in ...'
+notes: ~
+pmid: 23508829
+title: Next-generation-sequencing-based risk stratification and identification of
+  new genes involved in structural and sequence variations in near haploid lymphoblastic
+  leukemia.
+year: 2013

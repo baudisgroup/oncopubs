@@ -1,0 +1,50 @@
+---
+abstract: Multiple myeloma MM is a plasma cell malignancy of the bone marrow, which
+  evolves from a premalignant stage called monoclonal gammopathy of undetermined significance
+  MGUS . In some patients, an intermediate stage referred to as smoldering multiple
+  myeloma SMM is clinically recognized, with the full-bore malignancy termed MM. We
+  conducted a study to assess differential CpG methylation at 1,500 genic loci during
+  MM progression and profiled CD138 plasma cells from MGUS, SMM, and MM specimens
+  human myeloma cell lines and normal plasma cell NPC samples. We showed that the
+  number of differentially methylated loci DML increased with tumor grade, and the
+  vast majority were due to hypomethylation. Hierarchical clustering analysis revealed
+  samples that coclustered tightly with NPC. These cases, referred to as amp quot
+  normal-like, amp quot contained significantly fewer DML when compared with their
+  non-normal-like counterparts and displayed overall methylation levels resembling
+  NPC. This study represents one of the first methylome interrogation studies in MM
+  and points toward global hypomethylation at genic CpG loci as an important and early
+  mechanism driving myelomagenesis. Determining the set of critical genes and pathways
+  based on the myeloma methylome is expected to lead to an improved understanding
+  of biological mechanisms involved in myelomagenesis.
+authors: Salhia B, Baker A, Ahmann G, Auclair D, Fonseca R and Carpten J.
+contact:
+  email: jcarpten@tgen.org
+  name: John Carpten
+counts:
+  biosamples: 179
+  samples_acgh: 179
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20736376
+geo_data:
+  geo_json:
+    coordinates:
+    - -112.07
+    - 33.45
+    type: Point
+  info:
+    city: Phoenix
+    continent: North America
+    country: United States
+    label: Phoenix, United States, North America
+    precision: city
+journal: 'Cancer Res 70, 17 (2010): 6934-44.'
+label: 'Salhia et al. (2010): DNA Methylation Analysis Determines the High Frequency
+  of Genic Hypomethylation and Low Frequency ...'
+notes: ~
+pmid: 20736376
+title: DNA Methylation Analysis Determines the High Frequency of Genic Hypomethylation
+  and Low Frequency of Hypermethylation Events in Plasma Cell Tumors.
+year: 2010

@@ -1,0 +1,47 @@
+---
+abstract: Dysregulation of cell cycle control, especially G1 S phase transition, is
+  implicated in the pathogenesis of most human cancers, including esophageal squamous
+  cell carcinoma ESCC . However, the clinicopathological significance of aberrant
+  expression of G1 S phase-related proteins in ESCC remains unclear. In the present
+  study, cyclin D1, p21WAF1 Cip1 and p53 protein expression were examined in 148 ESCC
+  cases using immunohistochemistry combined with tissue microarray. We then analyzed
+  the correlations between their expression and clinicopathological parameters and
+  found that overexpression of p53 was associated with lymph node metastasis P 0.001
+  . p21WAF1 Cip1 down-regulation was an independent prognostic factor by multivariate
+  analysis RR 0.418, P amp lt 0.001 . Further more, array-CGH results revealed that
+  cyclin D1 gene was amplified in 45.4 of ESCC patients. This study confirms that
+  dysregulation of G1 S related genes is common in ESCC and reduced expression of
+  p21WAF1 Cip1 protein can predict shorter overall survival time of patients with
+  ESCC.
+authors: Lin DC, Shi ZZ, Xue LY, Chen W, Xu X, Han YL, Lv N and Wang MR.
+contact:
+  email: wangmr04@126.com
+  name: Ming-Rong Wang
+counts:
+  biosamples: 148
+  samples_acgh: 148
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20466633
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: 'Yi Chuan 32, 5 (2010): 455-60.'
+label: 'Lin et al. (2010): [Expression of Cell Cycle Related Proteins Cyclin D1, P53
+  and P21Waf1/Cip1 in Esophageal Squamous ...'
+notes: ~
+pmid: 20466633
+title: '[Expression of Cell Cycle Related Proteins Cyclin D1, P53 and P21Waf1/Cip1
+  in Esophageal Squamous Cell Carcinoma].'
+year: 2010

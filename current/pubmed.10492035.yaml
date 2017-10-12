@@ -1,0 +1,52 @@
+---
+abstract: Although recent molecular investigations have identified a number of genetic
+  alterations that are associated with the development of pituitary adenomas, the
+  exact pathogenesis mechanism of these tumors remains largely unknown. In this study,
+  we used a genome-wide survey to detect specific genetic changes within the genome
+  of pituitary adenomas. A series of 10 growth hormone-secreting adenomas were analyzed
+  for their genetic imbalances on all 22 autosomes by comparative genomic hybridization
+  CGH . Chromosomal imbalances were detected in 8 GH-secreting adenomas, whereas 2
+  tumors had no detectable genetic abnormalities. Chromosome gains were more frequent
+  than losses. Overrepresentation of whole or parts of chromosomes were detected in
+  5 10 50 in 19, 3 10 30 in each of 5, 9, and 22q, 2 10 20 in 17p12-q21, whereas DNA
+  loss were 3 10 30 in 13q and 2 10 20 in 18. No detectable gain or loss of genetic
+  material was observed in chromosomes 7, 8, 10, 12, 15, and 20. The findings of overrepresentation
+  of chromosomes 5q, 9p, 17q and DNA loss of chromosome 18 were consistent with those
+  detected in nonfunctioning adenomas Daniely M, Aviram A, Adams EF, et al:J Clin
+  Endocrinol Metab 83:1801-1805, 1998 suggesting that the development of pituitary
+  tumors, at least in somatotroph and nonfunctioning adenomas, may share common pathway.
+  Frequent amplifications in chromosomes 19 and 22q imply that candidate genes residing
+  in these chromosomal regions may be involved in the pathogenesis of GH-secreting
+  adenomas.
+authors: Hui AB, Pang JC, Ko CW and Ng HK.
+contact:
+  email: hkng@cuhk.edu.hk
+  name: Ho-Keung Ng
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10492035
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Hum Pathol 30, 9 (1999): 1019-23.'
+label: 'Hui et al. (1999): Detection of Chromosomal Imbalances in Growth Hormone-Secreting
+  Pituitary Tumors By Comparative ...'
+notes: ~
+pmid: 10492035
+title: Detection of Chromosomal Imbalances in Growth Hormone-Secreting Pituitary Tumors
+  By Comparative Genomic Hybridization.
+year: 1999

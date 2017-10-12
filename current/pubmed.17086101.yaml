@@ -1,0 +1,50 @@
+---
+abstract: Brain tumors are the most common solid tumors of childhood, accounting for
+  over 20 of cancers in children under 15 years of age. Pilocytic astrocytomas PAs
+  , World Health Organization grade I, are one of the most frequently occurring childhood
+  brain tumors, yet little is known about genetic changes characterizing this entity.
+  We have used microarray comparative genomic hybridization at 0.97 Mb resolution
+  to study a series of PAs n 44 . No copy number abnormality was seen in 64 of cases
+  at this resolution. However, whole chromosomal gain median 5 chromosomes affected
+  occurred in 32 of tumors. The most frequently affected chromosomes were 5 and 7
+  11 of 44 cases each followed by 6, 11, 15, and 20 greater than 10 of cases each
+  . Findings were confirmed by fluorescence in situ hybridization and microsatellite
+  analysis in a subset of tumors. Chromosomal gain was significantly more frequent
+  in PAs from patients over 15 years old p 0.03, Fisher exact test . The number of
+  chromosomes involved was also significantly greater in the older group p 0.02, Mann-Whitney
+  U test . One case 2 showed a region of gain on chromosome 3 and one 2 a deletion
+  on 6q as their sole abnormalities. This is the first genomewide study to show this
+  nonrandom pattern of genetic alteration in pilocytic astrocytomas.
+authors: Jones DT, Ichimura K, Liu L, Pearson DM, Plant K and Collins VP.
+contact:
+  email: davidjones@cantab.net
+  name: David T. W. Jones
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17086101
+- geo:GSE11263
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'J Neuropathol Exp Neurol 65, 11 (2006): 1049-58.'
+label: 'Jones et al. (2006): Genomic Analysis of Pilocytic Astrocytomas At 0.97 Mb
+  Resolution Shows an Increasing Tendency ...'
+notes: ~
+pmid: 17086101
+title: Genomic Analysis of Pilocytic Astrocytomas At 0.97 Mb Resolution Shows an Increasing
+  Tendency Toward Chromosomal Copy Number Change With Age.
+year: 2006

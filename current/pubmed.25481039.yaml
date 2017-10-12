@@ -1,0 +1,56 @@
+---
+abstract: The SLC8A1 gene, which encodes the Na(+)/Ca(2+) exchanger, has a key role
+  in calcium homeostasis. Our previous gene expression oligoarray data revealed SLC8A1
+  under expression in penile carcinoma. We investigated whether dysregulation of SLC8A1
+  expression is associated with apoptosis and cell proliferation in penile carcinoma
+  via modulation of the calcium concentration. The underlying mechanisms of SLC8A1
+  under expression were also explored, focusing on copy number alteration and miRNA.  Transcript
+  levels of the SLC8A1 gene and miR-223 were evaluated by quantitative polymerase
+  chain reaction to compare penile carcinoma samples with normal glans tissue. SLC8A1
+  copy number was evaluated by microarray based comparative genomic hybridization.
+  In normal and tumor samples we investigated caspase-3 and Ki-67 immunostaining as
+  well as calcium distribution by laser ablation imaging inductively coupled plasma
+  mass spectrometry.  SLC8A1 under expression was detected in penile carcinoma samples
+  (p = 0.001), confirming our previous data. It was not associated with gene copy
+  number loss. In contrast, miR-223 over expression (p = 0.002) inversely correlated
+  with its putative repressor SLC8A1 (r = -0.426, p = 0.015). SLC8A1 under expression
+  was associated with decreased calcium distribution, high Ki-67 and low caspase-3
+  immunoexpression in penile carcinoma compared to normal tissue.  Down-regulation
+  of the SLC8A1 gene, most likely mediated by its regulator miR-223, can lead to decreased
+  calcium in penile carcinoma and consequently to suppressed apoptosis and increased
+  tumor cell proliferation. These data suggest that the miR-223-NCX1-calcium signaling
+  axis may represent a potential therapeutic approach to penile carcinoma.  Copyright
+  ï¿½ 2015 American Urological Association Education and Research, Inc. Published
+  by Elsevier Inc. All rights reserved.
+authors: Muï¿½oz JJ, Drigo SA, Barros-Filho MC, Marchi FA, Scapulatempo-Neto C, Pessoa
+  GS, Guimarï¿½es GC, Trindade Filho JC, Lopes A, Arruda MA and Rogatto SR
+contact:
+  email: silvia.rogatto@cipe.accamargo.org.br
+  name: Silvia Rogatto
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25481039
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: J. Urol. 194(1), 2015
+label: 'Muï¿½oz JJ et al. (2015): '
+notes: ~
+pmid: 25481039
+title: Down-Regulation of SLC8A1 as a Putative Apoptosis Evasion Mechanism by Modulation
+  of Calcium Levels in Penile Carcinoma.
+year: 2015

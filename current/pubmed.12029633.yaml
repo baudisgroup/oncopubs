@@ -1,0 +1,55 @@
+---
+abstract: We carried out molecular cytogenetic characterization of 11 cell lines derived
+  from hepatocellular carcinomas HCCs and 51 primary HCCs. Comparative genomic hybridization
+  CGH revealed frequent amplification at 13q34, where we had detected amplification
+  in several other types of tumor, including esophageal squamous cell carcinomas ESC
+  . Previously, we suggested possible involvement of TFDP1, encoding a transcription
+  factor DP-1, in the 13q34 amplification observed in a primary ESC. Therefore, we
+  investigated amplifications and expression levels of 5 genes mapped on the amplified
+  region, including TFDP1, for exploring amplification targets at 13q34 in HCCs. 3
+  of those genes, TFDP1, CUL4A cullin 4A , and CDC16 cell division cycle 16 , showed
+  distinct amplification and consequent over-expression in some cell lines. Moreover,
+  each was amplified in 3 or 4 of the 51 primary HCCs, and all 3 were amplified in
+  2 tumors, in which their expression patterns correlated with amplification patterns.
+  To elucidate the functional role of TFDP1 in HCC, we examined expression levels
+  of genes downstream of TFDP1 with real-time quantitative polymerase chain reaction
+  PCR . Expression of cyclin E gene CCNE1 correlated closely with that of TFDP1 in
+  not only cell lines, but also primary tumors. Treatment of HCC cells with the antisense
+  oligonucleotide targeting TFDP1 resulted in down-regulation of CCNE1, suggesting
+  that TFDP1 overexpression led to up-regulation of CCNE1 that encoded a positive
+  regulator for cell cycle G1 S transition. In conclusion, our findings suggest that
+  TFDP1, CUL4A, and CDC16 are probable targets of an amplification mechanism and therefore
+  may be involved, together or separately, in development and or progression of some
+  HCCs.
+authors: Yasui K, Arii S, Zhao C, Imoto I, Ueda M, Nagai H, Emi M and Inazawa J.
+contact:
+  email: johinaz.cgen@mri.tmd.ac.jp
+  name: Johji Inazawa
+counts:
+  biosamples: 62
+  samples_acgh: 0
+  samples_ccgh: 62
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12029633
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Hepatology 35, 6 (2002): 1476-84.'
+label: 'Yasui et al. (2002): Tfdp1, Cul4A, and Cdc16 Identified as Targets for Amplification
+  At 13q34 in Hepatocellular ...'
+notes: Only data for the 11 cell lines was presented in a case specific manner.
+pmid: 12029633
+title: Tfdp1, Cul4A, and Cdc16 Identified as Targets for Amplification At 13q34 in
+  Hepatocellular Carcinomas.
+year: 2002

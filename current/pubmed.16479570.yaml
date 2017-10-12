@@ -1,0 +1,50 @@
+---
+abstract: 'Early T1 stage adenocarcinoma of the esophagus or gastroesophageal junction
+  is a potentially curable disease. We analyzed the genomic spectra of 33 early neoplastic
+  lesions after subdividing the tumors into six depths of invasion T1-mucosal, m1-m3
+  T1-submucosal, sm1-sm3 . Two subgroups were defined, T1m1-sm1 n 18 and T1sm2-sm3
+  n 15 . The latter group is associated with frequent lymphatic spread and a high
+  percentage of local and or distant recurrence. Comparative genomic hybridization
+  with a genomewide 3,500-element BAC-PAC array revealed a characteristic gastroesophageal
+  adenocarcinoma pattern of changes, with losses on chromosome arms 4pq, 5q, 8p, 9p,
+  17p, and 18q and gains on 1q, 6p, 7pq, 11q, 15q, 17q, and 20pq. However, when the
+  two groups were compared, the following BAC clones showed significantly more alterations
+  in the T1sm2-sm3 group: RP11-534L20 1q32.1 and RP11-175A4 6p21.32 , showing gains,
+  and RP11-356F24, RP11-433L7, and RP11-241P12 all at 8p , showing losses. Gain of
+  RP11-534L20 1q32.1 and loss of RP11-433L7 8p22 were associated not only with a recurrence-free
+  period P 0.0007 and 0.007, respectively , but also with regional lymphatic dissemination
+  P 0.005 and 0.003, respectively . These DNA clones can be considered genomic markers
+  for the aggressive behavior of early esophageal and gastroesophageal junction adenocarcinoma.'
+authors: van Dekken H, Wink JC, Vissers KJ, van Marion R, Koppert LB, Tilanus HW,
+  Siersema PD, Tanke HJ, Szuhai K and Hop WC.
+contact:
+  email: ~
+  name: H. van Dekken
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16479570
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 45, 5 (2006): 516-25.'
+label: 'van Dekken et al. (2006): Genomic Analysis of Early Adenocarcinoma of the
+  Esophagus Or Gastroesophageal Junction: Tumor ...'
+notes: ~
+pmid: 16479570
+title: 'Genomic Analysis of Early Adenocarcinoma of the Esophagus Or Gastroesophageal
+  Junction: Tumor Progression is Associated With Alteration of 1q and 8p Sequences.'
+year: 2006

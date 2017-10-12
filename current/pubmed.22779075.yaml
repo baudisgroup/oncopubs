@@ -1,0 +1,44 @@
+---
+abstract: Chromosomes forming a corresponding ring cannot be clearly defined by conventional
+  cytogenetics or FISH. Karyotypic analyses using whole-genome single nucleotide polymorphism
+  arrays SNP-A may result in the identification of previously cryptic lesions and
+  allow for more precise definition of breakpoints. We describe a case of AML with
+  metaphase cells bearing -5, del 11 q22 , and r. With SNP-A, a 5p-terminal deletion
+  11 megabases Mb , a 5q-terminal deletion 27 Mb , an 11q-interstitial deletion 29
+  Mb , and a 21q gain 3 Mb were identified. Therefore, the G-banded karyotype was
+  revised as 46, XY, r 5 p15. 2q33.2 , del 11 q14.1q23.2 , dup 21 q22.13q22.2 18 46,XY
+  2 . SNP-A could be a powerful tool for characterizing ring chromosomes in which
+  the involved chromosomes or bands cannot be precisely identified by conventional
+  cytogenetics or FISH.
+authors: Huh J, Mun YC, Chung WS and Seong CM.
+contact:
+  email: ~
+  name: Chu Myong Seong
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22779075
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Ann Lab Med 32, 4 (2012): 307-11.'
+label: 'Huh et al. (2012): Ring Chromosome 5 in Acute Myeloid Leukemia Defined By
+  Whole-Genome Single Nucleotide Polymorphism ...'
+notes: ~
+pmid: 22779075
+title: Ring Chromosome 5 in Acute Myeloid Leukemia Defined By Whole-Genome Single
+  Nucleotide Polymorphism Array.
+year: 2012

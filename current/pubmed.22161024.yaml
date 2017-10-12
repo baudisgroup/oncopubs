@@ -1,0 +1,54 @@
+---
+abstract: Papillary thyroid carcinoma PTC is the most common well-differentiated thyroid
+  cancer. Although the great majority of the cases exhibit an indolent clinical course,
+  some of them develop local invasion with distant metastasis, and a few cases transform
+  into undifferentiated anaplastic thyroid carcinoma with a rapidly lethal course.
+  To identify gene copy number alterations predictive of metastatic potential or aggressive
+  transformation, array-based comparative genomic hybridization CGH-array was performed
+  in 43 PTC cases. Formalin-fixed and paraffin-embedded samples from primary tumours
+  of 16 cases without metastasis, 14 cases with only regional lymph node metastasis,
+  and 13 cases with distant metastasis, recurrence or extrathyroid extension were
+  analysed. The CGH-array and confirmatory quantitative real-time PCR results identified
+  the deletion of the EIF4EBP3 and TRAK2 gene loci, while amplification of thymosin
+  beta 10 TB10 and Tre-2 oncogene regions were observed as general markers for PTC.
+  Although there have been several studies implicating TB10 as a specific marker based
+  on gene expression data, our study is the first to report on genomic amplification.
+  Although no significant difference could be detected between the good and bad prognosis
+  cases in the A-kinase anchor protein 13 AKAP13 gene region, it was discriminative
+  markers for metastasis. Amplification in the AKAP13 region was demonstrated in 42.9
+  and 15.4 of the cases with local or with distant metastasis, respectively, while
+  no amplification was detected in non-metastatic cases. AKAP13 and TB10 regions may
+  represent potential new genomic markers for PTC and cancer progression.
+authors: Feher LZ, Pocsay G, Krenacs L, Zvara A, Bagdi E, Pocsay R, Lukacs G, Gyory
+  F, Gazdag A, Tarko E and Puskas LG.
+contact:
+  email: ~
+  name: Laszlo Puskas
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22161024
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.15
+    - 46.25
+    type: Point
+  info:
+    city: Szeged
+    continent: Europe
+    country: Hungary
+    label: Szeged, Hungary, Europe
+    precision: city
+journal: Pathol Oncol Res (2011)
+label: 'Feher et al. (2011): Amplification of Thymosin Beta 10 and Akap13 Genes in
+  Metastatic and Aggressive Papillary Thyroid ...'
+notes: ~
+pmid: 22161024
+title: Amplification of Thymosin Beta 10 and Akap13 Genes in Metastatic and Aggressive
+  Papillary Thyroid Carcinomas.
+year: 2011

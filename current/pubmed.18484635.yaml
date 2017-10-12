@@ -1,0 +1,56 @@
+---
+abstract: 'Screening for gene copy-number alterations CNAs has improved by applying
+  genome-wide microarrays, where SNP arrays also allow analysis of loss of heterozygozity
+  LOH . We here analyzed 10 chronic lymphocytic leukemia CLL samples using four different
+  high-resolution platforms: BAC arrays 32K , oligonucleotide arrays 185K, Agilent
+  , and two SNP arrays 250K, Affymetrix and 317K, Illumina . Cross-platform comparison
+  revealed 29 concordantly detected CNAs, including known recurrent alterations, which
+  confirmed that all platforms are powerful tools when screening for large aberrations.
+  However, detection of 32 additional regions present in 2-3 platforms illustrated
+  a discrepancy in detection of small CNAs, which often involved reported copy-number
+  variations. LOH analysis using dChip revealed concordance of mainly large regions,
+  but showed numerous, small nonoverlapping regions and LOH escaping detection. Evaluation
+  of baseline variation and copy-number ratio response showed the best performance
+  for the Agilent platform and confirmed the robustness of BAC arrays. Accordingly,
+  these platforms demonstrated a higher degree of platform-specific CNAs. The SNP
+  arrays displayed higher technical variation, although this was compensated by high
+  density of elements. Affymetrix detected a higher degree of CNAs compared to Illumina,
+  while the latter showed a lower noise level and higher detection rate in the LOH
+  analysis. Large-scale studies of genomic aberrations are now feasible, but new tools
+  for LOH analysis are requested.'
+authors: Gunnarsson R, Staaf J, Jansson M, Ottesen AM, Goransson H, Liljedahl U, Ralfkiaer
+  U, Mansouri M, Buhl AM, Smedby KE, Hjalgrim H, Syvanen AC, Borg A, Isaksson A, Jurlander
+  J, Juliusson G and Rosenquist R.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18484635
+- geo:GSE13557
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 8 (2008): 697-711.'
+label: 'Gunnarsson et al. (2008): Screening for Copy-Number Alterations and Loss of
+  Heterozygosity in Chronic Lymphocytic ...'
+notes: ~
+pmid: 18484635
+title: Screening for Copy-Number Alterations and Loss of Heterozygosity in Chronic
+  Lymphocytic Leukemia--a Comparative Study of Four Differently Designed, High Resolution
+  Microarray Platforms.
+year: 2008

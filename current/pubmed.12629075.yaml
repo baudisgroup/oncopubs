@@ -1,0 +1,53 @@
+---
+abstract: 'The mechanisms of adrenocortical tumorigenesis are still not fully understood.
+  Data from clonal analysis, comparative genomic hybridization, and allelotyping suggest
+  that it involves a multistep process during which several genetic defects are progressively
+  acquired, leading to the malignant transformation. The events involved in the first
+  steps of this process are not well known, and most of the abnormalities described
+  in adrenocortical tumors to date are associated with the malignant phenotype. We
+  report a case that suggests that adrenocortical tumorigenesis may be a multistep
+  process. A 43-yr-old patient underwent surgery for an incidentally discovered adrenal
+  mass. Pathological analysis showed that this tumor consisted of two parts: a central
+  part with features of malignancy surrounded by another part with a strictly benign
+  appearance. These data were confirmed by molecular analysis and comparative genomic
+  hybridization that were consistent with either a malignant or benign presentation.
+  The apparently malignant part of the tumor exhibited molecular abnormalities 17p13
+  loss of heterozygosity LOH , 11p15 uniparental disomy and overexpression of the
+  IGF-II gene as well as chromosomal gains and losses comparative genomic hybridization
+  that have been previously described in malignant tumors. No abnormalities were found
+  in the surrounding benign tissues. Although this observation is not definitive proof
+  that adrenocortical tumorigenesis occurs via a multistep process, it suggests that
+  there is a progressive change from the benign to the malignant state in some adrenocortical
+  tumors.'
+authors: Bernard MH, Sidhu S, Berger N, Peix JL, Marsh DJ, Robinson BG, Gaston V,
+  Le Bouc Y and Gicquel C.
+contact:
+  email: dmarsh@med.usyd.edu.au
+  name: Deborah J. Marsh
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12629075
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.85
+    - 45.75
+    type: Point
+  info:
+    city: Lyon
+    continent: Europe
+    country: France
+    label: Lyon, France, Europe
+    precision: city
+journal: 'J Clin Endocrinol Metab 88, 3 (2003): 998-1001.'
+label: 'Bernard et al. (2003): A Case Report in Favor of a Multistep Adrenocortical
+  Tumorigenesis.'
+notes: ~
+pmid: 12629075
+title: A Case Report in Favor of a Multistep Adrenocortical Tumorigenesis.
+year: 2003

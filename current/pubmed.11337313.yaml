@@ -1,0 +1,35 @@
+---
+abstract: To identify those genetic alterations that are associated with bladder cancer
+  invasion and progression.
+authors: Prat E, Bernues M, Caballin MR, Egozcue J, Gelabert A and Miro R.
+contact:
+  email: ~
+  name: NA Miro
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11337313
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Urology 57, 5 (2001): 986-92.'
+label: 'Prat et al. (2001): Detection of Chromosomal Imbalances in Papillary Bladder
+  Tumors By Comparative Genomic ...'
+notes: ~
+pmid: 11337313
+title: Detection of Chromosomal Imbalances in Papillary Bladder Tumors By Comparative
+  Genomic Hybridization.
+year: 2001

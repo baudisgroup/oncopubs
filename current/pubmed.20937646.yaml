@@ -1,0 +1,40 @@
+---
+abstract: Tumors with homologous recombination deficiency HRD , such as BRCA1-associated
+  breast cancers, are not able to reliably repair DNA double-strand breaks DSBs and
+  are therefore highly sensitive to both DSB-inducing chemotherapy and poly ADP-ribose
+  polymerase inhibitors. We have studied markers that may indicate the presence of
+  HRD in HER2-negative breast cancers and related them to neoadjuvant chemotherapy
+  response.
+authors: Lips EH, Mulder L, Hannemann J, Laddach N, Vrancken Peeters MT, van de Vijver
+  MJ, Wesseling J, Nederlof PM and Rodenhuis S.
+contact:
+  email: s.rodenhuis@nki.nl
+  name: Sjoerd Rodenhuis
+counts:
+  biosamples: 163
+  samples_acgh: 163
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20937646
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'Ann Oncol 22, 4 (2011): 870-76.'
+label: 'Lips et al. (2011): Indicators of Homologous Recombination Deficiency in Breast
+  Cancer and Association With Response to ...'
+notes: ~
+pmid: 20937646
+title: Indicators of Homologous Recombination Deficiency in Breast Cancer and Association
+  With Response to Neoadjuvant Chemotherapy.
+year: 2011

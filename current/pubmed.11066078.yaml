@@ -1,0 +1,51 @@
+---
+abstract: Familial occurrence of gliomas, in the absence of well-defined hereditary
+  multisystem disorders, is reported occasionally. We describe 17 families that have
+  been afflicted with two or more gliomas but do not raise suspicion of other inheritable
+  syndromes. The families were identified among 369 consecutive glioma patients operated
+  at the Tampere University Hospital during 1983-1994. We applied comparative genomic
+  hybridization CGH analysis on 21 gliomas occurring in these 17 families. The most
+  frequent genetic alterations, detected in over 20 of the tumors, were losses of
+  6q, 10, 4q, 9p and gains of 7, 19, 20q, 1p. We compared the chromosomal alterations
+  detected in the familial gliomas to those reported previously on 209 sporadic gliomas
+  in nine different CGH studies. In this comparison, the familial gliomas more often
+  showed losses of chromosome arms 4q and 6q and gains of 1p and 22q. The most frequent
+  losses 9 21 tumors in the familial gliomas resided on chromosome arm 6q P 0.005,
+  Fishers exact test with Bonferroni correction, P 0.04 . The loss of 6q was also
+  the most common intrafamilial aberration, present in four separate gliomas belonging
+  to two families. The minimal common area of loss on this chromosome resided at 6q14-16.
+  In conclusion, we have found several characteristic aberrations by CGH in the familial
+  gliomas and we present new chromosomal regions possibly involved in the familial
+  predisposition to gliomas.
+authors: Paunu N, Sallinen SL, Karhu R, Miettinen H, Sallinen P, Kononen J, Laippala
+  P, Simola KO, Helen P and Haapasalo H.
+contact:
+  email: ~
+  name: NA Paunu
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11066078
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 29, 4 (2000): 339-46.'
+label: 'Paunu et al. (2000): Chromosome Imbalances in Familial Gliomas Detected By
+  Comparative Genomic Hybridization.'
+notes: ~
+pmid: 11066078
+title: Chromosome Imbalances in Familial Gliomas Detected By Comparative Genomic Hybridization.
+year: 2000

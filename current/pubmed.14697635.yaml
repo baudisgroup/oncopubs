@@ -1,0 +1,50 @@
+---
+abstract: Primary carcinomas of the vagina are rare tumors, accounting for 2 -3 of
+  all gynecologic malignancies. Only a few karyotypes based on chromosome banding
+  techniques have been reported. We have, therefore, used comparative genomic hybridization
+  to establish a pattern of genomic imbalances in vaginal squamous cell carcinomas.
+  Analysis of 16 formalin-fixed and paraffin-embedded tumors revealed that 70 of vaginal
+  carcinomas carry relative copy number increases that map to chromosome arm 3q. Other
+  recurring gains were observed on chromosome arms 5p and 19p. Chromosomal losses
+  were infrequent. Most tumors were aneuploid, as measured by image cytometry on Feulgen-stained
+  tissue sections. The cytogenetic data were related to the presence of human papillomavirus
+  genomes, expression of laminin-5 as a marker for invasiveness, and expression levels
+  of markers for proliferative activity and mutated TP53. All relevant clinical data
+  were recorded. The results suggest that vaginal carcinomas are defined by a specific
+  distribution of chromosomal aneuploidies and that the pattern of genomic imbalances
+  is strikingly similar to that observed in squamous cell carcinomas of the uterine
+  cervix. Age at diagnosis P 0.031 , tumor size P 0.025 , and increased laminin-5
+  expression P 0.006 have a significant influence on the survival time.
+authors: Habermann JK, Hellman K, Freitag S, Heselmeyer-Haddad K, Hellstrom AC, Shah
+  K, Auer G and Ried T.
+contact:
+  email: riedt@mail.nih.gov
+  name: Thomas Ried
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 16
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14697635
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 148, 1 (2004): 7-13.'
+label: 'Habermann et al. (2004): A Recurrent Gain of Chromosome Arm 3q in Primary
+  Squamous Carcinoma of the Vagina.'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 14697635
+title: A Recurrent Gain of Chromosome Arm 3q in Primary Squamous Carcinoma of the
+  Vagina.
+year: 2004

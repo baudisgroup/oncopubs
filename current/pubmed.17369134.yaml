@@ -1,0 +1,43 @@
+---
+abstract: Symptomatic craniospinal dissemination of glioblastomas is considered rare,
+  and unambiguous pathologic or molecular predictors of tumor leptomeningeal spread
+  remain to be defined. We performed molecular analysis of 8 glioblastomas with symptomatic
+  leptomeningeal dissemination by using fluorescence in situ hybridization and array-based
+  comparative genomic hybridization array-CGH . The most frequently encountered alteration
+  was gain of the 1p36 locus, which was found in all 8 samples examined. Array-CGH
+  analysis of 3 available samples also disclosed numerous gains at the 1pter-p36.1
+  locus involving at least 3 DNA clones from this chromosomal region. Consequently,
+  an analysis of 1p copy number status might be kept in mind as an additional tool
+  for further predicting the clinical course of glioblastoma.
+authors: Korshunov A, Sycheva R, Golanov A and Pronin I.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17369134
+geo_data:
+  geo_json:
+    coordinates:
+    - 37.62
+    - 55.75
+    type: Point
+  info:
+    city: Moscow
+    continent: Europe
+    country: Russia
+    label: Moscow, Russia, Europe
+    precision: city
+journal: 'Am J Clin Pathol 127, 4 (2007): 585-90.'
+label: 'Korshunov et al. (2007): Gains At the 1p36 Chromosomal Region Are Associated
+  With Symptomatic Leptomeningeal ...'
+notes: ~
+pmid: 17369134
+title: Gains At the 1p36 Chromosomal Region Are Associated With Symptomatic Leptomeningeal
+  Dissemination of Supratentorial Glioblastomas.
+year: 2007

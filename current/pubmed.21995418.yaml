@@ -1,0 +1,45 @@
+---
+abstract: The mucosae of the oral cavity are different at the histological level but
+  appear all equally exposed to common genotoxic agents. As a result of this exposure,
+  changes in the mucosal epithelia may develop giving rise to Oral Potentially Malignant
+  Lesions OPMLs , which with time may in turn progress to Oral Squamous Cell Carcinomas
+  OSCCs . Therefore, much effort should be devoted to identify features able to predict
+  the likeliness of progression associated with an OPML. Such features may be helpful
+  in assisting the clinician to establish both appropriate therapies and follow-up
+  schedules. Here, we report a pilot study that compared the occurrence of DNA aneuploidy
+  and chromosomal copy number aberrations CNAs in the OPMLs from different oral anatomical
+  subsites.
+authors: Castagnola P, Malacarne D, Scaruffi P, Maffei M, Donadini A, Di Nallo E,
+  Coco S, Tonini GP, Pentenero M, Gandolfo S and Giaretti W.
+contact:
+  email: ~
+  name: Paola Scaruffi
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21995418
+- geo:GSE28868
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: 'BMC Cancer 11 (2011): 445.'
+label: 'Castagnola et al. (2011): Chromosomal Aberrations and Aneuploidy in Oral Potentially
+  Malignant Lesions: Distinctive ...'
+notes: ~
+pmid: 21995418
+title: 'Chromosomal Aberrations and Aneuploidy in Oral Potentially Malignant Lesions:
+  Distinctive Features for Tongue.'
+year: 2011

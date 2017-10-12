@@ -1,0 +1,50 @@
+---
+abstract: Spitz nevus is a benign neoplasm of melanocytes that can be difficult or
+  impossible to distinguish from melanoma by clinical and histopathologic examination.
+  We studied genomic DNA from 17 Spitz nevi by comparative genomic hybridization CGH
+  . Thirteen lesions showed no chromosomal aberrations, three cases had a gain involving
+  the entire p-arm of chromosome 11, and one case showed a gain of chromosome 7q21-qter.
+  Fluorescence in situ hybridization FISH on lesional tissue with a probe for the
+  p-arm of chromosome 11 showed 6-10 p-arm signals per nucleus in those cases with
+  a CGH-detected gain of chromosome 11p. One case with a normal CGH profile also showed
+  increased copy number of 11p by FISH. Thus, the majority of Spitz nevi have a normal
+  chromosomal complement at the level of CGH resolution however some may contain gains,
+  with 11p apparently being the most frequently involved location. These findings
+  differ significantly from the previously reported changes in primary cutaneous melanoma,
+  which show frequent deletions of chromosomes 9p 82 , 10q 63 , 6q 28 , and 8p 22
+  , as well as gains of chromosomes 7 50 , 8 34 , 6p 28 , 1q 25 by CGH analysis. These
+  clear differences in the location and frequencies of chromosomal aberrations in
+  Spitz nevi and primary cutaneous melanomas could represent a basis for developing
+  adjunctive techniques for refining accuracy in the difficult differential diagnosis
+  of spitzoid melanocytic neoplasms.
+authors: Bastian BC, Wesselmann U, Pinkel D and Leboit PE.
+contact:
+  email: ~
+  name: NA Bastian
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10594753
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'J Invest Dermatol 113, 6 (1999): 1065-69.'
+label: 'Bastian et al. (1999): Molecular Cytogenetic Analysis of Spitz Nevi Shows
+  Clear Differences to Melanoma.'
+notes: ~
+pmid: 10594753
+title: Molecular Cytogenetic Analysis of Spitz Nevi Shows Clear Differences to Melanoma.
+year: 1999

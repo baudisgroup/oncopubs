@@ -1,0 +1,51 @@
+---
+abstract: Childhood neuroblastoma, an embryonal neoplasm of sympathetic nervous system
+  progenitors, occurs in a familial form with an autosomal dominant mode of inheritance.
+  Genetic susceptibility to this disorder is thought to arise via a germline mutation
+  affecting a tumor suppressor gene, in accord with the two-hit model established
+  for familial and sporadic retinoblastoma. Surprisingly, the familial neuroblastoma
+  predisposition locus does not map to chromosome band 1p36, a genomic region likely
+  to contain one or more neuroblastoma suppressor genes. We reasoned that inherited
+  point mutations affecting one allele would be unmasked in many cases by somatically
+  acquired deletions of the second allele that included the target gene in the tumor
+  cells from these patients. Thus, to identify chromosomal regions that might contain
+  suppressor genes important in hereditary neuroblastoma, we analyzed six familial
+  tumors by comparative genomic hybridization. Recurrent losses of genetic material
+  were detected on chromosome arms 3p consensus region, 3p24-pter , 10p consensus,
+  10p12-p13 , 10q consensus, 10q25-qter , 16q consensus, 16q12-q22 , and 20q consensus,
+  20q13.3-qter , in addition to the regions commonly deleted in sporadic neuroblastomas
+  1p36 and 11q . These chromosomal sites may harbor novel tumor suppressor genes that
+  could aid in our understanding of the predisposition to and pathogenesis of familial
+  neuroblastoma and potentially sporadic tumors as well.
+authors: Altura RA, Maris JM, Li H, Boyett JM, Brodeur GM, and Look AT.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9218999
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer, 19(3) 1997, 176-84.
+label: 'Altura et al. (1997): Novel regions of chromosomal loss in familial neuroblastoma
+  by comparative genomic ...'
+notes: ~
+pmid: 9218999
+title: Novel regions of chromosomal loss in familial neuroblastoma by comparative
+  genomic hybridization.
+year: 1997

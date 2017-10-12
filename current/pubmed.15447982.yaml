@@ -1,0 +1,56 @@
+---
+abstract: Tumor grade is an established indicator of breast cancer outcome, although
+  considerable heterogeneity exists even within-grade. Around 25 of grade III invasive
+  ductal breast carcinomas are associated with a amp quot basal amp quot phenotype,
+  and these tumors are reported to be a distinct subgroup. We have investigated whether
+  this group of breast cancers has a distinguishing pattern of genetic alterations
+  and which of these may relate to the different clinical outcome of these patients.
+  We performed comparative genomic hybridization CGH analysis on 43 grade III invasive
+  ductal breast carcinomas positive for basal cytokeratin 14, as well as 43 grade-
+  and age-matched CK14-negative controls, all with up to 25 years median, 7 years
+  of clinical follow-up. Significant differences in CGH alterations were seen between
+  the two groups in terms of mean number of changes CK14 ve - 6.5, CK14-ve - 10.3
+  P 0.0012 and types of alterations at chromosomes 4q, 7q, 8q, 9p, 13q, 16p, 17p,
+  17q, 19p, 19q, 20p, 20q and Xp. Supervised and unsupervised algorithms separated
+  the two groups on CGH data alone with 76 and 74 accuracy, respectively. Hierarchical
+  clustering revealed distinct subgroups, one of which contained 18 42 of the CK14
+  ve tumors. This subgroup had significantly shorter overall survival P 0.0414 than
+  other grade III tumors, regardless of CK14 status, and was an independent prognostic
+  marker P 0.031 . These data provide evidence that the amp quot basal amp quot phenotype
+  on its own does not convey a poor prognosis. Basal tumors are also heterogeneous
+  with only a subset, identifiable by pattern of genetic alterations, exhibiting a
+  shorter overall survival. Robust characterization of this basal group is necessary
+  if it is to have a major impact on management of patients with breast cancer.
+authors: Jones C, Ford E, Gillett C, Ryder K, Merrett S, Reis-Filho JS, Fulford LG,
+  Hanby A and Lakhani SR.
+contact:
+  email: s.lakhani@uq.edu.au
+  name: Sunil R. Lakhani
+counts:
+  biosamples: 86
+  samples_acgh: 0
+  samples_ccgh: 86
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15447982
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Clin Cancer Res 10, 18 Pt 1 (2004): 5988-97.'
+label: 'Jones et al. (2004): Molecular Cytogenetic Identification of Subgroups of
+  Grade Iii Invasive Ductal Breast Carcinomas ...'
+notes: ~
+pmid: 15447982
+title: Molecular Cytogenetic Identification of Subgroups of Grade Iii Invasive Ductal
+  Breast Carcinomas With Different Clinical Outcomes.
+year: 2004

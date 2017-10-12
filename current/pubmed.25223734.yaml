@@ -1,0 +1,49 @@
+---
+abstract: Ewing sarcoma ES is a primary bone tumor initiated by EWSR1-ETS gene fusions.
+  To identify secondary genetic lesions that contribute to tumor progression, we performed
+  whole genome sequencing of 112 ES samples and matched germline DNA. Overall, ES
+  tumors had relatively few single nucleotides variants, indels, structural variants
+  and copy number alterations. Apart from whole chromosome arm copy number changes,
+  the most common somatic mutations were in STAG2 17 , CDKN2A 12 , TP53 7 , EZH2,
+  BCOR, ZMYM3 2.7 each . Strikingly, STAG2 mutations and CDKN2A deletions were mutually
+  exclusive, as confirmed in ES cell lines. In an expanded cohort of 299 patients
+  with clinical data, we discovered that STAG2 and TP53 mutations are often concurrent
+  and are associated with poor outcome. Finally, we detected sub-clonal STAG2-mutations
+  in diagnostic tumors, and expansion of STAG2 immuno-negative cells in relapse as
+  compared to matched diagnostic samples.
+authors: Tirode F, Surdez D, Ma X, Parker M, Le Deley MC, Bahrami A, Zhang Z, Lapouble
+  E, Grossetete-Lalami S, Rusch M, Reynaud S, Rio-Frio T, Hedlund E, Wu G, Chen X,
+  Pierron G, Oberlin O, Zaidi S, Lemmon G, Gupta P, Vadodaria B, Easton J, Gut M,
+  Ding L, Mardis ER, Wilson RK, Shurtleff S, Laurence V, Michon J, Marec-Berard P,
+  Gut I, Downing J, Dyer M, Zhang J and Delattre O.
+contact:
+  email: olivier.delattre@curie.fr
+  name: Olivier Delattre
+counts:
+  biosamples: 112
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 112
+external_identifiers:
+- pubmed:25223734
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: Cancer Discov (2014).
+label: 'Tirode et al. (2014): Genomic landscape of Ewing sarcoma defines an aggressive
+  subtype with co-association of STAG2 and ...'
+notes: ~
+pmid: 25223734
+title: Genomic landscape of Ewing sarcoma defines an aggressive subtype with co-association
+  of STAG2 and TP53 mutations.
+year: 2014

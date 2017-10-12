@@ -1,0 +1,50 @@
+---
+abstract: We have explored the potential role of genetics in the development of osteonecrosis
+  of the jaw ONJ in multiple myeloma MM patients under bisphosphonate therapy. A genome-wide
+  association study was performed using 500 568 single nucleotide polymorphisms SNPs
+  in 2 series of homogeneously treated MM patients, one with ONJ 22 MM cases and another
+  without ONJ 65 matched MM controls . Four SNPs rs1934951, rs1934980, rs1341162,
+  and rs17110453 mapped within the cytochrome P450-2C gene CYP2C8 showed a different
+  distribution between cases and controls with statistically significant differences
+  P 1.07 x 10 -6 , P 4.231 x 10 -6 , P 6.22 x 10 -6 , and P 2.15 x 10 -6 , respectively
+  . SNP rs1934951 was significantly associated with a higher risk of ONJ development
+  even after Bonferroni correction P corrected value .02 . Genotyping results displayed
+  an overrepresentation of the T allele in cases compared with controls 48 vs 12 .
+  Thus, individuals homozygous for the T allele had an increased likelihood of developing
+  ONJ odds ratio 12.75, 95 confidence interval 3.7-43.5 .
+authors: Sarasquete ME, Garcia-Sanz R, Marin L, Alcoceba M, Chillon MC, Balanzategui
+  A, Santamaria C, Rosinol L, de la Rubia J, Hernandez MT, Garcia-Navarro I, Lahuerta
+  JJ, Gonzalez M and San Miguel JF.
+contact:
+  email: ~
+  name: Ramon Garcia-Sanz
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18594024
+- geo:GSE11948
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.68
+    - 40.43
+    type: Point
+  info:
+    city: Salamanca
+    continent: Europe
+    country: Spain
+    label: Salamanca, Spain, Europe
+    precision: city
+journal: 'Blood 112, 7 (2008): 2709-12.'
+label: 'Sarasquete et al. (2008): Bisphosphonate-Related Osteonecrosis of the Jaw
+  is Associated With Polymorphisms of the ...'
+notes: ~
+pmid: 18594024
+title: 'Bisphosphonate-Related Osteonecrosis of the Jaw is Associated With Polymorphisms
+  of the Cytochrome P450 Cyp2C8 in Multiple Myeloma: A Genome-Wide Single Nucleotide
+  Polymorphism Analysis.'
+year: 2008

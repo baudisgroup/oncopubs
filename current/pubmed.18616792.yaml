@@ -1,0 +1,41 @@
+---
+abstract: Today, no objective criteria exist to differentiate between individual primary
+  tumors and intra- or intermammary dissemination respectively, in patients diagnosed
+  with two or more synchronous breast cancers. To elucidate whether these tumors most
+  likely arise through clonal expansion, or whether they represent individual primary
+  tumors is of tumor biological interest and may have clinical implications. In this
+  respect, high resolution genomic profiling may provide a more reliable approach
+  than conventional histopathological and tumor biological factors.
+authors: Brommesson S, Jonsson G, Strand C, Grabau D, Malmstrom P, Ringner M, Ferno
+  M and Hedenfalk I.
+contact:
+  email: Ingrid.Hedenfalk@med.lu.se
+  name: Ingrid Hedenfalk
+counts:
+  biosamples: 33
+  samples_acgh: 33
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18616792
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'BMC Clin Pathol 8 (2008): 6.'
+label: 'Brommesson et al. (2008): Tiling Array-Cgh for the Assessment of Genomic Similarities
+  Among Synchronous Unilateral and ...'
+notes: ~
+pmid: 18616792
+title: Tiling Array-Cgh for the Assessment of Genomic Similarities Among Synchronous
+  Unilateral and Bilateral Invasive Breast Cancer Tumor Pairs.
+year: 2008

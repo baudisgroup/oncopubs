@@ -1,0 +1,39 @@
+---
+abstract: Conventional cytogenetic and comparative genomic hybridization CGH studies
+  in brain malignancies have shown that glioblastoma multiforme GBM is characterized
+  by complex structural and numerical alterations. However, the limited resolution
+  of these techniques has precluded the precise identification of detailed specific
+  gene copy number alterations.
+authors: Ruano Y, Mollejo M, Ribalta T, Fiano C, Camacho FI, Gomez E, de Lope AR,
+  Hernandez-Moneo JL, Martinez P and Melendez B.
+contact:
+  email: bmelendez@cnio.es
+  name: Barbara Melendez
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17002787
+geo_data:
+  geo_json:
+    coordinates:
+    - -4.02
+    - 39.86
+    type: Point
+  info:
+    city: Toledo
+    continent: Europe
+    country: Spain
+    label: Toledo, Spain, Europe
+    precision: city
+journal: 'Mol Cancer 5 (2006): 39.'
+label: 'Ruano et al. (2006): Identification of Novel Candidate Target Genes in Amplicons
+  of Glioblastoma Multiforme Tumors ...'
+notes: ~
+pmid: 17002787
+title: Identification of Novel Candidate Target Genes in Amplicons of Glioblastoma
+  Multiforme Tumors Detected By Expression and Cgh Microarray Profiling.
+year: 2006

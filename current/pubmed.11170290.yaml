@@ -1,0 +1,36 @@
+---
+abstract: ~
+authors: Nishio J, Iwasaki H, Ishiguro M, Ohjimi Y, Yo S, Isayama T, Naito M, and
+  Kikuchi M.
+contact:
+  email: iwasaki@fukuoka-u.ac.jp
+  name: Hiroshi Iwasaki
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11170290
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: Genes Chromosomes Cancer, 30(3) 2001, 305-09.
+label: 'Nishio et al. (2001): Supernumerary ring chromosome in a Bednar tumor (pigmented
+  dermatofibrosarcoma protuberans) is ...'
+notes: ~
+pmid: 11170290
+title: 'Supernumerary ring chromosome in a Bednar tumor (pigmented dermatofibrosarcoma
+  protuberans) is composed of interspersed sequences from chromosomes 17 and 22: a
+  fluorescence in situ hybridization and comparative genomic hybridization analysis.'
+year: 2001

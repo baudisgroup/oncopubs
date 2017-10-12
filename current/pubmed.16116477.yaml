@@ -1,0 +1,55 @@
+---
+abstract: DNA amplifications and deletions frequently contribute to the development
+  and progression of lung cancer. To identify such novel alterations in small cell
+  lung cancer SCLC , we performed comparative genomic hybridization on a set of 24
+  SCLC cell lines, using cDNA microarrays representing approximately 22,000 human
+  genes providing an average mapping resolution of amp lt 70 kb . We identified localized
+  DNA amplifications corresponding to oncogenes known to be amplified in SCLC, including
+  MYC 8q24 , MYCN 2p24 and MYCL1 1p34 . Additional highly localized DNA amplifications
+  suggested candidate oncogenes not previously identified as amplified in SCLC, including
+  the antiapoptotic genes TNFRSF4 1p36 , DAD1 14q11 , BCL2L1 20q11 and BCL2L2 14q11
+  . Likewise, newly discovered PCR-validated homozygous deletions suggested candidate
+  tumor-suppressor genes, including the proapoptotic genes MAPK10 4q21 and TNFRSF6
+  10q23 . To characterize the effect of DNA amplification on gene expression patterns,
+  we performed expression profiling using the same microarray platform. Among our
+  findings, we identified sets of genes whose expression correlated with MYC, MYCN
+  or MYCL1 amplification, with surprisingly little overlap among gene sets. While
+  both MYC and MYCN amplification were associated with increased and decreased expression
+  of known MYC upregulated and downregulated targets, respectively, MYCL1 amplification
+  was associated only with the latter. Our findings support a role of altered apoptotic
+  balance in the pathogenesis of SCLC, and suggest that MYC family genes might affect
+  oncogenesis through distinct sets of targets, in particular implicating the importance
+  of transcriptional repression.
+authors: Kim YH, Girard L, Giacomini CP, Wang P, Hernandez-Boussard T, Tibshirani
+  R, Minna JD and Pollack JR.
+contact:
+  email: pollack1@stanford.edu
+  name: Jonathan R Pollack
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16116477
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: 'Oncogene 25, 1 (2006): 130-38.'
+label: 'Kim et al. (2006): Combined Microarray Analysis of Small Cell Lung Cancer
+  Reveals Altered Apoptotic Balance and Distinct ...'
+notes: ~
+pmid: 16116477
+title: Combined Microarray Analysis of Small Cell Lung Cancer Reveals Altered Apoptotic
+  Balance and Distinct Expression Signatures of Myc Family Gene Amplification.
+year: 2006

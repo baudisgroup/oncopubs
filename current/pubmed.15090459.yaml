@@ -1,0 +1,51 @@
+---
+abstract: 'Tumor samples of 53 patients with t 11 14 -positive mantle cell lymphomas
+  MCLs were analyzed by matrix-based comparative genomic hybridization matrix-CGH
+  using a dedicated DNA array. In 49 cases, genomic aberrations were identified. In
+  comparison to chromosomal CGH, a 50 higher number of aberrations was found and the
+  high specificity of matrix-CGH was demonstrated by fluorescence in situ hybridization
+  FISH analyses. The 11q gains and 13q34 deletions, which have not been described
+  as frequent genomic aberrations in MCL, were identified by matrix-CGH in 15 and
+  26 cases, respectively. For several genomic aberrations, novel consensus regions
+  were defined: 8p21 size of the consensus region, 2.4 megabase pairs Mbp candidate
+  genes: TNFRSF10B, TNFRSF10C, TNFRSF10D 10p13 2.7 Mbp BMI1 11q13 1.4 Mbp RELA 11q13
+  5.2 Mbp CCND1 13q14 0.4 Mbp RFP2, BCMSUN and 13q34 6.9 Mbp . In univariate analyses
+  correlating genomic aberrations and clinical course, 8p- and 13q14- deletions were
+  associated with an inferior overall survival. These data provide a basis for further
+  studies focusing on the identification of pathogenetically or clinically relevant
+  genes in MCL.'
+authors: Kohlhammer H, Schwaenen C, Wessendorf S, Holzmann K, Kestler HA, Kienle D,
+  Barth TF, Moller P, Ott G, Kalla J, Radlwimmer B, Pscherer A, Stilgenbauer S, Dohner
+  H, Lichter P and Bentz M.
+contact:
+  email: m.macleod@dkfz.de
+  name: Peter Lichter
+counts:
+  biosamples: 53
+  samples_acgh: 53
+  samples_ccgh: 53
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15090459
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: 'Blood 104, 3 (2004): 795-801.'
+label: 'Kohlhammer et al. (2004): Genomic DNA-Chip Hybridization in T(11;14)-Positive
+  Mantle Cell Lymphomas Shows a High ...'
+notes: ~
+pmid: 15090459
+title: Genomic DNA-Chip Hybridization in T(11;14)-Positive Mantle Cell Lymphomas Shows
+  a High Frequency of Aberrations and Allows a Refined Characterization of Consensus
+  Regions.
+year: 2004

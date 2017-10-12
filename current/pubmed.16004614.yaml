@@ -1,0 +1,40 @@
+---
+abstract: Chromosomal Comparative Genomic Hybridization CGH has been applied to all
+  stages of cervical carcinoma progression, defining a specific pattern of chromosomal
+  imbalances in this tumor. However, given its limited spatial resolution, chromosomal
+  CGH has offered only general information regarding the possible genetic targets
+  of DNA copy number changes.
+authors: Hidalgo A, Baudis M, Petersen I, Arreola H, Pina P, Vazquez-Ortiz G, Hernandez
+  D, Gonzalez J, Lazos M, Lopez R, Perez C, Garcia J, Vazquez K, Alatorre B and Salcedo
+  M.
+contact:
+  email: mbaudis@gmail.com
+  name: Michael Baudis
+counts:
+  biosamples: 20
+  samples_acgh: 20
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16004614
+geo_data:
+  geo_json:
+    coordinates:
+    - -99.13
+    - 19.43
+    type: Point
+  info:
+    city: Mexico City
+    continent: North America
+    country: Mexico
+    label: Mexico City, Mexico, North America
+    precision: city
+journal: 'BMC Cancer 5 (2005): 77.'
+label: 'Hidalgo et al. (2005): Microarray Comparative Genomic Hybridization Detection
+  of Chromosomal Imbalances in Uterine ...'
+notes: data was converted into pseudo rev ish format by Michael Baudis
+pmid: 16004614
+title: Microarray Comparative Genomic Hybridization Detection of Chromosomal Imbalances
+  in Uterine Cervix Carcinoma.
+year: 2005

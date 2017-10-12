@@ -1,0 +1,52 @@
+---
+abstract: There is a clear genetic component to prostate cancer susceptibility. Regions
+  reported to be linked to prostate cancer include 1q24-25 HPC-1 , 1q42.2-43, and
+  Xq27-28. There is limited genetic information on familial prostate tumors. We used
+  the Utah Population Database to identify familial prostate cancer cases and selected
+  35 cases from high-risk families. Tissue blocks containing discernable tumor were
+  available from 19 cases 13 of these yielded adequate specimens for analysis. Six
+  cases came from families with linkage to HPC-1, 3 were known to have linkage to
+  Xq27-28, and 4 had no linkage to a known locus 7 cases were analyzed from patients
+  who showed no known linkage sporadic tumors as controls. These paraffin-embedded
+  tumors were laser microdissected, degenerate oligonucleotide DOP -amplified, and
+  labeled for fluorescence detection by comparative genomic hybridization CGH . Loss
+  of 7q, 10q, and 16q and gain of 8q were common abnormalities present in both familial
+  and sporadic tumors. Distinctive abnormalities included loss of 3p12-3p22 in 3 of
+  6 HPC-7-linked cases and in 2 of 3 X-linked cases and gain of 6q11-6q21 in 2 each
+  of HPC-1 and X-linked tumors. In conclusion, laser microdissection, DOP-PCR, and
+  CGH is a feasible method for analysis of paraffin-embedded prostate tumors. This
+  study provides preliminary data suggesting that familial prostate cancer harbors
+  some unique genetic changes when compared with sporadic prostate tumors.
+authors: Verhagen PC, Zhu XL, Rohr LR, Cannon-Albright LA, Tavtigian SV, Skolnick
+  MH and Brothman AR.
+contact:
+  email: brothman@pathology.arizona.edu
+  name: Arthur Brothman
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11104032
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Genet Cytogenet 122, 1 (2000): 43-48.'
+label: 'Verhagen et al. (2000): Microdissection, Dop-Pcr, and Comparative Genomic
+  Hybridization of Paraffin-Embedded Familial ...'
+notes: ~
+pmid: 11104032
+title: Microdissection, Dop-Pcr, and Comparative Genomic Hybridization of Paraffin-Embedded
+  Familial Prostate Cancers.
+year: 2000

@@ -1,0 +1,53 @@
+---
+abstract: Melanoma and benign melanocytic nevi can overlap significantly in their
+  histopathological presentation and misdiagnoses are common. To determine whether
+  genetic criteria can be of diagnostic help we determined DNA copy number changes
+  in 186 melanocytic tumors 132 melanomas and 54 benign nevi using comparative genomic
+  hybridization. We found highly significant differences between melanomas and nevi.
+  Whereas 127 96.2 of the melanomas had some form of chromosomal aberration, only
+  7 13.0 of the benign nevi cases had aberrations. All seven cases with aberrations
+  were Spitz nevi, in six of which the aberration was an isolated gain involving the
+  entire short arm of chromosome 11. This aberration was not observed in any of the
+  132 melanomas. We also analyzed the 132 melanomas for genetic differences depending
+  on anatomical site, Clarks histogenetic type, and sun-exposure pattern. We show
+  that melanomas on acral sites have significantly more aberrations involving chromosomes
+  5p, 11q, 12q, and 15, as well as focused gene amplifications. Melanomas classified
+  as lentigo maligna melanomas or as occurring on severely sun-damaged skin showed
+  markedly more frequent losses of chromosomes 17p and 13q. This study shows a pattern
+  of chromosomal aberration in melanoma that is distinct from melanocytic nevi and
+  should be further evaluated as a diagnostic test for melanocytic lesions that are
+  now ambiguous. In addition, we show marked differences in the genetic make-up of
+  melanomas that depend on anatomical location and sun-exposure pattern indicating
+  that potential therapeutic targets might vary among melanoma types.
+authors: Bastian BC, Olshen AB, LeBoit PE and Pinkel D.
+contact:
+  email: bastian@cc.ucsf.edu
+  name: Boris C. Bastian
+counts:
+  biosamples: 189
+  samples_acgh: 0
+  samples_ccgh: 189
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14578177
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Am J Pathol 163, 5 (2003): 1765-70.'
+label: 'Bastian et al. (2003): Classifying Melanocytic Tumors Based on DNA Copy Number
+  Changes.'
+notes: 189 melanomas and benign nevi were analyzed by CGH. The data was provided by
+  Boris Bastian.
+pmid: 14578177
+title: Classifying Melanocytic Tumors Based on DNA Copy Number Changes.
+year: 2003

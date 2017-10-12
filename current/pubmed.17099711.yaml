@@ -1,0 +1,46 @@
+---
+abstract: Genetic and epigenetic alterations have been identified that lead to transcriptional
+  deregulation in cancers. Genetic mechanisms may affect single genes or regions containing
+  several neighboring genes, as has been shown for DNA copy number changes. It was
+  recently reported that epigenetic suppression of gene expression can also extend
+  to a whole region this is known as long-range epigenetic silencing. Various techniques
+  are available for identifying regional genetic alterations, but no large-scale analysis
+  has yet been carried out to obtain an overview of regional epigenetic alterations.
+  We carried out an exhaustive search for regions susceptible to such mechanisms using
+  a combination of transcriptome correlation map analysis and array CGH data for a
+  series of bladder carcinomas. We validated one candidate region experimentally,
+  demonstrating histone methylation leading to the loss of expression of neighboring
+  genes without DNA methylation.
+authors: Stransky N, Vallot C, Reyal F, Bernard-Pierrot I, de Medina SG, Segraves
+  R, de Rycke Y, Elvin P, Cassidy A, Spraggon C, Graham A, Southgate J, Asselain B,
+  Allory Y, Abbou CC, Albertson DG, Thiery JP, Chopin DK, Pinkel D and Radvanyi F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 57
+  samples_acgh: 57
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17099711
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Nat Genet 38, 12 (2006): 1386-96.'
+label: 'Stransky et al. (2006): Regional Copy Number-Independent Deregulation of Transcription
+  in Cancer.'
+notes: ~
+pmid: 17099711
+title: Regional Copy Number-Independent Deregulation of Transcription in Cancer.
+year: 2006

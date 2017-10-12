@@ -1,0 +1,44 @@
+---
+abstract: To characterize diffuse large B-cell lymphoma DLBCL with chromosome 7 gains,
+  we combined clinical data with genomic, RNA and miRNA profiling. Gains were associated
+  with age 60 years, female gender, a trend for higher complete response rate, lower
+  death rate, and better overall survival in patients treated with R-CHOP. Lesions
+  were inversely associated with bone marrow involvement and number of extra-nodal
+  sites. Differentially expressed transcripts were enriched of genes belonging to
+  specific pathways and miRNAs targets. MIR96, MIR182, MIR589, MIR25 were shown significantly
+  up-regulated in 7q DLBCL by real-time PCR.
+authors: Chigrinova E, Mian M, Shen Y, Greiner TC, Chan WC, Vose JM, Inghirami G,
+  Chiappella A, Baldini L, Ponzoni M, Ferreri AJ, Franceschetti S, Gaidano G, Tucci
+  A, Facchetti F, Lazure T, Lambotte O, Montes-Moreno S, Piris MA, Zucca E, Kwee I
+  and Bertoni F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 167
+  samples_acgh: 167
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21418177
+- geo:GSE15127
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.02
+    - 46.19
+    type: Point
+  info:
+    city: Bellinzona
+    continent: Europe
+    country: Switzerland
+    label: Bellinzona, Switzerland, Europe
+    precision: city
+journal: 'Br J Haematol (2011) 153: 499-503.'
+label: 'Chigrinova et al. (2011): Integrated profiling of diffuse large B-cell lymphoma
+  with 7q gain.'
+notes: ~
+pmid: 21418177
+title: Integrated profiling of diffuse large B-cell lymphoma with 7q gain.
+year: 2011

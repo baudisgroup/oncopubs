@@ -1,0 +1,52 @@
+---
+abstract: Comparative genomic hybridization was applied to 51 primary esophageal squamous
+  cell carcinomas ESCCs to clarify the relation between DNA sequence copy number aberrations
+  DSCNAs and the clinicopathology of the disease. The average number of DSCNAs was
+  10.9 DSCNAs tumor 6.1 gains and 4.9 losses , ranging from 1-30 DSCNAs tumor. Gain
+  of 3q26-qter and loss of 18q22-qter were detected in amp gt 60 of stage I tumors
+  and considered to play an important role in the development of ESCC. Whereas gain
+  of 8q24-qter was observed in 82.6 19 of 23 of stage III and IV cancers, it was seen
+  in 27.3 3 of 11 of stage I tumors. It is suggested that gain of 8q24-qter plays
+  an important role in tumor progression. Gains of 8q24-qter and 20q12-qter and loss
+  of 11q22-23 were linked to nodal metastasis P 0.0006, 0.002, and 0.02, respectively
+  . Gains of 5p15 and 14q21 were associated with distant organ metastasis after surgery
+  P 0.006 and 0.02, respectively . These observations suggest that nodal and distant
+  organ metastases involve different genes. Gains of 5p15, 8q24-qter, and 14q21 were
+  significantly associated with unfavorable prognosis P 0.0002, 0.007, and 0.04, respectively
+  . Multivariate analysis revealed the 5p15 gain to be an independent prognostic marker
+  with a higher significance than that of nodal status risk ratio 5.95 P 0.001 . The
+  present findings indicate that comparative genomic hybridization analysis may be
+  used to predict the likelihood of a poor or favorable outcome in cases of ESCC.
+authors: Ueno T, Tangoku A, Yoshino S, Abe T, Toshimitsu H, Furuya T, Kawauchi S,
+  Oga A, Oka M and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 51
+  samples_acgh: 0
+  samples_ccgh: 51
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11839673
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Clin Cancer Res 8, 2 (2002): 526-33.'
+label: 'Ueno et al. (2002): Gain of 5p15 Detected By Comparative Genomic Hybridization
+  as an Independent Marker of Poor ...'
+notes: ~
+pmid: 11839673
+title: Gain of 5p15 Detected By Comparative Genomic Hybridization as an Independent
+  Marker of Poor Prognosis in Patients With Esophageal Squamous Cell Carcinoma.
+year: 2002

@@ -1,0 +1,50 @@
+---
+abstract: Comparative genomic hybridization CGH was used to screen for genomic imbalances
+  in 24 exocrine pancreatic carcinomas, including II low-passage cell lines 4-8 subcultures
+  and 13 uncultured samples. Aberrations were found in all cell lines and in seven
+  of the 13 biopsies. The most frequent changes in the cell lines were gains of 20q
+  91 , 11q 64 , 17q 64 , 19q 64 , 8q, 12p, 14q, and 20p 55 , and losses of 18q 100
+  , 9p 91 , 15q 73 , 21q 64 , 3p 55 , and 13q 55 . High-levels gains tumor to normal
+  ratio over 1.5 were detected at 3q, 6p, 7q, 8q, 12p, 19q, and 20q. Among the tumor
+  biopsies, overrepresentations of 7p and 8q were most common 31 , followed by 5p,
+  5q, 11p, 11q, 12p, and 18q 23 , whereas the most frequent losses involved 18p and
+  18q 31 and 6q and 17p 23 . The genetic changes in nine samples obtained from metastatic
+  lesions did not differ significantly from those in 15 primary carcinomas. Most of
+  the gains and losses detected in this CGH study correspond well to those identified
+  in previous cytogenetic and molecular genetic investigations of pancreatic carcinomas.
+  However, frequent gain of 12p and loss of 15q have not been previously reported.
+  Molecular genetic analyses of these chromosome arms are warranted, and may lead
+  to the discovery of novel genes important in pancreatic carcinogenesis.
+authors: Mahlamaki EH, Hoglund M, Gorunova L, Karhu R, Dawiskiba S, Andren-Sandberg
+  A, Kallioniemi OP and Johansson B.
+contact:
+  email: eija.mahlamaki@uta.fi
+  name: Eija Mahlam  ki
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9408755
+geo_data:
+  geo_json:
+    coordinates:
+    - 23.79
+    - 61.5
+    type: Point
+  info:
+    city: Tampere
+    continent: Europe
+    country: Finland
+    label: Tampere, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 20, 4 (1997): 383-91.'
+label: 'Mahlamaki et al. (1997): Comparative Genomic Hybridization Reveals Frequent
+  Gains of 20q, 8q, 11q, 12p, and 17q, and ...'
+notes: In this study, short term cultured cells were used for part of the analysis.
+pmid: 9408755
+title: Comparative Genomic Hybridization Reveals Frequent Gains of 20q, 8q, 11q, 12p,
+  and 17q, and Losses of 18q, 9p, and 15q in Pancreatic Cancer.
+year: 1997

@@ -1,0 +1,45 @@
+---
+abstract: Comparative genomic hybridization was applied for a comprehensive screening
+  of frequently occurring net gains and losses of chromosomal subregions in small
+  populations of CD30 Hodgkin cells and their morphological variants. In 12 Hodgkins
+  lymphomas, recurrent gains were detected on chromosomal arms 2p, 9p, and 12q in
+  six, four, and five tumors, respectively and distinct high-level amplifications
+  were identified on chromosomal bands 4p16, 4q23-q24, and 9p23-p24. In Hodgkin cells
+  with 9p23-p24 amplification, fluorescence in situ hybridization revealed an increased
+  copy number of chromosomal sequences spanning the tyrosine kinase gene JAK2. Several
+  of the imbalances described, in particular a gain in chromosomal arm 9p that includes
+  JAK2 amplification, are similar to the genomic changes detected in primary mediastinal
+  B-cell lymphoma.
+authors: Joos S, Kupper M, Ohl S, von Bonin F, Mechtersheimer G, Bentz M, Marynen
+  P, Moller P, Pfreundschuh M, Trumper L and Lichter P.
+contact:
+  email: s.joos@dkfz.de
+  name: Stefan Joos
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10676635
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cancer Res 60, 3 (2000): 549-52.'
+label: 'Joos et al. (2000): Genomic Imbalances Including Amplification of the Tyrosine
+  Kinase Gene Jak2 in Cd30  Hodgkin ...'
+notes: ~
+pmid: 10676635
+title: Genomic Imbalances Including Amplification of the Tyrosine Kinase Gene Jak2
+  in Cd30  Hodgkin Cells.
+year: 2000

@@ -1,0 +1,40 @@
+---
+abstract: A case of glioblastoma multiforme GBM that was investigated with a broad
+  spectrum of cytogenetic and molecular cytogenetic techniques is reported. The results
+  of cytogenetic studies, interphase fluorescence in situ hybridization, comparative
+  genomic hybridization, and spectral karyotyping SKY are reported. Various structural
+  chromosomal aberrations were identified, among which aberrations involving chromosome
+  arm 2p were especially frequent. Using SKY, six translocations not previously described
+  in GBM are reported.
+authors: Zuber MA, Krupp W, Holland H and Froster UG.
+contact:
+  email: zubm@medizin.uni-leipig.de
+  name: M. A. Zuber
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12505254
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.37
+    - 51.34
+    type: Point
+  info:
+    city: Leipzig
+    continent: Europe
+    country: Germany
+    label: Leipzig, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 138, 2 (2002): 111-15.'
+label: 'Zuber et al. (2002): Characterization of Chromosomal Aberrations in a Case
+  of Glioblastoma Multiforme Combining ...'
+notes: ~
+pmid: 12505254
+title: Characterization of Chromosomal Aberrations in a Case of Glioblastoma Multiforme
+  Combining Cytogenetic and Molecular Cytogenetic Techniques.
+year: 2002

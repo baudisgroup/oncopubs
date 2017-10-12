@@ -1,0 +1,38 @@
+---
+abstract: Nonmedullary thyroid cancer is the most common form of thyroid cancer and
+  its familial form FNMTC is increasingly recognized as a distinct clinical entity.
+  However, the genetic background of FNMTC is still poorly understood and the causative
+  gene s have not yet been identified.
+authors: Brunaud L, Zarnegar R, Wada N, Magrane G, Wong M, Duh QY, Davis O and Clark
+  OH.
+contact:
+  email: clarko@surgery.ucsf.edu
+  name: Orlo Clark
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12964966
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Thyroid 13, 7 (2003): 621-29.'
+label: 'Brunaud et al. (2003): Chromosomal Aberrations By Comparative Genomic Hybridization
+  in Thyroid Tumors in Patients With ...'
+notes: 22 nonmedullary thyroid carcinomas or nodal hyperplasias were analyzed by CGH.
+pmid: 12964966
+title: Chromosomal Aberrations By Comparative Genomic Hybridization in Thyroid Tumors
+  in Patients With Familial Nonmedullary Thyroid Cancer.
+year: 2003

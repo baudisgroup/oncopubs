@@ -1,0 +1,61 @@
+---
+abstract: To uncover the genetic events leading to transformation of pediatric low-grade
+  glioma (PLGG) to secondary high-grade glioma (sHGG).  We retrospectively identified
+  patients with sHGG from a population-based cohort of 886 patients with PLGG with
+  long clinical follow-up. Exome sequencing and array CGH were performed on available
+  samples followed by detailed genetic analysis of the entire sHGG cohort. Clinical
+  and outcome data of genetically distinct subgroups were obtained.  sHGG was observed
+  in 2.9% of PLGGs (26 of 886 patients). Patients with sHGG had a high frequency of
+  nonsilent somatic mutations compared with patients with primary pediatric high-grade
+  glioma (HGG; median, 25 mutations per exome; P = .0042). Alterations in chromatin-modifying
+  genes and telomere-maintenance pathways were commonly observed, whereas no sHGG
+  harbored the BRAF-KIAA1549 fusion. The most recurrent alterations were BRAF V600E
+  and CDKN2A deletion in 39% and 57% of sHGGs, respectively. Importantly, all BRAF
+  V600E and 80% of CDKN2A alterations could be traced back to their PLGG counterparts.
+  BRAF V600E distinguished sHGG from primary HGG (P = .0023), whereas BRAF and CDKN2A
+  alterations were less commonly observed in PLGG that did not transform (P < .001
+  and P < .001 respectively). PLGGs with BRAF mutations had longer latency to transformation
+  than wild-type PLGG (median, 6.65 years [range, 3.5 to 20.3 years] v 1.59 years
+  [range, 0.32 to 15.9 years], respectively; P = .0389). Furthermore, 5-year overall
+  survival was 75% ï¿½ 15% and 29% ï¿½ 12% for children with BRAF mutant and wild-type
+  tumors, respectively (P = .024).  BRAF V600E mutations and CDKN2A deletions constitute
+  a clinically distinct subtype of sHGG. The prolonged course to transformation for
+  BRAF V600E PLGGs provides an opportunity for surgical interventions, surveillance,
+  and targeted therapies to mitigate the outcome of sHGG.  ï¿½ 2015 by American Society
+  of Clinical Oncology.
+authors: Mistry M, Zhukova N, Merico D, Rakopoulos P, Krishnatry R, Shago M, Stavropoulos
+  J, Alon N, Pole JD, Ray PN, Navickiene V, Mangerel J, Remke M, Buczkowicz P, Ramaswamy
+  V, Guerreiro Stucklin A, Li M, Young EJ, Zhang C, Castelo-Branco P, Bakry D, Laughlin
+  S, Shlien A, Chan J, Ligon KL, Rutka JT, Dirks PB, Taylor MD, Greenberg M, Malkin
+  D, Huang A, Bouffet E, Hawkins CE and Tabori U
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 9
+  samples_acgh: 9
+  samples_ccgh: 0
+  samples_wes: 9
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25667294
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: J. Clin. Oncol. 33(9), 2015
+label: 'Mistry et al. (): BRAF Mutation and CDKN2A Deletion Define a Clinically Distinct
+  Subgroup of Childhood Secondary ...'
+notes: ~
+pmid: 25667294
+title: BRAF Mutation and CDKN2A Deletion Define a Clinically Distinct Subgroup of
+  Childhood Secondary High-Grade Glioma.
+year: 2015

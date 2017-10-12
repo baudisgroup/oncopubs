@@ -1,0 +1,46 @@
+---
+abstract: Germ-line mutations in the BRCA1 and BRCA2 genes confer a predisposition
+  to breast as well as ovarian carcinoma. Except for loss of the respective wild-type
+  allele, somatic genetic changes needed for the progression of inherited ovarian
+  tumors are unknown. A genome-wide search for such alterations was performed by comparative
+  genomic hybridization analysis on BRCA1 and BRCA2 mutation-positive n 20 ovarian
+  carcinoma specimens. Comparison with sporadic ovarian carcinomas n 20 revealed extensive
+  genetic similarity between the inherited and sporadic carcinomas with the sole exception
+  of a frequent gain of 2q24-q32 in the inherited group, suggesting the presence of
+  an oncogene at 2q24-q32 operating in the absence of BRCA1 function. The overall
+  similarity of gains and losses by comparative genomic hybridization suggests a common
+  main pathway in tumor progression of both inherited and sporadic ovarian carcinomas.
+authors: Tapper J, Sarantaus L, Vahteristo P, Nevanlinna H, Hemmer S, Seppala M, Knuutila
+  S and Butzow R.
+contact:
+  email: ralf.butzow@huch.fi
+  name: Ralf Butzow
+counts:
+  biosamples: 40
+  samples_acgh: 0
+  samples_ccgh: 40
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9661879
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Cancer Res 58, 13 (1998): 2715-19.'
+label: 'Tapper et al. (1998): Genetic Changes in Inherited and Sporadic Ovarian Carcinomas
+  By Comparative Genomic Hybridization: ...'
+notes: ~
+pmid: 9661879
+title: 'Genetic Changes in Inherited and Sporadic Ovarian Carcinomas By Comparative
+  Genomic Hybridization: Extensive Similarity Except for a Difference At Chromosome
+  2q24-Q32.'
+year: 1998

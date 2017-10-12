@@ -1,0 +1,56 @@
+---
+abstract: Mantle cell lymphoma MCL is an aggressive non-Hodgkins lymphoma with median
+  patient survival times of approximately 3 years. Although the characteristic t 11
+  14 q13 q32 is found in virtually all cases, experimental evidence suggests that
+  this event alone is insufficient to result in lymphoma and secondary genomic alterations
+  are required. Using a newly developed DNA microarray of 32 433 overlapping genomic
+  segments spanning the entire human genome, we can for the first time move beyond
+  marker based analysis and comprehensively search for secondary genomic alterations
+  concomitant with the t 11 14 in eight commonly used cell models of MCL Granta-519,
+  HBL-2, NCEB-1, Rec-1, SP49, UPN-1, Z138C and JVM-2 . Examining these genomes at
+  tiling resolution identified an unexpected average of 35 genetic alterations per
+  cell line, with equal numbers of amplifications and deletions. Recurrent high-level
+  amplifications were identified at 18q21 containing BCL2, and at 13q31 containing
+  GPC5. In addition, a recurrent homozygous deletion was identified at 9p21 containing
+  p15 and p16. Alignment of these profiles revealed 14 recurrent losses and 21 recurrent
+  gains as small as 130 kb. Remarkably, even the intra immunoglobulin gene deletions
+  at 2p11 and 22q11 were detected, demonstrating the power of combining the detection
+  sensitivity of array comparative genomic hybridization CGH with the resolution of
+  an overlapping whole genome tiling-set. These alterations not only coincided with
+  previously described aberrations in MCL, but also defined 13 novel regions. Further
+  characterization of such minimally altered genomic regions identified using whole
+  genome array CGH will define novel dominant oncogenes and tumor suppressor genes
+  that play important roles in the pathogenesis of MCL.
+authors: de Leeuw RJ, Davies JJ, Rosenwald A, Bebb G, Gascoyne RD, Dyer MJ, Staudt
+  LM, Martinez-Climent JA and Lam WL.
+contact:
+  email: rdeleeuw@bccrc.ca
+  name: Ronald J. deLeeuw
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15229187
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Hum Mol Genet 13, 17 (2004): 1827-37.'
+label: 'de Leeuw et al. (2004): Comprehensive Whole Genome Array Cgh Profiling of
+  Mantle Cell Lymphoma Model ...'
+notes: ~
+pmid: 15229187
+title: Comprehensive Whole Genome Array Cgh Profiling of Mantle Cell Lymphoma Model
+  Genomes.
+year: 2004

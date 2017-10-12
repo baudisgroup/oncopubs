@@ -1,0 +1,51 @@
+---
+abstract: A common aim of pharmacogenomic studies that use genome-wide assays on panels
+  of cancers is the unbiased discovery of genomic alterations that are associated
+  with clinical outcome and drug response. Previous studies of lapatinib, a selective
+  dual-kinase inhibitor of epidermal growth factor receptor EGFR and HER2 tyrosine
+  kinases, have shown predictable relationships between the activity of these target
+  genes and response. Under the hypothesis that additional genes may play a role in
+  drug sensitivity, a predictive model for lapatinib response was constructed from
+  genome-wide DNA copy number data from 24 cancer cell lines. An optimal predictive
+  model which consists of aberrations at nine distinct genetic loci, includes gains
+  of HER2, EGFR, and loss of CDKN2A. This model achieved an area under the receiver
+  operating characteristic curve of approximately 0.85 80 confidence interval, 0.70-0.98
+  P amp lt 0.01 , and correctly classified the sensitivity status of 8 of 10 head
+  and neck cancer cell lines. This study shows that biomarkers predictive for lapatinib
+  sensitivity, including the previously described copy number gains of EGFR and HER2,
+  can be discovered using novel genomic assays in an unbiased manner. Furthermore,
+  these results show the utility of DNA copy number profiles in pharmacogenomic studies.
+authors: Greshock J, Cheng J, Rusnak D, Martin AM, Wooster R, Gilmer T, Lee K, Weber
+  BL and Zaks T.
+contact:
+  email: Tal.Z.Zaks@gsk.com
+  name: Tal Zaks
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18413807
+- geo:GSE9585
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.45
+    - 40.19
+    type: Point
+  info:
+    city: Collegeville
+    continent: ~
+    country: United States
+    label: Collegeville, United States
+    precision: city [needs verification]
+journal: 'Mol Cancer Ther 7, 4 (2008): 935-43.'
+label: 'Greshock et al. (2008): Genome-Wide DNA Copy Number Predictors of Lapatinib
+  Sensitivity in Tumor-Derived Cell ...'
+notes: ~
+pmid: 18413807
+title: Genome-Wide DNA Copy Number Predictors of Lapatinib Sensitivity in Tumor-Derived
+  Cell Lines.
+year: 2008

@@ -1,0 +1,53 @@
+---
+abstract: In contrast to other subtypes of lymphoproliferative malignancies, the genetic
+  mechanisms underlying the pathogenesis of hairy cell leukemia HCL are unknown. We
+  studied densely infiltrated splenic tissue of 14 cases of HCL for the presence of
+  chromosomal gains and losses by comparative genomic hybridization CGH . Chromosomal
+  imbalances were detected in only four of the 14 cases. Chromosomal gains involved
+  the regions 5q13-q31 two cases and 1p32-p36.2 one case . A loss of the region 11q14-q22
+  was found in one additional patient. The imbalances affecting the regions 5q and
+  11q were confirmed by interphase fluorescence in situ hybridization FISH using PAC
+  clone 144G9 5q31 and YAC clones 755B11 11q22.3-q23.1 and 801E11 11q22.3-q23.1 spanning
+  the ATM gene and occurred in 61 to 75 of analyzed nuclei. The latter DNA probes
+  and probes hybridizing to chromosomal regions, which are frequently deleted in other
+  subtypes of non-Hodgkin lymphomas NHL , namely 9p21 P16 INK4A , 13q14 D13S25, and
+  17p13 P53 were subsequently applied to all 14 cases of HCL, but no additional abnormalities
+  were found. We conclude that overrepresentation of chromosome 5 represents a recurrent
+  aberration in HCL and that the commonly overrepresented region resides in 5q13-q31.
+  Chromosomal imbalances including deletions of the tumor suppressor gene loci 9p21
+  P16 INK4A , 13q14 D13S25, and 17p13 P53 rarely occur in HCL in contrast to some
+  other subtypes of B-cell NHL. The pathogenetic role of 11q ATM alterations in HCL
+  remains to be determined.
+authors: Dierlamm J, Stefanova M, Wlodarska I, Michaux L, Hinz K, Penas EM, Maes B,
+  Hagemeijer A, De Wolf-Peeters C and Hossfeld DK.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11463458
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.02
+    - 53.58
+    type: Point
+  info:
+    city: Hamburg
+    continent: Europe
+    country: Germany
+    label: Hamburg, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 128, 2 (2001): 164-67.'
+label: 'Dierlamm et al. (2001): Chromosomal Gains and Losses Are Uncommon in Hairy
+  Cell Leukemia: A Study Based on Comparative ...'
+notes: ~
+pmid: 11463458
+title: 'Chromosomal Gains and Losses Are Uncommon in Hairy Cell Leukemia: A Study
+  Based on Comparative Genomic Hybridization and Interphase Fluorescence in Situ Hybridization.'
+year: 2001

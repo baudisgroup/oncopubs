@@ -1,0 +1,55 @@
+---
+abstract: 'Gene-expression profiling has identified 3 major subgroups of diffuse large
+  B-cell lymphoma DLBCL : germinal center B-cell-like GCB , activated B-cell-like
+  ABC , and primary mediastinal DLBCL PMBCL . Using comparative genomic hybridization
+  CGH , we investigated the genetic alterations of 224 cases of untreated DLBCL 87
+  GCB-DLBCL, 77 ABC-DLBCL, 19 PMBCL, and 41 unclassified DLBCL previously characterized
+  by gene-expression profiling. The DLBCL subgroups differed significantly in the
+  frequency of particular chromosomal aberrations. ABC-DLBCL had frequent trisomy
+  3, gains of 3q and 18q21-q22, and losses of 6q21-q22, whereas GCB-DLBCL had frequent
+  gains of 12q12, and PMBCL had gains of 9p21-pter and 2p14-p16. Parallel analysis
+  of CGH alterations, locus-specific gene-expression profiles, and global gene-expression
+  signatures revealed that DNA amplifications and gains had a substantial impact on
+  the expression of genes in the involved chromosomal regions, and some genes were
+  overexpressed in a DLBCL subgroup-specific fashion. Unexpectedly, specific chromosomal
+  alterations were associated with significant changes in gene-expression signatures
+  that reflect various aspects of lymphoma cell biology as well as the host response
+  to the lymphoma. In addition, gains involving the chromosomal region 3p11-p12 provided
+  prognostic information that was statistically independent of the previously defined
+  gene-expression-based survival model, thereby improving its predictive power.'
+authors: Bea S, Zettl A, Wright G, Salaverria I, Jehn P, Moreno V, Burek C, Ott G,
+  Puig X, Yang L, Lopez-Guillermo A, Chan WC, Greiner TC, Weisenburger DD, Armitage
+  JO, Gascoyne RD, Connors JM, Grogan TM, Braziel R, Fisher RI, Smeland EB, Kvaloy
+  S, Holte H, Delabie J, Simon R, Powell J, Wilson WH, Jaffe ES, Montserrat E, Muller-Hermelink
+  HK, Staudt LM, Campo E and Rosenwald A.
+contact:
+  email: ecampo@clinic.ub.es
+  name: Elias Campo
+counts:
+  biosamples: 255
+  samples_acgh: 0
+  samples_ccgh: 255
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16046532
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Blood 106, 9 (2005): 3183-90.'
+label: 'Bea et al. (2005): Diffuse Large B-Cell Lymphoma Subgroups Have Distinct Genetic
+  Profiles That Influence Tumor Biology ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 16046532
+title: Diffuse Large B-Cell Lymphoma Subgroups Have Distinct Genetic Profiles That
+  Influence Tumor Biology and Improve Gene-Expression-Based Survival Prediction.
+year: 2005

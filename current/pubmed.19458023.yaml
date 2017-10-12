@@ -1,0 +1,53 @@
+---
+abstract: Ileal carcinoids are malignant neuroendocrine tumours of the small intestine.
+  The aim of this study was to obtain a high-resolution genomic profile of ileal carcinoids
+  in order to define genetic changes important for tumour initiation, progression
+  and survival. Forty-three patients with ileal carcinoids were investigated by high-resolution
+  array-based comparative genomic hybridization. The average number of copy number
+  alterations CNAs per tumour was 7.1 range 1-22 , with losses being more common than
+  gains ratio 1.4 . The most frequent CNA was loss of chromosome 18 74 . Other frequent
+  CNAs were gain of chromosome 4, 5, 14 and 20, and loss of 11q22.1-q22.2, 11q22.3-q23.1
+  and 11q23.3, and loss of 16q12.2-q22.1 and 16q23.2-qter. Two distinct patterns of
+  CNAs were found the majority of tumours was characterized by loss of chromosome
+  18 while a subgroup of tumours had intact chromosome 18, but gain of chromosome
+  14. Survival analysis, using a series of Poisson regressions including recurrent
+  CNAs, demonstrated that gain of chromosome 14 was a strong predictor of poor survival.
+  In conclusion, high-resolution profiling demonstrated two separate patterns of CNAs
+  in ileal carcinoids. The majority of tumours showed loss of chromosome 18, which
+  most likely represents a primary event in the development and pathogenesis of tumours.
+  A different genetic pathway is operative in a subgroup of tumours this is characterized
+  by gain of chromosome 14 and is strongly associated with poor prognosis. Predictive
+  fluorescence in situ hybridization analysis of chromosome 14 status in patients
+  with ileal carcinoids is suggested.
+authors: Andersson E, Sward C, Stenman G, Ahlman H, and Nilsson O.
+contact:
+  email: ~
+  name: Ola Nilsson
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19458023
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Endocr Relat Cancer, 16(3) 2009, 953-66.
+label: 'Andersson et al. (2009): High-resolution genomic profiling reveals gain of
+  chromosome 14 as a predictor of poor outcome ...'
+notes: ~
+pmid: 19458023
+title: High-resolution genomic profiling reveals gain of chromosome 14 as a predictor
+  of poor outcome in ileal carcinoids.
+year: 2009

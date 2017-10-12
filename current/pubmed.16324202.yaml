@@ -1,0 +1,40 @@
+---
+abstract: Medulloblastoma MB , a kind of infratentorial primitive neuroectodermal
+  tumour PNET , is the most frequent malignant brain tumour in childhood. In contrast,
+  supratentorial PNET sPNET are very infrequent tumours, but they are histologically
+  similar to MB, although they present a worse clinical outcome. We investigated the
+  differences in genetic abnormalities between sPNET and MB.
+authors: Inda MM, Perot C, Guillaud-Bataille M, Danglot G, Rey JA, Bello MJ, Fan X,
+  Eberhart C, Zazpe I, Portillo E, Tunon T, Martinez-Penuela JM, Bernheim A and Castresana
+  JS.
+contact:
+  email: jscastresana@unav.es
+  name: Javier S Castresana
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16324202
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.36
+    - 48.79
+    type: Point
+  info:
+    city: Villejuif
+    continent: Europe
+    country: France
+    label: Villejuif, France, Europe
+    precision: city
+journal: 'Histopathology 47, 6 (2005): 631-37.'
+label: 'Inda et al. (2005): Genetic Heterogeneity in Supratentorial and Infratentorial
+  Primitive Neuroectodermal Tumours of the ...'
+notes: ~
+pmid: 16324202
+title: Genetic Heterogeneity in Supratentorial and Infratentorial Primitive Neuroectodermal
+  Tumours of the Central Nervous System.
+year: 2005

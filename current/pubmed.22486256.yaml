@@ -1,0 +1,40 @@
+---
+abstract: ' Microglandular adenosis MGA is a proliferative breast lesion, which has
+  been proposed to be a potential precursor of triple-negative breast cancers. The
+  aims of this study were to determine whether MGAs harbour genetic alterations and
+  if any such genetic aberrations found in MGAs are similar to those found in matched
+  invasive carcinomas.'
+authors: Geyer FC, Lacroix-Triki M, Colombo PE, Patani N, Gauthier A, Natrajan R,
+  Lambros MB, Khalifeh I, Albarracin C, Orru S, Marchio C, Sapino A, Mackay A, Weigelt
+  B, Schmitt FC, Wesseling J, Sneige N and Reis-Filho JS.
+contact:
+  email: jorgerf@icr.ac.uk
+  name: Jorge Reis-Filho
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22486256
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Histopathology 60, 6B (2012): E115-E130.'
+label: 'Geyer et al. (2012): Molecular Evidence in Support of the Neoplastic and Precursor
+  Nature of Microglandular ...'
+notes: ~
+pmid: 22486256
+title: Molecular Evidence in Support of the Neoplastic and Precursor Nature of Microglandular
+  Adenosis.
+year: 2012

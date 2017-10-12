@@ -1,0 +1,40 @@
+---
+abstract: 'DNA sequence copy number changes were studied by comparative genomic hybridization
+  CGH in 28 desmoid tumors. Changes were detected in 12 tumors 43 with a mean of 1.4
+  changes per sample range: 1 to 7 . Out of 12 tumors associated with pregnancy or
+  Gardners syndrome, only two displayed changes. The minimal common regions of the
+  most frequent gains were 1q21 39 , chromosome 20 32 , and 9p12 21 . No high-level
+  amplifications were detected. Losses of DNA sequences were two times less frequent
+  than gains and the minimal common regions of the most frequent losses were 6q16-q21
+  14 , 5q14 11 , and 13q21-q31 11 .'
+authors: Larramendy ML, Virolainen M, Tukiainen E, Elomaa I and Knuutila S.
+contact:
+  email: dalia76ro@yahoo.com
+  name: Dalia Pascalau
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9739022
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 23, 2 (1998): 183-86.'
+label: 'Larramendy et al. (1998): Chromosome Band 1q21 is Recurrently Gained in Desmoid
+  Tumors.'
+notes: ~
+pmid: 9739022
+title: Chromosome Band 1q21 is Recurrently Gained in Desmoid Tumors.
+year: 1998

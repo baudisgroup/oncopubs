@@ -1,0 +1,50 @@
+---
+abstract: Cervical and vulvar cancers are diseases of the female lower genital tract,
+  and high-risk human papillomavirus HPV infection is the most important risk factor
+  for the development of both cancers. However, it is clear that additional genetic
+  events are necessary for tumor progression, particularly in HPV-negative cases.
+  We detected the presence of high-risk HPV16 and HPV18 genomes by gene-specific polymerase
+  chain reaction and searched for common genetic imbalances by comparative genomic
+  hybridization CGH in 28 cervical and 8 vulvar tumor samples and 7 cancer cell lines.
+  The presence of the HPV genome was detected in 25 28 89 cervical tumors and 6 8
+  75 vulvar tumors. CGH of cervical and vulvar tumor samples revealed a consistent
+  pattern of genetic changes in both cancers. Frequent gains were found in 1q, 3q,
+  5p, and 8q, and less consistent losses were detected in 2q, 3p, 4p, and 11p. Notably,
+  a high-level amplification of 3q was found in 9 28 32 cervical tumors and 1 8 12.5
+  vulvar tumors, indicating a pivotal role of gain of 3q in cervical and vulvar carcinogenesis.
+  Furthermore, gains of 5p identified in 9 28 32 cervical tumors and 3 8 37.5 vulvar
+  tumors were seldom described, particularly in vulvar tumors. Our findings suggest
+  that cervical and vulvar carcinomas bear similar chromosomal alteration hot spots
+  that largely coincide with common genomic lesions during tumor progression, besides
+  the initiation by infection and integration of oncogenic HPV.
+authors: Huang FY, Kwok YK, Lau ET, Tang MH, Ng TY and Ngan HY.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 43
+  samples_acgh: 0
+  samples_ccgh: 43
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15676146
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet (2005) 157: 42-48.'
+label: 'Huang et al. (2005): Genetic abnormalities and HPV status in cervical and
+  vulvar squamous cell carcinomas.'
+notes: ~
+pmid: 15676146
+title: Genetic abnormalities and HPV status in cervical and vulvar squamous cell carcinomas.
+year: 2005

@@ -1,0 +1,51 @@
+---
+abstract: The clinical behavior of invasive cervical carcinoma of clinical stage IB
+  varies considerably in tumors presenting without regional lymph node metastases.
+  The early identification of patients at higher risk for poor outcome may prove useful
+  because these patients would benefit from aggressive adjuvant treatments. In this
+  study, comparative genomic hybridization was applied to evaluate whether genomic
+  aberrations have prognostic significance in cervical carcinoma. Genomic alterations
+  were evaluated in 62 cervical carcinomas of clinical stage IB. DNA sequence losses
+  were most prevalent at chromosomes 4q 53 , 3p 52 , 13q 45 , 4p 44 , Xq 44 , 5q 40
+  , 18q 37 , and 6q 35 . Several genomic alterations were associated with poor clinical
+  outcome or metastasis. The total number of DNA aberrations tumor P amp lt 0.02 and
+  the number of DNA sequence losses tumor P amp lt 0.04 were associated with disease-specific
+  survival. 9p deletions were significantly more frequent in carcinomas with lymph
+  node metastasis than in node-negative tumors P amp lt 0.03 . Losses of chromosome
+  11p P amp lt 0.0001 and 18q P amp lt 0.01 were associated with poor prognosis in
+  cervical carcinomas without lymph node metastasis. These data suggest that inactivation
+  of tumor suppressor genes on chromosomes 9p, 11p, and 18q may play a role in the
+  progression of cervical carcinoma.
+authors: Dellas A, Torhorst J, Jiang F, Proffitt J, Schultheiss E, Holzgreve W, Sauter
+  G, Mihatsch MJ and Moch H.
+contact:
+  email: a.dellas@unibas.ch
+  name: Athanassios Dellas
+counts:
+  biosamples: 62
+  samples_acgh: 0
+  samples_ccgh: 62
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10416613
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Cancer Res (1999) 59: 3475-3479.'
+label: 'Dellas et al. (1999): Prognostic value of genomic alterations in invasive
+  cervical squamous cell carcinoma of clinical ...'
+notes: ~
+pmid: 10416613
+title: Prognostic value of genomic alterations in invasive cervical squamous cell
+  carcinoma of clinical stage IB detected by comparative genomic hybridization.
+year: 1999

@@ -1,0 +1,47 @@
+---
+abstract: Thymic neuroendocrine carcinoid tumors are a rare neoplasm of the anterior
+  mediastinum. The tumors frequently exhibit a wide spectrum of histology and appear
+  to follow a more aggressive behavior than their nonthymic counterparts. Given the
+  differing clinicopathologic manifestations, thymic neuroendocrine tumors may also
+  possess different cytogenetic abnormalities from those that occur in foregut carcinoid
+  tumors. In this study, we employed comparative genomic hybridization to detect genomic
+  instability in 10 sporadic thymic neuroendocrine tumors and one multiple endocrine
+  neoplasia type 1 MEN1 -associated case. Gross chromosomal imbalances were found
+  in nine cases, including gains of chromosomal material on regions X, 8, 18 and 20p
+  and losses on 3, 6, 9q, 13q and 11q. We did not observe deletion at locus 11q13
+  where the MEN1 gene is located. These findings were essentially dissimilar to those
+  reported in sporadic and MEN1-associated foregut carcinoid tumors. Consequently,
+  we consider that a distinctive cytogenetic mechanism is at work in the development
+  of thymic neuroendocrine tumors, which is different from that of foregut carcinoid
+  tumors.
+authors: Pan CC, Jong YJ and Chen YJ.
+contact:
+  email: ccpan@vghtpe.gov.tw
+  name: Yann-Jang Chen
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15272285
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Mod Pathol 18, 3 (2005): 358-64.'
+label: 'Pan et al. (2005): Comparative Genomic Hybridization Analysis of Thymic Neuroendocrine
+  Tumors.'
+notes: ~
+pmid: 15272285
+title: Comparative Genomic Hybridization Analysis of Thymic Neuroendocrine Tumors.
+year: 2005

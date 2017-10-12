@@ -1,0 +1,35 @@
+---
+abstract: ~
+authors: Alimov A, Sundelin B, Bergerheim U, Pavlenko M, Pisa P, Zetterberg A, Larsson
+  C, and Lagercrantz S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15375545
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: Int J Oncol, 25(4) 2004, 955-60.
+label: 'Alimov et al. (2004): Molecular cytogenetic characterization shows higher
+  genetic homogeneity in conventional renal cell ...'
+notes: ~
+pmid: 15375545
+title: Molecular cytogenetic characterization shows higher genetic homogeneity in
+  conventional renal cell carcinoma compared to other kidney cancers.
+year: 2004

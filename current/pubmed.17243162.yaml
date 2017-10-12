@@ -1,0 +1,53 @@
+---
+abstract: Fanconi anemia FA is an inherited disease with congenital abnormalities
+  and an extreme risk of acute myeloid leukemia AML . Genetic events occurring during
+  malignant transformation in FA and the biology of FA-associated AML are poorly understood,
+  but are often preceded by the development of chromosomal aberrations involving 3q26-29
+  in bone marrow of FA patients. We report here the molecular cytogenetic characterization
+  of FA-derived AML cell lines SB1685CB and SB1690CB by conventional and array comparative
+  genomic hybridization, fluorescence in situ hybridization, and SKY. We identified
+  gains of a 3.7 MB chromosomal region on 3q26.2-26.31, which preceded transformation
+  to overt leukemia. This region harbors the oncogenic transcription factor EVI1.
+  A third FA-derived cell line, FA-AML1, carried a translocation with ectopic localization
+  of 3q26 including EVI1. Rearrangements of 3q, which are rare in childhood AML, commonly
+  result in overexpression of EVI1, which determines specific gene expression patterns
+  and confers poor prognosis. We detected overexpression of EVI1 in all three FA-derived
+  AML. Our results suggest a link between the FA defect, chromosomal aberrations involving
+  3q and overexpression of EVI1. We hypothesize that constitutional or acquired FA
+  defects might be a common factor for the development of 3q abnormalities in AML.
+  In addition, cryptic imbalances as detected here might account for overexpression
+  of EVI1 in AML without overt 3q26 rearrangements.
+authors: Meyer S, Fergusson WD, Whetton AD, Moreira-Leite F, Pepper SD, Miller C,
+  Saunders EK, White DJ, Will AM, Eden T, Ikeda H, Ullmann R, Tuerkmen S, Gerlach
+  A, Klopocki E and Tonnies H.
+contact:
+  email: stefan.meyer@manchester.ac.uk
+  name: Stefan Meyer
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17243162
+geo_data:
+  geo_json:
+    coordinates:
+    - -2.24
+    - 53.48
+    type: Point
+  info:
+    city: Manchester
+    continent: Europe
+    country: United Kingdom
+    label: Manchester, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 46, 4 (2007): 359-72.'
+label: 'Meyer et al. (2007): Amplification and Translocation of 3q26 With Overexpression
+  of Evi1 in Fanconi Anemia-Derived ...'
+notes: ~
+pmid: 17243162
+title: Amplification and Translocation of 3q26 With Overexpression of Evi1 in Fanconi
+  Anemia-Derived Childhood Acute Myeloid Leukemia With Biallelic Fancd1/Brca2 Disruption.
+year: 2007

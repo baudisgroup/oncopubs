@@ -1,0 +1,56 @@
+---
+abstract: 'Well-differentiated liposarcoma WDLS is one of the most common malignant
+  mesenchymal tumors and dedifferentiated liposarcoma DDLS is a malignant tumor consisting
+  of both WDLS and a transformed nonlipogenic sarcomatous component. Cytogenetically,
+  WDLS is characterized by the presence of ring or giant rod chromosomes containing
+  several amplified genes, including MDM2, TSPAN31, CDK4, and others mainly derived
+  from chromosome bands 12q13-15. However, the 12q13-15 amplicon is large and discontinuous.
+  The focus of this study was to identify novel critical genes that are consistently
+  amplified in primary nonrecurrent WDLS and with potential relevance for future targeted
+  therapy. Using a high-resolution 5.0 kb amp quot single nucleotide polymorphism
+  amp quot copy number variation microarray to screen the whole genome in a series
+  of primary WDLS, two consistently amplified areas were found on chromosome 12: one
+  region containing the MDM2 and CPM genes, and another region containing the FRS2
+  gene. Based on these findings, we further validated FRS2 amplification in both WDLS
+  and DDLS. Fluorescence in situ hybridization confirmed FRS2 amplification in all
+  WDLS and DDLS tested n 57 . Real time PCR showed FRS2 mRNA transcriptional upregulation
+  in WDLS n 19 and DDLS n 13 but not in lipoma n 5 and normal fat n 9 . Immunoblotting
+  revealed high expression levels of phospho-FRS2 at Y436 and slightly overexpression
+  of total FRS2 protein in liposarcoma but not in normal fat or preadipocytes. Considering
+  the critical role of FRS2 in mediating fibroblast growth factor receptor signaling,
+  our findings indicate that FRS2 signaling should be further investigated as a potential
+  therapeutic target for liposarcoma.'
+authors: Wang X, Asmann YW, Erickson-Johnson MR, Oliveira JL, Zhang H, Moura RD, Lazar
+  AJ, Lev D, Bill K, Lloyd RV, Yaszemski MJ, Maran A and Oliveira AM.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 43
+  samples_acgh: 43
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21793095
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer (2011) 50: 849-858.'
+label: 'Wang et al. (2011): High-resolution genomic mapping reveals consistent amplification
+  of the fibroblast growth factor ...'
+notes: ~
+pmid: 21793095
+title: High-resolution genomic mapping reveals consistent amplification of the fibroblast
+  growth factor receptor substrate 2 gene in well-differentiated and dedifferentiated
+  liposarcoma.
+year: 2011

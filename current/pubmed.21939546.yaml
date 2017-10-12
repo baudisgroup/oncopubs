@@ -1,0 +1,42 @@
+---
+abstract: Germ-line mutations in the BRCA1 and BRCA2 genes are major contributors
+  to hereditary breast ovarian cancer. Large rearrangements are less frequent in the
+  BRCA2 gene than in BRCA1. We report, here, the first total deletion of exon 3 in
+  the BRCA2 gene that was detected during screening of 2058 index cases from breast
+  ovarian cancer families for BRCA2 large rearrangements. Deletion of exon 3, which
+  is in phase, does not alter the reading frame. Low levels of alternative transcripts
+  lacking exon 3 3 delta3 transcript have been reported in normal tissues, which raises
+  the question whether deletion of exon 3 is pathogenic.
+authors: Muller D, Rouleau E, Schultz I, Caputo S, Lefol C, Bieche I, Caron O, Nogues
+  C, Limacher JM, Demange L, Lidereau R, Fricker JP and Abecassis J.
+contact:
+  email: ~
+  name: Joseph Abecassis
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21939546
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.75
+    - 48.58
+    type: Point
+  info:
+    city: Strasbourg
+    continent: Europe
+    country: France
+    label: Strasbourg, France, Europe
+    precision: city
+journal: 'BMC Med Genet 12 (2011): 121.'
+label: 'Muller et al. (2011): An Entire Exon 3 Germ-Line Rearrangement in the Brca2
+  Gene: Pathogenic Relevance of Exon 3 ...'
+notes: ~
+pmid: 21939546
+title: 'An Entire Exon 3 Germ-Line Rearrangement in the Brca2 Gene: Pathogenic Relevance
+  of Exon 3 Deletion in Breast Cancer Predisposition.'
+year: 2011

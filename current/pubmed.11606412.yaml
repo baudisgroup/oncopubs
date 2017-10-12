@@ -1,0 +1,45 @@
+---
+abstract: Astrocytomas are brain tumors with variable responses to radiation and chemotherapy.
+  Tumor grade and patient age are important prognostic factors but do not account
+  for the variability in clinical outcome. We hypothesized that genetic subgroups
+  play a role in the outcome of grade III astrocytomas and studied 80 grade III astrocytomas
+  by comparative genomic hybridization. Some chromosomal aberrations 7p q, -9p, -10q,
+  -13q, 19q were related to aberrations that are frequent in grade IV astrocytoma,
+  whereas others 10p, -11q, 11p, -Xq were more frequent in grade III astrocytoma.
+  7p, 19 and -4q were more frequent in tumors from older patients while -11p was more
+  frequent in tumors from younger patients. Finally, gains of 7p and 7q were associated
+  with shorter patient survival, independent of age. Our results indicate that genetic
+  events underlie the well-known effects of age on survival in grade III astrocytoma
+  and demonstrate the importance of molecular classification in astrocytic tumors.
+authors: Kunwar S, Mohapatra G, Bollen A, Lamborn KR, Prados M and Feuerstein BG.
+contact:
+  email: ~
+  name: B.G. Feuerstein
+counts:
+  biosamples: 80
+  samples_acgh: 0
+  samples_ccgh: 80
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11606412
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Cancer Res 61, 20 (2001): 7683-88.'
+label: 'Kunwar et al. (2001): Genetic Subgroups of Anaplastic Astrocytomas Correlate
+  With Patient Age and Survival.'
+notes: ~
+pmid: 11606412
+title: Genetic Subgroups of Anaplastic Astrocytomas Correlate With Patient Age and
+  Survival.
+year: 2001

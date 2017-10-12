@@ -1,0 +1,51 @@
+---
+abstract: Formalin-fixed paraffin embedded FFPE tumor tissue provides an opportunity
+  to perform retrospective genomic studies of tumors in which chromosomal imbalances
+  are strongly associated with oncogenesis. The application of comparative genomic
+  hybridization CGH has led to the rapid accumulation of cytogenetic information on
+  osteosarcoma OS however, the limited resolving power of metaphase CGH does not permit
+  precise mapping of imbalances. Array CGH allows quantitative detection and more
+  precise delineation of copy number aberrations in tumors. Unfortunately the high
+  cost and lower density of BACs on available commercial arrays has limited the ability
+  to comprehensively profile copy number changes in tumors such as OS that are recurrently
+  subject to genomic imbalance. In this study a cDNA EST microarray including 18,980
+  human cDNAs which represent all 22 pairs of autosomal chromosomes and chromosome
+  X was used for CGH analysis of eight OS FFPE. Chromosomes 1, 12, 17, and X harbored
+  the most imbalances. Gain amplification of X was observed in 4 8 OS, and in keeping
+  with other recent genomic analyses of OS, gain amplification of 17p11.2 was often
+  accompanied by a distal deletion in the region of the p53 gene. Gain amplification
+  of the X chromosome was verified using interphase FISH carried out on a subset of
+  OS FFPE sections and OS tissue arrays.
+authors: Zielenska M, Marrano P, Thorner P, Pei J, Beheshti B, Ho M, Bayani J, Liu
+  Y, Sun BC, Squire JA and Hao XS.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15305059
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cytogenet Genome Res 107, 1-2 (2004): 77-82.'
+label: 'Zielenska et al. (2004): High-Resolution Cdna Microarray Cgh Mapping of Genomic
+  Imbalances in Osteosarcoma Using ...'
+notes: ~
+pmid: 15305059
+title: High-Resolution Cdna Microarray Cgh Mapping of Genomic Imbalances in Osteosarcoma
+  Using Formalin-Fixed Paraffin-Embedded Tissue.
+year: 2004

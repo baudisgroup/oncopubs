@@ -1,0 +1,55 @@
+---
+abstract: Comprehensive information about the molecular cytogenetic changes in metastases
+  of colorectal cancer is not yet available. To define such changes in metastases,
+  we measured relative DNA sequence copy numbers by comparative genomic hybridization
+  CGH . Samples from 27 liver metastases and 6 synchronous primary tumors were analyzed.
+  An average of 9.9 aberrations per tumor was found in the metastases. Gains of chromosome
+  arms 20q 85 , 13q 48 , 7p 44 , and 8q 44 and losses of chromosome arms 18q 89 ,
+  8p 59 , 1p 56 , and 18p 48 were detected most frequently. Chromosomes 14 and 15
+  were lost in 26 and 30 of the metastases, respectively. No consistent differences
+  were observed between primary tumors and synchronous metastases. Fluorescence in
+  situ hybridization FISH was used for further characterization of gains of chromosome
+  arm 20q. Touch preparations of 13 tumors that had demonstrated 20q gain with CGH
+  were examined with FISH by use of a set of probes mapping to different parts of
+  20q. A probe for 20p was used as a reference. FISH showed relative gain of at least
+  one 20q locus in 12 of the tumors. High-level gains were detected in 38 of the tumors,
+  preferentially for probes mapping to band 20q13. Our CGH data indicate that colorectal
+  metastases show chromosomal changes similar to those that have been reported for
+  primary tumors. Chromosomal losses were seen at higher frequency, particularly for
+  chromosomes 14 and 15. By FISH, we identified subregions on chromosome arm 20q that
+  are frequently involved in DNA amplifications in colorectal cancer and that may
+  harbor candidate proto-oncogenes.
+authors: Korn WM, Yasutake T, Kuo WL, Warren RS, Collins C, Tomita M, Gray J and Waldman
+  FM.
+contact:
+  email: ~
+  name: NA Korn
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10337990
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 25, 2 (1999): 82-90.'
+label: 'Korn et al. (1999): Chromosome Arm 20q Gains and Other Genomic Alterations
+  in Colorectal Cancer Metastatic to Liver, as ...'
+notes: ~
+pmid: 10337990
+title: Chromosome Arm 20q Gains and Other Genomic Alterations in Colorectal Cancer
+  Metastatic to Liver, as Analyzed By Comparative Genomic Hybridization and Fluorescence
+  in Situ Hybridization.
+year: 1999

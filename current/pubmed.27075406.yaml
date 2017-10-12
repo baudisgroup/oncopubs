@@ -1,0 +1,52 @@
+---
+abstract: Myelodysplastic syndrome (MDS) is a group of clonal hematopoietic diseases
+  characterized by cytopenia, dysplasia and increased risk of development to acute
+  myeloid leukemia (AML). Unfavorable cytogenetic changes such as complex karyotypes
+  or chromosome 7 anomalies are predictive of the progression to AML and poor prognosis.
+  Central diabetes insipidus (CDI) is the result of a deficiency of arginine vasopressin,
+  and its major causes are idiopathic, primary or secondary tumors, neurosurgery and
+  trauma. Importantly, CDI is a rare complication of MDS. To date, only 5 cases of
+  MDS co-occurring with CDI have been reported; 3 of 5 had cytogenetic abnormalities
+  uncovered by metaphase cytogenetics and 3 of 5 evolved to AML. Here, we describe
+  a 74-year-old woman who presented with CDI as her initial symptom of MDS and eventually
+  progressed to AML. The metaphase cytogenetics, combined with the single-nucleotide
+  polymorphism array (SNP-A)-based karyotyping, with superiority in resolution and
+  detecting copy number variation, revealed a complex karyotype that included monosomy
+  of chromosome 7, deletion of 20q, and absence of heterogeneity (AOH) in more than
+  one chromosome. To the best of our knowledge, this is the first case report of MDS
+  co-occurring with CDI with numerous cytogenetic abnormalities revealed by the SNP-A-based
+  karyotyping. Our case supports that the cytogenetic abnormalities may be associated
+  with the clinical features and the prognosis of MDS co-occurring with CDI. The SNP-A-based
+  karyotyping is helpful in revealing more subtle cytogenetic abnormalities and unveiling
+  their roles in the pathogenesis of MDS.
+authors: Sun R, Wang C, Zhong X and Wu Y
+contact:
+  email: ~
+  name: Y Wu
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27075406
+geo_data:
+  geo_json:
+    coordinates:
+    - 104.07
+    - 30.67
+    type: Point
+  info:
+    city: Chengdu
+    continent: Asia
+    country: China
+    label: Chengdu, China, Asia
+    precision: city
+journal: Tohoku J. Exp. Med. 238(4), 2016
+label: 'Sun R et al. (2016): '
+notes: ~
+pmid: 27075406
+title: 'Diabetes Insipidus as an Initial Presentation of Myelodysplastic Syndrome:
+  Diagnosis with Single-Nucleotide Polymorphism Array-Based Karyotyping.'
+year: 2016

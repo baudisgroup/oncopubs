@@ -1,0 +1,42 @@
+---
+abstract: The molecular mechanisms underlying penile carcinoma are still poorly understood,
+  and the detection of genetic markers would be of great benefit for these patients.
+  In this study, we assessed the genomic profile aiming at identifying potential prognostic
+  biomarkers in penile carcinoma. Globally, 46 penile carcinoma samples were considered
+  to evaluate DNA copy-number alterations via array comparative genomic hybridization
+  (aCGH) combined with human papillomavirus (HPV) genotyping. Specific genes were
+  investigated by using qPCR, FISH, and RT-qPCR. Genomic alterations mapped at 3p
+  and 8p were related to worse prognostic features, including advanced T and clinical
+  stage, recurrence and death from the disease. Losses of 3p21.1-p14.3 and gains of
+  3q25.31-q29 were associated with reduced cancer-specific and disease-free survival.
+  Genomic alterations detected for chromosome 3 (LAMP3, PPARG, TNFSF10 genes) and
+  8 (DLC1) were evaluated by qPCR. DLC1 and PPARG losses were associated with poor
+  prognosis characteristics. Losses of DLC1 were an independent risk factor for recurrence
+  on multivariate analysis. The gene-expression analysis showed downexpression of
+  DLC1 and PPARG and overexpression of LAMP3 and TNFSF10 genes. Chromosome Y losses
+  and MYC gene (8q24) gains were confirmed by FISH. HPV infection was detected in
+  34.8% of the samples, and 19 differential genomic regions were obtained related
+  to viral status. At first time, we described recurrent copy-number alterations and
+  its potential prognostic value in penile carcinomas. We also showed a specific genomic
+  profile according to HPV infection, supporting the hypothesis that penile tumors
+  present distinct etiologies according to virus status.  ï¿½2014 American Association
+  for Cancer Research.
+authors: Busso-Lopes AF, Marchi FA, Kuasne H, Scapulatempo-Neto C, Trindade-Filho
+  JC, de Jesus CM, Lopes A, Guimarï¿½es GC and Rogatto SR
+contact:
+  email: rogatto@fmb.unesp.br
+  name: Silvia Regina Rogatto
+counts:
+  biosamples: 46
+  samples_acgh: 46
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25502573
+journal: Cancer Prev Res (Phila) 8(2), 2015
+label: 'Busso-Lopes AF et al. (2015): '
+notes: ~
+pmid: 25502573
+title: Genomic profiling of human penile carcinoma predicts worse prognosis and survival.
+year: 2015

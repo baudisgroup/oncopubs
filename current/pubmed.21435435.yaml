@@ -1,0 +1,51 @@
+---
+abstract: In this study, we have analyzed the expression of TRIM24 TIF-1 , a negative
+  regulator of various transcription factors including nuclear receptors and p53 at
+  the genomic, mRNA, and protein levels in human breast tumors. In breast cancer biopsy
+  specimens, TRIM24 TIF-1 mRNA levels assessed by Real-Time Quantitative PCR or microarray
+  expression profiling were increased as compared to normal breast tissues. At the
+  genomic level, array comparative genomic hybridization analysis showed that the
+  TRIM24 TIF-1 locus 7q34 exhibited both gains and losses that correlated with mRNA
+  levels. By re-analyzing a series of 238 tumors, high levels of TRIM24 TIF-1 mRNA
+  significantly correlated with various markers of poor prognosis such as the molecular
+  subtype and were associated with worse overall survival. By using a rabbit polyclonal
+  antibody for immunochemistry, the TRIM24 TIF-1 protein was detected in nuclei of
+  normal luminal epithelial breast cells, but not in myoepithelial cells. Tissue microarray
+  analysis confirmed that its expression was increased in epithelial cells from normal
+  to breast infiltrating duct carcinoma and correlated with worse overall survival.
+  Altogether, this work is the first study that shows that overexpression of the TRIM24
+  TIF-1 gene in breast cancer is associated with poor prognosis and worse survival,
+  and it suggests that this transcription coregulator may play a role in mammary carcinogenesis
+  and represent a novel prognostic marker.
+authors: Chambon M, Orsetti B, Berthe ML, Bascoul-Mollevi C, Rodriguez C, Duong V,
+  Gleizes M, Thenot S, Bibeau F, Theillet C and Cavailles V.
+contact:
+  email: ~
+  name: Vincent Cavailles
+counts:
+  biosamples: 238
+  samples_acgh: 238
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21435435
+geo_data:
+  geo_json:
+    coordinates:
+    - 3.88
+    - 43.61
+    type: Point
+  info:
+    city: Montpellier
+    continent: Europe
+    country: France
+    label: Montpellier, France, Europe
+    precision: city
+journal: 'Am J Pathol 178, 4 (2011): 1461-69.'
+label: 'Chambon et al. (2011): Prognostic Significance of Trim24/Tif-1alpha Gene Expression
+  in Breast Cancer.'
+notes: ~
+pmid: 21435435
+title: Prognostic Significance of Trim24/Tif-1alpha Gene Expression in Breast Cancer.
+year: 2011

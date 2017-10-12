@@ -1,0 +1,51 @@
+---
+abstract: 'We examined 14 spindle cell tumours of the pleura that were sent to a Mesothelioma
+  Panel for re-evaluation after a primary suspicion of mesothelioma. The clinical,
+  histological, immunohistochemical and CGH findings were investigated. Final diagnoses
+  were eight sarcomatoid mesotheliomas SM and six non-mesotheliomas: two pulmonary
+  sarcomatoid carcinomas, an epithelioid hemangioendothelioma, a malignant solitary
+  fibrous tumour, a malignant pleural smooth muscle tumour and an extraskeletal osteosarcoma.
+  Seven of the eight SM and two of the other six tumours presented with unilateral
+  pleural effusion, dyspnoea, and chest pain, which are characteristic clinical findings
+  in malignant mesothelioma. No single antibody used in the immunohistochemistry separated
+  SM from other tumour types. The most frequently observed chromosomal losses in SM
+  were 4q, 4p11-p13 p15, 6q and 13. Losses of 4p11-p13 p15 and 4q occurred in combination
+  in four out of five SM with detectable chromosomal changes, but neither was found
+  in any of the other tumours. Gain or high-level amplification of 5p was also common
+  in SM. According to our results and literature, losses at 4p, 4q and 9p and gain
+  at 5p are the chromosomal changes that best differentiate SM from pleural sarcomas
+  and lung carcinomas. CGH analysis may help distinguish a cytokeratin-positive SM
+  from a sarcomatoid carcinoma. Similarly, in the case of a cytokeratin-negative tumour,
+  CGH analysis may disclose chromosomal changes characteristic of sarcomas or mesotheliomas.'
+authors: Knuuttila A, Jee KJ, Taskinen E, Wolff H, Knuutila S and Anttila S.
+contact:
+  email: ioana.borze@helsinki.fi
+  name: Ioana Borze
+counts:
+  biosamples: 14
+  samples_acgh: 0
+  samples_ccgh: 14
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16170537
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Virchows Arch 448, 2 (2006): 135-41.'
+label: 'Knuuttila et al. (2006): Spindle Cell Tumours of the Pleura: A Clinical, Histological
+  and Comparative Genomic ...'
+notes: ~
+pmid: 16170537
+title: 'Spindle Cell Tumours of the Pleura: A Clinical, Histological and Comparative
+  Genomic Hybridization Analysis of 14 Cases.'
+year: 2006

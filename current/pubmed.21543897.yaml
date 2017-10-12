@@ -1,0 +1,61 @@
+---
+abstract: RON MST1R is one of two members of the MET receptor tyrosine kinase family,
+  along with parent receptor MET. RON has a putative role in several cancers, but
+  its expression and function is poorly characterized in gastroesophageal adenocarcinoma.
+  A recognized functional role of MET tyrosine kinase in gastroesophageal cancer has
+  led to early phase clinical trials using MET inhibitors, with unimpressive results.
+  Therefore, the role of RON in gastroesophageal cancer, as well as its role in cooperative
+  signaling with MET and as a mechanism of resistance to MET inhibition, was studied
+  in gastroesophageal tissues and cell lines. By IHC, RON was highly over-expressed
+  in 74 of gastroesophageal samples n 94 , and over-expression was prognostic of poor
+  survival p 0.008 RON and MET co-expression occurred in 43 of samples and was prognostic
+  of worst survival p 0.03 . High MST1R gene copy number by quantitative polymerase
+  chain reaction, and confirmed by fluorescence in situ hybridization and or array
+  comparative genomic hybridization, was seen in 35.5 16 45 of cases. High MST1R gene
+  copy number correlated with poor survival p 0.01 , and was associated with high
+  MET and ERBB2 gene copy number. A novel somatic MST1R juxtamembrane mutation R1018G
+  was found in 11 of samples. RON signaling was functional in cell lines, activating
+  downstream effector STAT3, and resulted in increased viability over controls. RON
+  and MET co-stimulation assays led to enhanced malignant phenotypes over stimulation
+  of either receptor alone. Growth inhibition as evidenced by viability and apoptosis
+  assays was optimal using novel blocking monoclonal antibodies to both RON and MET,
+  versus either alone. SU11274, a classic MET small molecule tyrosine kinase inhibitor,
+  blocked signaling of both receptors, and proved synergistic when combined with STAT3
+  inhibition combination index amp lt 1 . These preclinical studies define RON as
+  an important novel prognostic marker and therapeutic target for gastroesophageal
+  cancer warranting further investigation.
+authors: Catenacci DV, Cervantes G, Yala S, Nelson EA, El-Hashani E, Kanteti R, El
+  Dinali M, Hasina R, Bragelmann J, Seiwert T, Sanicola M, Henderson L, Grushko TA,
+  Olopade O, Karrison T, Bang YJ, Kim WH, Tretiakova M, Vokes E, Frank DA, Kindler
+  HL, Huet H and Salgia R.
+contact:
+  email: rsalgia@medicine.bsd.uchicago.edu
+  name: Ravi Salgia
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21543897
+geo_data:
+  geo_json:
+    coordinates:
+    - -87.65
+    - 41.85
+    type: Point
+  info:
+    city: Chicago
+    continent: North America
+    country: United States
+    label: Chicago, United States, North America
+    precision: city
+journal: 'Cancer Biol Ther 12, 1 (2011): 9-46.'
+label: 'Catenacci et al. (2011): Ron (Mst1R) is a Novel Prognostic Marker and Therapeutic
+  Target for Gastroesophageal ...'
+notes: ~
+pmid: 21543897
+title: Ron (Mst1R) is a Novel Prognostic Marker and Therapeutic Target for Gastroesophageal
+  Adenocarcinoma.
+year: 2011

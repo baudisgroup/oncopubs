@@ -1,0 +1,45 @@
+---
+abstract: Angiosarcoma of the head and neck most commonly involves the skin of the
+  scalp or face; primary involvement of the sinonasal region is exceedingly rate.
+  We report a patient with sinonasal angiosarcoma who showed marrow involvement at
+  presentation. Marrow aspiration smears showed many large, often segregated blast-like
+  cells, mimicking malignant lymphoma. However, trephine biopsy revealed formation
+  of anastomosing vascular spaces by the tumor cells and immunoreactivity for CD31,
+  supporting a diagnosis of angiosarcoma. DNA ploidy analysis showed an apparent diploidy.
+  Nevertheless, conventional cytogenetics demonstrated very complex chromosomal abnormalities
+  with the presence of multiple hypodiploid clones, together with several near-triploid
+  to near-tetraploid clones showing structural abnormalities involving chromosomes
+  1, 3, 4, 9, 14, 16, 17, 18, and 22. The identification of these karyotypic changes
+  has been facilitated by the application of comparative genomic hybridization and
+  spectral karyotyping.
+authors: Wong KF, So CC, Wong N, Siu LL, Kwong YL and Chan JK
+contact:
+  email: kfwong@ha.org.hk
+  name: ' K F Wong'
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11520569
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: Cancer Genet. Cytogenet. 129(1), 2001
+label: 'Wong KF et al. (2001): '
+notes: ~
+pmid: 11520569
+title: 'Sinonasal angiosarcoma with marrow involvement at presentation mimicking malignant
+  lymphoma: cytogenetic analysis using multiple techniques.'
+year: 2001

@@ -1,0 +1,56 @@
+---
+abstract: Cytogenetically unrelated clones have been detected by chromosome banding
+  analysis in many breast carcinomas. Because these karyotypic studies were performed
+  on short-term cultured samples, it may be argued that in vitro selection occurred
+  or that small clones may have arisen during culturing. To address this issue, we
+  analyzed 37 breast carcinomas by G-banding and comparative genomic hybridization
+  CGH , a fluorescent in situ hybridization--based screening technique that does not
+  require culturing or tumor metaphases. All but two of the 37 karyotypically abnormal
+  cases presented copy number changes by CGH. The picture of genomic alterations revealed
+  by the two techniques overlapped only partly. Sometimes the CGH analysis revealed
+  genomic imbalances that belonged to cell populations not picked up by the cytogenetic
+  analysis and in other cases, especially when the karyotypes had many markers and
+  chromosomes with additional material of unknown origin, CGH gave a more reliable
+  overall picture of the copy number gains and losses. However, besides sometimes
+  revealing cell populations with balanced chromosome aberrations or unbalanced changes
+  that nevertheless remained undetected by CGH, G-banding analysis was essential to
+  understand how the genomic imbalances arose in the many cases in which both techniques
+  detected the same clonal abnormalities. Furthermore, because CGH pictures only imbalances
+  present in a significant proportion of the test sample, the very detection by this
+  technique of imbalances belonging to apparently small, cytogenetically unrelated
+  clones of cells proves that these clones must have been present in vivo. This constitutes
+  compelling evidence that the cytogenetic polyclonality observed after short-term
+  culturing of breast carcinomas is not an artifact.
+authors: Teixeira MR, Tsarouha H, Kraggerud SM, Pandis N, Dimitriadis E, Andersen
+  JA, Lothe RA and Heim S.
+contact:
+  email: ~
+  name: M. Teixeira
+counts:
+  biosamples: 37
+  samples_acgh: 0
+  samples_ccgh: 37
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11494114
+geo_data:
+  geo_json:
+    coordinates:
+    - -8.61
+    - 41.15
+    type: Point
+  info:
+    city: Porto
+    continent: Europe
+    country: Portugal
+    label: Porto, Portugal, Europe
+    precision: city
+journal: 'Neoplasia 3, 3 (2001): 204-14.'
+label: 'Teixeira et al. (2001): Evaluation of Breast Cancer Polyclonality By Combined
+  Chromosome Banding and Comparative Genomic ...'
+notes: ~
+pmid: 11494114
+title: Evaluation of Breast Cancer Polyclonality By Combined Chromosome Banding and
+  Comparative Genomic Hybridization Analysis.
+year: 2001

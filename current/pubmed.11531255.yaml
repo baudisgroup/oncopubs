@@ -1,0 +1,48 @@
+---
+abstract: Hepatocellular carcinoma HCC is one of the most frequent-occurring malignant
+  tumours worldwide, but molecular changes of tumour DNA, with the exception of viral
+  integrations and p53 mutations, are poorly understood. In order to search for common
+  macro-imbalances of genomic tumour DNA, 21 HCCs and 3 HCC-cell lines were characterized
+  by comparative genomic hybridization CGH , subsequent database analyses and in selected
+  cases by fluorescence in situ hybridization FISH . Chromosomal subregions of 1q,
+  8q, 17q and 20q showed frequent gains of genomic material, while losses were most
+  prevalent in subregions of 4q, 6q, 13q and 16q. Deleted regions encompass tumour
+  suppressor genes, like RB-1 and the cadherin gene cluster, some of them previously
+  identified as potential target genes in HCC development. Several potential growth-
+  or transformation-promoting genes located in chromosomal subregions showed frequent
+  gains of genomic material. The present study provides a basis for further genomic
+  and expression analyses in HCCs and in addition suggests chromosome 4q to carry
+  a so far unidentified tumour suppressor gene relevant for HCC development.
+authors: Niketeghad F, Decker HJ, Caselmann WH, Lund P, Geissler F, Dienes HP and
+  Schirmacher P.
+contact:
+  email: peter.schirmacher@uni-koeln.de
+  name: Peter Schirmacher
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11531255
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.95
+    - 50.93
+    type: Point
+  info:
+    city: Koeln
+    continent: Europe
+    country: Germany
+    label: Koeln, Germany, Europe
+    precision: city
+journal: 'Br J Cancer 85, 5 (2001): 697-704.'
+label: 'Niketeghad et al. (2001): Frequent Genomic Imbalances Suggest Commonly Altered
+  Tumour Genes in Human ...'
+notes: ~
+pmid: 11531255
+title: Frequent Genomic Imbalances Suggest Commonly Altered Tumour Genes in Human
+  Hepatocarcinogenesis.
+year: 2001

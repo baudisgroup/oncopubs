@@ -1,0 +1,50 @@
+---
+abstract: Anaplasia in Wilms tumor, a distinctive histology characterized by abnormal
+  mitoses, is associated with poor patient outcome. While anaplastic tumors frequently
+  harbour TP53 mutations, little is otherwise known about their molecular biology.
+  We have used array comparative genomic hybridization aCGH and cDNA microarray expression
+  profiling to compare anaplastic and favorable histology Wilms tumors to determine
+  their common and differentiating features. In addition to changes on 17p, consistent
+  with TP53 deletion, recurrent anaplasia-specific genomic loss and under-expression
+  were noted in several other regions, most strikingly 4q and 14q. Further aberrations,
+  including gain of 1q and loss of 16q were common to both histologies. Focal gain
+  of MYCN, initially detected by high resolution aCGH profiling in 6 61 anaplastic
+  samples, was confirmed in a significant proportion of both tumor types by a genomic
+  quantitative PCR survey of over 400 tumors. Overall, these results are consistent
+  with a model where anaplasia, rather than forming an entirely distinct molecular
+  entity, arises from the general continuum of Wilms tumor by the acquisition of additional
+  genomic changes at multiple loci.
+authors: Williams RD, Al-Saadi R, Natrajan R, Mackay A, Chagtai T, Little S, Hing
+  SN, Fenwick K, Ashworth A, Grundy P, Anderson JR, Dome JS, Perlman EJ, Jones C and
+  Pritchard-Jones K.
+contact:
+  email: kpj@icr.ac.uk
+  name: Kathy Pritchard-Jones
+counts:
+  biosamples: 53
+  samples_acgh: 53
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21882282
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 12 (2011): 982-95.'
+label: 'Williams et al. (2011): Molecular Profiling Reveals Frequent Gain of Mycn
+  and Anaplasia-Specific Loss of 4q and 14q in ...'
+notes: ~
+pmid: 21882282
+title: Molecular Profiling Reveals Frequent Gain of Mycn and Anaplasia-Specific Loss
+  of 4q and 14q in Wilms Tumor.
+year: 2011

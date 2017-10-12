@@ -1,0 +1,37 @@
+---
+abstract: Angiofibromas are clinically well characterized by their origin at the posterior
+  lateral nasal wall close to the sphenopalatine foramen, their occurrence in male
+  adolescent patients, and the histological findings of a benign fibrovascular neoplasm
+  with irregular, endothelium-lined vascular spaces in a fibrous stroma. However,
+  their etiology and genetic causes remain unknown. The present study addresses genetic
+  imbalances in angiofibromas.
+authors: Schick B, Brunner C, Praetorius M, Plinkert PK and Urbschat S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11889404
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: Europe
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: 'Laryngoscope 112, 2 (2002): 397-401.'
+label: 'Schick et al. (2002): First Evidence of Genetic Imbalances in Angiofibromas.'
+notes: ~
+pmid: 11889404
+title: First Evidence of Genetic Imbalances in Angiofibromas.
+year: 2002

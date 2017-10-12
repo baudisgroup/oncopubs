@@ -1,0 +1,47 @@
+---
+abstract: Glioblastoma (GBM) is a lethal malignancy whose clinical intransigence has
+  been linked to extensive intraclonal genetic and phenotypic diversity and the common
+  emergence of therapeutic resistance. This interpretation embodies the implicit assumption
+  that cancer stem cells or tumor-propagating cells are themselves genetically and
+  functionally diverse. To test this, we screened primary GBM tumors by SNP array
+  to identify copy number alterations (a minimum of three) that could be visualized
+  in single cells by multicolor fluorescence in situ hybridization. Interrogation
+  of neurosphere-derived cells (from four patients) and cells derived from secondary
+  transplants of these same cells in NOD-SCID mice allowed us to infer the clonal
+  and phylogenetic architectures. Whole-exome sequencing and single-cell genetic analysis
+  in one case revealed a more complex clonal structure. This proof-of-principle experiment
+  revealed that subclones in each GBM had variable regenerative or stem cell activity,
+  and highlighted genetic alterations associated with more competitive propagating
+  activity in vivo.  Copyright ï¿½ 2015 The Authors. Published by Elsevier Inc. All
+  rights reserved.
+authors: Piccirillo SG, Colman S, Potter NE, van Delft FW, Lillis S, Carnicer MJ,
+  Kearney L, Watts C and Greaves M
+contact:
+  email: mel.greaves@icr.ac.uk
+  name: Mel Greaves
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25533637
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Stem Cell Reports 4(1), 2015
+label: 'Piccirillo SG et al. (2015): '
+notes: ~
+pmid: 25533637
+title: Genetic and functional diversity of propagating cells in glioblastoma.
+year: 2015

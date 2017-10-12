@@ -1,0 +1,54 @@
+---
+abstract: The median survival for human malignant glioma patients treated with neurosurgery
+  and postoperative radiotherapy does not exceed one year. Only a minority of patients
+  benefit from adjuvant chemotherapy. It was the aim of our study to determine which
+  genomic alterations in malignant gliomas modulate the sensitivity to chemotherapy
+  or cytotoxic cytokines such as CD95 ligand CD95L or Apo2L tumor necrosis factor-related
+  apoptosis-inducing ligand Apo2L TRAIL . Therefore, we analyzed 12 human malignant
+  glioma cell lines for chromosomal gains and losses by comparative genomic hybridization
+  CGH . The gains most commonly identified were on chromosomes 7q, 19, 1, and 20q,
+  whereas the most frequent losses were on 13q, 11q, 18q, and 4q. By comparison with
+  previously published data on this panel of glioma cell lines1112, we defined candidate
+  regions which may carry genes responsible for sensitivity to chemotherapy or cytotoxic
+  cytokines. All but one of the chromosomal regions associated with response to chemotherapy,
+  i.e. 1p12, 3p21, 11p11.2-p13, 12q23, 17p11. 2-p13, were different from those associated
+  with response to cytotoxic cytokines, i.e. lp12, 1q22, 12q12-q21. Genomic regions
+  known to harbor major candidate genes, including genes encoding death ligands, death
+  receptors, caspases and BCL-2 family proteins, were not found to be imbalanced.
+  In addition, we identified 5q13-q14, 5q34, 10p11.2, 9q21-q34 as genomic regions
+  associated with the proliferative activity of malignant glioma cell lines. Cell
+  lines with gain on proximal 5q, where CCNB1 and CCNH reside, showed an increased
+  growth rate, suggesting that cyclins activating cdc2, the dominant G2 M phase kinase,
+  may play a role in glioma tumorigenes.
+authors: Weber RG, Rieger J, Naumann U, Lichter P and Weller M.
+contact:
+  email: weber.ruthild@mh-hannover.de
+  name: Ruthild G. Weber
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11146447
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 91, 2 (2001): 213-18.'
+label: 'Weber et al. (2001): Chromosomal Imbalances Associated With Response to Chemotherapy
+  and Cytotoxic Cytokines in Human ...'
+notes: ~
+pmid: 11146447
+title: Chromosomal Imbalances Associated With Response to Chemotherapy and Cytotoxic
+  Cytokines in Human Malignant Glioma Cell Lines.
+year: 2001

@@ -1,0 +1,37 @@
+---
+abstract: Esophageal carcinoma is a major cause of cancer-related deaths among males
+  in Taiwan. However, to date, the genetic alterations that accompany this lethal
+  disease are not understood.
+authors: Yen CC, Chen YJ, Chen JT, Hsia JY, Chen PM, Liu JH, Fan FS, Chiou TJ, Wang
+  WS and Lin CH.
+contact:
+  email: ~
+  name: C. H. Lin
+counts:
+  biosamples: 46
+  samples_acgh: 0
+  samples_ccgh: 46
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11753950
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.53
+    - 25.05
+    type: Point
+  info:
+    city: Taipei
+    continent: Asia
+    country: Taiwan
+    label: Taipei, Taiwan, Asia
+    precision: city
+journal: 'Cancer 92, 11 (2001): 2769-77.'
+label: 'Yen et al. (2001): Comparative Genomic Hybridization of Esophageal Squamous
+  Cell Carcinoma: Correlations Between ...'
+notes: ~
+pmid: 11753950
+title: 'Comparative Genomic Hybridization of Esophageal Squamous Cell Carcinoma: Correlations
+  Between Chromosomal Aberrations and Disease Progression/Prognosis.'
+year: 2001

@@ -1,0 +1,48 @@
+---
+abstract: Differentiation arrest is a hallmark of acute leukemia. Genomic alterations
+  in B cell differentiation factors such as PAX5, IKZF1, and EBF-1 have been identified
+  in more than half of all cases of childhood B precursor acute lymphoblastic leukemia
+  (ALL). Here, we describe a perturbed epigenetic and transcriptional regulation of
+  ZNF423 in ALL as a novel mechanism interfering with B cell differentiation. Hypomethylation
+  of ZNF423 regulatory sequences and BMP2 signaling result in transactivation of ZNF423Î±
+  and a novel ZNF423Î²-isoform encoding a nucleosome remodeling and histone deacetylase
+  complex-interacting domain. Aberrant ZNF423 inhibits the transactivation of EBF-1
+  target genes and leads to B cell maturation arrest in vivo. Importantly, ZNF423
+  expression is associated with poor outcome of ETV6-RUNX1-negative B precursor ALL
+  patients. Our work demonstrates that ALL is more than a genetic disease and that
+  epigenetics may uncover novel mechanisms of disease with prognostic implications.
+authors: Harder L, Eschenburg G, Zech A, Kriebitzsch N, Otto B, Streichert T, Behlich
+  AS, Dierck K, Klingler B, Hansen A, Stanulla M, Zimmermann M, Kremmer E, Stocking
+  C and Horstmann MA
+contact:
+  email: horstman@uke.de
+  name: ~
+counts:
+  biosamples: 0
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24081948
+- geo:GSE42056
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.02
+    - 53.58
+    type: Point
+  info:
+    city: Hamburg
+    continent: Europe
+    country: Germany
+    label: Hamburg, Germany, Europe
+    precision: city
+journal: J. Exp. Med. 210(11), 2013
+label: 'Harder L et al. (2013): '
+notes: ' Copy number analysis of Affymetrix GenomeWide Human SNP 6.0 microarrays was
+  performed for 20 pediatric B-ALL samples'
+pmid: 24081948
+title: Aberrant ZNF423 impedes B cell differentiation and is linked to adverse outcome
+  of ETV6-RUNX1 negative B precursor acute lymphoblastic leukemia.
+year: 2013

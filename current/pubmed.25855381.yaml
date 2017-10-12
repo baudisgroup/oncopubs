@@ -1,0 +1,49 @@
+---
+abstract: 'This report delivers a comprehensive genetic alteration profile of lung
+  adenocarcinomas (LADCs) driven by ALK, RET and ROS1 oncogene fusions. These tumors
+  are difficult to study because of their rarity: each drives only a low percentage
+  of LADCs. Whole exome sequencing and copy number variation analyses were performed
+  on a Japanese LADC cohort (n = 200) enriched in patients with fusions (n = 31, 15.5%),
+  followed by deep re-sequencing for validation. The driver fusion cases showed a
+  distinct profile with smaller numbers of non-synonymous mutations in cancer-related
+  genes or truncating mutations in SWI/SNF chromatin remodeling complex genes than
+  in other LADCs (P < 0.0001). This lower mutation rate was independent of age, gender,
+  smoking status, pathological stage, and tumor differentiation (P < 0.0001) and was
+  validated in nine fusion-positive cases from a US LADCs cohort (n = 230). In conclusion,
+  our findings indicate that LADCs with ALK, RET, and ROS1 fusions develop exclusively
+  via their dependence on these oncogene fusions. The presence of such few alterations
+  beyond the fusions supports the use of monotherapy with tyrosine kinase inhibitors
+  targeting the fusion products in fusion-positive LADCs.  Copyright ï¿½ 2015, American
+  Association for Cancer Research.'
+authors: Saito M, Shimada Y, Shiraishi K, Sakamoto H, Tsuta K, Totsuka H, Chiku S,
+  Ichikawa H, Kato M, Watanabe SI, Yoshida T, Yokota J and Kohno T
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 200
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 200
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25855381
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Cancer Res., 2015
+label: 'Saito et al. (): Development of Lung Adenocarcinomas with Exclusive Dependence
+  on Oncogene Fusions.'
+notes: ~
+pmid: 25855381
+title: Development of Lung Adenocarcinomas with Exclusive Dependence on Oncogene Fusions.
+year: 2015

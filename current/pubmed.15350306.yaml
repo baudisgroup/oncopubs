@@ -1,0 +1,57 @@
+---
+abstract: The advancement of fluorescence in situ hybridization-based assays has permitted
+  more refined delineation of chromosomal loci involved in complex chromosomal rearrangements
+  CCRs and gene amplification. In this detailed molecular cytogenetic analysis, spectral
+  karyotyping SKY , multicolor banding mBAND analysis, and microarray comparative
+  genomic hybridization CGH were used to refine the analysis of chromosomes with amplifications
+  and small intrachromosomal rearrangements such as inverted duplications and interstitial
+  deletions present in the osteosarcoma cell line MG-63. SKY analysis has limited
+  resolving power to delineate cryptic chromosomal rearrangements, so mBAND assays
+  were performed for a subset of chromosomes i.e., 6, 8, 17, and 20 . Of the 10 clonal
+  CCRs analyzed in detail with mBAND, 5 were found to have rearrangements between
+  8q24 and either 6p23 approximately pter or 6p21, with multiple copies of this translocation
+  inserted at various sites in the different chromosomes. In two CCRs, 6p21 and 8q24
+  generated an alternating pattern of mBAND probe hybridization, indicating the presence
+  of a large coamplified repeat unit within homogeneously staining regions. Microarray
+  CGH analysis demonstrated focal high-level amplification of 8q23 approximately q24,
+  6p22 approximately pter, and 6p21, in agreement with the pattern of chromosome subband
+  gains identified with mBAND. Thus, sequential SKY, mBAND, and microarray CGH provided
+  a comprehensive description of some of the intricate chromosomal aberrations present
+  in the complex MG-63 karyotype and permitted reconstruction of the fine structure
+  of the genomic rearrangements, thus providing some important mechanistic clues concerning
+  the details of the amplification process in tumors.
+authors: Lim G, Karaskova J, Vukovic B, Bayani J, Beheshti B, Bernardini M, Squire
+  JA and Zielenska M.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15350306
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 153, 2 (2004): 158-64.'
+label: 'Lim et al. (2004): Combined Spectral Karyotyping, Multicolor Banding, and
+  Microarray Comparative Genomic Hybridization ...'
+notes: ~
+pmid: 15350306
+title: Combined Spectral Karyotyping, Multicolor Banding, and Microarray Comparative
+  Genomic Hybridization Analysis Provides a Detailed Characterization of Complex Structural
+  Chromosomal Rearrangements Associated With Gene Amplification in the Osteosarcoma
+  Cell Line Mg-63.
+year: 2004

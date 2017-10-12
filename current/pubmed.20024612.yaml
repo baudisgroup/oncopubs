@@ -1,0 +1,55 @@
+---
+abstract: Fibroblast growth factor receptor-1 FGFR-1 is amplified in 10 of human breast
+  cancers. The goal of this study was to test the correlation between FGFR-1 amplification
+  and expression and sensitivity to brivanib, an FGFR-1 small molecule inhibitor,
+  in breast cancer cell lines in vitro. Using CGH array and gene expression profiling,
+  FGFR-1 DNA copy number, mRNA, and protein expression were measured in 21 cell lines
+  and correlated with growth inhibition by brivanib. We examined FGFR-1 autophosphorylation
+  and kinase activity, as well as phosphorylation of downstream signaling molecules
+  in response to bFGF and brivanib exposure. CAMA, MDA-MB-361, and HCC38 cells had
+  FGFR-1 amplification and protein overexpression. Brivanib GI 50 values were significantly
+  lower in the gene amplified 15.17 M, n 3 compared to normal copy number 69.09 M,
+  n 11 or FGFR-1 deleted 76.14 M, n 7 cells P 0.0107 . Among nonamplified cells, there
+  was no correlation between FGFR-1 mRNA or protein expression levels and brivanib
+  sensitivity. Two of three FGFR-1 amplified cells were sensitive to bFGF-induced
+  growth stimulation, which was blocked by brivanib. In cells with amplified FGFR-1,
+  brivanib decreased receptor autophosphorylation, inhibited bFGF-induced tyrosine
+  kinase activity, and reduced phosphorylation of ERK and AKT. Breast cancer cell
+  lines with FGFR-1 gene amplification and protein overexpression are more sensitive
+  to growth inhibition by brivanib than nonamplified cells. These findings suggest
+  that FGFR-1 amplification or protein overexpression in breast cancers may be an
+  indicator for brivanib treatment, where it may have direct anti-proliferative effects
+  in addition to its anti-angiogenic effects.
+authors: Shiang CY, Qi Y, Wang B, Lazar V, Wang J, Fraser Symmans W, Hortobagyi GN,
+  Andre F and Pusztai L.
+contact:
+  email: lpusztai@mdanderson.org
+  name: Lajos Pusztai
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20024612
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.36
+    - 29.76
+    type: Point
+  info:
+    city: Houston
+    continent: North America
+    country: United States
+    label: Houston, United States, North America
+    precision: city
+journal: 'Breast Cancer Res Treat 123, 3 (2010): 747-55.'
+label: 'Shiang et al. (2010): Amplification of Fibroblast Growth Factor Receptor-1
+  in Breast Cancer and the Effects of Brivanib ...'
+notes: ~
+pmid: 20024612
+title: Amplification of Fibroblast Growth Factor Receptor-1 in Breast Cancer and the
+  Effects of Brivanib Alaninate.
+year: 2010

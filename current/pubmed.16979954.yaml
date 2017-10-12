@@ -1,0 +1,39 @@
+---
+abstract: To gain more information about the molecular mechanisms leading to dedifferentiation
+  of hepatocellular adenoma HCA and hepatocellular carcinoma HCC , high-resolution
+  array-based comparative genomic hybridization array-CGH was performed on 24 cases
+  of HCC and 10 cases of HCA.
+authors: Steinemann D, Skawran B, Becker T, Tauscher M, Weigmann A, Wingen L, Tauscher
+  S, Hinrichsen T, Hertz S, Flemming P, Flik J, Wiese B, Kreipe H, Lichter P, Schlegelberger
+  B and Wilkens L.
+contact:
+  email: ludwig.wilkens@pathology.unibe.ch
+  name: Ludwig Wilkens
+counts:
+  biosamples: 34
+  samples_acgh: 34
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16979954
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: 'Clin Gastroenterol Hepatol 4, 10 (2006): 1283-91.'
+label: 'Steinemann et al. (2006): Assessment of Differentiation and Progression of
+  Hepatic Tumors Using Array-Based Comparative ...'
+notes: ~
+pmid: 16979954
+title: Assessment of Differentiation and Progression of Hepatic Tumors Using Array-Based
+  Comparative Genomic Hybridization.
+year: 2006

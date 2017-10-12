@@ -1,0 +1,56 @@
+---
+abstract: The molecular pathogenesis of pediatric astrocytomas is still poorly understood.
+  To further understand the genetic abnormalities associated with these tumors, we
+  performed a genome-wide analysis of DNA copy number aberrations in pediatric low-grade
+  astrocytomas by using array-based comparative genomic hybridization. Duplication
+  of the BRAF protooncogene was the most frequent genomic aberration, and tumors with
+  BRAF duplication showed significantly increased mRNA levels of BRAF and a downstream
+  target, CCND1, as compared with tumors without duplication. Furthermore, denaturing
+  HPLC showed that activating BRAF mutations were detected in some of the tumors without
+  BRAF duplication. Similarly, a marked proportion of low-grade astrocytomas from
+  adult patients also had BRAF duplication. Both the stable silencing of BRAF through
+  shRNA lentiviral transduction and pharmacological inhibition of MEK1 2, the immediate
+  downstream phosphorylation target of BRAF, blocked the proliferation and arrested
+  the growth of cultured tumor cells derived from low-grade gliomas. Our findings
+  implicate aberrant activation of the MAPK pathway due to gene duplication or mutation
+  of BRAF as a molecular mechanism of pathogenesis in low-grade astrocytomas and suggest
+  inhibition of the MAPK pathway as a potential treatment.
+authors: Pfister S, Janzarik WG, Remke M, Ernst A, Werft W, Becker N, Toedt G, Wittmann
+  A, Kratz C, Olbrich H, Ahmadi R, Thieme B, Joos S, Radlwimmer B, Kulozik A, Pietsch
+  T, Herold-Mende C, Gnekow A, Reifenberger G, Korshunov A, Scheurlen W, Omran H and
+  Lichter P.
+contact:
+  email: m.macleod@dkfz.de
+  name: Peter Lichter
+counts:
+  biosamples: 66
+  samples_acgh: 66
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18398503
+- geo:GSE8737
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'J Clin Invest 118, 5 (2008): 1739-49.'
+label: 'Pfister et al. (2008): Braf Gene Duplication Constitutes a Mechanism of Mapk
+  Pathway Activation in Low-Grade ...'
+notes: In contrast to the >40  peak at 7q34 shown in the article, our analysis of
+  the data resulted in approx. 20  gains there. However, the other cases showed a
+  single clone gain in the locus, corresponding to the FISH verified BRAF region duplication
+  described in the article (communication with S. Pfister).
+pmid: 18398503
+title: Braf Gene Duplication Constitutes a Mechanism of Mapk Pathway Activation in
+  Low-Grade Astrocytomas.
+year: 2008

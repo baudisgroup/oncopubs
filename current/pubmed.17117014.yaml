@@ -1,0 +1,38 @@
+---
+abstract: 'The pathologic heterogeneity of AIDS related lymphomas ARL reflects several
+  pathogenic mechanisms: chronic antigenic stimulation, Epstein-Barr virus EBV infection,
+  and genomic abnormalities. Genetic abnormalities, known to play a major role in
+  lymphomas of non-immunocompromised patients, are not well characterized in ARL.'
+authors: Vaghefi P, Martin A, Prevot S, Charlotte F, Camilleri-Broet S, Barli E, Davi
+  F, Gabarre J, Raphael M and Poirel HA.
+contact:
+  email: martine.raphael@bct.aphp.fr
+  name: Martine Raphael
+counts:
+  biosamples: 28
+  samples_acgh: 0
+  samples_ccgh: 28
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17117014
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'AIDS 20, 18 (2006): 2285-91.'
+label: 'Vaghefi et al. (2006): Genomic Imbalances in Aids-Related Lymphomas: Relation
+  With Tumoral Epstein-Barr Virus ...'
+notes: ~
+pmid: 17117014
+title: 'Genomic Imbalances in Aids-Related Lymphomas: Relation With Tumoral Epstein-Barr
+  Virus Status.'
+year: 2006

@@ -1,0 +1,52 @@
+---
+abstract: The impact of the genomic imbalances on the clinical outcome of 34 patients
+  with lymph-node positive high-risk breast cancer HRBC was investigated using comparative
+  genomic hybridization. All of the patients were uniformly treated with high-dose
+  chemotherapy and autologous stem cell transplantation. The average number of chromosomal
+  imbalances per tumor was 11 range, 2-24 , including DNA overrepresentation on chromosomes
+  1q 59 , 17q 38 , 8q and 16p 35 each , 20q 32 , and 19p 26 , and genomic losses involving
+  9p and 18q 41 , 8p, 11q, and 18p 38 , 17p 32 , 4p and Xq 29 , and 16q 26 . The most
+  significant association among genomic changes and clinical-pathological features
+  was the correlation of the loss of 8p with progesterone receptor positivity P amp
+  lt 0.005 . With a median follow-up time of 74 months, 15 patients 44 have relapsed.
+  In the univariate analysis, patients with gain amplification of 17q including the
+  HER-2 neu gene locus had a longer disease-free survival P 0.02 , whereas those with
+  genomic loss of 18p had a higher probability of relapse P 0.003 . In multivariate
+  analysis, the loss of 18p was the only parameter correlated with shorter disease-free
+  survival relative risk, 4.8 95 confidence interval, 1.57-14.8 P 0.006 . In summary,
+  our data indicate that the tumoral genomic profile may represent a valuable marker
+  for predicting the clinical outcome in HRBC. Furthermore, the genomic loss of 18p
+  may identify a poor prognostic subgroup of patients with HRBC.
+authors: Climent J, Martinez-Climent JA, Blesa D, Garcia-Barchino MJ, Saez R, Sanchez-Izquierdo
+  D, Azagra P, Lluch A and Garcia-Conde J.
+contact:
+  email: jamcliment@unav.es
+  name: Jose Martinez-Climent
+counts:
+  biosamples: 34
+  samples_acgh: 0
+  samples_ccgh: 34
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12473601
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: Europe
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: 'Clin Cancer Res 8, 12 (2002): 3863-69.'
+label: 'Climent et al. (2002): Genomic Loss of 18p Predicts an Adverse Clinical Outcome
+  in Patients With High-Risk Breast ...'
+notes: ~
+pmid: 12473601
+title: Genomic Loss of 18p Predicts an Adverse Clinical Outcome in Patients With High-Risk
+  Breast Cancer.
+year: 2002

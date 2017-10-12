@@ -1,0 +1,50 @@
+---
+abstract: Anaplastic thyroid cancer ATC is a rare but highly aggressive disease with
+  largely unexplained etiology and molecular pathogenesis. In this study, we analyzed
+  genome-wide copy number changes, BRAF V-raf sarcoma viral oncogene homolog B1 mutations,
+  and p16 and cyclin D1 expressions in a panel of ATC primary tumors. Three ATCs harbored
+  the common BRAF mutation V600E. Using array-comparative genomic hybridisation array-CGH
+  , several distinct recurrent copy number alterations were revealed including gains
+  in 16p11.2, 20q11.2, and 20q13.12. Subsequent fluorescence in situ hybridization
+  revealed recurrent locus gain of UBCH10 in 20q13.12 and Cyclin D1 CCND1 in 11q13.
+  The detection of a homozygous loss encompassing the CDKN2A locus in 9p21.3 motivated
+  the examination of p16 protein expression, which was undetectable in 24 27 ATCs
+  89 . Based on the frequent gain in 11q13 41 n 11 , the role of CCND1 was further
+  investigated. Expression of cyclin D1 protein was observed at varying levels in
+  18 27 ATCs 67 . The effect of CCND1 on thyroid cell proliferation was assessed in
+  vitro in ATC cells by means of siRNA and in thyroid cells after CCND1 transfection.
+  In summary, the recurrent chromosomal copy number changes and molecular alterations
+  identified in this study may provide an insight into the pathogenesis and development
+  of ATC.
+authors: Lee JJ, Au AY, Foukakis T, Barbaro M, Kiss N, Clifton-Bligh R, Staaf J, Borg
+  A, Delbridge L, Robinson BG, Wallin G, Hoog A and Larsson C.
+contact:
+  email: jiajing_lee@hms.harvard.edu
+  name: Jia-Jing Lee
+counts:
+  biosamples: 36
+  samples_acgh: 36
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18753363
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.06
+    - 59.33
+    type: Point
+  info:
+    city: Stockholm
+    continent: Europe
+    country: Sweden
+    label: Stockholm, Sweden, Europe
+    precision: city
+journal: 'Endocr Relat Cancer 15, 3 (2008): 801-15.'
+label: 'Lee et al. (2008): Array-Cgh Identifies Cyclin D1 and Ubch10 Amplicons in
+  Anaplastic Thyroid Carcinoma.'
+notes: A table with arm specific status data for 27 tumors is available in the article.
+pmid: 18753363
+title: Array-Cgh Identifies Cyclin D1 and Ubch10 Amplicons in Anaplastic Thyroid Carcinoma.
+year: 2008

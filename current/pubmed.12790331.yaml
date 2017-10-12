@@ -1,0 +1,52 @@
+---
+abstract: 'The prognosis of renal cell carcinoma RCC varies dependent on histologic
+  tumor subtypes. However, differentiation between RCC types may sometimes be difficult
+  on histologic grounds alone. Furthermore, the prognostic value of histologic parameters
+  for the individual prognosis is limited. Additional information on the molecular
+  level seems necessary to obtain more certainty in diagnostic and prognostic evaluation.
+  By investigating genetic alterations in different RCC subtypes, we sought to obtain
+  a genotype-phenotype correlation. Eighty-two clear-cell, 53 papillary, 23 chromophobe
+  RCCs and 26 renal oncocytomas were investigated. Comparative genomic hybridization
+  CGH was performed on DNA from paraffin-embedded tissue samples. DNA was isolated
+  from tumor areas by microdissection and amplified by degenerated oligonucleotide
+  primed polymerase chain reaction DOP-PCR . CGH was performed according to standard
+  protocols. We were able to detect specific alterations in each RCC subtype: clear
+  cell RCC showed -3p, 5 5q, -8p, -9, -14, -18 papillary chromophilic RCC gains of
+  chromosomes 7, 17, 16, 3, 12 chromophobe RCC loss of chromosomes 1, 2, 6, 10, 13,
+  17, 21 renal oncocytomas loss of chromosomes 1 1p and 14. Furthermore, for clear
+  cell RCC, it was possible to define alterations which are associated with metastatic
+  disease: loss of 9, 10, 14. Our results demonstrate that each RCC subtype is characterized
+  by distinct genetic alterations. The definition of genetic alterations seems helpful
+  for a tumor typing especially when morphology is equivocal. Therefore, genetic analyses
+  represent a powerful diagnostic and prognostic tool for RCC.'
+authors: Junker K, Weirich G, Amin MB, Moravek P, Hindermann W and Schubert J.
+contact:
+  email: kerstin.junker@med.uni-jena.de
+  name: Kerstin Junker
+counts:
+  biosamples: 184
+  samples_acgh: 0
+  samples_ccgh: 184
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12790331
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.59
+    - 50.93
+    type: Point
+  info:
+    city: Jena
+    continent: Europe
+    country: Germany
+    label: Jena, Germany, Europe
+    precision: city
+journal: 'Recent Results Cancer Res 162 (2003): 169-75.'
+label: 'Junker et al. (2003): Genetic Subtyping of Renal Cell Carcinoma By Comparative
+  Genomic Hybridization.'
+notes: ~
+pmid: 12790331
+title: Genetic Subtyping of Renal Cell Carcinoma By Comparative Genomic Hybridization.
+year: 2003

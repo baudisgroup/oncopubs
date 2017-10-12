@@ -1,0 +1,56 @@
+---
+abstract: "Primary tumor recurrence commonly occurs after surgical resection of lung
+  squamous cell carcinoma (SCC). Little is known about the genes driving SCC recurrence.
+  \ We used array comparative genomic hybridization (aCGH) to identify genes affected
+  by copy number alterations that may be involved in SCC recurrence. Training and
+  test sets of resected primary lung SCC were assembled. aCGH was used to determine
+  genomic copy number in a training set of 62 primary lung SCCs (28 with recurrence
+  and 34 with no evidence of recurrence) and the altered copy number of candidate
+  genes was confirmed by quantitative PCR (qPCR). An independent test set of 72 primary
+  lung SCCs (20 with recurrence and 52 with no evidence of recurrence) was used for
+  biological validation. mRNA expression of candidate genes was studied using qRT-PCR.
+  Candidate gene promoter methylation was evaluated using methylation microarrays
+  and Sequenom EpiTYPER analysis.  18q22.3 loss was identified by aCGH as being significantly
+  associated with recurrence (pâ\x80\x8A=â\x80\x8A0.038). Seven genes within 18q22.3
+  had aCGH copy number loss associated with recurrence but only SOCS6 copy number
+  was both technically replicated by qPCR and biologically validated in the test set.
+  SOCS6 copy number loss correlated with reduced mRNA expression in the study samples
+  and in the samples with copy number loss, there was a trend for increased methylation,
+  albeit non-significant. Overall survival was significantly poorer in patients with
+  SOCS6 loss compared to patients without SOCS6 loss in both the training (30 vs.
+  43 months, pâ\x80\x8A=â\x80\x8A0.023) and test set (27 vs. 43 months, pâ\x80\x8A=â\x80\x8A0.010).
+  \ Reduced copy number and mRNA expression of SOCS6 are associated with disease recurrence
+  in primary lung SCC and may be useful prognostic biomarkers."
+authors: Sriram KB, Larsen JE, Savarimuthu Francis SM, Wright CM, Clarke BE, Duhig
+  EE, Brown KM, Hayward NK, Yang IA, Bowman RV and Fong KM
+contact:
+  email: bajee.sriram@uqconnect.edu.au
+  name: Sriram, KB
+counts:
+  biosamples: 134
+  samples_acgh: 134
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22363434
+- geo:GSE32058
+geo_data:
+  geo_json:
+    coordinates:
+    - 153.03
+    - -27.47
+    type: Point
+  info:
+    city: Brisbane
+    continent: Australia
+    country: Australia
+    label: Brisbane, Australia, Australia
+    precision: city
+journal: PLoS ONE 7(2), 2012
+label: 'Sriram KB et al. (2012): '
+notes: ~
+pmid: 22363434
+title: Array-comparative genomic hybridization reveals loss of SOCS6 is associated
+  with poor prognosis in primary lung squamous cell carcinoma.
+year: 2012

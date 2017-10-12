@@ -1,0 +1,52 @@
+---
+abstract: Longstanding ulcerative colitis UC is associated with a high risk of developing
+  UC-related colonic adenocarcinoma UCC . These carcinomas originate from nonadenomatous
+  dysplastic regions referred to as dysplasia associated lesion or mass DALM . We
+  evaluated chromosomal and microsatellite instability MSI in 21 DALM UCCs. Chromosomal
+  instability was determined by high-resolution array comparative genomic hybridization
+  with a 3500-element BAC-PAC array. MSI was assessed with markers BAT25 and BAT26
+  and by immunohistochemical analysis of mismatch repair genes. Comparative genomic
+  hybridization revealed frequent losses of array clones amp gt 20 of tumors at chromosome
+  arms 4p, 5q, and 18q, frequent gains of array clones amp gt 20 of tumors were found
+  at 1q, 5p, 6p, 7p, 7q, 8p, 8q, 11p, 11q, 12q, 14q, 17q, 19q, 20p, and 20q. The pattern
+  of alterations is dominated by gains on 5p and 20q with loss of 4p, all of which
+  were already present in a patient with carcinoma in situ. Immunohistochemical analysis
+  of mismatch repair genes MLH1, PMS2, MSH2, and MSH6 showed negative immunostaining
+  in 1 neoplasm 5 . MSI of BAT25 and BAT26 was seen in 3 tumors 14 including the neoplasm
+  with aberrant immunostaining. In conclusion, we constructed a genomic profile of
+  DALM UCC including several novel genetic alterations. Further, we found a low percentage
+  of MSI. Thus, DALM UCCs display profound chromosomal instability, but this is not
+  associated with concurrent MSI.
+authors: van Dieren JM, Wink JC, Vissers KJ, van Marion R, Hoogmans MM, Dinjens WN,
+  Schouten WR, Tanke HJ, Szuhai K, Kuipers EJ, van der Woude CJ and van Dekken H.
+contact:
+  email: h.vandekken@slaz.nl
+  name: Herman van Dekken
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17122649
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Diagn Mol Pathol 15, 4 (2006): 216-22.'
+label: 'van Dieren et al. (2006): Chromosomal and Microsatellite Instability of Adenocarcinomas
+  and Dysplastic Lesions (Dalm) in ...'
+notes: ~
+pmid: 17122649
+title: Chromosomal and Microsatellite Instability of Adenocarcinomas and Dysplastic
+  Lesions (Dalm) in Ulcerative Colitis.
+year: 2006

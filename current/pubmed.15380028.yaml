@@ -1,0 +1,37 @@
+---
+abstract: Recurrent non-random genomic alterations are the hallmarks of cancer and
+  the characterization of these imbalances is critical to our understanding of tumorigenesis
+  and cancer progression.
+authors: Chen QR, Bilke S, Wei JS, Whiteford CC, Cenacchi N, Krasnoselsky AL, Greer
+  BT, Son CG, Westermann F, Berthold F, Schwab M, Catchpoole D and Khan J.
+contact:
+  email: chenqi@mail.nih.gov
+  name: Q. R. Chen
+counts:
+  biosamples: 44
+  samples_acgh: 44
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15380028
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.2
+    - 39.14
+    type: Point
+  info:
+    city: Gaithersburg
+    continent: North America
+    country: United States
+    label: Gaithersburg, United States, North America
+    precision: city
+journal: 'BMC Genomics 5 (2004): 70.'
+label: 'Chen et al. (2004): Cdna Array-Cgh Profiling Identifies Genomic Alterations
+  Specific to Stage and Mycn-Amplification in ...'
+notes: Data is referenced in article 16804916 ( ).
+pmid: 15380028
+title: Cdna Array-Cgh Profiling Identifies Genomic Alterations Specific to Stage and
+  Mycn-Amplification in Neuroblastoma.
+year: 2004

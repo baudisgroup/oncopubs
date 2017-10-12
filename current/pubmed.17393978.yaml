@@ -1,0 +1,37 @@
+---
+abstract: Considerable heterogeneity of morphology and disease outcome exists within
+  breast cancers BC , which likely reflects variable molecular pathogeneses within
+  this broad clinical group.
+authors: Price GR, Armes JE, Ramus SJ, Provenzano E, Kumar B, Cowie TF, Ciciulla J,
+  Hutchins AM, Thomas M and Venter DJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 116
+  samples_acgh: 116
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17393978
+- geo:GSE7408
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: 'Pathology 38, 6 (2006): 520-27.'
+label: 'Price et al. (2006): Phenotype-Directed Analysis of Genotype in Early-Onset,
+  Familial Breast Cancers.'
+notes: ~
+pmid: 17393978
+title: Phenotype-Directed Analysis of Genotype in Early-Onset, Familial Breast Cancers.
+year: 2006

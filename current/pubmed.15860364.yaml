@@ -1,0 +1,49 @@
+---
+abstract: To search for additional amplification and deletion sites that may serve
+  as a starting point for the discovery of new oncogenes or tumor suppressor genes,
+  30 Japanese localized prostate cancers were analyzed by comparative genomic hybridization
+  CGH in this study. CGH was used to search for changes in DNA sequence copy-number
+  in a series of 30 primary prostate adenocarcinomas, consisting of 22 cases of pT2N0
+  organ confined without capsular invasion and 8 cases of pT3N0 with capsular invasion
+  , removed by radical prostatectomy. CGH revealed that the shortest regions of overlap
+  SRO of gains in pT2N0 were at 8q22.2 approximately q24.2, 11q13.1 approximately
+  q14.1, and 12q23 approximately q24.2, whereas the SRO of losses were seen at 8p23.3
+  approximately p22, 13q21.2 approximately p22, and 18q21 approximately q22. The SRO
+  of gains in pT3N0 were noted at 5q32 approximately q34, 8q22.3 approximately q24.1,
+  11q14.1 approximately q22.3, and 12q22 approximately q24.2, whereas the SRO of losses
+  were seen at 18q21.2 approximately q23. These results suggest that gains or losses
+  of DNA in these regions are important for prostate cancer progression. The detection
+  of the SRO may serve as a starting point to discover novel oncogenes and tumor suppressor
+  genes involved in prostate cancer progression.
+authors: Kasahara K, Taguchi T, Yamasaki I, Kamada M and Shuin T.
+contact:
+  email: ttaguchi@med.kochi-u.ac.jp
+  name: Takahiro Taguchi
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15860364
+geo_data:
+  geo_json:
+    coordinates:
+    - 133.53
+    - 33.56
+    type: Point
+  info:
+    city: Kochi-shi
+    continent: Asia
+    country: Japan
+    label: Kochi-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 159, 1 (2005): 84-88.'
+label: 'Kasahara et al. (2005): Genetic Changes in Localized Prostate Cancer of Japanese
+  Patients Shown By Comparative Genomic ...'
+notes: ~
+pmid: 15860364
+title: Genetic Changes in Localized Prostate Cancer of Japanese Patients Shown By
+  Comparative Genomic Hybridization.
+year: 2005

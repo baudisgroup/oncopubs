@@ -1,0 +1,41 @@
+---
+abstract: 'Primary effusion lymphomas PEL form a subset of AIDS-related lymphomas
+  and usually have a poor prognosis. Although Kaposis sarcoma-associated herpes virus
+  KSHV is often associated with PEL, very little is known about the exact mechanisms
+  or causative effects of these associations. We investigated the chromosomal imbalances
+  in six KSHV-positive PEL cell lines using comparative genomic hybridization analysis.
+  We defined the shortest regions of overlaps for genomic gains on six chromosomes:
+  1q31, 4q31 approximately q33, 7q10 approximately q21, 8q21.1, 12q0 approximately
+  q23, and Xp11 approximately q21. The recurrent nature of the gains found in these
+  chromosomal regions suggests that these imbalances play roles in the pathogenesis
+  of PEL.'
+authors: Nair P, Pan H, Stallings RL and Gao SJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17116491
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: North America
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 171, 2 (2006): 119-21.'
+label: 'Nair et al. (2006): Recurrent Genomic Imbalances in Primary Effusion Lymphomas.'
+notes: ~
+pmid: 17116491
+title: Recurrent Genomic Imbalances in Primary Effusion Lymphomas.
+year: 2006

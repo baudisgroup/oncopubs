@@ -1,0 +1,37 @@
+---
+abstract: ~
+authors: Sharpe K, Stewart GD, Mackay A, Van Neste C, Rofe C, Berney D, Kayani I,
+  Bex A, Wan E, OMahony FC, ODonnell M, Chowdhury S, Doshi R, Ho-Yen C, Gerlinger
+  M, Baker D, Smith N, Davies B, Sahdev A, Boleti E, De Meyer T, Van Criekinge W,
+  Beltran L, Lu YJ, Harrison DJ, Reynolds AR and Powles T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24130073
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: Clin Cancer Res (2013).
+label: 'Sharpe et al. (2013): The Effect of VEGF-Targeted Therapy on Biomarker Expression
+  in Sequential Tissue from Patients ...'
+notes: ~
+pmid: 24130073
+title: The Effect of VEGF-Targeted Therapy on Biomarker Expression in Sequential Tissue
+  from Patients with Metastatic Clear Cell Renal Cancer.
+year: 2013

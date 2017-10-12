@@ -1,0 +1,53 @@
+---
+abstract: Representational Oligonucleotide Microarray Analysis (ROMA) detects genomic
+  amplifications and deletions with boundaries defined at a resolution of approximately
+  50 kb. We have used this technique to examine 243 breast tumors from two separate
+  studies for which detailed clinical data were available. The very high resolution
+  of this technology has enabled us to identify three characteristic patterns of genomic
+  copy number variation in diploid tumors and to measure correlations with patient
+  survival. One of these patterns is characterized by multiple closely spaced amplicons,
+  or "firestorms," limited to single chromosome arms. These multiple amplifications
+  are highly correlated with aggressive disease and poor survival even when the rest
+  of the genome is relatively quiet. Analysis of a selected subset of clinical material
+  suggests that a simple genomic calculation, based on the number and proximity of
+  genomic alterations, correlates with life-table estimates of the probability of
+  overall survival in patients with primary breast cancer. Based on this sample, we
+  generate the working hypothesis that copy number profiling might provide information
+  useful in making clinical decisions, especially regarding the use or not of systemic
+  therapies (hormonal therapy, chemotherapy), in the management of operable primary
+  breast cancer with ostensibly good prognosis, for example, small, node-negative,
+  hormone-receptor-positive diploid cases.
+authors: Hicks J, Krasnitz A, Lakshmi B, Navin NE, Riggs M, Leibu E, Esposito D, Alexander
+  J, Troge J, Grubor V, Yoon S, Wigler M, Ye K, Bï¿½rresen-Dale AL, Naume B, Schlicting
+  E, Norton L, Hï¿½gerstrï¿½m T, Skoog L, Auer G, Mï¿½nï¿½r S, Lundin P and Zetterberg
+  A
+contact:
+  email: hicks@cshl.edu
+  name: James Hicks
+counts:
+  biosamples: 243
+  samples_acgh: 243
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17142309
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.47
+    - 40.86
+    type: Point
+  info:
+    city: Cold Spring Harbor
+    continent: North America
+    country: United States
+    label: Cold Spring Harbor, United States, North America
+    precision: city
+journal: Genome Res. 16(12), 2006
+label: 'Hicks J et al. (2006): '
+notes: ROMA arrays of tumors from 2 Scandinavian cohorts
+pmid: 17142309
+title: Novel patterns of genome rearrangement and their association with survival
+  in breast cancer.
+year: 2006

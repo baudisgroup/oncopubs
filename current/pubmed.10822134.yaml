@@ -1,0 +1,55 @@
+---
+abstract: In order to investigate typical genomic alterations in patients with Recklinghausens
+  disease NF1 we studied one from each of the six patients with NF1 several benign
+  and or malignant tumors. By means of comparative genomic hybridization CGH gained
+  results from six benign neurofibromas and 14 malignant peripheral nerve sheath tumors
+  MPNSTs were compared with four benign peripheral nerve sheath tumors BPNSTs from
+  patients without NF1. In all 14 MPNSTs DNA sequence copy number changes were detected
+  with a mean value of 13.5 imbalances per sample. The most frequent gains were in
+  8q, 17q 12 tumors each , 7p, 15q ten tumors each , and 7q nine tumors . We found
+  ten high-level amplifications in nine of the 14 samples. In two cases, the high-level
+  amplification involved 7p14-pter and 17q24-qter as well. The most frequent loss
+  was in 17p seven tumors . The benign neurofibromas from NF1-patients and the sporadic
+  BPNSTs revealed only partially DNA sequence copy number changes without any distinct
+  pattern. The gains of 7, 8q, 15q, and 17q were found exclusively in MPNSTs but not
+  in neurofibromas and are supposed to be associated with malignant tumor progression.
+  In comparison of the results of the 14 MPNSTs from NF1-patients with the results
+  of previously published 20 sporadic MPNSTs, we found that the gain of 8q occurs
+  most frequently in both tumor groups. Of course additionally in the sporadic MPNSTs
+  there were more frequent gains of 5p, 6, and statistically significant gains of
+  20q. On the other hand in the MPNSTs from NF1-patients the most frequent gains were
+  found in 7, and statistically significant in 15q, and 17q.
+authors: Schmidt H, Taubert H, Meye A, Wurl P, Bache M, Bartel F, Holzhausen HJ and
+  Hinze R.
+contact:
+  email: axel.meye@uniklinikum-dresden.de
+  name: Axel Meye
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10822134
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.36
+    - 52.06
+    type: Point
+  info:
+    city: Halle
+    continent: Europe
+    country: Germany
+    label: Halle, Germany, Europe
+    precision: city
+journal: 'Cancer Lett 155, 2 (2000): 181-90.'
+label: 'Schmidt et al. (2000): Gains in Chromosomes 7, 8q, 15q and 17q Are Characteristic
+  Changes in Malignant But Not in Benign ...'
+notes: ~
+pmid: 10822134
+title: Gains in Chromosomes 7, 8q, 15q and 17q Are Characteristic Changes in Malignant
+  But Not in Benign Peripheral Nerve Sheath Tumors From Patients With Recklinghausens
+  Disease.
+year: 2000

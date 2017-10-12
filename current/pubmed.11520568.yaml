@@ -1,0 +1,44 @@
+---
+abstract: Mutation of both alleles of the retinoblastoma gene RB1 initiate oncogenesis
+  in developing human retina, but other common genomic alterations are present in
+  the tumors. In order to sublocalize the altered genomic regions, 50 retinoblastoma
+  tumors were examined by comparative genomic hybridization CGH . The minimal regions
+  most frequent gained were 1q31 52 , 6p22 44 , 2p24-p25 30 and 13q32-q34 12 . The
+  minimal region most frequently lost was 16q22 14 . The overall total number of gains
+  or losses evident on CGH was significantly greater in those tumors with either or
+  both 6p or 1q gain, than in tumors with neither 6p nor 1q gain suggesting that chromosomal
+  instability may be associated with acquisition of these changes. Genes mapping to
+  6p22 and 1q31 may be important in tumor development in retina subsequent to the
+  loss of RB1 alleles.
+authors: Chen D, Gallie BL and Squire JA.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 41
+  samples_acgh: 0
+  samples_ccgh: 41
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11520568
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 129, 1 (2001): 57-63.'
+label: 'Chen et al. (2001): Minimal Regions of Chromosomal Imbalance in Retinoblastoma
+  Detected By Comparative Genomic ...'
+notes: ~
+pmid: 11520568
+title: Minimal Regions of Chromosomal Imbalance in Retinoblastoma Detected By Comparative
+  Genomic Hybridization.
+year: 2001

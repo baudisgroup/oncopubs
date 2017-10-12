@@ -1,0 +1,58 @@
+---
+abstract: 'For a better understanding of genetic alterations in head and neck squamous
+  cell carcinoma HNSCC , we applied comparative genomic hybridization CGH in the analysis
+  of 75 HNSCCs, comprised of 18 pharyngeal squamous cell carcinomas PSCCs , 23 laryngeal
+  squamous cell carcinomas LSCCs , and 34 oral squamous cell carcinomas OSCCs . The
+  three subgroups of HNSCC showed significant differences in genetic alteration patterns.
+  Overall, PSCC and LSCC had more copy number aberrations CNAs per tumor than did
+  OSCC. Apparent differing patterns of high-level amplification were also observed.
+  The smallest recurrent chromosomal regions of high-level amplification amp gt or
+  15 of cases were 7q22, 8q24.1, and 11q12-13 in PSCC and 3q26.1-29 in OSCC. According
+  to single frequency and combined frequencies of CNAs, we concluded that the most
+  important chromosomal events for progression of head and neck cancer were 3q, 5p,
+  8q, and -3p for all subgroups of HNSCC additionally, 7q, 17q, -9p, and -13q for
+  PSCC 7p, 9q, 11q12-13, 14q, and 17q for LSCC and 1p and 11q12-13 for OSCC. To identify
+  further important genetic alterations and the relationships among the alterations,
+  we constructed oncogenetic tree models for tumor progression of HNSCC from CGH data
+  using branching and distance-based tree models. The tree models predicted that:
+  1 3q21-29 was the most important early chromosomal event, and -3p, which occurred
+  after 3q21-29, was also an important chromosomal event for all subsites of HNSCC
+  2 8q is the second most important early chromosomal event 3 there may be at least
+  three subgroups of HNSCC: one characterized by -3p, -9p, 7p, and -13q another by
+  5p, 9qter, and 17p and the other by 8q and 18p. These results suggest that different
+  chromosomal aberrations may play a role in the initiation and or progression of
+  different subgroups of HNSCC.'
+authors: Huang Q, Yu GP, McCormick SA, Mo J, Datta B, Mahimkar M, Lazarus P, Schaffer
+  AA, Desper R and Schantz SP.
+contact:
+  email: sschantz@nyee.edu
+  name: Stimson P. Schantz
+counts:
+  biosamples: 75
+  samples_acgh: 0
+  samples_ccgh: 75
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11979556
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 34, 2 (2002): 224-33.'
+label: 'Huang et al. (2002): Genetic Differences Detected By Comparative Genomic Hybridization
+  in Head and Neck Squamous Cell ...'
+notes: ~
+pmid: 11979556
+title: 'Genetic Differences Detected By Comparative Genomic Hybridization in Head
+  and Neck Squamous Cell Carcinomas From Different Tumor Sites: Construction of Oncogenetic
+  Trees for Tumor Progression.'
+year: 2002

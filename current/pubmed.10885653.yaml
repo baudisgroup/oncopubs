@@ -1,0 +1,59 @@
+---
+abstract: Astroblastomas are uncommon brain tumors whose classification and histogenesis
+  have been debated. Precise criteria for diagnosis have been described only recently,
+  but have not found wide acceptance. We report the clinical, radiographic, and histopathologic
+  features of 20 astroblastomas, and the chromosomal alterations in seven cases as
+  detected by comparative genomic hybridization CGH . The tumors occurred both in
+  children and young adults average age, 14 years , most often as well circumscribed,
+  peripheral, cerebral hemispheric masses. Radiographically, the lesions were contrast-enhancing
+  and solid, often with a cystic component. All were characterized histologically
+  by astroblastic pseudorosettes, and most displayed prominent perivascular hyalinization,
+  regional hyaline changes, and pushing borders in regard to adjacent brain. Tumor
+  cells were strongly immunoreactive for S-100 protein, GFAP, and vimentin. Staining
+  for EMA was focal. Ten of 20 astroblastomas were classified as amp quot well differentiated
+  amp quot and 10 were classified as amp quot malignant, amp quot largely on the basis
+  of hypercellular zones with increased mitotic indices, vascular proliferation, and
+  necrosis with pseudopalisading. All 10 well differentiated lesions and 8 of 10 malignant
+  lesions were completely resected. None of the well differentiated astroblastomas
+  recurred within the limited follow-up period. Three malignant astroblastomas recurred,
+  including two incompletely resected tumors, and one that had been totally resected.
+  One patient died of disease following recurrence. The most frequent chromosomal
+  alterations detected by CGH were gains of chromosome arm 20q 4 7 tumors and chromosome
+  19 3 7 . The combination of these gains occurred in three, including two well differentiated
+  and one malignant astroblastoma. Other alterations noted in two tumors each were
+  losses on 9q, 10, and X. These chromosomal alterations are not typical of ependymoma
+  or infiltrating astrocytic neoplasms, and suggest that astroblastomas may have a
+  characteristic cytogenetic profile in addition to their distinctive clinical, radiographic,
+  and histopathologic features.
+authors: Brat DJ, Hirose Y, Cohen KJ, Feuerstein BG and Burger PC.
+contact:
+  email: ~
+  name: DJ Brat
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10885653
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.39
+    - 33.75
+    type: Point
+  info:
+    city: Atlanta
+    continent: North America
+    country: United States
+    label: Atlanta, United States, North America
+    precision: city
+journal: 'Brain Pathol 10, 3 (2000): 342-52.'
+label: 'Brat et al. (2000): Astroblastoma: Clinicopathologic Features and Chromosomal
+  Abnormalities Defined By Comparative ...'
+notes: ~
+pmid: 10885653
+title: 'Astroblastoma: Clinicopathologic Features and Chromosomal Abnormalities Defined
+  By Comparative Genomic Hybridization.'
+year: 2000

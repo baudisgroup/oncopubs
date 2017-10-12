@@ -1,0 +1,53 @@
+---
+abstract: T-cell prolymphocytic leukemia T-PLL is a rare postthymic T-cell disorder
+  that may show different morphologic variants and a very aggressive clinical behavior.
+  On occasion, patients may present with an indolent clinical course and long survival.
+  The disease is genetically characterized by the presence of complex karyotypes with
+  recurrent alterations involving chromosomes 8, 14, and 11. The possible relationship
+  between genetic alterations and morphologic variants and the clinical course of
+  the disease, however, is not well known. Comparative genomic hybridization CGH was
+  used to detect chromosomal imbalances in eight patients diagnosed with T-PLL, including
+  three cases of small-cell variant with an indolent clinical evolution. Abnormal
+  profiles were detected in all cases. The chromosomal regions most often over-represented
+  were 8q 75 , 5p 62 , and 14q 37 , as well as 6p and 21 both 25 . The chromosomal
+  regions most often underrepresented were 8p and 11q 75 , 13q 37 , and 6q, 7q, 16q,
+  17p, and 17q 25 . The number of chromosomal imbalances in the three small-cell variants
+  was relatively similar to that of cases with typical morphology. Only gains of 6p
+  and losses of 7q present in three and two cases, respectively, with typical morphology
+  were not detected in any small-cell variant. CGH analysis revealed alterations in
+  15 chromosomal regions not detected by conventional cytogenetics. These results
+  indicate that T-PLL carry a high number of chromosomal alterations that are not
+  related to the morphologic variants or the clinical behavior of the disease.
+authors: Costa D, Queralt R, Aymerich M, Carrio A, Rozman M, Vallespi T, Colomer D,
+  Nomdedeu B, Montserrat E and Campo E.
+contact:
+  email: dcosta@clinic.ub.es
+  name: Dolors Costa
+counts:
+  biosamples: 8
+  samples_acgh: 0
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14580769
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 147, 1 (2003): 36-43.'
+label: 'Costa et al. (2003): High Levels of Chromosomal Imbalances in Typical and
+  Small-Cell Variants of T-Cell Prolymphocytic ...'
+notes: ~
+pmid: 14580769
+title: High Levels of Chromosomal Imbalances in Typical and Small-Cell Variants of
+  T-Cell Prolymphocytic Leukemia.
+year: 2003

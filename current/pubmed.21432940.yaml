@@ -1,0 +1,51 @@
+---
+abstract: Approximately 25,000 ovarian cancers are diagnosed in the United States
+  annually, and 75 of cases are in the advanced stage when they are largely incurable.
+  There is a critical need for improved early detection tools and development of novel
+  treatments. Recently, we showed that among 20q13-amplified genes in ovarian cancer,
+  ADRM1 overexpression was the most highly correlated with amplification and was significantly
+  upregulated with respect to stage, recurrence, and metastasis. In addition, overexpression
+  of ADRM1 correlated significantly with shorter time to recurrence and overall survival.
+  Herein, array-CGH and microarray expression of ovarian cancer cell lines provides
+  evidence consistent with the primary tumor data that ADRM1 is a 20q13 amplification
+  target. Knockdown of ADRM1 in amplified ovarian cell-line OAW42 results in downregulation
+  of growth factor GIPC1 and upregulation of tumor-suppressor RECK RNA and protein.
+  In our dataset of 141 ovarian primary tumors, ADRM1 overexpression significantly
+  correlates with GIPC1 overexpression. In addition, there is a significant anticorrelation
+  between ADRM1 overexpression and RECK expression. Further research is necessary
+  to determine whether targeting knockdown of ADRM1 in 20q13-amplified ovarian cancers
+  results in growth inhibition and tumor suppression via downstream targets GIPC1
+  and RECK.
+authors: Fejzo MS, Ginther C, Dering J, Anderson L, Venkatesan N, Konecny G, Karlan
+  B and Slamon DJ.
+contact:
+  email: ~
+  name: Marlena Fejzo
+counts:
+  biosamples: 39
+  samples_acgh: 39
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21432940
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 6 (2011): 434-41.'
+label: 'Fejzo et al. (2011): Knockdown of Ovarian Cancer Amplification Target Adrm1
+  Leads to Downregulation of Gipc1 and ...'
+notes: ~
+pmid: 21432940
+title: Knockdown of Ovarian Cancer Amplification Target Adrm1 Leads to Downregulation
+  of Gipc1 and Upregulation of Reck.
+year: 2011

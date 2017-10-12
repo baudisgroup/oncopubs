@@ -1,0 +1,43 @@
+---
+abstract: We investigated chromosomal aberrations in 16 patients with astrocytic tumors
+  of various histologic malignancies by comparative genomic hybridization CGH . The
+  degree of chromosomal loss was shown to be negatively correlated with histologic
+  malignancy. Losses of portions of chromosomes 1p, 19q and 22q were the three chromosomal
+  aberrations observed most frequently. Alterations in multiple chromosomes were observed
+  more frequently in glioblastomas than in astrocytomas or anaplastic astrocytomas
+  P amp lt 0.001 . Primary glioblastomas showed a high frequency of genomic DNA gains
+  5 7 , whereas recurrent glioblastomas from anaplastic astrocytomas did not 0 3 .
+  We found CGH to be a powerful tool for surveying DNA alterations in tumors and characterizing
+  the biology of tumors of astrocytic lineage.
+authors: Maruno M, Yoshimine T, Muhammad AK, Ninomiya H, Kato A and Hayakawa T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 0
+  samples_ccgh: 16
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10077222
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: Asia
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: 'Cancer Lett 135, 1 (1999): 61-66.'
+label: 'Maruno et al. (1999): Chromosomal Aberrations Detected By Comparative Genomic
+  Hybridization (Cgh) in Human Astrocytic ...'
+notes: ~
+pmid: 10077222
+title: Chromosomal Aberrations Detected By Comparative Genomic Hybridization (Cgh)
+  in Human Astrocytic Tumors.
+year: 1999

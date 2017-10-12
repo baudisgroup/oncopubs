@@ -1,0 +1,43 @@
+---
+abstract: Comparative genomic hybridization CGH analysis was performed on bone marrow
+  specimens from 19 children with acute myeloid leukemia AML at diagnosis. The results
+  of CGH were compared to those of conventional cytogenetic analysis. The most common
+  CGH aberrations were gains of whole chromosomes 6 and 8, both of which appeared
+  three times. Two losses were seen twice losses of whole chromosomes 7 and X. The
+  CGH findings were concordant with the results of conventional karyotyping. CGH did
+  not add new information to the karyotypes. Since no high-level amplification was
+  found among the samples and standard karyotyping was highly successful, we do not
+  advocate routine use of CGH in the diagnostic evaluation of childhood AML.
+authors: Huhta T, Vettenranta K, Heinonen K, Kanerva J, Larramendy ML, Mahlamaki E,
+  Saarinen-Pihkala UM and Knuutila S.
+contact:
+  email: sakari.knuutila@helsinki.fi
+  name: Sakari Knuutila
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10706455
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'Leuk Lymphoma 35, 3-4 (1999): 311-15.'
+label: 'Huhta et al. (1999): Comparative Genomic Hybridization and Conventional Cytogenetic
+  Analyses in Childhood Acute Myeloid ...'
+notes: ~
+pmid: 10706455
+title: Comparative Genomic Hybridization and Conventional Cytogenetic Analyses in
+  Childhood Acute Myeloid Leukemia.
+year: 1999

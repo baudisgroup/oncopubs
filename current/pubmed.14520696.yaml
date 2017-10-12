@@ -1,0 +1,49 @@
+---
+abstract: 'Sporadic breast cancer in young women is different from the one in older
+  patients regarding pathological features and aggressiveness of the tumors, but the
+  spectrum of genetic alterations are largely unknown. We used comparative genomic
+  hybridization CGH to analyze DNA copy number changes in 88 tumor samples from women
+  amp lt 35 years of age. Findings were compared to histopathological data including
+  tumor type, grading, lymph nodes and metastasis. Genomic gains clustered to chromosome
+  arms 1q 64.8 , 8q 61.4 , 17q 50.0 , 20q 33.0 , 3q 20.5 , 1p 17.0 , 5p 17.0 and 15q
+  17 . Losses were commonly located on 8p 19.3 , 11q 11.4 , 16q 11.4 , 17p 11.4 and
+  18q 10.2 . A comparison with published CGH data from breast carcinomas of similar
+  type and grade showed the following differences: 1 gains were much more frequent
+  than losses, and 2 losses on 8p22-p23 were more prevalent in patients with positive
+  lymph node metastasis p 0.02 , and Grade III tumors were associated with gains on
+  the long arm of chromosome 8 p 0.01 . Therefore, alterations in these genomic regions
+  may be responsible for the reduced survival of patients with early onset breast
+  cancer.'
+authors: Weber-Mangal S, Sinn HP, Popp S, Klaes R, Emig R, Bentz M, Mansmann U, Bastert
+  G, Bartram CR and Jauch A.
+contact:
+  email: Anna_Jauch@med.uni-heidelberg.de
+  name: Anna Jauch
+counts:
+  biosamples: 88
+  samples_acgh: 0
+  samples_ccgh: 88
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14520696
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Int J Cancer 107, 4 (2003): 583-92.'
+label: 'Weber-Mangal et al. (2003): Breast Cancer in Young Women (&lt; Or   35 Years):
+  Genomic Aberrations Detected By ...'
+notes: ~
+pmid: 14520696
+title: 'Breast Cancer in Young Women (&lt; Or   35 Years): Genomic Aberrations Detected
+  By Comparative Genomic Hybridization.'
+year: 2003

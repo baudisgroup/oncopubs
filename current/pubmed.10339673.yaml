@@ -1,0 +1,45 @@
+---
+abstract: Anaplastic thyroid cancer ATC is one of the malignant tumors with the poor
+  prognosis that is thought to arise from well-differentiated thyroid cancer DTC .
+  To investigate the molecular mechanism of ATC, we studied genomic alterations of
+  eight ATC cell lines and three DTC cell lines by means of the comparative genomic
+  hybridization CGH method. Loss of 16p was observed in five of eight ATC cell lines
+  62. 5 , but none of the three DTC cell lines showed loss of this chromosome arm.
+  It is notable that loss of 18q 7 8 of ATC 87.5 , 2 3 of DTC 67 and gain of 20q 5
+  8 of ATC 62.5 , 3 3 of DTC 100 were frequently seen in both histologic types. Our
+  results suggest that there is a gene in 16p that is closely associated with transformation
+  from well-differentiated thyroid cancer to anaplastic cancer.
+authors: Komoike Y, Tamaki Y, Sakita I, Tomita N, Ohue M, Sekimoto M, Miyazaki M,
+  Kadota M, Masuda N, Ooka M, Ohnishi T, Nakano Y, Kozaki T, Kobayashi T, Matsuura
+  N, Ikeda T, Horii A and Monden M.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 11
+  samples_acgh: 0
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10339673
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.5
+    - 34.69
+    type: Point
+  info:
+    city: Osaka-shi
+    continent: Asia
+    country: Japan
+    label: Osaka-shi, Japan, Asia
+    precision: city
+journal: 'Int J Oncol 14, 6 (1999): 1157-62.'
+label: 'Komoike et al. (1999): Comparative Genomic Hybridization Defines Frequent
+  Loss on 16p in Human Anaplastic Thyroid ...'
+notes: ~
+pmid: 10339673
+title: Comparative Genomic Hybridization Defines Frequent Loss on 16p in Human Anaplastic
+  Thyroid Carcinoma.
+year: 1999

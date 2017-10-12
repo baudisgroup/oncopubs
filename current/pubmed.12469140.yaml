@@ -1,0 +1,41 @@
+---
+abstract: Spindle-cell ameloblastic carcinoma is a classification proposed for a group
+  of rare odontogenic carcinomas with sarcomatoid components and is distinguished
+  from odontogenic carcinosarcoma. We report a case of spindle-cell ameloblastic carcinoma
+  of the right mandible that occurred in a 67-year-old Japanese man. Growth of the
+  tumor was destructive, there was extensive lung metastasis, and the outcome was
+  unfavorable. Ultrastructural and immunohistochemical examination showed the spindle-cell
+  component of the tumor to be epithelial in character. A gain of 5q with amplification
+  of 5q13 was detected in the tumor by comparative genomic hybridization.
+authors: Kawauchi S, Hayatsu Y, Takahashi M, Furuya T, Oga A, Niwa S and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12469140
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Oncol Rep 10, 1 (2003): 31-34.'
+label: 'Kawauchi et al. (2003): Spindle-Cell Ameloblastic Carcinoma: A Case Report
+  With Immunohistochemical, Ultrastructural, ...'
+notes: ~
+pmid: 12469140
+title: 'Spindle-Cell Ameloblastic Carcinoma: A Case Report With Immunohistochemical,
+  Ultrastructural, and Comparative Genomic Hybridization Analyses.'
+year: 2003

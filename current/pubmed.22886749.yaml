@@ -1,0 +1,52 @@
+---
+abstract: Core binding factor CBF AML with the D816 C-KIT gene mutation demonstrate
+  inferior treatment outcomes. However, the remaining cases without the D816 C-KIT
+  mutation imply a requirement of more sophisticated dissection of the patients according
+  to their prognosis. In this study, we analyzed the prognostic value of a single
+  nucleotide polymorphism array SNP-A based karyotyping combined with metaphase cytogenetics
+  MC to facilitate further stratification of CBF AML patients. A total of 98 CBF AML
+  patients were included and genome-wide Human SNP 6.0 Arrays Affymetrix were performed
+  using marrow samples taken at diagnosis. Overall, 40 abnormal lesions were identified
+  in 25 patients 26 . Survival of the patients with the abnormal lesion s detected
+  by SNP-A and or MC was worse than those without lesions in terms of the 2-year overall
+  survival OS 57.5 vs. 76.4 , P 0.028 , event-free EFS 45.7 vs. 66.2 , P 0.072 , and
+  leukemia-free survival LFS 49.0 vs. 77.4 , P 0.015 , specially in the subgroup with
+  inv 16 t 16 16 40.9 vs. 80.2 OS, P 0.040 and in the subgroup without the D816 C-KIT
+  mutation 61.6 vs. 82.7 OS, P 0.038 . Multivariate analysis confirmed the prognostic
+  impact of the abnormal SNP-A and or MC lesion on EFS HR 2.011, P 0.047 , and LFS
+  HR 3.231, P 0.005 in the overall CBF AML. This study suggests that the combined
+  use of SNP-A with MC in the CBF AML can provide important prognostic value, especially
+  in the inv 16 t 16 16 subgroup or in the patients without the D816 C-KIT mutation.
+authors: Huh J, Kim HJ, Jung CW, Kim HJ, Kim SH, Kim YK, Kim HJ, Shin MG, Moon JH,
+  Sohn SK, Kim SH, Lee WS, Won JH, Mun YC, Kim H, Park J, Min WS and Kim DH.
+contact:
+  email: ~
+  name: Dong Hwan Kim
+counts:
+  biosamples: 98
+  samples_acgh: 98
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22886749
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: Am J Hematol (2012)
+label: 'Huh et al. (2012): A Genome-Wide Single-Nucleotide Polymorphism-Array Can
+  Improve the Prognostic Stratification of the ...'
+notes: ~
+pmid: 22886749
+title: A Genome-Wide Single-Nucleotide Polymorphism-Array Can Improve the Prognostic
+  Stratification of the Core Binding Factor Acute Myeloid Leukemia.
+year: 2012

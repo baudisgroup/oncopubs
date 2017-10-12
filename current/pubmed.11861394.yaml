@@ -1,0 +1,42 @@
+---
+abstract: Oncogene activation by gene amplification is a major pathogenetic mechanism
+  in human cancer. Using comparative genomic hybridization, we determined that metastatic
+  human colon cancers commonly acquire numerous extra copies of chromosome arms 7p,
+  8q, 13q, and 20q. We then examined the consequence of these amplifications on gene
+  expression using DNA microarrays. Of 55,000 transcripts profiled, 2,146 were determined
+  to map to one of the four common colon cancer amplicons and to also be expressed
+  in normal or malignant colon tissues. Of these, only 81 transcripts 3.8 demonstrated
+  a 2-fold increase over normal expression among cancers bearing the corresponding
+  chromosomal amplification. Chromosomal amplifications are common in colon cancer
+  metastasis, but increased expression of genes within these amplicons is rare.
+authors: Platzer P, Upender MB, Wilson K, Willis J, Lutterbaugh J, Nosrati A, Willson
+  JK, Mack D, Ried T and Markowitz S.
+contact:
+  email: sxm10@po.cwru.edu
+  name: Sanford Markowitz
+counts:
+  biosamples: 22
+  samples_acgh: 0
+  samples_ccgh: 22
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11861394
+geo_data:
+  geo_json:
+    coordinates:
+    - -84.88
+    - 35.16
+    type: Point
+  info:
+    city: Cleveland
+    continent: North America
+    country: United States
+    label: Cleveland, United States, North America
+    precision: city
+journal: 'Cancer Res 62, 4 (2002): 1134-38.'
+label: 'Platzer et al. (2002): Silence of Chromosomal Amplifications in Colon Cancer.'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 11861394
+title: Silence of Chromosomal Amplifications in Colon Cancer.
+year: 2002

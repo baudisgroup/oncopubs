@@ -1,0 +1,55 @@
+---
+abstract: Non-melanoma skin cancers, in particular keratoacanthomas KAs and squamous
+  cell carcinomas SCCs , have become highly frequent tumor types especially in immune-suppressed
+  transplant patients. Nevertheless, little is known about essential genetic changes.
+  As a paradigm of early changes, that is, changes still compatible with tumor regression,
+  we studied KAs by comparative genomic hybridization and show that gain of chromosome
+  11q is not only one of the most frequent aberration 8 18 , but in four tumors also
+  the only aberration. Furthermore, 11q gain correlated with amplification of the
+  cyclin D1 locus 10 14 , as determined by fluorescence in situ hybridization, and
+  overexpression of cyclin D1 protein 25 31 , as detected by immunohistochemistry.
+  For unraveling the functional consequence, we overexpressed cyclin D1 in HaCaT skin
+  keratinocytes. These cells only gained little growth advantage in conventional and
+  in organotypic co-cultures. However, although the control vector-transfected cells
+  formed a well-stratified and orderly differentiated epidermis-like epithelium, they
+  showed deregulation of tissue architecture with an altered localization of proliferation
+  and impaired differentiation. The most severe phenotype was seen in a clone that
+  additionally upregulated cdk4 and p21. These cells lacked terminal differentiation,
+  exhibited a more autonomous growth in vitro and in vivo and even formed tumors in
+  two injection sites with a growth pattern resembling that of human KAs. Thus, our
+  results identify 11q13 gain cyclin D1 overexpression as an important step in KA
+  formation and point to a function that exceeds its known role in proliferation by
+  disrupting tissue organization and thereby allowing abnormal growth.
+authors: Burnworth B, Popp S, Stark HJ, Steinkraus V, Brocker EB, Hartschuh W, Birek
+  C and Boukamp P.
+contact:
+  email: p.boukamp@dkfz.de
+  name: Petra Boukamp
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16547504
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Oncogene 25, 32 (2006): 4399-412.'
+label: 'Burnworth et al. (2006): Gain of 11q/Cyclin D1 Overexpression is an Essential
+  Early Step in Skin Cancer Development and ...'
+notes: ~
+pmid: 16547504
+title: Gain of 11q/Cyclin D1 Overexpression is an Essential Early Step in Skin Cancer
+  Development and Causes Abnormal Tissue Organization and Differentiation.
+year: 2006

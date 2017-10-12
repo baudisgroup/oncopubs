@@ -1,0 +1,45 @@
+---
+abstract: Comparative genomic hybridization CGH was used to clarify the chromosomal
+  status of 15 patients diagnosed with childhood acute lymphoblastic leukemia ALL
+  . Bone marrow samples from 10 of the 15 patients were selected because no metaphases
+  were obtained for cytogenetic analysis. Three patients with normal trypsin and giemsa
+  banding GTG karyotypes were also studied by CGH to determine whether significant
+  abnormalities might have been missed by banding analysis, and samples from an additional
+  2 patients with hyperdiploidy were also included. Seven of the 10 patients with
+  failed GTG banding analysis were found to be chromosomally abnormal by CGH 2 out
+  of 3 patients with normal GTG band karyotypes were abnormal, indicating that the
+  metaphases available for karyotyping were not malignant cells, and that CGH analysis
+  of hyperdiploid samples provided more accurate resolution than karyotyping alone.
+  The prognostic value of chromosomal aberrations detected by CGII and the efficiency
+  of the technique suggest a central role for CGH in routine clinical cytogenetics.
+authors: Rice M, Breen CJ, OMeara A, Breatnach F, OMarcaigh AS and Stallings RL.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10734656
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: Europe
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: 'Pediatr Hematol Oncol 17, 2 (2000): 141-47.'
+label: 'Rice et al. (2000): Comparative Genomic Hybridization in Pediatric Acute Lymphoblastic
+  Leukemia.'
+notes: ~
+pmid: 10734656
+title: Comparative Genomic Hybridization in Pediatric Acute Lymphoblastic Leukemia.
+year: 2000

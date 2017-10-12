@@ -1,0 +1,55 @@
+---
+abstract: 'In defining the genetic profiles in cancer, cytogenetically aberrant cell
+  lines derived from primary tumors are important tools for the study of carcinogenesis.
+  Here, we present the results of a comprehensive investigation of 15 established
+  colorectal cancer cell lines using spectral karyotyping SKY , fluorescence in situ
+  hybridization, and comparative genomic hybridization CGH . Detailed karyotypic analysis
+  by SKY on five of the lines P53HCT116, T84, NCI-H508, NCI-H716, and SK-CO-1 is described
+  here for the first time. The five lines with karyotypes in the diploid range and
+  that are characterized by defects in DNA mismatch repair had a mean of 4.8 chromosomal
+  abnormalities per line, whereas the 10 aneuploid lines exhibited complex karyotypes
+  and a mean of 30 chromosomal abnormalities. Of the 150 clonal translocations, only
+  eight were balanced and none were recurrent among the lines. We also reviewed the
+  karyotypes of 345 cases of adenocarcinoma of the large intestine listed in the Mitelman
+  Database of Chromosome Aberrations in Cancer. The types of abnormalities observed
+  in the cell lines reflected those seen in primary tumors: there were no recurrent
+  translocations in either tumors or cell lines isochromosomes were the most common
+  recurrent abnormalities and breakpoints occurred most frequently at the centromeric
+  pericentromeric and telomere regions. Of the genomic imbalances detected by array
+  CGH, 87 correlated with chromosome aberrations observed in the SKY studies. The
+  fact that chromosome abnormalities predominantly result in copy number changes rather
+  than specific chromosome or gene fusions suggests that this may be the major mechanism
+  leading to carcinogenesis in colorectal cancer.'
+authors: Knutsen T, Padilla-Nash HM, Wangsa D, Barenboim-Stapleton L, Camps J, McNeil
+  N, Difilippantonio MJ and Ried T.
+contact:
+  email: knutsent@mail.nih.gov
+  name: Turid Knutsen
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19927377
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 49, 3 (2010): 204-23.'
+label: 'Knutsen et al. (2010): Definitive Molecular Cytogenetic Characterization of
+  15 Colorectal Cancer Cell ...'
+notes: ~
+pmid: 19927377
+title: Definitive Molecular Cytogenetic Characterization of 15 Colorectal Cancer Cell
+  Lines.
+year: 2010

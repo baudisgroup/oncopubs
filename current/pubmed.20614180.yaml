@@ -1,0 +1,58 @@
+---
+abstract: Germline mutations in BRCA1 2 increase the lifetime risk for breast and
+  ovarian cancer dramatically. Identification of such mutations is important for optimal
+  treatment decisions and pre-symptomatic mutation screening in family members. Although
+  current DNA diagnostics is able to identify many different mutations, it remains
+  unclear, how many BRCA2-associated breast cancer cases remain unidentified as such.
+  In addition, mutation scanning detects many unclassified variants UV for which the
+  clinical relevance is uncertain. Therefore, our aim was to develop a test to identify
+  BRCA2-association in breast tumors based on the genomic signature. A BRCA2-classifier
+  was built using array-CGH profiles of 28 BRCA2-mutated and 28 sporadic breast tumors.
+  The classifier was validated on an independent group of 19 BRCA2-mutated and 19
+  sporadic breast tumors. Subsequently, we tested 89 breast tumors from suspected
+  hereditary breast and ovarian cancer HBOC families, in which either no BRCA1 2 mutation
+  or an UV had been found by routine diagnostics. The classifier showed a sensitivity
+  of 89 and specificity of 84 on the validation set of known BRCA2-mutation carriers
+  and sporadic tumor cases. Of the 89 HBOC cases, 17 presented a BRCA2-like profile.
+  In three of these cases additional indications for BRCA2-deficiency were found.
+  Chromosomal aberrations that were specific for BRCA2-mutated tumors included loss
+  on chromosome arm 13q and 14q, and gain on 17q. Since we could separate BRCA1-like,
+  BRCA2-like, and sporadic-like tumors, using our current BRCA2- and previous BRCA1-classifier,
+  this method of breast tumor classification could be applied as additional test for
+  current diagnostics to help clinicians in decision making and classifying sequence
+  variants of unknown significance.
+authors: Joosse SA, Brandwijk KI, Devilee P, Wesseling J, Hogervorst FB, Verhoef S
+  and Nederlof PM.
+contact:
+  email: nederlof@nki.nl
+  name: Petra Nederlof
+counts:
+  biosamples: 183
+  samples_acgh: 183
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20614180
+- geo:GSE16511
+- geo:GSE9114
+- geo:GSE22481
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: Breast Cancer Res Treat (2010)
+label: 'Joosse et al. (2010): Prediction of Brca2-Association in Hereditary Breast
+  Carcinomas Using Array-Cgh.'
+notes: ~
+pmid: 20614180
+title: Prediction of Brca2-Association in Hereditary Breast Carcinomas Using Array-Cgh.
+year: 2010

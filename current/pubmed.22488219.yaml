@@ -1,0 +1,51 @@
+---
+abstract: Although acquired uniparental disomy aUPD has been reported in relapse acute
+  myeloid leukemia AML , pretransplant aUPD involving chromosome 6 is poorly documented.
+  Such events could be of interest because loss of heterozygosity LOH resulting from
+  aUPD in leukemic cells may lead to erroneous results if HLA typing for hematopoietic
+  stem cell donor searches is performed on blood samples drawn during blastic crisis.
+  We report here six AML patients whose HLA typing was performed on DNA extracted
+  from peripheral blood obtained at diagnosis. We observed LOH involving the entire
+  HLA region three patients , HLA-A, B, C two patients and HLA-A only one patient
+  . An array-comparative genomic hybridization showed that copy number was neutral
+  for all loci, thus revealing partial aUPD of chromosome 6p21. When HLA typing was
+  performed on remission blood samples both haplotypes were detected. A 3-4 LOH incidence
+  was estimated in AML patients with high blast counts. Based on DNA mixing experiments,
+  we determined by PCR sequence-specific oligonucleotide hybridization on microbeads
+  arrays a detection threshold for HLA-A, B, DRB1 heterozygosity in blood samples
+  with amp lt 80 blasts. Because aUPD may be partial, any homozygous HLA result should
+  be confirmed by a second typing performed on buccal swabs or on blood samples from
+  the patient in remission.
+authors: Dubois V, Sloan-Bena F, Cesbron A, Hepkema BG, Gagne K, Gimelli S, Heim D,
+  Tichelli A, Delaunay J, Drouet M, Jendly S, Villard J and Tiercy JM.
+contact:
+  email: jean-marie.tiercy@unige.ch
+  name: Jean Tiercy
+counts:
+  biosamples: 6
+  samples_acgh: 6
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22488219
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.85
+    - 45.75
+    type: Point
+  info:
+    city: Lyon
+    continent: Europe
+    country: France
+    label: Lyon, France, Europe
+    precision: city
+journal: Leukemia (2012)
+label: 'Dubois et al. (2012): Pretransplant Hla Mistyping in Diagnostic Samples of
+  Acute Myeloid Leukemia Patients Due to ...'
+notes: ~
+pmid: 22488219
+title: Pretransplant Hla Mistyping in Diagnostic Samples of Acute Myeloid Leukemia
+  Patients Due to Acquired Uniparental Disomy.
+year: 2012

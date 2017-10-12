@@ -1,0 +1,51 @@
+---
+abstract: Data from experimental hepatocarcinogenesis and recent studies in humans
+  have suggested that the emergence of hepatocellular carcinoma HCC is a stepwise
+  process. However, despite abundant experimental data, the precise molecular mechanisms
+  and genetic alterations involved in human liver carcinogenesis are still unclear.
+  Comparative genomic hybridization was used to analyze 26 hepatocellular nodules
+  obtained from patients undergoing liver transplantation or surgical resection for
+  HCC. According to the criteria proposed by the International Working Party, 16 nodules
+  were classified as multiacinar regenerative nodules MRN , 4 as low-grade dysplastic
+  nodules LG-DN , and 6 as high-grade dysplastic nodules HG-DN . Our aim was to investigate
+  the possible genetic differences between MRN, LG-DN, and HG-DN. The whole group
+  of nodules showed only a few aberrations mean 1.1 case , without any significant
+  pattern. This finding is comparable to what happens in non-neoplastic tissue. On
+  the contrary, in three of six HG-DN, we found deletions of 8p and gains of 1q. LG-DN
+  and MRN did not show these chromosomal imbalances. These results confirm the important
+  role of allelic losses on 8p as well as of gains of 1q in HCC. We conclude that
+  the genes that are important in early stages of hepatocarcinogenesis are probably
+  located on these chromosomal arms.
+authors: Tornillo L, Carafa V, Sauter G, Moch H, Minola E, Gambacorta M, Vecchione
+  R, Bianchi L and Terracciano LM.
+contact:
+  email: lterracciano@uhbs.ch
+  name: Luigi M. Terraciano
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12003995
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Lab Invest 82, 5 (2002): 547-53.'
+label: 'Tornillo et al. (2002): Chromosomal Alterations in Hepatocellular Nodules
+  By Comparative Genomic Hybridization: ...'
+notes: ~
+pmid: 12003995
+title: 'Chromosomal Alterations in Hepatocellular Nodules By Comparative Genomic Hybridization:
+  High-Grade Dysplastic Nodules Represent Early Stages of Hepatocellular Carcinoma.'
+year: 2002

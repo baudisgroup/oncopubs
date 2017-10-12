@@ -1,0 +1,49 @@
+---
+abstract: Esophageal cancer EC is the leading cause of cancer death in the Black male
+  population in South Africa. Although several oncogenes and tumor suppressor genes
+  have previously been found altered in this cancer, many novel genes remain to be
+  identified. To identify the chromosomal location of these unknown genes, we have
+  analyzed DNA of 29 South African EC patients by comparative genomic hybridization.
+  Frequent loss occurred at chromosome 1p 52 , 4p 52 , 18q 48 , 19p 52 , 19q 55 ,
+  and 22q 41 . The most common gains were detected at 1q 41 , 2q 52 , 3q 72 , 5p 31
+  , 7p 48 , 7q 45 , 8q 55 , and Xq 69 . High level amplification was detected at 2q24-33,
+  6p21.1-q14, 7p12-q21, 7q11.2-31, 8q22-24, 8q13-qter, 13q21-34, and at 13q32-34.
+  The present comparative genomic hybridization study opens the way for additional
+  targeted studies on these particular chromosomal regions to identify the specific
+  genes involved in the higher susceptibility to specific subtypes of esophageal carcinoma
+  in different geographical regions. The loss of 8p 28 and Xp 17 in tumors of male
+  individuals may provide clues to the basis of the sex-biased frequency of occurrence
+  of EC favoring men.
+authors: Du Plessis L, Dietzsch E, Van Gele M, Van Roy N, Van Helden P, Parker MI,
+  Mugwanya DK, De Groot M, Marx MP, Kotze MJ and Speleman F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 58
+  samples_acgh: 0
+  samples_ccgh: 58
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10213495
+geo_data:
+  geo_json:
+    coordinates:
+    - 18.42
+    - -33.93
+    type: Point
+  info:
+    city: Cape Town
+    continent: Africa
+    country: South Africa
+    label: Cape Town, South Africa, Africa
+    precision: city
+journal: 'Cancer Res 59, 8 (1999): 1877-83.'
+label: 'Du Plessis et al. (1999): Mapping of Novel Regions of DNA Gain and Loss By
+  Comparative Genomic Hybridization in ...'
+notes: only arm specific annotations
+pmid: 10213495
+title: Mapping of Novel Regions of DNA Gain and Loss By Comparative Genomic Hybridization
+  in Esophageal Carcinoma in the Black and Colored Populations of South Africa.
+year: 1999

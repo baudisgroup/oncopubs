@@ -1,0 +1,54 @@
+---
+abstract: 'The aim of this study was to provide cytogenetic data about squamous cell
+  carcinomas of the lung and to evaluate their characteristic alterations and histogenetic
+  relations. We analyzed 41 squamous cell lung carcinomas by comparative genomic hybridization
+  CGH technique. CGH was performed using directly fluorochrome-conjugated DNA. Chromosomal
+  regions where the mean ratio fell below 0.75 were therefore considered to reflect
+  DNA copy number loss underrepresentation , whereas regions where the mean ratio
+  exceeded 1.25 were considered gains overrepresentations in the tumor genome. Overrepresentations
+  were considered to be high-level amplification when the fluorescence ratio exceeded
+  1.5. Chromosomal imbalances were observed in every case. Copy number gains frequently
+  were detected at 3q, 5p, 8q, 12p, and Xq. Losses were found at 16p, 4q, 5q, 3p,
+  17p, and 16q. DNA amplifications were observed at 12 regions: 3q26.1-27, 8q13-23.1,
+  12p12.3-pter, 12q15, 2p14-16, 4q28-31.2, 5p13.1-pter, 6q21-22.3, 7p11.2-13, 13q21.2-32,
+  18p11.2-pter, and 20p11.2-pter. Gains on 3q were frequently detected not only in
+  the more than 3 cm group 79 but also in the 3 cm or less group 77 . The mean frequency
+  of gained or lost chromosomal regions was 7.2 -4.7 in the 3 cm or less group n 13
+  and 10.2 -6.3 in the more than 3 cm group n 28 P 0.4503 . The mean frequency of
+  gained or lost chromosomal regions was significantly higher in the carcinoma with
+  lymph node metastasis group 12.5 -7.6 regions n 12 than in the carcinoma without
+  lymph node metastasis group 7.9 -4.6 n 29 P 0.0251 . In conclusion, an increased
+  copy number at 3q may contribute to the development of squamous cell carcinoma of
+  the lung.'
+authors: Chujo M, Noguchi T, Miura T, Arinaga M, Uchida Y and Tagawa Y.
+contact:
+  email: chujo@oita-med.ac.jp
+  name: M. Chujo
+counts:
+  biosamples: 41
+  samples_acgh: 0
+  samples_ccgh: 41
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12367789
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.61
+    - 33.24
+    type: Point
+  info:
+    city: Oita
+    continent: Asia
+    country: Japan
+    label: Oita, Japan, Asia
+    precision: city
+journal: 'Lung Cancer 38, 1 (2002): 23-29.'
+label: 'Chujo et al. (2002): Comparative Genomic Hybridization Analysis Detected Frequent
+  Overrepresentation of Chromosome 3q in ...'
+notes: ~
+pmid: 12367789
+title: Comparative Genomic Hybridization Analysis Detected Frequent Overrepresentation
+  of Chromosome 3q in Squamous Cell Carcinoma of the Lung.
+year: 2002

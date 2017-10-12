@@ -1,0 +1,51 @@
+---
+abstract: To screen pancreatic carcinomas for chromosomal aberrations we have applied
+  molecular cytogenetic techniques, including fluorescent in situ hybridization, comparative
+  genomic hybridization, and spectral karyotyping to a series of nine established
+  cell lines. Comparative genomic hybridization revealed recurring chromosomal gains
+  on chromosome arms 3q, 5p, 7p, 8q, 12p, and 20q. Chromosome losses were mapped to
+  chromosome arms 8p, 9p, 17p, 18q, 19p, and chromosome 21. The comparison with comparative
+  genomic hybridization data from primary pancreatic tumors indicates that a specific
+  pattern of chromosomal copy number changes is maintained in cell culture. Metaphase
+  chromosomes from six cell lines were analyzed by spectral karyotyping, a technique
+  that allows one to visualize all chromosomes simultaneously in different colors.
+  Spectral karyotyping identified multiple chromosomal rearrangements, the majority
+  of which were unbalanced. No recurring reciprocal translocation was detected. Cytogenetic
+  aberrations were confirmed using fluorescent in situ hybridization with probes for
+  the MDR gene and the tumor suppressor genes p16 and DCC. Copy number increases on
+  chromosome 20q were validated with a probe specific for the nuclear receptor coactivator
+  AIB1 that maps to chromosome 20q12. Amplification of this gene was identified in
+  six of nine pancreatic cancer cell lines and correlated with increased expression.
+authors: Ghadimi BM, Schrock E, Walker RL, Wangsa D, Jauho A, Meltzer PS and Ried
+  T.
+contact:
+  email: ~
+  name: B. Ghadimi
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10027410
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Am J Pathol 154, 2 (1999): 525-36.'
+label: 'Ghadimi et al. (1999): Specific Chromosomal Aberrations and Amplification
+  of the Aib1 Nuclear Receptor Coactivator Gene ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 10027410
+title: Specific Chromosomal Aberrations and Amplification of the Aib1 Nuclear Receptor
+  Coactivator Gene in Pancreatic Carcinomas.
+year: 1999

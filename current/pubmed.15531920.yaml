@@ -1,0 +1,62 @@
+---
+abstract: 'Microsatellite-stable, near-diploid MSI-CIN- colorectal carcinomas have
+  been reported, but it is not clear as to whether these tumours form a discrete group
+  or represent one end of the distribution of MSI-CIN cancers. In order to address
+  this question, we screened 23 MSI-CIN- colorectal cancers for gains and losses using
+  array-based comparative genomic hybridization aCGH based on large-insert clones
+  at about 1 Mb density. We compared our findings with those from a small set of MSI
+  CIN cancers, and with our reported data from MSI-CIN and MSI CIN- cancers. We found
+  no evidence of any form of genomic instability in MSI-CIN- cancers. At the level
+  of the chromosome arm, the MSI-CIN- cancers had significantly fewer gains and losses
+  than MSI-CIN tumours, but more than the MSI CIN- and MSI CIN lesions. The chromosomal-scale
+  changes found in MSI-CIN- cancers generally involved the same sites as those in
+  MSI-CIN tumours, and in both cancer groups, the best predictor of a specific change
+  was the total number of such changes in that tumour. A few chromosomal-scale changes
+  did, however, differ between the MSI-CIN- and MSI-CIN pathways. MSI-CIN- cancers
+  showed: low frequencies of gain of 9p and 19p infrequent loss of 5q and a high frequency
+  of 20p gain. Overall, our data suggested that the MSI-CIN- group is heterogeneous,
+  one type of MSI-CIN- cancer having few amp lt or 6 chromosomal-scale changes and
+  the other with more amp gt or 10 changes resembling MSI-CIN cancers. At the level
+  of individual clones, frequent and or discrete gains or losses were generally located
+  within regions of chromosomal-scale changes in both MSI-CIN- and MSI-CIN cancers,
+  and fewer losses and gains were present in MSI-CIN- than MSI-CIN tumours. No changes
+  by clone, which were specific to the MSI-CIN- cancers, were found. In addition to
+  indicating differences among the cancer groups, our results also detected over 50
+  sites amplifications, potential homozygous deletion and gains or losses which extended
+  over only a few megabases which might harbour uncharacterized oncogenes or tumour
+  suppressor loci. In conclusion, our data support the suggestion that some MSI-CIN-
+  carcinomas form a qualitatively different group from the other cancer types, and
+  also suggest that the MSI-CIN- group is itself heterogeneous.'
+authors: Jones AM, Douglas EJ, Halford SE, Fiegler H, Gorman PA, Roylance RR, Carter
+  NP and Tomlinson IP.
+contact:
+  email: ian.tomlinson@cancer.org.uk
+  name: Ian P. M. Tomlinson
+counts:
+  biosamples: 60
+  samples_acgh: 60
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15531920
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Oncogene 24, 1 (2005): 118-29.'
+label: 'Jones et al. (2005): Array-Cgh Analysis of Microsatellite-Stable, Near-Diploid
+  Bowel Cancers and Comparison With Other ...'
+notes: ~
+pmid: 15531920
+title: Array-Cgh Analysis of Microsatellite-Stable, Near-Diploid Bowel Cancers and
+  Comparison With Other Types of Colorectal Carcinoma.
+year: 2005

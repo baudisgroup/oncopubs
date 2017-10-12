@@ -1,0 +1,47 @@
+---
+abstract: Squamous cell carcinoma of the head and neck exhibit a highly variable picture
+  of chromosomal aberrations. In the present study the clearly defined anatomical
+  region of the tongue was analyzed for potentially specific patterns of chromosomal
+  alterations. Fresh tumor samples from 18 patients afflicted by squamous cell carcinoma
+  of the tongue constituted the clinical basis of the present investigation. The tumor
+  samples were analyzed on the basis of comparative genomic hybridization CGH , a
+  molecular cytogenetic FISH-approach. Gains in DNA copy numbers were detected as
+  the predominant imbalance on chromosomes 7q 9 18 , 3q 48 18 , 16p 7 18 and 20q 7
+  18 . The regions of minimal overlap on these chromosomes were mapped to 7q11.2q11.3
+  and 3q26. A conspicuous finding was the frequent detection of amplifications in
+  the 7q11 region. Gains in the 7q region have been rarely reported in CGH studies
+  of tumors derived from different regions of the head and neck. Amplifications on
+  7q could thus be specifically linked with the tongue region and could correlate
+  with specific clinical factors of this tumor entity.
+authors: Steinhart H, Bohlender J, Iro H, Jung V, Constantinidis J, Gebhart E, Pahl
+  S and Urbschat S.
+contact:
+  email: ~
+  name: NA Steinhart
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11562766
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: Europe
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: 'Int J Oncol 19, 4 (2001): 851-55.'
+label: 'Steinhart et al. (2001): DNA Amplification on Chromosome 7q in Squamous Cell
+  Carcinoma of the Tongue.'
+notes: ~
+pmid: 11562766
+title: DNA Amplification on Chromosome 7q in Squamous Cell Carcinoma of the Tongue.
+year: 2001

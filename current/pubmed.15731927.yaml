@@ -1,0 +1,49 @@
+---
+abstract: Merkel cell carcinoma was diagnosed in a 79-year-old Caucasian woman. The
+  tumour was localised to the upper lip and was in stage T2. After successful cryosurgery
+  and a 7-year tumour-free period, a new tumour developed in her palatine tonsil.
+  Histologically and immunohistochemically, this resembled the tumour in the lip.
+  The regional lymph nodes were devoid of metastasis. The paraffin-embedded material
+  of the two tumours and the unaffected lymphatic tissue were analysed with DNA microarrays
+  for comparative genomic hybridisation to assess the genetic relationship of the
+  tumours. In both tumours, regions on 2p and 10p were commonly over-represented,
+  while 41 regions on chromosomes 1-4, 6, 8-9, 11 and 14-22 were commonly under-represented.
+  Chromosomes 1, 3, 4, 16-18 and X were most frequently involved in the DNA losses.
+  In gene copy numbers in the two tumours, 31 chromosome locations were found to be
+  differently affected. The partly similar and partly different molecular patterns
+  indicated a genetic relationship between the tumours and excluded the possibility
+  that the tonsillar tumour was a metastasis. The findings suggest that a genetically
+  altered field was the reason for the development of the tonsillar cancer thus, it
+  can be regarded pathogenetically as a second field tumour.
+authors: Nagy J, Feher LZ, Sonkodi I, Lesznyak J, Ivanyi B and Puskas LG.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15731927
+geo_data:
+  geo_json:
+    coordinates:
+    - 20.15
+    - 46.25
+    type: Point
+  info:
+    city: Szeged
+    continent: Europe
+    country: Hungary
+    label: Szeged, Hungary, Europe
+    precision: city
+journal: 'Virchows Arch 446, 3 (2005): 278-86.'
+label: 'Nagy et al. (2005): A Second Field Metachronous Merkel Cell Carcinoma of the
+  Lip and the Palatine Tonsil Confirmed By ...'
+notes: ~
+pmid: 15731927
+title: A Second Field Metachronous Merkel Cell Carcinoma of the Lip and the Palatine
+  Tonsil Confirmed By Microarray-Based Comparative Genomic Hybridisation.
+year: 2005

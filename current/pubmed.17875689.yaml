@@ -1,0 +1,52 @@
+---
+abstract: Prostate cancer is clinically heterogeneous, ranging from indolent to lethal
+  disease. Expression profiling previously defined three subtypes of prostate cancer,
+  one subtype-1 linked to clinically favorable behavior, and the others subtypes-2
+  and -3 linked with a more aggressive form of the disease. To explore disease heterogeneity
+  at the genomic level, we carried out array-based comparative genomic hybridization
+  array CGH on 64 prostate tumor specimens, including 55 primary tumors and 9 pelvic
+  lymph node metastases. Unsupervised cluster analysis of DNA copy number alterations
+  CNA identified recurrent aberrations, including a 6q15-deletion group associated
+  with subtype-1 gene expression patterns and decreased tumor recurrence. Supervised
+  analysis further disclosed distinct patterns of CNA among gene-expression subtypes,
+  where subtype-1 tumors exhibited characteristic deletions at 5q21 and 6q15, and
+  subtype-2 cases harbored deletions at 8p21 NKX3-1 and 21q22 resulting in TMPRSS2-ERG
+  fusion . Lymph node metastases, predominantly subtype-3, displayed overall higher
+  frequencies of CNA, and in particular gains at 8q24 MYC and 16p13, and loss at 10q23
+  PTEN and 16q23. Our findings reveal that prostate cancers develop via a limited
+  number of alternative preferred genetic pathways. The resultant molecular genetic
+  subtypes provide a new framework for investigating prostate cancer biology and explain
+  in part the clinical heterogeneity of the disease.
+authors: Lapointe J, Li C, Giacomini CP, Salari K, Huang S, Wang P, Ferrari M, Hernandez-Boussard
+  T, Brooks JD and Pollack JR.
+contact:
+  email: pollack1@stanford.edu
+  name: Jonathan R. Pollack
+counts:
+  biosamples: 64
+  samples_acgh: 64
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17875689
+- geo:GSE6469
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: 'Cancer Res 67, 18 (2007): 8504-10.'
+label: 'Lapointe et al. (2007): Genomic Profiling Reveals Alternative Genetic Pathways
+  of Prostate Tumorigenesis.'
+notes: ~
+pmid: 17875689
+title: Genomic Profiling Reveals Alternative Genetic Pathways of Prostate Tumorigenesis.
+year: 2007

@@ -1,0 +1,56 @@
+---
+abstract: 'A small number of human epithelioid sarcoma cell lines have been reported,
+  but their characterization at a molecular cytogenetic level is not well known. In
+  this study, a new permanent human cell line, FU-EPS-1, derived from a metastatic
+  epithelioid sarcoma developing in the axillary lymph node of a 21-year-old man is
+  described. This cell line was characterized by use of immunocytochemistry, conventional
+  G-banding analysis, spectral karyotyping SKY and comparative genomic hybridization
+  CGH . FU-EPS-1 cells were round, polygonal or spindle shaped with an abundant cytoplasm,
+  and have been maintained continuously in vitro for over 100 passages during more
+  than 15 months. Histologic features of the heterotransplanted tumors in severe combined
+  immunodeficiency mice were essentially the same as those of the original tumor,
+  revealing a multinodular proliferation of eosinophilic epithelioid and spindle cells.
+  Both in vitro and in vivo, the cells were immunopositive for cytokeratins AE1 AE3
+  and CAM5.2 , epithelial membrane antigen, vimentin and CD34, but were negative for
+  desmin, S-100 protein, CD31 or factor VIII-related antigen. By G-banding and SKY
+  analyses, FU-EPS-1 revealed a hyperdiploid karyotype with the following chromosomal
+  abnormalities: i 5 p10 , -8, 13, der 13 t 8 13 q p11 , der 19 t 9 19  and del 22
+  q13 . In addition, CGH analysis identified gains of 5p, 9q, 19q and 22q and a loss
+  of 8p. This study demonstrates the value of molecular cytogenetic techniques such
+  as SKY and CGH in defining genomic alterations in greater detail. The FU-EPS-1 cell
+  line will be exceedingly useful for biologic and molecular pathogenetic studies
+  of human epithelioid sarcoma.'
+authors: Nishio J, Iwasaki H, Nabeshima K, Ishiguro M, Naumann S, Isayama T, Naito
+  M, Kaneko Y, Kikuchi M and Bridge JA.
+contact:
+  email: nishio@minf.med.fukuoka-u.ac.jp
+  name: Jun Nishio
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16010416
+geo_data:
+  geo_json:
+    coordinates:
+    - -95.94
+    - 41.26
+    type: Point
+  info:
+    city: Omaha
+    continent: North America
+    country: United States
+    label: Omaha, United States, North America
+    precision: city
+journal: 'Int J Oncol 27, 2 (2005): 361-69.'
+label: 'Nishio et al. (2005): Establishment of a New Human Epithelioid Sarcoma Cell
+  Line, Fu-Eps-1: Molecular Cytogenetic ...'
+notes: ~
+pmid: 16010416
+title: 'Establishment of a New Human Epithelioid Sarcoma Cell Line, Fu-Eps-1: Molecular
+  Cytogenetic Characterization By Use of Spectral Karyotyping and Comparative Genomic
+  Hybridization.'
+year: 2005

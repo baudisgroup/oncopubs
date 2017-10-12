@@ -1,0 +1,39 @@
+---
+abstract: We report on a pediatric case of mixed phenotype acute leukemia with myeloid
+  and T-lymphoid differentiation, a single myeloblastic cell population, and a monosomal
+  complex karyotype. The patient, a 5-year-old girl, responded to acute myeloid leukemia-oriented
+  therapy that was decided based on the morphological appearance of blast cells. In
+  this study, we analyzed the patients peculiar chromosomal abnormalities, as evaluated
+  by array comparative genomic hybridization in combination with multicolor fluorescence
+  in situ hybridization and cytogenetic analyses.
+authors: Tassano E, Tavella E, Micalizzi C, Scuderi F, Cuoco C and Morerio C.
+contact:
+  email: ~
+  name: Cristina Morerio
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22018273
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: 'Cancer Genet 204, 9 (2011): 507-11.'
+label: 'Tassano et al. (2011): Monosomal Complex Karyotype in Pediatric Mixed Phenotype
+  Acute Leukemia.'
+notes: ~
+pmid: 22018273
+title: Monosomal Complex Karyotype in Pediatric Mixed Phenotype Acute Leukemia.
+year: 2011

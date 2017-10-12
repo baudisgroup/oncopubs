@@ -1,0 +1,53 @@
+---
+abstract: It is established that subtypes of human malignant mesotheliomas MM are
+  associated with different survival times. Ninety cases of MM were examined using
+  DNA cytometry and comparative genomic hybridization CGH , with emphasis on the main
+  histological subtypes epithelioid, sarcomatoid and biphasic. A comparison by DNA
+  cytometry revealed moderate differences, with the rare subgroup of mesodermomas
+  having the highest and the sarcomatoid group the lowest rate of aneuploidy. Using
+  CGH, 6.2 chromosomal imbalances per case on average could be detected. Losses 4.1
+  case were more common than gains of chromosomal material 2.1 case . MM show no single,
+  specific defect, but a typical pattern of genomic defects can be attributed to this
+  tumour entity. Common losses are clustered at the chromosomal regions 9p21 34 ,
+  22q 32 , 4q31-32 29 , 4p12-13 25 , 14q12-24 23 , 1p21 21 , 13q13-14 19 , 3p21, 6q22,
+  10p13-pter and 17p12-pter 16 each . Common gains are located on 8q22-23 18 , 1q23
+  1q32 16 , 7p14-15 and 15q22-25 14 each . While differences in the frequencies of
+  the defects between epithelioid and sarcomatoid MM are not as pronounced as are
+  seen with the pleomorphic mesodermomas, several chromosomal locations 3p, 7q, 15q,
+  17p show significant variations. The most pronounced distinguishing feature of sarcomatoid
+  MM is a more than fourfold higher number of amplicons. These data indicate that
+  MM has a distinctive tumour biology with a broad spectrum of heterogeneity, as reflected
+  in morphology and also, more subtly, in the patterns of chromosomal imbalances of
+  the subtypes.
+authors: Krismann M, Muller KM, Jaworska M and Johnen G.
+contact:
+  email: ~
+  name: NA Johnen
+counts:
+  biosamples: 72
+  samples_acgh: 0
+  samples_ccgh: 72
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12115883
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.22
+    - 51.48
+    type: Point
+  info:
+    city: Bochum
+    continent: Europe
+    country: Germany
+    label: Bochum, Germany, Europe
+    precision: city
+journal: 'J Pathol 197, 3 (2002): 363-71.'
+label: 'Krismann et al. (2002): Molecular Cytogenetic Differences Between Histological
+  Subtypes of Malignant Mesotheliomas: Dna ...'
+notes: ~
+pmid: 12115883
+title: 'Molecular Cytogenetic Differences Between Histological Subtypes of Malignant
+  Mesotheliomas: Dna Cytometry and Comparative Genomic Hybridization of 90 Cases.'
+year: 2002

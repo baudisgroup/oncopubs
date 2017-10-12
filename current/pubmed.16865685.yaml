@@ -1,0 +1,50 @@
+---
+abstract: Despite the fact that numerous studies have been performed on diffuse large
+  B-cell lymphoma DLBCL , only few have concerned extranodal lymphomas occurring in
+  the testis. We performed a cytogenetic and molecular study of 17 testicular non-Hodgkin
+  lymphomas, of which 14 were proven primary DLBCL of the testis. Cytogenetic analysis
+  revealed in 8 out of 11 evaluable cases a structural abnormality of the long arm
+  of chromosome 6, with deletion or addition of material of unknown origin, and with
+  breakpoints spanning the region 6q12-6q23. The cytogenetic findings were confirmed
+  by fluorescent in situ hybridization FISH with a chromosome 6 painting probe. Using
+  array based-comparative genomic hybridization on 16 evaluable cases, including 5
+  cases not tested by cytogenetics or FISH, 14 88 showed chromosome 6q deletions.
+  We identified two regions of minimal deletion RMD , at 104-113 Mb 6q16.3-q21 and
+  137.5-138.8 Mb 6q23.3 , respectively. In one case, we observed a 2.7 Mb homozygous
+  deletion ranging from 135.3 to 138.0 Mb that partly overlapped with the RMD at 6q23.3.
+  Our study indicates that 6q deletions play a major pathogenetic role in DLBCL of
+  the testis and that many of these deletions are part of unbalanced translocations.
+authors: Bosga-Bouwer AG, Kok K, Booman M, Boven L, van der Vlies P, van den Berg
+  A, van den Berg E, de Jong B, Poppema S and Kluin P.
+contact:
+  email: a.g.bosga-bouwer@medgen.umcg.nl
+  name: Anneke.G. Bosga-Bouwer
+counts:
+  biosamples: 11
+  samples_acgh: 10
+  samples_ccgh: 11
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16865685
+geo_data:
+  geo_json:
+    coordinates:
+    - 6.57
+    - 53.22
+    type: Point
+  info:
+    city: Groningen
+    continent: ~
+    country: The Netherlands
+    label: Groningen, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 45, 10 (2006): 976-81.'
+label: 'Bosga-Bouwer et al. (2006): Array Comparative Genomic Hybridization Reveals
+  a Very High Frequency of Deletions of the ...'
+notes: Chromosome 6 aCGH data were added to cytogenetic analysis of 10/11 cases. The
+  article contains some addtl. cases without banding analysis.
+pmid: 16865685
+title: Array Comparative Genomic Hybridization Reveals a Very High Frequency of Deletions
+  of the Long Arm of Chromosome 6 in Testicular Lymphoma.
+year: 2006

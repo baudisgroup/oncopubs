@@ -1,0 +1,42 @@
+---
+abstract: We demonstrate that comparative genomic hybridization CGH onto cDNA microarrays
+  may be used to carry out genome-wide screens for regions of genetic loss, including
+  homozygous complete deletions that may represent the possible location of tumour
+  suppressor genes in human cancer. Screening of the prostate cancer cell lines LNCaP,
+  PC3 and DU145 allowed the mapping of specific regions where genome copy number appeared
+  altered and led to the identification of two novel regions of complete loss at 17q21.31
+  500 kb spanning STAT3 and at 10q23.1 50-350 kb spanning SFTPA2 in the PC3 cell line.
+authors: Clark J, Edwards S, Feber A, Flohr P, John M, Giddings I, Crossland S, Stratton
+  MR, Wooster R, Campbell C and Cooper CS.
+contact:
+  email: colin.cooper@icr.ac.uk
+  name: Colin S. Cooper
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12606952
+- geo:GSE6138
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.2
+    - 51.35
+    type: Point
+  info:
+    city: Sutton
+    continent: Europe
+    country: United Kingdom
+    label: Sutton, United Kingdom, Europe
+    precision: city
+journal: 'Oncogene 22, 8 (2003): 1247-52.'
+label: 'Clark et al. (2003): Genome-Wide Screening for Complete Genetic Loss in Prostate
+  Cancer By Comparative Hybridization ...'
+notes: ~
+pmid: 12606952
+title: Genome-Wide Screening for Complete Genetic Loss in Prostate Cancer By Comparative
+  Hybridization Onto Cdna Microarrays.
+year: 2003

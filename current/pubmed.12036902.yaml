@@ -1,0 +1,47 @@
+---
+abstract: Sixteen dedifferentiated and pleomorphic liposarcomas were analyzed by comparative
+  genomic hybridization CGH to genomic microarrays matrix-CGH , cDNA-derived microarrays
+  for expression profiling, and by quantitative PCR. Matrix-CGH revealed copy number
+  gains of numerous oncogenes, i.e., CCND1, MDM2, GLI, CDK4, MYB, ESR1, and AIB1,
+  several of which correlate with a high level of transcripts from the respective
+  gene. In addition, a number of genes were found differentially expressed in dedifferentiated
+  and pleomorphic liposarcomas. Application of dedicated clustering algorithms revealed
+  that both tumor subtypes are clearly separated by the genomic profiles but only
+  with a lesser power by the expression profiles. Using a support vector machine,
+  a subset of five clones was identified as amp quot class discriminators. amp quot
+  Thus, for the distinction of these types of liposarcomas, genomic profiling appears
+  to be more advantageous than RNA expression analysis.
+authors: Fritz B, Schubert F, Wrobel G, Schwaenen C, Wessendorf S, Nessling M, Korz
+  C, Rieker RJ, Montgomery K, Kucherlapati R, Mechtersheimer G, Eils R, Joos S and
+  Lichter P.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12036902
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Cancer Res 62, 11 (2002): 2993-98.'
+label: 'Fritz et al. (2002): Microarray-Based Copy Number and Expression Profiling
+  in Dedifferentiated and Pleomorphic ...'
+notes: ~
+pmid: 12036902
+title: Microarray-Based Copy Number and Expression Profiling in Dedifferentiated and
+  Pleomorphic Liposarcoma.
+year: 2002

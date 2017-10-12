@@ -1,0 +1,45 @@
+---
+abstract: The large cell LC subtype is a recently described histologic variant of
+  medulloblastoma Mb associated with a rapid and aggressive clinical course. We describe
+  the genomic profile of a LC-Mb tumor obtained from a patient who developed recurrent
+  and fulminant disease despite good-risk features at diagnosis and state- of-the-art
+  multidisciplinary therapy. The tumor sample was analyzed using comparative genomic
+  hybridization CGH and complementary molecular approaches. CGH revealed amplicons
+  at chromosome bands 2p24-25, 2q12-22, and 17p11 losses of chromosomes 11q and 18
+  and low-level gains of 3q, 11p, 13q and 14q. Southern blot analysis confirmed N-myc
+  amplification. No evidence of p53 mutation was detected. The genomic profile of
+  this LC-Mb tumor sample revealed a distinctive pattern of genetic alterations including
+  amplification of N-myc and anonymous oncogenes at chromosome bands 2q12-22 and 17p11.
+  These genomic abnormalities are uncommon in other subtypes of Mb.
+authors: Reardon DA, Jenkins JJ, Sublett JE, Burger PC and Kun LK.
+contact:
+  email: reardd@mail.mmc.org
+  name: David A. Reardon
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10940769
+geo_data:
+  geo_json:
+    coordinates:
+    - -90.05
+    - 35.15
+    type: Point
+  info:
+    city: Memphis
+    continent: North America
+    country: United States
+    label: Memphis, United States, North America
+    precision: city
+journal: 'Pediatr Neurosurg 32, 4 (2000): 187-91.'
+label: 'Reardon et al. (2000): Multiple Genomic Alterations Including N-Myc Amplification
+  in a Primary Large Cell ...'
+notes: ~
+pmid: 10940769
+title: Multiple Genomic Alterations Including N-Myc Amplification in a Primary Large
+  Cell Medulloblastoma.
+year: 2000

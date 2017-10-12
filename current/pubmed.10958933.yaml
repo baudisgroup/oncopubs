@@ -1,0 +1,50 @@
+---
+abstract: Uterine leiomyomata are among the most common of human neoplasms and are
+  associated with abnormal uterine bleeding, infertility, and abdominal pain. Uterine
+  leiomyosarcomata are presumed to be the malignant counterpart to uterine leiomyomata
+  and are very rare. Transformation of uterine leiomyoma ULM into uterine leiomyosarcoma
+  ULMS is yet to be conclusively confirmed, and each type of tumor may represent a
+  distinct genetic entity. We used comparative genomic hybridization CGH to evaluate
+  DNA sequence copy-number changes in 12 specimens of ULM and 8 of ULMS. CGH analysis
+  of ULM demonstrated chromosomal imbalances in 8 of 12 66. 7 specimens. The most
+  frequent ULM gains were observed at 9q34 a novel finding and on chromosome 19. Other
+  ULM imbalances included gains and losses of chromosome 1p, losses on 7q, and gains
+  on 12q. All ULMS specimens demonstrated chromosomal aberrations. Chromosome 1 imbalances
+  were very prominent. The most frequent losses were detected on 14q and 22q. Losses
+  on 14q are rarely seen in other types of leiomyo-sarcoma and may be a distinctive
+  feature of ULMS. Gains on chromosomes 8, 17, and X were observed in half the cases
+  and were accompanied by high-level amplification. Other chromosome arms overrepresented
+  included 12q and 19p. The absence of specific anomalies common to all ULM and ULMS
+  argues against their being benign-malignant counterparts.
+authors: Levy B, Mukherjee T and Hirschhorn K.
+contact:
+  email: levyb01@doc.mssm.edu
+  name: Brynn Levy
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10958933
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 121, 1 (2000): 1-8.'
+label: 'Levy et al. (2000): Molecular Cytogenetic Analysis of Uterine Leiomyoma and
+  Leiomyosarcoma By Comparative Genomic ...'
+notes: ~
+pmid: 10958933
+title: Molecular Cytogenetic Analysis of Uterine Leiomyoma and Leiomyosarcoma By Comparative
+  Genomic Hybridization.
+year: 2000

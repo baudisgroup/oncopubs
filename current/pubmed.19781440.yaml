@@ -1,0 +1,46 @@
+---
+abstract: Hepatoblastoma is the most common primary hepatic tumor in children, and
+  only a limited number of detailed karyotypic analyses have been reported to date.
+  In the present study, cytogenetic abnormalities were identified in nine cases of
+  hepatoblastoma from a single institution. Among characteristic chromosomal changes
+  detected were simple numerical aberrations, structural alterations of chromosomes
+  1, 2, and 8, and the recurrent unbalanced rearrangements der 4 t 1 4 q25.2 q35.1
+  and der 6 t 1 6 q21 q26 . Array comparative genomic hybridization was applied in
+  four of the cases. The combined cytogenetic, molecular cytogenetic, and histopathologic
+  analyses are presented here, together with clinical data. The results substantially
+  confirm previous findings of aberrations involving chromosomal loci on 1q, 2 or
+  2q, 4q, 6q, 8 or 8q, and 20 as significant in the development and clinical course
+  of this disease.
+authors: Stejskalova E, Malis J, Snajdauf J, Pycha K, Urbankova H, Bajciova V, Stary
+  J, Kodet R and Jarosova M.
+contact:
+  email: ~
+  name: Eva Stejskalova
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19781440
+geo_data:
+  geo_json:
+    coordinates:
+    - 14.42
+    - 50.09
+    type: Point
+  info:
+    city: Prague
+    continent: Europe
+    country: Czech Republic
+    label: Prague, Czech Republic, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 194, 2 (2009): 82-87.'
+label: 'Stejskalova et al. (2009): Cytogenetic and Array Comparative Genomic Hybridization
+  Analysis of a Series of ...'
+notes: Two oligonucleotide microarray platforms were used.
+pmid: 19781440
+title: Cytogenetic and Array Comparative Genomic Hybridization Analysis of a Series
+  of Hepatoblastomas.
+year: 2009

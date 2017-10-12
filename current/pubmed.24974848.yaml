@@ -1,0 +1,49 @@
+---
+abstract: We analyzed 28 thymic epithelial tumors (TETs) using next-generation sequencing
+  and identified a missense mutation (chromosome 7 c.74146970T>A) in GTF2I at high
+  frequency in type A thymomas, a relatively indolent subtype. In a series of 274
+  TETs, we detected the GTF2I mutation in 82% of type A and 74% of type AB thymomas
+  but rarely in the aggressive subtypes, where recurrent mutations of known cancer
+  genes have been identified. Therefore, GTF2I mutation correlated with better survival.
+  GTF2I Î² and Î´ isoforms were expressed in TETs, and both mutant isoforms were able
+  to stimulate cell proliferation in vitro. Thymic carcinomas carried a higher number
+  of mutations than thymomas (average of 43.5 and 18.4, respectively). Notably, we
+  identified recurrent mutations of known cancer genes, including TP53, CYLD, CDKN2A,
+  BAP1 and PBRM1, in thymic carcinomas. These findings will complement the diagnostic
+  assessment of these tumors and also facilitate development of a molecular classification
+  and assessment of prognosis and treatment strategies.
+authors: Petrini I, Meltzer PS, Kim IK, Lucchi M, Park KS, Fontanini G, Gao J, Zucali
+  PA, Calabrese F, Favaretto A, Rea F, Rodriguez-Canales J, Walker RL, Pineda M, Zhu
+  YJ, Lau C, Killian KJ, Bilke S, Voeller D, Dakshanamurthy S, Wang Y and Giaccone
+  G
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 65
+  samples_acgh: 65
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:24974848
+- geo:GSE55852
+geo_data:
+  geo_json:
+    coordinates:
+    - -76.82
+    - 39.09
+    type: Point
+  info:
+    city: Maryland City
+    continent: North America
+    country: United States
+    label: Maryland City, United States, North America
+    precision: city
+journal: Nat. Genet. 46(8), 2014
+label: 'Petrini I et al. (2014): '
+notes: ~
+pmid: 24974848
+title: A specific missense mutation in GTF2I occurs at high frequency in thymic epithelial
+  tumors.
+year: 2014

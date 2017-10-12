@@ -1,0 +1,43 @@
+---
+abstract: Infection with H. pylori is important in the etiology of gastric cancer.
+  Gastric cancer is infrequent in Africa, despite high frequencies of H. pylori infection,
+  referred to as the African enigma. Variation in environmental and host factors influencing
+  gastric cancer risk between different populations have been reported but little
+  is known about the biological differences between gastric cancers from different
+  geographic locations. We aim to study genomic instability patterns of gastric cancers
+  obtained from patients from United Kingdom UK and South Africa SA , in an attempt
+  to support the African enigma hypothesis at the biological level.
+authors: Buffart TE, Louw M, van Grieken NC, Tijssen M, Carvalho B, Ylstra B, Grabsch
+  H, Mulder CJ, van de Velde CJ, van der Merwe SW and Meijer GA.
+contact:
+  email: ga.meijer@vumc.nl
+  name: Gerrit Meijer
+counts:
+  biosamples: 67
+  samples_acgh: 67
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21226972
+- geo:GSE22789
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'BMC Med Genomics 4 (2011): 7.'
+label: 'Buffart et al. (2011): Gastric Cancers of Western European and African Patients
+  Show Different Patterns of Genomic ...'
+notes: ~
+pmid: 21226972
+title: Gastric Cancers of Western European and African Patients Show Different Patterns
+  of Genomic Instability.
+year: 2011

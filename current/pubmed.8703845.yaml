@@ -1,0 +1,51 @@
+---
+abstract: Consistent tumor-specific chromosomal aberrations have not been described
+  in low-grade astrocytic tumors. The most frequent genetic alterations are mutations
+  of the TP53 tumor suppressor gene and or loss of heterozygosity LOH on 17p that
+  occur in about 30 of the cases in adult patients but that are uncommon in childhood
+  tumors. We used comparative genomic hybridization CGH to map DNA copy number alterations
+  in 18 primary low-grade astrocytic tumors ten adult patients and eight children
+  . A gain of chromosome arm 7q was the most frequent event detected in five of ten
+  astrocytomas 50 from adult patients, followed by DNA amplification on chromosome
+  arm 8q and gain on 12p two cases . Loss of chromosomal regions on 1p, 4q, and the
+  X chromosome was observed in two of ten cases including one patient afflicted with
+  Turner syndrome 45,X . In contrast, no consistent changes were observed in low-grade
+  astrocytomas in children. A loss of the X chromosome was the sole aberration detected
+  in two of eight cases using DNA extracted from the normal brain tissue. The findings
+  suggest that a gain of 7q is an early event in the initiation of astrocytomas in
+  adult patients. The discrepant findings in low-grade astrocytic tumors in adults
+  compared to tumors in children support the the hypothesis that there might be different
+  mechanisms responsible for tumor development.
+authors: Schrock E, Blume C, Meffert MC, du Manoir S, Bersch W, Kiessling M, Lozanowa
+  T, Thiel G, Witkowski R, Ried T and Cremer T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:8703845
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 15, 4 (1996): 199-205.'
+label: 'Schrock et al. (1996): Recurrent Gain of Chromosome Arm 7q in Low-Grade Astrocytic
+  Tumors Studied By Comparative Genomic ...'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 8703845
+title: Recurrent Gain of Chromosome Arm 7q in Low-Grade Astrocytic Tumors Studied
+  By Comparative Genomic Hybridization.
+year: 1996

@@ -1,0 +1,51 @@
+---
+abstract: 'Malignant tumors have telomerase activity, which is thought to play a critical
+  role in tumor growth. However, the relation between telomerase activity and genomic
+  DNA status in tumor cells is poorly understood. In the present study, we examined
+  telomerase activity in 13 clear cell type renal cell carcinomas CRCCs with similar
+  clinicopathologic features by telomeric repeat amplification protocol assay TRAP
+  . Based on TRAP assay results, we divided the CRCCs into two groups: a high telomerase
+  activity group and a low no telomerase activity group. We then analyzed genomic
+  aberration, DNA ploidy, and telomere status in these two groups by comparative genomic
+  hybridization CGH , laser scanning cytometry LSC , and telomere-specific fluorescence
+  in situ hybridization T-FISH , respectively. CGH showed the high telomerase activity
+  group to have fewer genomic changes than the low no telomerase activity group, which
+  had many genomic aberrations. Moreover, with LSC, DNA diploid cells were found more
+  frequently in the high telomerase activity group than in the low no telomerase activity
+  group. In addition, T-FISH revealed strong telomere signal intensity in the high
+  telomerase activity group compared with that of the low no telomerase activity group.
+  These results suggest that telomerase activity is linked to genomic DNA status and
+  that high telomerase activity is associated with genomic stability, DNA ploidy,
+  and telomere length in CRCC.'
+authors: Izumi H, Hara T, Oga A, Matsuda K, Sato Y, Naito K and Sasaki K.
+contact:
+  email: hidequi@aol.com
+  name: H. Izumi
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11896565
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Neoplasia 4, 2 (2002): 103-11.'
+label: 'Izumi et al. (2002): High Telomerase Activity Correlates With the Stabilities
+  of Genome and DNA Ploidy in Renal Cell ...'
+notes: ~
+pmid: 11896565
+title: High Telomerase Activity Correlates With the Stabilities of Genome and DNA
+  Ploidy in Renal Cell Carcinoma.
+year: 2002

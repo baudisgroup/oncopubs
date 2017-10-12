@@ -1,0 +1,50 @@
+---
+abstract: Primary orbital non-Hodgkin lymphoma is a mucosa-associated lymphoid tissue
+  MALT -type extranodal marginal zone lymphoma. Little information is available on
+  its genome as conventional cytogenetics is limited by scarce biopsy material, while
+  fluorescence in situ hybridization FISH explores only selected regions. Comparative
+  genomic hybridization CGH performs full genomic analysis and is applicable to different
+  sources of DNA, such as fresh and frozen cells, as well as paraffin-embedded tissues.
+  In this study, CGH was used to analyse primary MALT lymphoma of the orbit. Aneuploidy
+  was identified in six of the ten cases studied. Gains 19 were more frequent than
+  losses 5 . The most frequent duplications involved chromosome 3 common region at
+  3q24-qter , as expected in marginal zone lymphoma, and chromosome 6 common region
+  at 6p21.1-21.3 , which is typical of an orbital location. Other chromosome gains
+  were found at 1p, 7, 8q, 9q, 12, 13, 17, 18, 19, 22, and X. Losses were located
+  at 1q, 6q, 9q, 11q, and 13q. Two cases showed isolated duplications of chromosome
+  6p or 9q. Isolated imbalances were found only in tumours affecting the conjunctiva.
+  Complex aneuploidies were observed in lymphoma of the retro-orbital tissue. In summary,
+  CGH in orbital MALT lymphoma provided new insights into typical genomic imbalances
+  and underlying pathogenetic mechanisms.
+authors: Matteucci C, Galieni P, Leoncini L, Lazzi S, Lauria F, Polito E, Martelli
+  MF and Mecucci C.
+contact:
+  email: crimecux@unipg.it
+  name: Cristina Mecucci
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12898603
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.39
+    - 43.11
+    type: Point
+  info:
+    city: Perugia
+    continent: Europe
+    country: Italy
+    label: Perugia, Italy, Europe
+    precision: city
+journal: 'J Pathol 200, 5 (2003): 656-60.'
+label: 'Matteucci et al. (2003): Typical Genomic Imbalances in Primary Malt Lymphoma
+  of the Orbit.'
+notes: ~
+pmid: 12898603
+title: Typical Genomic Imbalances in Primary Malt Lymphoma of the Orbit.
+year: 2003

@@ -1,0 +1,54 @@
+---
+abstract: We analysed the involvement of known and putative tumour suppressor- and
+  oncogene loci in ductal carcinoma in situ DCIS by microsatellite analysis LOH ,
+  Southern blotting and comparative genomic hybridization CGH . A total of 78 pure
+  DCIS cases, classified histologically as well, intermediately and poorly differentiated,
+  were examined for LOH with 76 markers dispersed along all chromosome arms. LOH on
+  chromosome 17 was more frequent in poorly differentiated DCIS 70 Compared to well-differentiated
+  DCIS 17 , whereas loss on chromosome 16 was associated with well- and intermediately
+  differentiated DCIS 66 . For a subset we have done Southern blot-and CGH analysis.
+  C-erbB2 neu was amplified in 30 of poorly differentiated DCIS. No amplification
+  was found of c-myc, mdm2, bek, flg and the epidermal growth factor EGF -receptor.
+  By CGH, most frequent alterations in poorly differentiated DCIS were gains on 8q
+  and 17q22-24 and deletion on 17p, whereas in well-differentiated DCIS amplification
+  on chromosome 1q and deletion on 16q were found. In conclusion, our data indicates
+  that inactivation of a yet unknown tumour suppressor gene on chromosome 16q is implicated
+  in the development of most well and intermediately differentiated DCIS whereas amplification
+  and inactivation of various genes on chromosome 17 are implicated in the development
+  of poorly differentiated DCIS. Furthermore these data show that there is a genetic
+  basis for the classification of DCIS in a well and poorly differentiated type and
+  support the evidence of different genetic routes to develop a specific type of carcinoma
+  in situ of the breast.
+authors: Vos CB, ter Haar NT, Rosenberg C, Peterse JL, Cleton-Jansen AM, Cornelisse
+  CJ and van de Vijver MJ.
+contact:
+  email: c.rosenberg@lumc.nl
+  name: Clara Rosenberg
+counts:
+  biosamples: 15
+  samples_acgh: 0
+  samples_ccgh: 15
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10604741
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: 'Br J Cancer 81, 8 (1999): 1410-18.'
+label: 'Vos et al. (1999): Genetic Alterations on Chromosome 16 and 17 Are Important
+  Features of Ductal Carcinoma in Situ of the ...'
+notes: ~
+pmid: 10604741
+title: Genetic Alterations on Chromosome 16 and 17 Are Important Features of Ductal
+  Carcinoma in Situ of the Breast and Are Associated With Histologic Type.
+year: 1999

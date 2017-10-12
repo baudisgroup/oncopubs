@@ -1,0 +1,46 @@
+---
+abstract: The molecular basis of tumorigenesis and tumor progression in meningiomas
+  is not fully understood. Here we present results of conventional cytogenetic, fluorescence
+  in situ hybridization FISH , and comparative genetic hybridization CGH analyses
+  in a patient with recurrent anaplastic meningioma. We found complex aberrant karyotype
+  alterations previously described in anaplastic meningiomas, such as 1p, 14q aberration,
+  and a possibly tetraploid karyotype. Loss of chromosome 22q was detected by conventional
+  cytogenetic analysis. Additional chromosomal aberrations not previously reported
+  included a near-triploid karyotype and alterations such as 4p , 5p-, 7p , 8q , and
+  gain of chromosome 19. FISH with LSI 9p21, CEP9, LSI PML RARA, and CGH confirmed
+  the karyotype complexity in this case. Our findings of several previously unreported
+  cytogenetic alterations suggest that complex karyotype alterations are a characteristic
+  feature in anaplastic meningiomas. High chromosomal complexity might be associated
+  with a highly aggressive meningioma phenotype.
+authors: Pelz AF, Klawunde P, Skalej M, Wieacker P, Kirches E, Schneider T and Mawrin
+  C.
+contact:
+  email: christian.mawrin@medizin.uni-magdeburg.de
+  name: Christian Mawrin
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17350466
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.63
+    - 52.13
+    type: Point
+  info:
+    city: Magdeburg
+    continent: Europe
+    country: Germany
+    label: Magdeburg, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 174, 1 (2007): 48-53.'
+label: 'Pelz et al. (2007): Novel Chromosomal Aberrations in a Recurrent Malignant
+  Meningioma.'
+notes: ~
+pmid: 17350466
+title: Novel Chromosomal Aberrations in a Recurrent Malignant Meningioma.
+year: 2007

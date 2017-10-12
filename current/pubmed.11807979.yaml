@@ -1,0 +1,52 @@
+---
+abstract: Spectral karyotyping SKY and comparative genomic hybridization CGH have
+  greatly enhanced the resolution of cytogenetic analysis, enabling the identification
+  of novel regions of rearrangement and amplification in tumor cells. Here we report
+  the analysis of 10 malignant non-Hodgkin lymphoma NHL cell lines derived at the
+  Ontario Cancer Institute OCI , Toronto, designated as OCI-Ly1, OCI-Ly2, OCI-Ly3,
+  OCI-LY4, OCI-Ly7, OCI-Ly8, OCI-Ly12, OCI-Ly13.2, OCI-Ly17, and OCI-Ly18, by G-banding,
+  SKY, and CGH, and we present their comprehensive cytogenetic profiles. In contrast
+  to the 52 breakpoints identified by G-banding, SKY identified 87 breakpoints, which
+  clustered at 1q21, 7p15, 8p11, 13q21, 13q32, 14q32, 17q11, and 18q21. G-banding
+  identified 10 translocations, including the previously described recurring translocations,
+  t 8 14 q24 q32 and t 14 18 q32 q21 . In contrast, SKY identified 60 translocations,
+  including five that were recurring, t 8 14 q24 q32 , t 14 18 q32 q21 , t 4 7 p12
+  q22 , t 11 18 q22 q21 , and t 3 18 q21 p11 . SKY also identified the source of all
+  the marker chromosomes. In addition, 10 chromosomes that were classified as normal
+  by G-banding were found by SKY to be rearranged. CGH identified seven sites of high-level
+  DNA amplification, 1q31-32, 2p12-16, 8q24, 11q23-25, 13q21-22, 13q32-34, and 18q21-23
+  of these, 1q31-32, 11q23-25, 13q21-22, and 13q32-34 have previously not been described
+  as amplified in NHL. This comprehensive cytogenetic characterization of 10 NHL cell
+  lines identified novel sites of rearrangement and amplification it also enhances
+  their value in experimental studies aimed at gene discovery and gene function.
+authors: Mehra S, Messner H, Minden M and Chaganti RS.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11807979
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 33, 3 (2002): 225-34.'
+label: 'Mehra et al. (2002): Molecular Cytogenetic Characterization of Non-Hodgkin
+  Lymphoma Cell Lines.'
+notes: ~
+pmid: 11807979
+title: Molecular Cytogenetic Characterization of Non-Hodgkin Lymphoma Cell Lines.
+year: 2002

@@ -1,0 +1,51 @@
+---
+abstract: "Cytogenetic analyses of a consecutive series of 67 paediatric (median age
+  8Â years; range 0-17) de novo acute myeloid leukaemia (AML) patients revealed aberrations
+  in 55 (82%) cases. The most common subgroups were KMT2A rearrangement (29%), normal
+  karyotype (15%), RUNX1-RUNX1T1 (10%), deletions of 5q, 7q and/or 17p (9%), myeloid
+  leukaemia associated with Down syndrome (7%), PML-RARA (7%) and CBFB-MYH11 (5%).
+  Single nucleotide polymorphism array (SNP-A) analysis and exon sequencing of 100
+  genes, performed in 52 and 40 cases, respectively (39 overlapping), revealed â\x89¥1
+  aberration in 89%; when adding cytogenetic data, this frequency increased to 98%.
+  Uniparental isodisomies (UPIDs) were detected in 13% and copy number aberrations
+  (CNAs) in 63% (median 2/case); three UPIDs and 22 CNAs were recurrent. Twenty-two
+  genes were targeted by focal CNAs, including AEBP2 and PHF6 deletions and genes
+  involved in AML-associated gene fusions. Deep sequencing identified mutations in
+  65% of cases (median 1/case). In total, 60 mutations were found in 30 genes, primarily
+  those encoding signalling proteins (47%), transcription factors (25%), or epigenetic
+  modifiers (13%). Twelve genes (BCOR, CEBPA, FLT3, GATA1, KIT, KRAS, NOTCH1, NPM1,
+  NRAS, PTPN11, SMC3 and TP53) were recurrently mutated. We conclude that SNP-A and
+  deep sequencing analyses complement the cytogenetic diagnosis of paediatric AML.
+  \ Â© 2016 John Wiley & Sons Ltd."
+authors: Olsson L, Zettermark S, Biloglav A, Castor A, Behrendtz M, Forestier E, Paulsson
+  K and Johansson B
+contact:
+  email: Linda.olsson@med.lu.se
+  name: Linda Olsson
+counts:
+  biosamples: 63
+  samples_acgh: 63
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:27022003
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: Br. J. Haematol., 2016
+label: 'Olsson L et al. (2016): '
+notes: The supplements contain a table of CNA.
+pmid: 27022003
+title: The genetic landscape of paediatric de novo acute myeloid leukaemia as defined
+  by single nucleotide polymorphism array and exon sequencing of 100 candidate genes.
+year: 2016

@@ -1,0 +1,41 @@
+---
+abstract: Comparative genomic hybridization CGH was used to detect chromosomal imbalances
+  in tumor DNA from two relapsed samples obtained in stages II and IV of a T-cell
+  non-Hodgkin lymphoma in order to identify genetic mechanisms involved in tumor progression
+  of this neoplasm. With conventional cytogenetic techniques CCT , a complex hyperdiploid
+  karyotype was obtained in stage IV. Using CGH analysis, a normal profile was observed
+  in stage II, whereas gains of 6p11.2, 7q11.2, 7q21-- amp gt q32, 7q34, 10p13, Xp11.4,
+  and loss of 4q33-- amp gt qter chromosomal regions were detected in stage IV.
+authors: Arranz E, Martinez-Delgado B, Richart A, Osorio A, Cebrian A, Robledo M,
+  Rivas C, and Benitez J.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10700865
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: Cancer Genet Cytogenet, 117(1) 2000, 41-44.
+label: 'Arranz et al. (2000): Identification by comparative genomic hybridization
+  of genetic changes involved in tumoral ...'
+notes: ~
+pmid: 10700865
+title: Identification by comparative genomic hybridization of genetic changes involved
+  in tumoral progression of a T-cell non-Hodgkin lymphoma.
+year: 2000

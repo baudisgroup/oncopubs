@@ -1,0 +1,54 @@
+---
+abstract: To identify cooperating lesions in core-binding factor acute myeloid leukemia,
+  we performed single-nucleotide polymorphism-array analysis on 300 diagnostic and
+  41 relapse adult and pediatric leukemia samples. We identified a mean of 1.28 copy
+  number alterations per case at diagnosis in both patient populations. Recurrent
+  minimally deleted regions MDRs were identified at 7q36.1 7.7 , 9q21.32 5 , 11p13
+  2.3 , and 17q11.2 2 . Approximately one-half of the 7q deletions were detectable
+  only by single-nucleotide polymorphism-array analysis because of their limited size.
+  Sequence analysis of MLL3, contained within the 7q36.1 MDR, in 46 diagnostic samples
+  revealed one truncating mutation in a leukemia lacking a 7q deletion. Recurrent
+  focal gains were identified at 8q24.21 4.7 and 11q25 1.7 , both containing a single
+  noncoding RNA. Recurrent regions of copy-neutral loss-of-heterozygosity were identified
+  at 1p 1 , 4q 0.7 , and 19p 0.7 , with known mutated cancer genes present in the
+  minimally altered region of 1p NRAS and 4q TET2 . Analysis of relapse samples identified
+  recurrent MDRs at 3q13.31 12.2 , 5q 4.9 , and 17p 4.9 , with the 3q13.31 region
+  containing only LSAMP, a putative tumor suppressor. Determining the role of these
+  lesions in leukemogenesis and drug resistance should provide important insights
+  into core-binding factor acute myeloid leukemia.
+authors: Kuhn MW, Radtke I, Bullinger L, Goorha S, Cheng J, Edelmann J, Gohlke J,
+  Su X, Paschka P, Pounds S, Krauter J, Ganser A, Quessar A, Ribeiro R, Gaidzik VI,
+  Shurtleff SA, Kronke J, Holzmann K, Ma J, Schlenk RF, Rubnitz JE, Dohner K, Dohner
+  H and Downing JR.
+contact:
+  email: ~
+  name: Hartmut Dohner
+counts:
+  biosamples: 341
+  samples_acgh: 341
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22234698
+- geo:GSE32462
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.99
+    - 48.4
+    type: Point
+  info:
+    city: Ulm
+    continent: Europe
+    country: Germany
+    label: Ulm, Germany, Europe
+    precision: city
+journal: Blood (2012)
+label: 'Kuhn et al. (2012): High-Resolution Genomic Profiling of Adult and Pediatric
+  Core-Binding-Factor Acute Myeloid Leukemia ...'
+notes: ~
+pmid: 22234698
+title: High-Resolution Genomic Profiling of Adult and Pediatric Core-Binding-Factor
+  Acute Myeloid Leukemia Reveals New Recurrent Genomic Alterations.
+year: 2012

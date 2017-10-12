@@ -1,0 +1,35 @@
+---
+abstract: Cholangiocarcinoma comprises 5-20 of all primary malignant tumors of the
+  liver. However, the lack of information about the genetic basis of cholangiocarcinoma
+  has impeded characterization and understanding of its biological behavior.
+authors: Wong N, Li L, Tsang K, Lai PB, To KF and Johnson PJ.
+contact:
+  email: natwong@cuhk.edu.hk
+  name: Nathalie Wong
+counts:
+  biosamples: 13
+  samples_acgh: 0
+  samples_ccgh: 13
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12399230
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'J Hepatol 37, 5 (2002): 633-39.'
+label: 'Wong et al. (2002): Frequent Loss of Chromosome 3p and Hypermethylation of
+  Rassf1A in Cholangiocarcinoma.'
+notes: ~
+pmid: 12399230
+title: Frequent Loss of Chromosome 3p and Hypermethylation of Rassf1A in Cholangiocarcinoma.
+year: 2002

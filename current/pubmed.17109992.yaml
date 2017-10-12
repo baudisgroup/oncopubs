@@ -1,0 +1,47 @@
+---
+abstract: Genomic alterations have been identified in lung cancer tissues and reported
+  in numerous studies. To analyze genomic aberrations in lung cancer patients, we
+  used array comparative genomic hybridization array CGH in 14 squamous cell lung
+  carcinoma SqC tissues. Copy number gain and loss in chromosomal regions were detected,
+  and the corresponding genes were confirmed by real time PCR. Several frequently
+  altered loci, including gain of 3q 36 of samples , were found. The most frequently
+  identified losses were found at 14q32.33 21 of samples . The relative degree of
+  chromosomal change was analyzed using log2 ratios. High-level DNA amplifications
+  amp gt 0.8 log2 ratio were detected at 20 regions in 1p, 2q, 3q, 4q, 6q, 7p, 8q,
+  9p, 10q, 12q, 14q and 19p. We found that the fold change levels were highest at
+  EVI1 3q26.2 , LPP 3q27-28 and FHF-1 3q28 gene loci. Our results show that array
+  CGH is a useful tool for identification of gene alteration in lung cancer, and that
+  the above-mentioned genes might represent potential candidate genes for pathogenesis
+  and diagnosis of lung cancer.
+authors: Choi YW, Choi JS, Zheng LT, Lim YJ, Yoon HK, Kim YH, Wang YP and Lim Y.
+contact:
+  email: nglim@catholic.ac.kr
+  name: Y. Lim
+counts:
+  biosamples: 14
+  samples_acgh: 14
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17109992
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Lung Cancer 55, 1 (2007): 43-51.'
+label: 'Choi et al. (2007): Comparative Genomic Hybridization Array Analysis and Real
+  Time Pcr Reveals Genomic Alterations in ...'
+notes: ~
+pmid: 17109992
+title: Comparative Genomic Hybridization Array Analysis and Real Time Pcr Reveals
+  Genomic Alterations in Squamous Cell Carcinomas of the Lung.
+year: 2007

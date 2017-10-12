@@ -1,0 +1,56 @@
+---
+abstract: The protein kinase gene family is the most frequently mutated in human cancer.
+  Previous work has documented activating mutations in the KIT receptor tyrosine kinase
+  in testicular germ-cell tumors TGCT . To investigate further the potential role
+  of mutated protein kinases in the development of TGCT and to characterize the prevalence
+  and patterns of point mutations in these tumors, we have sequenced the coding exons
+  and splice junctions of the annotated protein kinase family of 518 genes in a series
+  of seven seminomas and six nonseminomas. Our results show a remarkably low mutation
+  frequency, with only a single somatic point mutation, a K277E mutation in the STK10
+  gene, being identified in a total of more than 15 megabases of sequence analyzed.
+  Sequencing of STK10 in an additional 40 TGCTs revealed no further mutations. Comparative
+  genomic hybridization and LOH analysis using SNP arrays demonstrated that the 13
+  TGCTs mutationally screened through the 518 protein kinase genes were uniformly
+  aneuploid with consistent chromosomal gains on 12p, 8q, 7, and X and losses on 13q,
+  18q, 11q, and 4q. Our results do not provide evidence for a mutated protein kinase
+  implicated in the development of TGCT other than KIT. Moreover, they demonstrate
+  that the general prevalence of point mutations in TGCT is low, in contrast to the
+  high frequency of copy number changes.
+authors: Bignell G, Smith R, Hunter C, Stephens P, Davies H, Greenman C, Teague J,
+  Butler A, Edkins S, Stevens C, OMeara S, Parker A, Avis T, Barthorpe S, Brackenbury
+  L, Buck G, Clements J, Cole J, Dicks E, Edwards K, Forbes S, Gorton M, Gray K, Halliday
+  K, Harrison R, Hills K, Hinton J, Jones D, Kosmidou V, Laman R, Lugg R, Menzies
+  A, Perry J, Petty R, Raine K, Shepherd R, Small A, Solomon H, Stephens Y, Tofts
+  C, Varian J, Webb A, West S, Widaa S, Yates A, Gillis AJ, Stoop HJ, van Gurp RJ,
+  Oosterhuis JW, Looijenga LH, Futreal PA, Wooster R and Stratton MR.
+contact:
+  email: paf@sanger.ac.uk
+  name: P. Andrew Futreal
+counts:
+  biosamples: 13
+  samples_acgh: 13
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16175573
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.18
+    - 52.08
+    type: Point
+  info:
+    city: hinxton
+    continent: ~
+    country: United Kingdom
+    label: hinxton, United Kingdom
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 45, 1 (2006): 42-46.'
+label: 'Bignell et al. (2006): Sequence Analysis of the Protein Kinase Gene Family
+  in Human Testicular Germ-Cell Tumors of ...'
+notes: ~
+pmid: 16175573
+title: Sequence Analysis of the Protein Kinase Gene Family in Human Testicular Germ-Cell
+  Tumors of Adolescents and Adults.
+year: 2006

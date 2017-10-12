@@ -1,0 +1,47 @@
+---
+abstract: Constitutive NF-kappaB activation has causative roles in adult T cell leukemia
+  ATL caused by HTLV-1 and other cancers. Here, we report a pathway involving Polycomb-mediated
+  miRNA silencing and NF-kappaB activation. We determine the miRNA signatures and
+  reveal miR-31 loss in primary ATL cells. MiR-31 negatively regulates the noncanonical
+  NF-kappaB pathway by targeting NF-kappaB inducing kinase NIK . Loss of miR-31 therefore
+  triggers oncogenic signaling. In ATL cells, miR-31 level is epigenetically regulated,
+  and aberrant upregulation of Polycomb proteins contribute to miR-31 downregulation
+  in an epigenetic fashion, leading to activation of NF-kappaB and apoptosis resistance.
+  Furthermore, this emerging circuit operates in other cancers and receptor-initiated
+  NF-kappaB cascade. Our findings provide a perspective involving the epigenetic program,
+  inflammatory responses, and oncogenic signaling.
+authors: Yamagishi M, Nakano K, Miyake A, Yamochi T, Kagami Y, Tsutsumi A, Matsuda
+  Y, Sato-Otsubo A, Muto S, Utsunomiya A, Yamaguchi K, Uchimaru K, Ogawa S and Watanabe
+  T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 168
+  samples_acgh: 168
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22264793
+- geo:GSE33602
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: 'Cancer Cell (2012) 21: 121-135.'
+label: 'Yamagishi et al. (2012): Polycomb-mediated loss of miR-31 activates NIK-dependent
+  NF-kappaB pathway in adult T cell ...'
+notes: ~
+pmid: 22264793
+title: Polycomb-mediated loss of miR-31 activates NIK-dependent NF-kappaB pathway
+  in adult T cell leukemia and other cancers.
+year: 2012

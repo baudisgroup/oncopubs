@@ -1,0 +1,51 @@
+---
+abstract: We used arbitrarily primed polymerase chain reaction AP-PCR fingerprinting
+  to identify chromosomal imbalances in six primary mediastinal B-cell lymphomas PMBLs
+  . Seventy-four chromosomal imbalances were detected, consisting of 49 sequence gains
+  and 25 losses. Amplifications on chromosome X were seen in five cases, four of which
+  involved the same chromosomal locus. Nonrandom gains at the same locus were also
+  identified on chromosomes 2 and 7 in four cases and on chromosomes 5, 9, and 12
+  in three cases. Five PMBLs were also analyzed by comparative genomic hybridization
+  CGH , which found chromosome arm 9p amplification as the only nonrandom imbalance.
+  Our data demonstrate that chromosomal amplifications outnumber losses in PMBL. These
+  mainly involve chromosomes 9 and X and may reflect more complex phenomena, such
+  as translocations or other chromosomal rearrangements, as AP-PCR found coexistent
+  gains and losses on these chromosomes. Comparison between AP-PCR and CGH suggests
+  that anomalies affecting the same chromosomal regions may occur at much higher frequencies
+  than expected by CGH, suggesting that genomic amplifications are usually confined
+  to DNA segments smaller than the megabase long segments required for detection in
+  CGH. Modest increases in genetic material may be as effective as higher-level amplifications
+  when affecting sites where a proto-oncogene resides.
+authors: Scarpa A, Taruscio D, Scardoni M, Iosi F, Paradisi S, Ennas MG, Rigaud G,
+  Moore PS and Menestrina F.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10502317
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.98
+    - 45.43
+    type: Point
+  info:
+    city: Verona
+    continent: Europe
+    country: Italy
+    label: Verona, Italy, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 26, 3 (1999): 203-09.'
+label: 'Scarpa et al. (1999): Nonrandom Chromosomal Imbalances in Primary Mediastinal
+  B-Cell Lymphoma Detected By Arbitrarily ...'
+notes: ~
+pmid: 10502317
+title: Nonrandom Chromosomal Imbalances in Primary Mediastinal B-Cell Lymphoma Detected
+  By Arbitrarily Primed Pcr Fingerprinting.
+year: 1999

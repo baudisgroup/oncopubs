@@ -1,0 +1,57 @@
+---
+abstract: "Neuroblastoma is a challenging childhood malignancy, with a very high percentage
+  of patients relapsing following acquisition of drug resistance, thereby necessitating
+  the identification of mechanisms of drug resistance as well as new biological targets
+  contributing to the aggressive pathogenicity of the disease. In order to investigate
+  the molecular pathways that are involved with drug resistance in neuroblastoma,
+  we have developed and characterised cisplatin resistant sublines SK-N-ASCis24, KellyCis83
+  and CHP-212Cis100, integrating data of cell behaviour, cytotoxicity, genomic alterations
+  and modulation of protein expression. All three cisplatin resistant cell lines demonstrated
+  cross resistance to temozolomide, etoposide and irinotecan, all of which are drugs
+  in re-initiation therapy. Array CGH analysis indicated that resistant lines have
+  acquired additional genomic imbalances. Differentially expressed proteins were identified
+  by mass spectrometry and classified by bioinformatics tools according to their molecular
+  and cellular functions and their involvement into biological pathways. Significant
+  changes in the expression of proteins involved with pathways such as actin cytoskeletal
+  signalling (pâ\x80\x89=â\x80\x899.28E-10), integrin linked kinase (ILK) signalling
+  (pâ\x80\x89=â\x80\x894.01E-8), epithelial adherens junctions signalling (pâ\x80\x89=â\x80\x895.49E-8)
+  and remodelling of epithelial adherens junctions (pâ\x80\x89=â\x80\x895.87E-8) pointed
+  towards a mesenchymal phenotype developed by cisplatin resistant SK-N-ASCis24. Western
+  blotting and confocal microscopy of MYH9, ACTN4 and ROCK1 coupled with invasion
+  assays provide evidence that elevated levels of MYH9 and ACTN4 and reduced levels
+  of ROCK1 contribute to the increased ROCK1-independent migratory potential of SK-N-ASCis24.
+  Therefore, our results suggest that epithelial-to-mesenchymal transition is a feature
+  during the development of drug resistance in neuroblastoma.  Copyright Â© 2015.
+  Published by Elsevier Ireland Ltd."
+authors: Piskareva O, Harvey H, Nolan J, Conlon R, Alcock L, Buckley P, Dowling P,
+  O'Sullivan F, Bray I and Stallings RL
+contact:
+  email: 'olgapiskareva@rcsi.ie '
+  name: Olga Piskareva
+counts:
+  biosamples: 3
+  samples_acgh: 3
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25960282
+geo_data:
+  geo_json:
+    coordinates:
+    - -6.25
+    - 53.33
+    type: Point
+  info:
+    city: Dublin
+    continent: Europe
+    country: Ireland
+    label: Dublin, Ireland, Europe
+    precision: city
+journal: Cancer Lett., 2015
+label: 'Piskareva O et al. (2015): '
+notes: ~
+pmid: 25960282
+title: The development of cisplatin resistance in neuroblastoma is accompanied by
+  epithelial to mesenchymal transition in vitro.
+year: 2015

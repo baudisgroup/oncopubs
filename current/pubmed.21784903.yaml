@@ -1,0 +1,57 @@
+---
+abstract: Pheochromocytomas and paragangliomas are neuroendocrine tumors that occur
+  in the context of inherited cancer syndromes in 30 of cases and are linked to germline
+  mutations in the VHL, RET, NF1, SDHA, SDHB, SDHC, SDHD, SDHAF2 and TMEM127 genes.
+  Although genome-wide expression studies have revealed some of the mechanisms likely
+  to be involved in pheochromocytoma paraganglioma tumorigenesis, the complete molecular
+  distinction of all subtypes of hereditary tumors has not been solved and the genetic
+  events involved in the generation of sporadic tumors are unknown. With these purposes
+  in mind, we investigated 202 pheochromocytomas paragangliomas, including 75 hereditary
+  tumors, using expression profiling, BAC array comparative genomic hybridization
+  and somatic mutation screening. Gene expression signatures defined the hereditary
+  tumors according to their genotype and notably, led to a complete subseparation
+  between SDHx- and VHL-related tumors. In tumor tissues, the systematic characterization
+  of somatic genetic events associated with germline mutations in tumor suppressor
+  genes revealed loss of heterozygosity LOH in a majority of cases, but also detected
+  point mutations and copy-neutral LOH. Finally, guided by transcriptome classifications
+  and LOH profiles, somatic mutations in VHL or RET genes were identified in 14 of
+  sporadic pheochromocytomas paragangliomas. Overall, we found a germline or somatic
+  genetic alteration in 45.5 92 202 of the tumors in this large series of pheochromocytomas
+  paragangliomas. Regarding mutated genes, specific molecular pathways involved in
+  tumorigenesis mechanisms are identified. Altogether, these new findings suggest
+  that somatic mutation analysis is likely to yield important clues for personalizing
+  molecular targeted therapies.
+authors: Burnichon N, Vescovo L, Amar L, Libe R, de Reynies A, Venisse A, Jouanno
+  E, Laurendeau I, Parfait B, Bertherat J, Plouin PF, Jeunemaitre X, Favier J and
+  Gimenez-Roqueplo AP.
+contact:
+  email: ~
+  name: Nelly Burnichon
+counts:
+  biosamples: 202
+  samples_acgh: 202
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21784903
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: 'Hum Mol Genet 20, 20 (2011): 3974-85.'
+label: 'Burnichon et al. (2011): Integrative Genomic Analysis Reveals Somatic Mutations
+  in Pheochromocytoma and ...'
+notes: ~
+pmid: 21784903
+title: Integrative Genomic Analysis Reveals Somatic Mutations in Pheochromocytoma
+  and Paraganglioma.
+year: 2011

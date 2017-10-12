@@ -1,0 +1,40 @@
+---
+abstract: To characterize the molecular genetic profiles of grade 3 invasive ductal
+  carcinomas of no special type using high-resolution microarray-based comparative
+  genomic hybridization aCGH and to identify recurrent amplicons harboring putative
+  therapeutic targets associated with luminal, HER-2, and basal-like tumor phenotypes.
+authors: Natrajan R, Lambros MB, Rodriguez-Pinilla SM, Moreno-Bueno G, Tan DS, Marchio
+  C, Vatcheva R, Rayter S, Mahler-Araujo B, Fulford LG, Hungermann D, Mackay A, Grigoriadis
+  A, Fenwick K, Tamber N, Hardisson D, Tutt A, Palacios J, Lord CJ, Buerger H, Ashworth
+  A and Reis-Filho JS.
+contact:
+  email: jorgerf@icr.ac.uk
+  name: Jorge Reis-Filho
+counts:
+  biosamples: 95
+  samples_acgh: 95
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19318498
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Clin Cancer Res 15, 8 (2009): 2711-22.'
+label: 'Natrajan et al. (2009): Tiling Path Genomic Profiling of Grade 3 Invasive
+  Ductal Breast Cancers.'
+notes: The supplementary data does not contain complete aCGH results, and no links
+  to a public data repository (e.g. arrayExpress, GEO) were found.
+pmid: 19318498
+title: Tiling Path Genomic Profiling of Grade 3 Invasive Ductal Breast Cancers.
+year: 2009

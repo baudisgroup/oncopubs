@@ -1,0 +1,49 @@
+---
+abstract: 'To model the cytogenetic evolution in gastrointestinal stromal tumour GIST
+  , an oncogenetic tree model was reconstructed using comparative genomic hybridization
+  data from 203 primary GISTs 116 gastric and 87 intestinal GISTs, including 151 newly
+  analysed cases , with follow-up available in 173 cases mean 40 months maximum 133
+  months . The oncogenetic tree model identified three major cytogenetic pathways:
+  one initiated by -14q, one by -1p, and another by -22q. The -14q pathway mainly
+  characterized gastric tumours with predominantly stable karyotypes and more favourable
+  clinical course. On the other hand, the -1p pathway was more characteristic of intestinal
+  GISTs, with an increased capacity for cytogenetic complexity and more aggressive
+  clinical course. Loss of 22q, more closely associated with -1p than -14q, appeared
+  to initiate the critical transition to an unfavourable cytogenetic subpathway. This
+  -22q pathway included accumulation of 8q, -9p, and -9q, which could all predict
+  disease-free survival in addition to tumour site. Thus, insights into the cytogenetic
+  evolution obtained from oncogenetic tree models may eventually help to gain a better
+  understanding of the heterogeneous site-dependent biological behaviour of GISTs.'
+authors: Gunawan B, von Heydebreck A, Sander B, Schulten HJ, Haller F, Langer C, Armbrust
+  T, Bollmann M, Gasparov S, Kovac D and Fuzesi L.
+contact:
+  email: bastian.gunawan@med.uni-goettingen.de
+  name: Bastian Gunawan
+counts:
+  biosamples: 203
+  samples_acgh: 0
+  samples_ccgh: 203
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17226762
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.93
+    - 51.53
+    type: Point
+  info:
+    city: Goettingen
+    continent: Europe
+    country: Germany
+    label: Goettingen, Germany, Europe
+    precision: city
+journal: 'J Pathol 211, 4 (2007): 463-70.'
+label: 'Gunawan et al. (2007): An Oncogenetic Tree Model in Gastrointestinal Stromal
+  Tumours (Gists) Identifies Different ...'
+notes: ~
+pmid: 17226762
+title: An Oncogenetic Tree Model in Gastrointestinal Stromal Tumours (Gists) Identifies
+  Different Pathways of Cytogenetic Evolution With Prognostic Implications.
+year: 2007

@@ -1,0 +1,55 @@
+---
+abstract: Columnar cell lesions CCLs of the breast are a spectrum of lesions that
+  have posed difficulties to pathologists for many years, prompting discussion concerning
+  their biologic and clinical significance. We present a study of CCL in context with
+  hyperplasia of usual type HUT and the more advanced lesions ductal carcinoma in
+  situ DCIS and invasive ductal carcinoma. A total of 81 lesions from 18 patients
+  were subjected to a comprehensive morphologic review based upon a modified version
+  of Schnitts classification system for CCL, immunophenotypic analysis estrogen receptor
+  ER , progesterone receptor PgR , Her2 neu, cytokeratin 5 6 CK5 6 , cytokeratin 14
+  CK14 , E-cadherin, p53 and for the first time, a whole genome molecular analysis
+  by comparative genomic hybridization. Multiple CCLs from 3 patients were studied
+  in particular detail, with topographic information and or showing a morphologic
+  spectrum of CCL within individual terminal duct lobular units. CCLs were ER and
+  PgR positive, CK5 6 and CK14 negative, exhibit low numbers of genetic alterations
+  and recurrent 16q loss, features that are similar to those of low grade in situ
+  and invasive carcinoma. The molecular genetic profiles closely reflect the degree
+  of proliferation and atypia in CCL, indicating some of these lesions represent both
+  a morphologic and molecular continuum. In addition, overlapping chromosomal alterations
+  between CCL and more advanced lesions within individual terminal duct lobular units
+  suggest a commonality in molecular evolution. These data further support the hypothesis
+  that CCLs are a nonobligate, intermediary step in the development of some forms
+  of low grade in situ and invasive carcinoma.
+authors: Simpson PT, Gale T, Reis-Filho JS, Jones C, Parry S, Sloane JP, Hanby A,
+  Pinder SE, Lee AH, Humphreys S, Ellis IO and Lakhani SR.
+contact:
+  email: s.lakhani@uq.edu.au
+  name: Sunil R. Lakhani
+counts:
+  biosamples: 81
+  samples_acgh: 0
+  samples_ccgh: 81
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15897740
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Am J Surg Pathol 29, 6 (2005): 734-46.'
+label: 'Simpson et al. (2005): Columnar Cell Lesions of the Breast: The Missing Link
+  in Breast Cancer Progression  A ...'
+notes: ~
+pmid: 15897740
+title: 'Columnar Cell Lesions of the Breast: The Missing Link in Breast Cancer Progression  A
+  Morphological and Molecular Analysis.'
+year: 2005

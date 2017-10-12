@@ -1,0 +1,47 @@
+---
+abstract: Comparative genomic hybridization CGH analysis was used to identify chromosomal
+  imbalances in 52 human primary hepatocellular carcinomas HCCs . The most prominent
+  changes were gains of part or all of chromosome arms 8q 83 of cases and 1q 73 and
+  loss of 16q 63 . Other commonly overrepresented sites were 5p, 7q, and Xq. Recurrent
+  sites of DNA sequence amplification included 8q23--24 five cases and 11q13--14 four
+  cases . Other frequently underrepresented sites were 4q, 8p, 16p, and 17p. Taken
+  collectively, these findings and data from other CGH studies of HCCs define a subset
+  of chromosome segments that are consistently over- or underrepresented and highlight
+  sites of putative oncogenes and tumor suppressor genes, respectively, involved in
+  hepatocellular oncogenesis. Loss of heterozygosity analysis with a panel of polymorphic
+  microsatellite markers distributed along 16q defined a minimal region of chromosomal
+  loss at 16q23.1--24.1, suggesting that this region harbors a tumor suppressor gene
+  whose loss inactivation may contribute to the pathogenesis of many HCCs.
+authors: Balsara BR, Pei J, De Rienzo A, Simon D, Tosolini A, Lu YY, Shen FM, Fan
+  X, Lin WY, Buetow KH, London WT, and Testa JR.
+contact:
+  email: jr_testa@fccc.edu
+  name: Joseph R. Testa
+counts:
+  biosamples: 52
+  samples_acgh: 0
+  samples_ccgh: 52
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11170281
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: Genes Chromosomes Cancer, 30(3) 2001, 245-53.
+label: 'Balsara et al. (2001): Human hepatocellular carcinoma is characterized by
+  a highly consistent pattern of genomic ...'
+notes: ~
+pmid: 11170281
+title: Human hepatocellular carcinoma is characterized by a highly consistent pattern
+  of genomic imbalances, including frequent loss of 16q23.1-24.1.
+year: 2001

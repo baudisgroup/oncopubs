@@ -1,0 +1,51 @@
+---
+abstract: Human germ cell tumors GCTs of neonates and infants comprise a heterogeneous
+  group of neoplasms, including teratomas and yolk sac tumors with distinct clinical
+  and epidemiologic features. As yet, little is known about the cytogenetic constitution
+  of these tumors. We applied the recently developed genomewide array-based comparative
+  genomic hybridization array CGH technology to 24 GCTs derived from patients under
+  the age of 5 years. In addition, we included seven tumors derived from children
+  and adolescents older than 5 years. In the series from those under the age of 5
+  years, most teratomas displayed normal profiles, except for some minor recurrent
+  aberrations. In contrast, the yolk sac tumors displayed recurrent losses of 1p35-pter
+  and gains of 3p21-pter and of 20q13. In the GCTs of patients older than 5 years,
+  the main recurrent anomalies included gains of 12p and of whole chromosomes 7 and
+  8. In addition, gains of the 1q32-qter region and losses of the 6q24-qter and 18q21-qter
+  regions were frequent in GCTs of varied histology, independent of age. We concluded
+  that array CGH is a highly suitable method for identifying recurrent chromosomal
+  anomalies in GCTs of neonates and infants. The recurrent anomalies observed point
+  to chromosomal regions that may harbor novel diagnostic prognostic identifiers and
+  genes relevant to the development of these neoplasms.
+authors: Veltman I, Veltman J, Janssen I, Hulsbergen-van de Kaa C, Oosterhuis W, Schneider
+  D, Stoop H, Gillis A, Zahn S, Looijenga L, Gobel U and van Kessel AG.
+contact:
+  email: a.geurtsvankessel@antrg.umcn.nl
+  name: Ad Geurts van Kessel
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15880464
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.84
+    - 51.81
+    type: Point
+  info:
+    city: Nijmegen
+    continent: ~
+    country: The Netherlands
+    label: Nijmegen, The Netherlands
+    precision: city [needs verification]
+journal: 'Genes Chromosomes Cancer 43, 4 (2005): 367-76.'
+label: 'Veltman et al. (2005): Identification of Recurrent Chromosomal Aberrations
+  in Germ Cell Tumors of Neonates and Infants ...'
+notes: ~
+pmid: 15880464
+title: Identification of Recurrent Chromosomal Aberrations in Germ Cell Tumors of
+  Neonates and Infants Using Genomewide Array-Based Comparative Genomic Hybridization.
+year: 2005

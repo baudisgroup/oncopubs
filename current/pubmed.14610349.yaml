@@ -1,0 +1,52 @@
+---
+abstract: 35 oral squamous cell carcinomas examined previously by comparative genomic
+  hybridization CGH exhibited 5 up to 47 copy number alterations CNAs . 13 of those
+  cases showed a loss of parts of the short arm of chromosome 9, band p21 being affected
+  in all of these cases. A highly complex but strikingly consistent pattern of genomic
+  imbalances with an average 31.5 CNAs per tumor was associated with this deletion,
+  and gains clearly dominated over losses of genomic material. Comparable patterns,
+  however, could also be found in tumors with a high number of CNAs 24 CNAs but without
+  the deletion. Low numbers of imbalances were accompanied by low consistency of the
+  CNA patterns. None of these latter cases showed the deletion 9p21. 66.7 of the dim
+  9p21 -positive tumors were of class pT4 vs. 22 in dim 9p21 -negative cases , 77
+  of stage III or IV vs. 47 in the group without the deletion , but only 8 of the
+  dim 9p21 -positive tumors were classified as grade 3 vs. 41 in the negative group
+  . Other clinicopathologic features like prevalence of relapse, or survival time
+  could not be as clearly associated with the deletion. For instance, short relapse-free
+  survival was clearly associated with a high number of CNAs, rather independent of
+  presence or absence of dim 9p21 in the affected tumor. From these findings it is
+  concluded that previously found associations of 9p21 deletion with clinical parameters
+  can reasonably be estimated only in the context of the pattern and complexity of
+  the genomic imbalances accompanying this chromosomal loss in the examined tumors.
+authors: Gebhart E, Liehr T, Wolff E, Wiltfang J, Koscielny S and Ries J.
+contact:
+  email: ~
+  name: E. Gebhart
+counts:
+  biosamples: 35
+  samples_acgh: 0
+  samples_ccgh: 35
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14610349
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: Europe
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: 'Cytogenet Genome Res 101, 2 (2003): 106-12.'
+label: 'Gebhart et al. (2003): Loss of 9p21 is Embedded in a Complex But Consistent
+  Pattern of Genomic Imbalances in Oral ...'
+notes: ~
+pmid: 14610349
+title: Loss of 9p21 is Embedded in a Complex But Consistent Pattern of Genomic Imbalances
+  in Oral Squamous Cell Carcinomas.
+year: 2003

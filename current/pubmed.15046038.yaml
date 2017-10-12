@@ -1,0 +1,45 @@
+---
+abstract: Non-epithelial tumors only rarely affect the pancreas. In this report, we
+  describe a malignant non-epithelial tumor with combined characteristics of malignant
+  peripheral nerve sheath tumor MPNST and malignant melanoma. To more closely define
+  the differential diagnosis of MPNST with focal pigmentation versus metastatic melanoma
+  resembling MPNST, the tumor was investigated using histomorphology, immunohistochemistry,
+  electron microscopy, and comparative genomic hybridization. As a result, from these
+  analyses and from clinical findings, the diagnosis of a pancreatic MPNST with focal
+  pigmentation was favored. However, the diagnosis of a malignant melanoma or a composite
+  tumor could not be definitely ruled out, due to the considerable morphological and
+  genotypical overlap between both entities, which can be explained by the close histogenetic
+  relationship between both tumor entities.
+authors: Bergmann F, Hackert T, Mechtersheimer G, Penzel R, Blaker H, Berger I, Esposito
+  I, Buchler MW and Otto HF.
+contact:
+  email: frank_bergmann@med.uni-heidelberg.de
+  name: Frank Bergmann
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15046038
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Virchows Arch 444, 2 (2004): 190-93.'
+label: 'Bergmann et al. (2004): Differential Diagnosis of Non-Epithelial Tumors of
+  the Pancreas: Malignant Non-Epithelial ...'
+notes: ~
+pmid: 15046038
+title: 'Differential Diagnosis of Non-Epithelial Tumors of the Pancreas: Malignant
+  Non-Epithelial Pancreatic Tumor With Focal Pigmentation.'
+year: 2004

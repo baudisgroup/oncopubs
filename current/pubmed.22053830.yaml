@@ -1,0 +1,42 @@
+---
+abstract: Although synovial sarcoma is the 3rd most commonly occurring mesenchymal
+  tumor in young adults, usually with a highly aggressive clinical course remarkable
+  differences can be seen regarding the clinical outcome. According to comparative
+  genomic hybridization CGH data published in the literature, the simple and complex
+  karyotypes show a correlation between the prognosis and clinical outcome. In addition,
+  the connection between DNA ploidy and clinical course is controversial. The aim
+  of this study was using a fine-tuning interpretation of our DNA ploidy results and
+  to compare these with metaphase high-resolution CGH HR-CGH results.
+authors: Balogh Z, Szemlaky Z, Szendroi M, Antal I, Papai Z, Fonyad L, Papp G, Changchien
+  YC, and Sapi Z.
+contact:
+  email: zsapi@freemail.hu
+  name: Zoltan Sapi
+counts:
+  biosamples: 9
+  samples_acgh: 0
+  samples_ccgh: 9
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22053830
+geo_data:
+  geo_json:
+    coordinates:
+    - 19.04
+    - 47.5
+    type: Point
+  info:
+    city: Budapest
+    continent: Europe
+    country: Hungary
+    label: Budapest, Hungary, Europe
+    precision: city
+journal: Diagn Pathol, 6(1) 2011, 107.
+label: 'Balogh et al. (2011): Correlation between DNA ploidy, metaphase high-resolution
+  comparative genomic hybridization ...'
+notes: ~
+pmid: 22053830
+title: Correlation between DNA ploidy, metaphase high-resolution comparative genomic
+  hybridization results and clinical outcome of synovial sarcoma.
+year: 2011

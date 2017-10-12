@@ -1,0 +1,43 @@
+---
+abstract: The transition of ductal carcinoma in situ DCIS to invasive carcinoma is
+  a poorly understood key event in breast tumor progression. Here, we analyzed the
+  role of myoepithelial cells and fibroblasts in the progression of in situ carcinomas
+  using a model of human DCIS and primary breast tumors. Progression to invasion was
+  promoted by fibroblasts and inhibited by normal myoepithelial cells. Molecular profiles
+  of isolated luminal epithelial and myoepithelial cells identified an intricate interaction
+  network involving TGFbeta, Hedgehog, cell adhesion, and p63 required for myoepithelial
+  cell differentiation, the elimination of which resulted in loss of myoepithelial
+  cells and progression to invasion.
+authors: Hu M, Yao J, Carroll DK, Weremowicz S, Chen H, Carrasco D, Richardson A,
+  Violette S, Nikolskaya T, Nikolsky Y, Bauerlein EL, Hahn WC, Gelman RS, Allred C,
+  Bissell MJ, Schnitt S and Polyak K.
+contact:
+  email: kornelia_polyak@dfci.harvard.edu
+  name: Kornelia Polyak
+counts:
+  biosamples: 10
+  samples_acgh: 10
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18455123
+- geo:GSE10747
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Cancer Cell 13, 5 (2008): 394-406.'
+label: 'Hu et al. (2008): Regulation of in Situ to Invasive Breast Carcinoma Transition.'
+notes: ~
+pmid: 18455123
+title: Regulation of in Situ to Invasive Breast Carcinoma Transition.
+year: 2008

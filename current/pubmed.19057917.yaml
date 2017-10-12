@@ -1,0 +1,51 @@
+---
+abstract: Embryonal tumors with abundant neuropil and true rosettes ETANTR comprise
+  a rare variant of embryonal brain tumors usually occurring in infants. Only 13 cases
+  have been reported in the literature to date and little is known about the molecular
+  pathogenesis of these tumors. Here, we describe a case of ETANTR in a 2-year-old
+  girl presenting with a large tumor in the vermis of the cerebellum. Histological
+  examination showed clusters of small-undifferentiated cells including ependymoblastic-like
+  rosettes admixed with large fibrillar and paucicellular neuropil-like areas indicative
+  for ETANTR. Genomic imbalances were detected by using array-based comparative genomic
+  hybridization. In addition to trisomy of chromosome 2, which has been previously
+  described in ETANTR, array-CGH revealed high-level genomic amplification of 0.89
+  Mb at chromosome band 19q13.42 covering a microRNA cluster and several protein-coding
+  genes. This aberration has not been described in any other brain tumor to date,
+  indicating a specific aberration in ETANTR. MicroRNAs contained in the microRNA
+  cluster at 19q13.42 including oncomirs miRNA-372 and miRNA-373 were highly up-regulated
+  in the tumor when compared to normal cerebellum or whole brain. In summary, this
+  is the first report on a potentially specific genetic aberration in ETANTR, supporting
+  the hypothesis of a distinct tumor entity.
+authors: Pfister S, Remke M, Castoldi M, Bai AH, Muckenthaler MU, Kulozik A, von Deimling
+  A, Pscherer A, Lichter P and Korshunov A.
+contact:
+  email: s.p   ster@dkfz.de
+  name: Stefan Pfister
+counts:
+  biosamples: 1
+  samples_acgh: 1
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19057917
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Acta Neuropathol 117, 4 (2009): 457-64.'
+label: 'Pfister et al. (2009): Novel Genomic Amplification Targeting the Microrna
+  Cluster At 19q13.42 in a Pediatric Embryonal ...'
+notes: ~
+pmid: 19057917
+title: Novel Genomic Amplification Targeting the Microrna Cluster At 19q13.42 in a
+  Pediatric Embryonal Tumor With Abundant Neuropil and True Rosettes.
+year: 2009

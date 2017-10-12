@@ -1,0 +1,44 @@
+---
+abstract: Diffuse intrinsic pontine glioma DIPG is one of the most devastating of
+  pediatric malignancies and one for which no effective therapy exists. A major contributor
+  to the failure of therapeutic trials is the assumption that biologic properties
+  of brainstem tumors in children are identical to cerebral high-grade gliomas of
+  adults. A better understanding of the biology of DIPG itself is needed in order
+  to develop agents targeted more specifically to these childrens disease. Herein,
+  we address this lack of knowledge by performing the first high-resolution single
+  nucleotide polymorphism SNP -based DNA microarray analysis of a series of DIPGs.
+authors: Zarghooni M, Bartels U, Lee E, Buczkowicz P, Morrison A, Huang A, Bouffet
+  E and Hawkins C.
+contact:
+  email: cynthia.hawkins@sickkids.ca
+  name: Cynthia Hawkins
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20142589
+- geo:GSE18828
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'J Clin Oncol 28, 8 (2010): 1337-44.'
+label: 'Zarghooni et al. (2010): Whole-Genome Profiling of Pediatric Diffuse Intrinsic
+  Pontine Gliomas Highlights ...'
+notes: Article contains DIPG data. Data of 4 cases was excluded for quality reasons.
+pmid: 20142589
+title: Whole-Genome Profiling of Pediatric Diffuse Intrinsic Pontine Gliomas Highlights
+  Platelet-Derived Growth Factor Receptor Alpha and Poly (Adp-Ribose) Polymerase as
+  Potential Therapeutic Targets.
+year: 2010

@@ -1,0 +1,60 @@
+---
+abstract: To identify chromosome alterations in Chinese bladder cancer, forty-six
+  transitional cell carcinomas of the bladder were analyzed by comparative genomic
+  hybridization. Frequent gains of DNA copy number were observed on 1p 13 46 , 1q
+  13 46 , 5p 8 46 , 6p 9 46 , 7p 7 46 , 8q 12 46 , 11q 8 46 , 17q 11 46 , 19q 7 46
+  , 20q 8 46 and Yq 8 46 , with minimal overlapping regions at 1p32-pter 10 46 , 1q21-q24
+  12 46 , 5p 8 46 , 6p22-p23 7 46 , 7p11.2-p14 7 46 , 8q22-q24 12 46 , 11q13-q14 8
+  46 , 17q22-qter 11 46 , 19q11-13.2 7 46 , 20q11-q13.2 8 46 and Yq11 8 46 . Losses
+  were predominantly found on 2q 16 46 , 5q 8 46 , 8p 7 46 , 9p 8 46 , 9q 13 46 ,
+  11p 7 46 , 13q 7 46 , 17p 12 46 , 18q 7 46 , Xp 18 46 and Xq 19 46 , with smallest
+  overlapping regions at 2q32-qter 16 46 , 5q12-q31 8 46 , 8p12-pter 7 46 , 9p21-pter
+  10 46 , 9q 13 46 , 11p 7 46 , 13q13-q22 7 46 , 17p 12 46 , 18q21-qter 7 46 , Xp
+  18 46 and Xq 19 46 . There were significantly higher frequencies of gains of 1q21-q24
+  and 17q22-qter in moderately differentiated tumors as compared with those in well-differentiated
+  tumors, indicating a possible association of these two abnormalities with the dedifferentiation
+  of tumor cells. Gains of 1p32-pter, 5p, 6p22-p23, 11q13-q14, 17q22-qter and losses
+  of 2q32-qter, 9q, 17p were more frequent in pT1 as compared with those in pTa carcinomas.
+  Gains at 1q21-q24, 7p11.2-p14, 8q22-q24, 19q, 20q11-q13.2 and losses at 5q12-q31,
+  8p12-pter, 9p21-pter, 11p, 13q13-q22 and 18q21-qter were unique to pT1 and higher
+  stage tumors, suggesting that genes responsible for the invasion and progression
+  of bladder cancer might be located at these chromosomal regions. In multiple tumors
+  from the same patients, consistent alterations such as gains of 8q, 11q13-q14, 12q13-q15,
+  13q12, 20q and losses of 2q32-qter, 8p, 9, 11p, 11q21-qter, 13q13-qter, X were detected.
+  These abnormalities were possibly earlier events, which might play a critical role
+  during the genesis of the tumors. Further detailed studies to the recurrent aberration
+  regions may lead to the identification of oncogenes and tumor suppressor genes involved
+  in the development and progression of Chinese bladder cancer.
+authors: Qin SL, Chen XJ, Xu X, Shou JZ, Bi XG, Ji L, Han YL, Cai Y, Wei F, Ma JH,
+  Wu M, Zhan QM and Wang MR.
+contact:
+  email: wangmr04@126.com
+  name: Ming-Rong Wang
+counts:
+  biosamples: 46
+  samples_acgh: 0
+  samples_ccgh: 46
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16125302
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: 'Cancer Lett 238, 2 (2006): 230-39.'
+label: 'Qin et al. (2006): Detection of Chromosomal Alterations in Bladder Transitional
+  Cell Carcinomas From Northern China By ...'
+notes: ~
+pmid: 16125302
+title: Detection of Chromosomal Alterations in Bladder Transitional Cell Carcinomas
+  From Northern China By Comparative Genomic Hybridization.
+year: 2006

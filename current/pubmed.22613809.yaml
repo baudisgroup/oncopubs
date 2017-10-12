@@ -1,0 +1,42 @@
+---
+abstract: Chordomas are rare neoplasms, arising from notochordal remnants in the midline
+  skeletal axis, for which the current treatment is limited to surgery and radiotherapy.
+  Recent reports suggest that receptor tyrosine kinases RTK might be essential for
+  the survival or proliferation of chordoma cells, providing a rationale for RTK targeted
+  therapy. Nevertheless, the reported data are conflicting, most likely due to the
+  assorted tumor specimens used for the studies and the heterogeneous methodological
+  approaches. In the present study, we performed a comprehensive characterization
+  of this rare entity using a wide range of assays in search for relevant therapeutic
+  targets.
+authors: Dewaele B., Maggiani F., Floris G., Ampe M., Vanspauwen V., Wozniak A., Debiec-Rychter
+  M. and Sciot R.
+contact:
+  email: ~
+  name: Barbara Dewaele
+counts:
+  biosamples: 11
+  samples_acgh: 11
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22613809
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.7
+    - 50.88
+    type: Point
+  info:
+    city: Leuven
+    continent: Europe
+    country: Belgium
+    label: Leuven, Belgium, Europe
+    precision: city
+journal: 'Clin Sarcoma Res 1, 1 (2011): 4.'
+label: 'Dewaele B., Maggiani F., Floris G., Ampe M., Vanspauwen V., Wozniak A., Debiec-Rychter
+  M. and Sciot R. (2011): Frequent ...'
+notes: ~
+pmid: 22613809
+title: Frequent Activation of Egfr in Advanced Chordomas.
+year: 2011

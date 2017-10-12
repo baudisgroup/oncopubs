@@ -1,0 +1,51 @@
+---
+abstract: 'Small intestine neuroendocrine tumors SI-NETs are the most common malignancy
+  of the small bowel. Several clinical trials target PI3K Akt mTOR signaling however,
+  it is unknown whether these or other genes are genetically altered in these tumors.
+  To address the underlying genetics, we analyzed 48 SI-NETs by massively parallel
+  exome sequencing. We detected an average of 0.1 somatic single nucleotide variants
+  SNVs per 106 nucleotides range, 0-0.59 , mostly transitions C gt T and A gt G ,
+  which suggests that SI-NETs are stable cancers. 197 protein-altering somatic SNVs
+  affected a preponderance of cancer genes, including FGFR2, MEN1, HOOK3, EZH2, MLF1,
+  CARD11, VHL, NONO, and SMAD1. Integrative analysis of SNVs and somatic copy number
+  variations identified recurrently altered mechanisms of carcinogenesis: chromatin
+  remodeling, DNA damage, apoptosis, RAS signaling, and axon guidance. Candidate therapeutically
+  relevant alterations were found in 35 patients, including SRC, SMAD family genes,
+  AURKA, EGFR, HSP90, and PDGFR. Mutually exclusive amplification of AKT1 or AKT2
+  was the most common event in the 16 patients with alterations of PI3K Akt mTOR signaling.
+  We conclude that sequencing-based analysis may provide provisional grouping of SI-NETs
+  by therapeutic targets or deregulated pathways.'
+authors: Banck MS, Kanwar R, Kulkarni AA, Boora GK, Metge F, Kipp BR, Zhang L, Thorland
+  EC, Minn KT, Tentu R, Eckloff BW, Wieben ED, Wu Y, Cunningham JM, Nagorney DM, Gilbert
+  JA, Ames MM and Beutler AS.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 48
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 48
+  samples_wgs: 0
+external_identifiers:
+- pubmed:23676460
+- geo:GSE45190
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'The Journal of clinical investigation (2013) 123: 2502-2508.'
+label: 'Banck et al. (2013): The genomic landscape of small intestine neuroendocrine
+  tumors.'
+notes: ~
+pmid: 23676460
+title: The genomic landscape of small intestine neuroendocrine tumors.
+year: 2013

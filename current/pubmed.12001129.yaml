@@ -1,0 +1,38 @@
+---
+abstract: Placental site trophoblastic tumor PSTT is a rare form of gestational trophoblastic
+  neoplasm composed predominantly of intermediate trophoblast. Most showed benign
+  behavior whereas 10-15 of PSTTs were clinically malignant with later recurrence
+  and metastasis. Currently, there are no reliable means to predict clinical outcome,
+  and cytogenetic information is scanty.
+authors: Xue WC, Guan XY, Ngan HY, Shen DH, Khoo US and Cheung AN.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12001129
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: 'Cancer 94, 8 (2002): 2288-94.'
+label: 'Xue et al. (2002): Malignant Placental Site Trophoblastic Tumor: A Cytogenetic
+  Study Using Comparative Genomic ...'
+notes: ~
+pmid: 12001129
+title: 'Malignant Placental Site Trophoblastic Tumor: A Cytogenetic Study Using Comparative
+  Genomic Hybridization and Chromosome in Situ Hybridization.'
+year: 2002

@@ -1,0 +1,49 @@
+---
+abstract: Although there seems to be a common stem cell for the two epithelial cell
+  types in the breast, the vast majority of breast cancers exhibit a luminal phenotype.
+  Pure myoepithelial carcinomas are rare. We report our findings of genetic alterations
+  in these tumors. We have analyzed 10 cases of pure myoepithelial cell carcinomas
+  using laser capture microdissection and comparative genomic hybridization. The mean
+  number of changes was 2.1 range 0-4 , compared with a mean of 8.6 range 3.6-13.8
+  in unselected ductal carcinomas. Common alterations included loss at 16q 3 10 cases
+  , 17p 3 10 , 11q 2 10 , and 16p 2 10 , regions also commonly deleted in ductal carcinomas.
+  The single case in which both pure myoepithelial carcinoma and invasive ductal carcinoma
+  was present showed 2 alterations in the myoepithelial tumor losses at 17p and 17q
+  , whereas the invasive ductal component showed 15 alterations 5 gains and 9 losses
+  , including loss at 17p. The sharing of 17p loss in myoepithelial and ductal carcinoma
+  is consistent with a common stem cell model in the breast. The relatively few genetic
+  alterations in otherwise aggressive neoplasms suggests that myoepithelial tumors
+  may be a good model for the delineation of genes important in breast tumorigenesis.
+authors: Jones C, Foschini MP, Chaggar R, Lu YJ, Wells D, Shipley JM, Eusebi V and
+  Lakhani SR.
+contact:
+  email: s.lakhani@uq.edu.au
+  name: Sunil R. Lakhani
+counts:
+  biosamples: 10
+  samples_acgh: 0
+  samples_ccgh: 10
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10879734
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Lab Invest 80, 6 (2000): 831-36.'
+label: 'Jones et al. (2000): Comparative Genomic Hybridization Analysis of Myoepithelial
+  Carcinoma of the Breast.'
+notes: ~
+pmid: 10879734
+title: Comparative Genomic Hybridization Analysis of Myoepithelial Carcinoma of the
+  Breast.
+year: 2000

@@ -1,0 +1,43 @@
+---
+abstract: 'Breast cancer is characterised by a number of genetic aberrations. Our
+  purpose was to use comparative genomic hybridisation CGH to screen breast carcinomas
+  for copy number changes: 44 ductal and 8 lobular carcinomas were studied and a large
+  number of genetic aberrations identified. Many of these showed similarity to previous
+  CGH results, however, a number of loci not previously shown to have undergone frequent
+  change were identified. This included copy number gains affecting chromosomes 1p,
+  4q, 5q, 6q and 13q. Furthermore, we have identified 2 regions of copy number change,
+  the gain on 5p and deletion of 16q, which correlated with lobular carcinomas. Our
+  results highlight several areas of the genome that may be important in the molecular
+  genetics of breast cancer.'
+authors: Loveday RL, Greenman J, Simcox DL, Speirs V, Drew PJ, Monson JR and Kerin
+  MJ.
+contact:
+  email: j.r.t.monson@medschool.hull.ac.uk
+  name: J.R. Monson
+counts:
+  biosamples: 52
+  samples_acgh: 0
+  samples_ccgh: 52
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10797261
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.34
+    - 53.74
+    type: Point
+  info:
+    city: Hull
+    continent: Europe
+    country: United Kingdom
+    label: Hull, United Kingdom, Europe
+    precision: city
+journal: 'Int J Cancer 86, 4 (2000): 494-500.'
+label: 'Loveday et al. (2000): Genetic Changes in Breast Cancer Detected By Comparative
+  Genomic Hybridisation.'
+notes: ~
+pmid: 10797261
+title: Genetic Changes in Breast Cancer Detected By Comparative Genomic Hybridisation.
+year: 2000

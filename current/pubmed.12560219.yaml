@@ -1,0 +1,57 @@
+---
+abstract: The MALT1 gene was identified through its involvement in t 11 18 q21 q21
+  , seen in 30 of cases of mucosa-associated lymphoid tissue MALT lymphoma. Here,
+  we show that deregulated MALT1 expression may occur in B-cell non-Hodgkin lymphoma
+  B-NHL of various histologic subtypes either through translocation to the immunoglobulin
+  heavy chain IGH locus or by genomic amplification. First, 2 cases, one case of MALT
+  lymphoma and another of aggressive marginal zone lymphoma MZL with t 14 18 q32 q21
+  , cytogenetically identical to the translocation involving BCL2, were shown by fluorescence
+  in situ hybridization FISH to involve MALT1, which lies about 5 Mb centromeric of
+  BCL2. Molecular cloning of both by long-distance inverse polymerase chain reaction
+  showed breakpoints lying 1 to 2 kilobase kb centromeric of the first 5 MALT1 exon
+  both cases showed MALT1 overexpression at either RNA or protein levels. Second,
+  we examined the structure and gene expression profile of genomic amplifications
+  involving 18q21 in a panel of 40 B-NHL cell lines using comparative genomic hybridization
+  to microarrays array CGH and gene expression profiling techniques. Using array CGH,
+  2 peaks of genomic amplification were observed, one centered around BCL2 and the
+  other around MALT1. Ofthe 3 cell lines with MALT1 amplification, 2 showed MALT1
+  overexpression as assessed by gene profiling, quantitative reverse transcription-polymerase
+  chain reaction QRT-PCR , and Western blotting. To determine if comparable events
+  occurred in primary MALT and splenic MZL tumors, 40 cases were analyzed by FISH
+  or QRT-PCR genomic amplification and MALT1 overexpression were seen in 2 cases.
+  Together, these data implicate MALT1 as a dominant oncogene that may play a role
+  in the pathogenesis of B-NHL.
+authors: Sanchez-Izquierdo D, Buchonnet G, Siebert R, Gascoyne RD, Climent J, Karran
+  L, Marin M, Blesa D, Horsman D, Rosenwald A, Staudt LM, Albertson DG, Du MQ, Ye
+  H, Marynen P, Garcia-Conde J, Pinkel D, Dyer MJ and Martinez-Climent JA.
+contact:
+  email: mjsd1@leicester.ac.uk
+  name: Martin Dyer
+counts:
+  biosamples: 42
+  samples_acgh: 42
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12560219
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.38
+    - 39.47
+    type: Point
+  info:
+    city: Valencia
+    continent: Europe
+    country: Spain
+    label: Valencia, Spain, Europe
+    precision: city
+journal: 'Blood 101, 11 (2003): 4539-46.'
+label: 'Sanchez-Izquierdo et al. (2003): Malt1 is Deregulated By Both Chromosomal
+  Translocation and Amplification in B-Cell ...'
+notes: ~
+pmid: 12560219
+title: Malt1 is Deregulated By Both Chromosomal Translocation and Amplification in
+  B-Cell Non-Hodgkin Lymphoma.
+year: 2003

@@ -1,0 +1,54 @@
+---
+abstract: "Small cell lung cancer (SCLC) is the most aggressive type of lung cancer.
+  Only 15% of SCLC patients survive beyond 2 years after diagnosis. Therefore, for
+  the improvement of patients' outcome in this disease, it is necessary to identify
+  genetic alterations applicable as therapeutic targets in SCLC cells. The purpose
+  of this study is the identification of genes frequently mutated and expressed in
+  SCLCs that will be targetable for therapy of SCLC patients. Exome sequencing was
+  performed in 28 primary tumors and 16 metastatic tumors from 38 patients with SCLCs.
+  Expression of mutant alleles was verified in 19 cases by RNA sequencing. TP53, RB1,
+  and PTEN were identified as being significantly mutated genes. Additional 36 genes
+  were identified as being frequently (â\x89¥10%) mutated in SCLCs by combining the
+  results of this study and two recent studies. Mutated alleles were expressed in
+  8 of the 36 genes, TMEM132D, SPTA1, VPS13B, CSMD2, ANK2, ASTN1, ASPM and FBN3. In
+  particular, the TMEM132D, SPTA1 and VPS13B genes were commonly mutated in both early
+  and late stage tumors, primary tumors and metastases, and tumors before and after
+  chemotherapy, as in the case of the TP53 and RB1 genes. In addition to TP53, RB1
+  and PTEN, TMEM132D, SPTA1 and VPS13B could be also involved in SCLC development,
+  with the products from their mutated alleles being potential therapeutic targets
+  in SCLC patients.  Â© The Author 2015. Published by Oxford University Press. All
+  rights reserved. For Permissions, please email: journals.permissions@oup.com."
+authors: Iwakawa R, Kohno T, Totoki Y, Shibata T, Tsuchihara K, Mimaki S, Tsuta K,
+  Natita Y, Nishikawa R, Noguchi M, Harris CC, Roble AI, Yamaguchi R, Imoto S, Miyano
+  S, Totsuka H, Yoshida T and Yokota J
+contact:
+  email: jyokota@ncc.go.jp
+  name: J Yokota
+counts:
+  biosamples: 44
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 44
+  samples_wgs: 0
+external_identifiers:
+- pubmed:25863124
+geo_data:
+  geo_json:
+    coordinates:
+    - 139.69
+    - 35.69
+    type: Point
+  info:
+    city: Tokyo
+    continent: Asia
+    country: Japan
+    label: Tokyo, Japan, Asia
+    precision: city
+journal: Carcinogenesis, 2015
+label: 'Iwakawa et al. (): Expression and Clinical Significance of Genes Frequently
+  Mutated in Small Cell Lung Cancers Defined ...'
+notes: ~
+pmid: 25863124
+title: Expression and Clinical Significance of Genes Frequently Mutated in Small Cell
+  Lung Cancers Defined by Whole Exome/RNA Sequencing.
+year: 2015

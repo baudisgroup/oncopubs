@@ -1,0 +1,45 @@
+---
+abstract: We compared whole genomic changes in cell lines generated from esophageal
+  squamous cell carcinoma ESCC and esophageal adenocarcinoma EAC . To do so, we investigated
+  chromosomal DNA copy number changes in four EAC cell lines and three ESCC cell lines
+  using comparative genomic hybridization CGH . Frequent gains of chromosome 5p, 8q,
+  and 20q occurred in both ESCC and EAC cell lines, but gains of 3q, 5q, and 9q were
+  mainly seen in ESCC cell lines gain of chromosome 10q25-qtel was mainly seen in
+  EAC cell lines. It was noticeable that 18q12 loss existed in 2 EAC and 1 ESCC cell
+  lines in our study. The chromosomal abnormalities common to all of the cell lines
+  may help to identify candidate genes related to both EAC and ESCC. The chromosome
+  aberrations mainly seen in either EAC or ESCC cell lines are in keeping with their
+  known different etiology and may lead to the identification of genes important for
+  disease specific pathogenesis.
+authors: Su M, Chin SF, Li XY, Edwards P, Caldas C and Fitzgerald RC.
+contact:
+  email: minsu@stu.edu.cn
+  name: Min Su
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16364037
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.71
+    - 23.37
+    type: Point
+  info:
+    city: Shantou
+    continent: Asia
+    country: China
+    label: Shantou, China, Asia
+    precision: city
+journal: 'Dis Esophagus 19, 1 (2006): 10-14.'
+label: 'Su et al. (2006): Comparative Genomic Hybridization of Esophageal Adenocarcinoma
+  and Squamous Cell Carcinoma Cell ...'
+notes: ~
+pmid: 16364037
+title: Comparative Genomic Hybridization of Esophageal Adenocarcinoma and Squamous
+  Cell Carcinoma Cell Lines.
+year: 2006

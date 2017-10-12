@@ -1,0 +1,52 @@
+---
+abstract: Squamous cell carcinoma of the vulva is a disease of significant clinical
+  importance, which arises in the presence or absence of human papillomavirus. We
+  used comparative genomic hybridisation to document non-random chromosomal gains
+  and losses within human papillomavirus positive and negative vulvar cancers. Gain
+  of 3q was significantly more common in human papillomavirus-positive cancers compared
+  to human papillomavirus-negative cancers. The smallest area of gain was 3q22-25,
+  a chromosome region which is frequently gained in other human papillomavirus-related
+  cancers. Chromosome 8q was more commonly gained in human papillomavirus-negative
+  compared to human papillomavirus-positive cancers. 8q21 was the smallest region
+  of gain, which has been identified in other, non-human papillomavirus-related cancers.
+  Chromosome arms 3p and 11q were lost in both categories of vulvar cancer. This study
+  has demonstrated chromosome locations important in the development of vulvar squamous
+  cell carcinoma. Additionally, taken together with previous studies of human papillomavirus-positive
+  cancers of other anogenital sites, the data indicate that one or more oncogenes
+  important in the development and progression of human papillomavirus-induced carcinomas
+  are located on 3q. The different genetic changes seen in human papillomavirus-positive
+  and negative vulvar squamous cell carcinomas support the clinicopathological data
+  indicating that these are different cancer types.
+authors: Allen DG, Hutchins AM, Hammet F, White DJ, Scurry JP, Tabrizi SN, Garland
+  SM and Armes JE.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11953825
+geo_data:
+  geo_json:
+    coordinates:
+    - 144.96
+    - -37.81
+    type: Point
+  info:
+    city: Melbourne
+    continent: Australia
+    country: Australia
+    label: Melbourne, Australia, Australia
+    precision: city
+journal: 'Br J Cancer (2002) 86: 924-928.'
+label: 'Allen et al. (2002): Genetic aberrations detected by comparative genomic hybridisation
+  in vulvar cancers.'
+notes: ~
+pmid: 11953825
+title: Genetic aberrations detected by comparative genomic hybridisation in vulvar
+  cancers.
+year: 2002

@@ -1,0 +1,55 @@
+---
+abstract: 'In vivo response to initial therapy, as assessed by determination of minimal
+  residual disease MRD after 5 and 12 weeks of treatment, has evolved as a strong
+  prognostic factor in children with acute lymphoblastic leukemia ALL treated according
+  to the BFM regime. Individual treatment response may be influenced by copy number
+  alterations CNA leading to altered gene expression. We aimed to evaluate CNA using
+  high-resolution array-comparative genomic hybridization array-CGH in different treatment-response
+  groups. Leukemic genomic profiles of 25 standard risk MRD-SR and 25 high risk MRD-HR
+  patients were compared. CNAs were found in 46 50 patients 92 . The most significant
+  difference was a gain of 1q23-qter because of an unbalanced t 1 19 , found in 10
+  25 MRD-SR patients, but in none of the MRD-HR patients P amp lt 0.001 . The most
+  frequent CNAs in the MRD-HR group were deletions of genomic regions harboring the
+  immunoglobulin genes Ig , e.g., 2p11.2 in 60 of MRD-HR compared to 28 of MRD-SR
+  P 0.045 . Combining all Ig loci, significantly more MRD-HR than MRD-SR patients
+  displayed deletions 17:8 patients, P 0.02 . Frequency of other CNAs, such as loss
+  of 9p21 or gains of 21q, did not differ strongly between the two patient groups.
+  This is the first study evaluating the clinical significance of CNA as detected
+  by array-CGH in childhood ALL and the first to suggest that such analyses may provide
+  clinically important data. This article contains supplementary material available
+  via the Internet at http: www.interscience.wiley.com jpages 1045-2257 suppmat.'
+authors: Steinemann D, Cario G, Stanulla M, Karawajew L, Tauscher M, Weigmann A, Gohring
+  G, Ludwig WD, Harbott J, Radlwimmer B, Bartram C, Lichter P, Schrappe M and Schlegelberger
+  B.
+contact:
+  email: steinemann.doris@mh-hannover.de
+  name: Doris Steinemann
+counts:
+  biosamples: 50
+  samples_acgh: 50
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18311775
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 6 (2008): 471-80.'
+label: 'Steinemann et al. (2008): Copy Number Alterations in Childhood Acute Lymphoblastic
+  Leukemia and Their Association With ...'
+notes: The data was taken from the ISCN annotations in the supplements. However, log2
+  data is provided there, too.
+pmid: 18311775
+title: Copy Number Alterations in Childhood Acute Lymphoblastic Leukemia and Their
+  Association With Minimal Residual Disease.
+year: 2008

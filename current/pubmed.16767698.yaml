@@ -1,0 +1,56 @@
+---
+abstract: To clarify the genetic pathway s involved in the development and progression
+  of oral squamous cell carcinoma OSCC , as well as the relationship between genetic
+  aberrations and biological characteristics of OSCC tumours, comparative genomic
+  hybridization was used to analyse genetic alterations in both primary OSCCs and
+  adjacent dysplastic lesions of the same biopsy specimens from 35 patients. Gain
+  of 8q22-23 was the most frequent alteration in both OSCC and mild dysplasia, and
+  was considered the earliest event in the process of oral tumourigenesis. The average
+  number of DNA sequence copy number aberrations DSCNAs increased with progression
+  from mild dysplasia to invasive carcinoma r 0.737, n 70, p amp lt 0.001 . OSCC samples
+  were classified as having a large or small number of DSCNAs OSCC-L, 21.4 - 4.7 DSCNAs
+  or OSCC-S, 10.0 - 1.7 DSCNAs, respectively p amp lt 0.0001 . Gains of 3q26-qter,
+  8q, 11q13, 14q, and 20q and losses of 4q, 5q12-22, 6q, 8p, 13q, and 18q22-qter were
+  common to OSCC-L and OSCC-S. Gains of 5p15, 7p, 17q11-22, and 18p and losses of
+  3p14-21, 4p, and 9p were detected exclusively in OSCC-L. The average number of DSCNAs
+  depended on whether the samples showed OSCC- L or dysplasia plus OSCC-L, or showed
+  OSCC-S or dysplasia plus OSCC-S p 0.001 . Gain of 5p15 and losses of 4p and 9p were
+  detected even in dysplastic lesions adjacent to OSCC-L samples. Loss of 4p was associated
+  with node metastasis by multivariate analysis p 0.013 . OSCC-L tumours were more
+  often T3-T4 stage tumours than T1-T2 stage tumours p 0.03 . These findings suggest
+  that two different types of OSCC, OSCC-L associated with high-stage cancer and OSCC-S
+  associated with low-stage cancer, arise from different types of dysplasia via different
+  genetic pathways.
+authors: Noutomi Y, Oga A, Uchida K, Okafuji M, Ita M, Kawauchi S, Furuya T, Ueyama
+  Y and Sasaki K.
+contact:
+  email: kohsuke@yamaguchi-u.ac.jp
+  name: Kohsuke Sasaki
+counts:
+  biosamples: 70
+  samples_acgh: 0
+  samples_ccgh: 70
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16767698
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'J Pathol 210, 1 (2006): 67-74.'
+label: 'Noutomi et al. (2006): Comparative Genomic Hybridization Reveals Genetic Progression
+  of Oral Squamous Cell Carcinoma ...'
+notes: ~
+pmid: 16767698
+title: Comparative Genomic Hybridization Reveals Genetic Progression of Oral Squamous
+  Cell Carcinoma From Dysplasia Via Two Different Tumourigenic Pathways.
+year: 2006

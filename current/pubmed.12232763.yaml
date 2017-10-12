@@ -1,0 +1,46 @@
+---
+abstract: Twenty-five primary retinoblastoma tumours were analysed by real-time quantitative
+  polymerase chain reaction to determine the genomic copy number of the N-MYC gene
+  2p24 relative to the copy number for REL, B2M, ALB, AF10 and MLL. Twenty-one of
+  these tumours were shown by Comparative Genomic Hybridization to contain variable
+  copy number increases of chromosomal material mapping to 2p. High level amplification
+  amp gt 30-fold of N-MYC was found in three tumours, none of which showed adverse
+  histological features and all patients are surviving at between 54 and 108 months
+  post enucleation. Furthermore, the three tumours associated with metastasis and
+  adverse patient outcome showed normal N-MYC copy number. Although high level amplification
+  of N-MYC is an unfavourable prognostic indicator in neuroblastoma, these data show
+  no evidence of a correlation between amplification of N-MYC and adverse outcome
+  in retinoblastoma.
+authors: Lillington DM, Goff LK, Kingston JE, Onadim Z, Price E, Domizio P and Young
+  BD.
+contact:
+  email: d.lillington@cancer.org.uk
+  name: D. Lillington
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12232763
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Br J Cancer 87, 7 (2002): 779-82.'
+label: 'Lillington et al. (2002): High Level Amplification of N-Myc is Not Associated
+  With Adverse Histology Or Outcome in ...'
+notes: ~
+pmid: 12232763
+title: High Level Amplification of N-Myc is Not Associated With Adverse Histology
+  Or Outcome in Primary Retinoblastoma Tumours.
+year: 2002

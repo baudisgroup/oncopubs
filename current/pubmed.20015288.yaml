@@ -1,0 +1,49 @@
+---
+abstract: Meningiomas are one of the most common adult brain tumors. For most patients,
+  surgical excision is curative. However, up to 20 recur. Currently, the molecular
+  determinants predicting recurrence and malignant transformation are lacking. We
+  performed retrospective global genetic and genomic analysis of 85 meningioma samples
+  of various grades. Copy number alterations were assessed by 100K single-nucleotide
+  polymorphism arrays and correlated with gene expression, proliferation indices and
+  clinical outcome. In addition to chromosome 22q loss, which was detected in the
+  majority of clinical samples, chromosome 6q and 14q loss was significantly more
+  common in recurrent tumors and was associated with anaplastic histology. Five classes
+  of meningiomas were detected by gene expression analysis that correlated with copy
+  number alterations, recurrent status and malignant histology. These classes more
+  accurately identified recurrent tumors relative to Ki-67 index and extent of surgical
+  resection, and highlight substantial expression heterogeneity between meningiomas.
+  These data offer the most complete description of the genomic landscape of meningiomas,
+  and provide broad genomic information that may be used to further stratify meningioma
+  patients into prognostic risk groups.
+authors: Lee Y, Liu J, Patel S, Cloughesy T, Lai A, Farooqi H, Seligson D, Dong J,
+  Liau L, Becker D, Mischel P, Shams S and Nelson S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 85
+  samples_acgh: 85
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20015288
+- geo:GSE16583
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Brain Pathol (2010) 20: 751-762.'
+label: 'Lee et al. (2010): Genomic landscape of meningiomas.'
+notes: ~
+pmid: 20015288
+title: Genomic landscape of meningiomas.
+year: 2010

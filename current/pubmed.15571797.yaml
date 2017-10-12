@@ -1,0 +1,57 @@
+---
+abstract: 'In cancer biology, cell lines are often used instead of primary tumors
+  because of their widespread availability and close reflection of the in vivo state.
+  Cancer is a genetic disease, commonly caused by small- and large-scale DNA rearrangements.
+  Therefore, it is essential to know the genomic profiles of tumor cell lines to enable
+  their correct and efficient use as experimental tools. Here, we present a comprehensive
+  study of the genomic profiles of 20 colon cancer cell lines combining conventional
+  karyotyping G-banding , comparative genomic hybridization CGH , and multicolor fluorescence
+  in situ hybridization M-FISH . Major differences between the microsatellite instability
+  MSI and chromosome instability CIN cell lines are shown the CIN cell lines exhibited
+  complex karyotypes involving many chromosomes mean: 8.5 copy number changes , whereas
+  the MSI cell lines showed considerably fewer aberrations mean: 2.6 . The 3 techniques
+  complement each other to provide a detailed picture of the numerical and structural
+  chromosomal changes that characterize cancer cells. Therefore, 7 of the cell lines
+  Colo320, EB, Fri, IS2, IS3, SW480, and V9P are here completely karyotyped for the
+  first time and, among these, 5 have not previously been cytogenetically described.
+  By hierarchical cluster analysis, we show that the cell lines are representative
+  models for primary carcinomas at the genome level. We also present the genomic profiles
+  of an experimental model for tumor progression, including 3 cell lines IS1, IS2,
+  and IS3 established from a primary carcinoma, its corresponding liver- and peritoneal
+  metastasis from the same patient. To address the question of clonality, we compared
+  the genome of 3 common cell lines grown in 2 laboratories. Finally, we compared
+  all our results with previously published CGH data and karyotypes of colorectal
+  cell lines. In conclusion, the large variation in genetic complexity of the cell
+  lines highlights the importance of a comprehensive reference of genomic profiles
+  for investigators engaged in functional studies using these research tools.'
+authors: Kleivi K, Teixeira MR, Eknaes M, Diep CB, Jakobsen KS, Hamelin R and Lothe
+  RA.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 23
+  samples_acgh: 0
+  samples_ccgh: 23
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15571797
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 155, 2 (2004): 119-31.'
+label: 'Kleivi et al. (2004): Genome Signatures of Colon Carcinoma Cell Lines.'
+notes: ~
+pmid: 15571797
+title: Genome Signatures of Colon Carcinoma Cell Lines.
+year: 2004

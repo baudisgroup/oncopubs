@@ -1,0 +1,45 @@
+---
+abstract: We screened 124 genes that are amplified in human hepatocellular carcinoma
+  HCC using a mouse hepatoblast model and identified 18 tumor-promoting genes, including
+  CCND1 and its neighbor on 11q13.3, FGF19. Although it is widely assumed that CCND1
+  is the main driving oncogene of this common amplicon 15 frequency in HCC , both
+  forward-transformation assays and RNAi-mediated inhibition in human HCC cells established
+  that FGF19 is an equally important driver gene in HCC. Furthermore, clonal growth
+  and tumorigenicity of HCC cells harboring the 11q13.3 amplicon were selectively
+  inhibited by RNAi-mediated knockdown of CCND1 or FGF19, as well as by an anti-FGF19
+  antibody. These results show that 11q13.3 amplification could be an effective biomarker
+  for patients most likely to respond to anti-FGF19 therapy.
+authors: Sawey ET, Chanrion M, Cai C, Wu G, Zhang J, Zender L, Zhao A, Busuttil RW,
+  Yee H, Stein L, French DM, Finn RS, Lowe SW and Powers S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 100
+  samples_acgh: 100
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21397858
+- geo:GSE22916
+geo_data:
+  geo_json:
+    coordinates:
+    - -73.47
+    - 40.86
+    type: Point
+  info:
+    city: Cold Spring Harbor
+    continent: North America
+    country: United States
+    label: Cold Spring Harbor, United States, North America
+    precision: city
+journal: 'Cancer Cell (2011) 19: 347-358.'
+label: 'Sawey et al. (2011): Identification of a therapeutic strategy targeting amplified
+  FGF19 in liver cancer by Oncogenomic ...'
+notes: ~
+pmid: 21397858
+title: Identification of a therapeutic strategy targeting amplified FGF19 in liver
+  cancer by Oncogenomic screening.
+year: 2011

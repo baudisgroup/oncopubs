@@ -1,0 +1,49 @@
+---
+abstract: To gain molecular insights of HBV integration that may contribute to HCC
+  tumorigenesis, we performed whole transcriptome sequencing and whole genome copy
+  number profiling of hepatocellular carcinoma (HCC) samples from 50 Chinese patients.
+  We identified a total of 33 HBV-human integration sites in 16 of 44 HBV-positive
+  HCC tissues, which were enriched in HBV genotype C-infected patients. In addition,
+  significantly recurrent HBV-MLL4 integration (18%; 8/44) was found in this cohort
+  of patients. Using long-range PCR and Sanger sequencing, we comprehensively characterized
+  gDNA and cDNA sequences that encode for the HBV-MLL4 transcripts, and we revealed
+  that HBV integration into MLL4 exons led to much higher mRNA expression of MLL4
+  than the integration into MLL4 introns due to an alternative splicing mechanism.
+  Moreover, the HBV-MLL4 integration occurred almost exclusively in CTNNB1 and TP53
+  wild-type patients. The integration was also associated with a distinct gene expression
+  profile. In conclusion, this is the first report on the molecular basis of the MLL4
+  integration driving MLL4 over-expression. HBV-MLL4 integration occurred frequently
+  in Chinese HCC patients, representing a unique molecular segment for HCC with HBV
+  infection.
+authors: Dong H, Zhang L, Qian Z, Zhu X, Zhu G, Chen Y, Xie X, Ye Q, Zang J, Ren Z
+  and Ji Q
+contact:
+  email: ren.zhenggang@zs-hospital.sh.cn
+  name: Zhenggang Ren
+counts:
+  biosamples: 50
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 50
+external_identifiers:
+- pubmed:25901726
+geo_data:
+  geo_json:
+    coordinates:
+    - 121.46
+    - 31.22
+    type: Point
+  info:
+    city: Shanghai
+    continent: Asia
+    country: China
+    label: Shanghai, China, Asia
+    precision: city
+journal: PLoS ONE 10(4), 2015
+label: 'Dong H et al. (2015): '
+notes: ~
+pmid: 25901726
+title: Identification of HBV-MLL4 Integration and Its Molecular Basis in Chinese Hepatocellular
+  Carcinoma.
+year: 2015

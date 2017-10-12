@@ -1,0 +1,49 @@
+---
+abstract: Unique and shared cytogenetic abnormalities have been documented for marginal
+  zone lymphomas MZLs arising at different sites. Recently, homozygous deletions of
+  the chromosomal band 6q23, involving the tumor necrosis factor alpha-induced protein
+  3 TNFAIP3, A20 gene, a negative regulator of NF-kappaB, were described in ocular
+  adnexal MZL, suggesting a role for A20 as a tumor suppressor in this disease. Here,
+  we investigated inactivation of A20 by DNA mutations or deletions in a panel of
+  extranodal MZL EMZL , nodal MZL NMZL , and splenic MZL SMZL . Inactivating mutations
+  encoding truncated A20 proteins were identified in 6 19 of 32 MZLs, including 2
+  18 of 11 EMZLs, 3 33 of 9 NMZLs, and 1 8 of 12 SMZLs. Two additional unmutated nonsplenic
+  MZLs also showed monoallelic or biallelic A20 deletions by fluorescent in situ hybridization
+  FISH and or SNP-arrays. Thus, A20 inactivation by either somatic mutation and or
+  deletion represents a common genetic aberration across all MZL subtypes, which may
+  contribute to lymphomagenesis by inducing constitutive NF-kappaB activation.
+authors: Novak U, Rinaldi A, Kwee I, Nandula SV, Rancoita PM, Compagno M, Cerri M,
+  Rossi D, Murty VV, Zucca E, Gaidano G, Dalla-Favera R, Pasqualucci L, Bhagat G and
+  Bertoni F.
+contact:
+  email: gb96@columbia.edu
+  name: Govind Bhagat
+counts:
+  biosamples: 32
+  samples_acgh: 32
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19258598
+- geo:GSE13989
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Blood 113, 20 (2009): 4918-21.'
+label: 'Novak et al. (2009): The Nf- Kappa B Negative Regulator Tnfaip3 (A20) is Inactivated
+  By Somatic Mutations and Genomic ...'
+notes: ~
+pmid: 19258598
+title: The Nf- Kappa B Negative Regulator Tnfaip3 (A20) is Inactivated By Somatic
+  Mutations and Genomic Deletions in Marginal Zone Lymphomas.
+year: 2009

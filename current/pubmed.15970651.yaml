@@ -1,0 +1,37 @@
+---
+abstract: The genetic mechanisms underlying the development and progression of lung
+  squamous cell carcinoma SCC , the major subtype of non-small cell lung cancer, are
+  still unknown. To better understand this disease, we studied the association between
+  genetic alterations and the progression of lung SCC.
+authors: Yan W, Song L, Liang Q and Fang Y.
+contact:
+  email: ~
+  name: W. Yan
+counts:
+  biosamples: 39
+  samples_acgh: 0
+  samples_ccgh: 39
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15970651
+geo_data:
+  geo_json:
+    coordinates:
+    - 113.25
+    - 23.12
+    type: Point
+  info:
+    city: Guangzhou
+    continent: Asia
+    country: China
+    label: Guangzhou, China, Asia
+    precision: city
+journal: 'Tumour Biol 26, 3 (2005): 158-64.'
+label: 'Yan et al. (2005): Progression Analysis of Lung Squamous Cell Carcinomas By
+  Comparative Genomic Hybridization.'
+notes: ~
+pmid: 15970651
+title: Progression Analysis of Lung Squamous Cell Carcinomas By Comparative Genomic
+  Hybridization.
+year: 2005

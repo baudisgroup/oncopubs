@@ -1,0 +1,55 @@
+---
+abstract: A study was undertaken to correlate telomere dysfunction and genomic instability
+  with the histopathological grades and the estrogen and progesterone receptor status
+  in breast cancer. Sixty-one archived breast tissues 38 cancer tissues and 23 paired
+  normal tissues were used in the study. The breast tumor tissues showed significantly
+  shorter telomeres 7.7 kb compared with the paired adjacent tissues 9.0 kb by Southern
+  blot analysis. Moreover, telomere shortening was more significant in Grade III tumors
+  than in the Grade II tumors P 0.05 . Quantitative fluorescence in situ hybridization
+  on paraffin tissue sections revealed a similar trend in telomere shortening. Telomere
+  attrition was associated with telomere dysfunction as revealed by the presence of
+  significantly higher anaphase bridges in tumor cells which was tumor grade dependent.
+  Furthermore, estrogen receptive negative tumors displayed higher anaphase and internuclear
+  bridges. Selected samples from each grade showed greater genomic imbalances in the
+  higher grades than the lower grade tumors as detected by array-comparative genomic
+  hybridization. Telomerase activity was found to be higher in the higher grades Grade
+  II and III compared with the lower grade Grade I . The average mRNA expression of
+  TRF1 and POT1 was lower in the tumor tissues than in the normal tissues. Tankyrase
+  1 mRNA expression showed a grade-dependent increase in tumor tissues and its expression
+  was also high in estrogen and progesterone negative tumors. The data support the
+  notion that telomere dysfunction might be of value as a marker of aggressiveness
+  of the tumors in breast cancer patients.
+authors: Poonepalli A, Banerjee B, Ramnarayanan K, Palanisamy N, Putti TC and Hande
+  MP.
+contact:
+  email: phsmph@nus.edu.sg
+  name: M. Prakash Hande
+counts:
+  biosamples: 38
+  samples_acgh: 38
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18720522
+geo_data:
+  geo_json:
+    coordinates:
+    - 103.85
+    - 1.29
+    type: Point
+  info:
+    city: Singapore
+    continent: Asia
+    country: Singapore
+    label: Singapore, Singapore, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 47, 12 (2008): 1098-109.'
+label: 'Poonepalli et al. (2008): Telomere-Mediated Genomic Instability and the Clinico-Pathological
+  Parameters in Breast ...'
+notes: Neither the exact array type (besides ref. to Agilent; 44k was assumed ...)
+  nor case specific data were provided in the article.
+pmid: 18720522
+title: Telomere-Mediated Genomic Instability and the Clinico-Pathological Parameters
+  in Breast Cancer.
+year: 2008

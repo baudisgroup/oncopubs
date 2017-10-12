@@ -1,0 +1,52 @@
+---
+abstract: 'We describe a case of leukemic mantle cell lymphoma MCL with complex karyotype
+  and amplification of the CCND1 IGH fusion gene. Testing for the presence of t 11
+  14 , the hallmark of MCL, revealed multiple copies of the fusion signals. We therefore
+  conducted extensive molecular cytogenetic studies to delineate the nature and consequences
+  of such an abnormality. We localized the amplification to the der 14 t 11 14 and
+  to a der 2 chromosome in a form of interspersed chromosome 11 and 14 material. This
+  resulted in high expression of cyclin D1 mRNA and the protein expressed independently
+  of the cell cycle phase. CGH analysis revealed that the overrepresentation on chromosome
+  11 included chromosomal band 11q23 in addition to the CCND1 locus at 11q13. The
+  band 11q23 harbors the ataxia telangiectasia mutated ATM gene recently proposed
+  to be involved in the pathogenesis of MCL with high incidence of deletions in this
+  locus. Using YAC 801e11, containing the ATM gene, we demonstrated several hybridization
+  signals, suggesting that this region also formed part of the amplicon. This case
+  also showed TP53 gene abnormalities: protein expression, monoallelic deletion, and
+  a mutation in exon 5. The clinical course was aggressive, and the patient died within
+  6 months of presentation. This is to our knowledge the first description of amplification
+  of the CCND1 IGH fusion gene in a human neoplasm, which may have played a role in
+  the fulminating course of the disease in this patient.'
+authors: Gruszka-Westwood AM, Atkinson S, Summersgill BM, Shipley J, Elnenaei MO,
+  Jain P, Hamoudi RA, Kaeda JS, Wotherspoon AC, Matutes E and Catovsky D.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 1
+  samples_acgh: 0
+  samples_ccgh: 1
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11793447
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 33, 2 (2002): 206-12.'
+label: 'Gruszka-Westwood et al. (2002): Unusual Case of Leukemic Mantle Cell Lymphoma
+  With Amplified Ccnd1/Igh Fusion ...'
+notes: ~
+pmid: 11793447
+title: Unusual Case of Leukemic Mantle Cell Lymphoma With Amplified Ccnd1/Igh Fusion
+  Gene.
+year: 2002

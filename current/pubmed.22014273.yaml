@@ -1,0 +1,41 @@
+---
+abstract: Structural rearrangements form a major class of somatic variation in cancer
+  genomes. Local chromosome shattering, termed chromothripsis, is a mechanism proposed
+  to be the cause of clustered chromosomal rearrangements and was recently described
+  to occur in a small percentage of tumors. The significance of these clusters for
+  tumor development or metastatic spread is largely unclear.
+authors: Kloosterman WP, Hoogstraat M, Paling O, Tavakoli-Yaraki M, Renkens I, Vermaat
+  JS, van Roosmalen MJ, van Lieshout S, Nijman IJ, Roessingh W, van t Slot R, van
+  de Belt J, Guryev V, Koudijs M, Voest E and Cuppen E.
+contact:
+  email: ~
+  name: Edwin Cuppen
+counts:
+  biosamples: 8
+  samples_acgh: 8
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22014273
+- geo:GSE32711
+geo_data:
+  geo_json:
+    coordinates:
+    - 5.11
+    - 52.09
+    type: Point
+  info:
+    city: Utrecht
+    continent: ~
+    country: The Netherlands
+    label: Utrecht, The Netherlands
+    precision: city [needs verification]
+journal: 'Genome Biol 12, 10 (2011): R103.'
+label: 'Kloosterman et al. (2011): Chromothripsis is a Common Mechanism Driving Genomic
+  Rearrangements in Primary and Metastatic ...'
+notes: ~
+pmid: 22014273
+title: Chromothripsis is a Common Mechanism Driving Genomic Rearrangements in Primary
+  and Metastatic Colorectal Cancer.
+year: 2011

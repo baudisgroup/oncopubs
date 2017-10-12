@@ -1,0 +1,53 @@
+---
+abstract: Peripheral nerve sheath tumors arise either sporadically or in association
+  with neurofibromatosis type 1 von Recklinghausens neurofibromatosis, NF1 or type
+  2. In this study, comprehensive screening for relative chromosome copy number changes
+  was performed on 10 benign and 19 malignant peripheral nerve sheath tumors MPNSTs
+  by applying comparative genomic hybridization CGH . In benign tumors, no chromosomal
+  imbalances were found by CGH, whereas in MPNSTs chromosomal gains and losses were
+  frequently detected. No differences regarding the frequency and distribution of
+  chromosomal imbalances were observed between the 13 sporadic and 6 NF1-associated
+  MPNSTs analyzed. In both, the number of gains was significantly higher than the
+  number of losses, suggesting a predominant role of proto-oncogene activation during
+  MPNST progression. Candidate regions with potentially relevant proto-oncogenes included
+  chromosomal bands 17q24-q25, 7p11-p13, 5p15, 8q22-q24, and 12q21-q24 those with
+  putative tumor suppressor genes were 9p21-p24, 13q14-q22, and 1p. High-level amplifications
+  were restricted to sporadic tumors and affected eight different chromosomal subregions.
+  In three of these MPNSTs, identical subregions on chromosomal arms 5p and 12q were
+  coamplified. This study revealed a number of new characteristic chromosomal imbalances
+  and provides a basis for molecular identification of oncogenes and tumor suppressor
+  genes of pathogenetic relevance in both sporadic and NF1-associated MPNSTs. Genes
+  Chromosomes Cancer 25:362-369, 1999.
+authors: Mechtersheimer G, Otano-Joos M, Ohl S, Benner A, Lehnert T, Willeke F, Moller
+  P, Otto HF, Lichter P and Joos S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10398430
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.69
+    - 49.41
+    type: Point
+  info:
+    city: Heidelberg
+    continent: Europe
+    country: Germany
+    label: Heidelberg, Germany, Europe
+    precision: city
+journal: 'Genes Chromosomes Cancer 25, 4 (1999): 362-69.'
+label: 'Mechtersheimer et al. (1999): Analysis of Chromosomal Imbalances in Sporadic
+  and Nf1-Associated Peripheral Nerve Sheath ...'
+notes: ~
+pmid: 10398430
+title: Analysis of Chromosomal Imbalances in Sporadic and Nf1-Associated Peripheral
+  Nerve Sheath Tumors By Comparative Genomic Hybridization.
+year: 1999

@@ -1,0 +1,36 @@
+---
+abstract: To identify genetic alteration in primary sporadic nasopharyngeal carcinoma
+  NPC in Hunan.
+authors: Li Z, Wang L, Zhang X, Zhang L, Zhang B, Yu Y, Zeng Z, Zhou M, Huang W, Chen
+  Z, Chen S and Li G.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 18
+  samples_acgh: 0
+  samples_ccgh: 18
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11592038
+geo_data:
+  geo_json:
+    coordinates:
+    - 112.97
+    - 28.2
+    type: Point
+  info:
+    city: Changsha
+    continent: Asia
+    country: China
+    label: Changsha, China, Asia
+    precision: city
+journal: 'Zhonghua Yi Xue Yi Chuan Xue Za Zhi 18, 5 (2001): 338-42.'
+label: 'Li et al. (2001): [Chromosomal Aberration Analyzed By Comparative Genomic
+  Hybridization in Nasopharyngeal ...'
+notes: ~
+pmid: 11592038
+title: '[Chromosomal Aberration Analyzed By Comparative Genomic Hybridization in Nasopharyngeal
+  Carcinoma].'
+year: 2001

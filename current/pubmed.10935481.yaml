@@ -1,0 +1,53 @@
+---
+abstract: Rhabdomyosarcoma RMS in children occurs predominantly as two major histologically
+  defined subtypes called embryonal RMS RMS-E and the prognostically less favorable
+  alveolar RMS RMS-A . Comparative genomic hybridization CGH was performed on 21 RMS
+  and identified consistent gains affecting chromosomes 2 8 10 , 5 5 10 , 6 3 10 ,
+  7 7 10 , 8 9 10 , 11 6 10 , and 12 5 10 in RMS-E. Losses deletions involved chromosomes
+  19 2 10 and chromosomes 4, 9, 10, 17, 21 1 10 each . High copy number amplification,
+  involving the 2p24 region 5 11 and less frequently, the 12q13-21 2 11 , 9p22 1 11
+  , and 17q22-25 1 11 regions, was detected in RMS-A. Gene amplification at band 2p24
+  was present in 6 12 alveolar tumors, and in each case, MYCN was amplified, together
+  with the distally placed DDX1 gene. For these patients there was a shorter disease
+  free interval and a higher mortality than patients with tumors without amplification.
+  Detailed spectral karyotype analysis SKY was performed on two RMS cell lines one
+  of each subtype and identified a surprisingly high level of structural change. Gene
+  expression studies with the Atlas Human Cancer Array 588 genes showed that 153 genes
+  generated a signal of similar intensity in both cell lines, and 45 genes appeared
+  to have subtype-specific expression. The chromosomal location of differentially
+  expressed genes was compared to the pattern of genomic alteration in RMS as determined
+  by CGH in this study and the literature.
+authors: Pandita A, Zielenska M, Thorner P, Bayani J, Godbout R, Greenberg M and Squire
+  JA.
+contact:
+  email: ~
+  name: J. Squire
+counts:
+  biosamples: 21
+  samples_acgh: 0
+  samples_ccgh: 21
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10935481
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Neoplasia 1, 3 (1999): 262-75.'
+label: 'Pandita et al. (1999): Application of Comparative Genomic Hybridization, Spectral
+  Karyotyping, and Microarray Analysis ...'
+notes: ~
+pmid: 10935481
+title: Application of Comparative Genomic Hybridization, Spectral Karyotyping, and
+  Microarray Analysis in the Identification of Subtype-Specific Patterns of Genomic
+  Changes in Rhabdomyosarcoma.
+year: 1999

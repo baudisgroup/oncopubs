@@ -1,0 +1,41 @@
+---
+abstract: To obtain more information on chromosomal changes in the up-to-now poorly
+  studied tumor class of penile squamous cell carcinoma SCC , we performed a comparative
+  genomic hybridization study of 26 cases of this rare tumor. DNA sequence copy number
+  alterations CNAs very similar to those detected in other SCC types, such as oral
+  and esophageal SCC, were noted. The most common copy number gains were found in
+  8q24, 16p11-12, 20q11-13, 22q, 19q13, and 5p15, and the most common deletions were
+  detected in 13q21-22, 4q21-32, and along the X chromosome. Classifying the patients
+  according to the number of CNAs showed a possible correlation with clinical outcome.
+authors: Alves G, Heller A, Fiedler W, Campos MM, Claussen U, Ornellas AA, and Liehr
+  T.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 26
+  samples_acgh: 0
+  samples_ccgh: 26
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11284035
+geo_data:
+  geo_json:
+    coordinates:
+    - -43.21
+    - -22.9
+    type: Point
+  info:
+    city: Rio de Janeiro
+    continent: South America
+    country: Brazil
+    label: Rio de Janeiro, Brazil, South America
+    precision: city
+journal: Genes Chromosomes Cancer, 31(1) 2001, 48-53.
+label: 'Alves et al. (2001): Genetic imbalances in 26 cases of penile squamous cell
+  carcinoma.'
+notes: ~
+pmid: 11284035
+title: Genetic imbalances in 26 cases of penile squamous cell carcinoma.
+year: 2001

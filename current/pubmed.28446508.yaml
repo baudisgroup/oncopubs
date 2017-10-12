@@ -1,0 +1,58 @@
+---
+abstract: 'Purpose: Little is known about the molecular signatures associated with
+  specific metastatic sites in breast cancer. Using comprehensive multi-omic molecular
+  profiling, we assessed whether alterations or activation of the PI3K-AKT-mTOR pathway
+  is associated with specific sites of breast cancer metastasis. <p>Experimental Design:
+  NGS-based whole exome sequencing was coupled with Reverse Phase Protein Microarray
+  (RPPA) functional signaling network analysis to explore the PI3K-AKT-mTOR axis in
+  32 pretreated breast cancer metastases. RPPA-based signaling data were further validated
+  in an independent cohort of 154 metastatic lesions from breast cancer and 101 un-matched
+  primary breast tumors. The proportion of cases with PI3K-AKT-mTOR genomic alterations
+  or signaling network activation were compared between hepatic and non-hepatic lesions.</p>
+  <p>Results:PIK3CA mutation and activation of AKT (S473) and p70S6K (T389) were detected
+  more frequently among liver metastases than non-hepatic lesions (p<0.01, p=0.056,
+  and p=0.053 respectively). However, PIK3CA mutations alone were insufficient in
+  predicting protein activation (p=0.32 and p=0.19 for activated AKT and p70S6K respectively).
+  RPPA analysis of an independent cohort of 154 tumors confirmed the relationship
+  between pathway activation and hepatic metastasis (AKT (S473), mTOR (S2448), and
+  4EBP1 (S65); p<0.01, p=0.02, and p=0.01 respectively). Similar results were also
+  seen between liver metastases and primary breast tumors (AKT (S473) p<0.01, mTOR
+  (S2448) p<0.01, 4EBP1 (S65) p=0.01). This signature was lost when primary tumors
+  were compared to all metastatic sites combined.</p> <p>Conclusions: Breast cancer
+  patients with liver metastasis may represent a molecularly homogenized cohort with
+  increased incidence of PIK3CA mutations and activation of the PI3K-AKT-mTOR signaling
+  network.'
+authors: Pierobon M, Ramos C, Wong S, Hodge KA, Aldrich J, Byron SA, Anthony SP, Robert
+  NJ, Northfelt DW, Jahanzeb M, Vocila L, Wulfkuhle JD, Gambara G, Gallagher RI, Dunetz
+  B, Hoke N, Dong T, Craig DW, Cristofanilli M, Leyland Jones B, Liotta L, O'Shaughnessy
+  JA, Carpten JD, Petricoin EF.
+contact:
+  email: epetrico@gmu.edu
+  name: Emanuel F. Petricoin
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 0
+  samples_wes: 27
+  samples_wgs: 0
+external_identifiers:
+- pubmed:28446508
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.48
+    - 38.75
+    type: Point
+  info:
+    city: Manassas
+    continent: North America
+    country: United States
+    label: Manassas, United States, North America
+    precision: city
+journal: Clin. Cancer Res., 2017
+label: ' (2017): '
+notes: According to the text, 27 samples had WES results.
+pmid: 28446508
+title: Enrichment of PIK3-AKT-MTOR pathway activation in hepatic metastases from breast
+  cancer.
+year: 2017

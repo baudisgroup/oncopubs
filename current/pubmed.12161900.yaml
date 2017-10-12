@@ -1,0 +1,43 @@
+---
+abstract: Meningiomas are common tumors of the central nervous system. Although most
+  are benign tumors, approximately 10 show a histologic progression to a higher malignancy
+  grade similar to atypical GII and anaplastic GIII meningiomas. Monosomy 22q12 is
+  the most frequent genetic alteration detected in these tumors, but failure of detection
+  of 22q mutations in about 40 of tumors which are indistinguishable from meningiomas
+  with 22q deletions with respect to clinical and histopathologic features, makes
+  it apparent that an alternative mechanism is responsible for the initiation of meningioma.
+  Moreover, little is known about genetic alterations during malignant progression
+  of meningioma.
+authors: Arslantas A, Artan S, Oner U, Durmaz R, Muslumanoglu H, Atasoy MA, Basaran
+  N, and Tel E.
+contact:
+  email: ~
+  name: A. Arslantas
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12161900
+geo_data:
+  geo_json:
+    coordinates:
+    - 30.52
+    - 39.78
+    type: Point
+  info:
+    city: Eskisehir
+    continent: Europe
+    country: Turkey
+    label: Eskisehir, Turkey, Europe
+    precision: city
+journal: Acta Neurol Belg, 102(2) 2002, 53-62.
+label: 'Arslantas et al. (2002): Comparative genomic hybridization analysis of genomic
+  alterations in benign, atypical and ...'
+notes: ~
+pmid: 12161900
+title: Comparative genomic hybridization analysis of genomic alterations in benign,
+  atypical and anaplastic meningiomas.
+year: 2002

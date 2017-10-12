@@ -1,0 +1,40 @@
+---
+abstract: B-chronic lymphocytic leukemia B-CLL , the most common type of leukemia
+  in Western Europe and the United States, is characterized by clonal chromosomal
+  abnormalities detected in almost half of the studied patients. The precise determination
+  of chromosomal changes helps to indicate the prognosis and to understand the pathogenesis
+  of CLL.
+authors: Jarosova M, Jedlickova K, Holzerova M, Urbanova R, Papajik T, Raida L, Pikalova
+  Z, Lakoma I, Prekopova I, Kropackova J and Indrak K.
+contact:
+  email: marie.jarosova@fnol.cz
+  name: Marie Jarosova
+counts:
+  biosamples: 88
+  samples_acgh: 0
+  samples_ccgh: 88
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11441283
+geo_data:
+  geo_json:
+    coordinates:
+    - 17.25
+    - 49.6
+    type: Point
+  info:
+    city: Olomouc
+    continent: Europe
+    country: Czech Republic
+    label: Olomouc, Czech Republic, Europe
+    precision: city
+journal: 'Onkologie 24, 1 (2001): 60-65.'
+label: 'Jarosova et al. (2001): Contribution of Comparative Genomic Hybridization
+  and Fluorescence in Situ Hybridization to the ...'
+notes: ~
+pmid: 11441283
+title: Contribution of Comparative Genomic Hybridization and Fluorescence in Situ
+  Hybridization to the Detection of Chromosomal Abnormalities in B-Cell Chronic Lymphocytic
+  Leukemia.
+year: 2001

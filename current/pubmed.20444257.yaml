@@ -1,0 +1,41 @@
+---
+abstract: Neuroblastoma has successfully served as a model system for the identification
+  of neuroectoderm-derived oncogenes. However, in spite of various efforts, only a
+  few clinically useful prognostic markers have been found. Here, we present a framework,
+  which integrates DNA, RNA and tissue data to identify and prioritize genetic events
+  that represent clinically relevant new therapeutic targets and prognostic biomarkers
+  for neuroblastoma.
+authors: Wolf M, Korja M, Karhu R, Edgren H, Kilpinen S, Ojala K, Mousses S, Kallioniemi
+  A and Haapasalo H.
+contact:
+  email: ~
+  name: Maija Wolf
+counts:
+  biosamples: 2
+  samples_acgh: 2
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20444257
+- geo:GSE18144
+geo_data:
+  geo_json:
+    coordinates:
+    - 24.94
+    - 60.17
+    type: Point
+  info:
+    city: Helsinki
+    continent: Europe
+    country: Finland
+    label: Helsinki, Finland, Europe
+    precision: city
+journal: 'BMC Cancer 10 (2010): 181.'
+label: 'Wolf et al. (2010): Array-Based Gene Expression, Cgh and Tissue Data Defines
+  a 12q24 Gain in Neuroblastic Tumors With ...'
+notes: ~
+pmid: 20444257
+title: Array-Based Gene Expression, Cgh and Tissue Data Defines a 12q24 Gain in Neuroblastic
+  Tumors With Prognostic Implication.
+year: 2010

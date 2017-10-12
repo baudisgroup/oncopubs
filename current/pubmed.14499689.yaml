@@ -1,0 +1,49 @@
+---
+abstract: Desmoid tumors are benign neoplasms of the fibromatosis group. Data on their
+  acquired chromosomal changes are sparse and, therefore, we wanted to ascertain what
+  genomic losses and gains these tumors may have incurred. DNA was extracted from
+  a total of 26 formalin-fixed, paraffin-embedded desmoid tumors followed by comparative
+  genomic hybridization CGH and interphase fluorescence in situ hybridization I-FISH
+  analyses. Ten of 12 informative tumors were normal by CGH the two abnormal ones
+  had loss of chromosome 6 and loss of 6q and gain of chromosome 20, respectively.
+  I-FISH analyses with an alpha-satellite probe specific for chromosome 8 of 26 desmoids,
+  including one tumor that by karyotyping had i 8 q10 , showed no evident abnormalities.
+  An explanation for the relatively high frequency of genomically normal tumors by
+  CGH seen in this study may be sought in the fact that as many as 10 of the 12 informative
+  tumors were abdominal desmoids, a subset of tumors also previously found to exhibit
+  genomic changes only rarely. It is therefore possible that abdominal desmoids might
+  be non-neoplastic tumors or neoplastic tumors with genetic changes too small to
+  be discovered by CGH, whereas desmoid tumors from other locations exhibit detectable
+  genomic changes at a significantly higher frequency.
+authors: Brandal P, Micci F, Bjerkehagen B, Eknaes M, Larramendy M, Lothe RA, Knuutila
+  S and Heim S.
+contact:
+  email: sverre.heim@labmed.uio.no
+  name: Sverre Heim
+counts:
+  biosamples: 12
+  samples_acgh: 0
+  samples_ccgh: 12
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14499689
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 146, 1 (2003): 1-7.'
+label: 'Brandal et al. (2003): Molecular Cytogenetic Characterization of Desmoid Tumors.'
+notes: Only 12 tumors not published previously (Larramendy et al., PubMed 9739022)
+  were included.
+pmid: 14499689
+title: Molecular Cytogenetic Characterization of Desmoid Tumors.
+year: 2003

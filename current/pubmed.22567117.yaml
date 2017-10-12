@@ -1,0 +1,54 @@
+---
+abstract: Dense genotype data can be used to detect chromosome fragments inherited
+  from a common ancestor in apparently unrelated individuals. A disease-causing mutation
+  inherited from a common founder may thus be detected by searching for a common haplotype
+  signature in a sample population of patients. We present here FounderTracker, a
+  computational method for the genome-wide detection of founder mutations in cancer
+  using dense tumor SNP profiles. Our method is based on two assumptions. First, the
+  wild-type allele frequently undergoes loss of heterozygosity (LOH) in the tumors
+  of germline mutation carriers. Second, the overlap between the ancestral chromosome
+  fragments inherited from a common founder will define a minimal haplotype conserved
+  in each patient carrying the founder mutation. Our approach thus relies on the detection
+  of haplotypes with significant identity by descent (IBD) sharing within recurrent
+  regions of LOH to highlight genomic loci likely to harbor a founder mutation. We
+  validated this approach by analyzing two real cancer data sets in which we successfully
+  identified founder mutations of well-characterized tumor suppressor genes. We then
+  used simulated data to evaluate the ability of our method to detect IBD tracts as
+  a function of their size and frequency. We show that FounderTracker can detect haplotypes
+  of low prevalence with high power and specificity, significantly outperforming existing
+  methods. FounderTracker is thus a powerful tool for discovering unknown founder
+  mutations that may explain part of the "missing" heritability in cancer. This method
+  is freely available and can be used online at the FounderTracker website.
+authors: Letouzï¿½ E, Sow A, Petel F, Rosati R, Figueiredo BC, Burnichon N, Gimenez-Roqueplo
+  AP, Lalli E and de Reyniï¿½s A
+contact:
+  email: LetouzeE@ligue-cancer.net
+  name: Eric Letouze
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22567117
+- geo:GSE32204
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.35
+    - 48.85
+    type: Point
+  info:
+    city: Paris
+    continent: Europe
+    country: France
+    label: Paris, France, Europe
+    precision: city
+journal: PLoS ONE 7(5), 2012
+label: 'Letouzï¿½ E et al. (2012): '
+notes: ~
+pmid: 22567117
+title: Identity by descent mapping of founder mutations in cancer using high-resolution
+  tumor SNP data.
+year: 2012

@@ -1,0 +1,37 @@
+---
+abstract: Patients treated with opioid drugs for cancer pain experience different
+  relief responses, raising the possibility that genetic factors play a role in opioid
+  therapy outcome. In this study, we tested the hypothesis that genetic variations
+  may control individual response to opioid drugs in cancer patients.
+authors: Galvan A, Skorpen F, Klepstad P, Knudsen AK, Fladvad T, Falvella FS, Pigni
+  A, Brunelli C, Caraceni A, Kaasa S and Dragani TA.
+contact:
+  email: tommaso.dragani@istitutotumori.mi.it
+  name: Tommaso Dragani
+counts:
+  biosamples: 438
+  samples_acgh: 438
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21622719
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.19
+    - 45.46
+    type: Point
+  info:
+    city: Milano
+    continent: Europe
+    country: Italy
+    label: Milano, Italy, Europe
+    precision: city
+journal: 'Clin Cancer Res 17, 13 (2011): 4581-87.'
+label: 'Galvan et al. (2011): Multiple Loci Modulate Opioid Therapy Response for Cancer
+  Pain.'
+notes: ~
+pmid: 21622719
+title: Multiple Loci Modulate Opioid Therapy Response for Cancer Pain.
+year: 2011

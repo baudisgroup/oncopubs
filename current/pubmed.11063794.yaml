@@ -1,0 +1,46 @@
+---
+abstract: 'We examined homogenized tissue samples of biopsies from 19 astrocytomas
+  of different grades for genetic imbalances using comparative genomic hybridization
+  CGH : three astrocytomas grade II, and 16 astrocytomas grade IV glioblastoma multiforme
+  , one of the glioblastomas representing the recurrence of a benign oligoastrocytoma.
+  In two of three cases of astrocytoma grade II, a gain of chromosome 7 was found.
+  The alterations in the glioblastomas were complex, and most frequently showed the
+  characteristic gain of chromosome 7 and loss of chromosome 10. The single analyzed
+  case of recurrence of an oligoastrocytoma was characterized by a unique CGH pattern.
+  This tumor showed two distinct alterations: apart from an amplification on 15q24q26,
+  we found a distinct amplification of a small region on 20p11.2p12, which has not
+  been previously described in brain tumors. Partial or complete gains of chromosome
+  20 arose in six other tumors we conclude that chromosome 20 in particular 20p11.
+  2p12, may harbor relevant genes for glioma progression.'
+authors: Brunner C, Jung V, Henn W, Zang KD and Urbschat S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 19
+  samples_acgh: 0
+  samples_ccgh: 19
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11063794
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.34
+    - 49.33
+    type: Point
+  info:
+    city: Homburg
+    continent: Europe
+    country: Germany
+    label: Homburg, Germany, Europe
+    precision: city
+journal: 'Cancer Genet Cytogenet 121, 2 (2000): 124-27.'
+label: 'Brunner et al. (2000): Comparative Genomic Hybridization Reveals Recurrent
+  Enhancements on Chromosome 20 and in One Case ...'
+notes: ~
+pmid: 11063794
+title: Comparative Genomic Hybridization Reveals Recurrent Enhancements on Chromosome
+  20 and in One Case Combined Amplification Sites on 15q24q26 and 20p11p12 in Glioblastomas.
+year: 2000

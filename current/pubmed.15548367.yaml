@@ -1,0 +1,33 @@
+---
+abstract: ~
+authors: Brandal P, Bjerkehagen B, and Heim S.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15548367
+geo_data:
+  geo_json:
+    coordinates:
+    - 10.75
+    - 59.91
+    type: Point
+  info:
+    city: Oslo
+    continent: Europe
+    country: Norway
+    label: Oslo, Norway, Europe
+    precision: city
+journal: Neoplasia, 6(5) 2004, 578-83.
+label: 'Brandal et al. (2004): Molecular cytogenetic characterization of tenosynovial
+  giant cell tumors.'
+notes: ~
+pmid: 15548367
+title: Molecular cytogenetic characterization of tenosynovial giant cell tumors.
+year: 2004

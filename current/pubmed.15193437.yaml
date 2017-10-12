@@ -1,0 +1,54 @@
+---
+abstract: 'Mucoepidermoid carcinoma, the most common human malignant salivary gland
+  tumor, can arise from both major and minor salivary glands, including sites within
+  the pulmonary tracheobronchial tree. We performed comparative genomic hybridization
+  CGH and spectral karyotyping SKY on two tumor cell lines: H3118, derived from tumor
+  originating in the parotid gland, and H292, from tumor in the lung. In both cell
+  lines, CGH showed a partial gain within the short arm of chromosome 7 and SKY revealed
+  the presence of the previously reported reciprocal translocation t 11 19 q21 p12
+  . Additional chromosomal rearrangements were found in both cell lines, including
+  three more reciprocal translocations in cell line H292 t 1 16 , t 6 8 x2 and three
+  other reciprocal translocations in cell line H3118 t 1 7 , t 3 15 , and t 7 15 .
+  A review of the literature of other reported cases of mucoepidermoid carcinomas
+  analyzed with standard G-banding techniques, as well as distinct benign salivary
+  gland tumors, such as pleomorphic adenomas and Warthin tumor, confirmed the presence
+  of a karyotype dominated by reciprocal translocations. Four chromosomal bands were
+  involved in chromosomal translocations in both cell lines: 1q32, 5p15, 7q22, and
+  15q22. Fluorescence in situ hybridization studies showed that the breakpoints in
+  these four bands were often within a few megabases of each other. The involvement
+  of similar chromosomal bands in breakpoints in these two cell lines suggests that
+  these regions may be predisposed or selected for chromosomal rearrangements in this
+  tumor type. The presence of multiple reciprocal translocations in both benign and
+  malignant salivary gland tumors may also suggest a particular mechanism within mucous
+  or serous glands mediating chromosomal rearrangements.'
+authors: Tonon G, Gehlhaus KS, Yonescu R, Kaye FJ and Kirsch IR.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15193437
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 152, 1 (2004): 15-22.'
+label: 'Tonon et al. (2004): Multiple Reciprocal Translocations in Salivary Gland
+  Mucoepidermoid Carcinomas.'
+notes: The data was derived from the NCBI SKY-CGH database.
+pmid: 15193437
+title: Multiple Reciprocal Translocations in Salivary Gland Mucoepidermoid Carcinomas.
+year: 2004

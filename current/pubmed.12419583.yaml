@@ -1,0 +1,50 @@
+---
+abstract: Esophageal cancer is the fourth most prevalent malignancy in China. So far,
+  the genetic events involved in esophageal cancer remain largely unknown. To identify
+  chromosomal alterations in this disease, comparative genomic hybridization was performed
+  on 25 primary tumors of esophageal squamous cell carcinomas. Results exhibited nonrandom
+  copy number changes in chromosome DNA, with higher incidence in gain than in loss.
+  The average gains and losses per patient were 7.76 and 4, respectively. The most
+  common gains were 3q 20 25 , 1q 15 25 , 8q 15 25 , 20p 12 25 , 20q 11 25 , 5p 10
+  25 , 15q 8 25 , and 9q 8 25 with two minimal amplification loci mapped to chromosomal
+  regions of 8q24 2 cases and 11q13 7 cases . High-level amplification was observed
+  at 3q 8 cases , 5p 4 cases , and 8q 4 cases . Losses at 3p 10 25 , 13q 8 25 , 18q
+  7 25 , Xp 7 25 , 4 6 25 , 9p 6 25 , 14q 6 25 , 18p 6 25 , and 21q 6 25 were identified.
+  Remarkably, ten cases showed both loss of the entire 3p and overrepresentation of
+  almost the whole 3q. No significant differences in stage or grade of tumor were
+  found for DNA copy number changes. The results provided candidate regions for potential
+  oncogenes and tumor suppressor genes related to Chinese esophageal cancer, to which
+  further molecular studies should be addressed.
+authors: Wei F, Ni J, Wu SS, Liu H, Xu X, Han YL, Cai Y, Zhang JW, Chen XJ, Pang H,
+  Lu N, Ji L, Wu M and Wang MR.
+contact:
+  email: wangmr04@126.com
+  name: Ming-Rong Wang
+counts:
+  biosamples: 25
+  samples_acgh: 0
+  samples_ccgh: 25
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12419583
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 138, 1 (2002): 38-43.'
+label: 'Wei et al. (2002): Cytogenetic Studies of Esophageal Squamous Cell Carcinomas
+  in the Northern Chinese Population By ...'
+notes: ~
+pmid: 12419583
+title: Cytogenetic Studies of Esophageal Squamous Cell Carcinomas in the Northern
+  Chinese Population By Comparative Genomic Hybridization.
+year: 2002

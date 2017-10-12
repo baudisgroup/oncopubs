@@ -1,0 +1,55 @@
+---
+abstract: Identification and characterization of underlying genetic aberrations could
+  facilitate diagnosis and treatment of ovarian cancer. Copy number analysis using
+  array Comparative Genomic Hybridization aCGH on 93 primary ovarian tumors identified
+  PI3K AKT pathway as the most frequently altered cancer related pathway. Furthermore,
+  survival analyses to correlate gene copy number and mutation data with patient outcome
+  showed that copy number gains of PIK3CA, PIK3CB, and PIK3R4 in these tumors were
+  associated with decreased survival. To confirm these findings at the protein level,
+  immunohistochemistry IHC for PIK3CA product p110 and p-Akt was performed on tissue
+  microarrays from 522 independent serous ovarian cancers. Overexpression of either
+  of these two proteins was found to be associated with decreased survival. Multivariant
+  analysis from these samples further showed that overexpression of p-AKT and or p110
+  is an independent prognostic factor for these tumors. siRNAs targeting altered PI3K
+  AKT pathway genes inhibited proliferation and induced apoptosis in ovarian cancer
+  cell lines. In addition, the effect of the siRNAs in different cell lines seemed
+  to correlate with the particular genetic alterations that the cell line carries.
+  These results strongly support the utilization of PI3K pathway inhibitors in ovarian
+  cancer. They also suggest identifying the specific component in the PI3K pathway
+  that is genetically altered has the potential to help select the most effective
+  therapy. Both mutation as well as copy number changes can be used as predictive
+  markers for this purpose.
+authors: Huang J, Zhang L, Greshock J, Colligon TA, Wang Y, Ward R, Katsaros D, Lassus
+  H, Butzow R, Godwin AK, Testa JR, Nathanson KL, Gimotty PA, Coukos G, Weber BL and
+  Degenhardt Y.
+contact:
+  email: ~
+  name: Yan Degenhardt
+counts:
+  biosamples: 93
+  samples_acgh: 93
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21563232
+geo_data:
+  geo_json:
+    coordinates:
+    - -75.16
+    - 39.95
+    type: Point
+  info:
+    city: Philadelphia
+    continent: North America
+    country: United States
+    label: Philadelphia, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 50, 8 (2011): 606-18.'
+label: 'Huang et al. (2011): Frequent Genetic Abnormalities of the Pi3K/Akt Pathway
+  in Primary Ovarian Cancer Predict Patient ...'
+notes: ~
+pmid: 21563232
+title: Frequent Genetic Abnormalities of the Pi3K/Akt Pathway in Primary Ovarian Cancer
+  Predict Patient Outcome.
+year: 2011

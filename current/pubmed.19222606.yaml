@@ -1,0 +1,51 @@
+---
+abstract: Breast cancer is a widespread disease in Japan and across the world. Breast
+  cancer cells, as well as most other types of cancer cells, have diverse chromosomal
+  aberrations. Clarifying the character of these chromosomal aberrations should contribute
+  to the development of more suitable therapies, along with the predictions of metastasis
+  and prognosis. Twenty-four breast cancer cell lines were analyzed by bacterial artificial
+  chromosome BAC array comparative genomic hybridization CGH . The array slide contained
+  duplicate spots of 4030 BAC clone DNAs covering the entire human genome with 1 Mbp
+  resolution. In all 24 breast cancer cell lines, frequent and significant amplifications
+  as well as deletions were detected by BAC array CGH. Common DNA copy number gains,
+  detected in 60 above 15 cell lines of the 24 breast cancer cell lines were found
+  in 76 BAC clones, located at 1q, 5p, 8q, 9p, 16p, 17q, and 20q. Moreover, common
+  DNA copy number loss was detected in 136 BAC clones, located at 1q, 2q, 3p, 4p,
+  6q, 8p, 9p, 11p, 13q, 17p, 18q, 19p, Xp, and Xq. The DNA copy number abnormalities
+  found included abnormality of the well-known oncogene cMYC 8q24.21 however, most
+  of them were not reported to relate to breast cancer. BAC array CGH has great potential
+  to detect DNA copy number abnormalities, and has revealed that breast cancer cell
+  lines have substantial heterogeneity.
+authors: Saito S, Morita K and Hirano T.
+contact:
+  email: hirano-takashi@aist.go.jp
+  name: Takashi Hirano
+counts:
+  biosamples: 24
+  samples_acgh: 24
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19222606
+geo_data:
+  geo_json:
+    coordinates:
+    - 135.57
+    - 34.82
+    type: Point
+  info:
+    city: Ibaraki
+    continent: Asia
+    country: Japan
+    label: Ibaraki, Japan, Asia
+    precision: city
+journal: 'Hum Cell 22, 1 (2009): 1-10.'
+label: 'Saito et al. (2009): High Frequency of Common DNA Copy Number Abnormalities
+  Detected By Bacterial Artificial Chromosome ...'
+notes: ~
+pmid: 19222606
+title: High Frequency of Common DNA Copy Number Abnormalities Detected By Bacterial
+  Artificial Chromosome Array Comparative Genomic Hybridization in 24 Breast Cancer
+  Cell Lines.
+year: 2009

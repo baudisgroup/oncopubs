@@ -1,0 +1,55 @@
+---
+abstract: Tumors arising from the liver, biliary tract and pancreas, which originate
+  in the foregut and are in close anatomical proximity to each other, sometimes show
+  similar histological features. No studies have focused on genetic similarities and
+  differences between tumors of these organs. To elucidate the similarities and differences
+  in DNA copy number alterations between tumors of these organs, we applied comparative
+  genomic hybridization CGH to cancers of the liver 31 cases , biliary tract 42 cases
+  and pancreas 27 cases . Some alterations were common to tumors of all three organs,
+  and some were preferential in certain types of tumor. Gains of 1q and 8q and losses
+  of 8p and 17p were common to all tumors. In contrast, 13q14 and 16q losses were
+  detected exclusively in hepatocellular carcinomas HCCs p amp lt 0.01 . The incidence
+  of 17q21 gain and 5q loss was higher in biliary tract cancers than in the other
+  two types p amp lt 0.05 . Pancreatic cancers exhibited higher incidence of 5q14-q23
+  gain and 19p loss than tumors of other organs p amp lt 0.01 . Gains of 7p, 7q, 12p
+  and 20q and losses of 3p, 6q, 9p and 18q were frequent in both biliary tract and
+  pancreatic cancers but rare in HCCs p amp lt 0.05 . The present results suggest
+  that although genes located at 1q, 8p, 8q and 17p are frequently involved in HCC,
+  biliary tract and pancreatic cancer, at least some of the genes implicated in carcinogenesis
+  are different between these three types. It is also suggested that CGH analysis
+  is useful as a potential adjunct for the diagnosis and management of these tumors
+  of organs that are anatomically close to one another.
+authors: Shiraishi K, Okita K, Kusano N, Harada T, Kondoh S, Okita S, Ryozawa S, Ohmura
+  R, Noguchi T, Iida Y, Akiyama T, Oga A, Fukumoto Y, Furuya T, Kawauchi S and Sasaki
+  K.
+contact:
+  email: 2byouri@po.cc.yamaguchi-u.ac.jp
+  name: Kei Shiraishi
+counts:
+  biosamples: 100
+  samples_acgh: 0
+  samples_ccgh: 100
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11244331
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Oncology 60, 2 (2001): 151-61.'
+label: 'Shiraishi et al. (2001): A Comparison of DNA Copy Number Changes Detected
+  By Comparative Genomic Hybridization in ...'
+notes: ~
+pmid: 11244331
+title: A Comparison of DNA Copy Number Changes Detected By Comparative Genomic Hybridization
+  in Malignancies of the Liver, Biliary Tract and Pancreas.
+year: 2001

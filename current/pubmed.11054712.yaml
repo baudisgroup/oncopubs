@@ -1,0 +1,59 @@
+---
+abstract: Gastric carcinogenesis is strongly associated with Helicobacter pylori infection,
+  but the underlying genetic mechanisms are largely unknown. The aim of this study
+  was to correlate chromosomal aberrations in gastric cancer to H. pylori status and
+  its different strains, as well as to histological type and other clinico-pathological
+  variables. DNA from 46 gastric cancers male female 35 11, age 27-85 years was extracted
+  from formaldehyde-fixed, paraffin-embedded material and tested for chromosomal gains
+  and losses by comparative genomic hybridization CGH . Chromosomal aberrations with
+  frequencies of 20 or higher were considered to be non-random changes associated
+  with gastric cancer. The mean number of chromosomal events per tumour was 9.7 range
+  0-27 , with a mean of 3.2 gains range 0-16 and 6.5 losses range 0-15 . Gains were
+  most frequently found at chromosomes 8q and 13q 24 and 26 , respectively . Losses
+  were predominantly found on chromosome arms 2q, 9p, 12q, 14q, 15q, 16p, 16q, 17p,
+  17q, 19p, 19q, and 22q 22 , 30 , 43 , 22 , 33 , 50 , 28 , 50 , 39 , 33 , 39 , and
+  37 , respectively . Common regions of overlap narrowed down to 2q11-14, 8q23, 9p21,
+  12q24, 13q21-22, 14q24 and 15q11-15. The mean number of gains was higher in tumours
+  with metastases than in localized tumours 4.1 vs. 1.9, p 0.04 . Tumours with a loss
+  at 17p showed a higher number of losses than tumours without a 17p loss 9. 5 vs.
+  4.7 on average, p amp lt 0.001 . Neither H. pylori status , n 25 -, n 21 nor H.
+  pylori strain was correlated to the total number of events or to any specific chromosomal
+  aberration, nor were there differences between intestinal n 30 and diffuse n 15
+  cancers or any other clinico-pathological variable tested. In conclusion, a complex
+  of chromosomal aberrations is involved in gastric cancer, but their pattern does
+  not depend on H. pylori status or strain, nor on the histological type of the tumour.
+  The exact biological meaning of these aberrations in carcinogenesis needs further
+  clarification.
+authors: van Grieken NC, Weiss MM, Meijer GA, Hermsen MA, Scholte GH, Lindeman J,
+  Craanen ME, Bloemena E, Meuwissen SG, Baak JP and Kuipers EJ.
+contact:
+  email: kuipers@azvu.nl
+  name: Ernst J. Kuipers
+counts:
+  biosamples: 46
+  samples_acgh: 0
+  samples_ccgh: 46
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11054712
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.89
+    - 52.37
+    type: Point
+  info:
+    city: Amsterdam
+    continent: Europe
+    country: Netherlands
+    label: Amsterdam, Netherlands, Europe
+    precision: city
+journal: 'J Pathol 192, 3 (2000): 301-06.'
+label: 'van Grieken et al. (2000): Helicobacter Pylori-Related and -Non-Related Gastric
+  Cancers Do Not Differ With Respect to ...'
+notes: ~
+pmid: 11054712
+title: Helicobacter Pylori-Related and -Non-Related Gastric Cancers Do Not Differ
+  With Respect to Chromosomal Aberrations.
+year: 2000

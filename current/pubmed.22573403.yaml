@@ -1,0 +1,52 @@
+---
+abstract: We have used whole exome sequencing to compare a group of presentation t
+  4 14 with t 11 14 cases of myeloma to define the mutational landscape. Each case
+  was characterized by a median of 24.5 exonic nonsynonymous single-nucleotide variations,
+  and there was a consistently higher number of mutations in the t 4 14 group, but
+  this number did not reach statistical significance. We show that the transition
+  and transversion rates in the 2 subgroups are similar, suggesting that there was
+  no specific mechanism leading to mutation differentiating the 2 groups. Only 3 of
+  mutations were seen in both groups, and recurrently mutated genes include NRAS,
+  KRAS, BRAF, and DIS3 as well as DNAH5, a member of the axonemal dynein family. The
+  pattern of mutation in each group was distinct, with the t 4 14 group being characterized
+  by deregulation of chromatin organization, actin filament, and microfilament movement.
+  Recurrent RAS pathway mutations identified subclonal heterogeneity at a mutational
+  level in both groups, with mutations being present as either dominant or minor subclones.
+  The presence of subclonal diversity was confirmed at a single-cell level using other
+  tumor-acquired mutations. These results are consistent with a distinct molecular
+  pathogenesis underlying each subgroup and have important impacts on targeted treatment
+  strategies. The Medical Research Council Myeloma IX trial is registered under ISRCTN68454111.
+authors: Walker BA, Wardell CP, Melchor L, Hulkki S, Potter NE, Johnson DC, Fenwick
+  K, Kozarewa I, Gonzalez D, Lord CJ, Ashworth A, Davies FE and Morgan GJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 491
+  samples_acgh: 491
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22573403
+- geo:GSE21349
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.13
+    - 51.51
+    type: Point
+  info:
+    city: London
+    continent: Europe
+    country: United Kingdom
+    label: London, United Kingdom, Europe
+    precision: city
+journal: 'Blood (2012) 120: 1077-1086.'
+label: 'Walker et al. (2012): Intraclonal heterogeneity and distinct molecular mechanisms
+  characterize the development of ...'
+notes: ~
+pmid: 22573403
+title: Intraclonal heterogeneity and distinct molecular mechanisms characterize the
+  development of t(4;14) and t(11;14) myeloma.
+year: 2012

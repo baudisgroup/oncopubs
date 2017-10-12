@@ -1,0 +1,52 @@
+---
+abstract: 'Genomic alterations influencing the expression and or activity of tumor
+  suppressors or oncogenes such as KRAS2, CDKN2A, TP53, and DPC4 have been directly
+  implicated in the initiation and progression of human pancreatic adenocarcinoma.
+  In an effort further to systematically characterize the genomic alterations that
+  occur in this disease, we conducted a genome wide analysis of alterations in gene
+  copy number using array-based comparative genomic hybridization CGH . For this analysis,
+  we utilized a panel of 25 human pancreatic cancer cell lines derived from either
+  primary or metastatic tumors. This panel also included a metastatic progression
+  series of cell lines derived from COLO 357 cells. Array CGH permitted the identification
+  of alterations in the copy number of genes that might participate in the aberrant
+  behavior of pancreatic cancer cells. In addition, the acquisition of invasive and
+  metastatic potential by derivatives of COLO 357 cells was accompanied by additional
+  focal genomic alterations including point mutations and amplification of KRAS2.
+  To complement the array CGH analysis, we also conducted an analysis of mRNA expression
+  patterns in a subset of these cells using cDNA microarrays. By this means, we identified
+  a set of candidate genes, including those regulated by RAS signaling, that may contribute
+  to the process of cancer cell invasion and metastasis. Supplementary material for
+  this article can be found on the Genes, Chromosomes, and Cancer website at http:
+  www.interscience.wiley.com jpages 1045-2257 suppmat index.html.'
+authors: Gysin S, Rickert P, Kastury K and McMahon M.
+contact:
+  email: mcmahon@cc.ucsf.edu
+  name: M. McMahon
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:15929091
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.42
+    - 37.77
+    type: Point
+  info:
+    city: San Francisco
+    continent: North America
+    country: United States
+    label: San Francisco, United States, North America
+    precision: city
+journal: 'Genes Chromosomes Cancer 44, 1 (2005): 37-51.'
+label: 'Gysin et al. (2005): Analysis of Genomic DNA Alterations and Mrna Expression
+  Patterns in a Panel of Human Pancreatic ...'
+notes: ~
+pmid: 15929091
+title: Analysis of Genomic DNA Alterations and Mrna Expression Patterns in a Panel
+  of Human Pancreatic Cancer Cell Lines.
+year: 2005

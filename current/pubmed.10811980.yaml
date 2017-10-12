@@ -1,0 +1,54 @@
+---
+abstract: Hematopoietic disorders can be used as a suitable tool of additional information
+  on the actual resolving power of comparative genomic hybridization CGH . Therefore,
+  CGH examination was performed of DNA extracted from 23 acute and 15 chronic myeloproliferative
+  disorders which had just been analyzed using classical cytogenetic techniques. In
+  nearly all cases CGH analysis was repeated with reversely labeled probes. A Zeiss
+  axioplan microscope was equipped with the ISIS 3 system for photometric evaluation
+  of the CGH data. A main group was selected of 34 cases showing karyotypic mosaics
+  when routinely diagnosed by classical cytogenetics. The grade of mosaicism was basically
+  determined from the classical cytogenetic analysis and was additionally defined
+  examining target anomalies by I-FISH analysis in 28 of the cases. The second group
+  included 23 cases with deletions, and in 1 case another informative genomic imbalance
+  could be analyzed. Every target anomaly irrespective of its type could be detected
+  in all cases with an affected cell population equalling or exceeding about 25 ,
+  but in none was it below 23 . This value was the lowest and was found in a case,
+  with CGH-detected 20q deletion. The smallest deletions of two bands on 20q which
+  could visually be detected by CGH were estimated in the range of 5-7 Mb. CGH was
+  also suitable to detect imbalances which were not clearly detected by routine cytogenetics.
+  Reverse labelling, performed in nearly all cases, confirmed the result of the original
+  CGH analysis. These data not only document the readiness and reliability of CGH
+  studies on human leukemia, but also further contribute to a clearer definition of
+  the limits of the resolving power of this technique.
+authors: Gebhart E, Verdorfer I, Saul W, Trautmann U and Brecevic L.
+contact:
+  email: ~
+  name: E. Gebhart
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10811980
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.01
+    - 49.59
+    type: Point
+  info:
+    city: Erlangen
+    continent: Europe
+    country: Germany
+    label: Erlangen, Germany, Europe
+    precision: city
+journal: 'Int J Oncol 16, 6 (2000): 1099-105.'
+label: 'Gebhart et al. (2000): Delimiting the Use of Comparative Genomic Hybridization
+  in Human Myeloid Neoplastic ...'
+notes: ~
+pmid: 10811980
+title: Delimiting the Use of Comparative Genomic Hybridization in Human Myeloid Neoplastic
+  Disorders.
+year: 2000

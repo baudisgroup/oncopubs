@@ -1,0 +1,59 @@
+---
+abstract: Activating B-RAF V600E also known as BRAF kinase mutations occur in 7 of
+  human malignancies and 60 of melanomas. Early clinical experience with a novel class
+  I RAF-selective inhibitor, PLX4032, demonstrated an unprecedented 80 anti-tumour
+  response rate among patients with B-RAF V600E -positive melanomas, but acquired
+  drug resistance frequently develops after initial responses. Hypotheses for mechanisms
+  of acquired resistance to B-RAF inhibition include secondary mutations in B-RAF
+  V600E , MAPK reactivation, and activation of alternative survival pathways. Here
+  we show that acquired resistance to PLX4032 develops by mutually exclusive PDGFR
+  also known as PDGFRB upregulation or N-RAS also known as NRAS mutations but not
+  through secondary mutations in B-RAF V600E . We used PLX4032-resistant sub-lines
+  artificially derived from B-RAF V600E -positive melanoma cell lines and validated
+  key findings in PLX4032-resistant tumours and tumour-matched, short-term cultures
+  from clinical trial patients. Induction of PDGFR RNA, protein and tyrosine phosphorylation
+  emerged as a dominant feature of acquired PLX4032 resistance in a subset of melanoma
+  sub-lines, patient-derived biopsies and short-term cultures. PDGFR -upregulated
+  tumour cells have low activated RAS levels and, when treated with PLX4032, do not
+  reactivate the MAPK pathway significantly. In another subset, high levels of activated
+  N-RAS resulting from mutations lead to significant MAPK pathway reactivation upon
+  PLX4032 treatment. Knockdown of PDGFR or N-RAS reduced growth of the respective
+  PLX4032-resistant subsets. Overexpression of PDGFR or N-RAS Q61K conferred PLX4032
+  resistance to PLX4032-sensitive parental cell lines. Importantly, MAPK reactivation
+  predicts MEK inhibitor sensitivity. Thus, melanomas escape B-RAF V600E targeting
+  not through secondary B-RAF V600E mutations but via receptor tyrosine kinase RTK
+  -mediated activation of alternative survival pathway s or activated RAS-mediated
+  reactivation of the MAPK pathway, suggesting additional therapeutic strategies.
+authors: Nazarian R, Shi H, Wang Q, Kong X, Koya RC, Lee H, Chen Z, Lee MK, Attar
+  N, Sazegar H, Chodon T, Nelson SF, McArthur G, Sosman JA, Ribas A and Lo RS.
+contact:
+  email: ~
+  name: Roger Lo
+counts:
+  biosamples: 4
+  samples_acgh: 4
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21107323
+- geo:GSE24890
+geo_data:
+  geo_json:
+    coordinates:
+    - -118.24
+    - 34.05
+    type: Point
+  info:
+    city: Los Angeles
+    continent: North America
+    country: United States
+    label: Los Angeles, United States, North America
+    precision: city
+journal: 'Nature 468, 7326 (2010): 973-77.'
+label: 'Nazarian et al. (2010): Melanomas Acquire Resistance to B-Raf(V600E) Inhibition
+  By Rtk Or N-Ras Upregulation.'
+notes: ~
+pmid: 21107323
+title: Melanomas Acquire Resistance to B-Raf(V600E) Inhibition By Rtk Or N-Ras Upregulation.
+year: 2010

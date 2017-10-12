@@ -1,0 +1,58 @@
+---
+abstract: In addition to KIT and PDGFRA mutations, sequential accumulation of other
+  genetic events is involved in the development and progression of gastrointestinal
+  stromal tumors GISTs . Until recently, the significance of these other alterations
+  has not been thoroughly investigated. We report the first study that integrates
+  gene expression profiling and high-resolution genomic copy number analyses in GIST.
+  Fresh tissue specimens from 25 patients with GIST were collected, and gene expression
+  profiling and high-resolution genomic copy number analyses were performed, using
+  Affymetrix U133Plus and SNP array 6.0. We found that all 21 mutant GIST patients
+  showed both macroscopic cytogenetic alterations and cryptic microdeletions or amplifications,
+  whereas 75 three of four of wild-type patients with GIST did not show genomic imbalances.
+  The most frequently observed chromosomal alterations in patients with mutant GIST
+  included 14q complete or partial deletion 17 of 25 , 1p deletion 14 of 25 and 22q
+  deletion 10 of 25 . Genetic targets of the chromosomal aberrations were selected
+  by integrated analysis of copy number and gene expression data. We detected the
+  involvement of known oncogenes and tumor suppressors including KRAS in chr 12p amplification
+  and KIF1B, PPM1A, NF2 in chr 1p, 14q and 22p deletions, respectively. The genomic
+  segment most frequently altered in mutated samples was the 14q23.1 region, which
+  contains potentially novel tumor suppressors, including DAAM1, RTN1 and DACT1. siRNA-mediated
+  RTN1 downregulation showed evidence for the potential role in GIST pathogenesis.
+  The combination of gene expression profiling and high-resolution genomic copy number
+  analysis offers a detailed molecular portrait of GISTs, providing an essential comprehensive
+  knowledge necessary to guide the discovery of novel target genes involved in tumor
+  development and progression.
+authors: Astolfi A, Nannini M, Pantaleo MA, Di Battista M, Heinrich MC, Santini D,
+  Catena F, Corless CL, Maleddu A, Saponara M, Lolli C, Di Scioscio V, Formica S,
+  and Biasco G.
+contact:
+  email: maria.pantaleo@unibo.it
+  name: Maria Pantaleo
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20548289
+geo_data:
+  geo_json:
+    coordinates:
+    - 11.34
+    - 44.49
+    type: Point
+  info:
+    city: Bologna
+    continent: Europe
+    country: Italy
+    label: Bologna, Italy, Europe
+    precision: city
+journal: Lab Invest, 2010.
+label: 'Astolfi et al. (2010): A molecular portrait of gastrointestinal stromal tumors:
+  an integrative analysis of gene ...'
+notes: ~
+pmid: 20548289
+title: 'A molecular portrait of gastrointestinal stromal tumors: an integrative analysis
+  of gene expression profiling and high-resolution genomic copy number.'
+year: 2010

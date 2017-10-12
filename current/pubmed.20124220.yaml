@@ -1,0 +1,51 @@
+---
+abstract: To further unravel the molecular pathogenesis of T-cell acute lymphoblastic
+  leukemia T-ALL , we performed high-resolution array comparative genomic hybridization
+  on diagnostic specimens from 47 children with T-ALL and identified monoallelic or
+  biallelic LEF1 microdeletions in 11 5 of 47 of these primary samples. An additional
+  7 3 of 44 of the cases harbored nonsynonymous sequence alterations of LEF1, 2 of
+  which produced premature stop codons. Gene expression microarrays showed increased
+  expression of MYC and MYC targets in cases with LEF1 inactivation, as well as differentiation
+  arrest at an early cortical stage of thymocyte development characterized by expression
+  of CD1B, CD1E, and CD8, with absent CD34 expression. LEF1 inactivation was associated
+  with a younger age at the time of T-ALL diagnosis, as well as activating NOTCH1
+  mutations, biallelic INK4a ARF deletions, and PTEN loss-of-function mutations or
+  activating mutations of PI3K or AKT genes. These cases generally lacked overexpression
+  of the TAL1, HOX11, HOX11L2, or the HOXA cluster genes, which have been used to
+  define separate molecular pathways leading to T-ALL. Our findings suggest that LEF1
+  inactivation is an important step in the molecular pathogenesis of T-ALL in a subset
+  of young children.
+authors: Gutierrez A, Sanda T, Ma W, Zhang J, Grebliunaite R, Dahlberg S, Neuberg
+  D, Protopopov A, Winter SS, Larson RS, Borowitz MJ, Silverman LB, Chin L, Hunger
+  SP, Jamieson C, Sallan SE and Look AT.
+contact:
+  email: ~
+  name: Thomas Look
+counts:
+  biosamples: 47
+  samples_acgh: 47
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20124220
+- geo:GSE14959
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Blood 115, 14 (2010): 2845-51.'
+label: 'Gutierrez et al. (2010): Inactivation of Lef1 in T-Cell Acute Lymphoblastic
+  Leukemia.'
+notes: ~
+pmid: 20124220
+title: Inactivation of Lef1 in T-Cell Acute Lymphoblastic Leukemia.
+year: 2010

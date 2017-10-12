@@ -1,0 +1,45 @@
+---
+abstract: Cytogenetic and molecular studies of radiation-induced meningiomas RIM are
+  rare and controversial. While comparative genomic hybridization CGH analysis identified
+  monosomy 22 as the predominant change in RIM, occurring in frequencies comparable
+  to those found in spontaneous meningioma SM , molecular genetic analysis shows infrequent
+  loss of chromosome 22 DNA markers. We have performed CGH analysis of six additional
+  cases of RIM and detected an unbalanced genome in five of 6 cases. Loss of 1p and
+  7p was identified in the majority of RIM with an abnormal karyotype 4 5 cases ,
+  whereas loss of 6q occurred in three of five cases. Only one of five RIM had monosomy
+  for chromosome 22. Loss of 7p is not frequently reported in SM and yet it was detected
+  in four of 5 RIM with an abnormal karyotype in our study. Molecular and cytogenetic
+  studies of chromosome 7 copy number should be attempted on a larger number of RIM
+  to further investigate the role of 7p loss in RIM.
+authors: Rajcan-Separovic E, Maguire J, Loukianova T, Nisha M and Kalousek D.
+contact:
+  email: eseparovic@cw.bc.ca
+  name: Evica Rajcan-Separovic
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12810249
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 144, 1 (2003): 6-11.'
+label: 'Rajcan-Separovic et al. (2003): Loss of 1p and 7p in Radiation-Induced Meningiomas
+  Identified By Comparative Genomic ...'
+notes: ~
+pmid: 12810249
+title: Loss of 1p and 7p in Radiation-Induced Meningiomas Identified By Comparative
+  Genomic Hybridization.
+year: 2003

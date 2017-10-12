@@ -1,0 +1,56 @@
+---
+abstract: Analysis of ovarian carcinomas has shown that karyotypes are often highly
+  abnormal and cannot be identified with certainty by conventional cytogenetic methods.
+  In this study, 17 tumors derived from 13 patients were analyzed by a combination
+  of spectral karyotyping SKY , comparative genomic hybridization CGH , and expression
+  microarrays. Within the study group, a total of 396 chromosomal rearrangements could
+  be identified by SKY and CGH analysis. When the distribution of aberrations was
+  normalized with respect to relative genomic length, chromosomes 3, 8, 11, 17, and
+  21 had the highest frequencies. Parallel microarray expression studies of 1718 human
+  cDNAs were used to analyze expression profiles and to determine whether correlating
+  gene expression with chromosomal rearrangement would identify smaller subsets of
+  differentially expressed genes. Within the entire set of samples, microarray expression
+  analysis grouped together poorly differentiated tumors irrespective of histological
+  subtype. For three patients, a comparison between genomic alterations and gene expression
+  pattern was performed on samples of primary and metastatic tumors. Their common
+  origin was demonstrated by the close relationship of both the SKY and CGH karyotypes
+  and the observed profiles of gene expression. In agreement with the pattern of genomic
+  imbalance observed for chromosome 3 in ovarian cancer, the relative expression profile
+  with respect to a normal ovary exhibited a contiguous pattern of reduced expression
+  of genes mapping to the 3p25.5-3p21.31 and increased expression of genes from 3q13.33-3q28.
+  This study demonstrates that SKY, CGH, and microarray analysis can in combination
+  identify significantly smaller subsets of differentially expressed genes for future
+  studies.
+authors: Bayani J, Brenton JD, Macgregor PF, Beheshti B, Albert M, Nallainathan D,
+  Karaskova J, Rosen B, Murphy J, Laframboise S, Zanke B and Squire JA.
+contact:
+  email: jsquireinsp@gmail.com
+  name: Jeremy Squire
+counts:
+  biosamples: 29
+  samples_acgh: 0
+  samples_ccgh: 29
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12067990
+geo_data:
+  geo_json:
+    coordinates:
+    - -79.42
+    - 43.7
+    type: Point
+  info:
+    city: Toronto
+    continent: North America
+    country: Canada
+    label: Toronto, Canada, North America
+    precision: city
+journal: 'Cancer Res 62, 12 (2002): 3466-76.'
+label: 'Bayani et al. (2002): Parallel Analysis of Sporadic Primary Ovarian Carcinomas
+  By Spectral Karyotyping, Comparative ...'
+notes: The data is also contained in the NCBI SKY-CGH database.
+pmid: 12067990
+title: Parallel Analysis of Sporadic Primary Ovarian Carcinomas By Spectral Karyotyping,
+  Comparative Genomic Hybridization, and Expression Microarrays.
+year: 2002

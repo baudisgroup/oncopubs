@@ -1,0 +1,43 @@
+---
+abstract: Breast cancer cell lines have been used widely to investigate breast cancer
+  pathobiology and new therapies. Breast cancer is a molecularly heterogeneous disease,
+  and it is important to understand how well and which cell lines best model that
+  diversity. In particular, microarray studies have identified molecular subtypes-luminal
+  A, luminal B, ERBB2-associated, basal-like and normal-like-with characteristic gene-expression
+  patterns and underlying DNA copy number alterations CNAs . Here, we studied a collection
+  of breast cancer cell lines to catalog molecular profiles and to assess their relation
+  to breast cancer subtypes.
+authors: Kao J, Salari K, Bocanegra M, Choi YL, Girard L, Gandhi J, Kwei KA, Hernandez-Boussard
+  T, Wang P, Gazdar AF, Minna JD and Pollack JR.
+contact:
+  email: pollack1@stanford.edu
+  name: Jonathan Pollack
+counts:
+  biosamples: 52
+  samples_acgh: 52
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19582160
+- geo:GSE15376
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.17
+    - 37.43
+    type: Point
+  info:
+    city: Stanford
+    continent: North America
+    country: United States
+    label: Stanford, United States, North America
+    precision: city
+journal: 'PLoS One 4, 7 (2009): e6146.'
+label: 'Kao et al. (2009): Molecular Profiling of Breast Cancer Cell Lines Defines
+  Relevant Tumor Models and Provides a Resource ...'
+notes: ~
+pmid: 19582160
+title: Molecular Profiling of Breast Cancer Cell Lines Defines Relevant Tumor Models
+  and Provides a Resource for Cancer Gene Discovery.
+year: 2009

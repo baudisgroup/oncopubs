@@ -1,0 +1,55 @@
+---
+abstract: Large-scale hemizygous loss of chromosome 3p is a common event in neuroblastoma,
+  occurring preferentially in tumors that exhibit loss of chromosome 11q and lack
+  MYCN amplification. Although numerous tumor suppressor genes TSG have been mapped
+  to the 3p region, the gene or genes contributing to neuroblastoma pathogenesis have
+  remained elusive. High-resolution oligonucleotide array CGH mapping of chromosome
+  3p breakpoints relative to the positions of known TSGs indicates that more than
+  one gene may contribute to neuroblastoma pathogenesis. We evaluated the methylation
+  status of semaphorin 3B SEMA3B , one of the chromosome 3p TSGs, in neuroblastoma
+  tumors with n 12 and without n 32 3p deletions. A significantly higher percentage
+  of methylated CpG sites in the SEMA3B promoter was detected in tumors exhibiting
+  3p loss 95 , relative to tumors without loss 52 , suggestive of a two-hit mechanism
+  of allele inactivation. The involvement of methylation in the control of SEMA3B
+  expression was confirmed by treatment of neuroblastoma cell lines with the demethylating
+  agent 5-aza-2-deoxycytidine. Transcriptional regulation of this locus is complex,
+  however low levels of SEMA3B expression were also seen in tumors with unmethylated
+  SEMA3B promoters n 4 . SEMA3B is known to play an important role in the development
+  of normal sympathetic neurons, and interestingly, we found higher levels of SEMA3B
+  expression in differentiated tumors with favorable histopathology n 19 than in tumors
+  with unfavorable histology n 22 . Furthermore, SEMA3B was upregulated in the SK-N-BE
+  neuroblastoma cell line following induction of differentiation with retinoic acid.
+  The association of SEMA3B expression with neuroblastoma differentiation suggests
+  that this TSG may play a role in neuroblastoma pathobiology.
+authors: Nair PN, McArdle L, Cornell J, Cohn SL and Stallings RL.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 22
+  samples_acgh: 22
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17452250
+geo_data:
+  geo_json:
+    coordinates:
+    - -98.49
+    - 29.42
+    type: Point
+  info:
+    city: San Antonio
+    continent: North America
+    country: United States
+    label: San Antonio, United States, North America
+    precision: city
+journal: 'Cancer Genet Cytogenet 174, 2 (2007): 100-10.'
+label: 'Nair et al. (2007): High-Resolution Analysis of 3p Deletion in Neuroblastoma
+  and Differential Methylation of the Sema3B ...'
+notes: ~
+pmid: 17452250
+title: High-Resolution Analysis of 3p Deletion in Neuroblastoma and Differential Methylation
+  of the Sema3B Tumor Suppressor Gene.
+year: 2007

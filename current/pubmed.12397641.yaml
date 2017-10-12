@@ -1,0 +1,53 @@
+---
+abstract: Small cell lung cancer SCLC is a major cause of cancer related morbidity
+  and mortality. Karyotypic studies have revealed numerous chromosomal aberrations
+  in most SCLC however, classical G-banding analysis is unable to fully characterise
+  complex marker chromosomes. Recent developments in molecular cytogenetics now allow
+  accurate identification of the chromosomal components of complicated rearrangements.
+  We have applied the technique of multicolour fluorescence in situ hybridization
+  M-FISH in combination with comparative genomic hybridization CGH to the analysis
+  of 5 SCLC cell lines and 1 primary tumour specimen to characterise the chromosomal
+  abnormalities. CGH analysis identified many similarities between specimens, with
+  frequent DNA copy number decreases on chromosomes 3p, 5q, 10, 16q, 17p and frequent
+  gains on 3q, 1p, 1q and 14q. In contrast, M-FISH analysis revealed a large number
+  of structural abnormalities, with each specimen demonstrating an individual pattern
+  of chromosomal translocations. Forty different translocations were identified with
+  the vast majority 39 being unbalanced. Chromosome 5 was the most frequently rearranged
+  chromosome 9 translocations followed by chromosomes 2, 10 and 16 6 translocations
+  each . Further investigation of these frequently involved chromosomes is warranted
+  to establish whether consistent break points are involved in these translocations,
+  causing dysregulation of specific genes that are crucial for tumour progression
+  and secondly to identify the affected genes.
+authors: Ashman JN, Brigham J, Cowen ME, Bahia H, Greenman J, Lind M, and Cawkwell
+  L.
+contact:
+  email: L.Cawkwell@hull.ac.uk
+  name: L. Cawkwell
+counts:
+  biosamples: 6
+  samples_acgh: 0
+  samples_ccgh: 6
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12397641
+geo_data:
+  geo_json:
+    coordinates:
+    - -0.44
+    - 53.77
+    type: Point
+  info:
+    city: Cottingham
+    continent: ~
+    country: United Kingdom
+    label: Cottingham, United Kingdom
+    precision: city [needs verification]
+journal: Int J Cancer, 102(3) 2002, 230-36.
+label: 'Ashman et al. (2002): Chromosomal alterations in small cell lung cancer revealed
+  by multicolour fluorescence in situ ...'
+notes: ~
+pmid: 12397641
+title: Chromosomal alterations in small cell lung cancer revealed by multicolour fluorescence
+  in situ hybridization.
+year: 2002

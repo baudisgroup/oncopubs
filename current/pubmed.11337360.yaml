@@ -1,0 +1,48 @@
+---
+abstract: We have developed a protocol for degenerate oligonucleotide-primed-polymerase
+  chain reaction-based array comparative genomic hybridization array CGH that, when
+  combined with a laser microdissection technique, allows the analysis of cancer cell
+  populations isolated from routine, formalin-fixed, paraffin-embedded tissue samples.
+  Comparison of copy number changes detected by degenerate oligonucleotide-primed-polymerase
+  chain reaction-based array CGH to those detected by conventional array CGH or fluorescence
+  in situ hybridization, demonstrated that amplifications can be reliably detected.
+  Using a genomic microarray containing 57 oncogenes, we screened a total of 28 breast
+  cancer samples and obtained a detailed amplicon profile that is the most comprehensive
+  to date in human breast cancer. The array CGH method described here will allow the
+  genetic analysis of paraffin-embedded human cancer materials for example in the
+  context of clinical trials.
+authors: Daigo Y, Chin SF, Gorringe KL, Bobrow LG, Ponder BA, Pharoah PD and Caldas
+  C.
+contact:
+  email: ~
+  name: C. Caldas
+counts:
+  biosamples: 24
+  samples_acgh: 0
+  samples_ccgh: 24
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11337360
+geo_data:
+  geo_json:
+    coordinates:
+    - 0.12
+    - 52.21
+    type: Point
+  info:
+    city: Cambridge UK
+    continent: ~
+    country: United Kingdom
+    label: Cambridge UK, United Kingdom
+    precision: city [needs verification]
+journal: 'Am J Pathol 158, 5 (2001): 1623-31.'
+label: 'Daigo et al. (2001): Degenerate Oligonucleotide Primed-Polymerase Chain Reaction-Based
+  Array Comparative Genomic ...'
+notes: aCGH was performed with the AmpliOnc I array (Vysis). This is not considered
+  for inclusion into the data base, due to the low probe number.
+pmid: 11337360
+title: 'Degenerate Oligonucleotide Primed-Polymerase Chain Reaction-Based Array Comparative
+  Genomic Hybridization for Extensive Amplicon Profiling of Breast Cancers : A New
+  Approach for the Molecular Analysis of Paraffin-Embedded Cancer Tissue.'
+year: 2001

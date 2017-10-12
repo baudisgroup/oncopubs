@@ -1,0 +1,38 @@
+---
+abstract: To evaluate the clinical validity of genome-wide oligonucleotide array comparative
+  genomic hybridization aCGH for detecting somatic abnormalities, we have applied
+  this genomic analysis to 30 cases 13 MDS and 17 AML with clonal chromosomal abnormalities
+  detected in more than 50 of analyzed metaphase cells.
+authors: Bajaj R, Xu F, Xiang B, Wilcox K, Diadamo AJ, Kumar R, Pietraszkiewicz A,
+  Halene S, and Li P.
+contact:
+  email: ~
+  name: Peining Li
+counts:
+  biosamples: 30
+  samples_acgh: 30
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21251322
+geo_data:
+  geo_json:
+    coordinates:
+    - -72.93
+    - 41.31
+    type: Point
+  info:
+    city: New Haven
+    continent: North America
+    country: United States
+    label: New Haven, United States, North America
+    precision: city
+journal: Mol Cytogenet, 4(1) 2011, 3.
+label: 'Bajaj et al. (2011): Evidence-based genomic diagnosis characterized chromosomal
+  and cryptic imbalances in 30 elderly ...'
+notes: ~
+pmid: 21251322
+title: Evidence-based genomic diagnosis characterized chromosomal and cryptic imbalances
+  in 30 elderly patients with myelodysplastic syndrome and acute myeloid leukemia.
+year: 2011

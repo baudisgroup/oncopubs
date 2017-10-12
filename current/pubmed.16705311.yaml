@@ -1,0 +1,53 @@
+---
+abstract: Lung cancer is the leading cause of cancer-related mortality in the world,
+  with small cell lung cancer SCLC and non-small cell lung cancer NSCLC comprising
+  the two major cell types. Although these cell types can be distinguished readily
+  at the histological level, knowledge of their underlying molecular differences is
+  very limited. In this study, we compared 14 SCLC cell lines against 27 NSCLC cell
+  lines using an integrated array comparative genomic hybridisation and gene expression
+  profiling approach to identify subtype-specific disruptions. Using stringent criteria,
+  we have identified 159 of the genes that are responsible for the different biology
+  of these cell types. Sorting of these genes by their biological functions revealed
+  the differential disruption of key components involved in cell cycle pathways. Our
+  novel comparative combined genome and transcriptome analysis not only identified
+  differentially altered genes, but also revealed that certain shared pathways are
+  preferentially disrupted at different steps in these cell types. Small cell lung
+  cancer exhibited increased expression of MRP5, activation of Wnt pathway inhibitors,
+  and upregulation of p38 MAPK activating genes, while NSCLC showed downregulation
+  of CDKN2A, and upregulation of MAPK9 and EGFR. This information suggests that cell
+  cycle upregulation in SCLC and NSCLC occurs through drastically different mechanisms,
+  highlighting the need for differential molecular target selection in the treatment
+  of these cancers.
+authors: Coe BP, Lockwood WW, Girard L, Chari R, Macaulay C, Lam S, Gazdar AF, Minna
+  JD and Lam WL.
+contact:
+  email: bcoe@bccrc.ca
+  name: Bradley P. Coe
+counts:
+  biosamples: 41
+  samples_acgh: 41
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16705311
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Br J Cancer 94, 12 (2006): 1927-35.'
+label: 'Coe et al. (2006): Differential Disruption of Cell Cycle Pathways in Small
+  Cell and Non-Small Cell Lung ...'
+notes: ~
+pmid: 16705311
+title: Differential Disruption of Cell Cycle Pathways in Small Cell and Non-Small
+  Cell Lung Cancer.
+year: 2006

@@ -1,0 +1,37 @@
+---
+abstract: Cytogenetic aberrations are of prognostic significance in childhood acute
+  lymphoblastic leukaemias and a high detection rate could improve the biological
+  understanding and classification of these diseases.
+authors: Kristensen TD, Wesenberg F, Jonsson OG, Carlsen NT, Forestier E, Kirchhoff
+  M, Lundsteen C and Schmiegelow K.
+contact:
+  email: kschmiegelow@rh.dk
+  name: Kjeld Schmiegelow
+counts:
+  biosamples: 92
+  samples_acgh: 0
+  samples_ccgh: 92
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12756018
+geo_data:
+  geo_json:
+    coordinates:
+    - 12.57
+    - 55.68
+    type: Point
+  info:
+    city: Copenhagen
+    continent: Europe
+    country: Denmark
+    label: Copenhagen, Denmark, Europe
+    precision: city
+journal: 'Eur J Haematol 70, 6 (2003): 363-72.'
+label: 'Kristensen et al. (2003): High-Resolution Comparative Genomic Hybridisation
+  Yields a High Detection Rate of Chromosomal ...'
+notes: ~
+pmid: 12756018
+title: High-Resolution Comparative Genomic Hybridisation Yields a High Detection Rate
+  of Chromosomal Aberrations in Childhood Acute Lymphoblastic Leukaemia.
+year: 2003

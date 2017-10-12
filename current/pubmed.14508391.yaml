@@ -1,0 +1,57 @@
+---
+abstract: Hepatoid adenocarcinoma HAC is a special type of extrahepatic adenocarcinoma,
+  which has a striking morphologic similarity to hepatocellular carcinoma. Seven HACs
+  arising in the stomach and one in the lung, all with liver metastasis, were studied.
+  They shared clinical features, such as old age, high serum alpha-fetoprotein level,
+  aggressive behavior, and hepatic tumor in absence of risk factors for hepatocellular
+  carcinoma HCC . Morphologically, tumors were characterized by an admixture of tubulo-and
+  or papillary adenocarcinoma with hepatoid foci. In six cases, liver metastases showed
+  an exclusive hepatoid differentiation, virtually indistinguishable from HCC with
+  solid growth pattern. As HAC and HCC cannot be differentiated on the basis of morphology
+  alone, differences in immunohistochemical reaction patterns would be of considerable
+  diagnostic help. Immunostaining for CK7, CK8, CK18, CK19, CK20, alpha-fetoprotein,
+  p-CEA, and HepPar1 revealed that hepatoid areas of both primary and metastatic HAC
+  have a specific immunoprofile, distinctive of this entity. On the one hand, positivity
+  of virtually all HACs for alpha-fetoprotein, CK8, CK18, and the membranous, canalicular
+  staining for polyclonal carcinoembryonic antigen underline its hepatoid nature.
+  On the other hand, positive staining for CK19 and CK20 and frequent negativity for
+  HepPar1 in both primary tumors and their metastases were distinctive features of
+  HAC. Furthermore, HAC differs from combined hepatocellular cholangiocarcinoma, being
+  negative for CK7. In addition, for comparison of immunohistochemical results, we
+  stained with the same antibody panel a tissue microarray of 121 HCCs. Comparative
+  genomic hybridization study of three HAC supports their hepatoid differentiation
+  as aberrations found in HAC are common in HCC 4q-, 8p- , and hepatoblastoma Xq ,
+  respectively.
+authors: Terracciano LM, Glatz K, Mhawech P, Vasei M, Lehmann FS, Vecchione R and
+  Tornillo L.
+contact:
+  email: lterracciano@uhbs.ch
+  name: Luigi Terraciano
+counts:
+  biosamples: 3
+  samples_acgh: 0
+  samples_ccgh: 3
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14508391
+geo_data:
+  geo_json:
+    coordinates:
+    - 7.57
+    - 47.56
+    type: Point
+  info:
+    city: Basel
+    continent: Europe
+    country: Switzerland
+    label: Basel, Switzerland, Europe
+    precision: city
+journal: 'Am J Surg Pathol 27, 10 (2003): 1302-12.'
+label: 'Terracciano et al. (2003): Hepatoid Adenocarcinoma With Liver Metastasis Mimicking
+  Hepatocellular Carcinoma: An ...'
+notes: ~
+pmid: 14508391
+title: 'Hepatoid Adenocarcinoma With Liver Metastasis Mimicking Hepatocellular Carcinoma:
+  An Immunohistochemical and Molecular Study of Eight Cases.'
+year: 2003

@@ -1,0 +1,47 @@
+---
+abstract: Elastofibroma is a rare, benign, slow-growing degenerative pseudotumor that
+  typically occurs in the subscapular region and has been considered a peculiar fibroblastic
+  proliferation with accumulation of abnormal elastic fibers. Very little is known
+  about the cytogenetic and molecular genetic changes in elastofibroma. In the present
+  study, we analyzed DNA copy number changes in 27 elastofibromas by comparative genomic
+  hybridization. DNA was extracted from 22 archival paraffin-embedded tumor tissues
+  and from 5 fresh frozen samples. Nine 33 of the 27 cases exhibited DNA copy number
+  changes involving one or two chromosomes, whereas the remaining 18 cases exhibited
+  no DNA copy number changes. The majority of the changes were gains 8 cases , whereas
+  2 cases showed losses. The most common recurrent gains were at chromosomal locations
+  Xq12-q22 6 cases and 19 2 cases . High-level amplifications and recurrent losses
+  were not observed. There was no correlation between DNA copy number changes and
+  the pseudotumor size. The present study has identified a chromosomal region that
+  may contain genes involved in the development of at least some elastofibromas.
+authors: Nishio JN, Iwasaki H, Ohjimi Y, Ishiguro M, Koga T, Isayama T, Naito M and
+  Kikuchi M.
+contact:
+  email: iwasaki@fukuoka-u.ac.jp
+  name: H. Iwasaki
+counts:
+  biosamples: 27
+  samples_acgh: 0
+  samples_ccgh: 27
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12165800
+geo_data:
+  geo_json:
+    coordinates:
+    - 130.42
+    - 33.61
+    type: Point
+  info:
+    city: Fukuoka-shi
+    continent: Asia
+    country: Japan
+    label: Fukuoka-shi, Japan, Asia
+    precision: city
+journal: 'Int J Mol Med 10, 3 (2002): 277-80.'
+label: 'Nishio et al. (2002): Gain of Xq Detected By Comparative Genomic Hybridization
+  in Elastofibroma.'
+notes: ~
+pmid: 12165800
+title: Gain of Xq Detected By Comparative Genomic Hybridization in Elastofibroma.
+year: 2002

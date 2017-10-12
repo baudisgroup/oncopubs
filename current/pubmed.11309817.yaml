@@ -1,0 +1,35 @@
+---
+abstract: Nasal-type NK T-cell lymphoma is a rare type of non-Hodgkins lymphoma. The
+  genetic changes associated with pathogenesis have not been well defined. This study
+  investigates the nonrandom genetic alteration of nasal-type NK T-cell lymphoma.
+authors: Ko YH, Choi KE, Han JH, Kim JM and Ree HJ.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 7
+  samples_acgh: 0
+  samples_ccgh: 7
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:11309817
+geo_data:
+  geo_json:
+    coordinates:
+    - 126.98
+    - 37.57
+    type: Point
+  info:
+    city: Seoul
+    continent: Asia
+    country: Korean Republic
+    label: Seoul, Korean Republic, Asia
+    precision: city
+journal: 'Cytometry 46, 2 (2001): 85-91.'
+label: 'Ko et al. (2001): Comparative Genomic Hybridization Study of Nasal-Type Nk/T-Cell
+  Lymphoma.'
+notes: ~
+pmid: 11309817
+title: Comparative Genomic Hybridization Study of Nasal-Type Nk/T-Cell Lymphoma.
+year: 2001

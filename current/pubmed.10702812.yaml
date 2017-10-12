@@ -1,0 +1,39 @@
+---
+abstract: We have previously reported on a complex chromosome rearrangement der 17
+  in a B-cell line, BRG A, established from an AIDS patient with Burkitts lymphoma
+  BL . The aim of the present study was the definition of der 17 composition and the
+  identification of complete or partial chromosome gains and losses in two cell clones
+  BRG A and BRG M derived from this patient.
+authors: Zunino A, Viaggi S, Ottaggio L, Fronza G, Schenone A, Roncella S and Abbondandolo
+  A.
+contact:
+  email: zuninoa@hp380.ist.unige.it
+  name: NA Zunino
+counts:
+  biosamples: 2
+  samples_acgh: 0
+  samples_ccgh: 2
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10702812
+geo_data:
+  geo_json:
+    coordinates:
+    - 8.92
+    - 44.43
+    type: Point
+  info:
+    city: Genoa
+    continent: Europe
+    country: Italy
+    label: Genoa, Italy, Europe
+    precision: city
+journal: 'Haematologica 85, 3 (2000): 250-55.'
+label: 'Zunino et al. (2000): Chromosomal Aberrations Evaluated By Cgh, Fish and Gtg-Banding
+  in a Case of Aids-Related Burkitts ...'
+notes: ~
+pmid: 10702812
+title: Chromosomal Aberrations Evaluated By Cgh, Fish and Gtg-Banding in a Case of
+  Aids-Related Burkitts Lymphoma.
+year: 2000

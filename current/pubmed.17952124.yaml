@@ -1,0 +1,58 @@
+---
+abstract: 'Ewings sarcoma ES is characterized by specific chromosome translocations,
+  the most common being t 11 22 q24 q12 . Additionally, other type of genetic abnormalities
+  may occur and be relevant for explaining the variable tumour biology and clinical
+  outcome. We have carried out a high-resolution array CGH and expression profiling
+  on 25 ES tumour samples to characterize the DNA copy number aberrations CNA occurring
+  in these tumours and determine their association with gene-expression profiles and
+  clinical outcome. CNA were observed in 84 of the cases. We observed a median number
+  of three aberrations per case. Besides numerical chromosome changes, smaller aberrations
+  were found and defined at chromosomes 5p, 7q and 9p. All CNA were compiled to define
+  the smallest overlapping regions of imbalance SORI . A total of 35 SORI were delimited.
+  Bioinformatics analyses were conducted to identify subgroups according to the pattern
+  of genomic instability. Unsupervised and supervised clustering analysis using SORI
+  as variables segregated the tumours in two distinct groups: one genomically stable
+  amp lt or 3 CNA and other genomically unstable amp gt 3 CNA . The genomic unstable
+  group showed a statistically significant shorter overall survival and was more refractory
+  to chemotherapy. Expression profile analysis revealed significant differences between
+  both groups. Genes related with chromosome segregation, DNA repair pathways and
+  cell-cycle control were upregulated in the genomically unstable group. This report
+  elucidates, for the first time, data about genomic instability in ES, based on CNA
+  and expression profiling, and shows that a genomically unstable group of Ewings
+  tumours is correlated with a significant poor prognosis.'
+authors: Ferreira BI, Alonso J, Carrillo J, Acquadro F, Largo C, Suela J, Teixeira
+  MR, Cerveira N, Molares A, Gomez-Lopez G, Pestana A, Sastre A, Garcia-Miguel P and
+  Cigudosa JC.
+contact:
+  email: jccigudosa@cnio.es
+  name: Juan C. Cigudosa
+counts:
+  biosamples: 25
+  samples_acgh: 25
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:17952124
+- geo:GSE8398
+geo_data:
+  geo_json:
+    coordinates:
+    - -3.7
+    - 40.42
+    type: Point
+  info:
+    city: Madrid
+    continent: Europe
+    country: Spain
+    label: Madrid, Spain, Europe
+    precision: city
+journal: 'Oncogene 27, 14 (2008): 2084-90.'
+label: 'Ferreira et al. (2008): Array Cgh and Gene-Expression Profiling Reveals Distinct
+  Genomic Instability Patterns Associated ...'
+notes: ~
+pmid: 17952124
+title: Array Cgh and Gene-Expression Profiling Reveals Distinct Genomic Instability
+  Patterns Associated With DNA Repair and Cell-Cycle Checkpoint Pathways in Ewings
+  Sarcoma.
+year: 2008

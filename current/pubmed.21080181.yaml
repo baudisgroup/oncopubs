@@ -1,0 +1,56 @@
+---
+abstract: Array comparative genomic hybridization aCGH is a powerful tool for detecting
+  DNA copy number alterations CNA . Because diffuse malignant gliomas are often sampled
+  by small biopsies, formalin-fixed paraffin-embedded FFPE blocks are often the only
+  tissue available for genetic analysis FFPE tissues are also needed to study the
+  intratumoral heterogeneity that characterizes these neoplasms. In this paper, we
+  present a combination of evaluations and technical advances that provide strong
+  support for the ready use of oligonucleotide aCGH on FFPE diffuse gliomas. We first
+  compared aCGH using bacterial artificial chromosome BAC arrays in 45 paired frozen
+  and FFPE gliomas, and demonstrate a high concordance rate between FFPE and frozen
+  DNA in an individual clone-level analysis of sensitivity and specificity, assuring
+  that under certain array conditions, frozen and FFPE DNA can perform nearly identically.
+  However, because oligonucleotide arrays offer advantages to BAC arrays in genomic
+  coverage and practical availability, we next developed a method of labeling DNA
+  from FFPE tissue that allows efficient hybridization to oligonucleotide arrays.
+  To demonstrate utility in FFPE tissues, we applied this approach to biphasic anaplastic
+  oligoastrocytomas and demonstrate CNA differences between DNA obtained from the
+  two components. Therefore, BAC and oligonucleotide aCGH can be sensitive and specific
+  tools for detecting CNAs in FFPE DNA, and novel labeling techniques enable the routine
+  use of oligonucleotide arrays for FFPE DNA. In combination, these advances should
+  facilitate genome-wide analysis of rare, small and or histologically heterogeneous
+  gliomas from FFPE tissues.
+authors: Mohapatra G, Engler DA, Starbuck KD, Kim JC, Bernay DC, Scangas GA, Rousseau
+  A, Batchelor TT, Betensky RA and Louis DN.
+contact:
+  email: ~
+  name: Gayatry Mohapatra
+counts:
+  biosamples: 50
+  samples_acgh: 50
+  samples_ccgh: 5
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21080181
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Acta Neuropathol 121, 4 (2011): 529-43.'
+label: 'Mohapatra et al. (2011): Genome-Wide Comparison of Paired Fresh Frozen and
+  Formalin-Fixed Paraffin-Embedded Gliomas By ...'
+notes: ~
+pmid: 21080181
+title: 'Genome-Wide Comparison of Paired Fresh Frozen and Formalin-Fixed Paraffin-Embedded
+  Gliomas By Custom Bac and Oligonucleotide Array Comparative Genomic Hybridization:
+  Facilitating Analysis of Archival Gliomas.'
+year: 2011

@@ -1,0 +1,49 @@
+---
+abstract: Near-haploid chromosome numbers have been found in less than 1 of cytogenetically
+  reported tumors, but seem to be more common in certain neoplasms including the malignant
+  cartilage-producing tumor chondrosarcoma. By a literature survey of published karyotypes
+  from chondrosarcomas we could confirm that loss of chromosomes resulting in hyperhaploid-hypodiploid
+  cells is common and that these cells may polyploidize. Sixteen chondrosarcomas were
+  investigated by single nucleotide polymorphism SNP array and the majority displayed
+  SNP patterns indicative of a hyperhaploid-hypodiploid origin, with or without subsequent
+  polyploidization. Except for chromosomes 5, 7, 19, 20 and 21, autosomal loss of
+  heterozygosity was commonly found, resulting from chromosome loss and subsequent
+  duplication of monosomic chromosomes giving rise to uniparental disomy. Additional
+  gains, losses and rearrangements of genetic material, and even repeated rounds of
+  polyploidization, may affect chondrosarcoma cells resulting in highly complex karyotypes.
+  Loss of chromosomes and subsequent polyploidization was not restricted to a particular
+  chondrosarcoma subtype and, although commonly found in chondrosarcoma, binucleated
+  cells did not seem to be involved in these events.
+authors: Olsson L, Paulsson K, Bovee JV and Nord KH.
+contact:
+  email: ~
+  name: Karolin Nord
+counts:
+  biosamples: 16
+  samples_acgh: 16
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21949816
+- geo:GSE25985
+geo_data:
+  geo_json:
+    coordinates:
+    - 13.19
+    - 55.71
+    type: Point
+  info:
+    city: Lund
+    continent: Europe
+    country: Sweden
+    label: Lund, Sweden, Europe
+    precision: city
+journal: 'PLoS One 6, 9 (2011): e24977.'
+label: 'Olsson et al. (2011): Clonal Evolution Through Loss of Chromosomes and Subsequent
+  Polyploidization in ...'
+notes: ~
+pmid: 21949816
+title: Clonal Evolution Through Loss of Chromosomes and Subsequent Polyploidization
+  in Chondrosarcoma.
+year: 2011

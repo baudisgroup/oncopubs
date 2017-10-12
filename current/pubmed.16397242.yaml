@@ -1,0 +1,59 @@
+---
+abstract: Spermatocytic seminomas are solid tumors found solely in the testis of predominantly
+  elderly individuals. We investigated these tumors using a genome-wide analysis for
+  structural and numerical chromosomal changes through conventional karyotyping, spectral
+  karyotyping, and array comparative genomic hybridization using a 32 K genomic tiling-path
+  resolution BAC platform confirmed by in situ hybridization . Our panel of five spermatocytic
+  seminomas showed a specific pattern of chromosomal imbalances, mainly numerical
+  in nature range, 3-24 per tumor . Gain of chromosome 9 was the only consistent anomaly,
+  which in one case also involved amplification of the 9p21.3-pter region. Parallel
+  chromosome level expression profiling as well as microarray expression analyses
+  Affymetrix U133 plus 2.0 was also done. Unsupervised cluster analysis showed that
+  a profile containing transcriptional data on 373 genes difference of amp gt or 3.0-fold
+  is suitable for distinguishing these tumors from seminomas dysgerminomas. The diagnostic
+  markers SSX2-4 and POU5F1 OCT3 OCT4 , previously identified by us, were among the
+  top discriminatory genes, thereby validating the experimental set-up. In addition,
+  novel discriminatory markers suitable for diagnostic purposes were identified, including
+  Deleted in Azospermia DAZ . Although the seminomas dysgerminomas were characterized
+  by expression of stem cell-specific genes e.g., POU5F1, PROM1 CD133, and ZFP42 ,
+  spermatocytic seminomas expressed multiple cancer testis antigens, including TSP50
+  and CTCFL BORIS , as well as genes known to be expressed specifically during prophase
+  meiosis I TCFL5, CLGN, and LDHc . This is consistent with different cells of origin,
+  the primordial germ cell and primary spermatocyte, respectively. Based on the region
+  of amplification defined on 9p and the associated expression plus confirmatory immunohistochemistry,
+  DMRT1 a male-specific transcriptional regulator was identified as a likely candidate
+  gene for involvement in the development of spermatocytic seminomas.
+authors: Looijenga LH, Hersmus R, Gillis AJ, Pfundt R, Stoop HJ, van Gurp RJ, Veltman
+  J, Beverloo HB, van Drunen E, van Kessel AG, Pera RR, Schneider DT, Summersgill
+  B, Shipley J, McIntyre A, van der Spek P, Schoenmakers E and Oosterhuis JW.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 12
+  samples_acgh: 12
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:16397242
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.48
+    - 51.92
+    type: Point
+  info:
+    city: Rotterdam
+    continent: ~
+    country: The Netherlands
+    label: Rotterdam, The Netherlands
+    precision: city [needs verification]
+journal: 'Cancer Res 66, 1 (2006): 290-302.'
+label: 'Looijenga et al. (2006): Genomic and Expression Profiling of Human Spermatocytic
+  Seminomas: Primary Spermatocyte as ...'
+notes: ~
+pmid: 16397242
+title: 'Genomic and Expression Profiling of Human Spermatocytic Seminomas: Primary
+  Spermatocyte as Tumorigenic Precursor and Dmrt1 as Candidate Chromosome 9 Gene.'
+year: 2006

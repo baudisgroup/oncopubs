@@ -1,0 +1,37 @@
+---
+abstract: To determine whether intraductal papillary mucinous neoplasms of the pancreas
+  IPMNs have a different genetic background compared with ductal adenocarcinoma PDAC
+  .
+authors: Fritz S, Fernandez-del Castillo C, Mino-Kenudson M, Crippa S, Deshpande V,
+  Lauwers GY, Warshaw AL, Thayer SP and Iafrate AJ.
+contact:
+  email: aiafrate@partners.org
+  name: A. John Iafrate
+counts:
+  biosamples: 21
+  samples_acgh: 21
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19247032
+geo_data:
+  geo_json:
+    coordinates:
+    - -71.06
+    - 42.36
+    type: Point
+  info:
+    city: Boston
+    continent: North America
+    country: United States
+    label: Boston, United States, North America
+    precision: city
+journal: 'Ann Surg 249, 3 (2009): 440-47.'
+label: 'Fritz et al. (2009): Global Genomic Analysis of Intraductal Papillary Mucinous
+  Neoplasms of the Pancreas Reveals ...'
+notes: ~
+pmid: 19247032
+title: Global Genomic Analysis of Intraductal Papillary Mucinous Neoplasms of the
+  Pancreas Reveals Significant Molecular Differences Compared to Ductal Adenocarcinoma.
+year: 2009

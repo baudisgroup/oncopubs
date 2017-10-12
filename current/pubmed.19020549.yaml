@@ -1,0 +1,51 @@
+---
+abstract: 'Merkel cell carcinoma MCC is an aggressive neuroendocrine skin cancer with
+  poorly characterized genetics. We performed high resolution comparative genomic
+  hybridization on 25 MCC specimens using a high-density oligonucleotide microarray.
+  Tumors frequently carried extra copies of chromosomes 1, 3q, 5p, and 6 and lost
+  chromosomes 3p, 4, 5q, 7, 10, and 13. MCC tumors with less genomic aberration were
+  associated with improved survival P 0.04 . Tumors from 13 of 22 MCC patients had
+  detectable Merkel cell polyomavirus DNA, and these tumors had fewer genomic deletions.
+  Three regions of genomic alteration were of particular interest: a deletion of 5q12-21
+  occurred in 26 of tumors, a deletion of 13q14-21 was recurrent in 26 of tumors and
+  contains the well-characterized tumor suppressor RB1, and a previously unreported
+  focal amplification at 1p34 was present in 39 of tumors and centers on L-Myc MYCL1
+  . L-Myc is related to the c-Myc proto-oncogene, has transforming activity, and is
+  amplified in the closely related small cell lung cancer. Normal skin showed no L-Myc
+  expression, whereas 4 4 MCC specimens tested expressed L-Myc RNA in relative proportion
+  to the DNA copy number gain. These findings suggest several genes that may contribute
+  to MCC pathogenesis, most notably L-Myc.'
+authors: Paulson KG, Lemos BD, Feng B, Jaimes N, Penas PF, Bi X, Maher E, Cohen L,
+  Leonard JH, Granter SR, Chin L and Nghiem P.
+contact:
+  email: ~
+  name: Kelly Paulson
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 8
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:19020549
+- geo:GSE13239
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.33
+    - 47.61
+    type: Point
+  info:
+    city: Seattle
+    continent: North America
+    country: United States
+    label: Seattle, United States, North America
+    precision: city
+journal: 'J Invest Dermatol 129, 6 (2009): 1547-55.'
+label: 'Paulson et al. (2009): Array-Cgh Reveals Recurrent Genomic Changes in Merkel
+  Cell Carcinoma Including Amplification of ...'
+notes: ~
+pmid: 19020549
+title: Array-Cgh Reveals Recurrent Genomic Changes in Merkel Cell Carcinoma Including
+  Amplification of L-Myc.
+year: 2009

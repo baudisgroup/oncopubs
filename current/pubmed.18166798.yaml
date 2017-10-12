@@ -1,0 +1,43 @@
+---
+abstract: The biologic mechanisms involved in the clinical progression from early
+  stages of patients with chronic lymphocytic leukemia CLL are not well known. We
+  investigated sequential samples from 16 untreated CLL patients obtained at diagnosis
+  in early stage and after progression before treatment. One patient had a p16 INK4a
+  homozygous deletion at diagnosis and progression, and 3 patients acquired a p53
+  mutation, gains of 5q21-q23 and 11pter-p14, and a gain of chromosome 12 respectively,
+  during the progression of the disease. Gene expression profile analysis showed a
+  significant modulation of 58 genes with a particular downregulation of genes that
+  are inhibitors of cell adhesion and motility.
+authors: Fernandez V, Jares P, Salaverria I, Gine E, Bea S, Aymerich M, Colomer D,
+  Villamor N, Bosch F, Montserrat E and Campo E.
+contact:
+  email: ecampo@clinic.ub.es
+  name: Elias Campo
+counts:
+  biosamples: 38
+  samples_acgh: 0
+  samples_ccgh: 38
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:18166798
+geo_data:
+  geo_json:
+    coordinates:
+    - 2.16
+    - 41.39
+    type: Point
+  info:
+    city: Barcelona
+    continent: Europe
+    country: Spain
+    label: Barcelona, Spain, Europe
+    precision: city
+journal: 'Haematologica 93, 1 (2008): 132-36.'
+label: 'Fernandez et al. (2008): Gene Expression Profile and Genomic Changes in Disease
+  Progression of Early-Stage Chronic ...'
+notes: ~
+pmid: 18166798
+title: Gene Expression Profile and Genomic Changes in Disease Progression of Early-Stage
+  Chronic Lymphocytic Leukemia.
+year: 2008

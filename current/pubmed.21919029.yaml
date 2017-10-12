@@ -1,0 +1,37 @@
+---
+abstract: Castration-resistant prostate cancer CRPC represents a therapeutic challenge
+  for current medications.
+authors: Vainio P, Wolf M, Edgren H, He T, Kohonen P, Mpindi JP, Smit F, Verhaegh
+  G, Schalken J, Perala M, Iljin K and Kallioniemi O.
+contact:
+  email: olli.kallioniemi@helsinki.fi
+  name: Olli Kallioniemi
+counts:
+  biosamples: 18
+  samples_acgh: 18
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21919029
+- geo:GSE28403
+geo_data:
+  geo_json:
+    coordinates:
+    - 22.27
+    - 60.45
+    type: Point
+  info:
+    city: Turku
+    continent: Europe
+    country: Finland
+    label: Turku, Finland, Europe
+    precision: city
+journal: Prostate (2011)
+label: 'Vainio et al. (2011): Integrative Genomic, Transcriptomic, and Rnai Analysis
+  Indicates a Potential Oncogenic Role for ...'
+notes: ~
+pmid: 21919029
+title: Integrative Genomic, Transcriptomic, and Rnai Analysis Indicates a Potential
+  Oncogenic Role for Fam110B in Castration-Resistant Prostate Cancer.
+year: 2011

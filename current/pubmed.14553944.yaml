@@ -1,0 +1,40 @@
+---
+abstract: Gains or amplifications involving chromosome arm 8q are one of the most
+  recurrent chromosomal alterations in head and neck tumors. To characterize previously
+  reported gains, we performed fluorescence in situ hybridization FISH using the sequences
+  BAC RP1179E1 and 8-centromere PMJ 128 as probes. Gains and or amplifications were
+  detected in all 19 cases evaluated by FISH. The FISH analysis, but not G-banding,
+  revealed homogeneously staining region in three cases. We conclude that gains of
+  one or more genes on chromosome arm 8q may be important for the early stages of
+  head and neck carcinomas.
+authors: da Silva Veiga LC, Bergamo NA, dos Reis PP, Kowalski LP and Rogatto SR.
+contact:
+  email: rogatto@ibb.unesp.br
+  name: Silvia Regina Rogatto
+counts:
+  biosamples: 17
+  samples_acgh: 0
+  samples_ccgh: 17
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14553944
+geo_data:
+  geo_json:
+    coordinates:
+    - -46.64
+    - -23.55
+    type: Point
+  info:
+    city: Sao Paulo
+    continent: South America
+    country: Brazil
+    label: Sao Paulo, Brazil, South America
+    precision: city
+journal: 'Cancer Genet Cytogenet 146, 2 (2003): 110-15.'
+label: 'da Silva Veiga et al. (2003): DNA Gains At 8q23.2: A Potential Early Marker
+  in Head and Neck Carcinomas.'
+notes: ~
+pmid: 14553944
+title: 'DNA Gains At 8q23.2: A Potential Early Marker in Head and Neck Carcinomas.'
+year: 2003

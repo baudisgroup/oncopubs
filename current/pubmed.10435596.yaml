@@ -1,0 +1,55 @@
+---
+abstract: 'Allelic alterations of chromosomes 1 and 19 are frequent events in human
+  diffuse gliomas and have recently proven to be strong predictors of chemotherapeutic
+  response and prolonged survival in oligodendrogliomas Cairncross et al., 1998 Smith
+  et al., submitted . Using 115 human diffuse gliomas, we localized regions of common
+  allelic loss on chromosomes 1 and 19 and assessed the association of these deletion
+  intervals with glioma histological subtypes. Further, we evaluated the capacity
+  of multiple modalities to detect these alterations, including loss of heterozygosity
+  LOH , fluorescence in situ hybridization FISH , and comparative genomic hybridization
+  CGH . The correlation coefficients for detection of 1p and 19q alterations, respectively,
+  between modalities were: 0.98 and 0.87 for LOH and FISH, 0.79 and 0.60 for LOH and
+  CGH, and 0.79 and 0.53 for FISH and CGH. Minimal deletion regions were defined on
+  19q13.3 D19S412-D19S596 and 1p D1S468-D1S1612 . Loss of the 1p36 region was found
+  in 18 of astrocytomas 10 55 and in 73 24 33 of oligodendrogliomas P amp lt 0.0001
+  , and loss of the 19q13.3 region was found in 38 21 55 of astrocytomas and 73 24
+  33 of oligodendrogliomas P 0.0017 . Loss of both regions was found in 11 6 55 of
+  astrocytomas and in 64 21 33 of oligodendrogliomas P amp lt 0.0001 . All gliomas
+  with LOH on either 1p or 19q demonstrated loss of the corresponding FISH probe,
+  1p36 or 19q13.3, suggesting not only locations of putative tumor suppressor genes,
+  but also a simple assay for assessment of 1p and 19q alterations as diagnostic and
+  prognostic markers.'
+authors: Smith JS, Alderete B, Minn Y, Borell TJ, Perry A, Mohapatra G, Hosek SM,
+  Kimmel D, OFallon J, Yates A, Feuerstein BG, Burger PC, Scheithauer BW and Jenkins
+  RB.
+contact:
+  email: rjenkins@mayo.edu
+  name: Robert B. Jenkins
+counts:
+  biosamples: 115
+  samples_acgh: 0
+  samples_ccgh: 115
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10435596
+geo_data:
+  geo_json:
+    coordinates:
+    - -70.98
+    - 43.3
+    type: Point
+  info:
+    city: Rochester
+    continent: North America
+    country: United States
+    label: Rochester, United States, North America
+    precision: city
+journal: 'Oncogene 18, 28 (1999): 4144-52.'
+label: 'Smith et al. (1999): Localization of Common Deletion Regions on 1p and 19q
+  in Human Gliomas and Their Association With ...'
+notes: ~
+pmid: 10435596
+title: Localization of Common Deletion Regions on 1p and 19q in Human Gliomas and
+  Their Association With Histological Subtype.
+year: 1999

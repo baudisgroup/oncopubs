@@ -1,0 +1,50 @@
+---
+abstract: Microarray technologies provide high-resolution maps of chromosome imbalances
+  and epigenomic aberrations in the cancer cell genome. Such assays are often sensitive
+  to sample DNA integrity, voiding the utility of many archival pathology specimens
+  and necessitating the special handling of prospective clinical specimens. We have
+  identified the remarkable preservation of higher-molecular weight DNA in archival
+  fine-needle aspiration cytopathology specimens from patients greater than 10 years
+  of age. We further demonstrate the outstanding technical performance of 57 fine-needle
+  aspiration cytopathology samples for aberration detection on high-resolution comparative
+  genomic hybridization array, DNA methylation, and single nucleotide polymorphism
+  genotyping platforms. Forty-four of 46 malignant aspirates in this study manifested
+  unequivocal genomic aberrations. Importantly, matched Papanicolaou and Diff-Quik
+  fine-needle aspiration cytopathology samples showed critical differences in DNA
+  preservation and DNA integrity. Overall, this study identifies a largely untapped
+  reserve of human pathology specimens for molecular profiling studies, with ramifications
+  for the prospective collection of clinical biospecimens.
+authors: Killian JK, Walker RL, Suuriniemi M, Jones L, Scurci S, Singh P, Cornelison
+  R, Harmon S, Boisvert N, Zhu J, Wang Y, Bilke S, Davis S, Giaccone G, Smith WI Jr
+  and Meltzer PS.
+contact:
+  email: pmeltzer@mail.nih.gov
+  name: Paul Meltzer
+counts:
+  biosamples: 57
+  samples_acgh: 57
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:20959611
+geo_data:
+  geo_json:
+    coordinates:
+    - -77.1
+    - 38.98
+    type: Point
+  info:
+    city: Bethesda
+    continent: North America
+    country: United States
+    label: Bethesda, United States, North America
+    precision: city
+journal: 'J Mol Diagn 12, 6 (2010): 739-45.'
+label: 'Killian et al. (2010): Archival Fine-Needle Aspiration Cytopathology (Fnac)
+  Samples: Untapped Resource for Clinical ...'
+notes: ~
+pmid: 20959611
+title: 'Archival Fine-Needle Aspiration Cytopathology (Fnac) Samples: Untapped Resource
+  for Clinical Molecular Profiling.'
+year: 2010

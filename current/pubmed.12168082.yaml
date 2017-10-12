@@ -1,0 +1,52 @@
+---
+abstract: Genetic alterations are assumed to be necessary for the development and
+  progression of ovarian cancer. However, the genetic alterations that occur during
+  lymph node metastasis and peritoneal dissemination are poorly understood. In the
+  present study, we used comparative genomic hybridization to detect genetic alterations
+  in 30 tumors from patients with primary ovarian cancers and analyzed the associations
+  of these genetic alterations with clinical stage and surgical pathological factors,
+  such as histological grade, lymph node metastasis, and peritoneal dissemination.
+  The total number of genetic alterations per tumor ranged from 0 to 39, with an average
+  of 17.7 alterations per tumor. Among the genetic alterations in ovarian cancers,
+  gains on chromosomes 8q and 3q and losses on chromosomes 17p, 18q, and 4q were observed
+  frequently. Although the difference in total numbers of genetic alterations between
+  early-stage tumors and advanced-stage tumors was not significant, the difference
+  was significant when high-grade cancers were compared with low-grade cancers. Eight
+  regions on seven chromosomes showed genetic alterations related to lymph node metastasis
+  or peritoneal dissemination. Gain at 11q13-q14 and loss at 17q11.2-q21 were related
+  not only to lymph node metastasis and peritoneal dissemination but also to clinical
+  stage and histological grade.
+authors: Umayahara K, Numa F, Inokuma A, Sueoka K, Kawasaki K, Hirakawa H, Emoto T,
+  Sakaguchi Y, Nawata S, Ogata H, Sakamoto M, Hasumi K, Kawauchi S, Sasaki K and Kato
+  H.
+contact:
+  email: kenji-u@po.cc.yamaguchi-u.ac.jp
+  name: Kenji Umayahara
+counts:
+  biosamples: 30
+  samples_acgh: 0
+  samples_ccgh: 30
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12168082
+geo_data:
+  geo_json:
+    coordinates:
+    - 131.47
+    - 34.19
+    type: Point
+  info:
+    city: Yamaguchi-shi
+    continent: Asia
+    country: Japan
+    label: Yamaguchi-shi, Japan, Asia
+    precision: city
+journal: 'Oncol Rep 9, 5 (2002): 1115-19.'
+label: 'Umayahara et al. (2002): Genetic Alterations Related to Lymph Node Metastasis
+  and Peritoneal Dissemination in Epithelial ...'
+notes: ~
+pmid: 12168082
+title: Genetic Alterations Related to Lymph Node Metastasis and Peritoneal Dissemination
+  in Epithelial Ovarian Cancers.
+year: 2002

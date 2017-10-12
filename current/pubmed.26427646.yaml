@@ -1,0 +1,53 @@
+---
+abstract: Estimation of the survival of patients with lung squamous cell carcinoma
+  (SCC) on the basis of histopathology is inadequate. The aim of this study was to
+  identify genomic regions with potential value for estimating the prognosis of these
+  patients.  Depending on their survival time, 100 patients with primary lung SCC
+  were separated into high- or low-risk prognostic groups, and their copy number aberrations
+  (CNAs) were analyzed using array-comparative genomic hybridization (array-CGH).  We
+  identified 123 CNA regions that were significantly associated with survival. Among
+  these regions, some have been reported previously (eg, amplifications of 8p12, 3q27.1,
+  and loss of 9p21.3 and 13q34) but others have never been reported. For example,
+  gains of 3q27.1, 5p13.2, and 5p13.3 were found to be associated with a favorable
+  prognosis, but patients harboring gains of 11q23.3, 11q13.1, and 14q32.3, and deletions
+  of 3p21.3 and 9p21.3 tended to have poor survival. Among the 123 CNA regions, 41
+  were further selected to construct a survival estimation model that could effectively
+  separate SCC patients into high- or low-risk groups with an accuracy of 92%, sensitivity
+  of 90%, and specificity of 94%. The results of the array-CGH were further validated
+  in an independent cohort of 45 formalin-fixed, paraffin-embedded specimens using
+  real-time polymerase chain reaction.  A number of CNA regions were found to be associated
+  with the survival of SCC patients, and we were able to construct a model to estimate
+  prognosis on the basis of these regions. Assessment of these CNAs could potentially
+  assist in clinical decision-making regarding adjuvant therapy after surgery.  Copyright
+  ï¿½ 2016 Elsevier Inc. All rights reserved.
+authors: Cao Y, Liu Y, Yang X, Liu X, Han N, Zhang K and Lin D
+contact:
+  email: lindm3@163.com
+  name: ' Dongmei Lin'
+counts:
+  biosamples: 100
+  samples_acgh: 100
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:26427646
+geo_data:
+  geo_json:
+    coordinates:
+    - 116.4
+    - 39.91
+    type: Point
+  info:
+    city: Beijing
+    continent: Asia
+    country: China
+    label: Beijing, China, Asia
+    precision: city
+journal: Clin Lung Cancer 17(1), 2016
+label: 'Cao Y et al. (2016): '
+notes: ~
+pmid: 26427646
+title: Estimation of the Survival of Patients With Lung Squamous Cell Carcinoma Using
+  Genomic Copy Number Aberrations.
+year: 2016

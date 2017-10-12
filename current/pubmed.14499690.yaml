@@ -1,0 +1,50 @@
+---
+abstract: Hepatocarcinogenesis may involve multiple mutations with distinctive pathogenetic
+  and clinicopathologic significance. To test this hypothesis, 68 cases of hepatocellular
+  carcinoma HCC were studied prospectively for genetic-clinicopathologic correlation.
+  Ten pathologic characteristics were evaluated. TP53 alias p53 gene mutation was
+  studied by a polymerase chain reaction PCR -single-strand conformation polymorphism-sequencing
+  CDKN2B alias p15 and CDKN2A alias p16 gene methylation by methylation-specific PCR
+  and genetic imbalances by comparative genomic hybridization CGH . TP53 gene mutations
+  occurred in 25 of cases, more than half being codon 249 G to T transversion. Methylation
+  of CDKN2A was frequent 61.7 of CDKN2B, rare 5.9 . The CGH analysis showed a median
+  of nine aberrations per case, with amplifications more frequent than deletions.
+  Isochromosomes might be involved in about 25 of cases. Amplifications of 1q and
+  8q were most frequent. Clinicopathologic correlations showed that CDKN2A methylation
+  was significantly associated with tumors arising in cirrhotic livers amplifications
+  of 17q was significant in multiple parameters of tumor invasiveness size, venous
+  invasion, poor cellular differentiation, microsatellite formation other amplifications
+  1q, 6p, 10p, and 20p were also significant in tumor invasion and deletions at 1p,
+  11q, 4q, and 14q were significant in tumor growth. Consistent patterns of genetic
+  alterations were defined in HCC, which might represent distinctive pathways in hepatocarcinogenesis.
+authors: Pang A, Ng IO, Fan ST and Kwong YL.
+contact:
+  email: ylkwong@hkucc.hku.hk
+  name: Y Kwong
+counts:
+  biosamples: 68
+  samples_acgh: 0
+  samples_ccgh: 68
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14499690
+geo_data:
+  geo_json:
+    coordinates:
+    - 114.16
+    - 22.29
+    type: Point
+  info:
+    city: Hong Kong
+    continent: Asia
+    country: China
+    label: Hong Kong, China, Asia
+    precision: city
+journal: 'Cancer Genet Cytogenet 146, 1 (2003): 8-15.'
+label: 'Pang et al. (2003): Clinicopathologic Significance of Genetic Alterations
+  in Hepatocellular Carcinoma.'
+notes: 68 HCC cases were analyzed by CGH, with correlation to clinicopathologic parameters.
+pmid: 14499690
+title: Clinicopathologic Significance of Genetic Alterations in Hepatocellular Carcinoma.
+year: 2003

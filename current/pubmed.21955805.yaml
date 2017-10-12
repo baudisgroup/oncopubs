@@ -1,0 +1,44 @@
+---
+abstract: Deletion of ATM detected by fluorescent in situ hybridization FISH in chronic
+  lymphocytic leukemia predicts short treatment free survival and poor outcome following
+  alkylator purine analogue therapy. We describe five cases, with a diminished ATM
+  FISH signal, investigated by TP53 mutation dysfunction studies and single nucleotide
+  polymorphism SNP array. The diminished signal represented loss of the ATM gene,
+  which could have been missed were the cases not further investigated. These rare
+  cases highlight the need for careful consideration of the choice of probe and interpretation
+  of unusual signal patterns in FISH screening. We define a new minimal region of
+  deletion at 11q22.3.
+authors: Gardiner A, Parker H, Glide S, Mould S, Robinson H, Tracy I, Stankovic T,
+  Oscier D and Strefford J.
+contact:
+  email: ~
+  name: Anne Gardiner
+counts:
+  biosamples: 5
+  samples_acgh: 5
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21955805
+geo_data:
+  geo_json:
+    coordinates:
+    - -1.88
+    - 50.72
+    type: Point
+  info:
+    city: Bournemouth
+    continent: Europe
+    country: United Kingdom
+    label: Bournemouth, United Kingdom, Europe
+    precision: city
+journal: 'Leuk Res 36, 3 (2012): 307-10.'
+label: 'Gardiner et al. (2012): A New Minimal Deleted Region At 11q22.3 Reveals the
+  Importance of Interpretation of Diminished ...'
+notes: ~
+pmid: 21955805
+title: A New Minimal Deleted Region At 11q22.3 Reveals the Importance of Interpretation
+  of Diminished Fish Signals and the Choice of Probe for Atm Deletion Screening in
+  Chronic Lymphocytic Leukemia.
+year: 2012

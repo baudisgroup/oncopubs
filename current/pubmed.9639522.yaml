@@ -1,0 +1,54 @@
+---
+abstract: Chromosomal translocations leading to deregulation of specific oncogenes
+  characterize approximately 50 of cases of diffuse large B-cell lymphomas DLBL .
+  To characterize additional genetic features that may be of value in delineating
+  the clinical characteristics of DLBL, we studied a panel of 96 cases at diagnosis
+  consecutively ascertained at the Memorial Sloan-Kettering Cancer Center MSKCC for
+  incidence of gene amplification, a genetic abnormality previously shown to be associated
+  with tumor progression and clinical outcome. A subset of 20 cases was subjected
+  to comparative genomic hybridization CGH analysis, which identified nine sites of
+  chromosomal amplification 1q21-23, 2p12-16, 8q24, 9q34, 12q12-14, 13q32, 16p12,
+  18q21-22, and 22q12 . Candidate amplified genes mapped to these sites were selected
+  for further analysis based on their known roles in lymphoid cell and lymphoma development,
+  and or history of amplification in tumors. Probes for six genes, which fulfilled
+  these criteria, REL 2p12-16 , MYC 8q24 , BCL2 18q21 , GLI, CDK4, and MDM2 12q13-14
+  , were used in a quantitative Southern blotting analysis of the 96 DLBL DNAs. Each
+  of these genes was amplified four or more copies with incidence ranging from 11
+  to 23 . This analysis is consistent with our previous finding that REL amplification
+  is associated with extranodal presentation. In addition, BCL2 rearrangement and
+  or REL, MYC, BCL2, GLI, CDK4, and MDM2 amplification was associated with advanced
+  stage disease. These data show, for the first time, that amplification of chromosomal
+  regions and genes is a frequent phenomenon in DLBL and demonstrates their potential
+  significance in lymphomagenesis.
+authors: Rao PH, Houldsworth J, Dyomina K, Parsa NZ, Cigudosa JC, Louie DC, Popplewell
+  L, Offit K, Jhanwar SC and Chaganti RS.
+contact:
+  email: phrao@txccc.org
+  name: Pulivarthi H. Rao
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:9639522
+geo_data:
+  geo_json:
+    coordinates:
+    - -74.01
+    - 40.71
+    type: Point
+  info:
+    city: New York City
+    continent: North America
+    country: United States
+    label: New York City, United States, North America
+    precision: city
+journal: 'Blood 92, 1 (1998): 234-40.'
+label: 'Rao et al. (1998): Chromosomal and Gene Amplification in Diffuse Large B-Cell
+  Lymphoma.'
+notes: ~
+pmid: 9639522
+title: Chromosomal and Gene Amplification in Diffuse Large B-Cell Lymphoma.
+year: 1998

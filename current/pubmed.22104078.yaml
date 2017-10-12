@@ -1,0 +1,49 @@
+---
+abstract: Follicular lymphoma FL cases with a t 14 18 q32 q21 and minimal or no additional
+  karyotypic alterations, such as copy number gains and losses and or chromosomal
+  rearrangements, may exhibit pathologic features and a clinical behavior similar
+  to those with more complex karyotypes. This study sought to investigate whether
+  the copy-neutral loss of heterozygosity cnLOH profiles of these minimally evolved
+  t 14 18 q32 q21 -positive follicular lymphoma MEV-FL cases are similar to or different
+  from the majority of FL cases with more karyotypic alterations. Affymetrix SNP 6.0
+  array analysis was applied to the tumor genomes of 23 MEV-FL biopsy samples to assess
+  for the presence of cnLOH. These cases carried either a single or no chromosomal
+  abnormality in addition to t 14 18 q32 q21 as determined by karyotyping. We found
+  that, although these MEV-FL cases had simple karyotypes, they showed very similar
+  cnLOH profiles as compared to cytogenetically complex cases. The most frequent regions
+  affected by cnLOH were 1p 17 , 6p 17 , 12q 13 and 16p 13 . Our study suggests that
+  cnLOH alterations may serve as important contributors to the pathological and clinical
+  manifestations of FL.
+authors: Cheung KJ, Rogic S, Ben-Neriah S, Boyle M, Connors JM, Gascoyne RD and Horsman
+  DE.
+contact:
+  email: kjcheungjr@bccancer.bc.ca
+  name: K-John Cheung
+counts:
+  biosamples: 23
+  samples_acgh: 23
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:22104078
+geo_data:
+  geo_json:
+    coordinates:
+    - -123.12
+    - 49.25
+    type: Point
+  info:
+    city: Vancouver
+    continent: North America
+    country: Canada
+    label: Vancouver, Canada, North America
+    precision: city
+journal: 'Cytogenet Genome Res 136, 1 (2012): 38-43.'
+label: 'Cheung et al. (2012): Snp Analysis of Minimally Evolved T(14;18)(Q32;Q21)-Positive
+  Follicular Lymphomas Reveals a Common ...'
+notes: ~
+pmid: 22104078
+title: Snp Analysis of Minimally Evolved T(14;18)(Q32;Q21)-Positive Follicular Lymphomas
+  Reveals a Common Copy-Neutral Loss of Heterozygosity Pattern.
+year: 2012

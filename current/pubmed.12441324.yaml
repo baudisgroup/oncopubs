@@ -1,0 +1,39 @@
+---
+abstract: Previous studies have demonstrated that ingestion of arsenic in drinking
+  water is a strong risk factor for several forms of cancer, including bladder cancer.
+  It is not known whether arsenic-related cancers are genetically similar to cancers
+  in unexposed individuals or what mechanisms of carcinogenesis may underlie their
+  formation. This study was designed to compare chromosomal alterations in bladder
+  cancers of arsenic-exposed individuals to provide insight into the mechanism of
+  how arsenic may induce or promote cancer.
+authors: Moore LE, Smith AH, Eng C, Kalman D, DeVries S, Bhargava V, Chew K, Moore
+  D 2nd, Ferreccio C, Rey OA and Waldman FM.
+contact:
+  email: ahsmith@uclink4.berkeley.edu
+  name: Allan H. Smith
+counts:
+  biosamples: 123
+  samples_acgh: 0
+  samples_ccgh: 123
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:12441324
+geo_data:
+  geo_json:
+    coordinates:
+    - -122.27
+    - 37.87
+    type: Point
+  info:
+    city: Berkeley
+    continent: North America
+    country: United States
+    label: Berkeley, United States, North America
+    precision: city
+journal: 'J Natl Cancer Inst 94, 22 (2002): 1688-96.'
+label: 'Moore et al. (2002): Arsenic-Related Chromosomal Alterations in Bladder Cancer.'
+notes: ~
+pmid: 12441324
+title: Arsenic-Related Chromosomal Alterations in Bladder Cancer.
+year: 2002

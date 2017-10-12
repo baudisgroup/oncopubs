@@ -1,0 +1,63 @@
+---
+abstract: Although several cytogenetic events of the tumor progression cascade have
+  been identified in the past, the specific types of chromosomal alterations that
+  lead to the development of lymph node metastases are still unknown. Operative specimens
+  of 20 patients 10 patients with metastasizing tumors, 10 patients with nonmetastasizing
+  tumors with squamous cell carcinomas of the oropharynx and hypopharynx, along with
+  the corresponding lymph node metastases, were investigated by quantitative DNA measurements
+  and comparative genomic hybridization CGH . Nonmetastasizing tumors N0 displayed
+  overrepresentations on chromosomes 10q 8 cases 5p 7 cases 3q and 20q 6 cases each
+  8q 5 cases 1p and 21q 4 cases each 7p and 20p 3 cases each and 2p, 15q, and 19q
+  2 cases each . Loss of chromosomal material was found on 5q, 9p, and 14q 2 cases
+  each . Metastasizing tumors N demonstrated overrepresentations on chromosomes 5p,
+  15q, and 22q 6 cases each 3q and 11q13 5 cases each 20p and 21q 4 cases each and
+  10q 3 cases . In 2 cases, an overrepresentation of the chromosomal arm 3q was accompanied
+  by a loss of chromosomal arm 3p. Less frequent overrepresentations were observed
+  on chromosomes 1q and 17q. Deletions were found on chromosomes 18q 3 cases , 3p,
+  4q, 5q, and 19p 2 cases each and sporadic deletions occurred on 2q, 6q, 8p, 9p,
+  10p, 13q, 14q, 15q, and 16q. Whereas overrepresentations on chromosomes 1p and 7p
+  occurred exclusively in N0 tumors, overrepresentations on chromosomes 1q, 11q, and
+  22q, along with deletions on 18q, were only observed in N tumors. Quantitative DNA
+  measurements revealed a significantly higher percentage of aneuploid cells and a
+  higher degree of DNA entropy in the N tumors. Chromosomal overrepresentations on
+  chromosomes 1q, 8q, 11q, 18q, and 19q occurred more frequently in the metastases
+  than in the corresponding primary tumors. Pairwise analysis of chromosomal alterations
+  in the primary tumors and associated lymph node metastases revealed a genetic relationship,
+  although a greater number of chromosomes on average were affected in the lymph node
+  metastases. Quantitative DNA measurements demonstrated greater aneuploid values
+  in the metastases. Recurring patterns of chromosomal alterations in N0 and N tumors
+  were demonstrated in this study. In general, metastasizing tumors are characterized
+  by overrepresentations on chromosomes 11q13 and 22q, and deletions on 18q. These
+  aberrations suggest an elevation along the tumor progression cascade.
+authors: Welkoborsky HJ, Bernauer HS, Riazimand HS, Jacob R, Mann WJ and Hinni ML.
+contact:
+  email: ~
+  name: ~
+counts:
+  biosamples: 20
+  samples_acgh: 0
+  samples_ccgh: 20
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:10778896
+geo_data:
+  geo_json:
+    coordinates:
+    - 9.73
+    - 52.37
+    type: Point
+  info:
+    city: Hannover
+    continent: Europe
+    country: Germany
+    label: Hannover, Germany, Europe
+    precision: city
+journal: 'Ann Otol Rhinol Laryngol 109, 4 (2000): 401-10.'
+label: 'Welkoborsky et al. (2000): Patterns of Chromosomal Aberrations in Metastasizing
+  and Nonmetastasizing Squamous Cell ...'
+notes: ~
+pmid: 10778896
+title: Patterns of Chromosomal Aberrations in Metastasizing and Nonmetastasizing Squamous
+  Cell Carcinomas of the Oropharynx and Hypopharynx.
+year: 2000

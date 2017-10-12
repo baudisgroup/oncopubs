@@ -1,0 +1,50 @@
+---
+abstract: We recently demonstrated that the prognosis for de novo CD5-positive CD5
+  diffuse large-B-cell lymphoma DLBCL is markedly worse than that for CD5-negative
+  CD5- DLBCL. Our findings also suggested that on the basis of its clinical features
+  CD5 DLBCL may constitute a unique disease category. However, the genetic basis for
+  these two categories has not been established. Therefore, we performed comparative
+  genomic hybridization analysis CGH of 26 cases of CD5 DLBCL and 44 cases of CD5-
+  DLBCL. Several identical changes in CD5 and CD5- DLBCLs were found, such as gains
+  of 3q, 9p, 12q, 13q, and 18q and losses of 1p, 6q, 17p, and 19p. However, distinct
+  differences between the two categories were also detected. These included gains
+  of 11q21-q24 P 0.032 and 16p P 0.005 in CD5 DLBCL, and loss of 16p P 0.028 in CD5-
+  DLBCL. A comparison with results reported for mantle cell lymphoma, chronic lymphocytic
+  leukemia, and Richters syndrome demonstrated that the CGH pattern of CD5 DLBCL was
+  markedly different. This indicates that CD5 DLBCL constitutes a disease category
+  distinct from that of CD5- DLBCL and other CD5 malignancies.
+authors: Karnan S, Tagawa H, Suzuki R, Suguro M, Yamaguchi M, Okamoto M, Morishima
+  Y, Nakamura S and Seto M.
+contact:
+  email: mseto@aichi-cc.jp
+  name: Masao Seto
+counts:
+  biosamples: 70
+  samples_acgh: 0
+  samples_ccgh: 70
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:14603444
+geo_data:
+  geo_json:
+    coordinates:
+    - 136.91
+    - 35.18
+    type: Point
+  info:
+    city: Nagoya-shi
+    continent: Asia
+    country: Japan
+    label: Nagoya-shi, Japan, Asia
+    precision: city
+journal: 'Genes Chromosomes Cancer 39, 1 (2004): 77-81.'
+label: 'Karnan et al. (2004): Analysis of Chromosomal Imbalances in De Novo Cd5-Positive
+  Diffuse Large-B-Cell Lymphoma Detected ...'
+notes: In the article, the table headers for gains and losses are exchanged; the figures
+  are correct. This was detected through clustering of all database NHLs, where the
+  cases dropped out of the normal patterns ... (corrected 2004-12-03)
+pmid: 14603444
+title: Analysis of Chromosomal Imbalances in De Novo Cd5-Positive Diffuse Large-B-Cell
+  Lymphoma Detected By Comparative Genomic Hybridization.
+year: 2004

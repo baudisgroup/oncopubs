@@ -1,0 +1,57 @@
+---
+abstract: Desmoid tumours also called deep or aggressive fibromatoses are potentially
+  life-threatening fibromatous lesions. Hereditary desmoid tumours arise in individuals
+  affected by either familial adenomatous polyposis FAP or hereditary desmoid disease
+  HDD carrying germline mutations in APC. Most sporadic desmoids carry somatic mutations
+  in CTNNB1. Previous studies identified losses on 5q and 6q, and gains on 8q and
+  20q as recurrent genetic changes in desmoids. However, virtually all genetic changes
+  were derived from sporadic tumours. To investigate the somatic alterations in FAP-associated
+  desmoids and to compare them with changes occurring in sporadic tumours, we analysed
+  17 FAP-associated and 38 sporadic desmoids by array comparative genomic hybridisation
+  and multiple ligation-dependent probe amplification. Overall, the desmoids displayed
+  only a limited number of genetic changes, occurring in 44 of cases. Recurrent gains
+  at 8q 7 and 20q 5 were almost exclusively found in sporadic tumours. Recurrent losses
+  were observed for a 700 kb region at 5q22.2, comprising the APC gene 11 , a 2 Mb
+  region at 6p21.2-p21.1 15 , and a relatively large region at 6q15-q23.3 20 . The
+  FAP-associated desmoids displayed a significantly higher frequency of copy number
+  abnormalities 59 than the sporadic tumours 37 . As predicted by the APC germline
+  mutations among these patients, a high percentage 29 of FAP-associated desmoids
+  showed loss of the APC region at 5q22.2, which was infrequently 3 seen among sporadic
+  tumours. Our data suggest that loss of region 6q15-q16.2 is an important event in
+  FAP-associated as well as sporadic desmoids, most likely of relevance for desmoid
+  tumour progression.
+authors: Robanus-Maandag E, Bosch C, Amini-Nik S, Knijnenburg J, Szuhai K, Cervera
+  P, Poon R, Eccles D, Radice P, Giovannini M, Alman BA, Tejpar S, Devilee P and Fodde
+  R.
+contact:
+  email: ~
+  name: Els Robanus-Maandag
+counts:
+  biosamples: 55
+  samples_acgh: 55
+  samples_ccgh: 0
+  samples_wes: 0
+  samples_wgs: 0
+external_identifiers:
+- pubmed:21931686
+- geo:GSE28458
+geo_data:
+  geo_json:
+    coordinates:
+    - 4.5
+    - 52.16
+    type: Point
+  info:
+    city: Leiden
+    continent: ~
+    country: The Netherlands
+    label: Leiden, The Netherlands
+    precision: city [needs verification]
+journal: 'PLoS One 6, 9 (2011): e24354.'
+label: 'Robanus-Maandag et al. (2011): Familial Adenomatous Polyposis-Associated Desmoids
+  Display Significantly More Genetic ...'
+notes: ~
+pmid: 21931686
+title: Familial Adenomatous Polyposis-Associated Desmoids Display Significantly More
+  Genetic Changes Than Sporadic Desmoids.
+year: 2011
