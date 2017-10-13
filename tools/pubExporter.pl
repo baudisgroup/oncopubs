@@ -131,11 +131,11 @@ for my $i (0..$#{ $pgPMIDs }) {
     $pubDump->{geo_data}        =  {
       geo_json  =>  $pub->{geo_data}->{geo_json},
       info      =>  {
-        city    =>  $pub->{geo_data}->{info}->{city},
-        country =>  $pub->{geo_data}->{info}->{country},
+        city            =>  $pub->{geo_data}->{info}->{city},
+        country         =>  $pub->{geo_data}->{info}->{country},
         continent       =>  $pub->{geo_data}->{info}->{continent},
         precision       =>  $pub->{geo_data}->{geo_precision},
-        label   =>  $pub->{geo_data}->{geo_label},
+        label           =>  $pub->{geo_data}->{geo_label},
       },
     };
   }
@@ -189,6 +189,7 @@ sub _checkPathsExit {
 
   my ($currentPubs, $inPubs, $excludePubs)      =   @_;
   my $checkPaths  =   1;
+
   foreach ($currentPubs, $inPubs, $excludePubs) {
     if (! -d $_) {
       print <<END;
@@ -196,8 +197,9 @@ sub _checkPathsExit {
 An existing "$_" directory has to exist.
 
 END
-      $checkPaths =   -1;
+      $checkPaths       =   -1;
     }
+
     if ($checkPaths < 1) { exit }
 
   }
@@ -215,7 +217,7 @@ sub _getCancertypes {
 
   # cancertype currently using SEER
   if ($pub->{CANCERTYPE} =~ /^seer\s(\d{5})\:\s*?(\w.*?)$/) {
-    $bioOntologies{ 'seer:'.$1 } =   { term_id => $1, term_label => $2 } }
+    $bioOntologies{ 'seer:'.$1 } =   { term_id => 'seer:'.$1, term_label => $2 } }
 
   # from samples ...
   my @dblabels  =   qw(arraymap progenetix);
