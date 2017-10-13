@@ -10,3 +10,6 @@ Monitored technologies include:
 * "WGS" - whole genome sequencing
 
 The data is represented through the [publications portal](http://progenetix.org/publications/) of the Progenetix website.
+
+To contribute to the extension of this repository minimal data is required. PMID, number of samples and technologies should be provided in a Yaml file format. Templates can be found under the _incoming_ directory where new files can be uploaded. All contributions will be reviewed by our group and then included in our database.
+
