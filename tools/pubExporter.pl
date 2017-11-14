@@ -155,10 +155,9 @@ for my $i (0..$#{ $pgPMIDs }) {
     if ($args{'-filetype'} =~ /json/) {
       open (FILE, ">:utf8", $pubFile);
       print	FILE  JSON::XS->new->pretty( 1 )->allow_blessed->convert_blessed->encode($pubDump);
-      close FILE;
-    } else {
-      YAML::XS::DumpFile($pubFile, $pubDump);
-    }
+      close FILE }
+		else {
+      YAML::XS::DumpFile($pubFile, $pubDump) }
   }
 
   $progress_bar->update($i);
