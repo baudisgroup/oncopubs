@@ -1,0 +1,26 @@
+PMID	acgh	ccgh	genomes	ngs	progenetix	wes	wgs	provenance	provenance_id	status	sample_types	tumor_names	note
+34103027	79	0	79	0	0	0	0	new haven	newhaven::unitedstates		C3099,79	Hepatocellular Carcinoma 	0
+34059130	0	0	118	118	0	5	113	new york city	newyorkcity::unitedstates		C3482,118	Metastatic Carcinoma	0
+34026625	0	0	200	200	0	200	0	siena	siena::italy		C4872,200	Breast Carcinoma	0
+34012790	0	0	41	41	0	41	0	shanghai	shanghai::china		C4917,41	Lung Small Cell Carcinoma 	0
+33987408	0	0	12	12	0	12	0	chengdu	chengdu::china		C4908,12	Ovarian Carcinoma	0
+33589643	0	0	114	114	0	114	0	california	sandiego::unitedstates		C2956,114	Colorectal Neoplasm	0
+33963182	0	0	29	29	0	0	29	st louis	stlouis::unitedstates		C3242,29	Plasma Cell Myeloma	0
+33948563	0	0	222	222	0	222	0	Los Angeles	losangeles::unitedstates		C3268,222	Nervous System Neoplasm	0
+33924443 	0	0	78	78	0	78	0	dijon	dijon::france		C8294,78	Pancreatic Adenocarcinoma	0
+33920370	0	0	10	10	0	10	0	taipei	taipei::taiwan		C4872,10	Breast Carcinoma	0
+32802958 	0	0	91	91	0	91	0	boston	boston::unitedstates		C4878,91	Lung Carcinoma	0
+32974170	0	0	28	28	0	28	0	bangalore	bangalore::india		C4024,28	Esophageal Squamous Cell Carcinoma 	0
+33057009	0	0	80	80	0	0	80	sutton	sutton::unitedkingdom		C3242,80	 Plasma Cell Myeloma	0
+33157517	0	0	27	27	0	0	27	beijing	beijing::china		C9385,27	Renal Cell Carcinoma	0
+32650480 	0	0	50	50	0	50	0	Los Angeles	losangeles::unitedstates		C4872,50	Breast Carcinoma	0
+33378353	0	0	65	65	0	65	0	Lexington	lexington::unitedstates		C7558,65	 Endometrial Carcinoma	0
+33206936 	0	0	17	17	0	0	17	oxford	oxford::unitedkingdom		C3163,17	Chronic Lymphocytic Leukemia 	0
+33767857	0	0	13	13	0	13	0	busan	busan::koreanrepublic		C3268,13	Nervous System Neoplasm	0
+33747936 	0	0	25	25	0	25	0	xian	xian::china		C8936,25	 B Lymphoblastic Leukemia/Lymphoma	0
+33732635	0	0	8	8	0	8	0	suwon	suwonsi::koreanrepublic		C9131,8	Mucinous Breast Carcinoma 	0
+33643802	0	0	186	186	0	186	0	shanghai	shanghai::china		C4917,41;C2926,145	Lung Small Cell Carcinoma, Lung Non-Small Cell Carcinoma	0
+33512416	0	0	21	21	0	21	0	nagoya	nagoyashi::japan		C8936,21	 B Lymphoblastic Leukemia/Lymphoma	0
+33168091	0	195	195	0	0	0	0	Lyon	lyon::france		C94540,195	Anterior Pituitary Gland Endocrine Neoplasm	0
+33178606	0	123	315	192	0	161	31	beijing	beijing::china		C4024,315	Esophageal Squamous Cell Carcinoma	0
+33466343	0	0	83	83	0	83	0	new york	newyorkcity::unitedstates		C7541,83	Retinoblastoma 	0
