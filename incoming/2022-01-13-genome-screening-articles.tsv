@@ -1,0 +1,3 @@
+#	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.genomes	contact.name	contact.email	contact.affiliation	#provenance_id	status	#sample_types	note	progenetix_use	progenetix_curator
+#	12345678	0	101	0	10	101	Ion Tichy	ion.tichy@galacticstate.arcturius	Galactic State University, Arcturius System	lemcity::milkyway		NCIT:C3099::Hepatocellular Carcinoma::79;NCIT:C3246::Mycosis Fungoides::22	example data line, commented	no	Michael Baudis
+	34808593	0	14	0	0	14	James Kalmuk	kalmuk@musc.edu	Department of Hematology-Oncology, Walton Research Building, Medical University of South Carolina	charleston::unitedstates		NCIT:C3163::Chronic Lymphocytic Leukemia::14		yes	Michael Baudis
