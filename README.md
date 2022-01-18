@@ -111,3 +111,18 @@ The field should be left empty - or labeled `yes` in case of Progenetix use.
 #### `progenetix_curator`
 
 Name of the person providing the entry.
+
+## Progenetix `publications` update procedure (locally...)
+
+To insert/update the Progenetix publications database one uses the `publicationsInserter.py` script from the [`byconeer` package](http://github.com/progenetix/byconeer/) and points it to the local version of an updated publication table. The script will fetch the extended information for the PMIDs (authors, title, abstract ...), combine those with the table annotations and create database entries (which become immediately available online if run on the Progenetix server).
+
+Example:
+
+```
+./publicationsInserter.py -i ~/Github/oncopubs/incoming/2022-01-13-genome-screening-articles.tsv
+```
+
+#### Options:
+
+* `-u 1` overwrites existing records with the same PMIDs, e.g. after adding/correcting annotations
+* `-t 1` activates a test mode (JSON of data is shown but not inserted)
