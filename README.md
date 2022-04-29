@@ -73,7 +73,7 @@ Institution of (one of) the corresponding author(s). Optional.
 The geo key used to identify the city of origin. This can be looked up using the
 [bycon services API](https://info.progenetix.org/doc/services/geolocations.html):
 
-* use the URL `https://progenetix.org/services/geolocations?city=` with an added city / start of city name (e.g. `New`)
+* use the URL `https://progenetix.org/services/geolocations?output=text&city=` with an added city / start of city name (e.g. `New`)
   - <https://progenetix.org/services/geolocations?output=text&city=New>
 * scroll the response for the correct location & copy the `id` value
   - e.g. `newcastleupontyne::unitedkingdom`
@@ -87,8 +87,7 @@ but use the Progenetix resource (`excluded [Progenetix use]`).
 #### `#sample_types`
 
 This field is for adding information about the _approximate_ diagnoses of the analyzed
-cancer samples using the NCIt neoplasm codes. The codes themselves can be [found
-on the Progenetix website](https://progenetix.org/subsets/biosubsets/?filters=NCIT).
+cancer samples using the NCIt neoplasm codes. The codes themselves can be [retrieved through the Progenetix services API](https://progenetix.org/services/collations/?collationTypes=NCIT&output=text).
 
 The format is `__NCIT code__::__label__::__count__`. If several tumor diagnoses are
 included one can use several of those "blocks" and concatenate them with a `semicolon`.
