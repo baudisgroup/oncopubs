@@ -71,7 +71,7 @@ Institution of (one of) the corresponding author(s). Optional.
 #### `#provenance_id`
 
 The geo key used to identify the city of origin. This can be looked up using the
-[bycon services API](https://info.progenetix.org/doc/services/geolocations.html):
+[bycon services API](https://docs.progenetix.org/services/#geographic-locations-cities-geolocations):
 
 * use the URL `https://progenetix.org/services/geolocations?output=text&city=` with an added city / start of city name (e.g. `New`)
   - <https://progenetix.org/services/geolocations?output=text&city=New>
