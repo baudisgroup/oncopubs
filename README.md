@@ -74,7 +74,7 @@ The geo key used to identify the city of origin. This can be looked up using the
 [bycon services API](https://info.progenetix.org/doc/services/geolocations.html):
 
 * use the URL `https://progenetix.org/services/geolocations?city=` with an added city / start of city name (e.g. `New`)
-  - <https://progenetix.org/services/geolocations?city=New>
+  - <https://progenetix.org/services/geolocations?output=text&city=New>
 * scroll the response for the correct location & copy the `id` value
   - e.g. `newcastleupontyne::unitedkingdom`
 
