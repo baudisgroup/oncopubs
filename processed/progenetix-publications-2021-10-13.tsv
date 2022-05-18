@@ -1,4 +1,4 @@
-#	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.ngs	counts.genomes	contact.name	contact.email	contact.affiliation	#provenance_id	status	#sample_types	note	progenetix_use	progenetix_curator
+skip	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.ngs	counts.genomes	contact.name	contact.email	contact.affiliation	PROVENANCE_ID	status	SAMPLE_TYPES	note	progenetix_use	progenetix_curator
 #	34103027	0	79	0	0	0	79	Peining Li	peining.li@yale.edu	Department of Genetics, School of Medicine, Yale University, New Haven, Connecticut	newhaven::unitedstates		NCIT:C3099::Hepatocellular Carcinoma::79		no	Michael Baudis
 	34059130	0	0	5	113	118	118				newyorkcity::unitedstates		C3482::Metastatic Carcinoma::118		no	Sofia Pfund
 	34285259	0	0	10	0	10	10				washingtondc::unitedstates		C4024::Esophageal Squamous Cell Carcinoma::10		no	Sofia Pfund

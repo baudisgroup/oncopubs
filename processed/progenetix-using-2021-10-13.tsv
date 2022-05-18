@@ -1,4 +1,4 @@
-#	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.ngs	counts.genomes	contact.name	contact.email	contact.affiliation	#provenance_id	status	#sample_types	note	progenetix_use	progenetix_curator
+skip	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.ngs	counts.genomes	contact.name	contact.email	contact.affiliation	PROVENANCE_ID	status	SAMPLE_TYPES	note	progenetix_use	progenetix_curator
 #	23457519	0	42	0	0	0	42	Shunichi Yoshioka		"Department of Molecular Pathology, Faculty of Medicine, Oita University"					yes	
 #	33692831	0	0	0	0	0	0				tiruchirappalli::india	excluded [bioinformatics] 			yes	Michael Baudis
 #	33406109	0	0	0	0	0	0				zurich::switzerland	excluded [text mining] 			yes	Michael Baudis

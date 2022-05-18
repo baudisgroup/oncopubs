@@ -68,7 +68,7 @@ email of (one of) the corresponding author(s). Optional.
 
 Institution of (one of) the corresponding author(s). Optional.
 
-#### `#provenance_id`
+#### `PROVENANCE_ID`
 
 The geo key used to identify the city of origin. This can be looked up using the
 [bycon services API](https://docs.progenetix.org/services/#geographic-locations-cities-geolocations):
@@ -84,7 +84,7 @@ The status is mostly for internal use, e.g. labeling publications as `excluded [
 One direct use case is the collection of articles which may not have original data
 but use the Progenetix resource (`excluded [Progenetix use]`).
 
-#### `#sample_types`
+#### `SAMPLE_TYPES`
 
 This field is for adding information about the _approximate_ diagnoses of the analyzed
 cancer samples using the NCIt neoplasm codes. The codes themselves can be [retrieved through the Progenetix services API](https://progenetix.org/services/collations/?collationTypes=NCIT&output=text).

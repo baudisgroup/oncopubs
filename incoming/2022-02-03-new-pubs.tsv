@@ -1,4 +1,4 @@
-#	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.genomes	contact.name	contact.email	contact.affiliation	#provenance_id	status	#sample_types	note	progenetix_use	progenetix_curator
+skip	pubmedid	counts.ccgh	counts.acgh	counts.wes	counts.wgs	counts.genomes	contact.name	contact.email	contact.affiliation	PROVENANCE_ID	status	SAMPLE_TYPES	note	progenetix_use	progenetix_curator
 #	12345678	0	101	0	10	101	Ion Tichy	ion.tichy@galacticstate.arcturius	Galactic State University, Arcturius System	lemcity::milkyway		NCIT:C3099::Hepatocellular Carcinoma::79;NCIT:C3246::Mycosis Fungoides::22	example data line, commented	no	Michael Baudis
 #	25245118	0	9	0	173	173	Bauke Ylstra	b.ylstra@vumc.nl	Department of Pathology, VU University Medical Center, 1007 MB Amsterdam	amsterdam::netherlands		NCIT:C132067::Low Grade Glioma::173		no	Michael Baudis
 #	19330026	0	42	0	0	42	Donna G Albertson		Cancer Research Institute, University of California San Francisco	sanfrancisco::unitedstates		NCIT:C4872::Breast Carcinoma::42	only partial genome coverage	no	Michael Baudis
